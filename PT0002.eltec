@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PT0002" xml:lang="pt">   
+<teiHeader >
+<fileDesc>
+     <titleStmt>
+        <title>A feiticeira</title>
+        <author>Castro Osório, Ana de (1839-1871)</author>
+        <respStmt>
+           <resp>Original HTML capture</resp>
+       <name>Pedro Saborano</name>
+       </respStmt>
+       <respStmt>
+         <resp>ELTeC encoding</resp>
+         <name>Diana Santos</name>
+      </respStmt>
+   </titleStmt>
+<extent>
+<measure unit="words">8031</measure>
+<measure unit="pages">1</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>31 de agosto de 2018</date>. </p>
+</publicationStmt>
+
+  <sourceDesc>
+  <bibl>
+     <title>Project Gutenberg EBook Quatro Novelas, de Ana de Castro Osório</title>
+     <ref target="http://www.gutenberg.org/ebooks/29968"/>
+     <relatedItem type="copyText">
+       <bibl>
+       <title>Quatro Novelas</title>
+       <author>Ana de Castro Osório</author>
+       <publisher>Typographia França Amado</publisher>
+       <pubPlace>Coimbra</pubPlace>
+       <date>1908</date>
+       </bibl>
+     </relatedItem> 
+  </bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-0">
+<p></p>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2018-09-20">DMS fixed up header</change> 
+</revisionDesc>
+</teiHeader>
+
+
+<text xml:lang="pt-PT">
+<front>
+<div type="titlePage"><head>A Feiticeira</head>
+</div>
+</front>
+<body>
+<pb/>
+<div>
+<head>A FEITICEIRA</head>
+<quote>
+<l>    «La peur qui met dans les chemins</l>
+<l>    Des personnages surhumains</l>
+<l>    La peur aux invisibles mains qui revet l'arbre</l>
+<l>    D'une carcasse ou d'un linceul</l>
+<l>    Qui fait trembler comme un aïeul</l>
+<l>    Et qui vous rend, quand on est seul,</l>
+<l>    Blanc comme un marbre.»</l>
+<l>                        MAURICE ROLLINAT.</l>
+</quote>
+<p>De todos os rapazes da aldeia era o Manoel da Clara o mais querido das raparigas.</p>
+<p>Fôra sempre um belo rapaz de afugentar rivais, mas, desde que viera da tropa e de lá trouxera aquelle ar desdenhoso de feliz D. João, aprendido no convivio dos camaradas presunçósos e mulheres de vida airada, parece que as enlouquecia.</p>
+<p>Acostumado a ajustar a farda, como apertava bem a cinta de lã preta ou carmezim, que parecia trazer espartilho, o démo do rapaz!</p>
+<p>Os sapatos com o lustro bem puxado, que pareciam de verniz; o chapéo garbosamente descahido sobre a esquerda; a ponta do cigarro atraz da orelha; e o lenço, com flôres e uma legenda bordadas a côres vivas, a sahir da pequena algibeira da jaqueta, as mais das vezes levada ao hombro; o Manoel era na verdade a nata da rapaziada do logar.</p>
+<p>No meio dos outros, com as suas caras rapadas de lôrpas, valentes mas sem a elegancia dos gestos disciplinados pelo exercicio regular, o seu pequeno bigode de cidadão retorcia-se aos domingos com uma petulancia irresistivel.</p>
+<p>Nas feiras e romarias, firmado no varapau metido debaixo do braço, toda a vaidade satisfeita a brilhar-lhe nos inquietos olhitos garços, desafiava toda a concorrencia desagradavel. Ás raparigas iam-se-lhes os olhos nelle, e mediam-se com o rancôr de rivalidades latentes.</p>
+<p>E valentão!? -- como aquilo poucos! E, como sempre, era a superioridade material da força e da coragem o que mais o fazia valer aos olhos de primitivas femeas, oferecendo-se orgulhosamente ao vencedor, ao macho forte e soberbo.</p>
+<p>Quando o Manoel, com um rapido piparote atirava para a nuca o chapéo móle de largas abas, dava um passo atraz, fazia girar o varapau em sarilho sobre a cabeça, e torcia a bôca espumante num esgare de raiva... podiam fugir delle!</p>
+<p>Contavam-se na aldeia as valentias do Manoel com o mesmo entusiasmo e ufanía com que se contariam as de um heroi da historia, um heroi autêntico, de que a tradição nos deixasse o nome e a memoria de largos feitos.</p>
+<p>Uma vez era todo o povo de Infias que se juntara para o desafiar, raivosos por uma questão de mulheres de que o Manoel era afortunado protogonista, e que elle «enfiara» pela serra abaixo -- que até parecia que o vento os levava.</p>
+<p>«Ó Manoel, lembras-te?...</p>
+<p>«E daquella vez na romaria da Senhora dos Verdes?...</p>
+<p>«E na feira, quando foi da compra dos meus bois?!...</p>
+<p>As perguntas, as respostas, as diferentes versões e comentarios, envolviam o Manoel num côro de louvôres, que elle recebia mal disfarçando a vaidade num meio sorriso modesto emquanto ia enrolando o cigarro entre os dedos fortes onde brilhava um anel de cobra, o encanto e a inveja dos mais rapazes.</p>
+<p>No jogo da bola, ao domingo, no terreiro da igreja, nenhum o excedia, como ninguem era capaz de o vencer numa partida de chinquilho ou no jogo do pau. Um valentão, um rapaz ás direitas, sempre pronto a fazer um favôr, riso franco, coração nas mãos para os amigos; ninguem emfim mais digno da estima dos seus patricios e ninguem que de facto fosse mais estimado do que o Manoel da Clara.</p>
+<p>Álêm de todos estes merecimentos fisicos, que o superiorisavam, ainda era senhor de algumas belgas, e unico herdeiro da meação da mãe, a viuva do Rezadeira, que ajuntara o seu peculiosito na «casa dos fidalgos». E era uma mulher de trabalho, a velha Clara do Rezadeira, que só tinha olhos e coração para o filho, o seu enlevo e orgulho. Primeiro do que ninguem, como o galo da manhã, saltava da cama, onde a asfixia dum coração emperrado mal a deixava socegar, e começava a labuta de todos os dias: amassando o pão, chegando ao forno a prevenir a forneira, cosinhando a vianda para os cevados, chamando a gente para o trabalho, despachando serviço, ralhando com um, combinando com outro, e sem nunca perder de vista a panela onde se cosiam as batatas para o caldo verde que o seu Manoel havia de comer antes de sahir, na sua tigela bem meada de brôa. Mal elle aparecia, ainda espreguiçando-se e os olhos mal abertos mas já risonho e feliz como soberano que se julga crédor de todos os afétos e homenagens, a vélhota aprontava tudo num ápice, rindo e ralhando num visivel contentamento de quem se revia no rapagão, que era o seu filho.</p>
+<p>É claro que não havia rapariga na aldeia e arredores á qual não agradasse a ideia de poder vir a sêr a mulher estimada do Manoel, a senhora do seu coração e do rico bragal de linho que a velha mãe guardava avaramente nos grandes arcazes de madeira de fóra, grossamente chapeados de ferro.</p>
+<p>Elle ria-se com todas, o patife, querendo gosar o mais possivel a sua situação de desejado, sem até ahi mostrar preferencias comprometedoras por nenhuma.</p>
+<p>Mas, entre todas, havia duas que nos últimos tempos mais preocupavam o Manoel, com grande contentamento da mãe que ansiava por o vêr casado com rapariga que fosse do seu calhar: -- só assim morreria descansada, pois uma cabeça alevantada como a delle precisava bem do arrimo duma bôa mulher de trabalho.</p>
+<p>Por felicidade, as duas raparigas que o Manoel trazia debaixo de vista agradavam por igual á velha Clara -- assim tinha liberdade para á vontade consultar o coração.</p>
+<p>Uma, Maria Tereza -- a Terezinha, como lhe chamava quando acertava de a topar no seu caminho -- era afilhada da «fidalga» e lá pelo palacio se tinha criado com mimos e delicadezas que as outras não conheciam. Era com uma graça toda senhoril que punha os olhos no chão e enrubecia como romã bem madura quando elle a fitava de frente, bem de frente, como fazia ás mais, sem conseguir com isso chamar-lhes o sangue ao rosto, mas fazê-las explodir em jocundas gargalhadas. O seu andar lento e ondulado dava um realce de elegancia exotica ao seu corpo delgado de anemica, flôr tristemente desabrochada entre paredes sombrias e velhas coisas impregnadas da melancolia dos tempos passados. Como era a unica que na terra sabia lêr, eram tambem os seus os unicos olhos que na missa se não levantavam do livro para andarem em leilão pela igreja á procura dos rapazes, que lá de longe, e de soslaio, não perdiam o grupo buliçoso da raparigada.</p>
+<p>A madrinha queria-lhe muito, era o que todos afirmavam, e se não tivesse morrido nem a Terezinha sahia do palacio, onde era respeitada como filha da casa, e, talvez, se a morte não fosse repentina, tivesse ficado senhora daquella fortuna, quem sabe!?... Tem-se visto coisas mais raras. E melhor teria sido para a terra, pois a casa dos fidalgos, que fôra sempre abrigo de miseraveis como consolação de desgraçados, mal a senhora morgada fechara os olhos fechara-se tambem á pobreza, com uma crueldade que revoltava toda a gente.</p>
+<p>Os herdeiros, uns primos em último gráu legal, souberam da sua morte sem testamento e acorreram de Lisbôa em marchas forçadas. Mas, tudo liquidado á pressa, apartaram gulosamente, para figurarem nos salões da capital, as preciosidades que enchiam e decoravam o velho solar. Durante alguns dias não se ouviu senão o martelar dos carpinteiros fazendo e pregando caixotes e não se via senão a moderna condessinha, muito prática em antiqualhas preciosas, abrir portas e armarios, percorrer os salões e os sotãos, dar volta ás paredes e ás bojudas cómodas de floreados embutidos, que seguiram com os candelabros, as joias, os quadros e os Sèvres ricos como os incontaveis Chinas para o sorvedoiro de Lisbôa. Depois, mal o Conde, com o seu ar mais chic de fadiga, deu por terminadas as contas e entregues as propriedades ao feitôr trazido das lezirias ribatejanas como pessôa de inteira confiança, fugiram atemorizados pela tristeza pesada e humida que resumbrava o casarão quasi deshabitado havia anos, desde que a fidalga se tolhêra de todo e passava os dias nos aposentos mais ensoalhados onde fizera a sua habitação e a da Terezinha, que lhe lia os autôres predilétos e a arrastava na cadeira de rodas pelas ruas ensombradas pelos buxos seculares do jardim.</p>
+<p>Verdade seja que a Senhora Condessa, sabendo o amôr que a velha prima dedicava á afilhada e a docilidade e o desinteresse com que ella a servira e cuidara até ao fim, ofereceu-lhe o logar de sua criada de quarto e obrigou o marido a pôr em seu nome algumas propriedades arredadas ou a arbitrar-lhe o seu valôr em dinheiro, coisa duns cem mil réis, para os seus alfinetes, o que a tornaria na aldeia uma pequena morgada.</p>
+<p>A Terezinha agradeceu cheia de reconhecimento a generosa munificencia da condessinha, a quem serviu, como ella nunca fôra servida, até á última hora que se demorou no palacio. Depois, quando se viu fóra do ninho onde a sua alma se emplumara e o seu corpinho debil de criança pobre crescêra e se tornara de mulher perfeita, sentiu-se como que isolada num vasto campo deserto.</p>
+<p>Mas, séria e ponderada como era, tomou logo a mais acertada resolução: indo viver com a tia, a Zéfa do Padre, uma que fazia belos dôces e fôra por muitos anos ama do velho abade. E para encher os dias, tão longos agora quanto lhe pareciam pequenos dantes a rodear de cuidados a madrinha paralitica, metêra-se a tecedeira. Em breve era a melhor, sem favôr, que havia na terra.</p>
+<p>O seu tear, no monotono bater do pedal e correr da lançadeira, só parava aos domingos e algumas horas da noite.</p>
+<p>Aquella vida de reclusão mais lhe amaciava a pele e dava um tom ligeiramente empalidecido ás suas feições miudas.</p>
+<p>-- «Mas era alegre dantes!... Agora, «dês» que o «Manél» da Clara veiu de soldado e entrou de atentar nella, é que de mais em mais se vai definhando, que nem já parece a mesma. Louvado seja Deus, que só trabalhos e desgostos me chegam «pró» fim da vida.</p>
+<p>Dizia isto a Zéfa do Padre á Gertrudes Zarôlha, velha conhecida dos longinquos tempos da mocidade, assentadas á porta, com a roca á cinta e o fuso girando e torcendo o linho cuspinhado pelas suas bôcas palreiras.</p>
+<p>-- «Mas então aquelle desaustinado não diz nada cá á nossa cachopa?!...</p>
+<p>-- «Qual historia! Que eu saiba, ainda não lhe disse fala «pró» bem nem «pró» mal.</p>
+<p>-- «Que desaforado! O que elle precisava sei eu!... Uma rapariga como a nossa Terezinha!... Crédo, santo nome de Jesus! Mal empregada é ella para tal libertino, que veiu mesmo perdido da tropa!...</p>
+<p>-- «Lá isso, ó Gertrudes, mau rapaz não é elle, e tem o seu bocadinho...</p>
+<p>-- «Ah, mas tem uma cabeça mais leve! No nosso tempo parece que não eram assim, ó Senhora Zéfa! Quando algum pretendia duma rapariga, dizia-lho, e estava acabado, iam «prá» igreja os banhos!...</p>
+<p>-- «Ora, eu sei lá! Haveria de tudo. Estas coisas esquecem muito, e o nosso tempo já lá vai ha tanto!...</p>
+<p>-- «Ai eu cá lembra-me perfeitamente, que o meu «home» assim fez. Foi até numa cava; calhou eu ficar ao pé delle, e fômos ao desafio. Como eu é que ganhei, elle então deu-me um abraço muito grande e disse-me assim: -- Ó Gertrudes, és uma mulher «duma cana_; ámanhã se tu quizeres vou falar ao senhor abade e «vame-nos a botar os pregões». E assim é que foi...</p>
+<p>-- «E eu que ainda me lembra do senhor abade vir p'ra casa a rir muito e a contar o caso á minha tia -- que Deus haja! Ainda ella então andava rija e «féra_, coitadinha.</p>
+<p>-- «Mas vocemecê já lá estava, pois não estava?</p>
+<p>-- «Pois estava, desde a idade de oito anos que fui p'rá companhia da minha tia até á idade dos cincoenta em que aquelle santo rendeu a alma a Deus! Ficou-me nos braços...</p>
+<p>-- «Coitadinho! Tão bom homem, tão sério, era como o nosso pai de todos. Veja lá se tudo não vai a peor! Olhe-me para o desatino em que este anda por ahi, com as raparigas e as mulheres dônas de sua casa, atraz, sempre em cantorias, e em rezas novas, que nem podem agradar a Nosso Senhor...</p>
+<p>-- «Já o dizia o senhor abade: a religião deve sêr a consolação da nossa vida e não o seu unico fim. Mas essa jesuitada entrou por toda a parte com este rapazelho do seminario -- e bem mal têm já feito e hão de fazer ás familias!... O senhor abade bem dizia, bem dizia... E bastantes desgostos teve nos últimos tempos, que lhe amarguraram o resto dos dias... Coitadinho! Assim Deus lhes perdôe, que eu não posso tragá-los. Até me custa ouvir a missa daquelle avejão -- Deus me perdoe se péco!</p>
+<p>-- «E o que me diz ás amizades delle com os feitôres da fidalga?! Ella toda «trinques_, caminho da missa logo de madrugada; as filhas de güelas abertas com as tais «onzenices» de cantorias na igreja, e mais florinhas p'rá qui, e mais rendinhas novas nas toalhas do altar, confissão a cada passo... Eu nem sei, eu nem sei!...</p>
+<p>-- «E o marido? Vocemecê hade ouvir alguma coisa -- está ali á beirinha da casa...</p>
+<p>-- «Ora o marido!... Tambem gosta muito daquellas coisas, e reza e canta e leva o padre p'ra casa a jantar e a tomar o chá, as mais das vezes.</p>
+<p>-- «_Eia!_ -- vivem como fidalgos!</p>
+<p>-- «Aquelles grandes excomungados! No tempo da fidalga, graças a Deus ninguem batia áquella porta com fome que não trouxesse uma consolaçãosinha; agora nem um chavo! Tudo querem para elles, aquelles ladrões!... Parece que ainda estou a vêr a Terezinha ir a correr contar á fidalga e vir logo com uma abada de pão ou de fruta, ou umas batatinhas, ou uma tigelinha de papas e o bocadinho de carne!...</p>
+<p>-- «Pobre Terezinha, tão mimosa foi da madrinha e agora tão triste a vejo!</p>
+<p>-- «Mas aquelle maroto não lhe dizer nada é o que me dá no gôto!...</p>
+<p>-- «Elle passa por ahi ás tardes, e ri-se para ella... Quando vai a alguma romaria sempre lhe traz uma prenda e um cravo com um verso «bem calhante_, mas nada mais! Ella então é uma tôla pelo rapaz! Mas quando o vê faz-se encarnada como um pimentão, põe os olhos baixos, e nem sequer o salva.</p>
+<p>-- «Ora essa! Tem sua graça, tem!</p>
+<p>-- «Eu nem posso explicar isto. Que a minha Tereza -- não é por sêr minha sobrinha -- não é de engeitar... é a melhor cachopa cá da terra.</p>
+<p>-- «Ora isso, nem se fala! Compara-se lá! Basta saber lêr e têr a _inducação» que teve. É a flôrsinha da nossa vila.</p>
+<p>-- «Pois isto dá-me cuidado, dá! E não é pouco... A pequena só me tem a mim no mundo, e eu estou velha e cansada; queria-a vêr arrumada antes de fechar os olhos. E com o «Manél» da Clara do Rezadeira gostava, lá isso gostava: a mãe é rapariga do nosso tempo, e elle tem alguma coisa de seu, e no fundo não é mau rapaz. Mas então!... Parece bruxaria.</p>
+<p>-- «Ai senhora Zéfa, não pônha mais na carta. Isso hade sêr, hade! E não é mais nada senão coisas daquella atrevida da Maria do Próspero! Aquilo sempre fôram de má raça. Até o pai... hade saber! Não?! Pois eu lho conto. Crédo, santo nome de Jesus! Cada vez que me lembra até os cabelos se me põem em pé. O que aquelle malvado disse de mim, que sempre entrei em casa da fidalga, que Deus tem, com toda a franqueza!...</p>
+<p>-- «O que foi então?</p>
+<p>-- «Ai não sabe?! Aquele grande diacho, Deus me perdôe! Então não disse elle que eu é que chupara o morgadinho, o filho da senhora fidalga!? Aquella aventesma!... Nem que eu não soubesse!... Bom, calo-me, que é melhor...</p>
+<p>E mudando de tom, muito confidencial e amigavel:</p>
+<p>-- «Posso dizer-lhe de certeza: a Maria do Próspero conversa com o _Manél» e parece que o traz enfeitiçado. Olhe que lhe ouvi eu dizer -- que primeiro estava ella, que já o namorava ha muitos anos, ainda antes de elle ir para a tropa, e que nunca a «lesma» da Terezinha o havia de apanhar! Desculpe, senhora Zéfa, aquilo é uma atrevida, uma doida!... Pois de que raça ella é!...</p>
+<p>-- «E o que é certo é que vai levando ávante o seu intento; tem artes do demonio!...</p>
+<p>-- «Deixe estar, deixe estar... Eu sei cá umas coisinhas que hãode voltar o «Manél_, oh se hãode!... Assim eu tivesse uma coisa que lhe pertencesse... Coisa de vestir era melhor... Punha-lhe a pedra de ara e dizia a oração... É coisa certa.</p>
+<p>-- «A Terezinha tem um lenço que elle lhe deu, mas fosse lá falar-lhe nisso!... Toda se zangava, não acredita nestas coisas...</p>
+<p>-- «Pois são bem verdadeiras...</p>
+<p>-- «O outro dia ensinei-lhe que cruzasse as pernas mesmo de pé quando a atrevida da Maria passar por ella... Desatou a rir!</p>
+<p>-- «Ah, isso é uma coisa certa para livrar do mau olhado de quem nos quer mal. Sabe o que era muito bom? Era fazer á pequena um defumadoiro com hervas colhidas na manhã de S. João... É o alecrim, o funcho, a dedaleira, o rosmaninho, o sabugueiro... Se quizer, eu tenho lá.</p>
+<p>-- «Muito obrigada. Assim ella quizesse!... Bem se fazia um defumadoiro que a livrasse daquelle enguiço.</p>
+<p>Assim continuaram em conversa larga, cheia de combinações e reticencias, que muito as interessava, emquanto a Terezinha dentro de casa trabalhava na teia branca, que parecia sempre a mesma, eterna como as suas máguas.</p>
+<p>O tear monotonamente fazia subir e descer os «pentes» com um barulho sêco e igual, emquanto ella levantava a sua vózinha agradavel de soprano numa toada melancolica:</p>
+<p>     -- «Eu heide amar uma pedra,     Deixar o teu coração;     Uma pedra não me deixa,     Deixas-me tu sem razão».</p>
+<p>E ao dizer a quadra, que parecia sahir-lhe do proprio coração, os olhos enturvecidos de lagrimas fitavam a estampa ingenua que elle lhe trouxera da Senhora do Castelo, a grande romaria de setembro.</p>
+<p>Todos os anos lá ia -- era o costume -- e tambem a Maria do Próspero, que punha nos ranchos um contínuo esfusiar de gargalhadas terçando galhardamente com os mais afamados «piadistas» as armas perigosas da chalaça e da resposta á letra.</p>
+<p>Cantavam ao desafio, ella e o Manoel. Tinham fama por todas aquellas redondezas, e, mal as suas vozes se trocavam num principio de duelo, os auditores cercavam-nos e apertavam-nos num círculo de admiração excitando-os com risos e ápartes.</p>
+<p>Tambem era o par certo em todas as romarias -- talhados um para o outro!</p>
+<p>A Maria era alta e desempenada! A sua tez, dum moreno intenso, fôra brunida pelas soalheiras ardentes e curtida pelas ventanias agrestes. A bôca, sempre aberta em riso, era vermelha e fresca como cerejas maduras, e os dentes brancos e agudos cravavam-se com delicia no pão de milho, sua unica escôva.</p>
+<p>As saias, rodadas em balão, faziam-lhe mais altas as ancas já de si redondas e fortes; o cabelo, em duas tranças pregadas, enchia-lhe a cabeça como uma touca de veludo negro.</p>
+<p>Quando punha o cáchené vermelho e amarelo de grandes ramagens verdes, o chale em bico traçado deixando livre o braço esquerdo, a chinela branca pespontada na ponta do pé, nenhuma como a Maria do Próspero para arrebanhar admiradores.</p>
+<p>Depois, sempre satisfeita, radiava em plena expansão dos seus vinte anos sadios, vividos em plena natureza.</p>
+<p>Nas ceifas, ao ardôr dos sóes caniculares, mangas arregaçadas mostrando os braços trigueiros e musculosos; ou no gesto mecânico de juntar as paveias e sobraçar os mólhos, tinha a harmonia escultural e grave duma Céres fecunda.</p>
+<p>Nas vindimas, era a primeira dos ranchos, vermelha do môsto que corre como sangue generoso, a bôca escancarada em risos e cantigas... Tinha um aspecto quasi tragico e uma beleza perturbante e assustadora de bacante.</p>
+<p>Pela apânha da azeitona, quando os campos amanhecem brancos da geada que toda a noite cahira manso e manso, tudo uniformisando sob a sua alvura de sudario, e o frio corta as mãos, que se «engatinham_, e entorpece os dedos que mal se podem dobrar, ella motejava de todos, sempre na frente, cantarolando e rindo, enchendo de ânimo os mais desanimados, encorajando os mais entanguecidos pela friagem.</p>
+<p>Sempre pronta para o trabalho, a Próspera, em todas as sáfaras e com todos os tempos!</p>
+<p>Mas, tambem, não faltava ás romarias e ás feiras das cercanias, com o seu lenço berrante, o casaquito branco engomado a capricho, e a sua alegria saudavel, que fazia bem vêr.</p>
+<p>O Manoel não resistia áquella força que chamava a sua força, áquella exuberancia de mocidade que atrahia a sua mocidade. Quando a via, nem sequer pensava na Terezinha, que se ia finando lentamente ao compasso triste e monotono do seu tear caseiro.</p>
+<p>E, no fim de contas, para falar a verdade, a Maria era tambem uma bôa rapariga, que nunca tivera outro conversado. Nem havia lingua danáda de velha de soalheiro que se atrevesse a debicar nos seus créditos. Alegre, sim; rir com todos, vá! Mas atrevimentos não os consentia a ninguem. E tinham-lhe respeito -- que a sua mão era lésta, e um sopapo da Próspera não era brincadeira!</p>
+<p>Só o Manoel gosava da sua confiança e só com elle tinha as suas «graças_ e brincalhotices mais livres, o que mais o afervorava naquelle amôr crescente que o ia conquistando dia a dia.</p>
+<p>Á noite, nas esfolhadas, quando o luar é môrno e as flôres têm um perfume mais intenso, corriam um atraz do outro, batiam-se fortemente, e cahiam ás vezes sobre a palha ainda quente do sol, com um cheiro sêco que entontece.</p>
+<p>As gargalhadas seguiam-nos de todos os lados da eira, as chalaças cruzavam-se no ar como morcegos de pesado e estonteado bater de azas: -- Eh lá, Maria, vê se tens mais força do que elle! Isso é que era um riso, o valentão deixar-se bater por uma mulher!...</p>
+<p>-- «Talhados um para o outro -- isso é que não havia dúvida, nenhuma!</p>
+<p>-- «A Zéfa do Padre que se deixasse de querer casar a sobrinha com o Manoel.</p>
+<p>-- «Bôa rapariga, lá sobre isso não havia duas opiniões; mas a Maria é que estava a calhar para um homem de trabalho, uma mocetona daquellas que era capaz de voltar um campo sósinha.</p>
+<p>Os homens votavam pela Maria, bela mulher para tudo e forte como uma torre. As mulheres, essas eram pela Terezinha, delicada e amavel, pondo sorrisos de aquiescencia onde a outra só tinha ruidosas gargalhadas de troça.</p>
+<p>Era ella que lhes talhava e cosia á máquina, sem paga, as chitas pobres, mas apesar disso tão dificilmente compradas, e lhes ajustava os coletes de linho grosso que tão irmanados lhes erguiam os seios até á raís do cólo: -- «Ora, sempre era «outra loiça_! Podia lá comparar-se! Bem se via que tivera outra criação, lá em casa da fidalga, que a tratara como filha.</p>
+<p>-- «Que elle gostasse della, vá! Agora da Maria, uma cachopa como as outras!...</p>
+<p>O Manoel, ainda indeciso, mas já a inclinar-se para a Maria, irritava as mulheres que se ofendiam com a insolente alegria da rapariga, que andava radiante com o seu ar de triunfo certo.</p>
+<p>A velha Gertrudes Zarôlha vivia sobre brazas, nos últimos tempos.</p>
+<p>Com meias palavras ou redundancias enigmaticas conseguia sobresaltar o coração do rapaz, mas não desviá-lo duma paixão que se harmonisava inteiramente com o seu modo de sêr moral e fisico.</p>
+<p>-- «Casar com a Maria -- dizia a velha á bôca cheia -- era até um pecado!... -- e benzia-se com gestos de apavorada, que não explicava mas punha de sobre-aviso as consciencias timoratas.</p>
+<p> Por uma noite de verão, sinistra pelo negrume de nuvens carregadas de eletricidade e prometedoras de fortes aguaceiros que toldavam o céo, voltava o Manoel da Clara da vila proxima onde assistira á feira.</p>
+<p>Um calôr asfixiante pesava como chumbo no abandono pungente da paisagen lugubre. Os pinheiros esguios tinham um murmurio mais triste e vago, como soluços suspensos de almas em pânico, e o olival verde negro destacava-se no fundo, apertando como num cilicio doloroso a pobre terra que se dependura de fraguedos rudes, sempre ameaçada pela montanha que a cavalga e lhe limita o horizonte, cortando-lhe toda a esperança de se expandir por ali, como o pecado véla e corta toda a esperança da alma piedosa...</p>
+<p>O Manoel, que tinha ficado um pouco para tarde, conversando com uns amigos na taberna do Geitoso, vinha assobiando alegremente, caminhando despreocupado e sem grande pressa.</p>
+<p>Ao passar pela «Fonte do Inferno»... diabo!... que ouviu elle?! Um rumôr confuso de gargalhadas, que aflavam no ar como grasnar longinquo de corvos...</p>
+<p>Mêdo?.... Elle não tinha mêdo, mas desde que acontecera aquella historia da casa dos Carneiros... «Crédo! Abrenuncio!_</p>
+<p>-- E não se benzeu, o Manoel, como lhe cumpria fazer, ao lembrar-se de coisas daquellas!... A tropa é que estraga os rapazes, está visto...</p>
+<p>Agora, as gargalhadas já soavam mais perto... diria mesmo que ouvia a Maria do Próspero.</p>
+<p>-- Mas naquelle sitio, áquella hora!... Quem se atreveria?!...</p>
+<p>-- Em casa dos Carneiros, -- lembrava-se involuntariamente -- aquelle barulho de cadeias a arrastar, os ferros em braza que vinham cahir aos pés da gente da familia, o vozear sinistro que se escutava em toda a aldeia e trazia apavorados os mais valentes... Deus do céo, que terror fôra na terra toda! Já ninguem dormia nem descansava. Muitas mulheres tiveram então «espiritos» que os padres e os «bentos» esconjuravam, e se batiam com elles como forças iguais.</p>
+<p>-- Só depois que o senhor Vigario velho se resolveu a sahir, de capa de asperges, para benzer a casa endemoninhada, é que tudo socegou...</p>
+<p>O Manoel já não assobiava, e ia olhando de soslaio para o Camborço, pedraria escalvada suspensa por milagre sobre o abismo e que a toda a hora parece desabar e soterrar as pobres casas de pedra solta tisnadas pelo tempo.</p>
+<p>Um ventito picado e quente levantou-se então, trazendo o rumôr distinto de vozes, gritos surdos e gargalhadas abafadas...</p>
+<p>O Manoel era destemido; apesar da má fama do sitio, tido como logar de maleficas reuniões diabolicas, resolveu-se a transpôr o pequeno muro que separava o caminho da «Fonte do Inferno_, a propriedade de mais estimação dos velhos fidalgos.</p>
+<p>Primeiro, não viu nada; depois, vaga e confusamente, luzinhas que saltavam e atravessavam-se corriam e perseguiam-se, juntavam-se e tornavam a afastar-se...</p>
+<p>Um calafrio lhe percorreu o corpo e sentiu na espinha dorsal uma sensação desagradavel que o fez tremer. O Manoel era valente, -- nisso não podia haver dúvida! -- mas é que aquilo que via tão realmente como se á luz do sol olhasse as suas proprias mãos eram as feiticeiras, tal qual a sua mãe as tinha visto tambem quando em pequenino esteve ameaçado de sêr chupado por ellas...</p>
+<p>Entre curioso e medroso -- já agora não sahiria dali sem vêr o que aquilo era.</p>
+<p>Acercou-se da eira onde a ronda sinistra era mais febril... -- Jesus, que coisa horrivel! -- Olharapos corriam vertiginosamente, que mais pareciam voar, na noite negra, com o seu unico olho flamejante no meio da testa, lanterna magica das profundezas do averno!...</p>
+<p>Um lobis-homem passou a galope, no seu fado triste, procurando alma christã á qual podesse, antes da meia-noite, entregar a sua cruz martirisante. Se elle o tivesse topado!... Até os cabelos se lhe punham de pé.</p>
+<p>As luzinhas continuavam correndo alígeras, voando na escuridão dura da noite.</p>
+<p>Surrateiramente foi-se aproximando da eira onde chamejavam em halucinado rodopio... A pouco e pouco ia-as distinguindo na sua fórma humana, girando buliçosas e gárrulas.</p>
+<p>No meio da roda -- cruzes! como podia aquilo sêr?!... -- o Diabo passeando altivo, vestido de encarnado e de chapéo guisalhante, poisando os pés de forquilha sobre as cabeças das feiticeiras, que riam sarcasticamente.</p>
+<p>Dessa vez o Manoel não poude deixar de rir, tão patusca lhe pareceu a cêna.</p>
+<p>Ah! mas quando elle viu com os seus proprios olhos -- tão certo como haver a luz do sol que nos alumia! -- adiantar-se uma das luzinhas e, tornando rapidamente á sua figura de mulher, aparecer-lhe a Maria do Próspero, tal qual ella!... E quando a viu chegar ao pé do «homem vermelho_, estender-lhe os fortes braços roliços e trigueiros, abraçá-lo com ardôr, não poude retêr um surdo grito de raiva.</p>
+<p>Aquelles braços, que só o pensar nelles lhe fazia febre; aquella mulher, que o trazia prêso havia tanto tempo e com a sua honestidade alegre e simples conseguira o seu respeito e o seu amôr, estava ali em frente delle abraçando outro! E esse outro -- Deus do céo, que até a sua alma tremia! -- esse outro era o proprio Diabo em pessôa!</p>
+<p>Tremia de desespero e horror por essa criatura, que não passava afinal duma feiticeira.</p>
+<p>Uma tremura nervosa e um frio de gelo o faziam vibrar todo. O sangue subia-lhe á cabeça, punha-lhe zoeiras nos ouvidos, halucinando-o.</p>
+<p>As luzitas recomeçaram a dansa, numa «farandola» de «sabbat_, correndo e saltando, num delirio de gargalhadas frias como entre-chocar de ossos numa dansa macabra.</p>
+<p>Ao Manoel parecia-lhe que tudo dansava á volta delle, que elle mesmo se sentia voar num rodopio de entontecer. Agora o Diabo, sentado num trôno luminoso de feiticeiras, os pés de bode torcidos e negros a descansar sobre o formoso corpo de Maria, como se fosse um estrado, lia um grande livro de capas encarnadas. A cada folha que voltava, sahia uma nuvem de diabitos fantasticos, saltitantes, folgazões como garôtos ao sahir da escola, que iam juntar-se ás feiticeiras, e tudo corria, voava, num cabriolar estonteante e doido.</p>
+<p>Uma das luzes aproximou-se então do Manoel, que ficara empedrado na contemplação da cêna que o atordoava e lhe tirava toda a sensação da vida, e rapidamente se fez mulher. Ficou boquiaberto, pois a bruxa era nem mais nem menos do que a Gertrudes Zarôlha, a velha amiga e confidente da Zéfa do Padre.</p>
+<p>Se tivesse pensado melhor não se teria espantado tanto, pois essa era tida e havida por tal desde que o compadre Marques, o alfaiate, a encontrara feita galinha, lá para as bandas da vila, arrastando após si uma ninhada de frangas, as discipulas que ia exercitando pela noite alta. Admirou-se: -- uma galinha tão tarde fóra da capoeira!? -- e dando-lhe com o metro partiu-lhe uma aza. Logo a Gertrudes tornou á sua fórma natural e lhe pediu que se calasse, pois em paga do seu silencio lhe daria todos os anos uma camisa nova.</p>
+<p>Mas o que é certo é que toda a gente soube do caso, sob segredo, e elle nem por isso deixou de receber anualmente a bôa camisa de pano de linho.</p>
+<p>A Gertrudes quedou-se diante do Manoel: feia e engelhada, a bôca vasia de dentes, o cabelo esbranquiçado e crespo a fugir do lenço de chita, uma cavidade vermelha no logar do olho direito perdido não se sabia por que desastre.</p>
+<p>-- «Ai, Manoel, pobre rapaz, desgraçado!... Se o Senhor te visse, estavas perdido neste mundo e no outro!...</p>
+<p>Elle olhava-a emparvecido, numa confusão labirintica de ideias, que não explicava nem compreendia.</p>
+<p>-- «Ouves, Manoel? -- continuava a velha bruxa. -- Eu sou tua amiga, não te quero vêr perdido. Olha, escuta, toma sentido no que te vou dizer: O _Senhor» vai perguntar quem corre mais, para lhe entregar a caldeirinha que veiu hôje do inferno para a nossa missa. Tu hasde dizer que corres como o pensamento, agarra nella, e foge. Corre quanto podéres! Só estarás em segurança agarrado á corda do sino da igreja, depois do galo preto romano cantar pela terceira vez depois da meia-noite. Corre, corre quanto podéres, e livra-te de olhares para traz, oiças o que ouvires, sintas o que sentires. Ainda que te chamem pelo teu nome, não olhes nem páres, -- olha que depende dahi a tua salvação e a tua vida!</p>
+<p>Afastou-se saltitando, outra vez luzinha, a misturar-se com as outras na dansa macabra.</p>
+<p>O Manoel ficou estarrecido, mas o proprio mêdo lhe deu energia bastante para responder com segurança á pergunta que o «homem vermelho» fazia em voz tão formidavel e soturna que toda a natureza estremeceu de pavôr e os corvos no visinho cemiterio grasnaram agoirentamente.</p>
+<p>Tendo gritado, no meio de vozearia geral, como lhe ensinara a Gertrudes Zarôlha, -- «corro como o pensamento!» -- agarrou na caldeirinha magica que estava no meio da roda e desatou a correr com quanta força tinha, em diréção á igreja, cujo campanario singelo donde pendia a corda do sino era agora a sua unica esperança de salvamento.</p>
+<p>Mas, fosse porque o conhecessem pelo andar ou fosse por penetração diabolica e subtil, o que é certo é que, logo que voltou costas, uma grita ensurdecedora lhe chegou aos ouvidos. Sentiu-se perseguido por toda uma canalha de demonios, fúrias vêsgas e feiticeiras esguedelhadas, pequeninos trasgos e enormes gigantes, que ardendo em sêde do seu sangue e da sua alma christã lhe corriam no encalço.</p>
+<p>Via-se quasi perdido, sentia-se quasi agarrado por enormes braços descarnados e com unhas aduncas e enclavinhadas, que se lhe cravavam na carne como tenazes... Chamavam-no pelo seu nome, ouvia coisas pânicas, e ora o insultavam com palavras que se desprendiam como pedradas de funda, ora o seduziam com promessas tentadoras.</p>
+<p>E dizia mesmo que essas vozes sedutôras, que se misturavam ás outras brutais e agressivas, eram ditas pela bôca vermelha e fresca da Maria...</p>
+<p>Mas, fiel á recomendação da Gertrudes, corria numa ânsia ofegante, num desespero de loucura. Na cabeça enfebrecida duas unicas ideias se lhe espetavam, como navalhas agudas: -- a Próspera abraçando o «Senhor_, como lhe chamara a Zarôlha, e o campanario humilde onde estava a sua salvação.</p>
+<p>Não compreendia nem via mais nada, e nada mais lhe interessava no mundo. Mas chegaria a tempo de poder agarrar a corda do sino antes do galo preto romano cantar pela terceira vez á meia-noite?!...</p>
+<p>Já as pernas lhe fraquejavam, a cabeça andava-lhe á roda, e os gritos satanicos, que mais e mais se avisinhavam, davam-lhe a certeza do seu triste fim, se não conseguisse chegar.</p>
+<p>Mas já estava perto -- num último arranco, estava salvo!</p>
+<p>Se fosse vinte passos mais longe não poderia resistir. Quando deitou a mão á corda do sino, que deu na noite negra uma badalada lugubre, o galo preto romano soltava pela terceira vez a sua voz clara e sonora de espancar visões e pesadelos.</p>
+<p>Um gargalhar surdo e um rumôr de maldições e pragas perderam-se no ar, emquanto o Manoel cahia pesadamente no chão, agarrado ainda á corda do sino que tremia nas suas mãos crispadas. Ao lado tombara a caldeirinha tilintando numa vózita escarnicadora.</p>
+<p>Para quem duvide do caso, lá está ella na igreja matriz, da pequena terra triste, cortada na rocha bruta, estrangulada entre pinhais melancolicos e oliveiras de folhagem eternamente sombria.</p>
+<p>Lá anda ella, cheia de agua benta, tilintando sempre a sua vózinha escarnecedora e fantastica, acompanhando enterros de cavadores tisnados que na terra encontram o seu unico repouso, e criancinhas frageis que vão para o céo aspergidas com a agua benta da caldeirinha infernal...</p>
+<p>Lá anda, muito serena, orgulhosa do seu metal desconhecido forjado nas profundezas ardentes do mundo sobrenatural, a acompanhar o senhor vigario na visita anual em dia de Páscoa alegre e florída: -- «Bôas festas, bôas festas, santas festas!, sorri no seu arzinho petulante.</p>
+<p> De madrugada, quando os homens iam para o trabalho, encontraram o Manoel ainda desmaiado, agarrando-se á corda do sino como naúfrago a táboa salvadora.</p>
+<p>Levaram-no para casa, alvorotando toda a vila com o extraordinario caso. A Clara de Rezadeira, -- coitada! -- mal viu o filho, o seu Manoel, estendido como um cadaver sobre o leito de cabeceiras embutidas, para onde os homens o atiraram já cansados da caminhada com semelhante pêso, ia morrendo tambem, sufocada pelo sangue cujos impetos o pobre coração mal podia regular.</p>
+<p>Mas o mestre barbeiro afiançou a cura para breve, dando uma picadélasita no braço do rapaz -- que era de humôr muito quente, e apanhara algum golpe de sol lá pela feira.</p>
+<p>A febre sobreveiu e teve-o entre a vida e a morte, dias e noites ardendo num fogo de que o delirio e a agitação eram o corolario logico. O que elle via, os sonhos e os pesadelos que lhe enchiam a pobre cabeça enfebrecida, mal o compreendiam os seus enfermeiros. E todo aquelle mal se agravava e a agitação chegava ao delirio furioso dum louco se por acaso a Maria do Próspero chegava á porta, a pedir noticias ou a querer ajudar a tia Clara nos arranjos domesticos.</p>
+<p>Ninguem podia compreender tal horror á rapariga, nem ella, que se consumia e chorava sem consolação por vêr a mudança brusca do seu Manoel.</p>
+<p>Quando se levantou estava pálido, cambaleava, e uma tristeza profundissima lhe encovava os olhos.</p>
+<p>No primeiro dia em que sahiu, o seu cuidado foi logo ir procurar a Gertrudes Zarôlha, que encontrou sentada á porta da casa, fiando e conversando com o gato preto gordo e pesado, seu unico companheiro e amigo.</p>
+<p>O Manoel não esteve com ceremonias, foi direito ao fim. Contou á velha tudo quanto tinha visto na «Fonte do Inferno» quando viera tarde da feira, e exigiu explicações completas sob a ameaça duma sóva se ella não quizesse dizer a verdade.</p>
+<p>Ao principio a Gertrudes indignou-se, pôs as mãos no peito, jurou a sua inocencia e negou que fosse feiticeira.</p>
+<p>-- Na «Fonte do inferno_?!</p>
+<p>-- O Manoel que não sonhasse em tal -- _crédo!» «cruzes, canhoto!» Fôra aquelle patife do Próspero que levantara aquella calúnia e dizia a quem o queria ouvir -- que fôra ella quem chupara o filho da fidalga...</p>
+<p>Mas o Manoel atalhou: -- não negassse a Senhora Gertrudes; tinha-a elle visto, ora essa! Querer dizer-lhe que não era verdade uma coisa que elle mesmo vira, com aquelles mesmos olhos que a terra havia de comer?!... Demais, não tinha nada com a sua vida nem o contaria a ninguem, pois até lhe estava muito agradecido por o têr ensinado a livrar-se de tamanho perigo. Agora o que queria saber era a verdade -- sobre a Maria do Próspero. Seria ou não certo tê-la visto abraçar o «Senhor_?... Seria ou não certo o sêr ella feiticeira a valer?! Podia têr-se enganado... podia-a têr confundido com outra... Ás vezes, e como foi ao longe...</p>
+<p>Era a última esperança, e a ella se agarrava com todo o afinco de quem não quer perder uma dôce ilusão.</p>
+<p>E pensava, horrorisado, que aquilo poderia sêr verdade e teria que deixar de pensar na Maria, agora que a paixão por ella chegara ao halucinamento, hesitante entre o amôr e o odio.</p>
+<p>Quanto daria para que a Gertrudes lhe désse a certeza de que os seus olhos o tinham iludido, quanto daria!... Tornar a têr na Maria a confiança que tinha dantes; podê-la levar para a sua casa, como ainda na vespera lhe dissera a mãe, que morria pela rapariga -- tão trabalhadeira, tão desembaraçada e bôa... Não tinha nada, mas isso o que importava? Ella, a Clara do Rezadeira, não se importava nada com isso e aconselhava-lhe a que escolhesse antes uma rapariga de trabalho do que uma com dinheiro, que nada vale quando dá em mãos que o não sabem guardar nem aumentar.</p>
+<p>Como elle esquecia, evocando a formosa rapariga, a pálida Terezinha, que lentamente se ia definhando e morrendo aos poucos, ao compasso surdo e monotono do seu tear!...</p>
+<p>Mas a Gertrudes foi impiedosa. A pouco e pouco começou a dizer tudo; primeiro timidamente, tenteando o assunto, depois entusiasmando-se, contando detalhes, dizendo coisas que arrepiavam e indignavam o Manoel.</p>
+<p>Era certo e mais que certo sêr a Maria feiticeira! Havia pouco tempo que aprendera, mas já a consideravam das mais finas e das mais queridas do _Senhor».</p>
+<p>-- O lobis-homem que tinha visto -- mas isso em grande segredo, porque tinha medo de levar alguma sóva -- era o Próspero velho. Andava com o fado ha tantos anos! Não tinha sorte nenhuma, coitado!</p>
+<p>Que de historias lhe contou, e elle ouviu pasmado, vencido por aquella verdade irrefutavel: -- a Maria era feiticeira!</p>
+<p>A Gertrudes comentava com gestos curtos e vozes de confidencia: -- Ora essa! De que se admirava? Sempre lhe dissera que não era mulher capaz para um homem de brio e de honra.</p>
+<p>Tinha-lhe odio, o odio implacavel das velhas criaturas despresiveis aos que têm a insolencia da alegria, da juventude e da beleza. E então, depois que a rapariga dissera numa sacha, entre as gargalhadas do rancho, que não queria estar ao pé della porque lhe podia dar quebranto ou chupá-la como fizera ao filho da fidalga, a Gertrudes não a podia tragar.</p>
+<p>-- Se fosse com a Terezinha, -- continuava convencedora -- com essa era de sua aprovação. Uma rapariguinha tão recolhida, sem uma «nota_, sem más palavras para ninguem, e sempre tão bôa, tão condoïda! Mesmo um anjo do céo!</p>
+<p>O Manoel calava-se, abismado no seu desgosto, não podendo seguir-lhe a tagarelice nem dizer uma palavra que lha fizesse estancar. De quando em quando, uma palavra ou outra feria-lhe o ouvido, chamando-o á realidade, aos repelões, sobresaltando-lhe ainda mais a alma amarfanhada.</p>
+<p>Por vezes já a imagem da Terezinha, com a sua esbelteza delicada, o seu vestido escuro de luto aliviado, o sorriso maguado da sua bôca virgem de beijos, se começava a esboçar na sua memoria. Via-a córada como a romã quando acertava de lhe dirigir a palavra, sofredora e resignada quando o sabia mais prêso pelos encantos de Maria; lembrava-a fugindo arisca da porta para o espreitar da janela, mal assomava ao cimo da rua com os seus ares triunfantes, bamboleando-se com a importancia de janota de aldeia. -- «Coitadinha! Gostava tanto delle! Emquanto esteve doente, nunca ella deixou apagar a lampada á Senhora do Castelo...</p>
+<p>O Manoel afastou-se por fim -- a velha já o enjoava com as suas historias. E, ao sahir dali, pensava com funda melancolia em todo o passado extinto, nessa alegria radiosa que não voltaria mais. Da sua vida, tão profundamente abalada, nem a si mesmo sabia dar conta.</p>
+<p>Quando subia vagaroso e preocupado a rua estreita e ingreme, os seus olhos poseram-se com sobresalto na Maria do Próspero, que caminhava em sentido contrario, cabisbaixa, os braços cahidos ao longo do corpo, os olhos pisados postos no chão, o fato em desalinho de quem perdeu o gosto e a garridice.</p>
+<p>Que mudada estava! Nem parecia a mesma, -- não a reconheceria por certo fóra dali.</p>
+<p>O rapaz, olhando-a, sentiu subir-lhe do largo peito um soluço doloroso.</p>
+<p>Meteu-se na sombra duma porta e deixou-a passar, avergada ao pêso da tristeza e do remorso do seu pecado sinistro.</p>
+<p>Estremecia de horror como se a visse ainda na noite demoníaca, cuja lembrança o perseguia como uma ideia fixa de monomaníaco.</p>
+<p>Como podia ser feiticeira uma rapariga tão linda, tão alegre, tão sincera?!...</p>
+<p>Mas era-o, tinha a certeza, porque a vira abraçando o «homem vermelho_ de negros pés de forquilha, e porque a Gertrudes lho afiançara havia instantes.</p>
+<p>Todo o pavôr daquella noite tragica o tomou de novo, e involuntariamente evocou o «sabbat» infernal: -- as luzinhas bailando, entrechocando-se, e afastando-se num compasso rítmico; as gargalhadas que soavam como crucitar de corvos; os olharapos correndo, com o seu unico olho a furar-lhes a testa; os lobis-homens galopando, no seu fadario triste; avejões, diabitos galhofeiros, lémures, trasgos, duendes, feiticeiras, e, sobre tudo, como ferro em braza a causticar uma chaga, a recordação da cêna em que a Maria abraçava o «homem vermelho» e lhe servia de estrado.</p>
+<p>Era de endoidecer!</p>
+<p>Quando despertou desse pesadelo de acordado, já a Maria ia longe, andando lentamente, acurvada pelo imenso desgosto de vêr o Manoel tão diferente do que fôra, e sem razão nenhuma que ella lhe désse!</p>
+<p>Se ao menos soubesse explicar o motivo porque tão cruamente a repelira durante toda a doença, quando ella passava as noites sem se deitar, sempre pronta á primeira voz, -- uma verdadeira filha para a Clara do Rezadeira, que já lhe queria como tal!...</p>
+<p> Alguns mêses depois, os sinos da antiga igreja matriz repicavam freneticamente mostrando o entusiasmo do sacristão pelo casamento do Manoel com a Terezinha da Zéfa do Padre.</p>
+<p>A noiva ia radiante, mais linda do que nunca. Os olhos brilhantes, os labios ardentes, as faces ligeiramente córadas pela felicidade inesperada que a chamava á vida, quando ia já caminhando para a morte, ao compasso monotono do tear subindo e descendo no contínuo trabalho.</p>
+<p>Satisfeito e feliz, tambem o Manoel ia, triunfante, com o seu fato preto de pano fino, o seu chapéo lustroso, a sua fina camisa engomada a primôr, ao lado da noiva -- uma santinha do altar!, dizia a Gertrudes benzendo-se.</p>
+<p>Tambem elle se sentia alegre e despreocupado, sem pensar na pobre Maria do Próspero, que curtia sósinha, num desespero tôrvo e sem remedio, a sua derrota miseravel.</p>
+<p>Quando a Gertrudes Zarôlha começou a espalhar o que se passara, o que vira o Manoel na noite em que viera mais tarde da feira, por se têr demorado a conversar com uns amigos na taberna do Geitoso, a Maria teve um violento acesso de cólera, uma rubra indignação, que estava na logica da sua forte e sadia natureza. Quiz bater na velha, que fugiu espavorida, gritando-lhe que fosse perguntar ao Manoel -- e elle lhe diria tudo quanto vira...</p>
+<p>E ella fôra logo, forte da tranquilidade da sua consciencia, certa de que elle estaria ao seu lado para a defender de tão absurda acusação...</p>
+<p>Mas quando ouviu da bôca delle a confirmação dos ditos da velha, quando elle lhe atirou com despreso o epíteto de «feiticeira_, sucumbiu. Ficou quieta, a olhá-lo pasmada, sem encontrar uma palavra para se defender, cheia de dúvidas e de desânimo... Sem a confiança do Manoel, o que podia fazer?!</p>
+<p>E desandou dali, com grossas lagrimas a rolarem-lhe pelas faces, e um aperto na garganta que a estrangulava.</p>
+<p>Fechou-se em casa; e, sem ninguem que a consolasse, nenhuma alma compassiva que a ajudasse a levantar daquelle abismo em que a propria consciencia desaparecia sob a sugestão alheia, rebolou-se pelo chão, rasgou o fato, atirou contra as paredes a cabeça que sentia perdida e desvairada, soltou gritos que lhe despedaçavam o peito, até que, exausta, ficou como morta no meio da casa. Ao voltar do trabalho é que o pai a levou para a cama, limpando, num repelão, á camisa suja de suor e poeira, uma lagrima que teimava em rebolar-lhe pela face encarquilhada e dura.</p>
+<p>-- A sua pobre filha, a alegria da sua vida -- em que estado a encontrava! Maleitas ou mau olhado, espirito ruim que lhe entrara no corpo e já a não largaria...</p>
+<p>Quando voltou a si, pesou bem a desolação da sua vida, e chorou toda a sua esperança, a sua alegria como a sua mocidade exuberante que tinham fugido espantadas diante daquella noite negra e sem fim.</p>
+<p>Emquanto os sinos cantavam na manhã clara, de sol radioso e céo azul em festa, as alegrias do casamento da Terezinha com o Manoel da Clara, a caldeirinha magica tilintava o seu risito escarninho e macabro e todos a consideravam com admiração e respeito pelo sobre-natural.</p>
+<p>A Maria, agora feiticeira conhecida e apontada por todos, já não canta nem vai às romarias.</p>
+<p>Nos trabalhos do campo, as mulheres e as crianças afastam-se della apavoradas, e os homens, lamentando-a, não têm coragem de vencer esse pavôr.</p>
+<p>Um brilho ardente de febre queima sempre os seus lindos olhos negros, que vagueiam inquietos, num mêdo doentio e tragico.</p>
+<p>Atormentada de visões, mordida de maus olhados, mêses inteiros prêsa de delirios histericos, sente-se, na verdade, transportada nas azas do vento para sitios ermos em que luzinhas saltitam em rondas buliçosas, lobis-homens passam em cavalgadas doidas para se irem espójar nas encruzilhadas sinistras, moiras encantadas tecem em teares de oiro contando as saudades antigas da sua vida humana, e olharapos, duendes, lémures e trasgos povôam as noites horrificas de «sabbat».</p>
+</div>
+</body>
+</text>
+</TEI>
