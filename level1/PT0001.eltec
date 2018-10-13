@@ -56,8 +56,8 @@
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
@@ -66,7 +66,7 @@
 <change when="2018-08-31" >LB fixed up header</change>
 </revisionDesc>
 </teiHeader>
-<text xml:id="PT0001" xml:lang="pt-PT">
+<text xml:lang="pt-PT">
 
 <front>
 <div type="titlePage"><head> As Pupilas do Senhor Reitor</head>
@@ -3813,7 +3813,7 @@
 <p>A Sr.ª Teresa apenas observou:</p>
 <p>-- Mas como lhe deu para olhar para aquela rapariga? Vejam agora as grandes bonitezas!</p>
 <p>A menina Francisca, inclinada sobre o mostrador da loja, escrevia nele distraidamente, com um gancho de cabelo, diferentes palavras sem nexo, e no fim suspirou.</p>
-<p>XL</p>
+</div><div><head>XL</head>
 <p>A tarde desse dia empregou-a o reitor em casa de José das Dornas, onde, com a sua diplomacia, conseguiu evitar as dificuldades da primeira entrevista entre os dois irmãos.</p>
 <p>Pedro, cheio de remorsos, abraçava Daniel, e este, que com mais razão os estava sentindo, a custo podia suportar essas provas de arrependimento de uma culpa imaginária.</p>
 <p>Repugnava-lhe afectar maneiras de quem perdoa, quando força interior o impelia a ajoelhar e confessar-se culpado. Por mais de uma vez esteve para revelar tudo; susteve-o o olhar, que o reitor, pressentindo essa tentação, nunca dele desviava.</p>
@@ -3972,7 +3972,7 @@
 <p>-- Pois é o que te digo, José. Eu tenho pensado neste negócio e tão embrulhado o vejo, que não sei de outra saída melhor, do que essa que te disse. Mas enfim, pensa tu, e se te lembrares, de alguma preferível...</p>
 <p>Não obstante as tolerantes disposições de espírito, de que fazia assim ostentação, o reitor estava preparado para achar péssima toda a solução que não concordasse com a sua.</p>
 <p>Deixando-os no passeio da alameda, e na conferência, tão prometedora de importantes resultados, que iam encetar, seguiremos antes Margarida, a qual, ainda sob o domínio das últimas e violentas impressões recebidas, entrou em casa do seu mestre.</p>
-<p>XLI</p>
+</div><div><head>XLI</head>
 <p>Havia na sala grande obscuridade e um silêncio profundo. Parando, até habituar a vista àquela pouca luz, Margarida chamou, a meia voz, a mulher, a quem ela e a irmã pagavam para tratar do doente.</p>
 <p>Ninguém lhe respondeu.</p>
 <p>-- Pois teria a crueldade de o deixar assim, neste estado! -- pensou Margarida.</p>
@@ -4073,7 +4073,7 @@
 <p>O reitor continuou por algum tempo rezando ainda em voz baixa. Depois baixou melancolicamente os olhos outra vez para a fisionomia serena do morto; consolou-o aquele reflexo de felicidade que julgou perceber nela. Em seguida, voltando-se para Daniel e Margarida, que se conservavam ainda ajoelhados, suspirou.</p>
 <p>Cedo, porém, veio um sorriso desanuviar as feições do pároco. Ergueu novamente as mãos, como a invocar a influência do céu, e sem que os dois o pressentissem, cobriu-os com sua benção.</p>
 <p>Quando, passado algum tempo, saiu com a sua pupila da casa em que estas cenas se passaram, ia a sorrir de satisfeito o reitor. É que lá lhe parecia que tinha sido inspiração divina aquela benção dada ali e que não podia deixar de ser eficaz para o que ele meditava.</p>
-<p>XLII</p>
+</div><div><head>XLII</head>
 <p>Muito antes da hora, à qual o reitor viera encontrar Margarida abandonada das suas discípulas, e possuído de indignação, a constrangera a acompanhá-lo em passeio pelas caminhos da aldeia, saiu Clara do cemitério paroquial onde fora visitar a sepultura de sua mãe. Caminhava vagarosa e pensativa, a irmã de Margarida, por a alameda contígua, e tão distraída ia que, ao passar pela porta lateral da igreja, não reparou que uma sua conhecida, e nossa também, a estava observando de lá.</p>
 <p>Era a Sr.ª Joana, que achando-se com vagar aquela manhã, resolveu cumprir uma antiga promessa a Santa Luzia, que a livrara, havia meses. de impertinente doença de olhos. Outra causa, porém, além desta, e menos piedosa, a impelira a devoção tão matinal.</p>
 <p>Depois da altercação, que violentamente sustentara na véspera com a tia Josefa da Graça, a criada de João Semana, de volta aos lares domésticos, lembrou-se de uma coisa, que lhe podia ter dito, e que na ocasião não lhe ocorrera.</p>
@@ -4165,7 +4165,7 @@
 <p>-- Clara!... Clara!... minha irmã!... minha amiga!... repara ao que me queres obrigar. Pois força-se alguém a uma coisa assim? Diz: Queres que eu me abaixe a...</p>
 <p>Neste ponto forem interrompidas por José das Dornas e pelo reitor, que, depois de muito conferenciarem, se aproximaram delas.</p>
 <p>-- Vocês perdoem, se lhes interrompo a conversa, raparigas; mas é que eu tenho de falar a Margarida -- disse José das Dornas, afagando com as mãos a copa do chapéu, e dando mostras de embaraçado.</p>
-<p>-Margarida, o meu filho Daniel é um estouvado.</p>
+<p>-- Margarida, o meu filho Daniel é um estouvado.</p>
 <p>Margarida desviou os olhos, perturbada.</p>
 <p>José das Dornas, vendo isto, julgou que teria principiado mal, e dirigiu ao reitor uma interrogação muda. O padre fez-lhe sinal que continuasse, e ele continuou:</p>
 <p>-- Desde criança o conheci assim. A quem saiu é que eu não posso saber. Lá que com seus estouvamentos e as suas estroinices desse cabo da saúde e da legítima materna, era uma pena, mas enfim... -- acrescentou, encolhendo os ombros -- entre Deus e ele se decidisse esse negócio. Mas agora, que venha a perder e inquietar os outros com as suas asneiras, isso é que é muito feio; e eu não estou resolvido a sofrer-lho. Muito menos então, quando essa outra pessoa é a pérola cá da nossa terra... Todos o dizem. escusa a menina de fazer esse sinal com a cabeça; que não se precisa cá do seu consentimento para nada.</p>
@@ -4189,15 +4189,15 @@
 <p>O reitor sorria de esperanças.</p>
 <p>Daniel aproximou-se de Margarida, que tremia sobressaltada.</p>
 <p>-- Margarida, -- disse Daniel com timidez -- venho renovar um pedido, que ontem lhe fiz aqui mesmo, e que já hoje lhe repeti; peço-lhe...</p>
-<p>-- Aí, pois ele já?... -- disse José das Dornas para o reitor.</p>
+<p>-- Ai, pois ele já?... -- disse José das Dornas para o reitor.</p>
 <p>-- Já, já; mas cala-te, homem -- respondeu este, ansioso por ouvir a resposta de sua pupila.</p>
 <p>Durante esta interlocução dos dois, havia Daniel acabado de formular seu pedido.</p>
-<p>Margarida ficou por algum tempo silenciosa. Ergueu lentamente os olhos para Clara, viu-a pálida, e notou-lhe no rosto um ar de firmeza, que a assustou. Conheceu que era inabalável a resolução que ela formara.; Margarida dirigiu-lhe ainda um gesto de súplica; Clara respondeu-lhe com um movimento de recusa ambos tão rápidos e tão subtis, que só por ambas podiam ser percebidos.</p>
+<p>Margarida ficou por algum tempo silenciosa. Ergueu lentamente os olhos para Clara, viu-a pálida, e notou-lhe no rosto um ar de firmeza, que a assustou. Conheceu que era inabalável a resolução que ela formara; Margarida dirigiu-lhe ainda um gesto de súplica; Clara respondeu-lhe com um movimento de recusa ambos tão rápidos e tão subtis, que só por ambas podiam ser percebidos.</p>
 <p>-- Então... minha filha? -- disse, quase a medo, o reitor, já pouco tranquilo com a hesitação de Margarida.</p>
 <p>Enfim com voz trémula e mal percebida, ela respondeu:</p>
 <p>-- Que direito tenho de recusar uma proposta... tão generosa? Aceito.</p>
 <p>Na maneira de dizer aquele -- generosa -- ia toda a censura.</p>
-<p>-- Ainda bem! exclamaram os presentes, menos Daniel, porque este apoderara-se da mão de Margarida, e, apertando-a na sua, beijou-a com paixão.</p>
+<p>-- Ainda bem! -- exclamaram os presentes, menos Daniel, porque este apoderara-se da mão de Margarida, e, apertando-a na sua, beijou-a com paixão.</p>
 <p>Margarida estremeceu e... -- vão lá agora acreditar na firmeza do coração humano, quando jura cerrar-se às branduras do sentimento e às explosões da paixão! -- e, por um desses movimentos irresistíveis, por uma dessas soluções, com que se dá no amor o passo tremendo e decisivo das confidências, correspondeu a Daniel, apertando-lhe também a mão.</p>
 <p>Neste momento passou na rua uma rapariga cantando:</p>
 <quote>
@@ -4224,7 +4224,7 @@
 <p>-- Não subo tal; o que tenho a contar-te não se pode contar aí.</p>
 <p>-- Ah! já vejo que ouviste também a história do dia! -- disse o reitor, que suspeitou do que se tratava.</p>
 <p>-- Ouvi, ouvi, e o que me pareces é que tu a não sabes toda, abade; se a soubesses, não estavas com tantas pachorras!</p>
-<p>-Achas? Pois eu não me sinto hoje de maré para me afadigar. Sobe, João Semana, sobe.</p>
+<p>-- Achas? Pois eu não me sinto hoje de maré para me afadigar. Sobe, João Semana, sobe.</p>
 <p>-- E se eu te disser, que enquanto tu aí estás, muito descansado, talvez esteja a correr sangue...</p>
 <p>-- Então deixaste alguma sangria mal vedada, João Semana? Ah! Ah!...</p>
 <p>E o reitor achava deliciosa a mortificação em que via o seu velho amigo.</p>
@@ -4251,7 +4251,7 @@
 <p>E ia retirar-se.</p>
 <p>-- Espera, onde vais tu com tanta pressa? Então não te alegra o coração com estes espectáculos?</p>
 <p>-- Alegra, alegra... mas os meus oitenta anos é que são demais para a alegria dos noivos. Eu, tu e José das Dornas devíamo-nos retirar, porque eles estão agora persuadidos que nunca envelhecem nem morrem e nós estamos aqui a bradar-lhes com os nossos cabelos brancos: Memento... etcetera, etcetera. Diz tu o resto do latim se quiseres.</p>
-<p>-- Isso era bom se eles lembrassem de nós, mas parece-me que nem deram por ti ainda. demora-te, pois, João, demora, que me hás de acompanhar, e mais ao José das Dornas, em uma saúde aos noivos.</p>
+<p>-- Isso era bom se eles lembrassem de nós, mas parece-me que nem deram por ti ainda. Demora-te, pois, João, demora, que me hás de acompanhar, e mais ao José das Dornas, em uma saúde aos noivos.</p>
 <p>-- Pois vá lá -- respondeu João semana -- ainda que saúdes aos noivos, feitas por velhos... Sabes o que dizia o prior de S. Domingos?</p>
 <p>Não podemos saber o que era, porque João Semana disse-o só ao ouvido do reitor o qual não pode suster o riso, ainda que, com um gesto de má vontade, observou ao jovial clínico:</p>
 <p>-- Valha-te Deus, homem... quando te deixarás dessas histórias?</p>
@@ -4269,7 +4269,7 @@
 <p>Joana olhou e compreendeu tudo.</p>
 <p>-- Ora, sim senhor; teve juízo uma vez aquela cabeça, -- disse ela, referindo-se a Daniel, de quem se aproximou; e depois, em tom de familiaridade, perguntou-lhe: -- Então a tal senhora que havia de mandar vir da cidade de vestido a arrastar, e não sei que mais? Olhe que esta não tem os cem mil cruzados que queria.</p>
 <p>-- Mas não vale mais do que todas as outras, Joana?</p>
-<p>-- Ora, boa pergunta! Afalar a verdade não a merecia muito, não.</p>
+<p>-- Ora, boa pergunta! A falar a verdade não a merecia muito, não.</p>
 <p>E, afastando-se um pouco de Daniel e Margarida, pôs-se Joana a olhar para eles ambos, com ar de contentamento, dizendo depois em voz alta:</p>
 <p>-- Não que parece que foram mesmo talhadinhos um para o outro.</p>
 <p>Os três velhos e Pedro, Clara e Daniel riam da observação de Joana; Margarida sorriu também, mas corando.</p>
@@ -4280,7 +4280,7 @@
 <p>José das Dornas, conquanto bem conhecesse que era aquilo um gracejo do cirurgião, assegurou-o que as avenças redobrariam.</p>
 <p>Pedro, achando-se perto de Daniel, abraçou-o com expansão de alegria.</p>
 <p>-- Ou a noite de antes de ontem, ou o dia de hoje, irmão -- dizia ele quase lacrimejando.</p>
-<p>-- Agora sim! -- exclamou o reitor, vendo aqueles contentamentos. -- Agora, quando Deus me chamar a si, posso dar contas limpas aos pais destas raparigas. estou certo que deixo felizes as minhas duas pupilas.</p>
+<p>-- Agora sim! -- exclamou o reitor, vendo aqueles contentamentos. -- Agora, quando Deus me chamar a si, posso dar contas limpas aos pais destas raparigas. Estou certo que deixo felizes as minhas duas pupilas.</p>
 <p>O leitor concordará por certo que devemos fechar por aqui a narração.</p>
 <p>As suaves alegrias das núpcias, imaginem-nas, pelo que sentiram, os felizes que na vida as gozaram já; os outros fantasiem-nas, pelo que tantas vezes sonham, ao pensarem no futuro.</p>
 </div></body>
