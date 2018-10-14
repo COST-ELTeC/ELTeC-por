@@ -5,7 +5,8 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >A Cidade e as Serras</title>
+<title >O Crime do Padre Amaro</title>
+<title  level="s">Cenas da Vida Devota</title>
 <author>Eça de Queirós (1845 — 1900)</author>
 <respStmt>
 <resp>ElTeC encoding</resp>
@@ -17,13 +18,12 @@
 <measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>13 de outubro de 2018</date>. </p>
+<p>Adicionado à coleção ElTeC <date>13 de outubro de 2018</date>. </p>
 </publicationStmt>
 <sourceDesc>
 <bibl>
 <author>Eça de Queirós</author>
 <title>O Crime do Padre Amaro</title>
-<title  level="s">Cenas da Vida Devota</title>
 <publisher><!-- ? --> </publisher>
 <date>1888</date>
 </bibl>
