@@ -50,7 +50,7 @@
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
 <canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 </textDesc>
 </profileDesc>
 <revisionDesc>
