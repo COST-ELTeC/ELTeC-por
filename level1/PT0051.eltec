@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<!--<?xml-model href="../Scheme/eltec-0.rnc" type="application/relax-ng-compact-syntax"?>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PT0051" xml:lang="pt">   
+<teiHeader >
+<fileDesc>
+<titleStmt>
+<title >Os novelos da Tia Filomela</title>
+<author>Dinis, Júlio (1839-1871)</author>
+<respStmt>
+<resp>ElTeC encoding</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">19733</measure>
+<measure unit="pages">1</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>1 dezembro 2018</date>. </p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Júlio Dinis</author>
+<title>Os novelos da Tia Filomela</title>
+<publisher><!-- ? --> </publisher>
+<date>1879</date>
+</bibl>
+<bibl>
+<!-- this tagging needs attention -->
+<title>Edição de "Serões da Província" do Projecto Vercial, da autoria de Deolinda Rodrigues Cabrera, 2000, ortografia atualizada, usada pela Linguateca</title>
+<ref>Obtida em <date> 1 de dezembro de 2018 </date>
+</ref>
+<relatedItem type="sourceEdition">
+<bibl>Dinis, Júlio: Serões da Província. Porto, 1879.</bibl>
+</relatedItem>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p></p>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2018-08-31" >Nada</change>
+</revisionDesc>
+</teiHeader>
+<text xml:lang="pt-PT">
+
+<front>
+<div type="titlePage"><head>Os novelos da Tia Filomela</head>
+</div>
+</front>
+<body>
+<pb/>
+<div><head>I</head>
+<p>A tia Filomela era uma pobre mulher que eu conheci noutro tempo, muito enrugada, muito magrinha, com uma coluna vertebral como a do homem das cortesias do método Castilho; queixo e nariz prolongando-se-lhe em promontórios agudos e a fazerem lembrar os crescentes sob os minaretes das mesquitas; olhos abertos para o mundo, somente quanto bastava para lhe descobrir as vaidades, e a cabeça incessantemente animada por um movimento convulsivo, que, junto ao sorriso contínuo e quase irónico que se lhe estampara nos lábios, dava à fisionomia de ordinário meditativa da velha não sei que vislumbre de filosofia céptica, que impressionava quantos a viam.</p>
+<p>Os hábitos da tia Filomela atingiam o sublime da parcimónia.</p>
+<p>Uma sociedade inglesa de temperança não hesitaria em lhe conferir diploma de súcia honorária, se deles tivesse notícia.</p>
+<p>A voz estava em flagrante antagonismo com o nome melodioso, que predilecções, provavelmente maternas, lhe tinham dado na pia baptismal.</p>
+<p>De facto a tia Filomela - a culpa não era sua - faria corar de vergonha o rouxinol, seu harmonioso homónimo, se isto de corar não fosse esquisito atributo da espécie humana.</p>
+<p>Eu não posso comparar o timbre daquela voz a ruído algum conhecido na natureza; em mim produzia o mesmo desconsolado efeito que me causa aos nervos o roçar do metal agudo sobre uma mesa de mármore polido.</p>
+<p>Ouvindo falar algum tempo a tia Filomena, ficava-me a doer o peito, e o pulso subia a um algarismo em que principiava a revelar aspirações a febre.</p>
+<p>Se me obrigassem a viver com ela muito tempo, estou que morreria ético.</p>
+<p>Um dia falei nisto a um médico e ele explicou-me o fenómeno por uma palavra inexplicável.</p>
+<p>Chamou-lhe uma idiossincrasia.</p>
+<p>Eu dei-me por satisfeito. A coisa não era para menos.</p>
+<p>Quando eu, com a minha idiossincrasia, conheci a tia Filomela, gozava a mulher de uma reputação que, a falar a verdade, não se podia dizer das mais lisonjeiras.</p>
+<p>A gente da vizinhança - as vizinhanças na aldeia compreendem-se num circuito de três léguas de raio - teimava a pés juntos que ela mantinha sinistras relações com os espíritos ruins, que aos sábados não faltava às soirées do diabo; e enfim que era a pobre velha nem mais nem menos do que uma ladina e famigerada feiticeira.</p>
+<p>Punge-me ter de arquivar aqui, forçado como sou pela veracidade de cronista, que a origem principal de semelhantes boatos a fui encontrar na parte bela e amável do sexo do qual a tia Filomela era um espécimen de avariado.</p>
+<p>A beleza e a juventude fazem disto. As que as possuem, orgulhosas de seus dotes sedutores, invejam-se e odeiam-se mútua e cordialmente; ao mesmo tempo que desprezam e caluniam as desfavorecidas nesse ponto pela nem sempre muito imparcial natureza.</p>
+<p>Consideração suavemente consoladora para as leitoras feias, que não incorrem pelo menos num destes pecados.</p>
+<p>Foi efectivamente a uma conversa de raparigas que eu devi a revelação da íntima correspondência entre a tia Filomela e os espíritos das trevas.</p>
+<p>Disse-mo Luisita, tomando certo ar de misteriosa seriedade, tal como a natureza do assunto o reclamava.</p>
+<p>Luisita era uma galante rapariga dos arredores.</p>
+<p>O diminutivo com que a designo aqui, e que era o adoptado por todos, vale mais do que qualquer minuciosa descrição.</p>
+<p>Nós, os peninsulares, não empregamos indiferentemente as variedades de diminutivos que possui em abundância a nossa língua.</p>
+<p>Entre uma mulher a quem chamamos Luisita e outra que nos valeu a mais doce denominação de Luisinha, vai uma diferença considerável: diferença de tipo, diferença de hábitos, diferença de carácter.</p>
+<p>Uma será meiga, ingénua e sensível, quase sempre loura e alva, corando à menor palavra que lhe dirigirdes, baixando os olhos confusa, se a fitardes um momento; pronta a chorar de saudade, e tendo não sei que de triste até nas mais intensas alegrias. Na outra, pelo contrário, encontrareis certa petulância e travessura, que arrostarão com vossos olhares mais impertinentes, um rosto provocador, risos prontos e francamente joviais, movimentos vivos, respostas fáceis e naturalmente epigramáticas; uma zombaria a cada galanteio; a cada fineza, uma reflexão que vos desconcerta, e revelando sempre, até por entre lágrimas, um fundo inesgotável de contagiosa alegria.</p>
+<p>Tal era Luisita. Tal a conheci eu naquele tempo. Tinha ela então dezoito anos; era baixa, trigueira, de olhos negros e engraçados; ninguém passava por ela na estrada que involuntariamente se não voltasse depois para a seguir com a vista. Adivinhava-o e lisonjeava-se com isso. Subitamente voltava-se também para surpreender em flagrante os numerosos contempladores, e poucas vezes podia reprimir uma risada, se conseguia perceber que os mortificara com a descoberta.</p>
+<p>O rosto dela era o mais gracioso conjunto de imperfeições que pode perturbar a cabeça dos menos predispostos para influências de tal ordem.</p>
+<p>A natureza folga, de quando em quando, de pregar destas pirraças aos profundos conhecedores da arte, que imaginam ter descoberto as verdadeiras leis do belo, em suas variadas manifestações. Apresenta-lhes uma dessas figuras de mulher que não resistem à análise, incorrectas e repreensíveis segundo as regras da arte e, a despeito de todas as teorias e sistemas, mau grado todos os princípios fundamentais de estética ou de plástica, inspira-lhes com elas as mais endiabradas paixões que podem transformar o juízo destes absolutos legisladores da coisa menos legislável do mundo.</p>
+<p>Impressionados a seu pesar, como os severos apreciadores de música, de mal consigo mesmo quando, em contradições com seus sistemas a priori, se deixam entusiasmar pelos inspirados defeitos de Verdi, os tais artistas filósofos são então de uma inconsequência que me delicia.</p>
+<p>É para ver como estes frios analistas, sempre prontos a pretender encontrar em certas combinações de curvas, certo contraste de cores, certa proporção de diâmetros, a razão de ser da beleza e a causa única das sensações que ela inspira, param confundidos diante de uma dessas sedutoras irregularidades, que, despedaçando os moldes acanhados onde julgavam conter o poder criador do belo, lhes revela a cópia de recursos de que, em suas felizes infracções desses imaginários códigos, a natureza dispõe ainda, a ocultas da pretensiosa arte.</p>
+<p>Diante de tão misteriosas sínteses, que de uma maneira desconhecida assim profundamente nos afectam, é que a análise, destruindo tudo, à força de tudo querer decompor, se mostra pequena e incompleta.</p>
+<p>Mas estava eu falando de Luisita, que mal suspeita por certo ter servido de tema a considerações desta ordem.</p>
+<p>Simpática rapariga aquela! Misto de ruindade e de candura, de timidez e de astúcia, carácter caprichoso e às vezes impertinente sobre um fundo de inexcedível bondade, agradava-me por isso mesmo. A bondade excessiva, sempre incoerente consigo, as abnegações completas, aproximam-se demasiado da perfeição angélica; são muito isentas de cor terrena, para nos inspirar outro sentimento que não seja o da veneração. Interessam-nos mais estes caracteres, que parece tocarem por um lado no céu sem de todo se desprenderem da terra, por onde justamente se acham em mais íntima relação connosco.</p>
+<p>Lado frágil e vulnerável, que maiores simpatias nos desperta. A avezinha que todos nós mais amamos é a que, ferida na asa, não eleva voos a grande altura do solo.</p>
+<p>Ao menos eu por mim declaro-me mais sujeito a ser impressionado por estes caracteres mistos de mulher e de anjo, e às vezes até com seus ressaibos de demónio.</p>
+<p>Fazem-me lembrar - porque o não direi? - as felizes combinações que a cada passo realizam os confeiteiros, associando como correctivo a adstringência de um ácido à excessiva e às vezes enjoativa doçura das massas de pastelaria.</p>
+<p>Perdoem-me o comezinho da comparação e deixem-me continuar.</p>
+<p>Dizia eu que fora de Luisita que obtivera as primeiras informações sobre a vida escandalosa da tia Filomela.</p>
+<p>E por sinal que ia ficando de mal comigo ao divisar-me nos lábios, ao passo que falava, um sorriso de incredulidade.</p>
+<p>- O senhor ri-se? - disse-me ela com um gesto de contrariedade e uma ruga de mau humor a sulcar-lhe a fronte, o que lhe dava à fisionomia a mais adorável expressão de cólera feminina que se pode imaginar - é dos tais que não acredita em feiticeiras?</p>
+<p>- Se acredito! Tanto que ando enfeitiçado.</p>
+<p>- Anda? - continuou ela, tomando já um aspecto todo risonho por aquela extrema mobilidade de feições que possuía, a par de igual mobilidade de carácter - vire o casaco do avesso; dizem que é remédio pronto.</p>
+<p>- Do avesso trago eu o coração, a julgar pela desordem que sinto cá dentro.</p>
+<p>- Sim? Então quem lho voltou?</p>
+<p>- Olhe que não foi a tia Filomela, isso lhe juro eu. Há feiticeiras na terra, mas são de outra casta.</p>
+<p>- Vamos então a saber. Conte-nos isso. Quem são essas feiticeiras? - disse a minha gentil interlocutora a provocar um cumprimento que pressentia.</p>
+<p>Saboreei um prazer de deuses em lhe não dar esse gosto e respondi-lhe:</p>
+<p>- As feiticeiras são estas árvores, estas flores, estas campinas e montes, estas tardes e madrugadas, que tão enfeitiçado me trazem que não há tirar-me daqui.</p>
+<p>Ela compreendeu porém a táctica e respondeu-me com uma gargalhada provocadora.</p>
+</div><div><head>II</head>
+<p>Esta cena passava-se na tarde de um domingo e no largo onde se reunia para dançar, rir, cantar e falar de amores, a parte jovem da população; e para rezar, dormir e falar do passado e das vidas alheias, a outra porção mais favorecida de anos e menos de descuidosa alegria.</p>
+<p>Deste lugar, situado na encruzilhada dos quatro principais caminhos que atravessavam a aldeia, estendia-se a vista, do lado ocidental, numa série extensa de várzeas e de campinas divididas em quarteirões, regulares como os tabuleiros de um jardim, por longas fileiras de choupos que as vides, enleando-se-lhes nos ramos, guarneciam com pendentes e viçosos festões.</p>
+<p>A diferente qualidade ou vigor de plantação e o diverso grau de cultura desses numerosos campos em que se repartia a planície davam a cada um deles uma aparência particular, quebrando agradavelmente a ordinária monotonia dos terrenos pouco acidentados.</p>
+<p>A natureza empregara na tela os mil cambiantes da cor verde, própria às paisagens campestres, e, por um segredo de colorido que a arte mal pôde ainda imitar, soubera introduzir, na pintura em mosaico dessas vicejantes alcatifas, no meio de uma uniformidade aparente, a mais aprazível variedade.</p>
+<p>Aqui e além elevados castanheiros, frondosos carvalhos ou oliveiras verde-pálidas formavam pequenos bosques em volta de uma ou de outra habitação isolada, como para ocultar o mistério de alguma existência obscura que se deslizasse ali e concentrar no seio da família o grato calor dos lares domésticos que alimenta e vigora os mais afectuosos sentimentos do coração humano.</p>
+<p>Cada uma dessas habitações solitárias, assim envolvidas na sombra dos olivais, dos soutos ou das devesas, assim recatadas e discretas, como aquelas pessoas naturalmente pouco expansivas que se calam com as alegrias e experimentam no gozá-las em silêncio a mais casta voluptuosidade, me parecia encerrar um poema inteiro de íntimas felicidades. A cada uma delas associava a minha imaginação, obedecendo a não sei que irresistível necessidade de fantasiar, uma vida de tranquilos e inefáveis prazeres, cuja só concepção me deleitava.</p>
+<p>E como para que às comoções agradáveis que toda esta cena despertava, não faltasse certa melancolia, que se insinua em nossos mais delicados sentimentos, lá estava, a suscitar-ma, junto da igreja paroquial, o cemitério da aldeia, sem a magnificência dos mausoléus, mas com a poesia da tristeza; sem longas ruas assombradas por cedros e ciprestes, mas abundantes em rosais sempre floridos, que, balouçados pelo vento, cobriam de pétalas desfolhadas as campas mais humildes e obscuras, onde nem sempre a amizade depusera sequer a devida homenagem de uma flor.</p>
+<p>Mais longe, principiava o terreno, em suave declive, a elevar-se como nos degraus sucessivos de um extenso anfiteatro e sempre tão rico de vegetação, tão revestido de árvores e de relva, que dava ao país naquele ponto a pitoresca aparência de um vasto cabaz a transbordar de verdura e de flores.</p>
+<p>Nesta graciosa corrente de pequenas colinas, que circundavam a planície, divisavam-se as povoações vizinhas, como pequenos pontos brancos dispersos ou amontoados, por entre os arvoredos da encosta.</p>
+<p>De cada uma delas começava já então a erguer-se o fumo dos lares em colunas densas e tortuosas, que cedo se misturavam, difundiam, rasgavam em mil pequenas nuvens irregulares, dissolvendo-se por fim numa atmosfera de vapores, que pouco a pouco, como em transparente cendal, envolvia toda a paisagem.</p>
+<p>Mais distante, ainda no extremo do horizonte, desenhavam-se em grandes sombras, vagamente contornadas sobre o claro do céu, iluminado àquela hora pelos últimos raios do Sol no ocaso, cordilheiras de remotas serras que, tingidas por a uniforme cor azulada das paisagens longínquas, mais pareciam pesados cúmulos de nuvens surgindo ameaçadores do ocidente.</p>
+<p>Quase sempre as coroavam altas neves, onde o Sol, reflectindo-se, produzia surpreendentes efeitos de óptica, simulando fantásticos palácios de pórfiro e pedrarias. Daí se precipitavam as torrentes, que pouco a pouco, descendo nos vales e enleando-os nas malhas de uma rede complicada de arroios cristalinos, trocavam a primitiva impetuosidade, ao despenharem-se, como cataratas, em fragosas ribanceiras, por um sereno deslizar entre silvados e relvas, que apenas denunciava um confuso murmúrio.</p>
+<p>Se, depois de ter assim contemplado este panorama risonho e aprazível, voltássemos os olhos para o lado do oriente, reconheceríamos um desses contrastes a que é tão afeiçoada a natureza nos países onde mais inesgotável se mostra em seus recursos de artista; uma dessas rápidas mutações de cena que deleitam, variando de momento para momento as impressões que produzem.</p>
+<p>De facto, a perspectiva era deste lado mais limitada, ainda que absolutamente não menos bela.</p>
+<p>Logo a pequena distância principiava o terreno a assumir uma rápida inclinação, perdendo ao mesmo tempo a amenidade e vigor da vegetação dos vales para revestir a severa e melancólica beleza das paisagens alpestres.</p>
+<p>Na base desta colina, tão diversa das que do lado oposto parecia sorrirem-lhe envolvidas em seus vistosos mantos de folhagem, vinham expirar as últimas oliveiras, já pálidas e débeis, como se o vento das montanhas lhes consumira o vigor. À cor viçosa da relva sucedia pouco a pouco o verde sombrio das giestas e do tojo; suas tristes flores amarelas aos variegados matizes com que se adornam os campos; às sombras densas e impenetráveis das devesas, as sombras enganadoras dos pinhais; o gemer melancólico das rolas, o grito rouco dos gaios, os alegres gorjeios que ressoam nos vales, e o cheiro activo das resinas, aos brandos aromas das flores do prado.</p>
+<p>Ao topo deste monte, em toda a extensão do qual nenhum vestígio de cultura e animação interrompia, por espaços sequer, o aspecto selvagem e de completo isolamento que nele imediatamente nos impressionava, conduzia, descrevendo longas sinuosidades, um caminho íngreme e quase intransitável, comprimido entre elevadas paredes desse terreno argiloso de cor ensanguentada, donde raro brota uma planta, ou nasce sempre estiolada e débil, desfolhando-se ao menor sopro de aragem que por momentos a agite.</p>
+<p>Iminente a esse caminho, no qual em pleno dia penetravam apenas os raios de um pálido crepúsculo, e a mais de meia encosta do monte, existia a casa da tia Filomela, que não desdizia, na sua aparência de miséria e tristeza, da paisagem que lhe servia como de fundo de quadro.</p>
+<p>Fora esta casa solitária no meio de um pinheiral sombrio, que, contrastando fortemente com a amenidade da perspectiva fronteira, onde tudo era vida e cultura, me atraíra a atenção e dera lugar ao diálogo no qual a personalidade da pobre mulher começava a ser discutida, não demasiado lisonjeiramente para ela.</p>
+<p>A conversa travada entre mim e Luisita pouco a pouco se generalizou; e tão popular era o assunto, que todos tomaram parte nela, interrompendo as danças, dando tréguas às violas, e sacrificando-lhe até os trocadilhos amorosos com que mutuamente se mimoseavam os namorados.</p>
+<p>A minha incredulidade aumentou o ardor e vivacidade das insistências; longe por isso de aproveitar à pobre Filomela, antes a ia prejudicando.</p>
+<p>- E ver, é ver - dizia uma morena, apertando debaixo da barba o lenço escarlate, que com o movimento da dança se lhe havia desatado -logo que veio para ali aquela bruxa, foi um morrer de crianças como nunca se viu.</p>
+<p>- E os carneiros do ti Zé da Nora, que em menos de quinze dias lhe morreram todos, mirrados como um torresmo? - acrescentava outra, levando aos dentes, alvos como o marfim, uma laranja que principiava a descascar.</p>
+<p>- E os pregos que lançou pela boca fora a tia do João dos Moinhos?</p>
+<p>- Ora! nem que ela lançasse pregos! isso pode lá ser! - disse, simulando cepticismo, um rubicundo mocetão de vinte anos, que alimentava para estas coisas no fundo da alma a mais fervorosa crença.</p>
+<p>- Não? pois pergunta-o ao Sr. doutor, que saiu de casa dela a benzer-se e a dizer que não era aquilo doença de médicos.</p>
+<p>- E verdade, é verdade. E foi lá o Sr. abade fazer-lhe os exorcismos.</p>
+<p>- Qual? o novo?</p>
+<p>- Não, o antigo, que Deus haja. O novo sim, olha, olha o outro!</p>
+<p>- Esse bem se fia nestas coisas.</p>
+<p>- Assim Deus me perdoe, como ele me parece bruxo.</p>
+<p>- Estás doida, rapariga!</p>
+<p>- Eu digo isto. Pois não vêem como fala de mano a mano com ela?</p>
+<p>- Se fosse bruxo, não faria as esmolas que faz - redarguiu Luisita, obedecendo aos seus bons instintos.</p>
+<p>- Nanja eu que lhas quisesse.</p>
+<p>- Que dizes tu, mulher, que dizes? Ora o Senhor te não castigue.</p>
+<p>- Amém. Mas então para que conversa ele com a tia Filomela, sabendo de que casta ela é? Como lá diz o outro: «Quem não quer ser lobo..</p>
+<p>- Ele sabe lá se ela é bruxa!</p>
+<p>- Pois não lho dizem todos, e não repara que nunca ouve missa, e nem sequer vai à igreja?</p>
+<p>Eu vi Luisita quase disposta a tomar a defesa da tia Filomela. A contradição irritava-a e instigava-a a reagir com toda a força de sua natural impaciência.</p>
+<p>Uma das circunstantes, porém, trouxe novo artigo de acusação contra a velha Filomela, e conseguiu reunir de novo as opiniões que a questão do reitor havia dividido.</p>
+<p>- Sabem vocês, a minha capa nova? Fui-a encontrar toda às tesouradas depois de uma terça-feira em que passei pela tia Filomela lá em baixo nas presas.</p>
+<p>- Credo! e tomaste a trazê-la, rapariga?</p>
+<p>- Deus me livre!</p>
+<p>- E não cozeste o bruxedo?</p>
+<p>- Ainda não. Como é que isso se faz?</p>
+<p>- É preciso ferver toda a roupa numa panela que ainda não tenha servido, e barrá-la muito bem com lodo e...</p>
+<p>- Não - acrescentou uma outra - antes lançam-se na água sete pedras de sal, com a mão esquerda.</p>
+<p>- Isso é depois...</p>
+<p>- Não, senhora, é antes.</p>
+<p>- Vem-me ensinar a mim, que o vi fazer à Joana do Viúvo, quando lhe embruxaram o sobrinho.</p>
+<p>- Sim, mas também a Joana não diz as palavras que dizia a Rosa do Emídio, e sem elas não se faz nada, ah!</p>
+<p>- Se não diz essas, diz outras.</p>
+<p>- E que palavras são? - perguntou a proprietária da capa enfeitiçada.</p>
+<p>- As da Joana são assim:</p>
+<p>T'arrenego esp'rito imundo.</p>
+<p>Vai-te p'ra os fogos eternos,</p>
+<p>Lá no fundo, bem no fundo,</p>
+<p>Das profundas dos infernos.</p>
+<p>Água quente da panela</p>
+<p>Ferva esta roupa bem cedo,</p>
+<p>Fervida seja com ela</p>
+<p>A bruxa com seu bruxedo.</p>
+<p>- Como é o resto?... A bruxa com seu bruxedo... a bruxa com seu bruxedo - repetia a rapariga, vasculhando em vão a memória para achar o resto da cantilena imprecatória da Joana do Viúvo -vedes, não me lembra, mas é assim uma coisa.</p>
+<p>- Mas há-de ser dito com um ramo de alecrim bento na mão, fazendo três cruzes no ar a cada verso.</p>
+<p>- Isso já se sabe.</p>
+<p>Outra aventurou do lado o seguinte alvitre:</p>
+<p>- Diz que também o que é muito bom contra as feiticeiras, diz que é hortelã verde do monte.</p>
+<p>- Ora isso é para matar saudades. Quando o nosso Zé foi para o Brasil, minha mãe coseu-lhe hortelã no forro do colete, porque o pobre rapaz, coitadinho, ia esmorecido de todo.</p>
+<p>- Eu cá do que sempre uso é de figas de azeviche - opinou outra, exibindo, como prova do seu dito, um dos objectos mencionados.</p>
+<p>- Sim, que não chuparam as bruxas o pequeno da Tomásia e mais tinha no pescoço uma figa que lhe dera a madrinha.</p>
+<p>- O pequeno da Tomásia morreu de uma febre.</p>
+<p>- Boa febre! Pois não se viu a olhos vistos! Podiam-se-lhe contar as marcas que lhe deixaram as feiticeiras. Tinha o corpinho todo sarapintado de nódoas roxas, que era mesmo uma pena vê-lo.</p>
+<p>- Eu desde que uma tarde, era já ao lusco-fusco, vi rondar a tia Filomela, com pés de lã, em volta da casa de Tomásia, logo me deu uma pancada no coração.</p>
+<p>- E eu que tantas vezes lhe disse: - Tomásia, tu tem cautela com o teu filho! - Não sei o que me dizia o que tinha de suceder.</p>
+<p>- A rapariga também era desmazelada - observava outra, mantendo a conversa no tom de maledicência em que já ia afinada. -Deixava andar sozinha aquela criança, ainda a engatinhar, em termos de lhe acontecer alguma desgraça. Quantas vezes a fui eu tirar da ribanceira e quase a rolar por ela abaixo?</p>
+<p>- Não, eu sempre digo que há mães também!</p>
+<p>- Depois então é que é o gritar: Ai o rico filho da minha alma! como ela gritava, que era até uma vergonha.</p>
+<p>- Ora, uma vergonha sim! isso é bom de dizer, mas coitado de quem os tem!</p>
+<p>- E como o outro que diz: aquilo sempre é sangue do nosso sangue.</p>
+<p>- Mas então que olhem por eles; não é só quando morrem que...</p>
+<p>- A gente, enquanto eles têm saúde, nem bem sabe o amor que lhes tem; depois é que tudo são aflições.</p>
+<p>- Isso lá é assim, é.</p>
+<p>- Malditas bruxas - diziam algumas vozes, como se fora um estribilho de canção.</p>
+<p>- Nessa mesma noite em que morreu o pequeno, foi que elas apareceram ao Luís do Canha.</p>
+<p>- Ai, então apareceram-lhe as bruxas alguma noite?</p>
+<p>- Pois não o sabias, mulher?</p>
+<p>- Eu não!</p>
+<p>- Admira! Tanto se falou nisso.</p>
+<p>- Mas então que foi? Eu não sei de nada.</p>
+<p>- Foi uma noite em que o Luís do Canha veio mais tarde da cidade, e não encontrou companhia. Era num sábado. Ao passar nos Telheiros, pareceu-lhe ouvir o barulho de lavadeiras a bater a roupa nas presas. O rapazinho, admirado de que se lavasse àquelas horas, parou um pouco e pôs-se a olhar para baixo.</p>
+<p>- E que viu? - perguntaram-lhe em coro umas poucas de vozes com uma inflexão em que se revelava o mais vivo interesse.</p>
+<p>- Muitas sombras assim como fumo a correr de um lado para o outro, à roda, à roda, como folhas secas em dia de ventania. E logo umas risadas e umas vozes que chamavam por ele: - Luís! Luís! onde vais tão tarde? espera, espera, ouve um recado. - O pobre rapaz sentiu que se lhe arrepiavam os cabelos da cabeça e deitou a correr com toda a pressa que pôde.</p>
+<p>E aquelas risadas a persegui-lo. Ele a correr, e as vozes a chamá-lo; depois apareceram-lhe umas sombras negras, altas como gigantes, que fugiram a esconder-se por entre as árvores, fazendo um barulho como o do vento nos pinheirais, e umas luzinhas a aparecer e a desaparecer. Quando passou nos moinhos, viu à beira do riacho assim como um corpo morto, embrulhado num pano branco e a gritar: - Ai quem me acode! ai quem me acode! - E assim o seguiram e perseguiram, até que o rapazinho, chegando ao pé da igreja, disse: - Valha-me Nossa Senhora do Amparo! valha-me Nossa Senhora do Amparo, minha madrinha! - Tudo então desapareceu.</p>
+<p>- Credo! - disse uma das ouvintes, benzendo-se - se fosse isso comigo... eu sei lá?... já tinha morrido de susto.</p>
+<p>- Pouco faltou ao Luís, que andava parecia enterrado em vida.</p>
+<p>- Bom dinheiro gastou o pai para lhe tirar o mau-olhado.</p>
+<p>- Foram todos a pé ao Senhor de Matosinhos, com uma vela do tamanho do rapaz, e só então é que ele ficou bom.</p>
+<p>- Santo nome de Jesus! nunca vi terra tão azada a bruxas como esta nossa!</p>
+<p>- E o homem da Teresa dos palheiros? aquilo é feitiço ou não é feitiço?</p>
+<p>- Que feitiço? que feitiço? - exclamou uma gorda rapariga que tinha motivos pessoais para não simpatizar com a tal Teresa dos palheiros - que queriam vocês que ele fizesse com uma mulher daquelas?</p>
+<p>- Então que tem a mulher, criatura?! Tu também'</p>
+<p>- Isso; perguntem-no a mim, que há-de ser preciso. Ora já viram!</p>
+<p>- Mas diz lá o que tem?</p>
+<p>- O pobre do homem a trabalhar como um moiro, e ela a gastar-lhe tudo em roupinhas e gibões.</p>
+<p>- Isso é feitiço que nos espera a todos - disse o principal tocador de viola da aldeia, apertando uma cravelha do instrumento, e experimentando nas cordas, irritantemente melodiosas, o grau de afinação.</p>
+<p>Estas palavras, consideradas ofensivas pela parte feminina do auditório, suscitaram uma discussão em que foram postos em paralelo os defeitos e qualidades dos dois sexos, de ambos os lados com apaixonada parcialidade.</p>
+</div><div><head>III</head>
+<p>O vento que soprava do lado do monte trouxe-nos neste momento aos ouvidos bem distinta, apesar da distância, a voz da tia Filomela, com aquele timbre particular e penetrante que já lhe conhecemos.</p>
+<p>Chamava pelo seu gato preto, magro quadrúpede que a junta de inspecção do exército, de que fala a Gaticânea, excluiria por incapaz do serviço militar.</p>
+<p>Este gato era um gravíssimo indício da criminalidade da tia Filomela. Sempre que eu o via, regozijava-me interiormente por se terem apagado havia muito as fogueiras do Santo Ofício. Se elas ainda existissem, não sei eu se a tia Filomela, com semelhante fama e com semelhante gato, haveria escapado ao processo de torrefacção com que naqueles infelizes tempos se apurava a fé.</p>
+<p>- Então, visto isso - perguntei à Luisita - aquele gato é o diabo?</p>
+<p>- Cruzes! - exclamou ela, como correctivo ao feio nome que eu não hesitara em proferir, e depois acrescentou: - e não o diga a mangar, é ver como esse mafarrico anda em guerra aberta com os outros gatos e dá cresta de quantos pilha.</p>
+<p>- Ah! pelo que vejo, o diabo ocupa-se agora em baixos mesteres. Voltou-se contra os gatos! Que decadência!</p>
+<p>- Está a brincar?</p>
+<p>- Não, falo sério. Ora diga, a menina acredita deveras que o diabo lhe dê para embirrar com os gatos? Quem a persuadiu de semelhante coisa?</p>
+<p>Não sei. Vejo que não crê no que lhe digo. Pois faz mal.</p>
+<p>- Mas vamos cá, a tia Filomela então...</p>
+<p>- Para quê se não quer acreditar?</p>
+<p>- Quem lhe disse que não quero? Eu só desejava que mostrasse a razão por que ela é bruxa.</p>
+<p>A rapariga fez um gesto de impaciência.</p>
+<p>- Bem sei que me vai dizer que ela é feia e velha... Ora aí está o que eu não posso admitir...</p>
+<p>Estas palavras granjearam-me uma estrondosa gargalhada.</p>
+<p>- Então acha-a bonita e nova? E diz que não está enfeitiçado! Ah! ah! ah!...</p>
+<p>- Valha-me Deus! Não é isso. O que eu não admito é que as bruxas sejam feias. As que me enfeitiçam são outras.</p>
+<p>- Ai, isso é cantiga? - E, tomando um ar comicamente sisudo, continuou: - Ora, mas fique sabendo que a tia Filomela, em certas noites, berra de maneira que se ouve no povoado.</p>
+<p>- Histórias! Afinal há-de ser o pavão da quinta das Cerdeiras.</p>
+<p>Luisita encolheu os ombros expressivamente e prosseguiu sem mais resposta:</p>
+<p>- Acende-se às vezes em casa dela, lá por altas horas, um lume vermelho...</p>
+<p>- Que faria se fosse azul! Aí está a justificação da boa mulher, vê? O lume do inferno é azulado; não sabe que é de enxofre?</p>
+<p>Luisita olhou para mim, meia a rir-se meia despeitada.</p>
+<p>- Com'assim! Para que me hei-de estar a cansar? Sabe que mais? Espere pelo sábado, ponha-se à espreita e verá bonitas coisas.</p>
+<p>- Lembrou bem; hei-de observar uma noite a tia Filomela.</p>
+<p>Nem a mangar diga isso.</p>
+<p>- Digo-o muito a sério.</p>
+<p>- Credo! Deus o livre!</p>
+<p>- E depois hei-de contar-lhe o que me sucedeu.</p>
+<p>- Não, se tal fizesse, nada me contaria depois.</p>
+<p>- E por que não?</p>
+<p>- Porque estaria morto.</p>
+<p>- Santo nome de Deus! que sorte tão negra! sempre tem coisas!</p>
+<p>- E não se fia!</p>
+<p>- Aposto até que a tia Filomela me há-de dar de cear.</p>
+<p>- Não diga isso, que até é pecado.</p>
+<p>- Que mandamento ofendo eu?</p>
+<p>- Vamos, agora falo a sério. Os senhores da cidade têm tolices e pode muito bem dar-lhe na cabeça essa extravagância. Olhe que não é uma história o que lhe digo; a tia Filomela sai muita vez de noite e anda pelos montes feita numa luzinha, e de mês a mês vem visitá-la um homem de má catadura. Há quem o tenha visto; entra e sai logo.</p>
+<p>- E então quem é esse homem?</p>
+<p>- O demo ou coisa que lhe pertence; vem dar-lhe parte da grande assembleia de bruxas.</p>
+<p>- Ah! reúnem-se mensalmente? É para discussão dos estatutos? O bom humor da minha interlocutora havia-se esgotado; fez um movimento de não dissimulada impaciência, encresparam-se-lhe os lábios num sorriso de generosa comiseração, e, depois de me fitar por alguns instantes, voltou-me as costas, deixando-me entregue à minha ímpia incredulidade.</p>
+<p>Foi bem feito!</p>
+</div><div><head>IV</head>
+<p>Mas o caso é que haviam conseguido excitar-me o interesse pela tia Filomela, em quem até ali mal atentara sequer.</p>
+<p>Eu tinha então vinte anos, e nesta idade não há imaginação tão de gelo que não medite o seu romance. Todos nós pagamos esse tributo à violência de nossos sentimentos, à facilidade de nossas impressões e tendências que então sentimos para uma vida mais ideal, menos comprimida nos moldes estreitos da realidade.</p>
+<p>Nem sempre esses romances se transportam aos livros, nem sempre se desenvolvem em capítulos, ou revestem uma forma literária qualquer; muitos são os que abortam, os que não recebem a encarnação da escrita; tanto pior para a literatura, que fica assim privada talvez de seus mais perfeitos primores de arte.</p>
+<p>Quer-me parecer que a literatura realizada até hoje seria apenas um fraco reflexo desta que, assim concebida um momento, se destrói em gérmen e não passa dos primeiros lineamentos embrionários. Porque nem sempre a improdução é prova de absoluta esterilidade. - O que há de mais misterioso, de mais admirável e eternamente incompreensível para inteligências humanas - a concepção - é uma faculdade menos privativamente concedida do que se julga talvez; mas condições secundárias podem e vêm muitas vezes aniquilar-lhes os produtos logo à nascença, como um defeito de organização sacrifica ao primeiro desenvolvimento o gérmen de um futuro ser. Muitos que se pressentem as delícias e voluptuosidades da concepção não podem vencer as fadigas penosas do trabalho que executa e que reveste esses filhos da fantasia criadora da forma que os torna visíveis.</p>
+<p>Em meu espírito laborava então esta necessidade de criar um mundo imaginário, onde vivesse mais à vontade do que no mundo real. Tal é quase sempre a origem de tantos romances escritos - e de mais ainda fantasiados apenas - que nos ocupavam as vigílias da juventude e às vezes reflectem o colorido mágico em nossos mais deliciosos sonhos.</p>
+<p>Debaixo dessa poderosa influência é que eu via então as coisas, os homens e a natureza; eram essas ideias que me tinham acompanhado ao campo e me faziam perceber na sombra dos bosques, nos cambiantes das flores, nos indefinidos murmúrios das brisas embalsamadas e da folhagem viçosa, mistérios de luz, de harmonias e de perfumes não sentidos por outros; invisível atmosfera de poesia e de ideal em que tudo parecia envolver-se a meus olhos, que me fazia conceber um drama, depois de ouvir a narração de um suicídio; imaginar uma alegria, um poema talvez, ao saber da morte de uma rapariga de quinze anos; que me mostrava um Chatterton em cada escritor pálido; - uma Diana Vernon, em cada amazona a cavalo; - um Antony, em cada enjeitado; - uma Graziela, em cada filha de pescador; - uma Indiana, em cada crioula; em cada criada de servir, uma Genoveva; e até um segundo Quasímodo, num pobre sineiro que conheci na Sé do Porto. Feliz tempo aquele!</p>
+<p>Via uma rapariga a chorar, um velho sentado, ao pôr do Sol, debaixo de uma árvore, um grupo de crianças brincando à borda de um regato, uma mãe amamentando o seu primeiro filhinho, um artista de blouse a ler nas horas de descanso à porta da oficina, uma costureira serandando à luz do candeeiro - eram outros tantos romances que imaginava; sempre romances, romances em tudo, por toda a parte. A dificuldade estava na escolha. Felizmente que nunca me meti a averiguar como filósofo por que chorava a rapariga, em que pensava o velho, o que diziam as crianças, o que ia no coração da mãe, que livro lia o artista e os hábitos e vida íntima da costureira; talvez que, se me desse a esse trabalho, me reservasse a realidade bem desagradáveis desilusões; por isso o encarregava todo à fantasia.</p>
+<p>Imaginem pois o efeito que as palavras de Luisita e das companheiras deviam ter produzido no meu espírito, assim predisposto para concepções desta ordem.</p>
+<p>Passeios nocturnos, gritos desentoados, visitas misteriosas, luzes avermelhadas, um casebre solitário, uma velha decrépita, um gato negro... que preciosidades!</p>
+<p>«Ó pobre tia Filomela, que tiveste a desventura de, mal o imaginando talvez, te revestires de aparências românticas, és minha presa! já te não livras das garras do romancista, ávido de assuntos, sequioso de situações, guloso de tipos! Tens a imprudência de seres um tipo e julgas que hás-de ficar assim ignorada e esquecida nas quatro paredes dessa miserável habitação; cá estou eu para te ir procurar, como o naturalista, arrancando da concha bivalva o inofensivo molusco e sujeitando-o à sua classificação. Vou eu também classificar-te. Quero saber a espécie e família da Fauna romântica a que pertences. E se fosses uma espécie nova!»</p>
+<p>Isto pensava eu comigo mesmo, seguindo caminho de casa, ao passo que tomava vulto no meu espírito o projecto de uma visita à protagonista dos contos fabulosos que havia muito corriam na aldeia de boca em boca, assumindo cada vez maiores e mais imponentes proporções.</p>
+<p>Outro qualquer, a quem esta mesma ideia tivesse preocupado, procuraria realizá-la da maneira mais simples, visitando de dia e sob o primeiro pretexto admissível a mulher que dera azo a tantas discussões e boatos; mas a fantasia, sob cujo domínio eu me regulava então, exigia mais. Exigia que a visita se efectuasse de noite, através de incómodos e perigos, à luz das estrelas, quando piassem todas as aves tristes, e se passassem tenebrosos mistérios.</p>
+<p>Meus hábitos de comodidades reagiam, é verdade, contra estas instigações da fantasia; mas não tão valorosamente que não ficassem vencidos afinal.</p>
+<p>Eram pois onze horas da noite, quando, envolvido misteriosamente numa ampla capa, como os conspiradores no teatro, dei princípio a esta minha excursão romântico-artística, esforçando-me por não ser observado, para não excitar curiosidades, sempre fáceis na aldeia e sempre desagradáveis para quem é objecto delas.</p>
+<p>Ora a noite prestou-se voluntariamente à colaboração do romance; pois se houve noite escura, ventosa, abundante de nuvens que pareciam montanhas, de clarões sinistros, que semelhavam incêndios, de ruídos estranhos, que lembravam um pandemónio, foi aquela.</p>
+<p>Pouco conhecedor ainda do terreno, tive demais a mais a romântica felicidade de me extraviar e, depois de um quarto de hora de jornada, adquiri a consoladora certeza de que andava errado cada vez mais longe do lugar a que me dirigia.</p>
+<p>No entretanto, o vento redobrava de violência; acumulou imensas nuvens sobre a minha cabeça e como se umas contra as outras as espremesse, à maneira de esponjas embebidas, vazou-as sobre mim com uma quase destruidora impetuosidade.</p>
+<p>Debaixo de uma chuva daquelas, metamorfoseiam-se os países; os mais amenos revestem um aspecto medonho, tétrico; vales que, vistos à luz do Sol, fariam imaginar idílios e inspirariam poesias pastoris aos estros mais rebeldes, assumem nestes instantes as cores sombrias e carregadas que empregavam outrora os poetas épicos para pintar a entrada das regiões infernais, onde, como complemento de educação, iam uma vez na vida os heróis de suas epopeias, como hoje vão a Paris os filhos-famílias de classes abastadas.</p>
+<p>Naquela noite, para mim de húmidas recordações, tudo parecia mudado; revolviam-se torrentes impetuosas, onde momentos havia se deslizavam regatos: despenhavam-se cataratas, donde pouco antes caía apenas, sacudida pelo vento, a folhagem seca; profundavam-se lagos, onde verdejavam lameiros; e as águas, subindo, galgavam as pontes campestres, tomando-se em restingas, os outeiros em ilhas, e os passeadores nocturnos, como eu, em náufragos ou em Robinsons Crusoés em completa incomunicabilidade com o resto dos viventes.</p>
+<p>Imaginem pois minhas aventurosas manobras, para me guiar sem bússola através daqueles arquipélagos insidiosos, no meio daquelas sombras ameaçadoras e claridades pérfidas. Ainda hoje não sei por que milagre do instinto consegui encontrar-me, depois de muito molhado e enlameado, no fim da minha jornada e à porta da tia Filomela.</p>
+<p>Obra da inteligência é que por certo não foi; a cabeça tinha abdicado e concedido plenos poderes às pernas que se não mostraram indignas de confiança.</p>
+<p>Estas abdicações são às vezes mais profícuas do que geralmente se julga.</p>
+<p>Achava-me enfim no antro da Sibila; a Circe ia apresentar-se a meus olhos, rodeada dos indispensáveis utensílios da sua arte; em companhia dos animais, colaboradores natos de magias e esconjuros, e envolvida em uma atmosfera de fumo exalado das fornalhas onde se destilam em retortas e alambiques filtros subtis que envenenam a alma, espécie de venenos de que os toxilogistas nada puderam ainda saber, e que não figuram em nenhum dos seus catálogos. A minha imaginação fazia-me esperar, senão absolutamente isto, pelo menos alguma coisa de análogo. O tipo de Norma, que Walter Scott imortalizou, embora apequenado por a influência despoetizadora deste século material, supunha eu ir encontrá-lo dentro da miserável casa, à qual, depois de muitos trabalhos e perigos, conseguira aportar.</p>
+</div><div><head>V</head>
+<p>A casa da tia Filomela - já que ela tinha a vaidosa pretensão de assim a denominar - era de umas dimensões que permitiriam a qualquer homem de menos que mediana estatura e nenhumas disposições ginásticas trepar da rua ao telhado sem mais auxílio que o dos braços e das mãos. A porta obrigava a curvarem-se os visitantes menos corpulentos que lhe transpusessem o limiar e a prestarem assim, numa reverência forçada, homenagem à hospitalidade, boa ou má, da inquilina. Há portas que valem um tratado de educação.</p>
+<p>Janelas não tinha. Era luxo de arquitectura esse, que não merecera a aprovação do construtor. Por o mesmo processo de simplificação suprimira até a chaminé, confiando às inumeráveis fendas do telhado e das paredes o cuidado de dar ao fumo a conveniente saída. No seu entender, isto de chaminés era uma espécie de excrescência arquitectónica, que desviava a arte da pureza primitiva.</p>
+<p>Outras muitas reformas introduzira na construção do edifício o artista, sempre em harmonia com as suas ideias simplificadoras, tendo só em vista o estritamente necessário e cortando pela raiz no supérfluo.</p>
+<p>Era no século XIX, um fiel reprodutor da arquitectura das primitivas idades.</p>
+<p>A chuva e o mau tempo haviam-me sugerido um excelente pretexto para reclamar a hospitalidade da tia Filomela.</p>
+<p>Numa noite assim, nem uma bruxa poderia recusar-se a recolher qualquer viandante, surpreendido, como eu, pelas iras atmosféricas.</p>
+<p>Bati por isso à porta e conheci, vendo-a ceder, que não estava fechada.</p>
+<p>Contudo não recebi resposta.</p>
+<p>À segunda tentativa não obtive mais satisfatórios resultados.</p>
+<p>Decidi-me a entreabri-la cautelosamente até que por urna estreita fresta pudesse observar o interior do aposento.</p>
+<p>A primeira tentativa foi baldada, pela quase completa obscuridade que havia dentro. Afazendo porém a vista ao ténue clarão que ainda se espalhava do lar, pude enfim conseguir algum resultado.</p>
+<p>A pequena área que compreendia o recinto e a simplicidade da mobília facilitaram-me o exame e cedo adquiri a certeza de que estava desabitado - a não ser que a inquilina, usando dos poderes sobrenaturais que lhe atribuíam, se tivesse metamorfoseado em alguma coisa invisível.</p>
+<p>Como a chuva no entretanto redobrava, julguei conveniente aproveitar-me daquela porta aberta e entrar nos obscuros domínios da Sibila.</p>
+<p>A sala assumia a múltipla função de quarto de dormir, casa de jantar, de trabalho, cozinha e estufa.</p>
+<p>Aí se encontravam as insígnias deste complicado mester.</p>
+<p>Via-se ao fundo, sobre carunchosos bancos de pinho, a miserável e esfarrapada enxerga, recoberta apenas de uma manta, cuja primitiva cor poderia ser objecto de longas discussões académicas; sobre o lar e rodeado de brasas amortecidas, um púcaro de barro negro, como o que se fabrica nos arredores do Porto, substituía, com algum desapontamento da minha pane, todas as imaginadas retortas, cadinhos e alambiques; fronteira à cama, uma avantajada caixa de pinho assumia as importantes atribuições de mesa de jantar, segundo o fazia crer a boroa de milho negro meia partida, a toalha dobrada, a bilha de água e o serviço de louça, pela maior parte inválido, que a guarneciam.</p>
+<p>Duas cadeiras mancas, de aspecto tristonho e, como um veterano mutilado, ricas talvez só de recordações passadas, uma roca ainda rodeada de estopa grosseira, um sarilho desguarnecido e, junto à porta, velhos e ferrugentos utensílios de folha de Flandres, onde vegetavam cidreiras, armadas, salva, erva de Nossa Senhora e outros símplices de medicina caseira, completavam quase todo o inventário.</p>
+<p>Junto do borralho dois pequenos pontos luminosos de fulgor fosfórico e sinistro me atraíram a atenção. Eram os olhos do gato negro, que, fitando-me, parecia espiar-me os movimentos com suspeitosa curiosidade.</p>
+<p>No meio desta humilíssima e despretensiosa mobília, uma só coisa me impressionou.</p>
+<p>Sobre o prateleiro - tosca tábua de pinho firmada em dois longos pregos introduzidos na parede e elevado por a tia Filomela à categoria de despensa e aparador - divisava-se, ao lado de alguns objectos indispensáveis ao seu limitado trato culinário, uma fileira de pequenos embrulhos, de dimensões quase uniformes e cujo papel acetinado contrastava tanto com o aspecto da miséria daquele recinto como um diamante que se pregasse nos andrajos esfarrapados de um mendigo.</p>
+<p>Do exame desses volumes, uns já amarelados, outros conservando ainda toda a alvura e nitidez do papel de boa fabricação, coligia-se haverem sido ali dispostos em épocas sucessivas.</p>
+<p>A minha curiosidade pôs-se a fermentar à vista deles.</p>
+<p>Valor, pelo menos estimativo, devia o conteúdo, qualquer que fosse, ter para a possuidora, que tão cuidadosamente o resguardava com aparente solicitude, da qual nenhum objecto mais se lhe mostrava merecedor; mas por outro lado, aquela desassombrada negligência com que os deixava expostos às vistas, desafiando a curiosidade, que é tantas vezes prelúdio ao desejo da possessão, esta casa abandonada de noite, esta porta nem sequer cerrada, contrariavam as minhas conjecturas; a não ser que a tia Filomela confiasse demasiado na sua pouca popularidade e na repulsão que inspirava, para temer visitas importunas, sobretudo àquelas horas da noite.</p>
+<p>O que seria e donde viera aquilo? - perguntava eu a mim próprio, sem de mim próprio receber resposta.</p>
+<p>Evidentemente não fora da caixa da tia Filomela que tinham saído as belas folhas de papel velin que envolviam os misteriosos conteúdos.</p>
+<p>Tive tentações de me aproximar, para os sujeitar a um exame mais minucioso; porém - confessarei aqui uma puerilidade minha - os olhos do gato fizeram-me recuar. Não sei que a sangue frio se possa cometer uma acção repreensível, quando um gato nos olha assim. Afinal de contas, é uma testemunha. Que importa que revele o segredo; mas sabe-o e sempre que vos vir, rosnará lá consigo - rosnar é o termo próprio - o que quer que seja pouco lisonjeiro ao vosso carácter.</p>
+<p>Não deve ser um martírio horrível vermo-nos de tal forma compreendidos por um gato e quase na sua dependência?</p>
+<p>A mim pelo menos aqueles dois olhos imóveis e observadores incutiram-me respeito, não tive forças para arrostar com eles.</p>
+<p>Mas onde estaria a estas horas a tia Filomela?</p>
+<p>Luisita havia-me falado de uns célebres passeios nocturnos, em que ela se transformava em luminária; e numa noite daquelas, a falar a verdade, a coisa tinha pouco de natural e explicável pelas razões ordinárias que determinam os nossos actos. Não se poderia dizer que a tia Filomela não tivesse dado motivos justificatórios da reputação que havia granjeado.</p>
+<p>Enquanto eu fazia estas considerações e completava o meu exame sobre o interior da habitação, onde já principiava a penetrar em grossas gotas a chuva que lhe desabara no telhado, chegou-me aos ouvidos um ruído particular que vinha de fora.</p>
+<p>Antes que eu tivesse tempo de meditar o plano de qualquer apresentação conveniente, a porta abriu-se... mas em vez da tia Filomela que eu esperava, entrou, juntamente com uma rajada de vento, que avivou a chama no lar, um homem todo embuçado num comprido gabão de saragoça, com longas botas de montar e chapéu de abas largas derrubado sobre a fronte. O aspecto, celeridade de movimentos e repentina aparição deste homem tinham de facto alguma coisa extraordinária que logo me fez reconhecer nele o personagem suspeito, cujas visitas tão gravemente desacreditavam no conceito público a tia Filomela. Em todo ele se revelava certo ar de mistério e um quase receio de ser surpreendido que imediatamente me impressionou.</p>
+<p>Como por instinto, recuei e, envolvendo-me nas sombras do mais escuro canto da sala, observei, sem ser observado.</p>
+<p>O homem, sempre rápido e cauteloso, aproximou-se do prateleiro onde a longa fileira, dos tais embrulhos se .achava disposta e parou alguns instantes, como que a enumerá-los.</p>
+<p>A ideia que neste momento me passou pelo espírito foi pouco lisonjeira para o misterioso personagem que de um modo tão inesperado se havia introduzido na mesma casa onde, também não pouco estranhamente, eu me encontrava àquelas horas.</p>
+<p>Imaginei-o um ladrão e agourava mal do destino dos tais objectos assim deixados em absoluta indefensão pela possuidora.</p>
+<p>Mas, no momento em que já estava meditando a maneira de intervir para me opor a esta repugnante infracção das leis de propriedade, o homem, depois de sacudir lentamente a cabeça e encolher os ombros - sinal inequívoco de profundas reflexões mentais - tirou do bolso um volume em tudo igual aos já existentes e, pousando-o ao lado deles, saiu da sala com a mesma presteza com que o tinha visto entrar.</p>
+<p>Isso acabou de me surpreender. Eu já não estava muito longe de crer piamente nas revelações de Luisita e abjurar, na presença desta cena misteriosa, a minha antiga incredulidade.</p>
+<p>Os espíritos fortes sofrem em casos assim abalos formidáveis. Eu achava-me em tais disposições de ânimo que já imaginava encontrar o que quer que era sobrenatural nos sons que naquele momento produziam: o vento pelas fendas inumeráveis da casa, a água a ferver sobre o lar, o respirar ruidoso do gato, e o cair cadenciado da chuva, filtrada através do telhado.</p>
+</div><div><head>VI</head>
+<p>Momentos depois, novamente escutei o ruído de passos, mas desta vez vagarosos e trôpegos, e as minhas vistas, seguindo a direcção da porta, encontraram, destacando-se no fundo escuro do limiar, a figura pálida e macilenta da tia Filomela. Trazia na mão direita um pequeno lampião, que era provavelmente ao que se reduzia a tão comentada luzinha do monte. Achava-me na presença da bruxa do pinhal!</p>
+<p>A divindade descera enfim ao templo.</p>
+<p>A posição que eu continuava ocupando, envolvendo-me numa quase completa escuridão, evitou que a tia Filomela me descobrisse logo ao entrar.</p>
+<p>- Isto é um dilúvio! - dizia ela consigo, fechando a porta. - E agora a lenha assim molhada vai-me sufocar com o fumo.</p>
+<p>E aproximando-se do lar, deixou cair do avental, que trazia sobraçado, um montão de lenha miúda, que provavelmente andara toda a noite apanhando no pinhal.</p>
+<p>O gato, vendo a sua senhora próxima de si, soltou um grunhido surdo, e, curvando desmesuradamente o dorso, principiou a espreguiçar-se com voluptuosa languidez.</p>
+<p>- Olá, Fusco! - disse a tia Filomela, batendo-lhe amigavelmente na cabeça. - Então estás com frio, meu velho? Deixa que te vou acender uma fogueira que nem para um magusto.</p>
+<p>E enquanto escolhia a mais seca lenha da regaçada que pudera obter nas suas explorações, a velha, com a tal voz de que eu já falei, pôs-se a cantar - cantar aquilo! - uma cantiga usada nos arredores e cuja letra extravagante e até burlesca, conhecida talvez de muitos dos meus leitores, dizia assim:</p>
+<p>- Donde vens, ó velha?</p>
+<p>- Venho do eirado.</p>
+<p>- Que trazes na cesta?</p>
+<p>- Bacalhau salgado.</p>
+<p>- Ai, oh! ai, que eu morro,</p>
+<p>Que estou p'ra morrer,</p>
+<p>Nos teus braços, linda,</p>
+<p>Bem pudera ser,</p>
+<p>Bem pudera ser,</p>
+<p>Ó meu bem.</p>
+<p>E este em prolongava-se numa nota indefinida, nasal, monótona, rouca, desafinada e melancólica, que nem eu posso descrever o efeito que me produzia.</p>
+<p>A ária, a cantora, o lugar, as meias trevas que ali reinavam, o adiantado da noite, e a tempestade lá fora num crescendo furioso, tudo concorria para me impressionar desagradavelmente.</p>
+<p>E no entretanto estava dando tratos à imaginação para descobrir a maneira mais conveniente de fazer junto da tia Filomela a minha apresentação em forma.</p>
+<p>A cantora continuava sempre na mesma toada e estribilho.</p>
+<p>Depois levantou-se para avivar com os dedos a luz do lampião, que suspendera num prego da parede. Quando de novo ia entregar-se ao trabalho interrompido, deu de repente com os olhos em mim e involuntariamente recuou por um movimento de surpresa.</p>
+<p>Fui por isso constrangido a apresentar-me.</p>
+<p>- Tia Filomela - disse adiantando-me - a noite surpreendeu-me no pinheiral e com a noite a trovoada; passei por aqui, vi a porta aberta, umas brasas no lar e não pude resistir-lhes. Peço desculpa...</p>
+<p>Enquanto eu falava, a tia Filomela medira-me com os olhos de alto a baixo e imediatamente se lhe desvaneceu no rosto a primeira expressão de espanto, que se manifestara ao ver-me.</p>
+<p>Foi já com a voz cheia de segurança e de completa impassibilidade que me respondeu:</p>
+<p>- Fez bem; era uma imprudência meter-se assim ao caminho. Aquilo nas azenhas está um mar. E para quem não conhece os sítios, tanto pior. O que eu sinto é ter tão má casa para o receber.</p>
+<p>Em seguida, foi a um canto procurar a menos manca das duas únicas cadeiras que possuía, estendeu-lhe em cima uma velha, mas lavada toalha de linho, e, oferecendo-ma, acrescentou:</p>
+<p>- Faça o favor de se sentar e perdoe.</p>
+<p>- Obrigado, tia Filomela, não se incomode por minha causa. Continue no seu trabalho. Estava a escolher a lenha, peço-lhe que continue.</p>
+<p>- Então, se me dá licença... E que, vê o senhor? - prosseguiu ela, deitando-se de novo ao serviço - esta lenha assim húmida levanta um fumo que sufoca a gente. É preciso primeiro chegá-la ao ar do lume para a secar. Não tem dúvida, que por hoje pouca me é precisa já. Sabe o senhor? Cá a gente prepara depressa os seus cozinhados, não temos vagar para temperos. Uma fervura faz um caldo, um cinzeiro coze um ovo, um tijolo quente assa uma sardinha ou uma febra de bacalhau. Eh! eh! eh! É que nós também não tínhamos tempo para mais. Não se vive para cozinhar, cozinha-se para viver. Não é assim? Lá os senhores foram criados noutra educação, não admira. A desgraça está quando se nasce pobre e se tem gostos e vaidade de rico. É a perda da criatura.</p>
+<p>E, fazendo esta reflexão, a velha, que aliás não mostrava primar em laconismo, calou-se por algum tempo, parecendo absorvida por um pensamento doloroso.</p>
+<p>- Mas, tia Filomela, o seu sistema de fazer provisão de lenha é que me não parece dos melhores - disse-lhe eu passado tempo. - Não lhe era preferível para isso a luz do Sol à desse lampião que nada alumia?</p>
+<p>A tia Filomela meneou a cabeça ao ouvir-me.</p>
+<p>- O senhor diz bem. Mas não sabe que de dia estão todos estes caminhos por aí cheios de rapaziada, que me não deixa em sossego. Crianças, coitadas! Mas quando se tem sessenta e quatro anos, como eu, a paciência vai fugindo e nem sempre se ouvem com a humildade que Deus manda as injúrias, mesmo que venham da boca das crianças. Melhor é fazer por não ouvi-las. De noite deixam-me ao menos em paz. Se todos têm medo de mim! Vê o senhor? Por coisa nenhuma do mundo, pessoa destes arredores quereria entrar, como o senhor entrou, na casa da tia Filomela, e então a que horas! Logo que vi aqui gente, conheci que era de fora da terra.</p>
+<p>- E donde provém esse medo?</p>
+<p>- Ora! pois não sabe que me chamam a bruxa do pinhal? Eh! eh!</p>
+<p>Havia neste riso um fundo de tristeza, que me compungiu.</p>
+<p>- Contudo, tia Filomela, faz mal em deixar assim desamparada esta casa; da mesma maneira que eu entrei, outros o podem fazer...</p>
+<p>- Que entrem; não serei eu que lhes feche a minha porta. Nunca a fechei em tempos mais felizes, quando me podia recear dos maus; hoje, seria uma loucura.</p>
+<p>- Mas olhe, tia Filomela: vou dizer-lhe uma coisa.</p>
+<p>- Diga.</p>
+<p>- Quando eu me aproximava, pareceu-me ver sair daqui alguém que, pela figura, mostrava ser um homem corpulento e de aspecto suspeitoso - disse eu, não querendo revelar ainda de todo a cena que presenciara.</p>
+<p>Ao ouvir estas palavras, a tia Filomela desviou os olhos na direcção do prateleiro e fixou-os por algum tempo na fileira dos pequenos embrulhos que me haviam já por vezes atraído a atenção.</p>
+<p>- Ah! mais outro! - disse ela a meia voz, ao passo que se lhe desenhava nos lábios um sorriso amargo e quase sarcástico - continuam! eles se cansarão. - E voltando-se para mim: - Viu sair há muito esse homem?</p>
+<p>- Haverá alguns minutos.</p>
+<p>- Só eu o não hei-de ver um dia? queria dizer-lhe... - E de repente, como fugindo à corrente de pensamentos que a arrebatava, continuou em tom muito diverso: - Sempre está um tempo! Louvado seja Deus! Parece que arrebentou alguma nuvem. O senhor há-de vir muito molhado. - E, acto contínuo, apalpando-me a roupa, acrescentou com uma exclamação de surpresa pouco melodiosa: - Santo nome de Jesus! vem num lago! chegue-se aqui mais para junto do lume!</p>
+<p>- Deixe, tia Filomela, deixe; isto não me faz mal nenhum.</p>
+<p>- Que diz? Há lá coisa como a roupa molhada no corpo? - E um reumatismo certo. A água é inimiga dos ossos - acrescentou ela em tom aforístico. Eu observei-lhe:</p>
+<p>- Pois olhe, tia Filomela, hoje usam os médicos lá por a cidade mandar tomar aos doentes banhos de chuva, até para moléstias dos ossos, se me não engano.</p>
+<p>A tia Filomela encolheu os ombros.</p>
+<p>- Isso... os médicos de hoje! Olhe, senhor - continuou ela, avivando por meu respeito a labareda no lar - eu bem sei que sou uma ignorante; mas toda a minha vida vi tratar as bexigas com agasalho e chás para fazer suar; porque, vê o senhor? com o suor saem cá para fora todos os maus humores e o veneno que anda na massa do sangue. Pois, senhores, não mandou o médico da minha terra, o Senhor lhe perdoe, abrir as janelas e arejar o quarto de um pobrezinho que estava com bexigas! Em termos de elas se assanharem, que foi afinal o que aconteceu. Por isso dizem... Eu cá, olhe, vê aquelas panelas? Aí está a minha medicina. A gente há-de morrer quando tiver os seus dias contados e os médicos não servem senão para fazer uma pessoa gastar dinheiro.</p>
+<p>Este cepticismo médico da tia Filomela era talvez o único ponto pelo qual ela se podia dizer uma pessoa da sua época. Ainda assim, com uma diferença importante, é que nela esta descrença sobreviveria ao menos, creio eu, aos prelúdios da mais insignificante indisposição.</p>
+<p>- Mas, tia Filomela - disse-lhe eu aproximando-me do fogo - Deus manda-nos olhar pela nossa saúde e então...</p>
+<p>- É fazer por não estar doente, é fazer por não estar doente, porque depois o remédio é entregarmo-nos nas mãos do Senhor. Sai para acolá, Fusco - acrescentou ela, desviando o gato, que se lhe viera roçar voluptuosamente pelo vestido; e daí a pouco:</p>
+<p>- Quer o senhor um chá de cidreira?</p>
+<p>- Agradecido, tia Filomela.</p>
+<p>- Olhe que ainda tem que ir para longe.</p>
+<p>- Pois sabe onde eu moro?</p>
+<p>- O senhor é o hóspede que chegou há dias à quinta do senhor beneficiado; não é?</p>
+<p>- Exactamente.</p>
+<p>- Logo me pareceu. Não sei como se meteu ao caminho com uma noite destas.</p>
+<p>- Fui à caça e...</p>
+<p>A velha pôs-se a olhar em roda significativamente e fez-me compreender que havia dito uma tolice. Andar à caça com uma simples vara de castanho, um longo capote e àquelas horas, era de facto uma esquisitice inexplicável. Emendei o melhor que pude o desacerto, acrescentando:</p>
+<p>- Enviei a arma para casa por o criado e, persuadindo-me que conhecia melhor os caminhos, perdi-me.</p>
+<p>- A caça é um mau divertimento - disse a tia Filomela, dispondo o braseiro para a operação culinária. - Já têm sucedido muitas desgraças por causa dela. Um tio meu, que Deus tenha em glória, aliás muito bom cristão e temente a Deus, ia fazendo uma morte por via da caça. Muitas vezes lho ouvi eu contar, quando era pequena. Andava caçando ele e um primo, que depois foi para o Brasil, e lá casou - e por sinal que não encontrou a felicidade que esperava; era já quase noite, e tinham-se separado um do outro, quando meu tio, ao atravessar uns campos, julgou ouvir o rumorejar de folhas nuns silvados vizinhos e, suspeitando ser caça escondida, preparou a espingarda e aproximou-se; mais perto, pareceu-lhe ver por entre as folhas bulir uma coisa escura, e ainda que pelo adiantado da hora não pudesse bem afirmar-se, não teve dúvida que seria alguma ave e, fazendo pontaria, preparava-se já para disparar: quando viu sair detrás do silvado, onde se escondera para lhe meta um susto, o primo que lhe gritou: - Ai, João, que me matas! - Meu tio deixou cair logo a arma e ficou como morto. Pois desde então nunca mais o viram caçar. E muitas vezes dizia, inda me lembro bem, que nem com armas vazias era prudente brincar; porque o demo é capaz até de carregar uma tranca.</p>
+<p>Passado algum tempo de meditativo silêncio, a velha acrescentou:</p>
+<p>- E depois que mal nos fazem os passarinhos do Senhor? - E dizendo isto, estendia na pedra quente do lar duas sardinhas que deviam constituir a parte principal da refeição da noite.</p>
+<p>- A tia Filomela tem razão; mas também que mal nos faziam as pobres sardinhas que se vão agora tostar nesse brasido e que já exalam daí um cheiro que me faz crescer água na boca?</p>
+<p>- Apetecem-lhe?</p>
+<p>- Convidam.</p>
+<p>- Estão às suas ordens.</p>
+<p>- Agradeço, mas a tia Filomela tem-nas para a ceia e eu não quero...</p>
+<p>- Graças a Deus que ainda ali estão mais. - E, sem esperar nova observação da minha parte, estendeu ao lado das duas já meio assadas outras curvas e azuladas, que pareciam, segundo a frase das vareiras, ainda a saltar vivas.</p>
+<p>E dentro de alguns minutos achava-me eu ao lado da tia Filomela, participando da sua mais que sóbria refeição.</p>
+<p>Não há nada para aumentar a intimidade entre duas pessoas como um repasto em comum.</p>
+<p>O estômago é um grande conciliador; tem um poder persuasivo tal que poucos corações lhe resistem, quando ele prega a concórdia - o que sempre faz estando satisfeito. Cedendo pois à familiaridade que pouco a pouco entre nós se estabelecera, perguntei à tia Filomela pormenores do seu modo de viver actual.</p>
+<p>- A minha vida conta-se como um Padre-Nosso rezado. Fio, apanho lenha e farrapos e com isso vou vivendo. Não é preciso muito para uma mulher de minha idade se sustentar, e por isso...</p>
+<p>- E está há muito nesta terra?</p>
+<p>- Há cinco anos.</p>
+<p>- Até aí onde residia?</p>
+<p>Em vez de me responder, pôs-se a olhar para mim daquela maneira particular às pessoas abstractas, que nos dá a conhecer, sem ilusão possível, a nenhuma atenção que prestaram à pergunta.</p>
+<p>- Veio de longe para aqui? - insisti eu.</p>
+<p>- De muito longe.</p>
+<p>- Admira como nessa idade ainda se resolveu a mudar de terra. De ordinário há raízes a prenderem-nos aos lugares onde nascemos e onde passámos os nossos primeiros anos, e é sempre doloroso cortar pelas raízes.</p>
+<p>- E, é, mas...</p>
+<p>Há reticências que são mais definitivas do que um ponto final. Tudo está em lhes dar cena modulação, como aquela que eu ouvi neste momento à tia Filomela.</p>
+<p>Percebi que por esse lado se me fechara a porta a indicações ulteriores e tomei outra direcção.</p>
+<p>- Então é esta toda a sua morada?</p>
+<p>- Como vê. Aqui durmo, aqui janto, aqui trabalho e aqui hei-de morrer.</p>
+<p>- Quem sabe?</p>
+<p>- Sim, quem sabe: diz bem o senhor. Mal pensaria eu há seis anos que tão longes terras me haviam de guardar os ossos.</p>
+<p>A melancolia da observação conseguira até disfarçar aos meus ouvidos o timbre desagradável daquela voz.</p>
+<p>Pus-me a olhar para esta mulher por algum tempo em silêncio. Suspeitava que ela devia ter sofrido no passado, mas havia naqueles lábios uma espécie de enérgica constrição, que me tirava a esperança de poder extrair de lá o menor segredo, se segredo houvesse.</p>
+<p>Levantei-me e principiei a passear no quarto. Ela conservou-se sentada, de braços cruzados, balanceando o corpo com vagaroso movimento e como sem consciência da minha presença ali. Parei, com intenção, diante do prateleiro que tanto me excitava ainda a curiosidade.</p>
+<p>Esta táctica da minha parte não me valeu porém mais satisfatórios sucessos.</p>
+<p>- Tia Filomela! - exclamei enfim ex abrupto, impacientado já com tanta indiferença.</p>
+<p>- Senhor?</p>
+<p>- Este papel vem de longe?</p>
+<p>- Que papel?</p>
+<p>- O destes pequenos volumes.</p>
+<p>- Ah!</p>
+<p>Pareceu-me alguma coisa embaraçada com a pergunta e respondeu, suspirando:</p>
+<p>- Nem eu sei...</p>
+<p>- São por certo objectos da cidade; encomendas, não!</p>
+<p>- Talvez...</p>
+<p>Olhei para ela, fingindo uma surpresa que estas hesitações e respostas ambíguas me tivessem causado; ela acrescentou:</p>
+<p>- Da cidade vêm, mas... não encomendados.</p>
+<p>Na maneira por que pronunciou aquele - encomendados - adivinhava-se um pensamento oculto, que não pude porém determinar.</p>
+<p>- Aí tens, Fusco - disse ela em seguida, dando ao gato os restos da nossa modesta refeição. - Vá, hoje podes regalar-te.</p>
+<p>Depois, chegando à porta, continuou:</p>
+<p>- Felizmente que já lá vai o mau tempo. O vento virou ao norte.</p>
+<p>Maneira muito delicada de dar a entender que iam sendo horas de terminar a minha visita.</p>
+<p>Aceitei a advertência.</p>
+<p>- Tia Filomela - disse-lhe eu - é tempo de me retirar; mas não posso consentir que a minha visita lhe fique sendo pesada. As suas posses não são grandes, consinta-me por isso que eu remunere...</p>
+<p>A tia Filomela fez um gesto com a cabeça, respondendo:</p>
+<p>- Eu sou de uma família pobre, mas na qual se ensinava às crianças a não vender a hospitalidade. - E depois, sorrindo, acrescentou: - São costumes de soberba que trouxe para a desgraça. Muito boas-noites, meu senhor, e Deus o guie.</p>
+<p>- Mas, tia Filomela...</p>
+<p>- Adeus, adeus. E olhe se vai cair, tenha cautela.</p>
+<p>Não havia que lutar da minha parte; correspondi-lhe às boas-noites e pus-me a caminho de casa.</p>
+</div><div><head>VII</head>
+<p>Bonito! - dizia eu comigo mesmo enquanto ia vencendo o K melhor que podia as sucessivas dificuldades que parecia de momento para momento surgirem-me debaixo dos pés. - Passo uma hora na presença desta mulher enigmática, suspeito-lhe um segredo, vejo que há na existência dela um mistério, e retiro-me sem ter penetrado este carácter, sem haver decifrado este enigma. Quando hei-de eu ser observador?</p>
+<p>A balda dos rapazes naquele tempo eram estas aspirações a profundos conhecedores do coração humano. Deus perdoe a Balzac, que foi o autor involuntário dessa mania, que afinal de contas não passava de impertinente. Todo o adolescente imberbe se considerava talhado a molde para analista do coração, e colocava-se diante de qualquer pessoa com o sobrecenho contraído, o olhar fixo e o ar gravemente sisudo que caracteriza o observador pur sang.</p>
+<p>Dessa época data o uso imoderado das lunetas, não reclamadas por defeitos visuais, mas como emblema de espírito analítico e investigador.</p>
+<p>Um suposto estudo de caracteres era o que mais tempo absorvia aos rapazes nas universidades e nas academias. Pospunham-se, com grande desespero dos professores, os Laplaces, os Savignys, os Says, os Richerands e os Hufelands, ao Balzac, George Sand e a todos os romancistas da escola filosófica.</p>
+<p>Eu andava um pouco imbuído do mal da época; para que hei-de negá-lo? Não obstante nunca ter sido dos mais crentes nesses tais olhares, com privilégio de estiletes, que vos vão direitos ao coração, para desalojar debaixo da mais imperceptível prega onde se aninhara o vosso sentimento predominante, a mola oculta do vosso carácter; adoptara contudo também as minhas teorias a tal respeito, tão boas como outras que ouvia expender nas mesas de mármore e no seio da atmosfera asfixiante dos nossos botequins. Por vezes até cheguei a querer realizá-las na prática.</p>
+<p>Aí porém é que me esperavam grandes desilusões, que foram pouco a pouco abalando o aparatoso edifício da minha ciência do coração humano.</p>
+<p>De cada vez que ensaiava o poder perscrutador do meu olhar nas menos dissimuladas criaturas do Senhor, chegava a resultados realmente pouco de animar, verdadeiros disparates que devera registar aqui para instrução e experiência dos leitores. Porque sabido é que os disparates também encerram instrução.</p>
+<p>Uma das minhas derrotas mais completas acabava de experimentá-la na presença da tia Filomela; e o mau humor que resultara daí seguira-me até casa, onde cheguei depois da meia-noite.</p>
+<p>Deitei-me descontente comigo e incapaz de tudo que não fosse adormecer. Quando porém me dispunha a realizar esta única aptidão racional que sentia naquele momento, uma visita me impediu.</p>
+<p>Junto do meu quarto dormia o filho morgado da hospitaleira família que me acolhera em casa; este rapaz, meu antigo condiscípulo e em quem a tal bossa da análise do coração humano possuía também um desenvolvimento extraordinário, era demais a mais sujeito a insónias; e por isso, percebendo-me no quarto, vestiu à pressa o robe-de-chambre e veio visitar-me.</p>
+<p>- Então ainda agora?! - disse ao entrar e com maneira de admirado. - Que diabo fizeste tu até estas horas numa terra selvagem como é o meu pátrio ninho? Aposto que os olhos dalguma patrícia...</p>
+<p>- Adivinhaste. A causa da minha demora foi uma patrícia tua - de adopção pelos menos.</p>
+<p>- Ainda Luisita?</p>
+<p>- Não; e desde já te previno que te não dês ao trabalho de querer adivinhar, porque nada consegues.</p>
+<p>- Porque nada consigo! Mas se eu me sinto habilitado para te fazer inventário completo de todas as mulheres em circunstâncias de se apanhar por causa delas um reumatismo para o resto da vida?</p>
+<p>- Ainda assim.</p>
+<p>- É singular!</p>
+<p>- Olha, não quero abusar da minha posição. A mulher por quem me sujeitei aos rigores desta endiabrada noite foi a tia Filomela.</p>
+<p>- Quem é a tia Filomela?</p>
+<p>- A bruxa do pinhal.</p>
+<p>- Estás a caçoar?</p>
+<p>- Venho de casa dela, onde ceei.</p>
+<p>- E que diabo foste lá fazer?</p>
+<p>- Estudá-la.</p>
+<p>- Ah! e então? - disse o meu amigo com um tom de voz que mostrava achar de sobra justificada a minha excentricidade por um motivo daqueles.</p>
+<p>- O resultado da empresa fez-me lembrar de quando dantes, nos nossos tempos de estudante, me sentava à banca com firmes tenções de me pôr ao facto da lição do dia seguinte, e afinal, sem bem saber como, ia-me deitar, deixando a pobre intacta, como a procurara.</p>
+<p>- Pois olha, eu já estudei essa mulher e tenho o meu juízo formado a respeito dela.</p>
+<p>- Ora pois, vamos lá a ver isso. Mal sabes como eu estimo sabê-lo. Principia.</p>
+<p>O meu amigo acendeu um charuto, recostou-se na cadeira, elevou os pés à altura do fogão e expôs-me assim o resultado do seu estudo:</p>
+<p>- O coração do homem...</p>
+<p>- Perdão - disse eu interrompendo-o - poupa-me a dissertação sobre o coração do homem em geral e limita-te ao da tia Filomela em particular, que já é bastante.</p>
+<p>- Seja. A tia Filomela - continuou ele - ficou definida por mim depois de alguns momentos de observação. Regra geral, quando às aparências da miséria vires associadas as precauções da riqueza, a desconfiança que acompanha a possessão, a reserva do egoísmo, acredita que uma única solução pode ter o problema do carácter do indivíduo em quem se observa esta, deixa-me assim chamar-lhe, antinomia de manifestações.</p>
+<p>- Chama-lhe o que quiseres e continua - disse eu bocejando.</p>
+<p>- O sentimento que nele predomina - continuou o meu amigo - deve ser de natureza a bastar a si mesmo para a sua satisfação total, a tirar de si os meios de a realizar. Não aspira a irradiar-se; pelo contrário, tende à concentração; não é o farol que transmite em roda de si a luz a distâncias longínquas, é o revérbero que reflecte os raios do foco para o foco donde partiram. O orgulho deleita-se em observar com o olhar de águia tudo quanto lhe fica inferior; a glória folga de ver o reflexo do seu esplendor nos semblantes extasiados; o amor é um som que reclama um eco... mas há um sentimento que dispensa o concurso, que busca a solidão, que intencionalmente semeia em volta de si as aversões - é a avareza...</p>
+<p>Eu nesta passagem adormeci e não sei por isso até que ponto o meu amigo levou à evidência aquela suposta qualidade da tia Filomela.</p>
+<p>Sinto-o por não poder registar aqui uma bem elaborada dissertação metafísica, que só poderia pecar em exactidão e mais nada.</p>
+</div><div><head>VIII</head>
+<p>Não foi porém impunemente que arrostei na véspera com a intempérie de uma noite ultra-romântica.</p>
+<p>Na manhã do dia seguinte acordei rouco, a ponto de julgar prudente não sair de casa.</p>
+<p>Ao meio-dia encontrei-me com Luisita, por aquele tempo empregada em não sei que serviço campestre na quinta onde eu residia.</p>
+<p>- Bons-dias, Luisita, - disse-lhe eu - vê o resultado da feitiçaria? Estou rouco. O bruxedo atacou-me a garganta.</p>
+<p>- Que quer dizer?</p>
+<p>- Que visitei ontem à noite a tia Filomela...</p>
+<p>- Ora!</p>
+<p>- Palavra de honra, e até me deu de cear com a melhor vontade deste mundo.</p>
+<p>- É impossível que se atrevesse...</p>
+<p>- Posso jurar-lhe.</p>
+<p>- E que viu lá? - perguntou a rapariga, fitando-me aterrada.</p>
+<p>- Ora o que vi? A casa duma pobre mulher que vive a mais santa vida deste mundo, ela e o seu gato, animal de hábitos caseiros, muito amigo do borralho e que para diabo me parecia bem morigerado.</p>
+<p>- Então não viu o cabo da vassoura?</p>
+<p>- A falar verdade, tanto não reparei; mas também, se isso é prova de feitiçaria, aposto que nem a Luisita se salva?</p>
+<p>Ela riu-se.</p>
+<p>- Olhe: quer então que lhe diga o único objecto menos natural que descobri em casa da tia Filomela?</p>
+<p>- Foram as cartas?</p>
+<p>- Não. Ela não costuma dar partidas.</p>
+<p>- Foram...</p>
+<p>- Foram uns embrulhos de papel fino e do mais fino, postos em carreira sobre um pobre prateleiro de pinho. Eram, pode dizer-se, a única riqueza da casa.</p>
+<p>- Ah! pois não sabe o que isso é?!</p>
+<p>- Eu não.</p>
+<p>- São os novelos!</p>
+<p>- Os novelos?</p>
+<p>A expressão da fisionomia com que Luisita acompanhou aquela palavra foi tal que, não obstante eu não lhe compreender bem a verdadeira significação, não pude deixar de pela minha parte manifestar quase igual estupefacção.</p>
+<p>- Mas que novelos?</p>
+<p>- Que novelos? Os dela. Pois não sabe que as bruxas têm todas uns novelos?</p>
+<p>- Ah! não sabia. E para que querem elas isso?</p>
+<p>- É que todo o seu poder está ali e quando morrem...</p>
+<p>- Ah! então as bruxas também morrem?</p>
+<p>- Morrem, sim, que dúvida.</p>
+<p>- E então que fazem elas quando morrem?</p>
+<p>- Deixam os novelos às pessoas que mais estimam.</p>
+<p>- E é boa ou má a herança?</p>
+<p>- Deus nos livre dela.</p>
+<p>- E por quê? morre-se também?</p>
+<p>- Nada, não senhor.</p>
+<p>- Então?</p>
+<p>- Fica-se sendo feiticeiro e...</p>
+<p>- E acha isso mau?</p>
+<p>- Está a brincar?</p>
+<p>- Eu por minha parte não se me dava e Deus queira que a tia Filomela se lembre de mim no testamento.</p>
+<p>- Que diz, que diz; não repara que está dizendo um pecado?</p>
+<p>- É ver como a tia Filomela lhes quer, aos tais novelos, que tão resguardados os traz.</p>
+<p>- Se neles está todo o seu condão.</p>
+<p>- Mas, por outro lado, sai de noite e deixa-os assim tanto à vista que tentam os mais escrupulosos. Eu confesso que se não fosse o gato...</p>
+<p>- Quem se atreveria a tocar-lhes? Não que só a vista deles faz tremer.</p>
+<p>- Eu não tremi.</p>
+<p>- Ora! se os senhores são hereges!</p>
+<p>Esta reflexão tapou-me a boca.</p>
+<p>Luisita deixou-me para ir contar às amigas que a tia Filomela tinha uns novelos, que eu os vira e que só de os ver ficara sem fala, a ponto de ainda me achar rouco; e à semelhança das vizinhas de que fala o La Fontaine, as ouvintes divulgaram a história de maneira que, pouco tempo depois, me voltou aos ouvidos debaixo da seguinte versão e tão transfigurada, que me custou a reconhecê-la.</p>
+<p>A tia Filomela tinha uns novelos - isso era ponto incontestado. Uma noite, passeando eu pelos campos, fora atraído para casa dela por um cantar de sereias e por uma corça da alvura da neve; a corça andava, andava, e eu, cego com tanta beleza ia-a seguindo por montes e vales, por abismos e ribanceiras, como se tudo fora planície, até que à entrada da casa o canto das sereias transformou-se de repente numa surriada infernal e num frenético bater de palmas, que atordoava; a corça metamorfoseou-se ao mesmo tempo num gato preto que me saltou ao gasnete e logo um bando de feiticeiras principiou a dançar em volta de mim uma valsa diabólica. Eu caí logo a dormir, já se sabe, e elas então a envolverem-me com o fio dos tais novelos e com uma pressa que metia medo. Era porque antes da meia-noite devia a tarefa ficar pronta e eu todo envolvido no fio, e a servir de núcleo àquela espécie de monelho. Então seria a morte certa, e elas poderiam à vontade sugar-me o sangue, do qual, pelos modos, tinham grande apetência.</p>
+<p>Mas, por felicidade minha, no momento em que davam uma volta ao fio - alguém dizia até ser a penúltima - soou a meia-noite e o encanto terminou. O fio partiu com um estampido que parecia de uma bomba, houve o fumo e cheiro de enxofre do estilo, o gato preto fugiu por a trapeira, as feiticeiras desapareceram feitas em morcegos, a tia Filomela caiu redonda no chão e eu achei-me num pântano, metido em água até ao pescoço e sem fala!</p>
+<p>Um pobre homem que passava tirou-me do atoleiro, mas quase em perigo de vida. O que ninguém dizia era quem tinha sido esse pobre homem que passava; razão pela qual não pude manifestar-lhe o meu eterno reconhecimento, como fora do meu dever. Alguns acrescentavam ainda, à laia de moralidade, que o motivo destas minhas desventuras fora a incredulidade que professara na véspera a respeito de bruxas e feitiços. À pessoa de cuja boca recebi esta edição, correcta e aumentada, da minha aventura nocturna, tentei debalde fazer compreender toda a escandalosa falsidade dela. Quando negava, respondiam-me, sorrindo, que a memória não conserva estas coisas, sem que por isso elas deixem de ter existido. Contra tal modo de argumentar, não valiam objecções.</p>
+<p>Cumpria-me pois resignar com o papel que me tinham distribuído naquela espécie de mágica de grande aparato e revestir-me das romanescas aparências de Roberto de Normandia, de endemoninhada memória.</p>
+<p>Não era feio e tornava-me no herói da terra; porém custou-me haver assim involuntariamente concorrido para aumentar a má reputação de que havia muito gozava a tia Filomela, a qual desde então ficou sendo universalmente odiada em todas aquelas freguesias circunvizinhas.</p>
+<p>Passaram-se quase duas semanas de continuado inverno, durante as quais raras vezes saí, e essas apenas para casa do boticário, onde me divertia a ouvir da boca dele, como novidades, coisas que tinham já envelhecido antes de eu partir da cidade; bem como profundas considerações suas sobre o destino das nações europeias. Este boticário era um decidido amante da ordem, e professava por os perturbadores do equilíbrio político um ódio francamente cordial. Eram dignas de se ouvir as expressões virulentas e as frases acerbas de que se servia então.</p>
+<p>Em matéria de revoluções pensava que as piores eram as que procediam de baixo para cima. À de França chamava-lhe um escândalo de sangue e de horrores; em relação ao poder temporal do Papa dizia: que o melhor era não bulir no que está quieto; lá os seus homens eram Palmerston, Palmela e o general Concha, este - por acabar com a patuleia - palavras suas. Falava vagamente na dificultosa questão do Oriente, a qual, segundo ele, se poderia resolver por um plano que nunca pude conseguir que me revelasse; a respeito da Polónia, muitas vezes lhe ouvi dizer: assim o quiseram, assim o tenham, frase sibilina que igualmente nunca desenvolveu.</p>
+<p>Meses depois dos sucessos que vou narrando, indo visitá-lo, encontrei-o muito entusiasmado com o engrandecimento das raças latinas, ao qual, à semelhança de grandes capacidades políticas, filia ainda hoje todos os acontecimentos e que, segundo ele, é o pensamento reservado de Napoleão. Palmerston, que para este seu entusiasta ainda vive, promete sério apoio, sem o qual nada se faria, impondo só, como condição, a anexação da Dinamarca à Inglaterra.</p>
+<p>Esta última novidade, cujo interesse político os leitores devem apreciar, e na qual o homem depositava a mais fervorosa crença, viera-lhe, disse-me, de origem fidedigna.</p>
+<p>Não sei se me será fiel a memória para poder reproduzir aqui na íntegra o substancioso diálogo travado desta vez entre mim e este sábio diplomata.</p>
+<p>- Verá! verá! - dizia-me o homem, aviando dez réis de farinha de linhaça a um freguês. - O ponto está que eles queiram. As raças latinas hão-de tomar o lugar que lhes compete.</p>
+<p>- Não duvido.</p>
+<p>- É certo. Napoleão III disse que havia de deixar assinalado o seu império por essa grande obra.</p>
+<p>- Mas como entende o senhor o engrandecimento das raças latinas?</p>
+<p>- É que tudo isto há-de vir a formar três grandes impérios: a França com a Bélgica e a Holanda; a Itália governada toda pelo Papa; e Portugal, ao qual se há-de dar a Espanha e restituir o Brasil.</p>
+<p>- Bonita combinação! E para quando será isso?</p>
+<p>- Não sei; mas fala-se em que Napoleão disse ao seu ministro:</p>
+<p>Meu duque...</p>
+<p>- Que duque era esse?</p>
+<p>- Um dos ministros...</p>
+<p>- Adiante.</p>
+<p>O meu interlocutor pelos modos fazia duques natos a todos os ministros.</p>
+<p>- Meu duque, o ano que vem há-de presenciar grandes acontecimentos. - Real Senhor! - respondeu o ministro - saiba vossa majestade que aqui estamos nós para cumprir as suas ordens. E então o imperador, batendo-lhe no ombro, disse-lhe: - Conto convosco!</p>
+<p>- É importante essa notícia, mas que pensa disso Palmerston?</p>
+<p>- Palmerston escreveu uma nota ao embaixador em Paris, na qual lhe dizia: «My lord. A Inglaterra não corta as asas às legítimas aspirações dos povos, enquanto elas não espezinham os seus direitos de nação livre. Sede prudente e deixai marchar o progresso, Deus vos guarde.»</p>
+<p>- E o embaixador em vista disso...</p>
+<p>- Em vista disso, limitou-se a reclamar a anexação da Dinamarca, por causa do equilíbrio.</p>
+<p>- E consegue-a?</p>
+<p>- Decerto que sim. Eles não querem descontentar o velho lord. De uma vez, no conselho de ministros em Paris, houve quem dissesse, falando de Palmerston: Ora deixem lá o bom do homem; daquela idade só mete medo a crianças. E sabe o senhor o que disse o imperador?</p>
+<p>- Eu não.</p>
+<p>- As velhas raposas, meus senhores, são as mais ardilosas e atrevidas.</p>
+<p>E comunicando-me esta profunda sentença de Napoleão III, que não sei por que via privativa lhe chegara ao conhecimento, o meu interlocutor, piscando os olhos, assumia um ar de completa aquiescência, que devia lisonjear Palmerston, se o tivesse observado.</p>
+<p>Nisto interrompeu o discurso de polícia transcendente, para pesar meia onça de raspa de veado, e onça e meia de óleo de rícino, e depois continuou:</p>
+<p>- Muito se há-de ver em pouco tempo! O latim há-de deixar de ser língua morta.</p>
+<p>- Ah! pois ainda viremos a falar latim!</p>
+<p>- Decerto. Isso depois é questão de anos. Em França já se estão organizando os estudos dos liceus nesse sentido.</p>
+<p>- Não será então mau irmos desde já recordando o há muito abandonado Novo Método!</p>
+<p>- Abandonado? Não por mim que nunca dei de mão ao estudo dos clássicos latinos.</p>
+<p>Era esta outra corda sensível do pobre homem; supunha-se um profundo latinista, não obstante as continuadas silabadas com que deixava a escorrer sangue a língua de Cícero e de Virgílio. Desculpe-se-me a ambiguidade da expressão.</p>
+<p>Depois passou a convencer-me dos erros de palmatória que tinha cometido o general Mac-Clelan nas campanhas da América; falando de Garibaldi, chamou-lhe um troca-tintas, e a respeito do México, disse-me, meneando a cabeça com ar ponderoso: Eles hão-de pagar o que fizeram aos cristãos. - Como se vê, da latitude do México por diante principiava a reinar grande cerração nas ideias do nosso diplomático.</p>
+<p>Foi na instrutiva conversação deste ilustre pensador que passei algumas horas dos quinze dias chuvosos e escuros que sucederam ao da minha visita à bruxa do pinhal.</p>
+</div><div><head>IX</head>
+<p>Uma tarde, em que o aspecto do céu se mostrava já mais favorável, e uma extensa zona de púrpura, prenúncio certo de favoráveis reformas meteorológicas, tingia todo o Ocidente, onde o Sol acabava de mergulhar-se, dei maior latitude ao meu passeio, estendendo-o até o ponto principal de reunião das raparigas. Fui-as encontrar juntas em grupo, voltadas para o lado do monte e aparentemente empenhadas numa discussão, que prometia ser interessante.</p>
+<p>Aproximei-me.</p>
+<p>- Nada, nada - dizia uma, como em conclusão dos argumentos que extensamente acabara de expender - aquilo foi decerto coisa que lhe sucedeu.</p>
+<p>- Esperem, esperem - exclamava outra, fazendo o gesto de quem procura alguma coisa na reminiscência - a última vez que eu a vi foi... foi... ora deixem ver... foi há seis dias, lá em baixo nas azenhas. Bem me lembra. Ia muito amarela e mal se podia arrastar. Pareceu-me até que gemia.</p>
+<p>- E que lhe disseste? - perguntou Luisita, interessada com as palavras da companheira.</p>
+<p>- Eu?! Se mais pudesse, mais corria. Arrenego tais encontros! Olhem os meus pecados!</p>
+<p>- E há muito que eu não vejo a luzinha pelo monte.</p>
+<p>- Nem eu.</p>
+<p>- Nem eu.</p>
+<p>Disseram, umas após outras, várias vozes.</p>
+<p>- Há-de haver oito dias que a mim me disse a ti Rosa do Aidro que a mulher tinha decerto a espinhela caída - acrescentou, com ar de quem comunica uma importante novidade, a mais trigueira das preopinantes.</p>
+<p>- Aí temos outra! Bem sabe a ti Rosa também o que são espinhelas caídas! - disse com mau humor a primeira que falara.</p>
+<p>- Não, não sabe; que ela não tem o primo endireita em Fiães, sim.</p>
+<p>- E anda a outra sempre a encher os ouvidos à gente com o seu primo en-di-reita. Nem que nunca se visse um endireita senão aquele!</p>
+<p>- Olhem! olhem! Põe-te agora a dizer mal dele também!</p>
+<p>- Grande endireita, que deixou ficar mouco o nosso António, depois de ganhar com ele um par de moedas.</p>
+<p>- Sim? pois olha que nem os médicos da cidade têm que lhe dizer.</p>
+<p>- Credo! credo! Santo nome de Jesus! Nem que fosse algum doutor de capelo!</p>
+<p>Enquanto as duas continuavam discutindo a ciência ortopédica do primo da ti Rosa do Aidro, prosseguia o resto das circunstantes no assunto primitivo.</p>
+<p>- O que eu posso dizer é que há muito não vejo sair fumo da casa dela.</p>
+<p>- A mulher morreu decerto ou está para isso.</p>
+<p>- E se se fosse ver? Também para a deixar assim... - disse Luisita, como a aventurar uma opinião que não tinha firmes tenções de sustentar.</p>
+<p>- Vá lá quem quiser, nanja eu - respondeu imediatamente uma mocetona de constituição atlética.</p>
+<p>- Ir lá?! Fazer o quê? Então vocês julgam que se vai assim sem mais nem menos a uma casa daquelas?</p>
+<p>- Perguntem ali ao senhor - dizia outra, designando-me com o gesto.</p>
+<p>Estas palavras fizeram-me dar mais atenção à conversa.</p>
+<p>- Quem lá entrasse tinha logo o gato preto a saltar-lhe ao pescoço.</p>
+<p>A referência a esta evolução ginástica do gato preto acabou de me demonstrar que se tratava da tia Filomela.</p>
+<p>- Então que há de novo? - perguntei, aproximando-me. - De quem falavam?</p>
+<p>- É que pelos modos - respondeu-me uma das do grupo - andam agora os demónios no pinhal.</p>
+<p>- Fazendo o quê?</p>
+<p>- Para levarem a alma da bruxa.</p>
+<p>- De qual bruxa?</p>
+<p>- Da tia Filomela.</p>
+<p>- Aí voltam as cismas! Mas que sucedeu à tia Filomela?</p>
+<p>- Há muito que não sai de casa e que se lhe não vê fumegar o telhado. Aquilo ou está morta ou para breve.</p>
+<p>- E então ninguém tem ido ou mandado ver?</p>
+<p>- Quem?</p>
+<p>- Não que o que lá for não volta.</p>
+<p>- Ora, sempre é levar muito longe a superstição! Visto isso, há-de-se deixar morrer assim uma pobre velha ao desamparo?</p>
+<p>- Deixe lá; aquelas têm por si outros poderes. Não precisam do socorro da gente.</p>
+<p>- Pelo que vejo não há aqui ninguém que queira ir ao pinhal saber da tia Filomela?</p>
+<p>Ninguém respondeu.</p>
+<p>- Pois bem, nesse caso vou eu.</p>
+<p>- Olhe o que faz! - disseram algumas vozes, em tom de advertência.</p>
+<p>- Ainda não escarmentou? - murmuravam outras.</p>
+<p>Luisita chegou-se a mim e, apertando-me o braço:</p>
+<p>- É demais! Isso é desafiar o Senhor.</p>
+<p>- Ora adeus, Luisita.</p>
+<p>- Não vê...</p>
+<p>- Vamos. Quando for velha há-de gostar que lhe chamem também bruxa e que a deixem morrer de fome e ao desamparo?</p>
+<p>- Mas...</p>
+<p>- Pois olhe, Luisita, se tem muito receio, reze por mim. Eu gosto de ser recomendado aos santos por uma boca tão bonita.</p>
+<p>Luisita não deu palavra mas conheci-lhe no gesto que ficava agourando grandes desgraças da minha excursão ao pinhal.</p>
+</div><div><head>X</head>
+<p>Acompanhado dos responsos e comentários das circunstantes, pus-me pois a caminho da casa da tia Filomela, cuja sorte me estava profundamente inquietando.</p>
+<p>A noite aproximava-se, e uma nebrina densa, levantando-se dos vales, ia, a pouco e pouco, circunscrevendo em volta de mim o horizonte e estreitando-me num círculo cada vez mais cerrado de espessos nevoeiros.</p>
+<p>O grupo das raparigas, que me seguiam com a vista quando eu principiava a subir a colina, cedo se me encobriu debaixo deste véu de vapores impenetrável; circunstância que devia mortificar profundamente todas aquelas curiosidades femininas, ansiosas por gozar de longe do espectáculo que, com grande risco do corpo e da alma, eu lhes proporcionara.</p>
+<p>Depois de ter andado alguns minutos, e quando subia já por um pedregoso e alcantilado caminho de cabras, desenvolvendo todos os meus recursos ginásticos para não rolar com uma avalanche até ao fundo da ribanceira vizinha, pareceu-me perceber o ruído dos passos de alguém que, a pequena distância, me precedia.</p>
+<p>Apressei-me para poder alcançar quem quer que fosse e concluir em companhia o resto da minha excursão. Em breve me foi dado consegui-lo.</p>
+<p>A pessoa que assim caminhava adiante de mim era o pároco da freguesia, jovem sacerdote que eu mal conhecia ainda, mas cujas maneiras afáveis e delicadas e seriedade superior aos seus anos me haviam feito já simpatizar com ele. Vendo-me, parou a esperar-me.</p>
+<p>- Por estes sítios! Agradam-lhe também os passeios dos montes?</p>
+<p>- Não foi para passear que vim até aqui, mas para socorrer uma pobre mulher que a cega superstição desta gente ia talvez deixar morrer ao desamparo. E quem sabe se ainda chegarei a tempo.</p>
+<p>O reitor olhou para mim, perguntando-me:</p>
+<p>- Refere-se à tia Filomela?</p>
+<p>- Exactamente, a ela mesma.</p>
+<p>- Então ofereço-lhe companhia, eu também me dirijo para lá.</p>
+<p>- Também?!</p>
+<p>- É verdade. Todas as sextas-feiras essa pobre mulher me procurava. Faltou-me esta semana, esperei-a ontem debalde e por isso pus-me a caminho hoje, por igualmente recear alguma desgraça.</p>
+<p>- Mas não é uma bárbara crença a deste povo?</p>
+<p>- Então que quer? A ignorância é sempre supersticiosa.</p>
+<p>- Mas... e perdoe-me dizer-lhe isto, senhor reitor; não poderiam algumas palavras da sua parte desvanecer essas abusões?</p>
+<p>O reitor sorriu melancolicamente.</p>
+<p>- E cuida que as não tenho dito? Há apenas dois anos que vim para esta abadia. O meu predecessor era, pelo que pude saber dele, um santo homem, esmoler e honrado, mas de uma superstição grosseira, eivado de erros e de preconceitos que a falta de instrução e nenhuma cultura de espírito haviam feito pulular. Era ele o primeiro a acreditar em todas as tradições de duendes e de almas penadas e a usar de esconjuros, amuletos e ervas contra feitiços. Na residência deparou-se-me uma abundante colecção desses objectos, com que o bom do homem julgava prudente munir-se contra os ataques dos maus espíritos e das feiticeiras. Faça ideia de como devia andar a imaginação desta gente quando um pároco, que residia aqui havia perto de dezoito anos, lhe dava tais exemplos. Nos primeiros dias em que assumi as funções paroquiais, percorrendo os papéis do meu antecessor, encontrei entre outros documentos não pouco curiosos, nos quais ele registava várias observações criticas a respeito dos seus paroquianos, um que mais que todos me interessou. O conteúdo era, pondo agora de parte a ortografia muito sua, pouco mais ou menos o seguinte:</p>
+<p>«Em Agosto de 50 veio residir para esta minha paróquia, escrevera ele, uma velha mulher que diz chamar-se Filomela - nome pouco de gente cristã e baptizada. Vinha miseravelmente vestida e foi viver para uma pequena casa do Pinhal. Ainda não procurou sacramentos e é de poucas falas. Logo que ela aqui chegou, principiaram a morrer crianças de um modo nunca visto. Ficavam roxas e chupadinhas que fazia dó. Depois deu a mortandade nos carneiros, que caíam nos campos, como tordos. Bem se vê que a mulher é suspeita. Pelos modos, ouve-se por altas horas em casa dela gritos agudos, e de noite corre fadário nos montes feita numa luzinha. De quando em quando, vem visitá-la um homem de má catadura. Tudo faz crer ser ela bruxa refinada. Há tempo, falando-lhe, ouvi-lhe palavras sacrílegas. E ovelha que já não espero salvar.»</p>
+<p>Assim terminava o original apontamento do pobre cura, o qual, como é de crer, me excitou mais interesse ainda do que simples curiosidade. Indaguei de várias pessoas relativamente a Filomela e pude então reconhecer como se haviam já arreigado nestas imaginações incultas as ideias supersticiosas do pároco. As informações que me foi possível colher representavam-me de facto Filomela como um ente sobrenatural, em relação íntima com os espíritos maléficos e dotada de poderes extraordinários para evocar as almas dos mortos em pecado e outros absurdos semelhantes.</p>
+<p>Quis desvanecer esses preconceitos, combati-os como pude; consegui apenas ser daí por diante olhado com suspeita pelo povo, que via na minha incredulidade uma espécie de heresia. Decidi-me a procurar a tão falada tia Filomela. O que fui encontrar, procurando-a, deve supô-lo o senhor, que, pelo que vejo, mostra conhecê-la também. Uma desgraçada e nada mais. - Filomela veio de longe para aqui. O motivo desta emigração foi uma desgraça de família, que ela me revelou sob o sigilo da confissão. Quando chegou a esta terra, trazia a pobre mulher no coração o desespero, e nos lábios a blasfémia que o delírio lhe arrancava.</p>
+<p>Se não tivesse encontrado um pároco sem preconceitos, que compreendesse as causas daquele estado doloroso, que tentasse sanar as feridas, ainda gotejantes de sangue, daquele coração aflito, a cura seria fácil. Mas o desprezo de que se viu rodeada exacerbou-lhe os padecimentos e, cada vez mais entregue ao infortúnio, ia perdendo até os sentimentos religiosos, que por tanto tempo haviam sido seu único e eficaz auxílio. Uma epidemia de garrotilho que fez mil vítimas nas crianças e não sei que moléstia que por aqueles tempos grassou no gado, chegando a sacrificar rebanhos inteiros, vieram concorrer para arreigar estas superstições, que tão amarga tornaram a sorte, já mal-aventurada, da pobre Filomela. Quando pela primeira vez lhe falei, senti-me desanimar; confesso a verdade, tão desesperada a vi, que julguei ter chegado tarde: pareceu-me que seriam baldados todos os esforços para chamar de novo à comunhão das ideias cristãs aquela pobre alma abatida pelo infortúnio. Enganei-me todavia; consegui-o em pouco tempo e hoje é uma das mais religiosas criaturas da minha freguesia.</p>
+<p>- O que não evita continuar a ser olhada pelo povo como bruxa e cruelmente odiada.</p>
+<p>O reitor notou, sorrindo:</p>
+<p>- E o melhor da história é que nem todos me poupam também; aqui onde me vê, tenho adquirido a minha reputaçãozinha de feiticeiro ou coisa parecida.</p>
+<p>À verdade desta observação servia de testemunho a conversa que eu ouvira dias antes às raparigas do lugar a respeito do reitor.</p>
+<p>Tínhamos enfim chegado à porta da humilde habitação da imaginária bruxa, quando perguntei ao meu companheiro o que ele conjecturava dos pequenos embrulhos de papel a que Luisita chamara os novelos da tia Filomela.</p>
+<p>Ouvindo esta pergunta, o jovem reitor olhou para mim tristemente e, com uma voz reveladora de verdadeira comoção, respondeu-me:</p>
+<p>- Isso resume quase toda a história desta mulher. E um ente singular e tão digno de respeito e estima como de compaixão.</p>
+<p>Foi o único esclarecimento que obtive.</p>
+<p>Entrámos enfim no quarto da tia Filomela.</p>
+</div><div><head>XI</head>
+<p>Era já noite fechada; a última claridade do dia desmaiara a pouco e pouco no ocidente, apenas agora tingido de uma uniforme cor de violeta. Do lado oriental, principiava a surgir a Lua por detrás dos pinheiros, que se desenhavam em negro sobre o fundo de nuvens em que o astro difundira um colorido inimitável. A única porta da habitação da tia Filomela ficava voltada para este lado e os raios do luar, penetrando por ela, davam a todo o recinto um aspecto indefinível de tristeza e de pavor.</p>
+<p>Parámos no limiar escutando se algum ruído nos advertia da presença da solitária velha, cuja vida tão desfavoravelmente comentada estava sendo em toda a aldeia e seus arredores.</p>
+<p>Reinava o mais completo silêncio.</p>
+<p>- Saiu talvez - disse eu, enquanto que outra coisa bem diversa me pressagiava o coração.</p>
+<p>- Saiu ou... quem sabe? - respondeu-me o reitor, expressando nesta hesitação o mesmo triste pressentimento que eu tivera.</p>
+<p>Demos alguns passos dentro da sala. - O mesmo silêncio.</p>
+<p>- Tia Filomela! - exclamei então, erguendo a voz.</p>
+<p>Ninguém me respondeu.</p>
+<p>Guiados pelo luar, chegámos ao fundo do quarto, onde sabíamos estar situado o leito da pobre mulher.</p>
+<p>Então pudemos distinguir uma forma alvacenta, como de corpo inanimado, que involuntariamente nos fez recuar de terror.</p>
+<p>Vencemos porém este primeiro movimento de repulsão e aproximámo-nos.</p>
+<p>Era ela! a tia Filomela regelada, hirta, com os braços pendidos fora do leito, os olhos abertos, a vista fixa, imóveis e contraídos os lábios, e as faces mais emaciadas e pálidas que nunca!</p>
+<p>- Que desgraça! - exclamou o moço reitor, juntando as mãos. - Pobre mulher, morta, morta assim!</p>
+<p>Palpando-lhe o peito, julguei sentir ainda bater-lhe frouxo e compassado o coração.</p>
+<p>- Morta ainda não - disse ao reitor, comunicando-lhe a minha descoberta - parece-me perceberem-se-lhe ainda uns restos de vida prestes talvez a abandoná-la de todo.</p>
+<p>Como para confirmar a verdade das minhas palavras, a mísera fez um movimento e, com voz sumida, perguntou:</p>
+<p>- Quem é que está aqui?</p>
+<p>- É o senhor reitor - respondi-lhe, curvando-me sobre o leito.</p>
+<p>- Ah! pois veio?! - disse a pobre mulher, em cujo rosto percebi desenhar-se uma expressão de suprema felicidade. - Ainda bem, ainda bem! Onde está ele?</p>
+<p>- Estou aqui - disse o reitor com a voz presa pela comoção que experimentava.</p>
+<p>Filomela agarrou-se-lhe à mão.</p>
+<p>- Como foi bom em vir! Não me deixe, enquanto não estiver morta, não? Tenho tido medo de me ver só. Como é triste ver-se a gente morrer só, só!... sem amigos, sem ninguém que chore, sem ninguém que console! Nunca pensei que chegaria a isto, meu Deus!</p>
+<p>- Sossegue. Aqui nos tem. Mas não há-de morrer ainda.</p>
+<p>- Morro, morro, eu sinto que morro e ainda bem que assim é. Viver como tenho vivido há anos é pior, muito pior. Eles cuidavam que a feiticeira... como sempre me chamavam, coitados! não sofria por se ver assim aborrecida e desprezada; ai, se sofria! se soubessem a minha vida toda!... - E depois, interrompendo-se, apertou com violência a mão do reitor, bradando como sufocada: - Senhor reitor, ai, senhor reitor, a sua bênção depressa, eu sinto que vou morrer. Sinto, sinto!</p>
+<p>E erguia-se com a contracção enérgica da última agonia.</p>
+<p>O reitor, após uma fervorosa oração, elevou os olhos ao céu e abençoou a moribunda, que na aparência se diria já cadáver.</p>
+<p>De repente ainda meia erguida e sustentada por nós ambos, e com olhar vago, as mãos juntas e os lábios desmaiados e trémulos, ela principiou murmurando uma prece, cujas palavras não pude perceber. O reitor observava-lhe os movimentos com um gesto de compaixão e em voz baixa rezava também as orações da agonia.</p>
+<p>A meia claridade que reinava no aposento, reflectindo-se naquele triste grupo, aumentava-lhe o aspecto lúgubre e melancólico, e infundia no ânimo não sei que íntimo e religioso pavor.</p>
+<p>Passados alguns instantes, em que eu só podia ouvir o respirar ansiado da agonizante e o murmurar das orações do reitor, aquela elevou a voz e interrompendo-se a cada passo, extenuada pelo esforço, principiou dizendo como em delírio:</p>
+<p>- Era o meu dever; não era, senhor reitor? Olhe, ele aí está todo. - E apontava para os objectos do prateleiro. - Não lhes toquei... Se vier... diga-lhe... que eu cumpri o meu juramento... mas que lhe perdoei... Já agora...</p>
+<p>Calou-se por algum tempo; depois com a voz cada vez mais sumida, acrescentou com aquela carinhosa meiguice só das crianças e dos doentes conhecida:</p>
+<p>- Deitam-me para baixo? deitam?</p>
+<p>Ajudámo-la a deitar.</p>
+<p>- Assim - continuou ela - obrigada. Ai, sinto-me tão fraca... parece-me que vou dormir. Se me apagassem aquela tocha? Não sei para que a acenderam.</p>
+<p>Coloquei-me diante da porta, para encobrir aos seus olhos a claridade da Lua, que parecia incomodá-la.</p>
+<p>- Ora agora, não façam ruído, porque tenho sono e bem conheço que vou dormir... bem conheço...</p>
+<p>Fechou os olhos por algum tempo, abrindo-os logo depois angustiada.</p>
+<p>- Ai, não estou bem! Por quem são, virem-me, virem-me para o outro lado.</p>
+<p>Voltámo-la como ela desejava.</p>
+<p>- Ah! - disse depois, suspirando profundamente. - Agora sim... estou bem!</p>
+<p>Estava morta.</p>
+<p>O reitor caiu de joelhos junto daquele pobre leito abandonado de todos.</p>
+<p>Deste recinto que os boatos da aldeia faziam habitado por espíritos malignos, acabava de subir ao Céu a alma de uma santa criatura.</p>
+<p>A impressão que me causou toda esta cena manteve-me imóvel e silencioso, fitos os olhos naquela mulher que se finara e no sacerdote que murmurava ao lado dela, e quase soluçando, as orações mortuárias.</p>
+<p>Pouco a pouco um tumulto de vozes e passos apressados, que havia já alguns instantes me chegava confusamente aos ouvidos, veio distrair-me a atenção. Por as frestas da porta, que o vento tinha cerrado, percebia-se um clarão avermelhado, que, projectando-se na parede fronteira e no leito onde jazia o cadáver, dava ainda, se era possível, à cena mais sinistra aparência.</p>
+<p>O sussurro ia-se de momento para momento fazendo mais distinto. Era evidente que procuravam a casa da tia Filomela.</p>
+<p>Receoso de que as ideias supersticiosas do povo e a aversão que lhe inspirava a suposta bruxa o conduzissem a algum acto de violência, ao qual a minha demora, decerto interpretada para mal, servisse de pretexto, corri para a porta com o fim de evitar, se fosse possível ainda, a profanação de umas cinzas.</p>
+<p>Nesse mesmo instante porém reconheci a voz de Luisita, exclamando:</p>
+<p>- E aí.</p>
+<p>E imediatamente a porta abriu-se com violência, penetrando logo no interior o clarão de muitos archotes acesos, sustentados por criados de libré, cuja figura e trajo não eram conhecidos na aldeia.</p>
+<p>Ainda eu não voltara a mim da surpresa que o inesperado da cena me produzira, quando vi sair dentre a multidão, que parecia afastar-se com respeito para lhe dar passagem, uma mulher elegante, distintamente vestida e que pelas formas e vivacidade de movimentos supus ser ainda jovem. Encobria-lhe as feições um comprido véu de cor escura, mas não tão discretamente que lhe não denunciasse a beleza ainda que deixando muito a adivinhar.</p>
+<p>Entrou na sala com passos rápidos e agitada; e, encontrando-se de frente comigo, disse-me, juntando as mãos e com um gesto em que se reconhecia uma não simulada ansiedade.</p>
+<p>- Ainda vive?</p>
+<p>- Está morta - respondeu o reitor, em pé junto à cabeceira do leito; e na inflexão de voz com que pronunciou estas palavras julguei reconhecer não sei que tom de severidade, que me impressionou.</p>
+<p>Esta notícia pareceu fulminar a desconhecida.</p>
+<p>Levou as mãos ao seio e soltou um gemido, tão profundamente expressivo de dolorosa angústia, que me fez subir as lágrimas aos olhos.</p>
+<p>Depois, como cedendo a atracção irresistível, correu ao leito, apoderou-se de uma das mãos regeladas da morta e, pousando-lhe os lábios, caiu de joelhos, bradando entre soluços, que lhe sufocavam a voz:</p>
+<p>- Minha mãe! oh! minha pobre mãe!</p>
+<p>O meu espanto era completo. Olhei para o reitor. Vi-o imóvel e mudo, presenciando com gesto austero e impassível esta cena comovente.</p>
+<p>Quem era pois esta mulher, a chorar assim junto do cadáver da infeliz que tão esquecida vivera, mais aborrecida do que estimada, e tanto ao desamparo vira aproximar-se-lhe a hora da agonia final?</p>
+<p>- Minha mãe - continuava a pobre senhora ainda de joelhos - agora que eu vinha receber as suas bênçãos, agora que eu me julgava feliz, que esperava enxugar-lhe as lágrimas e obter o seu perdão... para que me castiga assim, morrendo sem me perdoar?</p>
+<p>- Perdoou-lhe! - disse o reitor com voz firme e austera.</p>
+<p>A recém-chegada ergueu os olhos para ele, mas, como se compreendesse a severidade daquele olhar, que parecia desafiar o seu, baixou-os imediatamente, perguntando lacrimosa e trémula:</p>
+<p>- Viu-a morrer?</p>
+<p>- Assisti-lhe até ao último suspiro.</p>
+<p>- E ela... falou-lhe de mim?</p>
+<p>- Havia-me contado a sua história.</p>
+<p>- Disse-lhe...</p>
+<p>- Tudo.</p>
+<p>- E perdoou-me?</p>
+<p>- De todo o coração.</p>
+<p>- Mas ignorava que eu havia enfim conseguido merecer-lho, esse perdão que tantas vezes lhe implorei.</p>
+<p>- Mais grato será a Deus.</p>
+<p>- Ó minha mãe! pobre mãe! Se eu te escutasse ao menos as últimas palavras. Quero vê-la. Como aqui está escuro! Uma luz, uma luz.</p>
+<p>Um dos criados aproximou-se com o archote. A jovem senhora desviou então o véu que a encobria até ali, patenteando o rosto, verdadeiramente deslumbrante de beleza, e naquele momento as lágrimas mais faziam realçar.</p>
+<p>Fitando os olhos no aspecto macilento e decomposto da mãe, soltou um grito dilacerante, e, cobrindo o rosto com as mãos, desatou em soluços que comoviam o coração de quantos os escutavam.</p>
+<p>- Jesus, meu Deus! O que fizeram seis anos de infortúnio! Oh, desgraçada de mim! Pobre mãe! - continuou ela, cobrindo de beijos aquelas faces já frias. - Como não sofreste para assim envelhecer em seis anos! Seis anos! Aqui, só, neste monte, nesta casa, tão mal abrigada, tão mal vestida! Mas... Jesus, meu Deus... acaso... - e pôs-se a olhar em volta de si com a vista perturbada.</p>
+<p>O reitor, que pareceu compreender aquela interrogação muda, segurou-lhe no braço e, encaminhando-a para junto do prateleiro, onde se divisavam os misteriosos volumes de que tenho falado, disse-lhe, apontando para eles:</p>
+<p>- Olhe. Sua infeliz mãe morreu pobre e desamparada.</p>
+<p>A aflita senhora, olhando para os objectos que lhe designava o reitor, fez-se pálida e pareceu prestes desfalecer.</p>
+<p>- Meu Deus! ai, meu Deus! - bradou, torcendo as mãos - a minha culpa foi pois tamanha que merecesse este castigo?</p>
+<p>O reitor mostrou-se comovido, ouvindo este grito de não fingido desespero, e pela primeira vez se desarmou da fria insensibilidade, que eu até então estranhara nele.</p>
+<p>- Perdoou-lhe, senhora. Sossegue. E se o que ela havia tanto desejava para lhe estender os braços de mãe se realizou enfim, confie que do Céu, onde está, o saberá, como o poderia saber na terra, que para sempre deixou.</p>
+<p>A filha da tia Filomela, depois de mais uma vez abraçar o cadáver da mãe, chamou os criados, que entraram no aposento. Junto com eles vinha Luisita, cuja curiosidade pudera enfim abafar os supersticiosos terrores.</p>
+<p>- Procurem pousada na aldeia - disse-lhe a senhora, dominando ainda a custo a comoção - e mandem-me alguma mulher que queira ficar hoje comigo aqui.</p>
+<p>Espanto entre a criadagem.</p>
+<p>A senhora continuou:</p>
+<p>- Aqui, junto do corpo de minha querida mãe.</p>
+<p>E, dizendo isto, corriam-lhe as lágrimas pelo rosto abaixo.</p>
+<p>- Fico eu, senhora - disse Luisita, adiantando-se e chorando também.</p>
+<p>D. Margarida - que tal era, como depois soube, o nome da senhora - viu estas lágrimas, e recompensou-lhas com um beijo afectuoso!</p>
+<p>O bom coração de Luisita ganhara neste momento uma grande vitória sobre a sua má cabeça.</p>
+<p>Os criados voltaram à aldeia, comentando cada qual a seu modo o sucedido.</p>
+<p>Eu vim para casa só. O reitor ia retirar-se comigo, quando D. Margarida lhe disse com voz triste:</p>
+<p>- Quer ouvir o resto da minha história, senhor reitor? Preciso da sua absolvição e dos seus conselhos.</p>
+<p>O reitor anuiu.</p>
+</div><div><head>XII</head>
+<p>Eram seis horas da manhã do dia seguinte, quando me vieram acordar, dizendo-me que era procurado.</p>
+<p>- Por quem?</p>
+<p>- Por o senhor reitor.</p>
+<p>Apressei-me a descer à sala, onde efectivamente o reitor me estava esperando.</p>
+<p>- A que devo a felicidade desta visita?</p>
+<p>- Reclamo os seus serviços.</p>
+<p>- Estou à sua disposição.</p>
+<p>- Trata-se de umas exéquias solenes à tia Filomela; coisa, a falar a verdade, tão rara na aldeia, que me vejo embaraçado para lhe dar expediente. Não tenho conhecimentos na cidade e portanto...</p>
+<p>- Deixe isso a meu cuidado. Escrevo a um amigo meu, muito visto nestas coisas e que espero que sairá bem do negócio.</p>
+<p>- Então acompanha-me à residência para alguns esclarecimentos e mais almoçará comigo?</p>
+<p>- Às ordens.</p>
+<p>Vesti-me e segui o reitor.</p>
+<p>A residência não ficava distante; demos aviamento ao necessário. De lá mesmo escrevi uma carta a um amigo do Porto, encomendando-lhe os aprestes para as exéquias, e após subi para o quarto do reitor, quarto modestamente mobilado, sem trastes de luxo, mas com uma simplicidade que revelava bom gosto.</p>
+<p>Numa só coisa desdizia este quarto dos hábitos singelos de vida do jovem sacerdote; era na livraria, bastante fornecida e selecta e que, pela desordem em que a vi, conjecturei não gozar de prolongados remansos.</p>
+<p>Junto à cabeceira do leito e ao lado do velador encontrei, ainda aberto, o Génio do Cristianismo. Outros livros porém, menos ortodoxos, cobriam a mesa, as cadeiras e até o pavimento. Fácil me foi descobrir a um lado o Jocelyn, mencionado pela cúria no Index librorum prohibitorum junto dele, o Eurico, de igual imoralidade; mais além, os Lusíadas - não obstante o seu escandaloso amálgama de religiões; sobre o Paradise lost, o pagão do Homero; ao lado dos Mártires, a Eneida; de envolta com a Crónica de S. Domingos e a Vida do Arcebispo, a História dos Girondinos; a Guerra dos trinta anos, em contacto íntimo com os Anais da propagação da fé; o Memorial de Santa Helena, ao pé da Imitação de Jesus Cristo, e o Teatro de Vítor Hugo, de Schiller e de Garrett, não muito longe dos Sermões de Vieira, das obras de Fénelon e da Nova Floresta de Bernardes.</p>
+<p>O reitor, vendo-me a examinar a biblioteca, corou e disse-me com certo enleio:</p>
+<p>«- Ainda me não pude desfazer de antigos hábitos. Leituras dos meus primeiros anos e dos tempos de rapaz, pouco próprias talvez hoje. À batina só fica bem o breviário.</p>
+<p>- Não se justifique para comigo, porque não lhe admito a culpa. O breviário de per si nem sempre é bom conselheiro. Haja vista o seu predecessor, que pelos modos não tinha cometido esse pecado que parece estar a pesar-lhe na consciência.</p>
+<p>O reitor sorriu.</p>
+<p>Sentámo-nos à mesa para almoçar, e no entretanto disse-me o reitor com expressão de sentida melancolia:</p>
+<p>- Vai saber a história da Filomela. Quer ouvi-la?</p>
+<p>Fiz-lhe sinal de que o desejava.</p>
+<p>- É muito curta. Esta desgraçada mulher vivia a oito léguas daqui com uma filha única, que lhe ficara da idade de seis anos, quando o marido, morto numa dessas lutas civis que assolaram o reino, a deixou na mais triste e indefesa viuvez. Os sacrifícios que fez a pobre mãe para evitar a miséria, que temia menos por si do que por a tenra criança de quem era o único amparo, foram imensos e só talvez bem compreendidos por quem, como nós outros párocos, vive em contacto com esta infortunada gente, para a qual cada dia, cada instante de vida é uma vitória ganha sobre a adversidade. Trabalhava de noite e de dia; à luz do Sol, como à luz da lâmpada; nas longas e frias noites de Inverno, como nas formosas noites de Estio; sempre curvada à mesa do trabalho, sempre vergada sob o peso de tão dolorosa cruz! Assim passaram muitos anos daquela existência de amor e de abnegação, assim se exauriram as forças e o vigor daquela mãe extremosa; e o resto de vida que lhe não absorvia o trabalho, consumia-lho a maternidade, difundia-se nos mil desvelos e carícias com que rodeava o berço da inocente; - com os adornos de afectos, já que lhe escasseavam os da riqueza, que para ela só invejara. A filha crescia, sorrindo no meio da miséria e desconhecendo-a; ignorância feliz dos primeiros anos, comparável à da flor, que desabrocha à borda do abismo. Vivia dos sacrifícios e abnegação da mãe, e de tão pequena vivera deles, que desaprendera a apreciá-los, por essa involuntária ingratidão dos filhos, que mais parece uma lei a que obedecem os afectos humanos. Crescia em idade e em formosura a ponto de ser o enlevo dos habitantes do lugar. Aos dezoito anos, fascinava; falava-se dela léguas ao redor. Foi a desgraça da mãe, que então se revia ainda em tanta beleza, à semelhança dessas crianças imprudentes que se debruçam na corrente, fascinadas pela limpidez que lhes reflecte o céu.</p>
+<p>O filho de uma rica família das proximidades viu a inexperiente rapariga, apaixonou-se por ela, confessou-lhe o seu amor, soube fazer-se correspondido e um dia... Margarida desaparecia de casa. Espalhou-se a nova na aldeia; a mãe esteve quase louca, muito tempo correu como perdida por todos os lugares, encontravam-na de noite e de dia; às vezes adormecida de cansaço nos marcos das estradas; até que depois a perderam de vista na aldeia e disseram-na morta.</p>
+<p>Foi então que veio para aqui com o desespero no coração, alucinada a ponto de blasfemar; por isso o velho reitor, como já lhe disse, a julgou possessa. A crença espalhou-se, a coincidência de certos sucessos parecia justificá-la; e esta desgraçada mãe, só digna de compaixão, viu-se repelida, odiada e desprezada de todos!</p>
+<p>No entretanto a filha, que cedera à sedução, inquieta pela sorte da mãe, procurava-a. Soube do seu desaparecimento da aldeia, enviou emissários para averiguarem o lugar da sua nova residência, se é que ela ainda existia. Foi feliz em tais pesquisas. Vieram da parte da filha procurar Filomela, trazendo-lhe cartas dela; a pobre mãe, cujo coração todo se alvoroçava só de vê-las, rejeitou-as sem sequer as ler, dizendo: - que nunca essa malfadada voltasse para junto de si enquanto não tivesse purificado pelas bênçãos da Igreja o erro da sua juventude. - Esta obstinada recusa, fundada em um arreigado sentimento de honra e decoro, dilacerava o coração das duas!</p>
+<p>O amante de Margarida era de nobres e generosos sentimentos; mas, sujeito à vontade de uma família cheia de preconceitos de nobreza e das distinções hierárquicas, nem ao menos ousava falar-lhe em uma união, que ele também cordialmente desejava.</p>
+<p>Margarida quis acudir à miséria da mãe enviando-lhe algumas somas de dinheiro. Filomela rejeitou-lhas, dizendo que antes quereria morrer de fome do que viver de vergonha. A filha propôs-lhe abandonar o amante, voltar para junto dela e trabalhar para lhe sustentar a velhice; repeliu igualmente a oferta, com a mesma pertinaz firmeza com que tinha rejeitado as outras.</p>
+<p>Isto há-de-lhe parecer talvez um mal entendido rigor, mas verá que se baseava no afecto profundo que alimentava o coração.</p>
+<p>Margarida recorreu então a um piedoso expediente. Sabendo que Filomela saía a miúdo e que nunca se dava ao trabalho de fechar a porta da pobre casa, mandava todos os meses um criado de confiança a espiar o momento em que ela estivesse fora, para lhe remeter os socorros pecuniários. Era quase sempre de noite que isto se efectuava, pois Filomela, para evitar os insultos com que a perseguiam, raras vezes saía de dia. Este homem entrava-lhe então em casa, pousava o dinheiro de Margarida sobre um prateleiro que havia na sala: eram os embrulhos de que me falava ontem.</p>
+<p>- Os novelos da tia Filomela, como me dizia Luisita. Adiante.</p>
+<p>- Filomela suspeitava a procedência da remessa e por isso nem lhe tocou. Quatro anos sucessivos, mês por mês, se renovou a oferta; enfileiravam-se os pequenos rolos de dinheiro que o mensageiro religiosamente depunha no lugar costumado e Filomela nem ao menos sabia a quanto montava já a soma assim acumulada. O criado, que estranhara esta abstenção da velha, comunicou tudo ao amo. Este porém, para não afligir Margarida, recomendou-lhe segredo e ordenou-lhe que continuasse de igual forma a cumprir a sua missão. As somas sucediam-se e Filomela, que tantas vezes lutava com a necessidade, deixava-as no mesmo sítio em que as encontrara.</p>
+<p>Quando a conheci, contou-me tudo. Os instintos religiosos, renascendo nela, aumentavam-lhe mais ainda os escrúpulos e firmavam-na em suas resoluções. Se alguma vez eu lhe falava em perdoar à filha, a pobre mulher respondia-me, soluçando:</p>
+<p>- Isso me diz há muito o coração, senhor reitor, mas, se eu o fizesse, a infeliz vinha-se-me lançar nos braços e esse homem, que a ama ainda, esquecê-la-ia em breve e com ela as promessas que lhe jurou. Ele não é mau. E se, para que eu perdoe, souber necessária a reparação, tarde ou cedo lha dará.</p>
+<p>Eu não confiava muito nisso, mas como teria alma de tirá-la desta crença?</p>
+<p>Os socorros que recusara à filha recebia-os com humildade das minhas mãos. Sabia da repugnância que lhe tinham na aldeia, e nunca por isso de dia ali desceu mais. Quis obrigá-la a ir à missa, não o pude conseguir. Havia no carácter desta mulher um misto de firmeza e timidez notável! - Essa gente, coitadinha - dizia ela muitas vezes - não assistiria com fervor à missa se me vissem a seu lado. - E contudo afligia-se por ser privada de assistir ao santo sacrifício.</p>
+<p>Lancei mão de um expediente. Há aí por detrás do monte uma pequena capela abandonada há muito. Um dia na semana lá ia eu celebrar missa só para a pobre mulher. O meu ajudante, que era o sacristão, é talvez o único homem na aldeia que não participa já da opinião do público a respeito da tia Filomela. Coitada! não pôde ver na terra realizado o seu mais ardente desejo! Quando expirava, corria a filha a seus braços a dar-lhe alvoroçada a notícia de que as orações de tantos anos haviam sido ouvidas. Fora enfim recebida como esposa pelo homem que motivara estas desgraças. Por morte do pai e atingindo a maioridade, ele não quis retardar muito tempo a realização do desejo de ambos.</p>
+<p>O fim já o não ignora. A filha inconsolável quer satisfazer para com a mãe a dívida contraída, por meio de umas exéquias solenes na igreja paroquial. O dinheiro acumulado e intacto das sucessivas mesadas, que enviou a Filomela e que monta à quantia de novecentos mil réis, vai ser distribuído pelos pobres da freguesia, sendo eu o encarregado da distribuição.</p>
+<p>Aí tem a história da tia Filomela, de cujo sigilo fui remido por a filha, que, divulgando-a, pretende justificar a memória da mãe, tão caluniada em vida. - E, erguendo-se da mesa do almoço, o reitor acrescentou:</p>
+<p>- Era uma santa!</p>
+</div><div><head>XIII</head>
+<p>Esta história divulgou-se: mas não fui eu que a contei. Luisita, cuja crença nos feitiços da tia Filomela ficara muito abalada depois da triste cena a que assistira, foi, como já disse, a única que ousou passar a noite com a filha da defunta. Como é de crer, não era para dormir que aí se achavam as duas. Conversaram, e D. Margarida, simpatizando com a sua jovem companheira, contou-lhe toda a história. No dia seguinte Luisita, um pouco por vontade de falar, um pouco com o desejo de desvanecer as más opiniões da aldeia a respeito da tia Filomela, pôs-se à obra, e dentro em pouco era o facto de todos sabido.</p>
+<p>Fez-se justiça, ainda que tardia, a Filomela, e já corriam todos para a casinha do pinhal, como para uma ermida de Senhora aparecida. Duas velhas beatas disputaram, quase a murro, a posse do gato, que no resto da vida se tornou o mais benquisto da aldeia. A fantasia popular, tão fecunda em inventar lendas milagrosas como traças de Satanás e de seus adeptos, referia agora virtudes da tia Filomela que deixavam a perder de vista as antigas façanhas de feitiçaria que lhe atribuíam.</p>
+<p>Também me ri muito com o meu amigo da sua espantosa ciência do coração humano.</p>
+<p>Aquela monumental dissertação era de uma solidez de alicerces formidável, só tinha o pequeno defeito de ser completamente inexacta.</p>
+<p>Oito dias depois faziam-se esplêndidas exéquias à tia Filomela; assistiu toda a gente do lugar. Foi coisa ali nunca vista.</p>
+<p>Após, fez o reitor a distribuição das esmolas, colhendo as bênçãos dos pobres, que choravam de alegria.</p>
+<p>À porta da igreja encontrei Luisita a limpar os olhos, comovida pelo facto edificante que presenciara.</p>
+<p>- Então, Luisita - disse-lhe eu aproximando-me - e os novelos da tia Filomela?</p>
+<p>A engraçada rapariga levantou para mim os olhos mal enxutos, sorriu melancolicamente e não deu resposta.</p>
+<p>- Abençoados novelos - acrescentei eu - que deram para tecer tantas camisas aos pobres!</p>
+</div>
+</body>
+</text>
+</TEI>
