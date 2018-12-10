@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<!--<?xml-model href="../Scheme/eltec-0.rnc" type="application/relax-ng-compact-syntax"?>-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PT0053" xml:lang="pt">   
+<teiHeader >
+<fileDesc>
+<titleStmt>
+<title >Justiça de Sua Majestade</title>
+<author>Dinis, Júlio (1839-1871)</author>
+<respStmt>
+<resp>ElTeC encoding</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">29751</measure>
+<measure unit="pages">1</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>10 dezembro 2018</date>. </p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<author>Júlio Dinis</author>
+<title>Justiça de Sua Majestade</title>
+<publisher><!-- ? --> </publisher>
+<date>1879</date>
+</bibl>
+<bibl>
+<!-- this tagging needs attention -->
+<title>Edição de "Serões da Província" do Projecto Vercial, da autoria de Deolinda Rodrigues Cabrera, 2000, ortografia atualizada, usada pela Linguateca</title>
+<ref>Obtida em <date> 10 de dezembro de 2018 </date>
+</ref>
+<relatedItem type="sourceEdition">
+<bibl>Dinis, Júlio: Serões da Província. Porto, 1879.</bibl>
+</relatedItem>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p></p>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"></canonicity>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2018-08-31" >Nada</change>
+</revisionDesc>
+</teiHeader>
+<text xml:lang="pt-PT">
+
+<front>
+<div type="titlePage"><head>Justiça de Sua Majestade</head>
+</div>
+</front>
+<body>
+<pb/>
+<div><head>I</head>
+<p>FERVET OPUS!</p>
+<p>Era por uma manhã de Abril de 1852.</p>
+<p>O campo vestia-se de seus mais opulentos e matizados trajos.</p>
+<p>O Minho estava fascinador.</p>
+<p>Por toda a parte eram já espessuras frondosas e impenetráveis; sombras discretas; vales misteriosos e encantadores, graças ao claro-escuro, com que a vegetação renascente os coloria; colinas adornadas e festivas, como um trono de altar em capela rústica; enfloradíssimos silvados, veigas a exuberarem de vida; e, por entre tudo isto, casas de brancura ofuscante, e acima de tudo um céu azul, daquele azul dos céus napolitanos, a meu ver, tão culpados na existência dos lazzaroni.</p>
+<p>As torrentes estavam nas suas horas de bom humor não bramiam, murmuravam apenas; não se precipitavam impetuosas do alto dos outeiros, deixavam-se escorregar pelas anfractuosidades das quebradas.</p>
+<p>Os ventos, como que arrependidos, pretendiam com afagos fazer esquecer aos arbustos mais tenros as violências passadas.</p>
+<p>A luz salutar da Primavera convertia-se, por mágica metamorfose, em perfumes que embalsamavam os ares, em flores que esmaltavam os prados, em harmonias vagas que as brisas transportavam</p>
+<p>de selva em selva, que as aves escutavam atentas e os ecos repercutiam sonoros.</p>
+<p>Nestes dias assim sente-se palpitar de vida a natureza inteira.</p>
+<p>Por toda a parte se realiza um génesis. No solo é o grão que germina; nos troncos as novas folhas que brotam; nos ramos as flores que desabrocham; nas águas, nas florestas, nos vergéis, nos ares, uma jovem e inquieta geração de aves e de insectos que surge, animando tudo com seus magníficos concertos, com as valsas incessantes e rápidas, iluminadas por um sol vivificador,</p>
+<p>É contagiosa esta alegria da natureza.</p>
+<p>O coração recebe o impulso dela.</p>
+<p>A vida tem então também a sua inflorescência. Nesta quadra as ilusões, as esperanças, as mais puras e ideais concepções de fantasias exaltadas pululam, como as boninas na relva; a alegria, os risos e os prazeres reflectem-se nos semblantes, como a luz do arrebol nos cimos dos outeiros; ama-se melhor, perdoa-se melhor, e a poesia e os cânticos saem tão espontâneos, como o trinado dos pássaros de entre a folhagem dos pomares.</p>
+<p>A fisionomia das cidades perde também então um pouco da sua habitual gravidade. O vento que lhes vem dos arrabaldes inocula-lhes este fermento de folgazão regozijo. A Primavera desinquieta-os, sedu-los, atrai-os, a esses soturnos cidadãos, e a população urbana transborda nas aldeias circunvizinhas.</p>
+<p>Os mais sisudos burgueses, que durante o Inverno, revestidos da gravidade do seu paleta, e confiando os pés à impermeabilidade dos seus sapatos de guta-percha, passavam sérios e ponderosos, cortejando-se com irrepreensível compostura, agora vestidos de linho, de chapéu de palha de forma pastoril e leveza que não era de esperar da sua idade e posição, seguem, prazenteiros, caminho do campo, contando anedotas de índole pouco edificante, fazendo sentir o sabor do sal, não absolutamente ático, que as tempera: recordando as mais atrevidas coplas da Maria Cachucha, acompanhadas de exibições coreográficas de fazerem estalar de riso a parte feminina do rancho que capitaneiam.</p>
+<p>É a época do esplendor dos «bons retiros» campestres. Mas em 1852, alguma coisa havia, além da costumada influência da Primavera, a sobressaltar a laboriosa população do Norte do reino. A antiga província de Entre Douro e Minho mostrava o que quer que era extraordinário no alvoroço e geral agitação, que por toda ela ia.</p>
+<p>No Porto trabalhavam com azáfama as modistas, os alfaiates, os sapateiros, as luveiras e os doceiros; enchiam-se a deitar por fora as hospedarias; espanavam-se, como em dia de procissão, as varandas, a cujos pacíficos aracnídeos se declarava guerra de extermínio; lavavam-se as vidraças, caiavam-se as fachadas, e, graças a esta limpeza geral que se fazia nas casas, os passeios tornavam-se intransitáveis. Ruas e largos eram calçados com uma actividade sem análoga nos fastos do município. As sessões extraordinárias do excelentíssimo corpo camarário não permitiam um momento de repouso aos preocupados edis.</p>
+<p>Uma população exótica das províncias, trajando de uma maneira incrível, acotovelava-se nas praças, e, extasiada diante das exposições de ouro da Rua das Flores dificultava a passagem ao cidadão portuense, cuja proverbial celeridade era desta vez, por força maior, modificada. A guarnição militar da cidade limpava e envernizava as correias e estudava o exercício, e nos quartéis de Santo Ovídio, S. Bento, Cano e Torre da Marca ressoava de contínuo a música marcial das bandas que se ensaiavam.</p>
+<p>Na Rua das Flores e à entrada das Hortas erguiam-se arcos triunfais de madeira e lona e de uma arquitectura problemática; no cais da Ribeira construíra-se um pavilhão de duvidosa elegância; no centro da Praça de D. Pedro terminava-se um obelisco, diversamente comentado pelos cadeirinhas do passeio do poente, pelos políticos do do sul, pelos vigias e empregados municipais do do norte, e do lado do nascente pelos grupos de elegantes, e literatos, que então estacionavam nas imediações do Guichard, aquele café que há-de merecer uma menção honrosa na história da literatura portuense, se alguém se lembrar de a escrever um dia.</p>
+<p>À entrada dos Aloques... - mal agourada procedência -montava-se o primeiro gasómetro que viu a cidade invicta, destinado a iluminar a gás uma árvore alegórica, em que se trabalhava a toda a pressa no Alto da Rua de S. João.</p>
+<p>Este movimento não ficava concentrado entre os limites das barreiras, estendia-se para o sul a Vila Nova de Gaia, onde, no alto da Bandeira, se construíra também um arco e por toda a estrada de Lisboa até além de Grijó; para o norte também a tranquila vida da província havia sido alterada. Desde os fidalgos que lavavam os brasões das suas armas e reformavam as librés desbotadas dos criados, até o aldeão, que tirava do fundo da caixa meia dúzia de cruzados novos, cuja integridade e boa conservação eram dignas daquelas dinheirosas épocas de D. João V que os mandara cunhar; todos, mais ou menos, participavam deste geral alvoroço.</p>
+<p>É tempo de dizermos o motivo de tanta e tão excepcional agitação destes estranhos preparativos de festa, se é que o leitor o não tem já descoberto. O motivo era efectivamente para todos estes resultados.</p>
+<p>As províncias do norte, que muitos anos havia não tinham visto um monarca, preparavam-se para receber e saudar a virtuosa filha do valente Soldado, de cuja gloriosa história aqui se tinham escrito as páginas mais brilhantes e simpáticas.</p>
+<p>No espaço de vinte anos o Porto, e o Norte do reino, assistira a muitas revoluções, passara por muitos sacrifícios, defendera a todo o transe o estandarte da liberdade, plantado por suas mãos nas memoráveis areias do Mindelo; acontecimentos políticos, quase que sem análogos na história das nações, observara-os o Minho, e nesse sentido já de pouco se podia admirar, mas desafizera-se da vista da realeza; era para toda esta boa gente quase um espectáculo novo.</p>
+<p>Os mesmos soldados de D. Pedro não estavam habituados a ela. Era o duque de Bragança, o coronel de Caçadores 5, que militara a seu lado, e não o rei ou o imperador, que antes de desembainhar a espada e subir com os mais bravos às trincheiras do Porto, havia deposto o ceptro e as duas coroas, e despido os arminhos e a púrpura real.</p>
+<p>O geral do povo fazia dos emblemas da majestade uma ideia fabulosa.</p>
+<p>O manto de S. Luís, da igreja dos Franciscanos, era um acessório, sem o qual não se podia conceber um rei, e de antemão preparavam-se para admirarem o esplendor e a preciosidade da coroa de ouro, que devia cingir a fronte da soberana.</p>
+<p>A multidão, como sempre e em toda a parte, atraída pelos espectáculos novos, aglomerava-se à borda das estradas por onde devia passar a real comitiva. Pinhas de cabeças infantis rompiam por entre a folhagem dos álamos do caminho; as cobertas de damasco e as colchas de chita ramosa adornavam as janelas, onde se encaixilhavam curiosos e pitorescos grupos de fisionomias dos mais diversos aspectos, rindo, berrando, gesticulando, pasmando; as câmaras municipais estavam a postos, tendo em punho os formidáveis e irresistíveis documentos da sua eloquência; o presidente suava; o regedor decretava, e os cabos de polícia passeavam a sua autoridade por entre as turbas que se afastavam respeitosas.</p>
+<p>De quando em quando, uma nuvem de poeira ao longe, um coro desafinado de vivas infantis punha tudo isto em alvoroço, ferviam os cotovelões, distribuíam-se com profusão as trilhadelas, assobiava-se, gritava-se, berrava-se, imitavam-se as vozes de todos os animais possíveis e impossíveis, esqueciam-se as conveniências; um espectador pacífico sentia-se literalmente montado pelo vizinho, e vingava-se, procedendo de igual sorte, com o que lhe ficava diante; a população subia até aos telhados, pendia, como cariátides, das telhas e das cornijas; os camaristas sacudiam com os lenços o pó das suas botas excepcionais e principiavam a tirar os chapéus, o presidente começava a desenrolar, com a gravidade que o caso pedia, o monumental discurso...</p>
+<p>Tudo em vão!</p>
+<p>Era a carruagem de um proprietário das imediações, o qual seguia para o Porto, onde tinha um peitoril à sua espera e um lugar no teatro para essa noite.</p>
+<p>Estes rebates falsos sucediam-se a miúdo. Desde o princípio da manhã a vereação estava esperando!</p>
+<p>Afinal chegava o cortejo. Os foguetes estouravam com um estampido digno do município; os vivas elevavam-se em um crescente ameaçador; uma nuvem de crianças precedia os batedores; tudo falava na sua passagem, tudo arrastava consigo; o povo pendurava-se às portinholas do carro em que vinha a família real, devorava com o olhar a rainha, o rei e os príncipes, e ficava como que espantado de os ver rir e conversar como simples mortais.</p>
+<p>Às vezes, chegado o momento solene, o orador municipal engasgava-se à leitura da felicitação que andava estudando havia um mês. O povo, a arraia miúda, sempre desatenciosa, atropelando então todas as noções de acatamento envolvia os camaristas com irreverência indesculpável e impedia assim que as suas municipais figuras se destacassem de um modo conveniente.</p>
+<p>O cortejo passava, e cada qual ficava fazendo comentários sobre o trajo, o chapéu, o sorrir, os modos, os gestos ou as palavras de suas majestades e altezas.</p>
+<p>E isto se reproduzia, quase invariavelmente, em todos os pontos da estrada até ao Porto, onde cenas não menos curiosas se passaram então.</p>
+<p>A agitação, que, segundo já dissemos, havia muitos dias alvoroçava a cidade, subira de ponto à medida que o telégrafo noticiava a chegada dos reais viajantes às terras mais próximas deste heróico baluarte das liberdades pátrias. - Era assim que os poetas e os jornalistas chamavam ao Porto nas odes e artigos que estavam elaborando para a ocasião.</p>
+<p>Na manhã da véspera tinham principiado a rodar, em direcção aos Carvalhos, as carruagens e trens das principais personagens da cidade a esperar suas majestades e altezas, que na noite desse dia ali repousaram. Para lá estava ainda o governador civil, o general da divisão, e vários titulares antigos e recentes, bem como uma turba muito maior de aspirantes a titulares; viam-se passar a todo o momento as deputações de vários corpos colectivos que corriam a felicitar os augustos hóspedes. As casacas, as gravatas e luvas brancas, as fitas dos hábitos e comendas, as fardas agaloadas, os chapéus armados perpassavam, como brilhantes e rápidos meteoros, perante os olhos curiosos dos peões que, depois de cortejarem os seus possuidores, lhes ficavam redigindo uma biografia digna de Tácito pela severidade.</p>
+<p>O dia estava sereno e límpido. Um noticiarista pôde escrever, esfregando as mãos por ter de empregar um pensamento sempre novo: - Dir-se-ia que até o tempo, ostentando o seu brilho e galas, quis manifestar alegrias confundindo as suas homenagens.com o regozijo público.</p>
+<p>A ansiedade geral tocava o seu auge. Ás onze horas da manhã interrompiam-se todas as transacções comerciais. Fechavam-se as lojas, como em dia santificado. Os pais de família conduziam já a fascinadora prole para as sacadas do amigo, que tinha a infelicidade de morar em uma das ruas do trajecto, e indirectamente arrastavam atrás de si, sem o saber, uma corte mais ou menos numerosa de fascinados.</p>
+<p>Os corpos da guarnição marchavam ao som das músicas marciais, estimulavam o entusiasmo da população. Precedia-os uma turba tumultuosa de garotos, que se voltavam seduzidos pelo brilhantismo das fardas de grande gala e pelas evoluções do tambor-mor. No cais da Ribeira, onde afluíam os curiosos de todos os lados para assistirem ao desembarque e à cerimónia da entrega das chaves, a multidão era compacta, a ponto de dificultar a trânsito das carruagens dos vereadores e as manobras dos batalhões do cortejo.</p>
+<p>Era um oceano de cabeças, ruidoso, agitado, ameaçador! Donde como de um pandemónio, partia a gargalhada, o grito, a aclamação, o insulto, o apupo, a ameaça, os vivas e os morras que a curiosidade revolvia, e fazia ondular em grandes e impotentes marés. O Douro, coalhado de navios, barcas, lanchas, escaleres e canoas embandeirados, e reflectindo nas suas águas, então serenas, a ponte pênsil, toda adornada de flâmulas e galhardetes, oferecia um aspecto risonho e festivo, que lhe não é habitual.</p>
+<p>Ao meio-dia as salvas de artilharia, o estourar das girândolas, e o repique dos sinos, comunicando uma violenta comoção às turbas impacientes, anunciavam que sua majestade chegara ao alto da Bandeira.</p>
+<p>Meia hora depois desembocando da estreita e tortuosa Rua Direita na praia de Vila Nova, ao som dos vivas dos nossos vizinhos de além-Douro, correspondidos pelos dos portuenses, o cortejo real encaminhava-se para o rio, que, por entre fileiras de embarcações de todo o género, atravessou.</p>
+<p>No momento do desembarque, a multidão teve um paroxismo de curiosidade entusiástica, para resistir ao qual a guarnição militar obrou prodígios, que os fastos da polícia portuense deveriam registar. Esta crise durou todo o tempo empregado por o cortejo real em sair dos escaleres e entrar no pavilhão, onde o presidente da câmara pronunciou a felicitação do estilo e ofereceu a suas majestades as chaves da cidade, e só terminou quando de novo tudo se pôs em marcha, observando a pragmática que a etiqueta cortesã instituiu para casos tais.</p>
+<p>Os sinos repicavam, os foguetes subiam aos ares, as janelas e varandas vergavam sob o peso dos espectadores, as flores choviam sobre o carro real, flutuavam as bandeiras, as flâmulas e os damascos de diversas cores; o cheiro das espadanas e mais verdes, que juncavam as ruas, completava as aparências de festa. A multidão continuava-se compacta da Ribeira até à Lapa, onde devia ter lugar o Te-Deum, e da Lapa ao palácio dos Carrancas, da Torre da Marca, ainda então propriedade de particulares.</p>
+<p>Estava enfim D. Maria II nos muros da cidade invicta.</p>
+</div><div><head>II</head>
+<p>EM QUE TRAVAM CONHECIMENTO</p>
+<p>ALGUMAS PERSONAGENS DESTA HISTÓRIA</p>
+<p>Nós, porém, deixaremos o Porto, justamente na ocasião em que de todos os lados aflui gente para ele, atraída pelas iluminações, paradas, espectáculos líricos e dramáticos, bailes, ceias, lanches e almoços, com que, durante oito dias, se ocupou a população desta invicta cidade, que não desmentiu seus brios de abastada e amante da dinastia.</p>
+<p>Os poetas contribuíram com o seu contingente de sonetos, odes, hinos, cantatas e elogios para o esplendor dos festejos.</p>
+<p>Nos diários da época mais circunstanciadas notícias do que quantas eu lhes pudera aqui dar, encontrarão os que as desejarem.</p>
+<p>O Porto conservou-se em folguedo permanente até os princípios de Maio. Na manhã do dia 5 partiu a corte em direcção às províncias do Norte, indo almoçar a Castedo, onde a câmara de Bouças serviu à família real, juntamente com o almoço, uma felicitação.</p>
+<p>Precedendo o luzido cortejo, percorramos a extensão da estrada que vai deste lugar a Vila Nova de Famalicão, onde teremos de nos demorar.</p>
+<p>Por toda a parte era movimento e vida!</p>
+<p>Por baixo de um sem número de arcos campestres e dos festões de murta e de flores, que adornavam todas estas léguas de caminho, moviam-se e agitavam-se consideráveis magotes de gente da aldeia que, a todo o momento, os caminhos laterais vazavam na estrada.</p>
+<p>Os trajos pitorescos do Minho, as cores garridas dos lenços e saias, a alvura das camisas de linho, o brilho dos cordões e das arrecadas, as festas de viola e clarinete acompanhando vilancetes improvisados de alguma cantadeira famosa, davam a toda esta multidão, que se enfileirava de um e de outro lado da estrada ou, acampada em grupos nas devesas e pinhais vizinhos, procedia a apetitosos repastos, complemento de todos os regozijos populares no Minho, um ar de satisfação indiscritível.</p>
+<p>De tempos a tempos viam-se passar caleças, cabriolés ou carroções - esse portuguesíssimo veículo, contra o qual o Sr. Ricardo Guimarães soltara já então o fatal grito de extermínio - conduzindo famílias que regressavam, repletas de festejos, à sua casa de província; outras vezes eram correios de secretaria, carroças de bagagem, oficiais da corte encarregados de disposições para o alojamento do séquito real, liteiras com eclesiásticos, militares a cavalo, destacamentos de infantaria e em suma toda essa população que, em tais ocasiões, se vê circular de terra em terra ou por obrigação e oficio ou por curiosidade e prazer.</p>
+<p>Foi então que se deu um facto notabilíssimo, que a posteridade acoimará de fabuloso, como nós hoje acoimamos, já não digo as façanhudas proezas do cavalo de Alexandre, mas até, com cena escola histórica, as históricas acções dos sete reis de Roma.</p>
+<p>Um dia, o povo portuense viu partir, caminho do Norte, uma legião de cadeirinhas, que, a passo regrado, uniforme, imperturbável e filosófico até, transpôs as barreiras da cidade invicta, para demandar as da augusta Brácara.</p>
+<p>Na fronte destes beneméritos da humanidade reluzia uma auréola que revelava a importância da missão que iam cumprir assim! Nunca tão sublimes de estoicismo escutaram as chufas e apupadas dos garotos; nunca tão cônscios da sua importância social guardaram mais solene silêncio, apenas, de quando em quando, interrompido por uma interjeição galega, que o tropeço de um adepto novel desafiara. Com que denodada coragem tomavam o caminho da peregrinação, transportando, com cadenciado movimento, o inseparável veículo!</p>
+<p>E contudo o projecto que assim os reunia em bandos era para fazer enfiar os mais ousados.</p>
+<p>As façanhas de Hércules não lhe eram superiores; a empresa imposta por Carlos Magno a Hugon ou Huol, do poema de Wieland, não era de mais difícil execução.</p>
+<p>Estes destemidos heróis propunham-se a nada menos que a fazer viajar no Gerês - a por 2$400 réis! - toda a corte e a família real!</p>
+<p>Que pena que circunstâncias, alheias ao ânimo dos novos e intrépidos argonautas, impedissem por fim a realização desse feito! A humanidade enriqueceria a sua crónica de heroicidades e a águia das serras abateria o orgulho, vendo a seu lado o cadeirinha, limpando o suor que o nobilitava e pendurando o capote listrado nos mais altos picos dos rochedos, como o guerreiro vitorioso pendurava na sala de armas a cota, o elmo e o morrião dos combates.</p>
+<p>Menos feliz que o Porto, Vila Nova de Famalicão sentia um pesadelo no meio dos seus regozijos. O dia não estava seguro. Grossas nuvens, assopradas do sul, empanavam, de espaço a espaço, a claridade da manhã; aumentavam, corriam e cerravam-se prestes a fundirem-se em uma só massa, como para reprimir todas aquelas expansões de entusiasmo festivo.</p>
+<p>Junto a um arco de dimensões colossais, flanqueado de um e outro lado por duas altas colunas, e que fora erigido logo à entrada da vila, estacionava a câmara, dignitários e mais convidados para a solenidade da recepção. Deste numeroso grupo a todo o instante se erguia uma cabeça para fitar as nuvens, de cujo aspecto e movimento se auferiam vários prognósticos meteorológicos.</p>
+<p>- Isto passa, - dizia um velho, cujo pescoço, armado de uma inflexível gravata branca, mal lhe permitia o movimento necessário para fitar o céu.</p>
+<p>- Hum! Não sei, - respondeu-lhe um dos vereadores com ar de abatimento. - O vento está do sul.</p>
+<p>- Ainda quando tenhamos chuva, é lá mais para tarde. Quando o vento acalmar, pode ser - opinava um terceiro.</p>
+<p>- O pior é ser hoje quarto crescente.</p>
+<p>- Pois se temos água para a noite, devem ser interessantes as iluminações! - observou um indivíduo, que, tendo sido encarregado dessa parte dos festejos, via a sua glória futura ameaçada de se evaporar, ou, mais propriamente, de se fundir na inundação que receava.</p>
+<p>- Uma coisa assim! - suspirava um, lembrando-se do chapéu novo que estreara.</p>
+<p>- Vão-se demorando! - respondia-lhe outro, a quem a incómoda construção de umas botas de polimento tomava impaciente.</p>
+<p>- Faz-se-me tarde para o jantar, - retorquia-lhes um velho, consultando o relógio e dando a entender em uma visagem expressiva que este adiamento era o máximo sacrifício que podia fazer à realeza.</p>
+<p>E com as ânimos assim dominados pela impaciência ou pelo receio, uns bocejavam, outros assobiavam, outros passeavam e todos estendiam a vista pela estrada, a descobrir vestígios do que tão ardentemente esperavam.</p>
+<p>De repente um som distante de morteiros e foguetes veio aumentar-lhes a ansiedade.</p>
+<p>Chegara enfim o momento?</p>
+<p>Tudo se pôs a postos. Erguiam-se nos bicos de pés e estendiam os pescoços.</p>
+<p>De facto, passados alguns momentos mais, assomava no extremo da estrada, onde convergiam todos aqueles raios visuais, um cano de grandes dimensões e de formas ainda não conhecidas ali, que, puxado por mais de uma parelha e envolvido em um turbilhão de poeira, se aproximava a toda a brida do lugar donde o observavam estes ansiosos espectadores.</p>
+<p>- Aí estão - disse um dos camaristas, conjecturando que não podia deixar de ser real um tão estranho meio de locomoção.</p>
+<p>E, a um sinal dado, o morrão aproximou-se dos foguetes aprestados, e uma salva de girândolas subiu aos ares, quando o referido carro parava junto do arco triunfal.</p>
+<p>Estava dado o alarme na povoação.</p>
+<p>A câmara aproximou-se da portinhola.</p>
+<p>Oh, desapontamento! Em vez do que esperavam encontrar, apenas depararam com meia dúzia de fisionomias, que os olhavam sorrindo, como se compreendessem e saboreassem o equívoco.</p>
+<p>Caíram então em si.</p>
+<p>Era uma das diligências da companhia Viação Portuense, que escolhera aquele dia solene para inauguração das suas viagens.</p>
+<p>Não inventamos. Os viajantes que receberam nesta jornada um acolhimento de príncipes, eram pela maior parte desta cidade, e ainda hoje não terão por certo esquecido a honraria que um engano lhes proporcionou.</p>
+<p>Quando o presidente, chegando ao cano, se preparava talvez para recitar os primeiros períodos da sua alocução, deu de chapa com o rosto rubicundo e jovial, que, surgindo a um dos postigos, disse para os circunstantes:</p>
+<p>- Guarda dentro, guarda dentro, e à vontade. Safa! Não se pode viajar incógnito por esta terra.</p>
+<p>Os espectadores fizeram uma certa careta expressiva porque haviam reconhecido a pessoa que assim lhes falava.</p>
+<p>- Então isso faz-se, José? - disse-lhe em tom de amuo um dos enganados.</p>
+<p>- É célebre! - continuava este, e depois de descer do cano e recebendo de um criado o saco de viagem. - É célebre! Viemos em triunfo! Nunca imaginei que me estavam reservadas estas glórias! Com que preparavas-te para me recitar a tua felicitação, não é assim? - dizia para o orador municipal, que começava a achar graça ao sucedido. - Escapámos de boa, meus senhores - disse depois para os seus companheiros de jornada - escapámos de boa! A eloquência de município! Que pesadelo! E os foguetes? Com os diabos! Esgotaram a provisão? Depressa! depressa! Olá, João das Pipas, acende outra vez o morrão, meu homem. Perdeste o teu tempo e a tua ciência. Mas não tem dúvida. Vocês, sem querer, saudaram um grande acontecimento - a inauguração da Companhia Viação Portuense, da qual eu possuo vinte e três acções. Não sabem o que saudaram com esses foguetes? Saudaram o Minho, saudaram Braga, saudaram o progresso, os melhoramentos desta nossa terra, o engrandecimento da província, do comércio e da agricultura. Não vos arrependais, meus amigos: não choreis o dinheiro do município, que estourou agora nos ares. São de bom agouro estes estouros. São palmas dadas a um grande cometimento. Não estivesse eu com fome, que vos dissera já aqui quanto há a esperar desta caranguejola em que eu vim mais estes cavalheiros, meus amigos, de quem me despeço hoje, porque já agora aproveito a ocasião para ir a Barcelos na comitiva real. Pensai vós nisto, e dai por bem empregada a pólvora que consumistes. Todavia ponde-vos outra vez a postos, que suas majestades não tardam, e preparai também os guarda-chuvas, porque já sinto cair as primeiras pingas.</p>
+<p>E, terminando este aranzel, que os circunstantes escutaram com um sorriso nos lábios, o jovial accionista da Companhia Viação Portuense dirigiu-se, a correr, para a estalagem vizinha.</p>
+<p>O seu prognóstico era verdadeiro. A chuva principiava a cair; e quando os coches reais entraram na vila era já tal a cópia de água, que não pararam para se ler a felicitação camarária, e seguiram imediatamente para a casa do Ex.mo Sr. António Emílio Brandão, onde a família real tinha de pernoitar.</p>
+<p>Estava em maré de infelicidades a câmara de Vila Nova de Famalicão.</p>
+<p>No entretanto o indivíduo que vimos sair da diligência, fazendo alarde do desapontamento dos seus amigos de Vila Nova, subia apressado os lanços da escada da hospedaria.</p>
+<p>Era um velho baixo e magro, mas todo viveza e actividade, de uma fisionomia aberta e expansiva, olhos penetrantes e lábios habitualmente risonhos.</p>
+<p>Trajava vestuário de jornada, e mostrava claramente em certas particularidades do seu equipamento de viagem, não ser noviço nestas empresas.</p>
+<p>Trauteando um dos muitos hinos com que, durante os dias que passara no Porto, tivera vagar de encher os ouvidos, avançava a dois e dois os degraus, seguido do criado que lhe trazia as malas.</p>
+<p>No primeiro patamar encontrou-se frente a frente com o dono da hospedaria, que se descobriu ao avistá-lo.</p>
+<p>- Olá! Viva o patrão. Passasse muito bem. Quero um quarto para esta noite.</p>
+<p>O estalajadeiro fez uma visagem de embaraçado.</p>
+<p>Então? Vamos, adiante. Mostre-me um quarto, que tenho pressa.</p>
+<p>- Mas... Valha-me Deus, Sr. José Urbano... E que eu não tenho nenhum quarto que lhe dê.</p>
+<p>José Urbano fez um gesto de espanto, e pôs-se a olhar fito para o seu interlocutor.</p>
+<p>- Com os diabos! Sr. Manuel! Você esquece-se que está falando com um dos mais assíduos fregueses da sua baiuca?</p>
+<p>- Não, senhor; mas é que eu não podia adivinhar que Vª Sª chegava hoje e pretendia ficar aqui. Aluguei todos os quartos que tinha.</p>
+<p>- Sr. Manuel! Olhe que eu sou José Urbano de Melo Ribeiro, e nunca na minha vida dormi uma noite ao relento. Arranje-se como puder; mas eu não saio daqui.</p>
+<p>- Mas que quer Vª Sª que eu faça! Eu, se soubesse...</p>
+<p>- Não tem desculpa nenhuma. Um homem conta sempre com um amigo.</p>
+<p>- Mas nestas ocasiões...</p>
+<p>- Pois nestas ocasiões é que se agradecem os favores. Então!</p>
+<p>Decida-se. Eu quero hoje ficar em Vila Nova. Parto amanhã para Barcelos. Não desejo incomodar nenhum dos meus amigos que estão já abarrotados de hóspedes. Veja se me quer deixar numa situação crítica. Tinha graça! Não saio daqui ao poder que eu possa...</p>
+<p>- Valha-me Deus! - disse o estalajadeiro, coçando a cabeça.</p>
+<p>- Deixemo-nos de lamentações. Se você não é homem de expediente, eu vou por aí pedir a esses inquilinos que me cedam metade do seu quarto. Alguns hão-de concordar. Com os diabos! Por que não? Eu arrancho sofrivelmente a uma partida de stromboy ou voltarete ou de damas e gamão, e ainda não sou dos piores companheiros. Vamos lá.</p>
+<p>Quando José Urbano acabou de pronunciar estas palavras, abriu-se por detrás dele uma porta, junto da qual se travara esta altercação, e um velho, de aparência marcial, vestido de um amplo capote ou sobretudo de mescla agaloado de vermelho e com botões de metal, e cabelo cortado à escovinha, se intrometeu na discussão, dizendo para José Urbano:</p>
+<p>- Aqui tem um que lhe aceita a companhia, se lha propuser e estiver disposto a aturar um velho soldado, que por certo o não poupará à narração de uma das suas campanhas.</p>
+<p>José Urbano voltou-se. Achava-se na presença de um soberbo tipo de velho oficial, que desde logo lhe agradou.</p>
+<p>Era uma figura, cuja cor e carnação revelavam saúde e robustez; bigode espesso e alvíssimo, umas certas rugas ao canto dos olhos, características de bom humor; porte airoso, movimentos fáceis, cabeça erecta; peito saliente.</p>
+<p>- Bom! - disse José Urbano, intimamente satisfeito. - Eu logo vi que não estávamos em terra de bárbaros. Aceito, general, e agradeço.</p>
+<p>- Devagar, devagar, meu ilustre amigo. Não posso com a patente. General! Safa! Como vai depressa! Major, major, e graças à febre promotora da Regeneração.</p>
+<p>- Major! - disse José Urbano, instalando-se sem mais cerimónia no quarto do seu inesperado companheiro. - Como é isso? Apre! Que tem andado a passo, meu salvador Major!</p>
+<p>- Que quer? Servi ajunta do Porto em 1846. Está explicado o atraso.</p>
+<p>- Hum! Então é dos meus! Está na presença de um patuleia. Fique desde já sabendo.</p>
+<p>- Folgo imenso.</p>
+<p>E os dois apertaram novamente as mãos.</p>
+<p>- Tirou-me de apertos, major - continuou José Urbano, revolvendo as malas. - Entre parênteses, não repare se eu, compensando de alguma sorte a incúria dos governos, lhe chamar às vezes general.</p>
+<p>- Chame-me o que quiser.</p>
+<p>- Tirou-me de apertos, dizia eu. Imagine que esse desalmado do estalajadeiro me queria deixar sem quarto. A mim, que todos os meses lhe deixo aqui ficar alguns cruzados novos em troca de uns bifes de cebolada que me dá a tragar. Olá, rapaz, traze-me cerveja inglesa - exclamou para um criado que atravessava o corredor -Bebe cerveja, major?</p>
+<p>- Para lhe falar verdade, meu caro amigo, nunca fui afeiçoado a essa bebida de ingleses e flamengos. Lembra-me o tempo de emigração.</p>
+<p>- Ah! emigrou também? Olá, rapaz, vinho do Porto.</p>
+<p>- É para mim que o pede? Por quem é! Eu já não bebo antes de comer. Foi tempo.</p>
+<p>Está como eu. Rapaz, bifes de cebolada.</p>
+<p>- Com os diabos, senhor... como lhe hei-de chamar?</p>
+<p>- José Urbano, um seu criado.</p>
+<p>- Meu caro Sr José Urbano, veja que para jantar ainda é cedo.</p>
+<p>- Chame-lhe lunch, chame-lhe o que quiser O essencial é que eu coma. Em todo o caso... Rapaz, queijo londrino. Dá licença que me ponha à vontade, general?</p>
+<p>- Sem cerimónia. Está no seu quarto.</p>
+<p>José Urbano não esperou nova autorização; vestiu um robe-de-chambre de chita, pôs um boné, calçou uns sapatos de tapete, que tirou da mala, e principiou a fazer os preparativos para se barbear.</p>
+<p>O major, acendendo um cigarro, observava-o com visíveis mostras de satisfação.</p>
+<p>- Então, com que o general ou o major veio com alguns dos duques, não é verdade?</p>
+<p>- Rigorosamente falando, eu vim só. Há muito que desejava percorrer o Minho. Pedi licença em Lisboa, e aproveitei esta ocasião para levar a efeito esta visita.</p>
+<p>- Não conhece a província.</p>
+<p>- Ora! como as minhas mãos.</p>
+<p>- Visto isso, não tem roteiro marcado?</p>
+<p>- Senão o instituído por mim próprio. Quero abraçar alguns velhos camaradas e tomar a ver certos lugares.</p>
+<p>- Segue para Barcelos amanhã, não é assim?</p>
+<p>- Não; vou primeiro a Braga.</p>
+<p>- Diabo!</p>
+<p>- Que é?</p>
+<p>- Sinto não estar lá para o receber em minha casa.</p>
+<p>- Agradecido.</p>
+<p>- Talvez ainda nos encontremos. Demora-se?</p>
+<p>- Veremos. Pode ser</p>
+<p>- Então é provável. Apressarei os meus negócios.</p>
+<p>- É de Braga?</p>
+<p>- Resido lá.</p>
+<p>- É negociante?</p>
+<p>- Às vezes. Quando me faz conta. Quer dizer, quando vejo probabilidades de bons resultados. No caso contrário vivo dos meus capitais. Cultivo a minha horta, enxerto as minhas fruteiras, e uma vez ou outra, por desfastio, trabalho em eleições. Assim vou vivendo.</p>
+<p>E com estas conversas pouco e pouco se foi estabelecendo a mais íntima familiaridade entre os dois: dentro de alguns minutos mais estavam um defronte do outro, prestando a devida homenagem ao talento culinário do Vate! da estalagem, manifestado em um beef de cebolada, que teve as honras de bis.</p>
+<p>Não os distraiu o estrondo dos morteiros, os hinos marciais e o murmúrio da populaça, que a chegada dos reais viajantes ocasionara nas ruas</p>
+<p>Acabada a refeição, José Urbano, que continuava a pôr de parte toda a cerimónia, dirigia ao major uma pergunta que envolvia uma intenção, evidente para o major.</p>
+<p>- Não costuma dormir a cesta, coronel?</p>
+<p>- Quase nunca, e hoje muito menos. Tenho de visitar o duque de Saldanha.</p>
+<p>- Nesse caso não se constranja. Vá, vá. Eu dormirei, porque, para lhe falar francamente, ando muito falto de sono. Estes dias passados no Porto arrasaram-me. Na quinta-feira estive em S. João:</p>
+<p>representou a companhia dramática; recitaram os poetas. Na sexta fui ao baile da assembleia. No sábado voltei ao teatro; cantou-se a Lucrécia Bórgia. Na segunda fui ao baile da Feitoria... em uma palavra, não me tenho em pé. Até logo, general ou major, até logo. E verdade! Como se chama?</p>
+<p>- Clemente Samora.</p>
+<p>- Clemente! Tem graça. Esquisito nome de militar Adeus, adeus.</p>
+<p>E os dois separaram-se; José Urbano para se entregar às delícias de uma sesta que se não fez esperar; o major Samora para descer à rua, onde vários grupos de oficiais, chegados ultimamente, estacionavam.</p>
+<p>Não havia muito que ali chegara o major, quando o chamou à parte um alferes ainda moço e imberbe, de compleição delicada, elegância irrepreensível e mãos aristocráticas, e ocupado a calçar uma luva de pelica com o mesmo escrupuloso cuidado que empregaria na plateia do teatro de S. Carlos.</p>
+<p>A figura do recém-chegado, que a julgar pelas aparências, dir-se-ia mais própria para adornar os salões da capital ou os passeios do Chiado, e para ostentar garbos nas paradas, do que a pernoitar em bivouas, vencer marchas e contramarchas, e dirigir uma carga de baioneta, contrastava com o ar marcial do major, que o seguia a passos vagarosos, revelando o hábito de cavalgar e talvez um princípio de reumatismo, que a vida de campanha lhe granjeara para a velhice.</p>
+<p>- Não é verdade que tenciona seguir para Braga, amanhã, major?</p>
+<p>- E, sim. Porque o pergunta? Posso ser-lhe útil?</p>
+<p>- Ofereço-lhe a minha companhia.</p>
+<p>- Como! Pois não segue o cortejo?</p>
+<p>- Não; o duque da Terceira encarregou-me de uma mensagem para o comandante do 8. Parto amanhã.</p>
+<p>- Estimo. Faremos uma bela jornada. E sua mãe?</p>
+<p>- Segue ainda para Barcelos; depois parte para a quinta do Coural, cujos proprietários prometeu visitar. Esperam-na.</p>
+<p>- Vai negociar o seu casamento, Filipe; aposto. As filhas desse capitalista são ricas e interessantes, dizem.</p>
+<p>- Que importa? Minha mãe sabe que para eu principiar a odiá-las bastava suspeitar que se tramava essa conspiração matrimonial. Mas descanse. As raparigas julgo que até estão prometidas a não sei que fidalgos do Minho.</p>
+<p>- Então amanhã conto consigo?</p>
+<p>- Sem falta.</p>
+<p>- Eu moro na hospedaria. Acolá. E por sinal que tenho por companheiro de quarto um originalão. E verdade, se puder, apareça-nos esta noite. Jogaremos uma partida de voltarete.</p>
+<p>- Pode ser. Até à vista.</p>
+<p>- Até à vista.</p>
+<p>As nove horas da noite ia grande rumor no quarto do major Samora.</p>
+<p>Este, José Urbano e Filipe de Rialva - que assim se chamava o jovem alferes, com quem acabamos de tomar conhecimento - jogavam uma partida de voltarete, a qual José Urbano acompanhava de observações críticas e sonoras exclamações.</p>
+<p>A exigências suas, flanqueava a mesa do jogo uma boa provisão de bolacha, charutos e garrafas de Xerez e Porto, que concorriam em grande parte para o carácter ruidoso da partida.</p>
+<p>José Urbano estava infeliz ao jogo. Rialva recordava-lhe, sorrindo, o velho adágio que lhe prometia felicidades nos amores.</p>
+<p>José Urbano torcia o nariz à alusão.</p>
+<p>- Não, meu caro amigo, - exclamava ele, bebendo um cálice do Porto - desse achaque estou eu livre. Curti o coração ao sol do Rio de Janeiro e nas roças do sertão. Essas enxaquecas já não têm presa em mim.</p>
+<p>- Vamos, Sr. José Urbano, - continuava Rialva - se quiser ser franco, talvez tenha que nos contar Um episódio ameno no meio desse viver árido que diz.</p>
+<p>- E certo, - disse o velho negociante, tomando subitamente um ar de seriedade - é certo que nem tudo tem sido aridez na minha vida. Mas os poucos episódios amenos, como diz, os meus únicos amores... esses... são para mim demasiado sérios para os contar à mesa do jogo e entre dois goles de Xerez. Agora... Bebamos em honra da Carta Constitucional - exclamou, ao ouvir romper por baixo das janelas da hospedaria esse hino popular executado por uma filarmónica da localidade.</p>
+<p>- Apoiado - respondeu o major, erguendo o cálice.</p>
+<p>Rialva fitou por algum tempo José Urbano.</p>
+<p>- O que se não conta a uma mesa de jogo, - disse passados alguns momentos nesta contemplação - poderá contar-se um dia, dadas outras circunstâncias.</p>
+<p>- Decerto - respondeu José Urbano.</p>
+<p>- Bem; nesse caso... Em honra da Carta!</p>
+<p>E Rialva associou-se ao brinde.</p>
+</div><div><head>III</head>
+<p>CONFIDÊNCIAS RECÍPROCAS</p>
+<p>Na tarde do dia seguinte, a laboriosa vila de Famalicão, tão alvoroçada e festeira na véspera, mostrava um ar, não dissimulado, de abatimento e de tristeza. Com as primeiras alvoradas desvanecera-se todo o fantástico efeito das iluminações da noite.</p>
+<p>O sonho terminara, durava o desgosto do acordar.</p>
+<p>As colunas luminosas, os arcos cintilantes, os esplêndidos obeliscos apresentavam-se agora em toda a sua prosaica realidade de madeira pintada, lonas enodoadas, flores murchas, e verdura defumada e sem viço. Os copos e as laranjas de azeite, que, sob o prestígio da luz, horas antes atraiam com força irresistível as vistas da multidão, já não desafiavam senão o tédio.</p>
+<p>Raiara a luz verdadeira, e os falsos astros, apagando-se, mostraram tudo o que eram. Quantas glórias, como eles, que no meio das trevas ofuscam, não resistem aos primeiros clarões de um real alvorecer!</p>
+<p>Os restos e destroços dessas máquinas de festa ali estavam expostos às fantasias, aos caprichos e espírito aniquilador dos gaiatos, que os apedrejavam agora: de todos os esplendores que desmaiam, de todas as reputações que periclitam, as turbas costumam tirar destas vinganças, pelo entusiasmo e delírio em que momentaneamente as arrebataram.</p>
+<p>O desalento parecia nem dar ânimo para remover essas últimas, deterioradas e quase repelentes memórias dos regozijos findos. Compreendo aquele sentimento.</p>
+<p>Eu não sei de nada mais triste do que o terminar de todas as festas.</p>
+<p>Em criança arrasavam-se-me de água os olhos quando assistia ao desfazer do presépio que, em honra do Menino Deus, se armava em minha casa pelo Natal.</p>
+<p>Cerrava-se-me o coração de melancolia, ao ver guardar outra vez na arca - e por um ano! - o Menino, Nossa Senhora, S. José, os grupos dos pastores, a vaca, o jumento, os três reis, os anjos e todos os mais acessórios do pitoresco santuário, diante do qual, nesses quinze dias, se rezava a coma em família e se cantavam as loas da ocasião! Amargo dia de Reis, último desta abençoada quinzena, já te não via assomar sem que se me enevoassem aquelas puras alegrias infantis. Que não encontrásseis mais estorvos pelo caminho, venerandos Magos! Que aquela milagrosa estrela, que vos trouxe a Belém, vos não fizesse errar mais tempo antes de lá chegardes! Fatal 6 de Janeiro! com o teu anoitecer, anoitecia-me o coração. Voltava a vida normal, voltavam os bancos das aulas, a aritmética, a caligrafia, oh! a caligrafia sobretudo tão associada à férula do mestre-escola! e o que era pior que o mais - acabava naquela santa comunidade, em que durante quinze dias vira a família; o lar doméstico já não oferecia o alegre tumulto e desordem, em que velhos e crianças tomavam parte, esse ruído e confusão que tão fundo calava no coração de todos. A solenidade que nos reunira sob o mesmo tecto, que nos fizera viver a mesma vida, ia acabar. Nós, as crianças, chorávamos às claras na despedida; mas suspeitávamos que as nossas lágrimas tinham companheiras envergonhadas. Quantas vezes surpreendíamos segredos de comoção, que nos redobrava o choro!</p>
+<p>Suspeitava-o eu então, mas acredito-o agora que, apesar de na idade em que a lei autoriza a não me considerar criança, ainda não sou superior a cenas daquelas.</p>
+<p>Se ainda hoje experimento uma sensação desagradável ao entrar em um teatro vazio, assistindo ao findar de uma romaria, ouvindo as derradeiras notas de uma valsa na última noite de carnaval! A transição do movimento para o repouso é como uma imagem do pensamento!</p>
+<p>As vezes, nesses momentos solenes, há convulsões até como as da agonia. Nem outra coisa é a vertigem da última valsa.</p>
+<p>E tanto isto se dá comigo, que só o considerar no estado de desanimação em que, depois da partida dos augustos viajantes, ficou a vila do Minho, onde se passaram as cenas do capítulo anterior, me arrastou por divagações pouco alegres, que talvez fossem avivar ao leitor memórias adormecidas, cujo delicioso pungir nem todos me perdoarão.</p>
+<p>Mas o facto era que, ou por abatimento moral ou por cansaço físico, o povo de Famalicão não andava na rua aquela tarde.</p>
+<p>À porta da hospedaria, onde contraímos conhecimentos, que teremos de cultivar, estacionavam apenas alguns raros ociosos que se entretinham a contemplar, com olhos de entendedores, dois soberbos cavalos de raça de Alter, que um soldado segurava pelas rédeas. Os nobres animais, ansiosos por partir, mordiam com impaciência os freios polidos, resfolgavam, sacudiam as clinas, escarvavam com as ferraduras as pedras da calçada, e expeliam dos beiços inquietos flocos de fumegante espuma.</p>
+<p>Pelo selim e arreios que os ajaezavam conhecia-se pertencerem a militares, e igual corolário se tirava da aparência bélica do palafreneiro contra cuja astuciosa impassibilidade, e calculado laconismo, se tinham vindo quebrar as mais inquisitoriais interrogações dos curiosos do grupo.</p>
+<p>O manhoso soldado, depois de ter feito ampla provisão nos cigarros que, para o humanizar, um de mais expediente lhe oferecera, limitara-se a responder por monossílabos, pouco de satisfazer, aos quesitos sobre o preço, as manhas, a sustentação, o tratamento dos quadrúpedes, e em seguida sobre a hierárquica posição, merecimento e mais partes que concorriam na pessoa dos seus proprietários.</p>
+<p>Com ciência superior foi sustentado este jogo até que o tinir das esporas de alguém que descia as escadas pôs fim às interlocuções.</p>
+<p>Os grupos dispersaram para dar praça aos viajantes; o soldado preparou as rédeas e fez a continência que, na posição em que estava, lhe era possível fazer.</p>
+<p>Seguidos pelo estalajadeiro, que se desfazia em barretadas, assomaram ao patamar os dois oficiais.</p>
+<p>Não surpreenderei por certo o leitor, dizendo-lhe que eram os nossos conhecidos, o major Clemente Samora e o alferes Filipe de Rialva.</p>
+<p>Depois de dirigirem ao estalajadeiro um gesto familiar e cortejarem os curiosos que se descobriam, os dois, tomando as rédeas da mão do soldado, montaram com agilidade e partiram a passo em direcção ao norte. Os espectadores seguiram-nos por longo tempo com a vista e ficaram fazendo comentários sobre o jogar das dianteiras dos cavalos, seus merecimentos absolutos e relativos, e sobre as qualidades, posição oficial e até a missão de que poderiam ir encarregados os cavaleiros.</p>
+<p>Estes caminharam por muito tempo silenciosos.</p>
+<p>O major, deixando correr a vista por todos os pontos da paisagem lateral à estrada, pelas veigas, almargens, devesas, pinhais de um ameno e delicioso panorama do Minho, dir-se-ia ressentir uma violenta comoção interior, como se lhe fossem conhecidos aqueles sítios, e lhe estivessem evocando memórias de outros tempos com toda a inquieta turba de saudades, que, de ordinário, as acompanham.</p>
+<p>Filipe de Rialva tomara também uma expressão de seriedade melancólica, que, lhe não era habitual.</p>
+<p>Só a preocupação própria é que podia fazer com que cada um não estranhasse a de seu companheiro, e não procurasse devassar-lhe a causa.</p>
+<p>Houve uma ocasião em que Clemente Samora chegou a suspirar. Era isto nele tão extraordinário, tão pouco dado a estas melancolias era o velho militar, que Filipe de Rialva saiu enfim da sua abstracção ao escutar este suspiro, e olhou admirado para o seu companheiro de jornada.</p>
+<p>Foi só então que reparou no ar de tristeza que as feições acentuadas e expressivas lhe reflectiam naquele momento.</p>
+<p>- Que é isso, major? Se me não enganei, ouvi-o agora suspirar</p>
+<p>- disse o alferes, dando um certo entono jovial à interpelação.</p>
+<p>O major conservou-se algum tempo calado, depois respondeu, afectando indiferença:</p>
+<p>- Que quer você, Rialva? O meu reumatismo não se esquece de me dar de quando em quando notícias suas.</p>
+<p>- Ai, major! major! a não descrer muito da minha experiência na matéria, aquele suspiro não era desafiado por uma dor articular.</p>
+<p>- E então que quer dizer com isso? Vejo-o com ares de quem me supõe apaixonado. Olhe bem para mim, Rialva. Acha-me com cara de poeta erótico ou de galã de romance? Na minha idade!</p>
+<p>- Um militar é sempre jovem, major É aforismo de quartel. O coração não teve tempo de envelhecer no campo da batalha.</p>
+<p>- Mas contrai outros hábitos e afeições por lá, e perde essa extrema inflamabilidade, que ameaça a de pessoas, como você, de continuados incêndios. O meu não está sujeito àquelas enxaquecas de que ontem nos falava o nosso amigo José Urbano. Se se não curtiu, como o dele, nos calores dos sertões americanos, temperou-se no fogo da metralha.</p>
+<p>- Mas aquele suspiro, major?</p>
+<p>- Que tem aquele suspiro? Que significa isso? Suspira-se sem motivo também e quantas vezes?</p>
+<p>- Oh! mas é um terrível sintoma. Deve confessá-lo.</p>
+<p>- Olhe, Rialva, - disse o major depois de alguns minutos de silêncio - vou falar-lhe com toda a franqueza. Não é com indiferença e de ânimo tranquilo que tenho feito esta viagem do Minho. Sabe que militei no Porto. Sabe que, sob o comando de D. Pedro, ganhei muitas das minhas patentes e quase todas as minhas condecorações. A história das minhas cicatrizes está escrita por estes sítios. Os episódios das campanhas gravam-se-nos na memória e deixam saudades sempre. Sinto-as agora e vivas e profundas! Se as sinto! E verdade. Conheço ainda tudo isto! Acodem-me à imaginação coisas que julguei esquecidas para sempre. Lances arriscados, situações difíceis, entusiasmos de vitória, desesperos das derrotas, episódios cómicos no meio dos horrores da guerra, banquetes, onde folgavam e riam, ao nosso lado, muitos que momentos depois estavam inanimados na campa... mil aventuras enfim, pecados velhos, que agora vão recordando com certo travor</p>
+<p>- Pecados velhos também? - disse o alferes, sorrindo.</p>
+<p>- Que dúvida? E oxalá que fossem todos leves!</p>
+<p>- E não serão?</p>
+<p>- Nem todos, Rialva, nem todos. E se tiver de ser franco consigo, talvez que vá prender a um dos mais graves o suspiro de que há pouco você me pediu a explicação.</p>
+<p>- Ah! Bem que me parecia que vinha do coração.</p>
+<p>- Mas não de um coração namorado e casquilho. Entendamo-nos. Graças a Deus e à minha boa sorte, tenho sido preservado desse mau achaque de velhice. Mas de um coração arrependido... pode ser... é. São remorsos de um mal feito, desejos de o remediar, desejos irrealizáveis agora, e que por isso me serão perpétuos tormentos.</p>
+<p>- Repare, major, que está dando às ideias uma direcção demasiado sinistra. Nunca assim o conheci apreensivo e lúgubre.</p>
+<p>- Tenho por costume não manifestar os meus sentimentos. E pudor de coração que se não quadra com a empáfia militar. Mas, à vista destes lugares, tão cheios de recordações para mim, a comoção foi mais forte do que eu, venceu-me, zombou da minha repressão, transbordou. Já agora deixá-la.</p>
+<p>- Confie em mim, major; eu sei compreender esses sentimentos.</p>
+<p>- Não sabe tal. Na sua idade não se pensa nisto. Somos imprudentes; mais tarde, demasiadamente tarde é que sentimos o mal.</p>
+<p>O alferes, longe de protestar contra o conceito formulado pelo seu velho companheiro, calou-se e pareceu meditar.</p>
+<p>- Desde 1843 que não voltei a estes sítios - continuou o major. - Deveres em parte, e em parte o natural descuido de ânimo dos que vivem aquela vida de Lisboa, mo impediram. E, contudo, alguma coisa me devia ter trazido aqui há mais tempo.</p>
+<p>- Vestígios de passadas afeições?</p>
+<p>- Sim; mas vestígios tristes, vestígios de lágrimas talvez. Entre muitas aventuras da mocidade, eu tive também o meu romance, Rialva. Sossegue, que não gastarei estilo em lho narrar. Eu não me entendo com a vossa literatura de agora. Bem sabe que sou contemporâneo dos sonetos, e por isso abstenho-me de fazer narrações a rapazes que se alimentam de romanticismo puro. Em vez de arroubamentos, e enleios que estão agora na moda, eu poderia falar-lhe nas clássicas setas de Cupido e nas pouco ideais seduções das três filhas de Vénus.</p>
+<p>- Ora vamos, major Quer-me parecer que, ainda que tarde, também se sujeitou àquela vacina, de que fala Garrett, para se preservar das bexigas, as quais, na frase dele, matavam a fazer odes pindáricas e sonetos os rapazes da sua época. Conte-me o seu romance.</p>
+<p>- É preciso que lho conte? Pois não o adivinhou já? Não o ia escrever capítulo por capítulo, prescindindo da minha narração? É o eterno romance de um rapaz estouvado que, no meio de suas afeições efémeras, costumado a acreditar na inconstância dos corações, não recua diante de nenhuma conquista; que se julga um profundo conhecedor da humanidade, só porque lhe ignora o seu lado melhor. A quem seduz a fama de um D. João ou Lovelace, e, como esses belos modelos, que pretensiosamente procura imitar, fazendo de todas as mulheres um leviano juízo, joga com as afeições de todas, sem se lembrar que um só coração que sacrifique nesse jogo é pagar muito cara uma distracção de rapaz.</p>
+<p>- Bravo, major! Nunca me lembra de o ter ouvido falar assim!</p>
+<p>- Pois aproveite a ocasião, que talvez seja a última. Eu não gosto de andar a fazer pelo mundo estas profissões públicas de sentimentalismo. Mas a verdade é essa. Na época em que eu vivi por estes sítios... Era eu então alferes como você, Rialva, e igualmente estouvado.</p>
+<p>- Agradecido pelo conceito, major</p>
+<p>- Sabe que digo sempre o que sinto. Nessa época contava as minhas aventuras pelos dias da semana, e esquecia-as tão prontamente como elas se sucediam. Já ao terminar a campanha e próximo a partir para Lisboa, pela primeira vez me encontrei com um coração, que me coube em sorte despedaçar. Soube-o tarde, mas soube-o para minha condenação. Foi uma mulher que, mais que todas as que até então conhecera, me produzira uma profunda impressão. Era uma rapariga que vivia nas imediações de Barcelos só com uma criada, que fora sua ama de leite, e nesse tempo exercia as funções de governanta da casa. A fortaleza não estava bem defendida; pode prever que me não foi difícil a conquista, desde que consegui obter simpatias na praça. Entreguei-me de olhos fechados a todos os prazeres e a todas as consequências daquele amor Os primeiros pode concebê-los; estas porém talvez lhe transtornassem as previsões que formasse.</p>
+<p>Voltei para Lisboa desde que uma paz definitiva se consolidou; e, confesso-lhe francamente, na vida da capital, onde aos vencedores esperavam outras vitórias fáceis, e delícias dignas de Cápua, esqueci-me daquela mulher Lembrei-me tarde. Quando escrevi para Barcelos, pedindo cautelosas informações a respeito dela, responderam-me que a infeliz tinha morrido logo depois da minha partida.</p>
+<p>- E o major ficou acreditando que ela morreu de amores!</p>
+<p>- Rialva, não se faça céptico - disse Clemente Samora, tomando um ar de serenidade. - Não há nada que fique tão mal a um rapaz, do que essa endurecida descrença, que está agora na moda. Com sinceridade, você não acredita que possa haver um amor verdadeiro?</p>
+<p>- Acredito, mas julgo-o a civis rara, que só a poucos felizes se mostra.</p>
+<p>- Ora adeus! Em todo o caso, se quiser que mais tarde o coração lhe não dê destes momentos de amargura que me está dando hoje, não se deixe aconselhar por essa descrença. Receie sempre do remorso.</p>
+<p>- Remorso! É dura a palavra.</p>
+<p>- E verdadeira. Quando em 1846 voltei ao Podo, tremia só em lembrar-me que os incidentes de campanha, que ia empreender, me poderiam levar àqueles sítios, e hoje vê que não sou tão senhor de mim, que domine a comoção que eles me despertam.</p>
+<p>Depois destas palavras, que o major efectivamente pronunciou comovido, reinou por algum tempo o silêncio entre os dois.</p>
+<p>- Sabe o major que possui um notável poder de catequese? - disse Rialva, passada esta pausa, procurando conservar às suas palavras o tom jovial em que até ali as mantivera.</p>
+<p>- Por que diz isso?</p>
+<p>- Porque estou quase arrependido de uma pequena aventura, que o ano passado tive nos arredores de Braga, quando, por ocasião dos movimentos militares que se seguiram à Regeneração, me demorei alguns meses naquela cidade.</p>
+<p>- Alguma imprudência sua.</p>
+<p>- Sossegue, major; eu não sinto grandes apreensões a respeito do caso, porque, como lhe disse, não creio que se mona de amores cá por este mundo, e muito menos que seja eu o destinado para inspirar uma dessas paixões excepcionais.</p>
+<p>- Mas enfim?</p>
+<p>- Vi uma rapariga em um convento de Braga...</p>
+<p>- E escalou-o, arrombou-o, incendiou-o?</p>
+<p>- Não, major E verá, pela narração que lhe vou fazer, que nestas coisas ainda não deixei de ser noviço!</p>
+<p>- Ouçamos a narração.</p>
+<p>- Que interessantes olhos, meu amigo! Uns olhos que valiam poemas; o rosto de uma cor de pérola fascinadora, e a voz com mistérios de melodia, que a arte ainda não decifrou. Não havia ser-lhe indiferente, major, acredite. O major que fosse...</p>
+<p>- Bem, bem, adiante. Fale-me de si, Rialva, fale-me de si. De mim sei eu de sobra o que devo pensar Conheço-me há muito.</p>
+<p>- Perdi a cabeça por aquela mulher Não havia dia em que eu não procurasse vê-la, e consegui fazer-me notado. Passando agora pelos pormenores desta inocente afeição, basta que lhe diga que ela me correspondia. Parece-me que o vi sorrir quando pronunciei a palavra inocente! Mas juro-lhe que é o epíteto apropriado.</p>
+<p>- Longe de mim duvidá-lo. Continue.</p>
+<p>- Sob o pretexto de visitar a escrivã do convento, que era das relações de minha família, fui admitido à grade, e ela, não sei sob que pretexto, lá estava sempre também. Cada vez a admirava mais, porém ardia de impaciência por lhe não poder falar de viva voz. O acaso...</p>
+<p>- Mau, - disse o major com um meio sorriso. - Agouro mal da intervenção do acaso no romance. É sempre perigosa e inconveniente.</p>
+<p>- Ouça, - continuou Rialva, sorrindo também como se não fora sem fundamento a observação do seu companheiro. - O acaso um pouco e muito a boa vontade dela, fez com que esta rapariga viesse passar alguns dias fora do convento e em casa de um comerciante de Braga, de cuja filha ela era íntima amiga. Eu tinha relações com este comerciante, e pude então, mais à vontade, conversar com ela.</p>
+<p>- Ora prossiga, prossiga.</p>
+<p>- Pouco mais tenho para lhe dizer. O meu amor foi tímido e respeitoso, como nem eu próprio suspeitava que fosse possível sê-lo. Diante daquela mulher, diante daquela candura, desconhecia-me, achava-me acanhado como qualquer rapaz de dezasseis anos. Creia, major, que não sabia o que tinha feito da minha audácia habitual. Tinha de partir para Lisboa. Minha mãe havia-me alcançado do ministro uma transferência de como. Disse-o à pobre menina, que se banhou em lágrimas ao sabê-lo. O seu amor havia adquirido uma intensidade que o denunciara. Em Braga falava-se muito nisso. Na noite da minha partida consegui uma entrevista dentro do jardim da casa onde ela ainda então se achava.</p>
+<p>- Aproxima-se a peripécia - disse o major. - Adeus timidez...</p>
+<p>- Juro-lhe, major, que a respeitei, como se a protegesse um ambiente de pureza e castidade. Davam onze horas na igreja de S. Marcos, e pela primeira e única vez os nossos lábios se encontraram, e logo depois eu saltava o muro do jardim, montava o cavalo e seguia o caminho do Porto, donde me transportei para Lisboa. E assim terminou este inocente episódio da minha vida.</p>
+<p>- E ela?</p>
+<p>- Que lhe posso eu dizer dela? A impossibilidade de nos correspondermos era manifesta. Dois dias depois devia ela voltar ao convento, onde não podia receber cartas minhas. Ainda lhe escrevi do Porto, esperando receber a resposta em Lisboa. Esperei debalde, e...</p>
+<p>- E esqueceu-a, não é verdade? Nem mais pensou nessa rapariga, que talvez a estas horas esteja chorando por si, ou por sua causa.</p>
+<p>- Acredita, major? Não acha mais natural que esteja pensando em outro?</p>
+<p>- Pode ser. Em todo o caso, basta que por uma efémera distracção arriscasse dessa maneira o destino do coração, que é o destino inteiro de uma mulher, para que não possa ou não deva, pelo menos, encarar levianamente o sucedido e deixar de sentir uns indícios de remorso.</p>
+<p>- Acreditasse eu que produzira um padecimento real...</p>
+<p>- Que faria?</p>
+<p>- Nunca o perdoaria a mim próprio.</p>
+<p>- Cingia os cilícios e disciplinava as carnes, não é assim?</p>
+<p>- Condenar-me-ia a uma completa abstenção de galanteios, pelo menos.</p>
+<p>- E dessa maneira secaria as lágrimas que fizera derramar!</p>
+<p>- Qual era então o meu dever, major? diga.</p>
+<p>- Quando estiver em Braga, se se demorar por lá averigúe do sucedido e depois falaremos. Escusamos de estar agora a traçar planos de imaginárias campanhas.</p>
+<p>A estas palavras do major seguiu-se um silêncio prolongado, durante o qual as ideias tomaram outra direcção a ponto de que, ao restabelecer-se, o diálogo versou sobre assuntos indiferentes que não precisamos de referir, e assim se manteve até à chegada dos dois cavaleiros a Braga, ainda com algumas horas de dia.</p>
+<p>Desempenhando nesta cidade a missão oficial de que viera encarregado, Filipe de Rialva propunha-se no dia seguinte principiar as averiguações a que o major e a sua própria curiosidade o convidavam, quando um acontecimento imprevisto o veio impedir de as realizar.</p>
+<p>Pela madrugada do dia seguinte chegara a Braga uma notícia telegráfica, que lançara o espanto e consternação nos ânimos de todos os seus habitantes.</p>
+<p>Constava que às onze horas da noite antecedente o palácio onde repousava em Barcelos a família real havia sido devorado por um incêndio.</p>
+<p>Os noveleiros políticos, sempre prontos a darem aos mais insignificantes acontecimentos um colorido lúgubre, filiavam aquele facto casual em uma trama premeditada e misteriosa. As notícias que se davam em voz alta, comentavam-se depois ao ouvido. As insinuações transluziam das frases estudadamente formuladas. Os ociosos agrupavam-se defronte das repartições públicas e das casas das autoridades, como se, das fachadas desses edifícios, esperassem elucidações. Exagerava-se o sucedido. Houve tal que condenou às chamas a vila de Barcelos inteira! Em outros grupos enumeravam-se as vítimas e especificavam-se com escrupulosa exactidão a natureza e carácter dos ferimentos! Uns revelavam a descoberta duma máquina infernal; outros noticiavam a prisão dos criminosos.</p>
+<p>Os ódios partidários, então mais acesos que hoje, todos estes boatos acolhiam, e de boa ou má-fé concorriam para os divulgar, ampliando-os.</p>
+<p>A nova, ao chegar aos ouvidos dos nossos dois conhecidos, Clemente Samora e Filipe, havia adquirido já as mais formidáveis dimensões, e revestira-se das cores menos para tranquilizar.</p>
+<p>Desesperando de saber a verdade no meio de tantas variantes, e até encontrando incertezas nas informações oficiais, os dois, que tinham em Barcelos por quem se inquietar e que nada os prendia actualmente a Braga, resolveram informar-se por seus próprios olhos, e com este intuito partiram essa mesma manhã em direcção à vila.</p>
+<p>Algum tempo mais que se tivessem demorado, teriam serenado as suas inquietações.</p>
+<p>O pânico desvanecera-se afinal. Sabia-se enfim que o incêndio não atingira nunca as proporções medonhas que se dissera. A inverosimilhança dos romances inventados, com grande desespero dos seus autores, ia já fazendo sorrir.</p>
+</div><div><head>IV</head>
+<p>FOGOS DE MOCIDADE</p>
+<p>Quatro dias depois dos sucessos do capítulo anterior, percorria a estrada de Barcelos, em direcção a Braga, uma jovial cavalgada de oficiais do exército e de alguns estudantes do Porto, que a promessa de um segundo perdão de acto trazia naquele tempo muito jubilosos e como que em férias já.</p>
+<p>Filipe de Rialva e o major Samora haviam-se-lhe incorporado. Do rancho era talvez este último o único melancólico. A sua estada em Barcelos avivara-lhe as saudades que o perseguiam. Nenhumas informações pudera obter, nem sequer do Lugar onde repousava a morta. Nem um só vestígio dos seus passados amores tinha encontrado o pesaroso velho. Uma estrada em construção acabara de derrubar a pequena casa, que a imaginação lhe estava agora ainda reproduzindo, e com ela dir-se-ia haver destruído todas as memórias desse drama obscuro, que terminara em túmulo.</p>
+<p>Rialva, ao inverso do seu companheiro, no descuido dos vinte e dois anos, entregara-se inteiro ao prazer da jornada.</p>
+<p>Pouco avultavam já na memória do estouvado alferes as recordações da sua aventura de Braga. Tivera tempo e ocasião de se distrair. De Barcelos seguira a corte a Viana, e nessa marítima cidade do Minho foram demasiados os prazeres em que tomara parte, para que lhes resistisse qualquer ideia melancólica. Vinha-lhe o coração desafogado ao voltar a Braga, onde se antecipava um dia à comitiva real, que só no dia 12 devia sair de Barcelos.</p>
+<p>O génio expansivo e bom humor de Filipe valeram-lhe uma certa preponderância sobre o rancho, que parecia havê-lo tacitamente elegido para seu chefe. Isto lisonjeava-o e obrigava-o a fazer todos os esforços para justificar a escolha.</p>
+<p>A cada passo, estridentes gargalhadas e hurras espantosos partiam em coro do bando turbulento. Por vezes a algazarra subiu a ponto que o major Samora, em poucas disposições para tomar parte nela, sopeou o passo ao seu cavalo para se distanciar do tropel.</p>
+<p>- Meus senhores! - disse um dos estudantes, a quem no ano anterior um perdão de acto, poderoso Deus ex-machina, arrebatara milagrosamente dos nevoeiros da matemática, onde se vira perdido, e que esperava que um outro o ajudasse a livrá-lo da botânica, mau grado do Sr. Costa Paiva que não conseguira ensinar-lhe a classificar nem a Digitalis purpurea. - Meus senhores, nem todo o tempo gastemos a rir. A divina arte do canto está em decadência entre nós. De todas as nações do mundo a portuguesa é a que menos canta! Vergonha! Eu, digno e degenerado representante daquela antiga e característica classe de estudantes que corria as estradas e estacionava nas praças de capa traçada, espada ao lado e guitarra em punho, coro ao repeti-lo! O estudante de Salamanca, cantando seguidillas debaixo da ventana da senhorita de tez morena e olhos travessos, um pobre diabo sem dinheiro, mas cantando, cantando a escalar janelas, no meio das rixas, cantando na cara dos guardas civis, e dançando, ao som da pandereta, o fandango e o bolero - eis o tipo ideal, que se perde, que degenera desde que a filosofia o estragou. O estudante hoje é folhetinista, é político, é erudito, é sisudo e, mais que tudo, é sensaborão! Dá-lhe mais canseira a salvação da república, do que o penteado da sua amante! Que tremenda responsabilidade nos cabe, meus amigos! Nós, indignos depositários de um grande legado, que deixamos esbanjar! Reajamos quanto nos seja possível, e reajamos cantando. A cantar se têm feito revoluções. Dêem-me o poder das canções, e eu revolverei o mundo. Cantemos!</p>
+<p>- É justo que abras tu o exemplo - respondeu-lhe um dos companheiros.</p>
+<p>O convite foi repetido por toda a companhia.</p>
+<p>O orador não se fez muito rogado, e em uma toada popular, que então andava na boca de todos, cantou as seguintes coplas, que nos parece serem da sua lavra:</p>
+<p>Ouvia gabar os beijos,</p>
+<p>Dizer deles tanto bem,</p>
+<p>Que me nasceram desejos</p>
+<p>De provar alguns também.</p>
+<p>Que esta fruta não é rara,</p>
+<p>Mas nem toda tem valor:</p>
+<p>A melhor é muito cara,</p>
+<p>E a barata é sensabor.</p>
+<p>Colhi-os dos mais mimosos;</p>
+<p>Provei três, mas, por meu mal,</p>
+<p>Ao princípio saborosos,</p>
+<p>Amargaram-me afinal.</p>
+<p>Um colhi eu de uma bela,</p>
+<p>Que era Rosa, sem ser flor.</p>
+<p>Se tinha espinhos como ela,</p>
+<p>Dela também tinha a cor.</p>
+<p>Vi-a a dormir, e furtei-lhe</p>
+<p>Um beijo que a acordou.</p>
+<p>Eu gostei, porém causei-lhe</p>
+<p>Tal susto, que desmaiou.</p>
+<p>Logo que a vi sem sentidos,</p>
+<p>Fugi, sem Outro lhe dar;</p>
+<p>Que beijos, sem ser pedidos,</p>
+<p>Não são coisas p'ra brincar.</p>
+<p>Outra vez, duma morena.</p>
+<p>Olhos azuis, cor de céu,</p>
+<p>Corpo esbelto, mão pequena,</p>
+<p>Um beijo me apeteceu.</p>
+<p>Pedi-lho - e então por bons modos,</p>
+<p>Pedi-lho do coração.</p>
+<p>Zombou dos meus rogos todos</p>
+<p>E respondeu-me: que não.</p>
+<p>Zombei, como ela zombava,</p>
+<p>E um beijo, à força, lhe dei;</p>
+<p>Mas... bem dado ainda não estava</p>
+<p>E c'um bofetão o paguei.</p>
+<p>Custou-me caro o desejo,</p>
+<p>Que mui caro ela o vendeu.</p>
+<p>Pagar por tal preço um beijo!</p>
+<p>Assim não os quero eu.</p>
+<p>Este, mais do que o primeiro,</p>
+<p>Me deixou fraca impressão;</p>
+<p>Quis provar inda um terceiro</p>
+<p>Para não jurar em vão.</p>
+<p>Mas não quis fruta roubada,</p>
+<p>Que mal com ela me dei.</p>
+<p>Uma dama delicada</p>
+<p>Ofereceu-ma... Eu aceitei.</p>
+<p>Ai, que boa fruta que era!</p>
+<p>Estava mesmo a cobiçar.</p>
+<p>Passar a vida quisera</p>
+<p>Tal fruta saborear.</p>
+<p>Mas, no meio da colheita...</p>
+<p>Da fruta, o dono apar'ceu.</p>
+<p>Zelosos olhos me deita:</p>
+<p>Se zelava o que era seu!</p>
+<p>Vendo o caso mal seguro,</p>
+<p>Eu logo ali lhe jurei</p>
+<p>Restituir e até com juro</p>
+<p>A fruta que lhe tirei.</p>
+<p>E, caso não discordasse,</p>
+<p>Não me parecia mal</p>
+<p>Que a ele os juros pagasse</p>
+<p>E à senhora... o capital.</p>
+<p>Esta sensata proposta</p>
+<p>Em fúrias o arrebatou,</p>
+<p>E, por única resposta,</p>
+<p>A lutar se preparou!</p>
+<p>Ouço inda gabar os beijos,</p>
+<p>Dizer deles muito bem:</p>
+<p>Mas findaram-me os desejos,</p>
+<p>Já sei o sabor que têm.</p>
+<p>Uma estrepitosa algazarra rompeu do grupo, quando o académico terminou a sua cantiga.</p>
+<p>- Visto isso, - disse um dos cavaleiros - puseste-te em dieta dessa fruta? Tenho piedade da tua higiene meticulosa! Possuis um estômago demasiado susceptível. Eu por mim, meus senhores, confesso-lhes que, verde ou madura, não sei doutra fruta que me agrade tanto.</p>
+<p>- Alto lá! - respondeu o que cantara. - Nada de responsabilidades absurdas. Eu não subscrevo todas as legítimas consequências da canção. E se julgam necessário neutralizar-se o efeito, eu estou pronto a cantar-lhes uma outra. Possuo-as para todos os gostos.</p>
+<p>- Por esta vez dispensamos-te da retratação. Acreditamos-te. Nada de lógica em assuntos destes. Que os cépticos cantem de crentes e os crentes encham as estrofes de cepticismo. Ninguém lhes deve pedir contas. Outro cantor!</p>
+<p>- Eu por mim, estou pronto a cantar, - disse um alferes de Caçadores, - mas não a mulher nem o amor; inspira-me mais um charuto, um cachimbo e até um cigarro, sendo o tabaco forte e mortalha boa.</p>
+<p>- Pois canta o cigarro. Admite-se o culto. Vai entoando a antífona, enquanto nós acendemos os fachos do rito sagrado - respondeu Filipe, distribuindo cigarros por todos os da cavalgada.</p>
+<p>E dentro em pouco o bardo novamente indigitado, principiava cantando:</p>
+<p>No centro de círculos</p>
+<p>E nuvens de fumo,</p>
+<p>Um deus me presumo,</p>
+<p>Um deus sobre o altar!</p>
+<p>Nem doutros turíbulos</p>
+<p>Me apraz tanto o incenso,</p>
+<p>Como o deste imenso</p>
+<p>Cachimbo exemplar!</p>
+<p>Em divãs magníficos</p>
+<p>De seda e veludo</p>
+<p>Repousa sisudo</p>
+<p>O ardente Sultão.</p>
+<p>Fumando, inebria-se</p>
+<p>E esquece odaliscas.</p>
+<p>E os beijos, faíscas</p>
+<p>De amor, e o Alcorão.</p>
+<p>Longe, oh! longe o ópio,</p>
+<p>Que os sonhos deleita</p>
+<p>Da mísera seita</p>
+<p>Dos Teriaquis,</p>
+<p>Horror ao narcótico,</p>
+<p>Que vem das papoulas</p>
+<p>E ao que arde em caçoulas</p>
+<p>No harém dos Alis!</p>
+<p>Que a África tórrida</p>
+<p>De areias candentes</p>
+<p>Consuma as sementes</p>
+<p>Do arábio café.</p>
+<p>Bebido nas chávenas</p>
+<p>De Índia e porcelana</p>
+<p>A negra tisana</p>
+<p>Veneno me é.</p>
+<p>E a folha asiática,</p>
+<p>Delícias da China,</p>
+<p>Por nossa má sina</p>
+<p>Trazida p'ra cá?</p>
+<p>Sorvida em família,</p>
+<p>Em momo hidro-infuso!</p>
+<p>Anátema ao uso</p>
+<p>Das folhas de chá!</p>
+<p>Nem tu, ó alcoólico</p>
+<p>Licor dos lagares,</p>
+<p>Terás meus cantares,</p>
+<p>Meus hinos terás.</p>
+<p>Embora das ânforas</p>
+<p>Vazado nas taças,</p>
+<p>Aos outros tu faças</p>
+<p>A boca loquaz.</p>
+<p>Meu canto é da América,</p>
+<p>Pais do tabaco,</p>
+<p>Melhor do que Baco,</p>
+<p>Que o ópio melhor.</p>
+<p>Que a Europa, Ásia e África</p>
+<p>E a terra hoje toda</p>
+<p>Já fuma por moda</p>
+<p>O heróico vapor.</p>
+<p>Até na Lapónia,</p>
+<p>Da gente pequena,</p>
+<p>Se fuma, e no Sena,</p>
+<p>No Tibre e no Pó,</p>
+<p>No Volga e Danúbio,</p>
+<p>No Tejo e no Douro...</p>
+<p>Que grande tesouro</p>
+<p>Se deve a Nicot!</p>
+<p>Nem venha da cânfora</p>
+<p>Contar maravilhas</p>
+<p>O das cigarrilhas</p>
+<p>Famoso inventor.</p>
+<p>Raspail é cismático,</p>
+<p>E eu sou ortodoxo;</p>
+<p>O seu paradoxo</p>
+<p>Não me há-de ele impor.</p>
+<p>E os áridos lábios</p>
+<p>Mais fumo inda aspirem.</p>
+<p>Que os néscios suspirem</p>
+<p>Por beijos febris.</p>
+<p>Não quero outros ósculos,</p>
+<p>Não quero outra amante,</p>
+<p>Qual mais doudejante</p>
+<p>Que os fumo subtis?</p>
+<p>Tomadas Vesúvios,</p>
+<p>As bocas fumegam,</p>
+<p>De nuvens que cegam,</p>
+<p>Vomitam legiões.</p>
+<p>Fumar! Oh, delícias!</p>
+<p>Prazer de Nababo!</p>
+<p>E leve o diabo</p>
+<p>Do mundo as paixões!</p>
+<p>É indescritível o entusiasmo que se manifestou em seguida às últimas palavras da canção ou hino do tabaco. Foi tal a gritaria que os ecos das montanhas vizinhas despertaram estremunhados, e, como dizia Fernão Mendes Pinto, as carnes tremiam de medo.</p>
+<p>Todas as bocas pediram bis, e de novo se guardou um silêncio solene para escutar as estâncias de tão popular produção, algumas das quais muitos já repetiam em coro.</p>
+<p>- E tu, Filipe? - disse o cantor favorecido da aura de popularidade - não cantas também?</p>
+<p>- Depois do teu triunfo, julgo prudente prescindir dos meus direitos. Desisto da palavra.</p>
+<p>- Não admito. Não é facultativo, é obrigatório o cantar.</p>
+<p>- Isso é crueldade. Queres imolar-me nas aras da tua musa rodeadas de fumo de tabaco?</p>
+<p>- Isso é modéstia mal cabida. Ou temes ferir a delicadeza da tua musa sentimental com as baforadas do meu cachimbo?</p>
+<p>- Apelo para a decisão do conclave - disse o estudante que cantara primeiro.</p>
+<p>- A votos! A votos! - bradaram algumas vozes.</p>
+<p>No momento em que isto se passava havia a cavalgada chegado a um ponto da estrada erma de habitações e perfeitamente deserta de viajantes. Era um extenso lanço que seguia em linha recta por meio de lezírias sem cultura, e tapadas de tojo e pinheirais ainda novos. A vista alcançava de extremo a extremo deste lanço tanto mais facilmente, porque a atmosfera densa de vapores apresentava, sob uma óptica favorável, os planos mais distantes.</p>
+<p>Isto permitiu que os cavaleiros avistassem ao longe sentada, a fiar, sobre as pedras de um dos muros que flanqueavam a estrada, uma mulher, que na aparência mostrava já ser de avançada idade, a qual, ao ver aproximarem-se os viajantes, se levantou açodada e colocou-se no meio da estrada como se lhes desejara falar.</p>
+<p>- Aí tens quem te vai inspirar, Filipe. Uma princesa desconhecida que desce a escutar as namoradas endechas do trovador - exclamou um dos que primeiro a avistara.</p>
+<p>- Vem à fala. Respeito, senhores; quem sabe se estaremos na presença da rainha das fadas? Esta nossa peregrinação, digna de um segundo Ariosto para a cantar, precisava de uns jardins de Armida, eis aqui quem no-los vai abrir...</p>
+<p>- Restos do terremoto, eu vos saúdo - disse um outro, tirando o chapéu e vergando a cabeça.</p>
+<p>- Coitada! Alguma pobre mendiga - disse Filipe, procurando já nas algibeiras com que satisfizesse a que ele julgava indigente pela atitude que a vira tomar aguardando-os...</p>
+<p>- Em todo o caso, vejamos o que ela nos quer. Portemo-nos sérios para lhe inspirarmos confiança. Está-me a parecer que se pode tirar partido disto.</p>
+<p>E, seguindo este parecer, todos guardaram silêncio e marcharam na maior compostura.</p>
+<p>Estavam finalmente na presença da velha. Era de facto de aspecto centenar; engelhada, curvada e trémula, mas ainda assim com certo ar de resolução.</p>
+<p>Logo que os viu chegar, dirigiu-lhes a palavra:</p>
+<p>- Ora, Nosso Senhor venha na sua companhia!</p>
+<p>- Amém! santinha, e que também esteja consigo.</p>
+<p>- Ele está em toda a parte onde o procurem. Boa é a sua assistência, e a da Virgem Nossa Senhora, e a do milagroso Padre Santo António, que nos livre dos perigos e de trabalhos, de testemunhos falsos e de ferros de el-rei e de maus vizinhos de ao pé da porta. Ora para bem os fade a sua sorte. Amém.</p>
+<p>- Então veio fiar para o descampado? É melhor, são os ares mais livres - disse Filipe, para desviar a atenção da velha do riso mal disfarçado dos seus companheiros.</p>
+<p>- Nada, não senhor, eu lhe digo. O menino...</p>
+<p>Desta vez os risos rebentaram.</p>
+<p>- Olhem! Estão-se a rir por eu lhe chamar menino. E eles que são todos para mim, que para um cento só me faltam quatro anos! Vejam os grandes homens.</p>
+<p>- Não faça caso, não faça caso. Deixe-os lá. Diga o que ia a dizer.</p>
+<p>- Ah! perguntava eu se os... vá lá, senhores, se os senhores eram... criados de sua majestade? Sim, porque ser criados dos reis não é baixeza nenhuma. Um morgado da minha terra, fidalgo dos quatro costados e homem de teres e haveres, pois senhores, deu um bom par de centos de mil réis para ser moço do paço, e pelos modos suas obrigações são as da mesma gente, mas aquele ainda assim quer que lhe paguem para as fazer, por isso é que eu pergunto.</p>
+<p>- Não se enganou, minha tia, - disse Rialva, fazendo um sinal aos companheiros - eu sou estribeiro-mor da casa real, aquele monteiro-mor, este copeiro-mor, camareiro-mor o outro, esmoler-mor...</p>
+<p>- Vejam que graça! Pelo que estou ouvindo todos os empregos mores são para os fidalgos, menos o de tambor-mor, que nesse tenho eu um neto, que é um rapagão como uma casa.</p>
+<p>De novo a seriedade dos ouvintes esteve para os abandonar.</p>
+<p>- Visto que são o que eu suspeitava, sabem dizer-me se a rainha se demorará ainda muito?</p>
+<p>- Então queria vê-la?</p>
+<p>- Vê-la? Não era só vê-la, é que lhe queria também falar.</p>
+<p>- Falar-lhe?! Aqui?</p>
+<p>- Aqui mesmo, sim senhor, e por que não?</p>
+<p>- Então tem a pedir-lhe alguma coisa?</p>
+<p>- E verdade que tenho. Tenho a pedir-lhe justiça.</p>
+<p>- Justiça! - disseram admiradas algumas vozes do grupo. - E contra quem?</p>
+<p>- Isso basta que ela o saiba.</p>
+<p>- Mas na estrada, boa mulher, a falar verdade, não é das melhores ocasiões, - disse o major Samora, que tendo-se agora reunido ao rancho, de que se separara, acabava de ouvir as últimas palavras do diálogo.</p>
+<p>A velha voltou-lhe uns olhos desconfiados, e respondeu com certa aspereza:</p>
+<p>- Para fazer justiça é sempre ocasião.</p>
+<p>- Bravo! - disse o estudante da canção.</p>
+<p>A velha, estimulada pelo sinal de aprovação, prosseguiu:</p>
+<p>- Não é ocasião! tem graça. Nem que a gente não tenha mais que fazer do que largar barcos e redes para ir ao palácio procurar sua majestade. E então para quê? Para vir o senhor porteiro-mor, o senhor escudeiro-mor, o senhor lacaio-mor, e nos mandar pôr fora sem que a rainha o saiba. Temos outro com as justiças dos tribunais. Andar uma criatura em uma barafunda de escrivães e procuradores e letrados e testemunhas e jurados, e a gastar dinheiro, e tanto mais ganha quem mais gasta, e tanto mais gasta quem mais tem. Nada, não serve para mim. Aqui, no meio da estrada. Se me não deixarem chegar à carruagem, ponho-me a gritar: Aqui-d'el-rei! aqui-d'el-rei e veremos então o que vai. Forte coisa! Olha agora a grande dúvida!</p>
+<p>- E assim, é assim, minha tia - diziam do lado alguns oficiais.</p>
+<p>- Vamos cá a saber, tardará muito a rainha?</p>
+<p>- Rialva, trocando um olhar com os circunstantes, apressou-se a responder, fazendo por dissimular um certo ar de malícia, que olhos mais exercitados que os da velha, poderiam reconhecer:</p>
+<p>- Duas horas o mais tardar. Conhece-a?</p>
+<p>- Nunca a vi, mas isso logo se tira, pouco mais ou menos. Sempre há-de vir vestida de modo que...</p>
+<p>- Não, não - disse Rialva. - A rainha traja como qualquer outra senhora; de mais a mais como vem incógnita, nem acompanhamento traz. Não vê que nos mandou adiante?</p>
+<p>- Sim, sim. Mas então como há-de ser?</p>
+<p>- Olhe, daqui por duas ou três horas pouco mais ou menos, vendo chegar duas carruagens com criados de casaco azul, botões de prata e colete vermelho, e dentro da primeira uma senhora de meia idade vestida de verde com xale e um chapéu branco...</p>
+<p>- É ela?</p>
+<p>- É ela. Acompanham-na talvez algumas mais novas, são damas do Paço. Na segunda carruagem vêm os criados.</p>
+<p>- E o rei e os príncipes?</p>
+<p>- Esses vêm mais tarde, a cavalo, e com os generais. Não lhe disse já que sua majestade quis vir incógnita?</p>
+<p>- Bem, bem.</p>
+<p>- E olhe lá. É provável que por isso mesmo ela se ponha a rir se vossemecê lhe chamar rainha e o negue; mas teime e diga-lhe que vai pedir justiça, que ela há-de escutá-la.</p>
+<p>- Isso fica ao meu cuidado. Então diz que daqui por duas horas?</p>
+<p>- Duas ou três.</p>
+<p>- Isto vai nas nove, - disse a velha, falando consigo e fitando as nuvens - com mais três, nove, dez, onze, doze. Meio-dia. Chega não chega, uma hora; janta não janta são duas, às seis é noite. Não tem dúvida; uma vez não são vezes. E isto com'assim há-de fazer-se. Ora então, muito obrigada, vão com Nossa Senhora.</p>
+<p>- Adeus, minha tia - disseram todos com a possível gravidade. - Deus permita que se saia bem da empresa.</p>
+<p>- Amém! amém!</p>
+<p>E o alegre bando, despedindo-se da velha, que voltou a tomar a sua primeira posição, partiu a galope em direcção a Braga.</p>
+<p>Quando a considerável distância do sítio, onde esta cena se passara, afrouxaram o passo às cavalgaduras para pedirem a Filipe explicações sobre o que ultimamente dissera à velha.</p>
+<p>- Pois não compreenderam? É uma surpresa que preparei a minha mãe. Minha mãe devia partir de Barcelos duas ou três horas depois de mim com as meninas do Coural, minhas primas não sei em que grau, em casa de quem tenciona ficar esta noite para depois de amanhã assistir em Braga à entrada da rainha. Portanto, dentro de duas horas estará ela ouvindo uma reclamação em forma dirigida por esta pobre velha, o que não pouco a há-de divertir e às priminhas.</p>
+<p>- Mas que necessidade tinha você de enganar esta mulher? - disse o major com um certo ar de amigável censura.</p>
+<p>- Deixe lá, major, - disse um dos oficiais - o episódio deve ser interessante, e aquelas senhoras devem agradecer-no-lo.</p>
+<p>- Quem sabe o que esta pobre criatura teria a pedir à rainha?</p>
+<p>- Se for esmola, não ficará sem ela, pedindo-a a minha mãe.</p>
+<p>- Sim; mas se for justiça?</p>
+<p>- E julga que irá mal encaminhada, se minha mãe a guiar para obtê-la?</p>
+<p>- Assim a julgue merecedora dela.</p>
+<p>- Pois então, deixe correr, major. Pena tenho de não poder presenciar a cena.</p>
+</div><div><head>V</head>
+<p>A HEROÍNA DESTE ROMANCE NA CASA</p>
+<p>DE CAMPO DE JOSÉ URBANO</p>
+<p>A meia légua de Braga, Filipe de Rialva, o major Samora e os seus jovens companheiros tiveram a surpresa de um feliz encontro.</p>
+<p>Ao dobrarem um ângulo de estrada, que em uns sítios aqui e ali era povoada de pequenas casas e vendas, como denunciando a vizinhança de uma grande povoação, acharam-se frente a frente com uma personagem muito nossa conhecida, José Urbano.</p>
+<p>À ruidosa exclamação com que José Urbano saudou a cavalgada, rompeu desta um coro unânime de brados, que em uns desafiava o conhecimento que tinham do jovial negociante, e em outros o estranho costume de jornada de que ele vinha revestido.</p>
+<p>José Urbano montava uma égua corpulenta, mas não de raça apurada. Um chapéu de palha de amplíssimas abas, preso por uma fita por baixo da barba, um barrete preto subjacente que lhe defendia as orelhas de um leste em perspectiva, que a sua ciência meteorológica prognosticava iminente; óculos verdes, baluarte contra a invasão da poeira; guarda-sol minhoto, com honras de barraca, mas o único que tem razão de ser; um capote de camelão, verdadeiro epigrama ao sol da Primavera; galochas capazes de arrostar com o dilúvio ao lado da arca; alforges repletos, uma cabaça ao tiracolo, diante de si uma trouxa e na garupa uma pequena mala; tal o conjunto de acessórios que concorriam para o efeito prodigiosamente cómico do recém-chegado.</p>
+<p>- Aleluia! - exclamou José Urbano, elevando para a testa os enormes óculos verdes, que o incomodavam quase tanto como a poeira. - Aleluia! Encontro enfim Aníbal. Juraria que me andavam a fugir, meus companheiros de Vila Nova. Receiam-se da desforra que me devem ao voltarete. Inútil trabalho. Ela é inevitável como os fados. Persegui-los-ei até os confins do mundo. Mas de facto! Apresso os meus negócios em Barcelos para os encontrar em Braga. Chego. Qual! Haviam-se evaporado. Acordaram uma manhã com a febre de passear, e partiram para Barcelos! que eu acabava de deixar justamente em companhia do correio que trouxe a Braga a notícia da terminação do incêndio. Com os diabos! disse eu comigo. Os meus amigos teriam praça assente em alguma companhia de bombeiros? Voltam agora a Braga, quando eu estava em caminho da minha casa de campo.</p>
+<p>- Eu iria jurar, meu caro José Urbano, - disse o major Samora - que partia para a Sibéria. - O aspecto respeitável do seu equipamento...</p>
+<p>- Permita-me que lhe diga, major, que essa observação desacredita um pouco a reputação de homem experiente e cauteloso que merecia. Fie-se em calores de Maio! Bom, bom. Olhe-me para aqueles riscos brancos do céu, aquilo é leste, o impertinente, o endemoninhado leste. Eu nunca ouvi o sibilar dos pelouros, meu caro Cipião, mas afianço-lhe que me não pode ser mais desagradável que o do vento leste. Não o há assim.</p>
+<p>- Nem o dos mosquitos? - perguntou um estudante.</p>
+<p>- Nem esse. Os mosquitos matam-se, o leste... mata-nos. Bem vejo que o capote lhes está causando sensação. O capote, meus amigos, é o mais útil artigo de vestuário que desde a folha de figueira tem inventado o engenho do homem. Conserva-me o calor no Inverno e a frescura no Verão. Os óculos livram-me os olhos da poeira e conservam-me a vista. O guarda-sol, que os espanta pela enormidade, abriga a minha pessoa e a bagagem dos ardores do sol e das torrentes da chuva. A cabaça, meus amigos, contém o líquido que me sacia a sede, ou me dá o calor para arrostar com o frio...</p>
+<p>- Basta, basta, amigo José Urbano - interrompeu Samora. -Vejo agora que sou imprevidente. Desse modo, tanto pode viajar pela Cítia fria como pela Líbia ardente.</p>
+<p>Esta observação do major foi festejada com uma estrondosa gargalhada, na qual tomou parte José Urbano.</p>
+<p>- Seja, - disse este, quando serenou a hilaridade - mas o facto é que os meus amigos vão para Braga e eu para a minha casa de campo. Não importa. Amanhã cedo cá estou de volta, e fiquem certos que me não tornam a fugir. Cobardes! São militares, e fogem de um paisano desarmado!</p>
+<p>E José Urbano, despedindo-se de Rialva e Samora, saudou a cavalgada, que lhe correspondeu com estrepitosos hurras.</p>
+<p>Daí a pouco entrava a cavalgada em Braga, e aquele grupo alegre e ruidoso dispersava-se, levando todos gratas recordações da viagem de Barcelos à capital do Minho.</p>
+<p>Na manhã seguinte, véspera da entrada da rainha em Braga, passeava o major Samora com alguns oficiais militares no campo de Santana, quando um indivíduo bem-trajado, de idade avançada, mas de aspecto vigoroso, lhe foi ao encontro com os braços estendidos, dizendo-lhe com o sorriso nos lábios:</p>
+<p>- O Sr. major Samora já tão cedo por aqui?!</p>
+<p>- Tão cedo? - disse Samora - pois o amigo José Urbano não sabe que os militares se levantam ao toque de alvorada?</p>
+<p>- E verdade, é verdade; mas quando se não está em serviço activo... Naturalmente não quis que o inimigo o surpreendesse na cama! Muito bem; como o prometido é devido, aqui estou em cumprimento da minha palavra. Mas diga-me, major, onde está hospedado?</p>
+<p>- No quartel.</p>
+<p>- Tem necessidade de estar hoje em Braga?</p>
+<p>- Nenhuma. Os meus deveres estão cumpridos e só amanhã...</p>
+<p>- Nesse caso quer-me fazer um obséquio?</p>
+<p>- Quantos quiser, meu caro senhor.</p>
+<p>- Há-de vir jantar comigo.</p>
+<p>- O pior é que o meu antigo camarada, o capitão Melo, já me havia obrigado a prometer-lhe jantar com ele.</p>
+<p>- O capitão pode esperar, não é verdade? - disse José Urbano, voltando-se para o capitão, entre quem e ele existia a maior familiaridade. - Pode até vir connosco também.</p>
+<p>- Isso é que não, - disse o capitão interpelado - mas não quero também privar o Samora do agradável passeio que lhe proporcionará o amigo Urbano. Aconselho-te que vás, e amanhã será o meu dia.</p>
+<p>- E não levas a mal?</p>
+<p>- Essa é boa!</p>
+<p>- As suas ordens, Sr. José Urbano. É longe?</p>
+<p>- Um quarto de légua afastado de Braga. É um caminho excelente.</p>
+<p>- Conta meia légua, Samora; o nosso amigo tomou os costumes da aldeia; para ele não há longes.</p>
+<p>- Isso também é com o meu cavalo.</p>
+<p>- Então vamos! - continuou José Urbano - mas, major, não julgue que pretendo com isto pagar-lhe os obséquios que me fez em Famalicão. Não, senhor.</p>
+<p>- Basta de agradecimentos por tão pouco; não falemos mais nisso.</p>
+<p>E os dois dirigiram-se para o quartel, onde o major Samora residia; este montou a cavalo; José Urbano tomou na alquilaria próxima uma possante égua que ali dera a guardar, e partiram em direcção à morada do negociante bracarense, vivenda retirada da cidade na proximidade da estrada do Porto, mas afastada dela mais de um quarto de légua.</p>
+<p>- Então reside na quinta permanentemente?</p>
+<p>- Não, senhor. Eu vivo em Braga, porque a isso me obriga o meu negócio. Mas tenho há tempos a minha família fora da cidade, longe da qual, por gosto, eu viveria também.</p>
+<p>- É numerosa a sua família?</p>
+<p>- Uma sobrinha apenas. Pobre rapariga. Eu sei que não é esta a vida a que naquela idade se dirigem seus suspiros...</p>
+<p>E os dois prosseguiram no seu caminho conversando acerca da agricultura, do comércio, da indústria, de política, até avistarem a casa onde José Urbano vinha descansar a miúdo das suas lidas comerciais.</p>
+<p>Era uma agradável vivenda, circundada por um viçoso quintal todo orlado de limoeiros, e onde florejavam as mais formosas japoneiras e magnólias de algumas léguas em redor. Penduravam-se pelos muros festões virentes de jasmins e balsaminas, em volta dos quais zumbia incessante um buliçoso enxame de abelhas, atraídas pelos aromas suaves que se exalavam em torno. Na extensão destes muros abriam-se sobre o caminho duas janelas de grades, através das quais se descobria a abundante verdura daquele perfumado recinto, e de fora se escutava já o murmúrio contínuo e monótono de uma cascata, que derramava a frescura e a vida por toda aquela vegetação interior. Respirava-se ali uma tranquilidade que deliciava o coração. O horizonte, que rodeava esta pitoresca residência, era extremamente aprazível. Para qualquer lado que as vistas se dirigissem repousavam sempre agradavelmente sobre um ameno fundo de folhagem e verdores, onde se demoravam irresistivelmente, seduzidas pela alegria e festa que se reflectia por toda a parte. No meio do repouso e silêncio que reinava em torno dessa habitação campestre, como que se adivinhava a vida latente da natureza que desperta no raiar da Primavera, e o azulado e tenuíssimo véu de nuvens da manhã, que o sol não dissipara ainda de todo, era como a garça transparente que longe de disfarçar, realça a formosura de certos rostos e o fulgor de certos olhos. Através daquele cendal vaporoso pressentia-se sorrir a natureza, mais fascinadora ainda nos seus trajos simples da manhã, que nas ostentosas galas do meio-dia. As ervas dos silvados, ainda húmidas do orvalho, dispersavam em cambiante íris os raios de luz, fulgindo como brilhantes nas suas mudanças contínuas, ou imitando o fulgor do rubi, a amenidade da safira, e limpidez da esmeralda e do topázio; só a Primavera tem destes encantos.</p>
+<p>Digam o que quiserem das outras estações, nenhuma é tão agradável como esta. A natureza é sempre admirável, é sempre artística, é sempre poética, mas o carácter da sua poesia é variado. No Inverno é sublime e lúgubre como o Manfredo, o Corsário, o Giaour e muitos outros poemas: Byron admira-se, surpreende-nos, aterra-nos, faz-nos estremecer e mistura certo terror secreto ao seu entusiasmo: é entre o ritmo das rajadas, as estrofes do mar agitado o que caracteriza os seus hinos. No Estio é imaginosa, apaixonada, esplêndida, lasciva, como um frémito de Musset, como uma oriental, como um episódio de D. João. No Outono transparece nos seus cânticos o que quer que seja de utilitário, são os frutos sazonados pendentes das árvores, e das searas maduras, que chamam o pensamento para os sérios problemas da vida, como este género de poesia filosófica que entre as galas do estilo desenvolve um pensamento moral e humanitário. Mas na Primavera a poesia da natureza é destas composições fugitivas, em que tudo é harmonia e lirismo; abundam as flores, multiplicam-se as imagens, nos lagos e ribeiros onde se reflecte o céu, nos ares onde os vapores se condensam fantasmagoricamente em pequenas nuvens de formas tão variadas como as concepções de fantasia de poeta, combinam-se surpreendentemente a luz e o orvalho como as lágrimas e os sorrisos em uma balada germânica.</p>
+<p>O concerto das selvas compõe-se de gemidos e cantos, harmonizados em misteriosa consonância. A natureza é então como a donzela que só cura de atavios e enfeites, e se entrega descuidada à alegria do viver; reflectem-se-lhe desanuviados os sorrisos nos lábios inquietos, exalam-se-lhe do seio irreprimíveis os suspiros de envolta com os cânticos, pulsa-lhe o coração ansioso como se fosse excesso de vida. Mais tarde a maternidade tem também sua beleza, mas há alguma coisa de melancólico nas alegrias de então; o futuro, que à donzela fulgurava de esperanças, à mãe anuvia-se-lhe de cuidados; o coração sobressalta-se-lhe de contínuo repartido por tantos afectos. A natureza do Outono tem também o carácter grave da maternidade, mas na Primavera só há a despreocupação da virgem.</p>
+<p>Não sei se estes mesmos, se análogos pensamentos, suscitava ao major Samora o belo espectáculo campestre que se gozava dali; é certo que parecia não se saciar de correr com os olhos por aquele horizonte vasto e pitoresco, e não participar da impaciência que manifestava José Urbano pela demora que havia em lhe abrirem o podão, ao qual estava batendo havia cinco minutos.</p>
+<p>Respondiam-lhe do interior os latidos formidáveis de dois cães, mas não se observava o menor vestígio de uma existência.</p>
+<p>- Onde estará metida esta gente? - exclamou José Urbano com azedume notável.</p>
+<p>O major nem deu fé da demora que assim exasperava o seu anfitrião.</p>
+<p>Finalmente ouviu-se o estalar da areia do jardim: o ruído de uns passos ligeiros e uma voz feminina, cujo timbre agradável e sonoro veio despertar o major da sua contemplação extática, fez-se ouvir de uma das janelas do muro.</p>
+<p>- Ah! é o padrinho! estava bem longe de o esperar aqui a esta hora - disse aquela voz ao reconhecer José Urbano; e o major elevando a cabeça na direcção donde lhe tinham vindo aquelas palavras, pôde perceber, ainda que de passagem, a forma elegante duma rapariga que se retirava com agilidade.</p>
+<p>- Abre, Micas, abre - disse José Urbano, cujo mau humor se desvaneceu ao ouvir aquela voz. - Ainda não sei o que fez a Roberta a esta gente toda! - E voltando-se para o major, acrescentou: - E minha sobrinha. Uma boa rapariguinha; coitada. - E suspirou.</p>
+<p>Ouviu-se o correr de um ferrolho no portão do quintal, que girou sobre os gonzos e se abriu aos recém-chegados, que se apearam rapidamente, e recolheram os cavalos.</p>
+<p>O major, com a amabilidade de um militar sensível aos encantos da beleza, cumprimentou a gentil porteira, que meio enleada pelo inesperado da visita, se ia sorrindo ao corresponder ao cumprimento.</p>
+<p>- Meu padrinho é só o responsável da má recepção que o senhor tem. Se me tivesse prevenido quando partiu de madrugada...</p>
+<p>- Minha senhora - disse o major em tom jovial. - Vª Exª há-de permitir que, fazendo eu próprio a minha apresentação, lhe diga que tem na sua presença um velho soldado, que dormiu muita vez no terreno e no agradável leito das tarimbas, comeu o caldo pouco apetitoso do rancho, e saciou muita vez a sede na água dos rios. Quando bato a uma porta a demandar quartel, só peço o pão, sal e água, de que costumam rezar os boletos.</p>
+<p>- Nesse caso ganho ânimo, porque espero satisfarei a tão pouco exigente peregrino; mas está-me parecendo que o padrinho não se satisfaz com tão pouco.</p>
+<p>- Não, Micas, pelo menos não te perdoo aquele pudding de batatas que sabes cozinhar tão bem; o mais fica por conta de Roberta.</p>
+<p>- De Roberta, sim! Quando a teremos nós cá!</p>
+<p>- Como?</p>
+<p>- Disse-me, depois do padrinho ter partido, que tinha que fazer na cidade. Uma compra de linho ou estopa, ao que julgo. Ou é natural que aproveite a ocasião para ver a rainha...</p>
+<p>- A rainha? hoje!</p>
+<p>- Pois não entra hoje em Braga?</p>
+<p>- Amanhã.</p>
+<p>- Disse-nos aqui a leiteira que entrou já ontem, e à Roberta afirmaram-lhe que era hoje de tarde...</p>
+<p>- Deixa afirmar. Mas então quem ficou em casa?</p>
+<p>- Eu. Os criados foram para a lavoura.</p>
+<p>- Só! - exclamou José Urbano com certo ar de censura e desagrado.</p>
+<p>- Com estes - respondeu, voltando-se para ele sorrindo, a gentil rapariga, ao passo que afagava a cabeça de dois enormes cães acorrentados que, como se desejassem justificar a confiança que depositava neles, a afagavam com humildade.</p>
+<p>O major não disse palavra. Não se cansava de admirar a singeleza e graça da interlocutora.</p>
+<p>Para justificar esta contemplação admirativa do major, precisamos nós também de esboçarmos aqui o perfil desta nova personagem da nossa história, minudência cuja falta nenhuma leitora me perdoaria por certo.</p>
+<p>E contudo a tarefa é de desanimar.</p>
+</div><div><head>VI</head>
+<p>A HEROÍNA DO ROMANCE - A AÇORDA DO MAJOR</p>
+<p>Não sei de maior dificuldade que a de descrever a heroína de um romance. Tão pouca coisa basta para a desconceituarmos aos olhos da leitora!... Eu, porém, sacrificarei à verdade algumas simpatias que poderia angariar a maior, se a menosprezasse. Descrevo-a tal qual ela era. Em primeiro lugar começarei por dizer que o modo porque ela trajava, realçava-lhe tudo que eram dotes naturais.</p>
+<p>Maria Clementina, sobrinha de José Urbano, era de uma configuração elegante, na qual se observavam as regulares proporções que a arte não teria decerto a corrigir. De um porte desafectadamente majestoso, inexplicavelmente combinado a uma expressão de bondade insinuante e atractiva, havia no andar, nas feições, na maneira de olhar, um ar de dignidade e de nobreza, que intimidava os mais ousados. Um singelo vestido de riscado escocês adornado apenas por um colarinho liso, e por uns punhos apertados por duas coralinas, deixava-lhe sobressair todo o correcto contorno daquelas gentis formas femininas, de uma flexibilidade admirável. No rosto não havia aquela combinação de rosas e neve, que para muita gente constitui o supremo grau de beleza, e contudo não era trigueira, nem de uma alvura desmaiada dos tipos alemães que tão frequentemente se combinam com cabelos ruivos, antipática combinação; mas para lhes dar uma ideia daquele colorido encontro-me gravemente embaraçado; a natureza concedeu àquelas tintas uma singular influência sobre a fantasia do coração, empregou-as apenas em alguns rostos de mulher, que exercem então um poder verdadeiramente magnetizador. Um romancista português, e outros franceses, comparou uma dessas cores à da pérola; e tem um pouco disto efectivamente, mas excede-a em beleza. Quanto a mim considero-as as mais perigosas. Imaginem um rosto assim, animado pelo cintilar de uns olhos negros, orlado por uma moldura de cabelos também pretos, cujas ondulações naturais semelhavam elegantes ornatos; concebam a mais bem modelada boca, cujos lábios, convenientemente grossos, agitava incessante um mal perceptível tremor, sinal evidente de uma exaltada sensibilidade; suponham agora toda esta simpática cabeça, graciosamente coberta por um largo chapéu de palha, que a assombrava de uma penumbra de feitos ópticos e fascinadores, e terão explicada a razão pela qual o major não se fartava de fixar esta rapariga com os mais inequívocos sinais de uma sincera admiração e decidida simpatia.</p>
+<p>Caminharam todos os três por entre ruas orladas de arbustos que se entrelaçavam, formando um toldo de folhagem, e cobertas de areia que fazia sobressair a verdura matizada dos tabuleiros em que estava repartido o jardim.</p>
+<p>José Urbano fazia notar ao major o desenvolvimento de algumas árvores fruteiras, à afilhada a raridade de certas flores. E assim chegaram à entrada de casa, que não desdizia do aspecto festival de toda a vivenda. José Urbano subiu mais apressado os quatro degraus de pedra que davam entrada por a porta envidraçada, e abrindo-a de par em par, disse, voltando-se para o major:</p>
+<p>- Tenho a honra de o receber em minha casa, senhor major.</p>
+<p>- E agora hão-de-me dar licença, o senhor major e o padrinho - disse a elegante sobrinha do proprietário - que me retire para tratar do seu jantar.</p>
+<p>- A falar verdade, minha senhora, eu preferia o pão do boleto, a privar-me do prazer da sua companhia.</p>
+<p>- Mas o padrinho é mais exigente. Não tem esses hábitos militares.</p>
+<p>- Mas se nós esperássemos por a Roberta...?</p>
+<p>- Não pode ser.</p>
+<p>- Porém, Micas, a falar verdade tu só...</p>
+<p>- Meu caro Sr. José Urbano, - disse o major em tom meio jovial - estou tentado a fazer-lhe uma proposta...</p>
+<p>- Qual é major?</p>
+<p>- Receio que não ma admitam; mas desde já lhes declaro que mau é que a chegue a formular, porque sou teimoso.</p>
+<p>- Vamos, major, diga. A Micas já está cheia de curiosidade. Repare...</p>
+<p>- A falar verdade... Ainda quando não seja senão para ver como o Sr. major é teimoso - observou esta sorrindo.</p>
+<p>- Proponho que nós todos colaboremos no jantar.</p>
+<p>- Essa agora! - disse José Urbano admirado.</p>
+<p>- Pois o Sr. major também cozinha?</p>
+<p>- Oh! minha senhora. Um militar precisa de saber de tudo um bocado; pois deve afazer-se a contar consigo apenas. Tenho tido ocasião de cozinhar para mim mesmo, de compor a minha própria roupa, e até de me medicamentar.</p>
+<p>- Confesso-lhe, Sr. major, que estava com minha vontade de experimentar o seu talento culinário.</p>
+<p>- Pois com permissão aqui do seu padrinho, minha senhora, parece-me que chegou a ocasião.</p>
+<p>- Não, senhor, a minha permissão não pode...</p>
+<p>- Meu caro José Urbano, você, que viajou também, deve saber alguma coisa de cozinha. Eu pela minha parte prometo uma saborosa açorda, na confecção da qual granjeei certa fama entre os meus antigos camaradas, que também me diziam inimitável em manejar o espeto; e, se houver ocasião, folgarei de lhes demonstrar que não sou indigno de crédito. E você que sabe fazer, ó José Urbano? diga lá, ande, e vamos a isto.</p>
+<p>- Confesso que nunca tive disposição para a cozinha.</p>
+<p>- Nem se atreverá a fritar uns ovos com umas rodelas de salpicão? pois eu creio que o fumeiro deve estar bem provido, hem?</p>
+<p>- Não é por falta de materiais...</p>
+<p>- E verdade que isto de fritar uns ovos inda requer seu engenho e tacto culinário; no grau devido, é um prato delicioso, um pouco acima é detestável. Mas eu vigiarei, vamos.</p>
+<p>- Ora, o Sr. major está a gracejar.</p>
+<p>- Basta-me saber - disse a sobrinha de José Urbano - que posso contar com o seu auxílio em caso de maior urgência.</p>
+<p>- Minha senhora, eu não lhe disse que era teimoso? É fama que tenho no exército, e já agora não a hei-de desmentir.</p>
+<p>- Mas...</p>
+<p>- Para outra vez...</p>
+<p>- Não recuo, faço disto questão ministerial... O meu amor-próprio exige que eu lhes faça apreciar as qualidades da minha açorda.</p>
+<p>E o major, gracejando e rindo, de tal maneira insistiu, que os três acabaram por passar todos para a cozinha às risadas e já sem o menor constrangimento.</p>
+<p>O major era destas pessoas, cujo bom humor se comunica, e que põe à vontade e nas mais joviais disposições as pessoas com quem se acha. Logo às primeiras palavras que se tivesse com ele cessava todo o constrangimento, e estabelecia-se uma familiaridade e sem-cerimónia, como um amigo de longos anos.</p>
+<p>O próprio José Urbano participava daquela alegria e arregaçava as mangas do casaco, preparando-se para a tarefa culinária às ordens do seu comensal.</p>
+<p>Maria Clementina assistia rindo com vontade a toda aquela azáfama dos dois.</p>
+<p>O major era admirável de actividade. Tomara posse do terreno e não se mostrava constrangido.</p>
+<p>- Minha senhora - dizia ele, voltando-se para a afilhada de José Urbano - porá Vª Exª à minha disposição um fornecimento de água, pão, sal, azeite, vinagre, pimenta, alho, cravo, cebola, salsa, salpicão e toucinho.</p>
+<p>- Misericórdia, major... Tenha misericórdia dos nossos estômagos... Os desgraçados não resistem a essa metralha.</p>
+<p>- José Urbano, você não sabe o que diz. Não há tónico mais eficaz do que a açorda preparada assim! Verá, verá.</p>
+<p>- Pode satisfazer a minha requisição, minha senhora?</p>
+<p>- Prontamente.</p>
+<p>- Bem; agora, José Urbano, vai você empunhando essa sertã para logo, e partindo os ovos já...</p>
+<p>- Confesso-lhe que é uma tarefa melindrosa. Partir ovos!</p>
+<p>- Que pusilânime! Homem, é assim! - E com a maior presteza, o major preleccionava praticamente o seu hospedeiro, que ria a bandeiras despregadas.</p>
+<p>- A Vª Exª declaro-a emancipada da minha tutela e livre em todos os seus movimentos.</p>
+<p>- Ainda bem - disse José Urbano - quando não, recearia pelo destino do nosso jantar.</p>
+<p>- Homem, não faça injustiça à experiência da vida de campanha. Prometo-lhe que se há-de lembrar com saudade da minha açorda.</p>
+<p>Na cozinha ia uma desusada animação. Parecia que se preparava um banquete, esplêndido. O major, de per si só, fazia mais ruído que meia dúzia de cozinheiros. E com uma gravidade, que Maria Clementina não podia ver sem se perder de riso, mexia e remexia a açorda, que exalava um cheiro apetitoso, e de quando em quando ia vigiar o trabalho de José Urbano, que ele empregara a bater uns ovos, aos quais associara uma quantidade de ingredientes. José Urbano executava fielmente as ordens do major, e havia um quarto de hora que estava batendo os ovos com um escrúpulo e regularidade admiráveis.</p>
+<p>Ao meio-dia, graças aos esforços combinados dos três, o jantar foi declarado completo, e José Urbano, que observava os costumes patriarcais folgou ao antever que não seria alterada a sua hora do costume.</p>
+<p>Enquanto o major dava a última demão à sua decantada açorda, Maria Clementina pôs a mesa, à qual deu um ar festivo, graças às flores com que a adornou: e José Urbano, descendo à garrafeira, foi procurar o mais precioso vinho de que ela constava. No entretanto o major apareceu na sala de jantar, junto de Maria Clementina.</p>
+<p>- Pois já está posta a mesa! - exclamou ele ao entrar na sala.</p>
+<p>- E eu que vinha para a ajudar!</p>
+<p>- Mil vezes agradecida; mas o coronel...</p>
+<p>- Assim me despacha já, se os ministros lhe quiserem honrar a palavra.</p>
+<p>- O Sr. major, queria dizer, foi apenas justo para o serviço da cozinha.</p>
+<p>- Há-de fazer-me a honra de provar a minha açorda, não é verdade?</p>
+<p>- Decerto. E parece-me poder já assegurar que há-de estar deliciosa.</p>
+<p>- Não me queira mal pela minha impertinência; mas é génio meu...</p>
+<p>- Querer-lhe mal! Se eu lhe assegurar que há tempo que não rio como hoje... O Sr. major conseguiu fazer-me esquecer por algumas horas as mortificações da minha vida.</p>
+<p>- Pois também tem mortificações? - perguntou-lhe o major com um carinho que a maior parte das pessoas que o conhecessem lhe estranhariam, ouvindo-o.</p>
+<p>- E pergunta-mo?</p>
+<p>- E duvido-o. Chama mortificações a quê? Desgostos por o padrinho não viver aqui, saudades de alguma amiga mais íntima, zangas pela rabugice da sua criada, a doença de algumas das suas pombas mais bonitas... pretextos para mostrar mais uma maneira de serem belos esses bonitos olhos que tem.</p>
+<p>Maria Clementina sorriu a este galanteio do velho militar; mas através deste sorriso descobriam-se uns longes de tristeza.</p>
+<p>- Se o major soubesse o motivo porque eu vivo triste, talvez, longe de me estranhar a tristeza, se admiraria ainda de me ver sorrir... as vezes.</p>
+<p>- Ora adeus. Não é difícil penetrar no seu segredo. Perdoe dizer-lho. Afinal é o segredo dos... vinte anos... não é essa a sua idade?</p>
+<p>- E - disse Maria Clementina, corando e desviando os olhos do major. - Mas ainda não adivinhou tudo.</p>
+<p>Nisto ouviram-se passos no corredor, e a conversa, com aprazimento de Maria Clementina, foi interrompida por José Urbano, que voltava da sua excursão à garrafeira, exclamando ao entrar na sala:</p>
+<p>- Major! Eu cá sou nacional. Porto e Madeira.</p>
+<p>- Apoiado, Sr. Urbano. Eu secundo o seu patriotismo.</p>
+<p>E sentaram-se todos os três à mesa. José Urbano, contente e jovial; o major fazendo as despesas da conversação com anedotas que faziam rir até às lágrimas o negociante, e assomar um sorriso aos lábios de Maria Clementina, que, da curta conversa que tivera com o major, conservava uns vislumbres de melancolia.</p>
+<p>A açorda preparada pelo major teve um efeito monumental. José Urbano declarou-a a mais deliciosa comida que em sua vida tinha provado. E não obstante ao princípio não poder eximir-se em fazer uma careta, abrindo a boca para minorar o excesso dos condimentos, depois de costumar o paladar, reclamava repetições com uma insistência, que lisonjeava um pouco o orgulho do major.</p>
+<p>- Bravo, major! Já vejo que o cheiro da pólvora apura e aperfeiçoa o paladar. É deliciosa!</p>
+<p>- Mais outra vez, Sr. José Urbano.</p>
+<p>- Vá mais outra.</p>
+<p>- Tenha cautela, meu padrinho, que lhe não vá fazer mal. E tão forte!</p>
+<p>- Deixe, minha senhora, isto dá tom ao estômago. E com um cálice de Madeira por cima... Vª Exª é que não lhe é afeiçoada.</p>
+<p>- Estava excelente, Sr. major. Bem viu que comi.</p>
+<p>Aqui para nós, a sensação que a açorda deixara em Maria Clementina não era das mais favoráveis ao talento culinário do major.</p>
+<p>Reinou em todo o resto do jantar a mesma jovial animação com que principiara a manhã. O major fez um brinde a Maria Clementina, José Urbano outro ao major; este outro a José Urbano, ambos um a sua majestade; o comerciante ao exército, o militar outro ao comércio; e estavam no seu undécimo brinde, quando se ouviu bater à portaria duas grandes argoladas.</p>
+</div><div><head>VII</head>
+<p>A VISITA INESPERADA</p>
+<p>O som estridente das argoladas no portão da casa determinou, por alguns momentos, completo silêncio na sala, e os três convivas, olhando-se interrogativamente, como que se perguntavam - quem será?</p>
+<p>- Já sei. É a Roberta - disse Maria Clementina, respondendo à interrogação tácita dos dois. - Ninguém senão ela podia entrar no quintal.</p>
+<p>E levantando-se chegou à janela, cuja vidraça correu para ver quem batia.</p>
+<p>- É você, Roberta?</p>
+<p>- Sou eu, menina, sou eu - respondeu uma voz de mulher, na qual se notava um evidente cansaço. - Ai que venho mais morta que viva! Depressa, faz favor de atirar cá abaixo a chave da portaria, e abrir a sala das visitas...</p>
+<p>Pois quem vem lá?</p>
+<p>- Uma senhora de carroça, para visitar a menina.</p>
+<p>José Urbano levantou-se sobressaltado.</p>
+<p>- Uma senhora!</p>
+<p>- Mas quem é? - perguntou Maria Clementina, igualmente admirada.</p>
+<p>- Depressa, menina, depressa, que está à espera.</p>
+<p>- Mas que senhora é? - insistiu Clementina.</p>
+<p>- Eu não conheço - respondeu Roberta, já impaciente - mas ande depressa, pelo amor de Deus.</p>
+<p>Clementina voltou para dentro a procurar a chave da portaria.</p>
+<p>- Diz que é uma senhora que me procura.</p>
+<p>- Mas quem pode ser? - perguntou José Urbano, admirado.</p>
+<p>- Ignoro-o.</p>
+<p>E deitando a correr com uma graciosa agilidade, foi buscar a chave que Roberta lhe pedia.</p>
+<p>José Urbano chegou à janela, e dirigindo-se a Roberta:</p>
+<p>- Ó Roberta, quem é que vem lá?</p>
+<p>A criada ouvindo a voz do seu amo, estremeceu e mostrou-se profundamente embaraçada.</p>
+<p>- Pois o Sr. José Urbano... Boa te vai! Então o senhor... olhem os meus pecados!... Pois na verdade... Em nome do Padre... Então que quer isto dizer!... Temo-la travada!</p>
+<p>E continuava resmungando como se a presença do amo a contrariasse.</p>
+<p>- Responde: quem é que vem lá?</p>
+<p>- Aí tem a chave - disse Maria Clementina, atirando-lha pela janela e voltando para ordenar a sala das visitas.</p>
+<p>A velha não esperava por mais nada; sem atender a seu amo, fugiu com uma ligeireza de que ninguém julgaria capazes as suas pernas estropiadas.</p>
+<p>- Roberta, ó Roberta! demónio de mulher.</p>
+<p>O major, que nesse tempo se aproximara da janela, fez um movimento de surpresa ao observar a mulher que corria em direcção ao portão.</p>
+<p>- Ah! é aquela a sua criada?</p>
+<p>- E, uma velha já meio tonta e teimosa, mas, coitada, conheceu-me pequeno. Veja, major, a idade que ela terá.</p>
+<p>O major calou-se. O motivo da sua surpresa fora o ter reconhecido na criada de José Urbano a velha que ele e seu jovem companheiro Rialva haviam encontrado no dia antecedente na estrada, e que lhes perguntou pela chegada da rainha.</p>
+<p>- Mas quem poderá ser? - perguntou a si próprio José Urbano. - Uma senhora que procura minha sobrinha!</p>
+<p>Durante este tempo passeava Maria Clementina na sala de recepção, igualmente preocupada em saber quem seria a pessoa que a procurava.</p>
+<p>Desde que Maria Clementina vivia no campo, raras tinham sido as visitas que recebera; por isso a surpreenderam as palavras de Roberta, e mais ainda a expressão da sua fisionomia, na qual se lia um certo espanto inexplicável. Absorvida por estes pensamentos, a sobrinha de José Urbano desceu ao jardim a receber a sua desconhecida visita.</p>
+<p>Não esperou muito tempo. Roberta assomou pouco depois à entrada de uma das ruas que conduziam ali, e após ela uma senhora de meia-idade magnificamente vestida e com certo ar de nobreza e dignidade, que revelavam distinção.</p>
+<p>Maria Clementina foi ao seu encontro.</p>
+<p>Roberta, colocando-se por detrás da recém-chegada, a quem tributava extremas atenções, fazia sinais telegráficos a Maria Clementina, que esta não podia entender, o que cada vez mais a embaraçava, pois nada lhe recordava as feições da senhora que pretendia visitá-la.</p>
+<p>- Não sei a quem nem ao que devo a honra desta inesperada visita, mas em todo o caso é-me sumamente agradável receber uma tão lisonjeira distinção - disse Clementina, aproximando-se da senhora, cuja fisionomia denotava um ar de bondade simpática e atraente, que dispôs o ânimo de Maria Clementina em seu favor.</p>
+<p>- Minha senhora - disse a recém-chegada, fixando em Maria Clementina um olhar penetrante - ainda que lhe pareça estranha a minha visita, peço-lhe que me dispense de a explicar enquanto não estivermos mais à vontade.</p>
+<p>- Essa é boa - disse Clementina, sorrindo. - Se Vª Exª até não quiser dar-me explicações algumas, não serei eu por certo que me atreva a pedir-lhas. Quer ter a bondade de entrar?</p>
+<p>- Se o ordena? Mas para falar verdade, se lhe não fosse incómodo, aquela rua de romãzeiras tem uma sombra convidativa...</p>
+<p>- Como Vª Exª quiser.</p>
+<p>E as duas desviaram-se na direcção da rua de romãzeiras.</p>
+<p>Maria Clementina, cada vez mais admirada da estranheza da visita; a senhora idosa envolvendo-a nos seus olhares vivos e penetrantes.</p>
+<p>Roberta, ao afastar-se delas, pôde obter ensejo de dizer a sua ama em tom enigmático:</p>
+<p>- Cautela! trate-a com muito respeito! Eu depois lhe direi...</p>
+<p>Maria Clementina estava vendida, como vulgarmente se diz. Estranhava os modos da criada pelo menos tanto quanto o inesperado da visita.</p>
+<p>- Quer dar-me o seu braço? - disse a Clementina à senhora, cuja visita tanto a preocupava.</p>
+<p>- Com todo o gosto.</p>
+<p>E as duas mulheres penetraram, assim juntas e silenciosas, durante algum tempo, pela copada rua do jardim. Chegaram à extremidade oposta à rua, onde, junto de uma pequena fonte, havia um convidativo banco de cortiça assombrado por um toldo de trepadeiras.</p>
+<p>- Quer-me fazer o favor de se sentar aqui comigo?</p>
+<p>- Com muito prazer.</p>
+<p>A desconhecida, tomando então as mãos de Maria Clementina, disse-lhe com um tom meigo e afectuoso:</p>
+<p>- Sabe que me está inspirando muita simpatia?</p>
+<p>- Oh! minha senhora...</p>
+<p>- Quero enfim dizer-lhe o que me trouxe aqui. Eu sou de Lisboa.</p>
+<p>- Ah! de tão longe!? - exclamou Maria Clementina, para dizer alguma coisa.</p>
+<p>- E verdade. E havia muito que desejava conhecê-la.</p>
+<p>- A mim!? em Lisboa...</p>
+<p>- Admira-se?</p>
+<p>- Não sei como Vª Exª me pudesse conhecer em uma terra, onde ninguém me conhece.</p>
+<p>- Ninguém?</p>
+<p>- Decerto. A minha única família resume-se em meu tio, que vive comigo.</p>
+<p>- Mas algumas amigas...</p>
+<p>- Amigas! Engana-se Vª Exª; eu não tenho amigas.</p>
+<p>- Diz-me isso com um ar de descrença, que é de estranhar em uma menina tão nova.</p>
+<p>- Há pessoas para quem a experiência é prematura.</p>
+<p>- Santo Deus! que desconsoladora dúvida! Ora vamos, quer-me parecer que é menos justa nesse seu cepticismo.</p>
+<p>- Não chame a isto cepticismo, minha senhora; graças a Deus, eu tenho a amizade do padrinho.</p>
+<p>- Só?!</p>
+<p>- Tem razão; era injusta. E a de minha criada Roberta.</p>
+<p>- E a de mais ninguém? Parece-me que ainda mais uma vez terá de reconhecer a sua injustiça. Em Lisboa alguém existe que a estima.</p>
+<p>- A mim? - perguntou Maria Clementina, corando enleada sob os olhares da sua interlocutora.</p>
+<p>- E é dessa pessoa que eu lhe queria falar.</p>
+<p>- Vª Exª?</p>
+<p>- Eu, sim. Quer ser franca comigo?</p>
+<p>- Eu? Mas...</p>
+<p>- Ouça-me. Uma das minhas amigas tem um filho oficial no exército.</p>
+<p>Maria Clementina sobressaltou-se a estas palavras.</p>
+<p>- No ano passado - continuou a senhora - este rapaz, que é meu afilhado, e por quem eu me interesso muito, passou algum tempo em Braga em serviço. Quando voltou a Lisboa, por diligências da mãe, ia preocupado e triste. Estranhavam-no todos que o tinham conhecido o mais alegre, e direi mesmo, estouvado rapaz da capital. A mãe dele, sobressaltada no seu coração materno, escreveu para alguém do seu conhecimento, residente aqui próximo, e a carta que obteve... Quer-me fazer o favor de a ler? - continuou a senhora idosa, oferecendo uma carta a Maria Clementina. - E neste ponto...</p>
+<p>- Mas para que hei-de eu... - dizia Clementina, tremendo e estendendo quase involuntariamente as mãos para aquela carta: apesar da sua turbação lançou-lhe os olhos, e pôde ler as seguintes linhas:</p>
+<p>«Quanto ao que me perguntas a respeito de teu filho, colocas-me em sérios embaraços; pois não sei se o mau pensamento lisonjeará demasiado a tua vaidade maternal. Em todo o caso, eu com a franqueza que sempre me conheceste, dir-te-ei que, a meu ver, o teu filho Filipe é digno de censura...»</p>
+<p>As mãos de Maria Clementina tremiam cada vez mais ao ler estas palavras; vencendo a sua comoção prosseguiu:</p>
+<p>«Há tempos que a sua assiduidade junto de uma menina destes lugares havia sido notada; no dia da sua partida uma imprudência dele sacrificou a reputação daquela que inocentemente confiara nele e...»</p>
+<p>Maria Clementina devolveu a carta que estava lendo.</p>
+<p>- Entendo, minha senhora - exclamou ela com a voz alterada e com as faces tingidas de um vivo rubor. - Vª Exª sabe que eu sou a pessoa assim caluniada, não é verdade?</p>
+<p>- Sei.</p>
+<p>- E então com que fim me procurou? - prosseguiu Maria Clementina com certo tom de amargura.</p>
+<p>- Para lhe assegurar que a mãe de Filipe de Rialva, ao receber esta carta, comoveu-se, e que, por secreto pressentimento, acreditou na pureza da mulher que uma imprudência de seu filho assim sacrificara; que ela me pediu que se pudesse encontrá-la, lhe assegurasse isto mesmo, e que lhe transmitisse um beijo, que eu espero me não recusará.</p>
+<p>-Oh! minha senhora! - exclamou Clementina, verdadeiramente comovida.</p>
+<p>E as duas mulheres por muito tempo confundiram seus beijos e suas lágrimas.</p>
+<p>- Ora agora - continuou afinal a senhora de Lisboa - faça-se justiça a todos. Filipe ainda não é tão culpado, como nesta carta se diz. Ele, quer-me parecer, ainda se não esqueceu da menina.</p>
+<p>Maria Clementina abanou a cabeça em ar de dúvida.</p>
+<p>- Oh! não faça esse movimento que se não quadra com esses olhares tão cheios de confiança, com uma expressão de lábios, que, mesmo contra sua vontade, se conformam em um sorriso. Não seja desconfiada. Sobretudo não me fique odiando Filipe... não?</p>
+<p>Desta vez o sorriso de Maria Clementina tinha outra significação.</p>
+<p>- Odiá-lo! - dizia-lhe, baixinho, o coração. - E julgam necessário recomendar-me que o não odeie!</p>
+<p>Ora, apesar do coração falar tão baixo, não sei que admirável acústica era a senhora lisbonense que o percebeu, e aproximando-se de Maria Clementina disse-lhe com voz afectuosa:</p>
+<p>- Ainda o ama, não é verdade? Diga-me que sim.</p>
+<p>Maria Clementina corou e calou-se.</p>
+<p>- Bem, bem, este rubor é também uma resposta. Adeus. Permite-me que volte a visitá-la?...</p>
+<p>- Quando Vª Exª quiser.</p>
+<p>- Agora retiro-me.</p>
+<p>- E nem ao menos há-de descansar em nossa casa?</p>
+<p>- Se me dispensa...</p>
+<p>- Meu padrinho há-de sentir.</p>
+<p>- Quê! pois não está só? Tinham-me dito...</p>
+<p>- Meu padrinho chegou, sem ser esperado, com um amigo que jantou connosco. Eles lá vêm ao nosso encontro.</p>
+<p>A senhora de Lisboa seguiu com os olhos a direcção em que apontou Maria Clementina, e não pôde disfarçar um movimento de espanto ao reconhecer o major.</p>
+<p>- O Sr. Clemente Samora aqui?</p>
+<p>O major pela sua parte parecia tê-la também reconhecido, e não mostrava menor estupefacção.</p>
+<p>- Longe estava eu de esperar encontrar Vª Exª neste lugar, Srª D. Joana.</p>
+<p>- Não menos alheia estava eu ao prazer do seu encontro, major.</p>
+<p>José Urbano, depois de cumprimentar, segundo a etiqueta, a dama desconhecida, voltou para sua afilhada e para o major olhares interrogadores.</p>
+<p>- Para evitar-lhes o incómodo de uma apresentação, eu própria me apresento - disse ela, olhando para o major de uma maneira particular, como se lhe quisesse recomendar o silêncio.</p>
+<p>- Vª Sª é, segundo julgo, o tio desta menina, não é verdade? - disse D. Joana, sorrindo-se amavelmente para José Urbano.</p>
+<p>- As ordens de Vª Exª aqui e em toda a parte. José Urbano, negociante em Braga.</p>
+<p>- Muito bem, Sr. José Urbano. Pois eu sou de Lisboa, e aproveitei a vinda da rainha para visitar o Minho, que há muito tinha desejos de ver. Ao despedir-me de algumas minhas amigas em Lisboa recebi de uma a incumbência agradável de procurar esta menina para lhe assegurar da parte dela que, apesar da ausência, sempre a teve presente no coração. O acaso fez com que eu na estrada encontrasse a sua criada, de cuja conversa vim a saber ser aqui a morada de quem eu procurava, e resolvi por isso cumprir imediatamente a minha comissão. Agora retiro-me, mas já autorizada para voltar a visitá-la por minha própria conta, se o Sr. José Urbano se não opõe...</p>
+<p>- Oh! minha senhora! Vª Exª honra-nos muito com a sua visita.</p>
+<p>- O major fica?</p>
+<p>- Vinha também despedir-me desta menina, e se Vª Exª quiser aceitar a minha companhia...</p>
+<p>- Porém, o major vai para Braga, e eu fico em casa do Visconde de P...</p>
+<p>- Pessoa de bem - disse José Urbano ao ouvir este nome. - Mas o major pode acompanhar Vª Exª até perto da quinta do visconde, sem torcer muito caminho.</p>
+<p>E José Urbano, profundamente conhecedor da topografia do lugar, indicou ao major Samora o itinerário que devia seguir.</p>
+<p>- Então até breve... É verdade; quer-me fazer o obséquio de aceitar um lugar na minha carruagem para vermos amanhã a entrada da rainha? - perguntou D. Joana, voltando-se para Maria Clementina.</p>
+<p>- Peço a Vª Exª que me dispense de aceitar tão lisonjeiro favor; mas não me agrada o tumulto.</p>
+<p>- Basta; eu também prefiro falar-lhe mais com sossego. Adeus.</p>
+<p>E aproximando-se de Maria Clementina beijou-a afectuosamente, dizendo-lhe ao mesmo tempo:</p>
+<p>- É verdade, peço-lhe que não dissuada a sua criada das ideias que formar a meu respeito.</p>
+<p>O major Samora, ao ajudar D. Joana a subir para a carruagem, estava pensativo, e olhava para Maria Clementina de um modo particular.</p>
+<p>- Entre, major. O André que lhe conduza o cavalo até ao sítio onde teremos de nos separar.</p>
+<p>E depois de fazer um último sinal de afectuosa despedida a Maria Clementina, cortejar José Urbano, e ter enviado a Roberta, que se desfazia em mesuras, um gesto particular, deu ordem de partir, e em pouco tempo a carruagem se afastava do lugar.</p>
+<p>- Parece uma excelente senhora - disse José Urbano, fechando a porta. - Mas de quem te trouxe ela visitas, Micas?</p>
+<p>- Ah!... - respondeu Maria Clementina, turbada - da filha do juiz de Direito, que se retirou o ano passado.</p>
+<p>Em todo o resto da tarde Maria Clementina mostrou-se preocupada.</p>
+<p>José Urbano passeava no quintal, examinando minuciosamente o estado dos enxertos, o adiantamento dos renovos, e limpando os alegretes com a solicitude de um horticultor de vocação.</p>
+<p>Maria Clementina permaneceu imóvel, encostada à varanda, seguindo com os olhos o volutear das andorinhas no espaço, nessa posição cheia de languidez e poesia de mulher de vinte anos que cisma. O cismar nesta idade é uma das variadas manifestações do amor e a mais ideal, a mais pura, e mais sublime. Cisma-se antes que o coração tenha decifrado o enigma proposto, antes que o amor tenha recebido uma solução real. E o estremecimento da alma, precursor de uma vida nova. Após uma longa viagem, e depois de flutuar suspenso entre o céu e o abismo no mar, o nauta, encostado um dia à amurada do navio, estendendo os olhos pela amplidão das águas, sublimes de mais para lhe bastarem por muito tempo ao coração, e procurando ao menos nas nuvens um simulacro de montanhas, lagos fantásticos, campinas e florestas, sente que o vento, que lhe agita os cabelos e que sibila pelas enxárcias, o perfuma de fragrâncias suaves; que lhe recorda a terra por que suspira, e que lhe anuncia prazeres que ainda não vê. Então aspira com sofreguidão estas brisas, que roubaram às flores os seus perfumes, e deixa-se cair em uma contemplação extática, imaginando os bosques e os vergéis da terra de que se sente próximo.</p>
+<p>Na vida há uma situação idêntica, em que também a atmosfera nos vem perfumar de misteriosa fragrância, e em que ao aspirá-la sonhamos venturas e esquecemos os dissabores de viagens empreendidas. É a aurora do amor; quadra de devaneios e fantasias, em que a vida do coração principia e exerce sobre nós o seu mágico influxo.</p>
+<p>Maria Clementina estava naquele momento em uma dessas situações. O que lhe estaria a fantasiar a imaginação? Imaginem as leitoras.</p>
+<p>E tão absorvida estava naquele seu íntimo cismar, que nem dava pela presença de sua criada Roberta, cujo entrar e sair, e ruído que de propósito fazia, tinha o que quer que fosse de suspeito, e noutra ocasião teria já evidentemente sido notado por ela.</p>
+<p>Roberta acabou de se convencer que não conseguira tomar-se notada; por isso, aproximando-se de Maria Clementina, dirigiu-lhe a palavra.</p>
+<p>- Então diga-me cá, menina, que lhe pareceu a visita daquela senhora?</p>
+<p>Maria Clementina olhou para a criada com certo sobressalto, como se aquelas palavras a desviassem, mau grado seu, de um agradável meditar.</p>
+<p>- Que me havia de parecer, Roberta? Uma delicadeza daquela senhora, que assim quis ter um incómodo por minha causa.</p>
+<p>- Sabe quem ela é? - perguntou Roberta com certo ar de mistério.</p>
+<p>- Uma senhora de Lisboa.</p>
+<p>- Mas que senhora?</p>
+<p>- Que senhora?! Não entendo a pergunta.</p>
+<p>- Sim; pergunto eu se sabe quem é aquela senhora?</p>
+<p>- Eu, não.</p>
+<p>Roberta tomou-se cada vez mais misteriosa; foi à porta observar se alguém a escutava; depois aproximou-se de Maria Clementina, e disse-lhe em voz baixa:</p>
+<p>- Quer que lhe diga quem ela é?</p>
+<p>- Diga lá.</p>
+<p>- E promete segredo?</p>
+<p>- Prometo - respondeu Maria Clementina, sorrindo ao lembrar-se da recomendação de D. Joana.</p>
+<p>- Pois olhe; mas não se assuste, nem diga nada ao padrinho.</p>
+<p>- Mas então quem é?</p>
+<p>-É a rainha!</p>
+<p>- A rainha? Ah! ah! ah! - disse Maria Clementina, não podendo reter uma gargalhada.</p>
+<p>- Olhem! E a menina ri-se! E o que eu lhe digo.</p>
+<p>- Então era a rainha?</p>
+<p>- Era, sim, senhora, era. E sabe quem a trouxe aqui?</p>
+<p>- Eu não.</p>
+<p>- Fui eu.</p>
+<p>- Ah! Então você tem esse poder sobre a rainha?</p>
+<p>- Ora escute.</p>
+<p>E Roberta, com toda a familiaridade, puxou uma cadeira para junto de Maria Clementina e prosseguiu:</p>
+<p>- Aquela história do alferes...</p>
+<p>- Roberta! já lhe disse que não queria que me falasse mais nisto.</p>
+<p>- E não tenho falado. Agora, o que eu não podia era deixar de pensar também. Que quer a menina? Eu vi-a nascer, assim como vi nascer a mãezinha, e já que não pude dar àquela as venturas que lhe desejei sempre, disse cá de mim para mim: Esta não há-de ter uma sorte infeliz, ao poder que eu possa.</p>
+<p>- Mas a que vem isso agora, Roberta?</p>
+<p>- A que vem? Ora escute. Aquela doida da leiteira veio-nos aqui dizer que a rainha chegava ontem. Quando ela me disse aquilo, eu pus-me cá a malucar. A rainha é rainha. Ela é quem manda e governa, os outros têm de lhe obedecer. Se eu lhe contasse tudo...</p>
+<p>- Se lhe contasse o quê, Roberta? - exclamou Maria Clementina com certa inquietação.</p>
+<p>- Tudo. A história do tal alferes.</p>
+<p>- Roberta!</p>
+<p>- Ora valha-me Deus, menina. Com esses escrúpulos não se faz nada de jeito. Se eu tivesse estado com a menina em Braga, eu me acautelaria; assim ao menos vamos a remediar o mal. A rainha dizem que é boa senhora. Se eu lhe fizer constar que, por causa de um alferes, as más-línguas se atreveram a murmurar da mais virtuosa menina que eu tenho conhecido, ela há-de tomar as suas medidas e remediar tudo.</p>
+<p>- Você tem coisas, Roberta!</p>
+<p>- Diga-lhe que sim. Eu o que não tenho são papas na língua. Sabe a menina que para dizer a verdade, tanto a digo diante dos reis como dos da minha igualha. Já uma vez fui jurar como testemunha de dizer o que sabia, e até o juiz disse que eu era uma mulher desenganada. Eu cá sou assim. Pedi-lhe ontem licença e fui-me pôr na estrada à espera da rainha. Bem podia esperar até pela manhã. Passou este senhor general, que cá jantou hoje; quando me lembro como a menina cá se arranjou sem mim, ainda me benzo; o que valeu é que ele é um homem como se quer, e o padrinho estava hoje de boa maré. Ainda assim! Mas não tem dúvida, ainda que tivesse de cair a sé, por bem empregado dava eu o meu tempo... Mas como ia dizendo, passou este senhor e um rapazote novo, e foram eles que me disseram que a rainha só chegaria daí a duas ou três horas, e até me deram os sinais certos para eu a conhecer. Esperei, esperei e por fim sempre apareceu: conheci-a logo.</p>
+<p>- Ah! então conheceu-a?</p>
+<p>- Conheci logo. Vi a carruagem e disse com os meus botões: E aquela. Vinham dois criados a cavalo atrás e outra carruagem com senhoras também. Não trazia estadão, porque, como me disse o tal rapaz, ela viaja... viaja... ora como disse ele?... Era assim uma coisa como em cólicas, mas que vinha a dizer que viajava sem estrondo. Cheguei-me à carruagem, apesar do sinal do boleeiro, e ela ao ver-me fez logo sinal para parar. Atenciosa é ela com os pobres, Deus Nosso Senhor lho pague.</p>
+<p>Maria Clementina ouvia com curiosidade a narração desta aventura da criada.</p>
+<p>- Qual de V.as Ex.as é a rainha? - disse eu para as três senhoras que iam dentro, apesar de logo ver que havia de ser a mais idosa. As mais novas desataram a rir... como a menina ri também... não sei porquê. Lembrou-me que seria por eu não dar o tratamento que devia e emendei a tempo: Qual de vossas majestades é a rainha? As outras riam ainda... Eram uns galos dourados, coitadinhas, nem por estarem diante de quem estavam!... Raparigas. Mas a senhora então, tocando-lhes com o cotovelo, disse muito séria, voltando-se para mim:</p>
+<p>«- Sou eu; por quê?</p>
+<p>- Ah! eu logo vi, ora primeiro que tudo seja vossa majestade muito bem-vinda a esta sua terra, onde tem muitos amigos. Meu amo fala muito no paizinho de vossa majestade. Ora muito bem. Vossa majestade há-de ter pressa; mas é que eu sempre lhe queria pedir...</p>
+<p>A rainha julgou que era esmola, pois já ia a meter a mão ao bolso...</p>
+<p>- Em cortesia - disse eu, que a percebi - não é isso que eu peço, é justiça.</p>
+<p>- Justiça! - disse a rainha, tomando-se logo séria. - Fale, fale... quem lhe fez mal?</p>
+<p>- Eu lhe conto, não foi a mim verdadeiramente, mas... e o mesmo que se fosse, se fui eu que a trouxe ao colo...</p>
+<p>- A quem? - perguntou a rainha.</p>
+<p>- À minha menina!</p>
+<p>- Roberta - disse Maria Clementina, interrompendo-a -você não tem juízo! Ir assim, diante dessa gente toda, falar em coisas das quais eu já lhe tinha proibido de dizer uma palavra mais!</p>
+<p>- Ora venha cá ensinar-me como as coisas se fazem! Cuida que me pus mesmo agora a tagarelar para quem me quisesse ouvir. Era o que faltava. Eu disse à... à rainha: Se vossa majestade quiser ter o incómodo de se chegar aqui, eu conto-lhe tudo. Ela chegou à porta da carruagem, e eu disse-lhe tudo ao ouvido.</p>
+<p>- Tudo o quê?</p>
+<p>- Contei-lhe que, estando eu na quinta e o padrinho no Porto, a menina fora para o convento. Que foi por ocasião do Saldanha andar por cá e que deixara ficar em Braga um tal alferes, que inquietou a menina; porquanto enfim, como eu disse à rainha, quando a gente é nova o coração é o coração, o sangue ferve...</p>
+<p>- Jesus, meu Deus! que mulher esta! - exclamou Maria Clementina, corando.</p>
+<p>Roberta não atendeu à interrupção, e continuou:</p>
+<p>- Que depois a viu em casa do Sr. Domingos Pedral, e que na noite em que o tal alferes tinha de partir para Lisboa, foi falar com a menina ao jardim do Sr. Pedral, onde a menina estava. Asneira, como eu disse à rainha, em que se eu lá estivesse, a não deixaria cair. E logo então com tanta infelicidade, que ao saltar o muro foi visto por um grupo de estudantes que dobrava uma esquina, e o mesmo foi verem-no eles que vê-lo toda a cidade, a qual já falava nestes amores há muito. No dia seguinte, a reputação da menina andava já por essas bocas do mundo; as delambidas das freiras puseram-se a fazer biquinhos à volta da menina para o convento. E eu e a quem contaram isto fomos buscar a menina para a quinta, porque, graças a Deus, a sobrinha do Sr. José Urbano não precisa dos favores de ninguém. Disse-lhe que o Sr. José Urbano chegara aqui a Braga espavorido, mas que depois de falar com a menina ficara manso como um cordeiro, e nunca falara mais nisto.</p>
+<p>- Sabe, Roberta, que se meu padrinho soubesse o que você fez havia de ficar muito satisfeito! Não viu como ele lhe ordenou que nunca mais falasse em tal?</p>
+<p>- Pois sim; com esses escrúpulos ficávamos sempre nesta vida. A menina sem voltar à cidade, sem visitar ninguém, aqui metida.</p>
+<p>- Bem me importa a cidade. Que canseira lhe dá isso a você? Eu já lhe disse que não me distraio aqui?</p>
+<p>- Ora deixemo-nos disso. Os passarinhos cantam muito bem, as flores são muito bonitas; mas, vindo o Inverno, nem passarinhos nem flores. Depois sempre quero ver como a menina se diverte. E como o ano passado. Chorava, chorava...</p>
+<p>- O ano passado estava doida. Já sabe que me curei daquela loucura.</p>
+<p>- Diga-o a quem quiser, menos a mim. Olhem para onde ela vem com os seus esquecimentos!</p>
+<p>- Mas que lucrou você em contar a essa senhora a minha história?</p>
+<p>- À rainha...</p>
+<p>- A rainha, seja lá rainha. Para quê?</p>
+<p>- Pois quem lhe pode dar remédio, senão ela? Eu lá lhe disse:</p>
+<p>Agora veja vossa majestade se isto deve ficar assim. Se os militares que vossa majestade para cá nos manda vêm para manter a paz, ou para meter a desordem nas famílias e fazer a infelicidade de meninas bem-educadas...</p>
+<p>Como se chamava esse oficial? - perguntou a rainha, e eu bem vi que ela já estava interessada por a história.</p>
+<p>- Olhe, eu só sei que ele era Filipe.</p>
+<p>- E disse-lho! valha-me Deus!</p>
+<p>- Disse, disse... Era o que faltava se eu me punha com biocos.</p>
+<p>- Filipe de Rialva?! - perguntou a rainha assim com mostras de o conhecer...</p>
+<p>- Tanto não posso dizer a vossa majestade; eu só sei que ele é Filipe.</p>
+<p>A rainha não perguntou mais nada dele.</p>
+<p>- Mora daqui longe essa menina?</p>
+<p>- É ali logo.</p>
+<p>- Pode lá ir uma carruagem?</p>
+<p>- Indo pela banda de cima, estou que pode.</p>
+<p>- Ela estará amanhã só?</p>
+<p>- De todo só. Porque não esperava que o padrinho viesse de Braga.</p>
+<p>- Vou ficar hoje em casa do visconde de P., sabe onde é?</p>
+<p>- Perfeitamente, majestade, é logo ali - e apontei para o sítio.</p>
+<p>- Amanhã, a esta mesma hora, esteja lá para me guiar no caminho. Vá com Deus.</p>
+<p>Eu desviei-me da carruagem, que desapareceu em um abrir e fechar de olhos.</p>
+<p>Quando cheguei a casa e vi o Sr. José Urbano, fiquei atarantada de todo, porque me lembrei que já não podia ir buscar a rainha. Passei a noite muito triste, e nem dormi, mas rezei muito a Nossa Senhora.</p>
+<p>Hoje de madrugada, vendo partir o padrinho para a cidade, fiquei tão contente, que por pouco não me deu o sono. Boa te vai. Olha agora se eu adormecia nesta ocasião, estava bem servida! E levantei-me logo, e quando foram horas pedi à menina que me deixasse ir a Braga comprar linho, mas fui ter com a rainha, que já estava à minha espera. Pelos modos parece que também madruga, porque ainda não era meio-dia! Depois ela... a rainha... fez-me entrar na carruagem. Oh! Eu bem não queria, mas não houve de quê. Hem? Que lhe parece? desta poucas se gabarão! Não é assim? Ora aqui tem como a rainha aqui veio ter.</p>
+<p>Mas julgue como eu ficaria quando vi o Sr. José Urbano à janela. Credo! Fiquei sem pinga de sangue, e por pouco não caí redondamente no chão. Decerto me valeu o meu padre Santo António. Também olhe que uma aquela assim como esta poucas vezes acontece à gente. O que me admirou foi o padrinho não a conhecer. Agora, quando a vir em Braga, é que há-de ser bonito. O major, esse logo vi que a conheceu; porém ela fez-lhe sinal, que eu bem reparei. Mas como veio o major cá ter...? E como se arranjaram com o jantar? É verdade, ó menina, quem fez aquela sopa, que... santo nome de Deus! por pouco me não punha a boca em carne viva! Onde aprendeu a menina a cozinhar aquilo?»</p>
+<p>Maria Clementina sorriu-se a esta referência à açorda do major. Mas naquele momento achava-se possuída de veemente desejo de estar só, e por isso, voltando-se para Roberta, disse-lhe:</p>
+<p>- É necessário ir cuidar do chá do padrinho, que ele não tarda por aí. Vá; depois conversaremos.</p>
+<p>Roberta retirou-se murmurando:</p>
+<p>- A rainha nesta casa e eu na carruagem da rainha! Quando me lembro!</p>
+<p>Maria Clementina ficou outra vez só. Outra vez se deixou arrebatar pelos devaneios da sua fantasia. Ficar só é a suprema felicidade em situações como a sua. Escuta-se melhor o que murmura o coração agitado, percebem-se todas as íntimas vibrações dos misteriosos sentidos donde procedem os afectos. Nas trevas, em que a imaginação de Maria Clementina se confundia, via raiar enfim um raio de luz. Não era pois ainda desesperada a sua situação. Seria possível desanuviar-se-lhe ainda o céu, para o qual já não olhava com esperança? Não seria ainda a resignação a única arma que lhe podia dar a paz do coração que perdera?</p>
+<p>Tudo isto lhe propunha o pensamento, e entre estas questões vacilava aquele pobre coração, que julgava ter abafado todas as esperanças, e agora as via surgir de súbito umas após outras, a povoarem-lhe de novo a fantasia, mais inquieta que nunca, e a seduzirem-na com o esplendor do seu brilho, com o vivo de suas cores.</p>
+<p>Como é ilusória a placidez dos vinte anos! O fogo latente alimenta uma iminente erupção. Ó transparente máscara de sisudez posta nestes lindos rostos de mulher, como ocultas mal os risos inquietos que se agitam por debaixo! pensai, cismai, sonhai, imaginações juvenis; pulsai, amai, corações virginais; a vida na vossa quadra é isto. Não há gelo que apague o fogo que vos escalda; e, se o sufocais com gelo, funde-se em lágrimas e a paixão rebenta mais forte.</p>
+<p>Deixemos Maria Clementina entregue aos seus pensamentos de amor, acompanhem-na as imaginações dos leitores, mais capazes de as seguirem aí, e vamos nós a outro ponto, onde o desfiamento desta narração nos chama.</p>
+</div><div><head>VIII</head>
+<p>O ENCONTRO INESPERADO</p>
+<p>Ao separar-se do major, perto da quinta onde devia pernoitar a senhora de Lisboa, a que este chamara D. Joana, disse-lhe ela, estendendo-lhe a mão:</p>
+<p>- Então ficamos nisto, major?</p>
+<p>- Pela minha parte prometo cumprir quanto Vª Exª me ordene.</p>
+<p>- Não diga ordene, por quem é. Eu peço só...</p>
+<p>- Não é o mesmo que ordenar?</p>
+<p>- Bem, major, não insistamos em galanteios. Combinamos então o major em colher informações de família. Eu em sondar o coração de Filipe.</p>
+<p>- Eu posso dar a Vª Exª informação nesse ponto.</p>
+<p>- Como?!</p>
+<p>- Filipe falou-me nesta inclinação, e confessou conservar da pequena uma ideia muito superior à de todos quantos amores tem experimentado. Mas Vª Exª está resolvida...</p>
+<p>- A evitar que Filipe cometa uma deslealdade. Que quer, major? meteu-se-me na cabeça fazer de meu filho um perfeito cavalheiro...</p>
+<p>- E não lhe será muito difícil o empenho na execução, minha senhora. Mas adiante. Vª Exª e Maria Clementina serão tudo, menos o fruto de alguma antiga árvore genealógica.</p>
+<p>- Olhe, major, eu não tenho o defeito de me esquecer que meu pai era um negociante da capital; e se o pai de Filipe não julgou desonrar-se aliando-se com a minha família, eu renegaria a minha procedência, se adoptasse esses preconceitos. Ora agora, para o mundo, que para desculpar uma acção boa precisa de a explicar por uma ideia interesseira, ficarei absolvida dizendo-se que os capitais de José Urbano sossegaram os escrúpulos aristocráticos, que, como sabe, eu nunca tive.</p>
+<p>- Bem, minha senhora. Agora, que recebi as suas instruções, retiro-me e até à vista.</p>
+<p>- Conto com a sua aliança?</p>
+<p>- De vida e de morte.</p>
+<p>E o major despediu-se de D. Joana Rialva com a galanteria de um perfeito militar; e montando a cavalo partiu em direcção a Braga.</p>
+<p>Momentos depois estava D. Joana no salão do visconde de P.... onde a aventura da estrada ainda era comentada com alegria. D. Joana contou a seu modo o que lhe sucedera na visita que acabava de fazer, inventando uma história de uma família desgraçada, que a exoneração de um emprego público reduziu à miséria, e agradeceu a Filipe o haver-lhe fornecido a ocasião de reparar um mal.</p>
+<p>- E Vª Exª visitou essa família? - perguntou Filipe - se é que a mãe não exige que a trate por majestade também.</p>
+<p>Nova hilaridade das senhoras do salão.</p>
+<p>- Visitei, e voltarei ainda a vê-la. Assim lho prometi. Já agora quero tomar a sério o papel de rainha. Imaginei que devia levar a felicidade àquela família que assim recorreu a mim. Parece que andou aqui a mão da Providência. E tu, Filipe, terás também o teu papel em tudo isto. Preciso da tua coadjuvação para secundar os meus projectos.</p>
+<p>- De todo o coração, minha mãe, lha prometo.</p>
+<p>- Reclamo já a tua companhia para a visita que tenciono fazer-lhe.</p>
+<p>- Da melhor vontade... prometo.</p>
+<p>- E nós todas vamos também - exclamaram algumas senhoras.</p>
+<p>- Não vai nenhuma. Eu quero continuar a ser suposta rainha, e 2 o riso das meninas não mo permitiria.</p>
+<p>- Prometemos estar serias.</p>
+<p>- Não creio na promessa. Desta vez irei eu só com Filipe...</p>
+<p>E, combinando nisto, passou-se a conversar noutros assuntos, a discutir toilettes, a planear projectos de passeios, voltando-se de quando em quando ao objecto que evidentemente mais preocupava D. Joana.</p>
+<p>O dia seguinte foi de grande alvoroço para Braga. Todos os nossos conhecidos, à excepção de Maria Clementina e de Roberta, andavam envolvidos naquele mare magnum de povo, e tomando parte no tumulto e agitação, em que a chegada de sua majestade lançou a população de Braga.</p>
+<p>Deixemos porém passar este dia, pois que não nos compete tomar parte naqueles regozijos, e juntemo-nos às personagens desta história no dia seguinte a esse para seguirmos a série de acontecimentos que formam o entrecho desta narração.</p>
+<p>O carro, que já uma vez havia conduzido D. Joana à quinta de José Urbano, corria agora com ela e Filipe de Rialva pela estrada de Braga na mesma direcção. O major encarregou-se de conservar na cidade o proprietário da quinta, porque a visita evidentemente não se destinava a este.</p>
+<p>Rialva fazia notar a sua mãe as belezas do caminho, e exaltava os encantos da província do Minho com entusiasmo de artista.</p>
+<p>- Deve Vª Exª concordar que é uma aprazível província esta. Os campos são jardins, os montes são cômoros de verdura, parece que se sente tudo cantar e sorrir.</p>
+<p>- E efectivamente esta gente do campo é essencialmente amante da música. Ainda não cessámos de ouvir cantar.</p>
+<p>Naquele mesmo momento uma fresca e suave voz aldeã cantava em um campo:</p>
+<p>Aquele que tanto amei</p>
+<p>Esqueceu meu pensamento,</p>
+<p>Como o rio esquece as rosas</p>
+<p>Que retratou um momento.</p>
+<p>- E uma acusação de infidelidade - disse D. Joana, fitando em seu filho um olhar malicioso, que este não percebeu.</p>
+<p>- Mas que bonita voz a da cantora! Parece-me que ainda em S. Carlos não se ouviu tão sonoro timbre. 2 Mais adiante uma lavadeira cantava em um ribeiro, vizinho à estrada:</p>
+<p>O amor que me juraste</p>
+<p>Bem cedo o vi acabar,</p>
+<p>Foi fumo de lavareda</p>
+<p>Que já se desfez no ar.</p>
+<p>- Outro queixume. Parece-me que a cada passo se ergue uma voz a acusar a inconstância do coração.</p>
+<p>- É porque só os corações infelizes é que cantam; a alegria e a felicidade são mudas.</p>
+<p>Ao voltar um ângulo do caminho era outra rapariga que fiava à porta, cantando:</p>
+<p>O teu amor era falso,</p>
+<p>Teve pouca duração,</p>
+<p>Mas deixou mágoas eternas</p>
+<p>No meu pobre coração.</p>
+<p>- É singular! - disse D. Joana com certa intenção. - Parece de propósito; sempre a mesma poesia. Nem que nos perseguisse uma voz como a da consciência a acusar-nos de alguma culpa de inconstância. Ora dos dois, quem com mais alguma probabilidade poderá ser acusado disso, não serei eu decerto. Se fosses tu, Filipe?...</p>
+<p>- Quem sabe, minha mãe? - respondeu Filipe com uma seriedade que não estava em harmonia com o tom jovial em que D. Joana lhe fizera a observação.</p>
+<p>- Ah! quem sabe? Ninguém senão tu e a Providência, que talvez esteja falando pela boca desta pobre gente. Só me admira que fale no Minho para emendar o mal feito em Lisboa.</p>
+<p>- E se fosse o mal feito no Minho?</p>
+<p>- No Minho? mas... ah? sim, tu estiveste alguns meses aqui. Então, Filipe, por acaso inspirar-te-iam estas belas paisagens alguns capítulos do romance? Por que mo não contaste? Sabes que tudo quanto escreves e contas me excita sempre interesse; pois nem te lembras que até os teus trabalhos académicos eu gostava de ler? Nem aos de matemática perdoava: não os decifrava, mas entendia-os. Não sei se me admites este paradoxo.</p>
+<p>- Eu sei, minha mãe, avaliar o seu muito afecto, mas que quer? O conceito elevado que Vª Exª na sua indulgência materna faz de mim, lisonjeia-me tanto, causa-me tal orgulho, que recuo ante a ideia das confissões que lhe podem lançar a mais leve sombra na imagem que a sua muita bondade formou de mim.</p>
+<p>- Deve ser bem grave a culpa cometida, que assim te está causando remorsos.</p>
+<p>- Ainda não pude avaliar toda a extensão e gravidade dela.</p>
+<p>- Porquê?</p>
+<p>- Porque não pude saber ainda as consequências que resultaram.</p>
+<p>- E se eu exigir que ma confies?</p>
+<p>- Basta que lhe diga, que essas cantigas populares que nos têm acompanhado, podem considerar-se, como Vª Exª disse há pouco, a voz da minha consciência ou dos meus remorsos.</p>
+<p>- Remorsos! Repara que são a consequência de um crime. Por acaso...</p>
+<p>- Pelas convenções sociais não me pode ninguém chamar criminoso; mas por um outro código, pelo código da consciência, eu sou acusado.</p>
+<p>- De que crime?</p>
+<p>- De ter feito nascer uma paixão, prevendo quase que ela teria de morrer sufocada, prognosticando-lhe o seu nenhum futuro.</p>
+<p>- E que motivos tens para julgar nela mais sincera essa paixão do que o era em ti? Vaidoso! Imaginas que ninguém te poderia aceitar a corte sem morrer de amores por ti?</p>
+<p>- Por um lado tem razão no que diz; mas um pressentimento...</p>
+<p>- Bem. A coisa não passa de um pressentimento? Pois nesse caso oponho-lhe um outro pressentimento meu. Já nem sequer pensa em ti essa em quem pensas ainda tanto. E o mais natural. Tranquiliza os teus escrúpulos; mas parece-me que não te seria demasiado lisonjeiro o convencimento desta verdade. Ora diz-me: tu ainda a amarás?</p>
+<p>- Julgo que não, minha mãe. Eu sinto-me tão volúvel!</p>
+<p>- Mas como tu dizes isso! que ar de remorso! Nunca te acusaste com tanta contrição do teu rompimento com a Alberta dos Prazeres, com quem estiveste quase esposado. Ó Filipe, dar-se-á que o teu coração entre deveras nisso?</p>
+<p>- Quero acreditar que não, minha mãe. Seria uma calamidade.</p>
+<p>- Porquê?</p>
+<p>- Vª Exª permite-me que fale francamente?</p>
+<p>- Ordeno-te.</p>
+<p>- Pois bem. É porque se eu me sentisse deveras apaixonado, podia estabelecer-se entre mim e Vª Exª um conflito, do qual, fosse o resultado qual fosse, eu sairia sempre com feridas que não sarariam nunca, ou acabaria por lhe não obedecer; e se o amor fosse verdadeiro, sofrendo por ele, eu venceria a paixão, e nunca me perdoaria a desobediência.</p>
+<p>- E qual a razão por que julgavas inevitável um conflito? Essa mulher era indigna de ti?</p>
+<p>- A sociedade em que Vª Exª vive é de umas exigências ridículas, mas a que se costumam a obedecer os que a frequentam. Conveniências sociais. A mulher a quem me refiro era filha de um negociante de Braga.</p>
+<p>- Não te sabia desses preconceitos heráldicos tão arreigados!</p>
+<p>- Em mim? Engana-se, minha mãe, se eu fosse só... Mas sabe que lhe não quero dar desgosto...</p>
+<p>- Se me não engano, achamo-nos em frente da casa da família que vamos socorrer.</p>
+<p>Efectivamente a carruagem parou diante do portão da quinta de José Urbano, e o boleeiro, apeando-se, puxou o cordão da sineta, cujo ruído se fez ouvir ao longe, despertando os latidos dos cães, fiéis guardadores daqueles jardins.</p>
+<p>Passados tempos o portão abriu-se, e Roberta apareceu, depois de perguntar de dentro quem era, com voz um pouco resolvida; ao dar com os olhos na carruagem, deu um salto, como se a picasse urna víbora.</p>
+<p>- Vossa... - ia exclamar a pobre velha atónita.</p>
+<p>- Psiu! - disse D. Joana, pondo o dedo na boca e com um sorriso benevolente.</p>
+<p>Roberta calou-se, mas, ao ver saltar Rialva do carro, fez um novo movimento de surpresa.</p>
+<p>- Agora é o outro. Pelo que vejo eram grandes fidalgos ambos. Rialva, que conheceu logo em Roberta a velha da estrada, procurou tomar-se ouvido dela, dizendo à mãe, ao ajudá-la a descer:</p>
+<p>- Se vossa majestade se quiser utilizar do meu braço...</p>
+<p>D. Joana sorriu, e, saltando junto de Roberta, perguntou-lhe em voz baixa:</p>
+<p>- Onde está a menina?</p>
+<p>- Deve andar pela quinta. Eu vou chamá-la.</p>
+<p>- De modo nenhum. Iremos ter com ela.</p>
+<p>- Como vossa majestade quiser; nesse caso eu vou adiante.</p>
+<p>- Também não. Se me quiser antes fazer o favor de me preparar um copo de água chalada...</p>
+<p>- Com todo o gosto. Mas se vossa majestade se engana no caminho?...</p>
+<p>- Melhor, mais tempo gozaremos da quinta.</p>
+<p>E tomando o braço de Filipe, D. Joana desceu as escadas que conduziam à quinta.</p>
+<p>- Sabe, minha mãe, que para um empregado demitido é esta uma magnífica vivenda? - disse Rialva, admirando o bom aspecto de quanto o rodeava.</p>
+<p>- Restos de um bem-estar passado - respondeu D. Joana, entranhando-se em uma rua orlada de roseiras todas enfloradas.</p>
+<p>- Que deliciosa habitação! - exclamava Rialva a cada passo.</p>
+<p>- Sigamos na direcção donde nos chega o sussurro do cair da água.</p>
+<p>Rialva atrasara-se de D. Joana alguns passos de distância, tendo-se demorado a colher um botão de rosa que se pendurava em uma das ruas...</p>
+<p>Preparava-se a apressar o passo para alcançar sua mãe, quando viu esta levantar pé ante pé, e com a mão nos lábios como a recomendar-lhe silêncio.</p>
+<p>Filipe parou.</p>
+<p>D. Joana chegou-se a ele e disse-lhe baixinho:</p>
+<p>- Devagar, muito devagar. Dorme alguém ali adiante. Quero preparar-te um belo espectáculo. Devagar!</p>
+<p>E os dois caminharam tão de manso, que mal se escutava o estalar da areia da rua e de uma só folha seca que o vento destacava das árvores.</p>
+<p>- É agora - disse D. Joana, desviando-se para deixar patente a seu filho a vista do largo junto a uma pequena cascata, no qual penetraram.</p>
+<p>Rialva olhou e estremeceu de surpresa.</p>
+<p>Reconhecera Maria Clementina adormecida.</p>
+<p>A mãe e o filho permaneceram silenciosos ante aquele espectáculo.</p>
+<p>Quem o poderia conceber tão belo!</p>
+<p>Languidamente recostada no banco rústico que existia ao lado da cascata, conservara Maria Clementina uma posição naturalmente artística, na qual lhe sobressaíam todas as formas elegantes e correctas daquele corpo flexível e delicado.</p>
+<p>O braço direito, dobrado sob a cabeça e um pouco descoberto, exagerava pela flexão as curvas graciosas e suaves do seu regular contorno; o esquerdo, pendente ao longo do corpo, permitia observar uma mão encantadora. Não era destas pequeninas mãos, galantes como as de uma criança, e que se abrangem em urna só das nossas; reconhecendo a graça desses modelos, confesso que me produzem mais sensação as mãos como as de Maria Clementina. Algum tanto compridas e estreitas, cobertas por uma pele alvíssima e transparente, sob a qual se desenhava uma complicada rede de veias azuladas, tinham estas mãos assim o que quer que seja de distinção e encanto, que atrai as vistas, que as fixa, que as fascina.</p>
+<p>Eu, a respeito de belezas femininas, não sou partidário ardente do galante, do mignon, como os franceses dizem; prefiro-lhe o ar de dignidade e grandeza que se lê em certos tipos, temperado pelo que possui de brandura todo o rosto de mulher verdadeiramente bela. A cabeça de Maria Clementina, um pouco inclinada para trás, descobria, em toda a sua vantajosa forma, o colo, cuja transição para a face e para os seios se fazia por curvas tão disfarçadas e brandas, que a vista insensivelmente deslizava por elas e perdia-se a divagar naqueles lábios, que a respiração entreabria, pousava amorosamente nas suas graciosas comissuras, que se elevavam em um quase imperceptível sorriso, nas pálpebras, que pareciam denunciar o fulgor dos olhos que mal encobriam; ou baixava ardente como insinuando-se por entre o corpilho do vestido, que subia até o pescoço, avaro das belezas que ocultava, e como fascinada por aquele movimento cadenciado e um respirar tranquilo.</p>
+<p>- É ela - disse afinal Filipe, olhando para sua mãe e ainda comovido por sentimentos encontrados que o dominavam.</p>
+<p>- Eu sei! - respondeu D. Joana, continuando a sorrir.</p>
+<p>- Sabe?!</p>
+<p>- Bem vês que te trouxe aqui.</p>
+<p>- Mas... como foi isto?</p>
+<p>- Pediam justiça, enviaste a queixosa para mim. Eu prometi fazê-la. A isso venho.</p>
+<p>- A fazer justiça?</p>
+<p>- Sim.</p>
+<p>- E o ofendido é...</p>
+<p>- E ela e o culpado és tu. Não to diziam há pouco os teus remorsos, Filipe? Ao partires para Lisboa deixaste comprometida a reputação desta menina.</p>
+<p>- Pois acaso...</p>
+<p>- Viram-te descer o muro do jardim...</p>
+<p>- Oh! meu Deus...</p>
+<p>- Desde então a sociedade escrupulosa obrigou-a a procurar esta solidão. Deves supor se lhe terão sorrido os dias passados aqui. E no entretanto tu esquecia-la na capital...</p>
+<p>- Oh! minha mãe... juro-lhe...</p>
+<p>- Não jures, Filipe; ora que vais tu jurar? Confessa, é melhor; e arrepende-te, que é mais nobre.</p>
+<p>- Eu sou um miserável, minha mãe.</p>
+<p>- Que nome tão feio! Agora cais-me em um outro extremo. E preciso emendar o mal feito.</p>
+<p>- E como?</p>
+<p>- De uma maneira possível.</p>
+<p>- Pois quer...</p>
+<p>- Então que é? Hesitas em fazer justiça, quando não hesitaste em cometer a culpa...</p>
+<p>- E consente...</p>
+<p>- Ordeno, se ainda podem ter para ti valor as minhas ordens.</p>
+<p>- Mas essas são para mim uma bênção do Céu, creia-me! - exclamou Filipe, apoderando-se da mão de sua mãe e beijando-lha com efusão.</p>
+<p>Um movimento de Maria Clementina deu a conhecer que ela despertava, enfim, de seu sono tranquilo ao rumor do diálogo, que se travara entre D. Joana e seu filho. Esta correu ao encontro de Maria Clementina, ocultando por este movimento a presença de Filipe.</p>
+<p>- Vª Exª aqui! - disse Maria Clementina sobressaltada ao abraçar D. Joana.</p>
+<p>- Estava a gostar de a ver dormir...</p>
+<p>E depois de a beijar afectuosamente, D. Joana afastou-se, descobrindo assim a figura de Filipe, que se conservara imóvel a distância.</p>
+<p>Maria Clementina, dando com os olhos nele, estremeceu, exclamando:</p>
+<p>- Oh! meu Deus.</p>
+<p>- E meu filho - disse D. Joana, beijando-a na fronte com urna carinhosa solicitude.</p>
+<p>Maria Clementina vacilou, deixou-se cair no banco em que estivera sentada, e pelas faces, que passavam de uma súbita palidez a um intenso rubor, deslizaram as lágrimas que lhe inundavam os olhos...</p>
+<p>Nisto assomava na extremidade de uma das ruas a velha Roberta com o copo de água e chá, que D. Joana lhe pediu.</p>
+<p>Esta correu a encontrá-la para lhe encobrir a turbação dos dois.</p>
+<p>- Agradecida pelo incómodo que teve. Agora faz-me um favor? Ajuda-me a cortar um ramo de japoneiras? - E aproximando-se de Roberta, acrescentou a meia voz:</p>
+<p>- Deixemos sós os dois; este é o tal alferes...</p>
+<p>- E este! - disse Roberta, olhando para Filipe com os olhos espantados e com certa indignação. - E logo foi a ele que eu...</p>
+<p>- Está bom, deixemo-los, que tudo se há-de arranjar.</p>
+<p>- Deveras?</p>
+<p>- Comprometo a minha palavra.</p>
+<p>- É a palavra real... - disse Roberta.</p>
+<p>- Tem razão... não volta atrás - terminou, sorrindo, D. Joana de Rialva.</p>
+<p>E D. Joana, conduzida pela velha, foi efectivamente cortar um ramo de camélias, com grande orgulho de Roberta, que toda se desvanecia em estar colhendo flores para sua majestade.</p>
+<p>Filipe e Maria Clementina ficaram. Esta, vendo afastar-se D. Joana, levantou-se para segui-la; mas viu diante de si Filipe ainda imóvel e atencioso, e as forças faltaram-lhe, deixando-se cair de novo.</p>
+<p>- Ainda poderei esperar de si a minha absolvição, Maria? -disse Filipe aproximando-se da donzela.</p>
+<p>- Pois eu já o acusei? - respondeu timidamente Maria Clementina.</p>
+<p>- Acusa-me a consciência.</p>
+<p>- De que o acusa então? De me ter mentido?...</p>
+<p>- Não, que lhe não mentia quando lhe disse que a amava...</p>
+<p>- Então? De me ter esquecido?</p>
+<p>- Também não. Podia eu esquecê-la?</p>
+<p>- Não sei. Mas de que o acusa a consciência? Diga.</p>
+<p>- De não ter sido eu próprio que há mais tempo tivesse vindo oferecer-lhe a reparação do mal que lhe fiz.</p>
+<p>- Do mal? Pois sabe se me fez mal?</p>
+<p>- Sei. Soube-o agora... de minha mãe.</p>
+<p>- Entendo. E vem oferecer-me uma reparação?</p>
+<p>- Era o meu dever, mesmo quando...</p>
+<p>- É uma generosidade. Mas ouça-me - disse Maria Clementina, levantando-se e caminhando para Filipe, com uma resolução que contrastava com a sua timidez de há pouco. - Eu não posso aceitar um sacrifício.</p>
+<p>- Um sacrifício...</p>
+<p>- Olhe, Filipe, um ano de solidão faz-nos pensar com madureza. Há um ano receberia com alvoroços de alegria as palavras que me disse. Hoje não. Sou culpada para com o mundo. Que me importa! Sou inocente para com a minha consciência. Mas quando mesmo esta me acusasse, acredite que não me moveria a aceitar de si isso que chama o cumprimento de um dever. Deveres! Quem lhos impôs? A sociedade? Eu não lhe pedi que advogasse a minha causa. Eu? Bem vê que não. Tranquilize os escrúpulos da sua consciência; se é ela que o impele a esse passo, desista de obedecer-lhe; eu absolvo-o de toda a responsabilidade. Obrigada, Filipe, mas bem vê que não devo aceitar.</p>
+<p>- E se a voz da consciência se harmonizar neste caso com a do coração?</p>
+<p>- E quem mo há-de assegurar? - disse Maria Clementina, voltando à sua anterior confusão.</p>
+<p>- Incrédula? Exigir provas é renegar a persuasão do amor. Sabe por que há um ano me acreditava e hoje duvida?</p>
+<p>- Porque se passou um ano! E que ano, Filipe! que experiência colhida nestes doze meses passados a sós com o meu pensamento e com o desprezo dos outros...</p>
+<p>- Do desprezo, pois acaso...</p>
+<p>- Oh! Não julgue que lhe falei nisto como uma arguição. Não era o que mais me fazia sofrer esse desprezo; esquecia-me dele. Outra causa movia as minhas lágrimas.</p>
+<p>- E era?</p>
+<p>Maria Clementina calou-se embaraçada.</p>
+<p>Filipe aproximou-se dela, e tomando-lhe a mão insistiu:</p>
+<p>- O que a fazia chorar então, Maria?</p>
+<p>Maria Clementina levantou os olhos húmidos de lágrimas e com um sorriso angélico respondeu suspirando:</p>
+<p>- E pergunta-mo? Chorava, chorava de saudade.</p>
+<p>- Pois lembrava-se de mim?...</p>
+<p>- Duvida, e quer que acredite no seu amor!</p>
+<p>- Se eu era indigno de tanto! E agora...</p>
+<p>- Agora?</p>
+<p>- Por que mudou de pensar?</p>
+<p>- Por que mudei? Eu mudei! E julga que posso deixar de acreditar; julga que me restam forças para resistir a uma tentação! Devia pedir-lhe misericórdia, mas... Nem sei... Olhe, que exige de mim? que diga que o amo?... Pois sim, amo-o, amo-o. Que mais quer? É a minha perdição talvez.</p>
+<p>- E a sua salvação, minha filha - disse D. Joana, que se aproximou de Maria Clementina e a apertou nos braços.</p>
+<p>Nisto ouviu-se tocar a sineta do portão.</p>
+</div><div><head>IX</head>
+<p>EXPLICAÇÕES - NÃO HÁ JUSTIÇA COMO</p>
+<p>A JUSTIÇA DE SUA MAJESTADE</p>
+<p>Os sons vibrantes da sineta interromperam de chofre as carinhosas efusões de D. Joana e Maria Clementina, que se olharam como se perguntassem uma à outra - quem será?</p>
+<p>Em seguida novos e mais rápidos sons se fizeram ouvir, ecoando pelo jardim, indicando que quem tangia a sineta queria ser ouvido e tinha pressa de transpor o portão.</p>
+<p>- Quem será - disse Maria Clementina - que tão apressado se mostra?</p>
+<p>- Deve ser - respondeu D. Joana - seu padrinho e o major, que ficou de estar aqui com ele por estas horas. Filipe conservar-se-á por enquanto aqui fora; a menina quer-me acompanhar ao encontro dos recém-chegados?</p>
+<p>Maria Clementina cedeu o braço a D. Joana, que, apoiando-se nele, caminhou na direcção do portão.</p>
+<p>- Vamos trabalhar no seu futuro; quero dispor tudo antes de partir.</p>
+<p>- Pois quando parte?</p>
+<p>- Depois de amanhã.</p>
+<p>- Já? Tão cedo.</p>
+<p>- Assim me é indispensável. Mas em breve a tomarei a ver em Lisboa. Não é verdade?</p>
+<p>- Em Lisboa?... - disse Maria Clementina, corando.</p>
+<p>- Sim, e bem junto de nós. Sempre desejei ter uma filha. Dou graças por me deparar uma tão boa.</p>
+<p>- Oh! minha senhora - exclamou Maria Clementina, não podendo conter o seu reconhecimento e apoderando-se-lhe da mão, que beijou comovida.</p>
+<p>- Vejo que me aceita por mãe... Obrigada.</p>
+<p>- E é a senhora que me diz obrigada? A mim, que pela primeira vez conheço a ventura que há em ser filha!</p>
+<p>- Pobre menina. Mas vamos, não nos sensibilizemos, que estamos próximos ao último ataque decisivo.</p>
+<p>Esta observação foi sugerida a D. Joana pela vinda de José Urbano, que na companhia do major se aproximava delas.</p>
+<p>- Que agradável surpresa! Vª Exª aqui?</p>
+<p>- É verdade, Sr. José Urbano. Espero que me perdoará esta invasão da sua propriedade.</p>
+<p>- Oxalá que ela se reproduzisse.</p>
+<p>- Mas veja que não me retiro sem paga! - acrescentou, mostrando-lhe o ramo de camélias que colheu.</p>
+<p>- E na verdade só agora que principio a conhecer o preço dessas flores...</p>
+<p>- A benevolência do proprietário anima-me a confessar-lhe que as minhas intenções vão mais longe. Premedito um roubo de mais valor.</p>
+<p>- Vª Exª?</p>
+<p>- É verdade, e receio não lhe encontrar tão boas disposições de mo perdoar como agora.</p>
+<p>- Deveras! - respondeu José Urbano, sorrindo.</p>
+<p>- Vou fazer-lhe a confissão dele, se me quiser ouvir.</p>
+<p>- Com a melhor vontade. Quer Vª Exª entrar?</p>
+<p>- Aceito. Venha, major.</p>
+<p>- Pois também entro na confidência?</p>
+<p>- Não o dispenso.</p>
+<p>Maria Clementina deixou-se ficar um pouco atrás, enleada e confusa, porque previa do que se ia tratar.</p>
+<p>D. Joana aproximou-se dela e disse-lhe a meia voz:</p>
+<p>- Poupo-lhe o dissabor de assistir ao processo; dentro em pouco lhe comunicarei a sentença.</p>
+<p>Maria Clementina retirou-se.</p>
+<p>José Urbano, D. Joana e o major entraram no salão.</p>
+<p>José Urbano tinha um ar prazenteiro, o major puxava o bigode com certo embaraço, D. Joana meditava um plano de campanha.</p>
+<p>Sentaram-se todos.</p>
+<p>- Sr. José Urbano, eu não sou partidária dos rodeios. Costumo ir direita ao fim. O roubo que eu lhe premedito fazer é nada menos que o de sua sobrinha.</p>
+<p>- De minha sobrinha! - repetiu José Urbano, entre sério e risonho, como se esperasse a explicação destas palavras.</p>
+<p>- E verdade. Queria pedir-lha para filha.</p>
+<p>- Como?!...</p>
+<p>- Imagine, Sr. José Urbano, que eu tenho um filho por quem sou doida, perdidamente doida, e que concebi que era Maria Clementina a mulher que lhe podia dar a felicidade que eu ambiciono para ele.</p>
+<p>José Urbano olhava estupefacto para D. Joana, como se não tivesse compreendido.</p>
+<p>- Então diz Vª Exª que...</p>
+<p>- Que lhe peço a mão de sua afilhada para...</p>
+<p>- Mas um projecto tão pouco meditado...</p>
+<p>- Talvez menos do que julga.</p>
+<p>- Menos do que julgo.... - disse José Urbano com manifesta intenção. Seja assim; mas o que Vª Exª me pede não pode realizar-se.</p>
+<p>- Que diz, Sr. José Urbano?! Não posso acreditar que me negue a satisfação de obter o que lhe peço, porque já considero sua sobrinha como minha filha muito amada.</p>
+<p>- Não duvido; mas Maria Clementina, que é um anjo, não pode casar com o filho de Vª Exª, porque se opõem a isso... circunstâncias e melindres que é necessário respeitar.</p>
+<p>E José Urbano carregou de tal maneira o semblante, que parecia indicar à sua interlocutora que não continuasse a falar-lhe naquele assunto.</p>
+<p>D. Joana, porém, pareceu não atentar nisso, e, mostrando-se risonha, continuou, dizendo:</p>
+<p>- Parece-me compreender, Sr. José Urbano, que tem receio de meu filho não ser digno de sua sobrinha, nem capaz de a fazer feliz.</p>
+<p>- Não é isso, minha senhora - interrompeu José Urbano, com vivacidade. - São motivos particulares, que dizem respeito a uma pessoa de minha família, que já não vive e a quem muito amei.</p>
+<p>- Mas - disse D. Joana - se não há desonra para sua sobrinha no enlace dela com meu filho, por que me recusa a sua mão? Dar-se-á que a destine para outro mais digno que meu filho?</p>
+<p>- Não destino, não. Enfim - disse José Urbano, um pouco enfadado -acabemos com isto. Para Vª Exª conhecer a razão da minha negativa, era necessário contar-lhe a minha e a história de minha irmã, que não vive há muito e a quem amei extremosamente. Essa história cansará a paciência de Vª Exª e do Sr. major, que desejo poupar...</p>
+<p>- Conte, conte - disse D. Joana - que nos dará com isso muito prazer. Não é assim, major?</p>
+<p>- Decerto - respondeu este - porque estou ansioso de a ouvir.</p>
+<p>O rosto de José Urbano empalideceu e mostrou-se anuviado de tanta tristeza que causou profunda impressão em D. Joana e no major.</p>
+<p>- Seja como querem - disse por fim José Urbano, depois de ter estado algum tempo silencioso, e como que invocando as recordações do passado. - E doloroso avivar feridas que desejo cicatrizadas, mas não tenho outro meio de acabar com isto. Ouçam:</p>
+<p>«Quando minha mãe morreu, tinha eu vinte anos. Foi em 1818. Até aí, vivera eu como rapaz.</p>
+<p>De pequeno senhor da minha vontade, eu não sabia o que eram sujeições e constrangimentos. Minha mãe era uma santa mulher, que vivia absorvida entre as suas devoções e as suas economias. Os pequenos haveres em bens rurais, que meu pai deixara ao morrer, eram por ela tão bem administrados, que nunca a menor sombra de privações nos veio amargurar a vida.</p>
+<p>Quando morreu, achei-me eu à testa da família. Minha mãe tinha-me dito pouco antes: «Tenho-te deixado gozar a tua vida de rapaz, porque bem sabia que dentro em pouco terias de renunciar a ela. Vê se compreendes o teu dever. Deixo-te uma irmã de oito anos.»</p>
+<p>Aterrou-me ao princípio esta responsabilidade, e o novo encargo fez-me pensar seriamente. Obedeci a minha mãe; desde o dia da sua morte, abandonei a companhia dos meus companheiros de prazer e votei-me de coração ao trabalho. Sentia-me recompensado com a alegria que experimentava quando podia dar um vestido novo a minha irmãzita.</p>
+<p>Cedo as minhas ambições principiaram a crescer. E sempre a mesma história. Já me não contentava com os modestos, mas continuados, proventos que tirava do meu negócio de cereais. Queria lucros mais visíveis.</p>
+<p>O Brasil principiou-me então a sorrir com as suas promessas de riquezas, com que a tantos atrai. Não descansei mais enquanto não realizei o meu intento. Regulei com um negociante meu amigo uma mesada a minha irmã, e deixei-a em companhia da Roberta, que foi ama de nós ambos, e parti.</p>
+<p>Seria curiosa e rica de experiência a história da minha vida no Rio de Janeiro, se o contá-la me não afastasse do fim que tenho em vista. Basta que diga que trabalhei! Trabalhei deveras. Não .me fazia hesitar qualquer trabalho, por penoso que fosse. Recusava apenas as empresas menos honestas.</p>
+<p>Tive que sofrer e muito. Estive no Brasil por ocasião da guerra da independência. Basta que diga isto. Mas a minha perseverança valeu-me e não me deixou soçobrar. No fim de seis anos, aumentava consideravelmente a mesada a minha irmã. No fim de oito, podia-me dizer rico. Mais um ano no Brasil, e voltarei para Portugal, disse eu comigo.</p>
+<p>Não havia dia em que não pensasse nisto com entusiasmo.</p>
+<p>Por meados de 1833, andava eu tratando da liquidação, quando, ainda me lembro bem, recebi de Portugal uma carta tarjada de preto. Abri-a a tremer. Era do negociante meu amigo, participando-me que minha irmã, que havia tempos se achava incomodada, morrera no dia 23 de Julho de 1833, apesar de todos os socorros da medicina.</p>
+<p>Não posso dizer como fiquei quando li esta carta. Caí em tal abatimento, que os médicos agouraram mal da minha vida. Aconselharam-me ares pátrios. Mas eu já não tinha coração para voltar aqui; ao mesmo tempo, a minha vida no Rio de Janeiro era-me insuportável. Terminei a liquidação do meu negócio, e fui viajar.</p>
+<p>Percorri a Europa; durante quatro anos, vivi vida errante e aventureira. No fim deste tempo, conheci que estava cicatrizada a chaga do meu coração, principiaram a crescer em mim uns veementes desejos de voltar à minha terra. A mesma saudade me chamava. Não pude resistir-lhe. Entrei em Portugal em 1837. Quando avistei a casa onde eu nascera e onde vivi com minha irmã, senti uma profunda comoção interior. Vir encontrá-la vazia, sem aquela linda menina, que eu deixara de dez anos a brincar, que viera à janela ver-me dobrar a esquina quando eu parti, para a não tomar a ver! E, pensando isto, eu parei defronte da casa a olhá-la e sem forças que me levassem mais adiante. Quando de repente - que ilusão aquela, meu Deus! - a mesma janela se abriu, e ela... a minha irmã, tão pequena como eu a deixara, se encostou ao peitoril, olhando-me exactamente como me olhava dantes.</p>
+<p>Eu não pensei no impossível da visão. Acreditei nela. Corri, corri como um louco, e bati à porta, gritando:</p>
+<p>- Abre, Roberta, abre... minha irmã ainda está viva!... Eu logo vi que não podia ser.</p>
+<p>Roberta veio-me abrir a porta a tremer. Não sei como ela me reconheceu nem o que me disse. Eu estava alucinado.</p>
+<p>- Deixa-ma ver, deixa-ma ver! Para que me tinham dito que ela morrera?</p>
+<p>Não posso dizer como corri e o que se passou; lembra-me que dentro em pouco tempo eu abraçava e beijava uma bonita criança de dez anos, julgando beijar minha irmã. E ela também me abraçava, sorrindo e a chorar... a pobre pequena. Porém, a ilusão passou; a razão voltou-me, reconheci que havia nisto tudo um engano. Mas a semelhança era tanta! Um ar de tristeza se apoderou de mim; e voltando-me para Roberta, que chorava a um canto, perguntei-lhe:</p>
+<p>- Quem é esta menina, Roberta?</p>
+<p>- É sua sobrinha, filha de sua irmã.</p>
+<p>Dei um salto, como se aquelas palavras me atravessassem o coração. Um relâmpago terrível me iluminou o espírito; ia a passar das carícias talvez a alguma crueldade, quando aquele anjo, ouvindo as palavras de Roberta, exclamou:</p>
+<p>- Ai, pois, é este o meu tio! e saltou-me ao pescoço, beijando-me com meiguice. Desarmou-me; desatei a chorar, e não pude deixar de a apertar ao coração.</p>
+<p>Passados poucos instantes, Maria retirou-se para ir buscar flores, disse ela, e eu fiquei só com Roberta. Voltou-me o ar sinistro que aquela criança me havia conjurado, e disse a Roberta que me contasse a história de minha irmã. A história era curta.</p>
+<p>- A infeliz foi enganada por um infame, que, abusando da sua inocência, fora a causa do seu infortúnio e da sua morte.</p>
+<p>- E era assim que vigiavas pela irmã que eu te confiei, Roberta?</p>
+<p>A pobre mulher respondia-me chorando.</p>
+<p>Mas a voz da minha consciência acusava-me mais do que a ela. Eu é que não devia ter abandonado a irmã, para satisfazer ambições desmedidas. Agora, cumpre-me chorá-la e proteger-lhe a filha melhor do que a protegera a ela. Pobre criança! Quem podia deixar de querer-lhe? Ela reproduziu-me as venturas que eu julgava perdidas para sempre. Nela cri renascer minha irmã. E por isso a amei. Amei-a logo e cada vez mais! E veja como parece a sorte perseguir-me; durante meses que tive de passar no Porto, por pouco a não ia sacrificando, e lhe causei, sem querer, um mal irremediável! Está terminada a história de Maria Clementina.</p>
+<p>A sorte infeliz da minha irmã era muito notória, para que eu pudesse viver feliz na minha terra. Vim por isso para Braga, deixando Barcelos, onde nascera, com vivas saudades.»</p>
+<p>- Barcelos! - exclamou o major, que havia momentos não podia dissimular a sua agitação.</p>
+<p>- Sim - respondeu José Urbano - julgava ter já dito que tinha sido em Barcelos que eu nasci. Agora, já vê Vª Exª a razão por que eu há pouco lhe dizia que a proposta que se dignou fazer era impossível. Maria Clementina é filha ilegítima e eu não conheço o pai.</p>
+<p>- Não conhece? - perguntou D. Joana com interesse.</p>
+<p>- Nunca me puderam dar sinais dele. Em Roberta encontrei sempre uma reserva, nesse ponto, que me fez julgar ser recomendação de minha irmã. Sei apenas que era um militar, um dos muitos que por aqueles tempos (foi em 1832) cobriam o reino. Era vida de guerra a de então... algum aventureiro, que nunca mais se lembrou da vileza que cometera, nem talvez mesmo ao cair no campo atravessado por uma bala inimiga.</p>
+<p>- Sua irmã chamava-se...? - perguntou o major com voz alterada.</p>
+<p>- Maria Luísa - respondeu José Urbano.</p>
+<p>O major não se pôde vencer. Olhando para Maria Clementina, que passeava então no terraço adjacente, exclamou, juntando as mãos:</p>
+<p>- Justo Deus! pois eu tinha uma filha?</p>
+<p>Esta exclamação do major fez estremecer José Urbano, que empalideceu. D. Joana ergueu-se também sobressaltada.</p>
+<p>- Sr. José Urbano - disse o major, comovido - o militar, o aventureiro, o miserável que acusou, sou eu; não ficou atravessado por uma bala no campo de batalha, mas por muito tempo o conservou em um leito de doença, e quando se ergueu foi seu primeiro pensamento a mulher que verdadeiramente amara; disseram-lhe que tinha morrido, mas nunca ele soube que lhe ficara uma filha. Ai, se o soubesse! Eu, que tantas vezes me atormentava na minha solidão vazia de afectos... Se eu suspeitasse que existia na terra aquele anjo! - E o major juntava as mãos, olhando para Clementina.</p>
+<p>José Urbano conservava-se mudo e taciturno.</p>
+<p>- Quando mesmo Maria Clementina não tivesse achado um pai - disse D. Joana - não julgue que eu desistiria do meu pedido, Sr. José Urbano. Mas agora parece-me que cessam da sua parte todos os escrúpulos.</p>
+<p>José Urbano ergueu a cabeça e, fitando o major, disse:</p>
+<p>- Ainda bem, major Samora, que só nos reconhecemos na idade em que se apagaram os fogos da juventude; ainda bem.</p>
+<p>- Então, é a ambos que peço a mão de Maria Clementina para meu filho... - disse D. Joana; seja esta união a que faça desvanecer a nuvem que parece meter-se entre os senhores. Dêem as mãos como amigos. Vamos.</p>
+<p>O major ficou quieto, e José Urbano caminhou para ele com as mãos estendidas.</p>
+<p>- Acredito, major, que foi leviano, mas não foi vil. Minha irmã mandar-me-ia perdoar.</p>
+<p>Os dois apertaram as mãos.</p>
+<p>Dentro em pouco tempo, eram tudo abraços na sala de José Urbano.</p>
+<p>A um sinal de Joana, Maria Clementina entrara em casa, conl o coração alvoroçado e as faces tingidas de rubor.</p>
+<p>Filipe, que entendeu também o sinal de sua mãe, seguia a pequena distância. Quando Maria Clementina entrou, D. Joana foi-lhe ao encontro, e tomando-a pela mão levou-a junto do major.</p>
+<p>- É de justiça que seja para o major o primeiro abraço - disse D. Joana.</p>
+<p>O major tremia ao abrir os braços a Maria Clementina, e a custo exclamou:</p>
+<p>- Minha filha!</p>
+<p>Maria Clementina olhava com estranheza.</p>
+<p>José Urbano disse-lhe, comovido, apontando para o major:</p>
+<p>- Podes abraçá-lo, Micas, é teu pai... Filipe entrou neste momento.</p>
+<p>Maria Clementina achava-se nos braços do major, desfeita em lágrimas, mal compreendendo ainda o que se passava.</p>
+<p>Samora, que não se fartava de a abraçar, disse, meio a rir meio a chorar, para Filipe, que o olhava estupefacto:</p>
+<p>- E o complemento daquela minha história; eu tinha uma filha... Era esta... este anjo.</p>
+<p>E desprendendo-a dos braços, acrescentou:</p>
+<p>- Como vamos ser felizes todos!</p>
+<p>José Urbano aproximou-se de Filipe, e disse-lhe:</p>
+<p>- E tem fé que a tomará feliz?</p>
+<p>- Quanto a puder fazer um amor verdadeiro.</p>
+<p>- Ora não desanimem então.</p>
+<p>Imaginem as efusões mútuas que se seguiram.</p>
+<p>Ao entrar Roberta na sala, o major foi-lhe ao encontro, exclamando:</p>
+<p>- Roberta ! Lembra-se ainda do alferes Clemente Samora?</p>
+<p>- Santo nome de Deus! Que nome foi dizer! - exclamou a velha, olhando para seu amo com ar de mistério e susto.</p>
+<p>- Saiba que ele vive ainda, e que encontrou sua filha, a que abraço agora...</p>
+<p>- Quê?... pois então... E verdade que tem avultações. Mas... santo nome!... Santo... então?</p>
+<p>- Então, este dia é um dia de ventura. Achei minha filha, e exactamente na ocasião de encontrar também um filho no melhor rapaz do exército.</p>
+<p>- Oh! major!</p>
+<p>Os dois militares apertaram as mãos afectuosamente.</p>
+<p>- Ah! pois já está tudo arranjado? - exclamou Roberta, exultando de contente.</p>
+<p>- Tudo, graças ao seu expediente, Roberta. Pode ufanar-se de ter feito a felicidade de seus amos.</p>
+<p>- Como? - perguntou José Urbano.</p>
+<p>- Ora como? - disse Roberta - indo a fonte limpa. Quem pode...</p>
+<p>- Psiu ! ... - disse D. Joana, olhando-a com mistério.</p>
+<p>- Ah! pois ele não sabe ainda? - murmurou Roberta, olhando para seu amo com ar de mistério. - Não importa; eu não posso deixar de bradar: Viva a sua majestade a rainha!</p>
+<p>A saudação foi jovialmente acolhida.</p>
+<p>Do mais que se seguiu, deixo-o à imaginação do leitor concebê-lo.</p>
+<p>D. Joana partiu no dia seguinte para Lisboa.</p>
+<p>O major Samora, Filipe, José Urbano e Maria Clementina seguiram-na passados oito dias.</p>
+<p>O casamento fez-se na capital, onde os noivos ficaram residindo na companhia do major, que remoçava com o inesperado sucesso, e recebendo visitas amiudadas de José Urbano, que reside ainda em Braga. Roberta vive na firme persuasão que foi a rainha D. Maria II quem interveio no casamento dessa menina, e toda ufana repete muitas vezes, com grande prazer de José Urbano.</p>
+<p>- Aqui está quem deslindou este negócio todo. Não fora eu, que ainda hoje estaríamos como dantes: eu nem sei o que seria. Não há justiça como a justiça de sua majestade.</p>
+</div>
+</body>
+</text>
+</TEI>
