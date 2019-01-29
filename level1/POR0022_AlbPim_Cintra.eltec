@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="PT0022" xml:lang="pt">   
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0022" xml:lang="pt">   
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>A feiticeira</title>
+        <title>Noites de Cintra</title>
         <author>Pimentel, Alberto (1849-1925)</author>
         <respStmt>
            <resp>Original HTML capture</resp>
