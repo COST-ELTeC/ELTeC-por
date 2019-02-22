@@ -1,0 +1,39 @@
+id,author-name,book-title,subgenre,year,year-cat,canon-cat,gender-cat,length,length-cat,counter
+POR0001,Dinis,,foo,????,T2,high,M,96500,medium,1
+POR0002,Castro Osório,,foo,1908,T4,medium,F,17161,short,1
+POR0003,Herculano,,foo,????,T1,high,M,130495,long,1
+POR0004,,,foo,????,T1,high,M,70856,medium,1
+POR0005,,,foo,????,T3,high,M,218665,long,1
+POR0007,Dinis,,foo,????,T2,high,M,124359,long,1
+POR0008,,,foo,????,T4,high,M,218665,long,1
+POR0009,,,foo,????,T3,high,M,142688,long,1
+POR0010,,,foo,????,T2,high,M,51524,medium,1
+POR0011,,,foo,????,T2,high,M,117069,long,1
+POR0012,,,foo,????,T2,high,M,49196,medium,1
+POR0013,,,foo,????,T4,high,M,45630,short,1
+POR0015,Dinis,,foo,????,T2,high,M,124359,long,1
+POR0018,Almada Negreiros,,foo,1917,T3,medium,M,13227,short,1
+POR0019,Sá-Carneiro,,foo,1914,T4,medium,M,26954,short,1
+POR0020,Botelho,,foo,1917,T4,low,M,80661,medium,1
+POR0021,,,foo,1888,T3,medium,M,26429,short,1
+POR0024,Campos,,foo,1873,T2,low,M,27681,medium,1
+POR0025,Rodrigues,,foo,1870,T2,low,M,59170,medium,1
+POR0027,Mascarenhas,,foo,1873,T2,low,M,58236,medium,1
+POR0028,Lima,,foo,1875,T2,low,M,26305,short,1
+POR0029,Macedo,,foo,1876,T2,low,M,25603,short,1
+POR0030,Castilho,,foo,1903 (1861),T2,medium,M,47982,medium,1
+POR0031,Brandão,,foo,1897,T3,medium,M,51406,medium,1
+POR0032,Lima,,foo,1899,T3,medium,M,76520,medium,1
+POR0033,Albergaria,,foo,1904,T4,medium,M,121709,long,1
+POR0034,Melo,,foo,1903 (1874),T2,medium,M,54838,medium,1
+POR0037,Campos Junior,,foo,1905,T4,medium,M,238762,long,1
+POR0038,Herculano,,foo,1846,T1,high,M,12144,short,1
+POR0040,Lousada,,foo,1857,T1,medium,M,38173,short,1
+POR0042,,,foo,????,T4,high,M,61600,medium,1
+POR0057,Almeida,,foo,1881,T3,medium,M,24147,short,1
+POR0061,Plácido,,foo,????,T3,low,M,48764,medium,1
+POR0066,Castro e Almeida,,foo,????,T4,medium,F,12174,short,1
+POR0068,Campos,,foo,????,T4,medium,F,50386,medium,1
+POR0069,Sousa,,foo,????,T2,low,F,19172,short,1
+POR0074,O'Neill,,foo,????,T4,low,F,16750,short,1
+PT0056,Moderno,,foo,1892,T3,low,F,20683,short,1
