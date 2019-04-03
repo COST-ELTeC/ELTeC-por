@@ -55,12 +55,12 @@
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
 <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-02-05">Nada</change>
+<change when="2019-04-03">Adicionei a data correta</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
