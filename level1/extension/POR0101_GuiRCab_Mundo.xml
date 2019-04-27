@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0101" xml:lang="pt">   
+<teiHeader >
+<fileDesc>
+     <titleStmt>
+        <title>Um novo mundo</title>
+        <author>Cabral, Guilherme Read (1821-1897)</author>
+        <respStmt>
+           <resp>Original HTML capture</resp>
+       <name>Pedro Saborano</name>
+       </respStmt>
+       <respStmt>
+         <resp>ELTeC encoding</resp>
+         <name>Diana Santos</name>
+      </respStmt>
+   </titleStmt>
+<extent>
+<measure unit="words">9413</measure>
+<measure unit="pages">55</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>27 de abril de 2019</date>. </p>
+</publicationStmt>
+
+  <sourceDesc>
+  <bibl>
+     <title>Project Gutenberg EBook Um novo mundo</title>
+     <ref target="http://www.gutenberg.org/ebooks/31573"/>
+     <relatedItem type="copyText">
+       <bibl>
+       <title>Um novo mundo</title>
+       <author>Guilherme Read Cabral</author>
+       <publisher>Typographia Esperança</publisher>
+       <pubPlace>Funchal</pubPlace>
+       <date>1895</date>
+       </bibl>
+     </relatedItem> 
+  </bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p></p>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2018-11-15">Nada</change> 
+</revisionDesc>
+</teiHeader>
+<text xml:lang="pt-PT">
+<front>
+
+
+
+<div type="titlePage"><head>A casa dos fantasmas</head>
+<p>VOLUME I</p>
+</div>
+</front>
+<body>
+<div><head>A MEUS NETOS</head>
+<p>Se este pequeno trabalho, embora de phantasia, na parte romantica, não fosse elaborado sobre bases scientificas, alargadas pela imaginação, mas com verdades reveladas por exploradores e escriptores modernos de notavel capacidade; eu não lh'o dedicava.</p>
+<p>Quando tiverem mais idade, saberão descriminar a realidade do que é ficção, como poderá fazer todo o leitor intelligente e approveita algumas noções pouco vulgarisadas.</p>
+<p>Funchal, em 23 de junho de 1895.</p>
+<p>O author.</p>
+<p><pb n="4"/></p>
+<p><pb n="5"/></p>
+<p>UM NOVO MUNDO</p>
+<p>Atravessando, ha pouco, a França, em direcção á Allemanha aonde me chamavam negocios importantes, demorei-me vinte e quatro horas em Lyon.</p>
+<p>Acabava de entrar em um dos magnificos restaurants d'esta cidade, quando tomou logar a uma meza proxima á minha, um individuo que pediu café e charutos.</p>
+<p>Aquella voz despertou-me recordações de um amigo de collegio, reputado morto havia seis annos. Ergui instinctivamente a vista de cima do jornal que estava começando a ler e encarando com elle, exclamei, levantando-me e dirigindo-me para o seu lado, «é impossivel que não seja Luiz de....!»<pb n="6"/></p>
+<p>-- Carlos! exclamou elle, por seu turno.</p>
+<p>Um abraço removeu todas as duvidas, se algumas já podessem existir.</p>
+<p>-- Aonde, não me dirás tu, tens estado desde que foste dado como victima dos teus exercicios natatorios; e qual a razão do teu mysterioso desapparecimento?</p>
+<p>-- Não é este o logar, retorquiu elle, para te contar uma historia quasi inacreditavel, mas verdadeira. É um caso extraordinario, unico, desde a existencia do mundo.</p>
+<p>Vem a minha casa; só ahi, te posso fazer essa revelação.</p>
+<p>Em quanto vamos pelo caminho, quero informar o leitor de algumas particularidades d'este meu amigo intimo e condiscipulo.</p>
+<p>Desoito annos mais completos, tanto no moral como no physico, dificilmente se encontram.</p>
+<p>A elegancia de formas, a correcção das linhas do rosto, e a elasticidade de membros, reunidos a grande vigor muscular, estavam em perfeita harmonia com a nobreza de sentimentos e bondade do coração.</p>
+<p>Nada sociavel, era conhecido pelo «misanthropo.»</p>
+<p>Era-lhe indifferente o juizo que formavam do seu caracter, com tanto que o deixassem entregue aos estudos scientificos e á pintura. Destes trabalhos, um só divertimento o distrahia: era<pb n="7"/> a natação, e n'este exercicio ninguem o igualava: conservava-se tanto tempo debaixo d'agua que parecia ter uma organisação priviligiada.</p>
+<p>Só tu me comprehendes, dizia elle, e só comtigo me abro.</p>
+<p>Quer, admirando os esplendores dos ceus, ou mergulhando a vista nas aguas do Oceano, dizia com desprezo -- «misera humanidade, que nunca saberás o que são, e para que são, aquellas centenas de milhões de astros que rolam séculos sem fim no espaço, obedecendo a leis immutaveis. Frageis creaturas que somos! Nem ao menos, no nosso proprio planeta, sabemos o que existe no seio da terra, nem o que occultam os oceanos com oito e dez mil metros apenas de profundidade!</p>
+<p>A sciencia diz-nos que o astro da noite é um planeta sem vida, destinado a illuminar-nos de noite e a regular, por uma forma mysteriosa e por isso contestada, varios phenomenos da vida animal e vegetal e o curso das aguas dos oceanos. Diz-nos que os mais astros do nosso systema plenetario são fragmentos apenas d'aquella massa colossal em fusão, o sol, e que, por infinitamente mais pequenos, esfriaram no decurso de séculos, em quanto que o astro rei, tarde ou nunca esfriará, porque é a luz e a vida d'esses pedaços que elle cuspiu para o espaço e que, pela força centrifuga e centripeta,<pb n="8"/> giram perpetuamente em orbitas inalteraveis.</p>
+<p>Tão admiravel, como incomprehensivel; e mais incomprehensivel ainda, essa infinidade d'estrellas, bastas como as areias das praias, que são outros tantos soes, illuminando os seus mundos, invisiveis para nós; soes de todas as côres e, talvez, de natureza differente.</p>
+<p>Que espectaculo não deve ser o do Universo aos olhos do creador!</p>
+<p>Depois, voltando-se para o Oceano, dizia: Carlos! Eu quando profundo mais do que ninguem estas aguas, vejo o sufficiente para julgar da riqueza da flora e da fauna dos mares que augmenta á proporção que descemos aos seus recessos aonde nunca chegaremos.</p>
+<p>Apenas a sonda nos traz um ou outro spécimen das opulencias submarinas.</p>
+<p>Wyville Thompson, no Challenger, em 1873, investiga os mares do Atlantico e do Pacifico e descobre nas grandes profundidades peixes privados do orgão visual. D'aqui deduziu a sciencia que essa faculdade se fazia desnecessaria aonde havia perpetua escuridão, por isso que os raios solares penetravam a pequena distancia da superficie.</p>
+<p>Seguem-se a expedição ingleza do Valerous em 1875, e a Scandinava do Vortigen em 1876; e em 1877 e 78, a Americana do Blake.</p>
+<p>Em 1880 e 82, o navio francez, Le Travailleur,<pb n="9"/> profunda o golpho da Biscaia, o Mediterraneo e o Atlantico; e em 1883, Le Talisman, munido de apparelhos mais aperfeiçoados e sob a direcção de Alphonse de Wilne Edwards, sonda os mares do Atlantico.</p>
+<p>É n'estas derradeiras explorações que a sciencia, até então na persuasão que a vida organica, devido á pressão e falta de claridade, não podia existir a mais de 560 metros da superficie, revela-nos que, na profundidade de 4500 metros, a pressão nada influe sobre a vida animal, e que, pelo contrario, os seres que habitam o fundo dos mares, trazidos pelas rêdes automaticas á superficie, chegados que são a certa altura, é a propria falta de pressão que lhes dilata os olhos, lhes escancara extraordinariamente a bocca, fazendo expellir as entranhas, ou os esmaga e desfaz, á semelhança do que succede ao areonauta quando sobe a regiões aonde a atmosphera rareia e por falta de compressão, golfa-lhe o sangue pelos olhos, nariz, ouvidos e bocca.[1]<pb n="10"/></p>
+<p>Conheceu-se então que a claridade do sol, nulla n'aquellas profundidades, é substituida pela phosphorescencia animal.</p>
+<p>As estrellas do mar, da especie Ophiacanthia Spinosa, transmittem uma luz brilhante esverdeada.</p>
+<p>Outros muitos viventes, em perpetuo movimento, levam a toda a parte uma luz phosphorecente natural. Os olhos de certos peixes são dotados d'ella, e serve-lhes de pharol nas suas perigrinações, illuminando as aguas, menos abundantes de vida, e attraindo seres de que se alimentam, do mesmo modo que o nosso pescador se vale da luz do candeio.</p>
+<p>Ainda mais; longe, como se supponha, de que a vida organica, por falta de luz, deveria ser destituida de côr, conheceu-se que as côres são, pelo contrario, vivissimas e espantosa a sua variedade n'aquelles grandes abysmos.</p>
+<p>A sciencia está longe de nos dizer a ultima palavra; mas o que nos ensina é já bastante para imaginar o que deverá ser a vida n'aquelles recessos das aguas.</p>
+<p>O homem descobriu o meio de se elevar á região das aguias; mas jamais romperá a crusta<pb n="11"/> do globo a devassar os segredos das suas entranhas, não! que Deus não o fez dos metaes preciosos ahi amontoados, mas sim do barro da superficie, ao qual, por affinidade de condições, está eternamente agrilhoado. Assim discorria Luiz de.... a quem vamos escutar a historia mais singular, mais extraordinaria até hoje conhecida.</p>
+<p>-- Eis-nos chegados, me disse elle, abrindo uma grade de ferro que separava a casa de um jardim esmeradamente cultivado e rescendente de perfumes das flôres que até a propria frente do edificio cobriam.</p>
+<p>-- Parece-me um ninho de fadas, Luiz! Vaes-me apresentar, sem duvida, á divindade d'este sanctuario d'amor!</p>
+<p>-- Nada d'isso; Carlos! retorquio elle com um sorriso repassado de amargura. Nas minhas horas vagas procuro distrair-me com as singellas producções da terra, já que as de um mundo que não é do homem, só vivem nas minhas recordações.</p>
+<p>-- Sempre com o pensamento no ignóto; no impossivel; Luiz! Nem os annos poderam mudar a tua original natureza!</p>
+<p>-- Do ignóto! dizes tu! e um novo sorriso, mas d'esta vez ironico, assomou-lhe aos labios.</p>
+<p>Abriu-me então uma sala adornada de quadros soberbos, mas da mais requintada phantasia.<pb n="12"/></p>
+<p>-- És o primeiro, e serás o ultimo a penetrar n'este recinto, Carlos!</p>
+<p>Era um elegante atelier de pintor.</p>
+<p>Luiz fôra sempre distincto na pintura para a qual tinha um talento natural; porem a mais caprichosa imaginação reinava em tudo quando eu estava vendo.</p>
+<p>A téla reproduzia o trabalho; a fadiga, deixe-me assim dizer, de um cérebro febril e exaltado.</p>
+<p>-- Estes quadros são provavelmente, a reproducção fixa d'esses teus sonhos d'outróra?</p>
+<p>-- Não senhor! É da realidade!</p>
+<p>Voltei-me para elle, e o meu olhar obrigou-o a dizer-me:</p>
+<p>-- «Sem duvida, julgas-te na presença de um mentecapto!»</p>
+<p>-- Em quanto te tinha como phantasista, ou para melhor dizer, -- o nephelibata da pintura -- não passavas de originalismo, mas quando me queres impôr que tudo isto é verdadeiro, francamente, não me parece que estejas no teu juizo perfeito.</p>
+<p>-- D'essa maneira, de que me serve contar-te a historia representada n'estes quadros?</p>
+<p>Ter-me-has na conta de um improvizador, e não sei mesmo, se de intrujão.</p>
+<p>-- Tudo, menos isso, Luiz!</p>
+<p>Conheço demais a seriedade do teu caracter: mas não haverá no teu espirito uma illusão,<pb n="13"/> filha dos teus insaciaveis desejos de penetrar os mysterios vedados á nossa investigação?</p>
+<p>-- Não, Carlos! Estes quadros são as memorias vivas do que me foi dado ver!</p>
+<p>-- O que homem! O centro da terra, e o fundo dos mares?</p>
+<p>Agora começo a duvidar da tua sanidade intellectual! Como queres tu que eu tenha por realidade, este quadro, por exemplo, em que vejo a tua figura, pois evidentemente o é, com o trajo de banho que usavas, olhando com pasmo um espaço enorme illuminado, segundo julgo, a luz electrica; arcarias cristallinas a perder de vista, um lago sem fim que parece de prata liquida, um arvoredo exótico, esplendido, e junto de ti, encarando-te como em extasis, uma rapariga gentilissima, linda como pode ser um anjo!</p>
+<p>Que matizado tapete é este que se desenrola em toda a extensão do quadro? Nunca a Persia produziu uma maravilha igual. E esta claridade, suave como a da lua, que penetra, sem produzir sombras, todos os pontos mais reconditos d'este phantastico recinto!</p>
+<p>Pois tudo isto é real!</p>
+<p>-- É! respondeu-me elle; imperativamente.</p>
+<p>Havia um tom d'authoridade n'aquella affirmativa que me fez emmudecer.</p>
+<p>-- Senta-te; me disse elle, e escuta-me. Por mais extraordinarios que te pareção os acontecimentos<pb n="14"/> que vou narrar, peço-te que me tenhas na conta de verdadeiro. O mundo dava-me por doudo varrido, bem sei; e é por isso que este segredo morreria comigo se o acaso nos não aproximasse mais uma vez na vida.</p>
+<p>-- Descança, Luiz, lhe respondi: serei mudo como o tumulo.</p>
+<p>-- Não me opponho a que divulgues a minha singularissima aventura, pois poderá servir de proveito, com tanto que supprimas a minha individualidade.</p>
+<p>Sabes, continuou elle, quanto eu lamentava não poder arrancar ao seio das aguas e ao centro da terra os seus mysterios! Pois bem! Um dia, precisamente a vespera d'aquelle em que desappareci, tinha-me lançado ás aguas, mergulhando a grande profundidade, como era meu costume, para admirar as plantas da costa submarina e a variedade de peixes que o pescador não apresenta no mercado.</p>
+<p>De subito; pareceu-me distinguir um rosto humano e uns olhos que me espreitavam com curiosidade e interesse.</p>
+<p>Veio-me á idea a lenda das sphinges, meio corpo de mulher e meio de peixe, ideia tão repellente, quanto attractiva era a espressão d'aquelle rosto.</p>
+<p>Era-me, porém, precizo ganhar a superficie para renovar os pulmões de ar.<pb n="15"/></p>
+<p>Quando desci pela segunda vez, o mysterioso ser tinha desapparecido.</p>
+<p>Não sei que influencia exercêra sobre mim tão singular apparição.</p>
+<p>Queria profundar aquelle mysterio e temia-o ao mesmo tempo.</p>
+<p>Não se me tirava da imaginação: sentia-me fatalmente arrastado para a borda do mar, mas, por cautella, armei-me de punhal que cozi pela bainha, ao fato de banho.</p>
+<p>Nada me assegurava que fosse um ser inofensivo, e devia ir preparado para o peior.</p>
+<p>Quando cheguei á maxima profundidade, la estava o ente mysterioso; não, como na vespera, em distancia, mas proximo.</p>
+<p>Corpo mais gentil, rosto mais seductor, não podia existir.</p>
+<p>A Sphinge desappareceu immediatamente da minha imaginação. Fiquei como enfeitiçado!</p>
+<p>O mysterioso, como deves lembrar, tinha sobre mim um poder magico. Não senti, senão já tarde, a necessidade de respirar: um desfallecimento apoderou-se de mim, era a asphyxia: perdi os sentidos, mas não sem perceber que estava sendo impetuosamente impellido para o fundo.</p>
+<p>Quando os recuperei, achei-me acolá, aonde me vês, extendido sobre uma alfombra de fino musgo matizada pela Alternánthera e outras flôres lindissimas de variadas côres, e, curvada<pb n="16"/> sobre mim, estava a mais encantadora e sympathica creatura imaginavel.</p>
+<p>Puz-me de pé: -- Olhei maravilhado para ella e para tudo que me rodeava.</p>
+<p>Uma abobeda descommunal, cristalina, reflectindo a luz suave que vês n'aquelte quadro e illuminando soberbas arcarias perdidas na distancia, brancas como jaspe; e, sem se conhecer os limites, um lago que parecia de azougue, reproduzindo na sua superficie refulgente de aguas adormecidas, as sumptuosas naves e a vegetação esplendida d'esta archicathedral.</p>
+<p>Miragem admiravel!</p>
+<p>Passado o primeiro momento de espanto voltei-me para a minha companheira a pedir-lhe me dicesse, se não era ella a Eva legendaria, perpetuada atravez dos séculos, tal como Deus a pozera no paraiso, e se o que estava vendo não fazia parte do proprio Eden.</p>
+<p>Não só conservou-se calada, mas demonstrou surpreza quando fallei.</p>
+<p>Repeti a minha pergunta em outras linguas, e sempre a mesma mudez.</p>
+<p>Rodeava-a um bando de cabras. Tomando de cima do enflorado tapete uma concha, que primeiramente passou pelas aguas limpidas de um arroio que corria perto de nós, mugiu uma cabrinha alva de neve e offereceu-me aquella rustica taça, acenando-me para beber do precioso leite.<pb n="17"/></p>
+<p>Seria ella muda?</p>
+<p>Embora o fosse, a minha admiração da sua belleza attractiva redobrava de momento para momento.</p>
+<p>Tomei, reconhecido, as suas mãos nas minhas e ella abraçou-me sem constrangimento. Uni-a a mim e beijei-a.</p>
+<p>A expressão de amor com que ella me olhava era mais eloquente do que quanto podesse exprimir a palavra.</p>
+<p>Sobre nós espraiavam-se as largas e magestosas folhas da Muza, cujos esplendidos cachos de côr dourada beijavam o chão.</p>
+<p>A Passiflora, com seus fructos roxos, e outras trepadeiras lindissimas em flôr, enlaçavam-se aos troncos.</p>
+<p>Palmeiras elegantissimas, com seus differentes fructos, erguiam-se magestosas. A Vanilla, com suas perfumadas e deliciosas bages, arvores de fructo de que não tinha conhecimento, a Vanda, a Begonia, e outras plantas ornamentaes que n'aquelle ambiente tépido e inalteravelmente tranquillo, floresciam como nas nossas estufas na maxima perfeição.</p>
+<p>Afastando-se então, por momentos, ella preparou uma refeição composta de leite, fructos varios, entrando n'este numero os da Muza, das Palmeiras, e outro que tomei pela fruta pão de que ouvira já fallar, e o côco. A fruta pão cortava ella com a lamina afiada de uma<pb n="18"/> concha alongada, prova evidente de que não possuia instrumento algum proprio para estes usos.</p>
+<p>Indicando então o côco, perguntei-lhe, por meio de gestos, como lograria ella fender e separar o tegumento filamentoso e resistente d'aquelle encouraçado fructo.</p>
+<p>Estendendo então a mão, ella tirou d'entre o massiço esponjoso da relva um machado.</p>
+<p>Examinei-o: era de Silex!</p>
+<p>Fez-se-me, instantaneamente, luz.</p>
+<p>Estava no interior do globo, e tinha diante de mim uma descendente do homem primitivo, d'essa raça da idade da pedra; d'esse genesis da humanidade em que a vontade e o pensamento ainda se não traduziam pela palavra.</p>
+<p>E que importava; se eu tinha a existencia ligada áquella creatura divina!</p>
+<p>N'aquelle modelo, ainda cinzelado pela mão de Deus, eu via a typica puresa das obras do Creador, até mesmo na ingenuidade da alma.</p>
+<p>O angulo frontal, levemente accentuado, reforçava, com a engraçada saliencia das sobrancelhas, o brilho e expressão dos olhos.</p>
+<p>Eu lia n'elles o seu pensamento, como, atravez das aguas cristalinas d'um ribeiro, se distingue os seixos e os lichens do fundo.</p>
+<p>A cutiz assetinada e côr de perola tornava-a adoravel.<pb n="19"/></p>
+<p>Cahi-lhe aos pés, como ante uma divinidade. Parecia-me vir das proprias mãos de Deus, pura como um anjo.</p>
+<p>Chegou-me a fronte junta ao seio: olhou-me com inexprimivel amor, e um beijo d'aquelles castos labios foi o sello de uma paixão intensa, inextinguivel, Carlos, no meu coração dilacerado por uma dôr infinita.»</p>
+<p>N'este ponto o meu pobre amigo levou as mãos á face como para desvenecer uma visão. Eu já não punha em duvida a veracidade da narração.</p>
+<p>Releva-me, continuou elle, esta fraqueza, Carlos; mais adeante saberás a sua causa.</p>
+<p>Apertei-lhe silenciosamente a mão: comprehendêra que elle a tinha perdido, e que o tempo não apagára aquella immensa saudade.</p>
+<p>-- «Depois d'admirar a grandiosa magnificencia de tudo quanto me rodeava, ella encaminhou-me para outro ponto.</p>
+<p>No nosso caminho ficava uma arvore singular: os ramos despidos de folhagem e o tronco offereciam as disposições artisticas de um candelabro. Querendo examinal-a de perto fui-me approximando, quando, de repente, sinto-me bruscamente desviado por ella: o seu gesto fez-me conceber a idea de um perigo qualquer.</p>
+<p>Então, fez-me comprehender que o contacto d'aquella arvore era fatal.<pb n="20"/></p>
+<p>Seria dotada de electricidade? Teria a força da pilha galvanica?</p>
+<p>O brilho metallico do tronco e ramos nús fazia-o suppôr.</p>
+<p>Chegamos a um campo de verdura aonde pastava o rebanho de cabras. Approximaram-se de nós os animaes e affagaram-nos, mansos como cordeiros.</p>
+<p>A vida animal no seio da terra!</p>
+<p>Ella! unico exemplar da raça humana! Estes animaes, procreando-se n'este extraordinario meio!</p>
+<p>Como explicar este phenomeno?</p>
+<p>Occorreu-me então o que tinha succedido a Pompea e Herculanum, submergidas pelas lavas, deixando os edificios intactos; e os lagos subterraneos, grandes como mares, que se encontram no continente Americano.</p>
+<p>E quem sabe; dizia eu se, nos tempos primitivos, em que as convulsões do globo, necessariamente mais activas e violentas do que presentemente, devido ao gradual resfriamento do globo; um cataclysmo, invertendo uma parte da crusta ainda plastica e mais delgada, apanhou, no reviramento, uma d'aquellas grutas, unicas habitações então do homem, excluindo assim uma familia da face da terra, dando-lhe porem accesso ao interior?</p>
+<p>Era natural que esses seres tivessem armazenado fructos para seu sustento e resguardado,<pb n="21"/> junto de si, seus animaes domesticos da perseguição e voracidade d'outras especies bravias, explicando assim a existencia das cabras e da vegetação que ahi se encontrava.</p>
+<p>Ou, teria essa familia tido accesso para esse maravilhoso espaço formado pela dilatação dos gazes por occazião das erupções volcanicas, como frequentemente succede e de que os lagos subterraneos e algares são exemplo, até que, por uma convulsão, ficou-lhe vedada a sahida, e esses seres condemnados a viver no interior do globo? Por qualquer d'estas formas se podia explicar a presença da vida animal e vegetal n'este meio.</p>
+<p>Mas, o que se não explica, pensava eu, é o estado de completo isolamento em que vive esta joven de uns deseseis annos.</p>
+<p>Quem eram seus progenitores, e o que era feito d'elles?</p>
+<p>Como, porém, fazer-lhe comprehender o meu pensamento?</p>
+<p>Tive uma idea feliz.</p>
+<p>Servi-me das cabras para esse fim. Peguei n'um cabrito, indiquei-lhe o macho e a fêmea que eram os pais; comparei-a ao filho, e assim formulei em mimica a minha pergunta.</p>
+<p>A intelligente rapariga levou-me então a um ponto aonde se tinha dado um desabamento medonho: blocos enormes de pedra amontoavam-se em desordenada confusão, percebendo-se<pb n="22"/> porém ainda, vestigios de ter havido n'aquelle sitio passagem para fóra da grande gruta.</p>
+<p>Ella, adoptando a minha phraseologia figurada, explicou-me, apontando para as duas cabras que me tinham servido de typo, que, quando ella era ainda pequena, os seus tinham sahido por aquella abertura: que pouco depois houve um grande tremor de terra, dando-se então aquelle desmoronamento, e que nunca mais voltaram.</p>
+<p>O que determinaria o seu afastamento d'aquelle Eden aonde nada lhes faltava?</p>
+<p>Haveria, do outro lado das ruinas, mais recintos habitaveis e habitados; ou teriam elles, em exploração de subterraneos escusos e medonhos, succumbido á fome, ficando nas profundidades da terra um unico individuo d'essa especie? Ella!</p>
+<p>Um dia; mas que digo eu se aqui não havia divisão de tempo, senão a que poderia dar o isochronismo?</p>
+<p>Uma vez, melhor direi, convidou-me a um passeio no lago e conduziu-me a uma enseada aonde fluctuava uma enorme concha de tartaruga em que cabiamos á vontade.</p>
+<p>Empunhando então uma pá, ramo d'uma planta qualquer, e dando-me outra, pozemo-nos a caminho, passando por baixo d'arcarias de formas caprichosas. Pude então examinar de perto a extructura d'esta vasta crypta de<pb n="23"/> granito em que sobresahia a mica branca argentina de extraordinario brilho, rajada de veios magnificos de mica preta, de feldspatho e quartz, com malhas de porphyro e semeado de palhetas de ouro e prata, -- um mosaico soberbo, -- chamando-me particularmente a attenção, uns caracteres que mais pareciam obra de arte levada ao maior apuro d'execuçâo; circulos que, começando n'um ponto microscopico, augmentavam progressivamente, conservando a curvatura das linhas n'uma distancia e perfectibilidade mathemathica; hieroglyphos que dirieis letras chinezas, um conjuncto em summa, de que dá uma ideia, ainda que vaga, o Kalaidoscopo.</p>
+<p>A presença do ouro levou-me a perguntar-lhe se o havia em maior quantidade.</p>
+<p>Fez-me comprehender que, a seu tempo, me condusiria aonde existia muito.</p>
+<p>Uma enorme tartaruga appareceu então á flôr d'agua e tomando, provavelmente, o nosso batel por um seu semelhante, seguiu-nos sempre.</p>
+<p>Varios peixes passaram junto a nós como conscios de inteira segurança.</p>
+<p>Perguntei-lhe se ella se alimentava d'elles.</p>
+<p>Pareceu-lhe extraordinaria a minha pergunta, e o gesto de repugnancia que o acompanhou certificou-me que nenhuma carne ou peixe entrava na sua alimentação.<pb n="24"/></p>
+<p>Ja nos faziamos entender perfeitamente: não podia ter professora que mais se insinuasse nos meus sentidos, nem mais habilitada.</p>
+<p>O amor tem a linguagem de todos os povos e não preciza de interprete: essa hade ser eternamente, e tambem unicamente, universal; e os olhos d'ella fallavam mais alto que a mais quente e affectuosa palavra até hoje inventada pelo homem.</p>
+<p>A existencia de differentes especies de peixe n'estas aguas veio confirmar a minha idea da inversão de uma parte da crusta, e absorpção, durante esse extraordinario processo, das aguas do Oceano, e, de envolta com ellas alguns individuos marinhos no sorvedouro.</p>
+<p>Quando regressamos, ella guiou-me para uma gruta artificial formada por algumas Musas dispostas em circulo a cujos troncos se enlaçavam, artisticamente, trepadeiras em flôr.</p>
+<p>Ella tinha o sentimento do bello! -- ahi estava a prova.</p>
+<p>Aquelle massiço de verdura, coroada pelas largas folhas da Musa, vedavam a claridade: era o unico ponto aonde não penetrava a luz senão brandamente.</p>
+<p>Fetos de singular belleza e o Asparagus plumosus desenvolviam-se n'aquella quasi escuridão, perfeitamente.</p>
+<p>O que determinaria n'ella aquella escolha<pb n="25"/> de plantas para ornamentar a sua camara de repouzo?</p>
+<p>Não seria o conhecimento da sua natureza, propensa aos logares sombrios?</p>
+<p>Anoitecêra para nós.</p>
+<p>Ao acordar, vi uma refeição preparada.</p>
+<p>Uma grande concha com leite, fructas diversas e, o que mais me surprehendeu, uns tuberculos assados.</p>
+<p>Satisfazendo á minha curiosidade sobre este ponto, levou-me, em seguida á refeição, a um algar aonde o calor augmentava á proporção que progrediamos, e quando chegavamos ao fim, vi uma abertura incandescente. Estava explicada aquella singularidade, demonstrando igualmente que estavamos muito proximos de uma communicação com o centro da terra, que lhe proporcionava assim um forno natural e sempre esquentado.</p>
+<p>Os selvagens da Oceania, por occasião do descobrimento das diversas ilhas, na falta de utensilios de toda a qualidade, abriam covas no chão, enchiam-as de pedras levadas a alta temperatura, e deitavam sobre ellas as suas iguarias que cobriam com folhagem e terra: era d'este modo que cozinhavam.</p>
+<p>Com esta alimentação simples, sentia-me agil e sem a enervação que produzem as carnes e outras substancias que o homem, á proporção que se hia civilizando, ou, para melhor<pb n="26"/> dizer, asselvajando nas suas luctas com as féras, adquirindo com o cheiro do sangue, o instincto do bruto; ou, apertado pela fome, o habito de se alimentar das suas victimas, do mesmo modo que ellas, quando vencedoras, se refocilavam nas carnes do homem.</p>
+<p>As enfermidades a que está sujeita a humanidade eram desconhecidas a esta raça primitiva; assim colligi da sua ignorancia da mais leve indisposição. A que attribuir esta admiravel conservação da especie humana, condemnada a viver nas entranhas da terra, em quanto que a humanidade, exposta a intemperies desconhecidas n'este meio; entregue a todos os prazeres e excessos que o progresso lhe proporciona, é victima de mil soffrimentos?</p>
+<p>Á sobriedade unicamente? ou contribuiria tambem a invariavel egualdade de temperatura?</p>
+<p>Quanto tempo levamos entregues ao mais acrisolado amor, sem nenhuma das perturbações que ordinariamente succedem, por uma falsa idea da vida e das pessoas, não sei!</p>
+<p>Deveriam ter passado muitos mezes, pelas alternativas que constituiam as unicas divisões do tempo; mas séculos que fossem, nunca uma saudade do grande mundo me viria lançar uma sombra na vida.</p>
+<p>Couza alguma tinha quebrado este encanto! Era a felicidade completa!<pb n="27"/></p>
+<p>Uma vez, remechendo a areia da praia, notei a presença de ouro em pó.</p>
+<p>O meu reparo levou-a a significar-me que havia em grande distancia muito d'aquelle metal, e dando-lhe a entender que o desejava ver, fez-me saber que depois do descanço me conduziria a essa região aurifera.</p>
+<p>Effectivamente, quando acordei, encontrei-a amontoando uma quantidade de fructas em uma grande concha de tartaruga que o nosso batel deveria levar a reboque, preza por uma especie de cipó.</p>
+<p>Comprehendi logo que era para uma longa viagem por mar.</p>
+<p>Pozemo-nos a caminho por esse extenso e tranquillo lago, descançando de quando em quando para admirar aquelles soberbos cimbres até que se apresentou um arco abatido e, curvando-nos, penetramos por um estreito e extenso canal que conduzia a outra gruta de dimensões infinitamente menores, mas de deslumbrante effeito. Estavamos debaixo de uma montanha de ouro que, por occasião de estar toda aquella massa em fusão, ahi se formára como acontece, em ponto, relativamente, pequenissimo, nas nossas fundições, deixando aquellas paredes lisas e como burnidas. -- O nosso batel aportou então a uma praia de ouro em pó. Extendi-me sobre aquelle areal: as proprias aguas, pelo reflexo, pareciam de<pb n="28"/> ouro liquido: mergulhei n'ellas; quiz banhar-me na'quelle mar de ouro.</p>
+<p>Peguei em punhados de area, e fiz-lhe comprehender que, se carregassemos o nosso batel d'aquelle pó e podessemos ganhar a superficie da terra, teriamos uma riqueza e couzas muito bonitas.</p>
+<p>-- Como isto? perguntou ella, tirando-me do cinto o cinzelado punhal com cabo de marfim que ella admirava frequentes vezes?</p>
+<p>Muito mais! lhe fiz entender; e, com a extremidade ponteaguda do ferro, comecei a burilar um palacio, carruagens tiradas a quatro magnificos cavallos, homens, senhoras elegantemente vestidas, cavalleiros e cavalleiras, navios á vella e a vapor etc.</p>
+<p>Ella, depois de examinar com muda, mas visivel surpreza, aquellas producções do genio do homem, cahiu em profunda melancolia.</p>
+<p>Olhava para mim, e eu lia no seu meigo e limpido olhar tudo quanto se passava no fundo da sua alma. Ella comparava, evidentemente, o meu viver d'outrora com o presente, a nossa quasi nudez com aquellas esplendidas toilettes, a vida e movimento do grande mundo com a solidão que nos cercava, e dizia no seu intimo; porque sequestrei eu este moço, privando-o de todas essas grandezas que acaba de me mostrar?</p>
+<p>Porque o não reconduzi á superficie do<pb n="29"/> oceano quando elle desfaleceu, em logar de o trazer para o interior da terra, para este ermo, para esta sepultura da vida?</p>
+<p>Era o remorso que germinava já, desconhecido até então no seu espirito!</p>
+<p>Enlacei-a nos braços; cobri-a de beijos; e convenci-a que tudo quanto deixára traçado n'aquellas paredes aurifulgentes nada era comparado com o seu amor; que sem ella, eu não voltaria, mas queria que ella me reconduzisse ao Oceano e que fosse commigo gozar a vida no meio que o Creador tinha destinado á humanidade.</p>
+<p>Então ella, apontando para uma mulher elegante que eu desenhára, conheci que despertava n'ella o sentimento do ciume.</p>
+<p>Em vão quiz banir essa idea, e então fez-me comprehender a impossibilidade de satisfazer o meu desejo; que nas profundidades do mar estava o tempo que precizava estar, mas que, em chegando aonde havia um grande clarão, suffocava, e não podia avançar mais.</p>
+<p>Caso extraordinario! Creada n'aquelle meio, carecia da pressão como os viventes das grandes profundidades.</p>
+<p>Quando me salvou, chegava, provavelmente, até onde a sua organisação lhe permittia, e então occorreu-me que, sentindo já os effeitos da asphyxia, como era que não me afogára conservando-me, certamente mais tempo n'aquelle<pb n="30"/> elemento, do que gastaria se tivesse podido remontar á superficie?</p>
+<p>Teria eu, afundando mais, e entrando n'essa zona aonde a pressão das aguas é já sensivel, adquirido aquella propriedade singular de que ella era dotada?</p>
+<p>Só assim explicava a minha extranha salvação.</p>
+<p>Tinhamos regressado e repousado das fadigas d'aquella viagem.</p>
+<p>Descrevia já, sem sombra de uma alma attribulada por sentimentos dolorosos, o que eu na gruta aurifera lhe mostrei.</p>
+<p>Então, voltei novamente á minha insistencia para trocarmos aquelle meio por outro melhor; que a camada d'aguas que ella supponha de impossivel percurso, transpunha-se em tão pouco tempo que os seus effeitos asphyxiantes não eram para temer.</p>
+<p>Uma sombra espalhou-se-lhe pelo rosto: apontou para o seu rebanho de cabras, unicas companhias de tantos annos, e duas perolas que eu recebi nos labios trahiram a sensibilidade d'aquelle coração: ella presentia, quem sabe, que em outro qualquer meio que não fosse aquelle, a felicidade não podia ser completa.</p>
+<p>Um dia, o profundo silencio que nos cercava foi subitamente interrompido por um ruido longinquo, semelhante ao do trovão e, augmentando de intensidade, pareceu a detonação<pb n="31"/> de mil canhões disparados a um tempo, e senti, não os effeitos d'um tremor de terra, mas uma trepidação propria do meio em que me achava, mas que, na superficie do globo, deveria ser um violento abalo, partindo do centro para as extremidades.</p>
+<p>Venha d'ahi me acenou ella, como adivinhando o interesse que me deveria proporcionar o phenomeno maior do globo, e colhendo algumas folhas da viscosa Wygandia Macrophilia, salpicou-as de um pó vitrio que conheci ser producto vulcanico e que facilmente adheria á viscosidade da folha até formar uma camada uniforme.</p>
+<p>Era, evidentemente, um isolador.</p>
+<p>Assim armada, quebrou um ramo da arvore electrica que segurou na mão direita, e com a esquerda conduziu-me a passo apressado.</p>
+<p>Em pouco estavamos á entrada de uma especie de corredor estreito e escuro, cujas paredes eram de lava preta, lisa como vidro.</p>
+<p>O ramo que ella colhera, illuminava perfeitamente o caminho que terminou em uma vasta galeria tenebrosa que a claridade electrica illuminava mal.</p>
+<p>Esta galeria estava innundada de vapores quentes.</p>
+<p>Então ella collocou-me junto a uma abertura practicada na parede, d'onde eu deveria observar o que se passava do outro lado.<pb n="32"/></p>
+<p>Um enorme lago de uma materia betuminosa em ebullição extendia-se diante de mim.</p>
+<p>Era lava em fusão.</p>
+<p>Derepente, da abobeda amollecida pela evaporação aquosa do lago, desprende-se uma verdadeira montanha para dentro da massa fervente.</p>
+<p>O que que então succedeu foi espantoso. Senti estremecer o chão debaixo dos pés.</p>
+<p>Espadanaram jactos enormes de lava que foram lamber a crusta superior com resaltos prodigiosos, ao tempo que uma onda colossal, partindo do centro para os lados, e refluindo de tres quartos de circulo, foi despenhar-se, com horrivel fracasso, pelos rebordos d'essa parte accessivel á formidavel maré, n'um abysmo d'aguas inferior áquella bocca.</p>
+<p>Volumes de vapor desenvolveram-se então com incrível velocidade, irrompendo por uma garganta medonha e, chegando a certa altura, pareciam recalcados com violencia. Impellidos novamente debaixo com força irresistivel, attacavam a crusta do globo com prodigiosos esforços, acompanhados de estampidos e vibrações do sólo muito sensiveis, até que, os gazes, assim reprimidos, fizeram explosão na face da terra o que evidenciou a livre corrente ascencional.</p>
+<p>Ella, então, encaminhou-me para outro ponto mais elevado da galeria e, por uma fenda da<pb n="33"/> espessa parede que me separava da chaminé, vi passar na sua ascensão por essa garganta, rios de lava incandescente, e, redobrando d'intensidade, quando chegou ao rubro, converter-se em areas e escorias, ao principio abrazadas e declinando, gradualmente, da cor avermelhada, para o preto.</p>
+<p>Houve então uma intermittencia, quando comecei a ouvir um borbulhar de materias crassas e subir, lentamente, pezadamente, um lodo espêsso que expellia de si um cheiro nauseabundo.</p>
+<p>Finalmente, cessou de todo o movimento volcanico, e as fontes d'agua que, durante a erupção, tinham seccado, começaram novamente a correr.</p>
+<p>Eu tinha sido mudo expectador das evoluções de um volcão em actividade, desde as repetidas cargas de vapores accumulados e o rompimento da crusta, até á ascensão das ondas lodosas vomitadas dos ultimos recessos do abysmo, derradeiro acto d'aquelle espantoso drama passado nas entranhas da terra.</p>
+<p>Em quanto durou esta scena, terrifica de ver e ouvir, o calor tornára-se intenso e asphyxiante: sentia-me verdadeiramente torrado, porém a anciedade que experimentava d'observar este extraordinario phenomeno era superior a todos os soffrimentos physicos.</p>
+<p>Quando abandonei o meu posto d'observação,<pb n="34"/> a minha companheira tinha desapparecido.</p>
+<p>Pode-se imaginar o horror da minha situação, vendo-me só n'aquellas trevas, sem poder attinar com o caminho que me reconduziria áquelle Eden aonde passára os melhores tempos da minha existencia.</p>
+<p>Quiz chamal-a; mas como? se ella não tinha nome!</p>
+<p>Dei um grito, e pareceu-me que mil gritos respondiam de todas as direcções.</p>
+<p>Era simplesmente o écho da minha voz resoando nas abobedas d'aquelle vasto e deserto labyrintho.</p>
+<p>O effeito foi tão assustador que me não atrevi a repetil-o. Julguei-me perdido, sepultado em vida, e perdida para mim, essa creatura por quem daria a felicidade eterna.</p>
+<p>Estendi as mãos para apalpar um objecto que me podesse servir de apoio.</p>
+<p>Encontrei o vacuo!</p>
+<p>Receoso de dar um passo em falso, não me buli.</p>
+<p>Então, é que comprehendi todo o horror da minha situação.</p>
+<p>Nem ao menos, podia caminhar ás apalpadellas.</p>
+<p>Derepente, pareceu-me distinguir um ponto luminoso semelhante á claridade electrica da gruta cristallina.<pb n="35"/></p>
+<p>Seria alguma fenda que communicasse com ella?</p>
+<p>Deliberei-me arrostar todos os perigos. Tudo era preferivel a morrer, lentamente, em meio de trevas eternas, e morrer, a peior das mortes; pela fome.</p>
+<p>Sondando o terreno, passo a passo, e servindo-me das mãos como d'escudo, fui caminhando na direcção d'aquella diminuta estrella em ceu tétrico, unica esperança que me restava.</p>
+<p>O ponto luminoso hia augmentando, e na mesma proporção, diminuia a minha agonia.</p>
+<p>Reconheci que procedia do ramo que nos havia servido de guia em meio da tenebrosa escuridão da caliginosa noite do centro do globo.</p>
+<p>Avancei reanimado: iria ter luz ao menos, mas se ella me tivesse desamparado, de que me serviria, se o contacto d'esse facho sem o isolador, era fatal!</p>
+<p>Desamparado! repetia eu, de mim para mim!</p>
+<p>Não! não é possivel! mil vezes não! Ella era o meu anjo da guarda!</p>
+<p>Teria ella fugido espavorida d'aquelle espectaculo medonho e aterrador, e, esquecendo-se do perigo, tocado, com a mão desarmada, no fatal ramo?</p>
+<p>Iria eu encontral-a morta?</p>
+<p>Esta idea tornou-me louco!<pb n="36"/></p>
+<p>Ja não tacteava o caminho; avancei, sem precaução para a luz n'um dilirio atroz. Tropecei e cahi: faltaram-me as forças para me erguer: -- arrastei-me como um reptil.</p>
+<p>Na minha anciedade de chegar, pareceu-me que a luz se afastava!</p>
+<p>Gritei doudamente, e as cavernas da terra repercutiam o grito que me chegava sinistramente aos ouvidos.</p>
+<p>Sentia que se me esgotavam as forças, e confesso-te que me senti repassado d'horror.</p>
+<p>Mas a luz ainda lá estava: logo, o seu afastamento era uma illusão das minhas faculdades.</p>
+<p>Ergui-me, caminhava já mais desembaraçado; uma quasi imperceptivel claridade permittia-me ver que não tinha obstaculo na minha frente, e ao passo que avançava o caminho via-se distinctamente.</p>
+<p>Guiado pela luz electrica, entrei alvoraçado n'uma gruta e cahi de joelhos ante o corpo inanimado d'aquelle ente adorado.</p>
+<p>Morta! meu Deus! exclamei, respondendo ás minhas apprehenções.</p>
+<p>E os echos de novo repetiram: Morta!</p>
+<p>Abracei aquelle corpo, uni o meu rosto ao seu, e soluçando, gritei -- Perdida!... Perdida para sempre!</p>
+<p>E os mesmos malditos échos repetiram, -- Perdida!... Perdida para sempre!<pb n="37"/></p>
+<p>Horrorisado, tomei-a nos braços para fugir d'alli.</p>
+<p>Unindo-a então a mim, senti-lhe bater o coração.</p>
+<p>Pousei-a novamente no chão: -- um regato d'agua gelada, corria ao pé, enchi as mãos do precioso liquido e banhei-lhe o rosto.</p>
+<p>Reabriu os olhos, sorriu-se, e lançou-me os braços ao pescoço.</p>
+<p>Deixei passar alguns momentos, e empregando os unicos meios communicativos, comprehendi que, não podendo mais supportar o calor do volcão, se afastára, procurando o refugio da gruta, unico logar supportavel, e que ahi perdera os sentidos, quasi asphyxiada pelas emanações mephyticas dos ultimos paroxismos do vulcão.</p>
+<p>Não sabia já exprimir a minha alegria.</p>
+<p>Nunca sentira uma commoção tão forte: era a reacção do martyrio porque acabava de passar.</p>
+<p>Cahi de joelhos, ergui as mãos ao ceu, e agradeci a Deus!</p>
+<p>Qual não foi a minha surpreza, quando a vi junta a mim, na mesma postura!</p>
+<p>Eu tinha-lhe feito comprehender a existencia de um Ente superior que creára as maravilhas que nos cercavam, a quem deviamos tambem, a existencia; e aquella creatura, mesmo dos profundos abysmos do globo, o estava adorando!<pb n="38"/></p>
+<p>Admiravel inspiração que acompanha a humanidade desde a infancia do mundo, sem excepção de raças, embora com difinições diversas!</p>
+<p>Depois, ergueu-se, lançou-me um olhar radiante de fé, armou-se do isolador e, empunhando o facho electrico, precipitou-se fóra da gruta levando-me pela mão.</p>
+<p>Adivinhára que eu devia estar morto de fome, e effectivamente cahia de fraqueza: havia muitas horas que tinhamos estado privados de todo o alimento.</p>
+<p>Quando entramos na esplendorosa habitação da fada destas regiões subterraneas, parecia-me ter voltado novamente á superfície do globo, tal o contraste entre aquelle paraiso e as galerias caliginosas do interior.</p>
+<p>Proseguindo nas minhas investigações, observei uns pontos, superiores em brilho ao cristal.</p>
+<p>Examinando-os bem, conheci serem gemmas de grande valor encrustadas na rocha.</p>
+<p>Ella, vendo o meu empenho em arrancar uma pedra d'estas, gesticulou-me para desistir d'uma tentativa inutil.</p>
+<p>Procurou então d'entre os seixos, um que lhe pareceu satisfazer ao seu designio, e pegando no machado de silex, partiu o seixo, apresentando-me um magnifico brilhante como nenhum soberano da Europa, ou Rajah da índia, possue.<pb n="39"/></p>
+<p>Era um thezouro de que me não queria apartar; mas aonde guardal-o e para que, se eu me via condemnado a viver e morrer nas entranhas da terra!</p>
+<p>Apoderou-se então de mim um pavor indiscriptivel: aquella idea esmagava-me, e cahi n'um estado de verdadeira prostracção moral.</p>
+<p>Reparei n'ella.</p>
+<p>Parecia estar lendo o que se passava no meu espirito, e a melancholia impressa n'aquelle rosto d'anjo dissipou instantaneamente esse doloroso sentimento para dar logar a outro mais doloroso ainda.</p>
+<p>Teria eu coragem de me separar d'ella, mesmo quando se me offerecesse occazião?</p>
+<p>Não! mil vezes, não!</p>
+<p>Aquelle ente era para mim, tudo!</p>
+<p>A par d'ella, que valor tinha o grande mundo para mim?</p>
+<p>Nenhum! E sem ella, era a morte.</p>
+<p>A minha mocidade, passada no isolamento, não me preparára para este mesmo meio, embora extraordinario?</p>
+<p>La, nunca conhecêra a felicidade que agora gozava.</p>
+<p>Para que imaginar o mal, aonde não havia senão o bem?</p>
+<p>Um raio de verdadeira alegria fulgurou certamente no meu olhar, porque o seu illuminou-se tambem.<pb n="40"/></p>
+<p>A tempestade tinha passado.</p>
+<p>Ella tinha evidentemente, e nem podia deixar de o ter, o sentimento do bello, comparando o seu brilhante Eden com os antros medonhos que tinhamos percorrido por occasião da erupção volcanica.</p>
+<p>Cingindo-me com um braço, levou-me para a enseada aonde se achava o nosso barco, e, convidando-me a entrar, tomou tambem assento, e começamos a padejar, costeando, d'essa vez, a margem do lago.</p>
+<p>D'ahi, cêrca de uma hora, entramos n'uma bahia, e pouco depois, deparo com um espectaculo magestoso.</p>
+<p>Um portico enorme abria-se na nossa frente.</p>
+<p>Columnas colossaes de systematica egualdade e do mais formoso pórphyro encorporadas umas nas outras, formavam, como nas celebres grutas de Fingal, a entrada d'aquelle vasto recinto em que entramos.</p>
+<p>O mais formoso templo do mundo não tinha tão rica collecçâo de marmores, polidos pela acção da agua que as banhava, cahindo-lhes pela face como um véo diaphano.</p>
+<p>Era uma maravilha! e para que fosse completa, os reflexos d'aquella variedade de cores sobre as limpidas aguas do interior, davam-lhes a apparencia d'um pavimento de mosaico altamente polido.<pb n="41"/></p>
+<p>Preocupava-me a mysteriosa faculdade que ella possuia de poder dispensar a renovação do ar nas grandes profundidades.</p>
+<p>Era evidente que eu tinha attravessado essa zona e que, á propria pressão das aguas, devêra a existencia.</p>
+<p>Lembrava-me bem, sentir-me desfallecer, e que, necessariamente, teria succumbido se não é entrar n'um outro meio, que só podia ser; ou ganhar a superficie, o que era já impossivel por ter perdido completamente as forças; ou então, submetter os pulmões a uma influencia que inutilizava as faculdades para que foram destinados.</p>
+<p>Ficavam, por outra, dotados de faculdades duplas, á semelhança da tartaruga, da phoca, da rã e d'outros amphybios.</p>
+<p>Discorrendo por esta forma, achei muito natural que ao homem não fosse negado o que o Creador concedêra a animaes tão inferiores como eram aquelles.</p>
+<p>Queria conhecer essa nova vida que me permittia observar, á vontade, e sem a imperiosa necessidade de voltar amiudadamente á superfície do mar, differentes peixes desconhecidos e plantas marinhas, sobretudo os coraes magnificos cujas dimensões, eu já tinha podido notar, augmentavam na razão da profundidade.</p>
+<p>Ainda mais; se essa faculdade era douradoura, como parecia ser, podia até descer ao<pb n="42"/> fundo do Oceano e admirar a vida dos mares na sua maxima profundidade, vida que as recentes investigações declaravam riquissima, e dever ser de surprehendente effeito.</p>
+<p>Communiquei-lhe os meus desejos.</p>
+<p>A fixidez do seu olhar parecia penetrar no mais intimo do meu pensamento.</p>
+<p>Temeria ella abrir a porta da gaiola ao passarinho?</p>
+<p>Munindo-se, porém, do seu isolador, e partindo uma vara da arvore electrica, pozemo-nos a caminho, internando-nos por uma passagem subterranea e escura, guiados unicamente pela luz do nosso facho.</p>
+<p>Chegados a certo ponto, resvalei: ella, que me segurava pela mão, com este movimento, cambaleou, e deixou escapar o ramo que cahiu junto a mim, mas felizmente sem me tocar. Senti porém um entorpecimento em todo o corpo, o cérebro enervado, a vista perturbada e sem poder distinguir os objectos.</p>
+<p>Apenas percebi que estava sendo conduzido por ella, e só recuperei o pleno uzo da razão no seio das aguas.</p>
+<p>Este incidente não permittiu orientar-me sobre a mysteriosa sahida para o mar.</p>
+<p>Olhei para todos os lados; o facho só illuminava n'um certo raio; a terra tinha desapparecido.<pb n="43"/></p>
+<p>Estavamos n'uma zona de mar quasi deserta de vida: raros peixes appareciam, e esses, pela sua marcha rapida e em linha recta, procuravam outras regiões, preferindo aquelle caminho menos frequentado, como querendo evitar seus adversarios.</p>
+<p>Desciamos lentamente quando principiei a distinguir, abaixo de mim, uma claridade comparavel á aurora.</p>
+<p>Á proporção que afundavamos, augmentava, até que a prespectiva assemelhava-se á que deve disfructar o areonauta, passando em balão e d'alto sobre uma vasta cidade illuminada, com a differença que, em vez da sua luz brilhante, e do movimento de uma população, via uma phosphorecencia n'uma extenção enorme e um formigueiro indescriptivel; um cruzar e recrusar de seres de todas as dimensões, feitios e côres, que naturalista algum seria capaz de classificar.</p>
+<p>Era precisamente esse movimento continuo o motor d'aquella claridade que permittia ver-se perfeitamente o leito do Oceano, com os seus bosques e os seus prados, e, por entre esta agglomeração de objectos diversos, a vida animada d'esse campo, ora accidentado, ora extendendo-se em planicie.</p>
+<p>Quando eu contemplava o extranho e maravilhoso quadro que me ficava inferior, um monstro de proporções enormes, semelhante a<pb n="44"/> um crocodilo, os olhos em braza e de fauces abertas, avançava rapidamente para nós.</p>
+<p>Istinctivamente, levei a mão ao punhal, como se uma arma tão fragil podesse penetrar as placas rijas d'aquelle encouraçado, cuja bocca era um abysmo prestes a engulir-nos ambos d'um só trago; -- um sorvedouro!</p>
+<p>Horrorisei-me!</p>
+<p>Ella, pelo contrario, conservou-se tranquilla, e, no momento em que eu lhe via as fauces escancaradas, a meio metro de distancia, estendeu o braço e tocou-lhe com a sua vara.</p>
+<p>Não foi precizo mais: as fauces fecharam-se, cerraram-se-lhe os olhos e, fulminado pela electricidade, desappareceu nas profundidades.</p>
+<p>Ficava explicado o movimento brusco e expressão de horror que empregou para me afastar da arvore de apparencia metallica no primeiro dia.</p>
+<p>Aquella arma era terrivel, rapida nos seus effeitos e unica a empregar em semelhante conjunctura, em que o perigo não era inferior ao dos campos da India. Os mares tambem tinham os seus tigres, as suas panthéras e os seus leões.</p>
+<p>Assim nos conservamos muito tempo admirando aquella vida animada, aquellas florestas illuminadas e aquelles prados constellados de luz.<pb n="45"/></p>
+<p>Á proporção que desciamos, hia este quadro tomando novo aspecto.</p>
+<p>A floresta de coraes, sobre a qual pairavamos, parecia um vasto viveiro d'aves, umas abrindo passagem por entre a ramada, outras, e estas eram os peixes voadores, saltando de ramo em ramo.</p>
+<p>Aproximando-nos mais, pareceu-me ver ninhos nos ramos e avesinhas abrindo de vez em quando, as azas e o bico como fazem os implumes ao approximar-se a mãe trasendo-lhes de comer.</p>
+<p>Não queria acreditar os olhos: apalpei-as: eram effectivamente aves do mar, uns bivalvos que se abriam e fechavam á maneira da borboleta: esta pequena concha, encrustada na ramagem e terminando n'uma das extremidades em bico, illudia perfeitamente.[2]</p>
+<p>Embrenhamo-nos então na floresta illuminada por uma multidão assombrosa de especies e de côres em constante movimento.</p>
+<p>Os coraes eram uma maravilha.</p>
+<p>O coral preto, sobre tudo, cujo tronco dois homens não abrangiriam, com a sua folhagem fina e arrendada á imitação de filigrana, era de surprehendente belleza. A seus troncos, altamente<pb n="46"/> polidos, nenhum mollusco podia adherir, o que o tornava distincto de todos os mais.</p>
+<p>O coral vermelho de troncos nús e nodosos, e o branco em gigantesco leque com as suas multiplas ramificações alvas de neve, formavam um conjuncto que ultrapassava a explendida vegetação das mattas virgens da America.</p>
+<p>Estas duas ultimas qualidades offereciam um aspecto singular, com as suas encrustações de parasitas animaes e vegetaes de variadissimas especies: conchas diversas, esponjas, serpulas, vermes e insectos microscopicos que ahi tinham adherido, construindo suas instancias, consoante a sua natureza.</p>
+<p>Pouzamos então sobre um banco de coral animal, essa construcção produzida por myriades de seres microscopicos, e que, no decurso de seculos, chegam á superfície dos mares formando ilhas.</p>
+<p>Ostras de grandes dimensões, como jámais foram vistas em maiores alturas, adheriam áquelle chão escarlate em cujas fendas existiam pérolas, das quaes, uma só, faria uma fortuna.</p>
+<p>Então, recordei-me do que escreveu um sabio. -- «O mar tem maiores riquezas do que a terra».</p>
+<p>O fundo do Oceano dividia-se em grandes malhas: -- uma de arvoredo, outra de erva ursina<pb n="47"/> compacta, campos d'esponjas finissimas sobre as quaes se estendiam, como em fofa cama, animaes marinhos de differentes especies ruminando, como manadas de gado bovino, as colheitas feitas em pastagens proprias ao seu sustento.</p>
+<p>Alguns d'estes animaes eram pachydermes de gigantescas proporções: olhavam-nos perfeitamente indifferentes, o que não pouco me tranquilisou, porque contra uma colligação e attaque em massa, era impotente a electricidade.</p>
+<p>Outras malhas eram de campos d'algas de extraordinaria altura.</p>
+<p>As suas palmas eram grandes bolhas d'ar que conservavam as hastes perfeitamente verticaes, e algumas que se desprendiam da planta mãe pareciam fléchas despedidas do arco em direcção á superficie.</p>
+<p>Outras malhas eram d'um lyrio lindissimo, produzindo um effeito extraordinariamente bello.</p>
+<p>Uma planta era muito curiosa: dava flores que eram procuradas por um pequeno peixe para lhe sugar, provavelmente, um mel, ou substancia qualquer, á imitação da abelha.</p>
+<p>Estas flôres, porém, com o contacto, envolviam o peixinho nas dobras do seu calice, ficando prisioneiro.</p>
+<p>É n'este momento que um outro peixe de<pb n="48"/> proporções maiores e de marcha indolente que estivera de espreita, engulia a flôr e a sua victima, e d'este modo, sem conflicto, e sem trabalho, provia ao seu sustento.</p>
+<p>Nunca poderia imaginar que no fundo do mar existissem parazitas como na superficie do globo, vivendo á dispensa do trabalho d'outros e com todo o cynismo.</p>
+<p>Grandes crustaceos, mettidos em furnas escuras, expelliam raios de luz dos olhos, e estes focos chammejantes possuiam o poder da attracção. O crustaceo, perfeitamente immovel no seu esconderijo, tinha menos trabalho do que a aranha na sua teia, pois apenas dava-se ao encommodo d'abrir a bocca, na qual o magnetizado peixe se precipitava.</p>
+<p>Era o processo do sapo!</p>
+<p>Que affinidade em tudo entre estas naturezas tão diversas; a vida da terra e a vida do mar, até mesmo nos contrastes!</p>
+<p>A par dessas malhas floridas e de vegetação esplendida, havia tambem malhas de um lodo, como carbonato de cal, residuos de conchas e detritos animaes. Á sua superficie deslisava uma quantidade de peixe miudo, e d'entre as camadas lodoçentas, surgiam de quando em quando, cabeças de serpentes, reptis, bichos informes e annelidos.</p>
+<p>A immobilidade das aguas n'esta profundidade era completa: -- as plantas mais delicadas<pb n="49"/> e flexiveis não tinham o mais ligeiro movimento.</p>
+<p>Couza singular! Esperando achar um frio intenso n'aquelles abysmos aonde a acção calorifera do sol não podia chegar, assim como não penetrava ahi a sua luz, havia uma temperatura superior á das aguas nas regiões da superficie, e quando pousei no chão, achei o solo com um calor que não esperava.</p>
+<p>Seria devido á menor espessura da crusta?</p>
+<p>O que é natural, é que, sem aquella temperatura, a vida, sobretudo a vegetal, não poderia ser tão florescente e bella como era.</p>
+<p>Estavamos n'esta contemplação quando sentimos uma forte vibração nas aguas, seguida de um rugido espantoso.</p>
+<p>Presenti, immediatamente, um acontecimento grave.</p>
+<p>Irrompiam de dentro da erva ursina de que se revestia grande parte do fundo, myriades sem conto de pequenos peixes correndo, como espavoridos, em todas as direcções, e enchendo o espaço que nos circundava de uma verdadeira chuva de fogo.</p>
+<p>Reptis enormes, até então occultos nas depressões lodocentas, sairam das lamas e tomaram a fuga.</p>
+<p>Conhecendo o instincto animal, mais agudo do que o do homem, comprehendi que tivera logar uma violenta commoção subterranea.<pb n="50"/></p>
+<p>Não tardou que grandes pachidermes, com seus filhos, e outros peixes desconhecidos, passassem por nós, tomando todos uma direcção que nos advertia que o perigo estava d'onde vinham, e não para onde hiam.</p>
+<p>Succederam-se novas trepidações, cada vez mais violentas, e estampidos que se approximavam, sem que podessemos atinar de que lado procediam.</p>
+<p>O desamparo em que os povoadores marinhos deixaram o ponto aonde nos achavamos, levando comsigo a claridade que só provinha da sua phosphorescencia, era o único indicio de que estavamos no fóco do perigo.</p>
+<p>Restava-nos só a que nos ministrava a vara electrica, mas a sua luz tinha um raio muito limitado e não nos deixou perceber que nos avizinhavamos de um campo d'algas.</p>
+<p>De repente, o sólo rompeu-se com horroroso estampido: as aguas, repellidas com espantosa força, impelliram-nos para esse perigoso meio, ficando com os movimentos embaraçados e prezos entre aquellas liaças que pareciam enlaçar-nos como serpentes.</p>
+<p>Tentei cortal-as com o punhal, mas cada novo movimento só servia para nos envolver mais.</p>
+<p>O volcão, que ao principio, vomitou immensas columnas de cinsas acompanhadas de linguas de fogo que sahiam d'entre aquellas massas<pb n="51"/> enormes, começou a expellir pedras que, arrojadas perpendicularmente, vinham cair na cratéra, impedindo a livre expulsão das materias volcanicas, de que resultou serem estas cuspidas em todas as direcções. A pequena distancia que nos separava do fóco, expunha-nos a sermos alcançados por aquella metralha, sem lhe poder fugir.</p>
+<p>A nossa situação tornou-se então assustadora.</p>
+<p>N'este ponto, Luiz não poude proseguir: -- a commoção embargava-lhe a falla.</p>
+<p>Percebi que estavamos chegados á parte mais pungente da narrativa, e disse-lhe: -- «se te parece, guarda o resto para logo; adivinho uma catastrophe que te amargurou a vida».</p>
+<p>-- «É verdade, Carlos! -- Eu amava aquella creatura com delirio; concentráva n'ella todas as minhas affeições e, para a não perder, renunciaria para sempre o estrellado ceu e os campos verdes da terra, ainda mesmo que tivesse mil ensejos de me emancipar do seu interior.</p>
+<p>Uma pedra, Carlos, d'esse maldito volcão, e da minha, ainda mais maldita curiosidade, bateu-lhe em cheio no peito.</p>
+<p>Cahiu-me morta nos braços.</p>
+<p>Quando eu a depositava no chão para renovar a tentiva de cortar as algas, e conduzil-a, sem saber para aonde; estas, desprendendo-se<pb n="52"/> subitamente das raizes, arrebataram-me irresistivelmente em sentido ascencional:</p>
+<p>As grandes bolhas d'ar eram como boias que subiam com espantosa rapidez, porém, de repente, em certa altura, arrebentaram, deixando-me entregue aos meus proprios recursos para alcançar a superficie. Percebi immediatamente que a falta de pressão fôra a cauza d'aquella explosão, devendo por tanto não estar longe da superficie.</p>
+<p>Com que difficuldade, porém, lá cheguei! Á proporção que se encurtava a distancia, a necessidade de respirar era cada vez mais forte.</p>
+<p>Sentia já a asphyxia; redobrei de esforços: era uma lucta entre a vida e a morte.</p>
+<p>Quasi morto, achei-me á flôr da agua: estava salvo, mas aonde; meu Deus! Em pleno mar!</p>
+<p>Então deitei-me de costas sobre as aguas para descançar.</p>
+<p>Quanto tempo estive n'esta posição, sustentando-me machinalmente, não sei: -- Os raios solares cegavam-me: cerrei os olhos e apoderou-se de mim um lethargo.</p>
+<p>Tinha perdido o conhecimento de todo!</p>
+<p>Quando voltei a mim, achei-me estendido sobre o convez d'um navio.</p>
+<p>De bordo tinham avistado um corpo boiando á tona d'agua e deitando uma lancha ao mar tiraram-me ainda a tempo.<pb n="53"/></p>
+<p>O meu primeiro pensamento foi para ella: tornei a fechar os olhos para não ver os habitantes da terra: a saudade do paraiso que tinha deixado para minha perdição, e a dôr que me enlutava a alma, não me permittiam outro sentimento, outro desejo, senão o da morte.</p>
+<p>Levaram-me então para a camara.</p>
+<p>Ouvia dizer aos meus salvadores «cahiu, necessariamente, ao mar sem que se tivesse dado por isso a bordo; ou não o poderam salvar por ser talvez de noite.</p>
+<p>Resolvi-me approveitar estes juisos para não ter que revelar os acontecimentos extraordinarios que precederam a minha mysteriosa apparição sobre as aguas.</p>
+<p>Não tinha outro meio senão alimentar essa idea quando tivesse de responder ás suas perguntas.</p>
+<p>O meu estado d'apathia, tomado por uma extenuação de forças, livrou-me da necessidade de recorrer a subterfugios, até que uma nova fatalidade me separou d'aquella boa gente.</p>
+<p>Sobrevindo um temporal, fomos arrojados sobre as costas de... morrendo no naufragio toda a tripulação.</p>
+<p>Mais uma vez, devi a vida aos meus recursos natatorios, e pude ganhar uma praia sobre a qual as ondas me depositaram.</p>
+<p>O sinisto deu-se de noite, e eu ignorava completamente aonde me achava.<pb n="54"/></p>
+<p>Uma luz guiou-me os passos para uma casa, não muito distante; ahi bati.</p>
+<p>-- Um naufrago! respondi eu a alguem que viera á porta.</p>
+<p>-- Queira esperar, me responderam de dentro.</p>
+<p>Momentos depois, foi esta aberta e appareceu-me um sujeito idoso que me mandou entrar, recebendo-me com evangelico carinho e commiseração.</p>
+<p>Todo enxarcado e com frio! exclamou elle.</p>
+<p>A primeira cousa que preciza é de uma vestimenta completa.</p>
+<p>A maneira porque lhe agradeci convenceu-o, certamente, de que não fazia parte da tripulação do navio naufragado.</p>
+<p>Fui conduzido a um elegante quarto e provido de tudo quanto precisava para me tornar um habitante da terra, menos no comprimento e desalinho do cabello que tinha crescido extraordinariamente.</p>
+<p>Conduzido á casa de jantar aonde estava servida a ceia, quiz o meu hospitaleiro conhecer os promenores do naufragio.</p>
+<p>Eu tinha sabido o sufficiente para o orientar sobre todos os pontos precizos concernentes ao navio e sua procedencia etc.</p>
+<p>Dá'me licensa, continuou elle, com sorriso malicioso, que lhe pergunte, se o fato que lhe mandei é o que lhe compete, pois entro em<pb n="55"/> duvida se é rapaz ou rapariga. Como não tenho familia, não lhe pude ministrar outro.</p>
+<p>Logo vi qual a causa da sua duvida, mas não sabia bem como sair-me d'aquella difficuldade e recorri ao expediente de dizer que era voto que fizera, porém que, tendo cessado a cauza, lhe pedia me proporcionasse os meios de reivindicar os meus fóros de homem.</p>
+<p>Avisado o nosso consul do succedido, veio-me buscar no seu trem: escrevi ao meu procurador, impondo-lhe silencio absoluto em relação á minha existencia, e ordenando-lhe me mandasse as minhas rendas, devendo d'ahi por diante remettel-as para aqui.</p>
+<p>-- E não voltas?</p>
+<p>-- Não! Escolhi esta cidade, muito afastada do mar que nunca mais tornarei a ver: avivar-me-hia, atrozmente, o meu soffrimento.</p>
+<p>Morri para o mundo; assim como o mundo morreu para mim.</p>
+<p>Não conheço aqui ninguem e ninguem me conhece.</p>
+<p>Não receio, por tanto, ser importunado sobre a minha vida passada que se encerra n'este aposento.</p>
+<p>O meu fiel amigo e constante companheiro, é este, referindo-se a um formoso danois que pousára a cabeça sobre os seus joelhos.</p>
+<p>Abro para ti uma excepção: sempre que queiras aqui apparecer, vem; que és tambem<pb n="56"/> uma grata recordação da minha mocidade.</p>
+<p>Era já alta noite: abracei-o, e regressei ao hotel.</p>
+<p>Ao acordar no dia seguinte entrei em duvida se teria sonhado, tão extraordinario era tudo quanto ouvira e presenceára na vespera.</p>
+<p>Hia a sair em procura de Luiz de..., quando o creado do hotel me preveniu que apenas me restava o tempo precizo para almoçar e partir para a estação do caminho de ferro.</p>
+<p>Tive, pois, de desistir, levando comigo impressões que me ficarão gravadas para sempre na memoria.</p>
+<p>FIM.</p>
+</div>
+</body>
+</text>
+</TEI>
