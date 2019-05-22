@@ -17,8 +17,7 @@
       </respStmt>
    </titleStmt>
 <extent>
-<measure unit="words">xxx</measure>
-<measure unit="pages">1</measure>
+<measure unit="words">110186</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>7 de maio de 2019</date>. </p>
@@ -52,13 +51,14 @@
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
 <canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
+<change when="2019-05-22">LB corrected wordcount</change> 
 <change when="2018-11-15">Nada</change> 
 </revisionDesc>
 </teiHeader>
