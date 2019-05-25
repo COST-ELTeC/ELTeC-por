@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title >O Cura de São Lourenço</title>
-<author>Vasconcelos, M.M.S.A. e (?-1893)</author>
+<author>Vasconcelos, Maria do Monte de Santana e (1809-1884)</author>
 <respStmt>
 <resp>ElTeC encoding</resp>
 <name>Adeliana Silva</name>
@@ -14,7 +14,7 @@
 </titleStmt>
 <extent>
 <measure unit="words">51316</measure>
-<measure unit="pages">1</measure>
+<measure unit="pages"></measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>26 de abril de 2019</date>. </p>
@@ -26,8 +26,8 @@
 <bibl>
 <title>O Cura de São Lourenço</title> 
 <author>M.M.S.A. e Vasconcelos</author>
-<publisher></publisher>
-<pubPlace></pubPlace> 
+<publisher>Imprensa Nacional</publisher>
+<pubPlace>Lisboa</pubPlace> 
 <date>1855</date>
 </bibl>
 </relatedItem>
