@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">76520</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>20 de novembro de 2018</date>. </p>
@@ -63,14 +62,14 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>Transviado</head>
+<div type="titlepage"><head>Transviado</head>
 <p>A</p>
 <p>LUIZ DE MAGALHÃES</p>
 <p>Dedico-te este livro que é simultaneamente uma recordação e uma promessa da nossa amizade. Nasceu da vida commum do nosso espirito, da experiencia na aspera e triste jornada pela terra que temos feito juntos e em que caminharemos unidos até que o destino lhe ponha termo.</p>
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Nos campos do Mondego, abaixo de Coimbra, a primavera é frequentemente agreste e fria. Quando o vento do mar sopra rijo sobre os brancos lençoes de malmequeres a surgir da terra humida e paludosa, ainda farta das aguas do inverno, as tardes são inclementes para o corpo ávido do repouso e doçura da natureza.</p>
 <p>Este rapaz que além se apeou d'uma carruagem, em frente da estação de S. Braz, na estrada que vem dos lados de Albergaria, atravessou a linha conchegando o gabão que o vento desconcerta, e, mal entrado na gare, em que só destaca uma carreta abandonada com poucos fardos, procura onde se abrigue. Estamos todavia n'uma tarde d'abril.</p>
 <p>O rapaz seguiu vagarosamente, ao longo da gare; na porta em que leu «sala d'espera» abriu e entrou. A um canto, sobre o duro banco de madeira, dormitava um homem gordo, de lunetas, mãos nos bolsos e chapéu derrubado para os olhos; ao lado uma mulher esbelta e franzina, um olhar brilhante sob o véo que lhe cobria o rosto. O homem levantou-se levemente turbado, com modos submissos, e pareceu hesitar.</p>
@@ -113,7 +112,7 @@
 <p>-- Já reparaste como a Emilia está hoje elegante?</p>
 <p>-- É verdade, já vi. Está bonita. E é singular! Ella que costuma cuidar tão pouco de si...</p>
 <p>Só Claudio podia suspeitar o segredo d'aquella transformação. Via a com uma vaga, quasi inconsciente impressão de triumpho e de vaidade satisfeita. Nem sequer sonhava quantas batalhas lhe reservava esta primeira gloria, tão tentadora como traiçoeira na facilidade com que se deixava conquistar.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>A estrada que partindo de Albergaria para o nascente se interna nas serras, segue paralellamente á ribeira que vem de Alcofa, ao lado de campos ferteis, copiosamente banhados pelas aguas da rega. O valle vae apertando e, passado um estreito em que os montes lateraes quasi se tocam, deixando apenas uma apertada passagem para o rio, a estrada bifurca-se; um dos ramos segue para a esquerda entre montes desertos, calcinados, de longe em longe marcados por oliveiras solitarias, com a vegetação rachitica dos terrenos calcareos que se esboroam em pó fino e branco. A breve distancia, a encosta começa a ser aspera, de todos os lados apparecem miserrimos campos fechados por muros de pedra solta; acima, n'uma quebrada, avistam-se os telhados da aldeia entre bastas ameixieiras e o olivedo já mais viçoso do que o deixamos em baixo. No latido dos cães e no cantar do gallo sentem-se uns prenuncios de vida, signaes de habitação humana com os seus guardas, as suas provisões e os seus pomares.</p>
 <p>Essa aldeia é Villalva, um montão de casebres cortados de caminhos cheios de matto, de tojo, de urze e de carrasco, degráus informes dando accesso a casitas negras de fumo, cortelhos de magros porcos fossando na estrumeira. Á entrada, uma casa caiada, com tres pequenas janellas, uma escada ao lado, acompanhando a encosta, por detraz os curraes formando pateo; e por baixo, pelas frestas vedadas com um varão de ferro, espreitam palhas soltas e os cestos da vindima, advinha se o celleiro, a adega e o palheiro. Fôra ali, n'aquella aldeia e n'aquella casa, que nascera Claudio.</p>
 <p>Os paes eram lavradores, tinham bons campos na varzêa, um vasto pinhal no Bunheiro, e bastas courellas dessiminadas nos montes onde colhiam o centeio, o vinho e o azeite. Os filhos foram poucos; dois morreram novos, n'uma epidemia de variola, uma filha, a mais velha, casara cedo com um lavrador da Alumieira, a poucos kilometros d'ali, e Claudio ficára só em casa, desde os sete annos.</p>
@@ -386,7 +385,7 @@
 <p>Ás vezes sentia saudades de Londres, de Paris e dos seus prazeres. Estudo, lavouras, deveres sociaes, destino da sua vida, tudo passava então ao rol das phantasias. Tinha vinte e cinco annos, uma fortuna regular, que fazia ali, para que privar-se de gozos? Não eram o seu legitimo direito? Amar, beber, regalar os olhos e os ouvidos nas maravilhas da arte, em artistica sensualidade, era o que lhe convinha, era o que cabia á sua edade, era o que havia de lhe trazer em recompensa o riso e a franca alegria de que tanto carecia e em que corpo e alma haviam de expandir-se salutarmente. A natureza protestava contra a clausura.</p>
 <p>E os piedosos conselhos da mãe? Coitada! Illusões das almas simples; a verdade era muito outra. Não tinha sido vão o baptismo nas aguas de cynismo epicurista em que se iniciára pelos templos afamados da devassidão cosmopolita.</p>
 <p>Era n'esta crise do seu espirito que lhe apparecia Emilia.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Em casa do dr. Carvalho, Claudio pouco fallou com Emilia, elle prezo a uma meza do "whist", para ser agradavel ao juiz que sem isso se aborrecia, ella dansando sempre. Tinham vindo as Andrades, de S. Luiz, as Silvas, de Barrosas, raparigas novas, muito praticas em galanteios e n'esta especie de reuniões, de fluente banalidade. Animavam muito, dizia-se; com ellas e quatro estudantes que de Coimbra acompanharam o sobrinho do doutor, as valsas e as quadrilhas seguiram-se quasi sem interrupção. Á meia noite parecia haver certo cansaço, mas, como o doutor mandasse servir sandwiches e vinho da Madeira, a alegria renovou-se.</p>
 <p>-- Que bella noite! dizia um dos estudantes para as damas. O peior é ámanhã a "cabra". Eu ainda não vi nem uma linha da lição. Provavelmente já não me deito. E ainda por cima as saudades... Não sei o que ha de ser de mim!</p>
 <p>Uma das Andrades, que se agradara do rapaz e via já ali correspondencia amorosa para uns bons seis mezes, apressava-se a responder-lhe:</p>
@@ -800,7 +799,7 @@
 <p>De repente, Claudio levantou-se, como n'um subito e apavorado despertar:</p>
 <p>-- Perdoe-me, perdoe-me pelo amor de Deus, disse para Emilia.</p>
 <p>E tremulo, desvairado, correu a esconder-se em casa.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Olhe, ahi vem o dr Carvalho que lhe póde contar alguma cousa, dizia o boticario para o recebedor, atirando os dados sobre a taboa do gamão.</p>
 <p>-- De quê? do calor? perguntava o Carvalho entrando. Tem sido de morrer. Esta manhã tive de ir a Sarnadas...</p>
 <p>-- Mas responda lá, é verdade ou não é?</p>
@@ -1085,7 +1084,7 @@
 <p>-- Canalha!... ouviu ainda.</p>
 <p>E começou a fugir atravez dos campos sobre que poisava, quietamente, bafejando-os, o véu de humida gaze que se desprendia dos regatos.</p>
 <p>O amor, offendido no insulto a Laura, vencera onde a razão e a consciencia tinham sossobrado, debatendo-se passivamente no remorso e na duvida.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>D. Pedro Menezes de Tavora Abreu e Albuquerque era todo o nome com que nos actos solemnes se assignava o fidalgo que vivia em Coimbra, na estrada da Beira, e cujas relações Claudio frequentava.</p>
 <p>Senhor de grandes propriedades e muitos bens no valle de Lafões, onde era conhecido pelo morgado de Cercosa, reunira nas suas mãos, por successivas heranças dos seus antepassados, uma das maiores fortunas territoriaes que por aquellas regiões se conheciam.</p>
 <p>Em Coimbra tinha menos; mas fazia ahi maior assistencia porque o palacio era bello e rico, e a vasta quinta que o rodeava, com grandes insuas a morrer no rio, um ninho de frescura entre o arvoredo magestoso.</p>
@@ -1620,7 +1619,7 @@
 <p>Porquê? Não o sabia ao certo. A confusão do seu espirito era completa, tudo o que conscientemente sentia era uma fadiga extrema. Voltava a Coimbra, lá pensaria o que tinha a fazer. Entregou a casa á irmã e partiu.</p>
 <p>Em Coimbra, sentiu-se ainda peior. Desde que lá tinha chegado, succediam-se sem interrupção as visitas de gente fina que vinha trazer-lhe consolações banaes, em palavras que no correr do dia ouvia innumeras vezes.</p>
 <p>Breve voltou a Villalva. A Laura disse que precisava tratar de partilhas e regular os seus negocios, mas a verdade é que queria estar só com as suas saudades, as suas máguas e os seus degostos. Queria concentrar-se na meditação, tentar descobrir e vêr claro o estado da sua alma. Contrariedades, esperanças, desillusões e uma infinita saudade batiam-n'o sem cessar como o lebreiro persegue a caça. Fugiria? Resistiria? No seu pensamento ia pelejar-se mais uma temerosa batalha.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Villalva! O silencio e a paz no contacto da natureza, a absorpção no seu caudaloso palpitar, o arrebatamento nas suas emanações purificantes! Perante a cintura de montanhas que lhe cerravam o horisonte, lançando os olhos pelo valle em que os casaes dormiam escondidos no arvoredo ou debruçados á beira dos campos vicejantes, Claudio sentia uma vaga aspiração, um desejo obscuro cortado de saudades traduzindo-se n'um pullular de interrogações que opprimiam. Onde estava? Por que agrestes caminhos tinha andado? Onde ia? O que queria?</p>
 <p>Só, n'aquella sala que ouvira os seus primeiros risos e as suas primeiras lagrimas, perante o vulto sagrado da mãe, agora sempre presente aos seus olhos, resurgindo reanimado, para não mais morrer, na exaltação d'uma immarcessivel lembrança, reconstituia a sua existencia, recordando factos, buscando ainda, com uma tenacidade de naufrago, esperanças de salvação.</p>
 <p>O desengano esmagava-o; já não podia ter duvidas sobre a situação a que chegára, a historia da sua vida era um livro aberto em que não ficava o mais breve enigma nem a mais passageira obscuridade. Recordava os annos da infancia e mocidade, o respeito pelo trabalho e pela humildade de que seus paes lhe haviam dado lição profunda no exemplo ininterrompido, via como depois surgira a tentação accendida pelas fascinações da sciencia materialista e pelas perversões da riqueza, e sentia ainda com angustia a tortura em que o lançára o tormentoso desvairamento do adulterio.</p>

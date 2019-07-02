@@ -14,7 +14,6 @@
 </titleStmt>
 <extent>
 <measure unit="words">44818</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>26 de março de 2019</date>. </p>
@@ -59,7 +58,7 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlePage"><head>Autores Célebres</head>
+<div type="titlepage"><head>Autores Célebres</head>
 <p>Maria O'Neill</p>
 <p>A Marquesa de Vale Negro</p>
 <p>1914</p>
@@ -70,7 +69,7 @@
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Sentada na vasta cozinha lageada, junto do lume, a tia Engracia fazia meia. De quando em quando olhava para o velho relogio collocado na parede e soltava um suspiro. Parecia-lhe que n'aquella noite os ponteiros não se mexiam do logar. Lá fora a chuva cahia a jorros o o vento uivava furibundo pelas gargantas do valle. O gato, enroscado aos pés da sua dona, ronronava satisfeito, e o cão, atravessado em frente da porta, descansava o focinho nas mãos, de olhos abertos e ouvido attento ao menor ruido. Por fim ergueu-se, agitando a cauda, e começou a ladrar festivamente.</p>
 <p>-- Até que emfim! exclamou a senhora Engracia com satisfação. Já não é sem tempo!</p>
 <p>E pousou a meia nos joelhos, olhando por cima dos oculos na direcção da porta. Esta abriu-se dando passagem a uma gentil rapariguita de dezoito annos pouco mais ou menos. O cão lançou-lhe as patas aos hombros e prodigalisou-lhe as mais vivas demons-</p>
@@ -155,7 +154,7 @@
 <p>-- O João tem razão no que diz. Eu não gosto d'elle. Se gostasse, não acceitava a partida com tanto gosto. Sempre ha cada pressentimento! Pobre rapaz! E se eu o desenganasse?... Para quê? Em me indo embora, deixando de me vêr, vai-lhe esmorecendo a ideia do casamento e escuso de lhe dar um desgosto.</p>
 <p>Depois sorriu e, deitando-se, sonhou com Lisbôa, que nunca vira e lhe apparecia como uma visão feérica que nada egualava em grandeza, com palacios magnificos e carruagens deslumbrantes. Via-se vestida elegantemente, como a criada franceza que sua ama trouxera de Paris, e, longe de se penalisar com essa ideia, como mostrára a sua avó, revia-se, no seu novo trajo, nos bellos crystaes que ornavam o toucador da Marqueza de Valle Negro.</p>
 <p>E assim, dando largas á phantasia, cerraram-se-lhe lentamente as palpebras e adormeceu profundamente.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>No quarto de cama da Marqueza de Valle Negro as janellas estão semi-cerradas. Junto do leito, Margarida, sentada n'uma cadeira baixa, vola o somno da doente que parece penosamente agitado.</p>
 <p>No alto espelho, que defronta o leito, contempla Margarida com pesar os estragos que a doença tem feito no rosto da Marqueza, outr'ora tão formoso; depois olha-se a si e fica absorta e contente na sua contemplação. O seu vaidoso orgulho dizia-lhe que não era menos gentil do que D. Mafalda o fôra em nova o que, vestida como ella, o seu ar não seria menos senhoril.</p>
 <p>A doente gemeu. Ella aproximou-se cuidadosa, mas, verificando que a sua ama dormia, tornou a sentar-se. Uma ideia, que ainda não tivera, veio sobresalta-la:</p>
@@ -205,7 +204,7 @@
 <p>sultado. Fê-la sair do quarto e entrar na casa dos engomados. A' vista do pranto das suas companheiras, Margarida desatou tambem a chorar. O doutor chamou de parte a governante, fez-Ihe em voz baixa algumas recommendações ácerca da rapariga, o voltou a ter com o marquez, que soluçava entregue á sua dôr, n'uma verdadeira desesperação.</p>
 <p>-- Então, meu caro amigo?... Seja homem. Esse chôro não é proprio de quem tem o seu nome. Foi preferivel assim. No estado em que estava a senhora marqueza, a vida era-lhe um verdadeiro martyrio. Não seja egoista, meu amigo. Enterremos os mortos e cuidemos dos vivos.</p>
 <p>Assim se fez.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>E' bonita a casa de Valle Negro. De uma architectura perfeitamente moderna, é copia d'um dos mais recontes e gentis castellos que o gosto francez inventou não se poupando a despezas. Depois do enterro da marqueza, quizeram os amigos e parentes que o viuvo fôsse viajar, mas elle recusou-se a isso. Nem mesmo quiz voltar para a capital, e permaneceu, mau grado a opinião de todos, no theatro da sua grande dôr. Nenhum dos criados ou criadas foi despedido. Margarida teve ordem de não trabalhar e era tractada com cuidado da doença nervosa que o subito espectaculo da morte da marqueza lhe causara.</p>
 <p>O marquez passava a vida caçando, andando a monte. Não o viam senão ás horas de comer, ou na missa do domingo, na egreja parochial. Furtava-se á convivencia de todos o era notorio o seu visivel acabrunhamento. Uma tarde em que a aspereza do tempo o obrigara a não sahir, dirigiu-se ao quarto da marqueza e começou a abrir as gavetas. Encontrou</p>
 <p>tudo n'uma perfeita ordem. Lembrando-se de que, no ultimo tempo de vida da mulher, era immenso o desalinho em todas as coisas, chamou a governante e perguntou-lhe quem puzera ordem em tudo. EIla respondeu-lhe que Margarida, estando prohibida de fazer trabalhos violentos, lhe pedira para arranjar tudo alli. Accedera por ser necessario, e não fallára n'isso a seu amo para o não impressionar.</p>
@@ -263,7 +262,7 @@
 <p>-- Eu procurarei saber a causa de tão estranha decisão, Margarida, e se na minha casa alguem lhe faltou ao respeito que se deve a toda a mulher honesta, despedi-Io-hei, seja quem fôr.</p>
 <p>-- Adeus, senhor marquez.</p>
 <p>-- Adeus, Margarida. Estimo que seja feliz.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>E' formosissimo o rio que corro em Valle Negro, serpentoando por entre fraguas e vinhedos, e reflectindo os mansos pinheiraes que se erguem nos montes de que elle aflora as faldas. No seu curso varias lages, cuidadosamente collocadas, attestam que as raparigas do logar visinho costumam vir lavar alli, ajoelhando na alfombra da margem, sob a ospessa ramaria dos salgueiros e dos platanos. Estava uma manhã formosa. O sol acabava de surgir por detraz d'um cómoro e Margarida, com uma trouxa á cabeça, encaminhava-se lentamente para a margem. Contra o costume não estava ninguem lavando.</p>
 <p>Ella desfez a trouxa, ajoelhou-se sobre a relva humida, e, depois de arregaçar e torcer a saia para a não molhar, começou lavando.</p>
 <p>O João da Levada, que a seguira a distancia, sem que ella desse por isso, contemplou-a muito tempo em silencio e com tristeza. Por fim, aproximando-se, perguntou:</p>
@@ -349,7 +348,7 @@
 <p>-- Amo, mas é o mesmo que não amasse, porque nunca lhe pertencerei.</p>
 <p>-- Isso é ir muito longe. O destino pertence a Deus. Boa tarde, Margarida, até breve.</p>
 <p>-- Adeus, senhor marquez.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Passados tres dias, a tia Engracia, em cima d'uma pequena escada, concertava as cannas da parreira que guarnecia a porta do casal, quando o marquez, entrando pela porta do quinteiro, lhe gritou de longe:</p>
 <p>-- Eh! tia Engracia! Pode chegar aqui?</p>
 <p>-- Lá vou, meu senhor! é um ai emquanto desço.</p>
@@ -485,7 +484,7 @@
 <p>E a sua voz exprimia tanta verdade que, desde então, Paschoal acreditou que era amado e elles fôram completamente felizes.</p>
 <p>-- Ora, pensava Margarida costurando, Paschoal de Sousa era filho d'um sardinheiro que costumava passar na aldeia e muita vez vendeu peixe a minha avó...</p>
 <p>Porque razão não faria o tempo o milagre de a aproximar do marquez e porque não occuparia ella outra condição social diversa da que tinha agora? E, dando redoas a phantasia, viu-se marqueza como por encanto, habitando ValIe Negro e adorada por Estevam que a rodeava de disvelos.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Sahindo do casal, a tia Engracia encaminhou-se vagarosamente para casa do marquez. Ia pensativa e, á medida que se aproximava do palacio, sentia-se inquieta, e com uma grande tentação de retroceder. Avisinhando-se da alta grade que rodeiava o parque, viu o marquez passeiando sob a frondosa ramaria dos olmos que ornavam a entrada. Pareceu-lhe que tambem estava nervoso, e sentiu uma forte vontade de chorar, um mêdo immenso d'essa entrevista que elle lhe annunciára alegre e da qual, talvez por isso mesmo, tanto se temia.</p>
 <p>Vendo-a, Estevam fez-lhe signal para não puxar a sineta e veio elle proprio abrir-lhe o portão.</p>
 <p>-- Por aqui, sr.ª Engracia, por aqui, E' inutil que os criados dêem fé da sua vinda a Valle Negro.</p>
@@ -666,7 +665,7 @@
 <p>De subito um pensamento tornou-lhe resplandecente o olhar. Abriu uma garrafa de vinho e fez-se a si proprio uma saude, exclamando com alegria:</p>
 <p>-- Coração ao largo, rapaz! Esta ideia vale uma fortuna. Ainda não está tudo perdido. Quem melhor as tem melhor as joga. A' tua saude, João, para que sejas bem succedido no que vaes tentar.</p>
 <p>E bebeu o copo d'um trago com singular satisfação. Depois orou, deitou-se, e dormiu como uma pedra que cahisse em poço.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>D. Maria da Graça acabara de almoçar e, sentada junto da mesa, com os cotovellos apoiados n'ella, lia com attenção o Diario de Noticias. Esta senhora, assanhadamente progressista, tinha sempre um papel importante nas eleições locaes, e seguia com a maxima attenção as noticias parlamentares que davam os jornaes, para vêr a importancia que o deputado do seu circulo tinha nos debates. Se era palrador, ella enthusiasmava-se e apoiava quanto elle dissesse, embora, ás vezes, no fundo da sua consciencia, se sentisse quasi em completo desaccordo; mas, se, pelo contrario, elle não fallava e as sessões decorriam sem haver pelo menos uma allusão ao illustre deputado do seu circulo, ella barafustava, insurgia-se, e exclamava indignada:</p>
 <p>-- Isto não pode continuar assim! E' preciso que elle falle; senão, nas proximas eleições, torna-se necessario alija-l'o. Um deputado, que não falla, não pode ser um defensor capaz dos nossos interesses.</p>
 <p>E recommendava-lhe, por cartas interminaveis e curiosissimas, varios pequenos interesses dos seus</p>
@@ -756,7 +755,7 @@
 <p>-- E' um bem, volvou-lho com indifferença Margarida: talvez lá faça fortuna e seja mais feliz do que é aqui.</p>
 <p>-- Dizes bem, cachopa; pode muito bem ser, aprovou a tia Engracia.</p>
 <p>Joanninha, contrariada de vêr o pouco interesse que a familia tinha pelo João, pegou na celha das lavagens e foi tractar dos porcos.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>O marquez, desde a sua conferencia com a tia Engracia, na qual fizera um plano de vida futura, tornou-se mais sociavel. No primeiro domingo, depois da missa parochial, convidou para jantar o prior e Paschoal de Sousa. A' noite jogou com elles e com o boticario o voltarete e o casino, conversaram em assumptos de interesse geral, e pediu-lhes amavelmente que voltassem todos os domingos a fazerem-lhe companhia. E, a pouco e pouco, a casa de Valle Negro tornou-se o ponto de reunião de todos os homens dos arredores.</p>
 <p>Margarida partira sem se despedir do marquez como se nada soubesse das combinações havidas entre elle e sua avó.</p>
 <p>E esta viera com Joanninha para o palacio e substituia ahi, muito vantajosamente para Estevam, a velha governante que, apesar de idosa, era mais nova do que ella, mas juntava o sou pé de meia á custa da patrão.</p>
@@ -879,7 +878,7 @@
 <p>Adelia tomou lugar na carruagem junto dos seus, e Luiz Soares, enfiando o braço de João da Levada, exclamou com sinceridade.</p>
 <p>-- Tens bom gosto, João. A tua Margarida é uma criatura divina.</p>
 <p>João estremeceu. Parecia-lhe que o seu amigo dissera aquellas palavras n'um tom estranho e commovido que lhe despertou o ciume.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Margarida foi passar o primeiro domingo de ferias a casa da familia Soares. A' imitação de João, não disse como era modesta a sua origem. Não tinha apellido, mas entrando para o convento, com um instincto admiravel da importancia que têem para certas classes sociaes os preconceitos, disse chamar-se Margarida do Giestla e assim ficou sendo tractada.</p>
 <p>Os seus modos, copiados pelos das suas mais distinctas companheiras, eram d'uma verdadeira senhora e os vestidos, simples mas elegantissimos, trahindo uma magnifica tesoura, realçavam-lhe a natural distincção.</p>
 <p>Adelia mostrava-se muito amiga da sua condiscipula, apesar da grande differença da idade que entre ellas existia, e o irmão, mau grado seu, sentia-se completamente captivado. Por seu gosto, não teria convidado João a jantar, mas, muito leal, vence o</p>
@@ -932,7 +931,7 @@
 <p>Emfim, a comparação com João começou a ser desfavoravel ao marquez no espirito do Margarida, a a generosa acção de Estevam a ser afeiada a seus olhos por deducções desvantajosas do factos minimos aos quaes até então não ligára importancia.</p>
 <p>Ninguem se fie no affecto da mulher desde que descure o cultiva-lo.</p>
 <p>Queixar-se depois dos factos naturaes é, sobre imprevidencia, toleima.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Na estufa de Valle Negro, Joanninha, no sou trajo campesino, ajoelhada junto dos vasos, mondava as hervitas que despontavam sem licença sobre a terra destinada a lindas e garbosas plantas.</p>
 <p>O marquez, sentado na mesma cadeira em que já uma vez o vimos, fumava, fingindo lêr, e observava ás furtadelas a gentil figura da sua futura cunhada. Tres gaiolas, suspensas do tecto da estufa, continham tres infatigaveis cantores: dois pintasilgos e um canario.</p>
 <p>Ao centro da estufa, n'um pequeno tanque, fluctuavam largas fôlhas de forma elliptica.</p>
@@ -976,7 +975,7 @@
 <p>Joanna, no seu quarto, parecia-lhe que acordára d'um sonho, e toda a antipathia, todo o desdem que até então sentira pelo marquez, mudara-se n'um impetuoso amôr, violento e fogoso como o seu indomavel caracter.</p>
 <p>E murmurava baixinho:</p>
 <p>-- Agora é que eu comprehendo!... Não era zanga o que eu lhe tinha. Era... era amôr.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Passada a primeira crise do desespero, durante a qual o marquez se censurara asperamente pelo acto que praticara, resolveu entregar-se com todo o impeto da sua natureza violenta, soffreada ha tão longos mezes, a esta paixão illicita, expontaneamente nascida n'um segundo.</p>
 <p>Dizia comsigo:</p>
 <p>-- Remediar o mal feito é impossivel. Ganharemos tempo.. fechando os olhos para não vêr. E' o melhor.</p>
@@ -1082,7 +1081,7 @@
 <p>Só a criada franceza, notando os modos ainda rudes da sua antiga companheira, ia triste, pensando que n'este mundo mais vale cahir em graça do que ser engraçado.</p>
 <p>E achava-se tão excessivamente engraçada quanto infeliz.</p>
 <p>Vão lá tirar as illusões a ninguem!</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Joanninha compenetrou-se tanto de que precisava apresentar-se como uma senhora para não envergonhar o marido, que, rapidissimamente, á força de estudar as mulheres que encontrou e viu pelas ruas, obteve, senão maneiras distinctas, pelo menos tão naturaes, que não feriam as pessoas de bom tom. Podiam talvez chamar-lhe despretenciosas, mas isso nunca foi defeito. Fallava pouco, e, como o marido, habituado á sua grande verbosidade lh'o estranhasse, ella respondeu-lhe docemente:</p>
 <p>-- Sei que fallo mal e não quero envergonhar-te.</p>
 <p>O marquez ficou penhorado com ella: todos os dias lhe descobria novos e delicados sentimentos.</p>
@@ -1178,7 +1177,7 @@
 <p>-- Não poder eu ser eu!... E' impossivel que não acabe por atirar com a albarda ao ar!</p>
 <p>E sorria amavelmente ás palavras do marido e de Jenny, parecendo estar nas melhores e mais amistosas disposições de espirito.</p>
 <p>São assim as mulheres. Não ha que fiar n'ellas.+</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>A gentil irmã de Joanninha, Margarida, que ha tanto tempo deixamos esquecida, impõe-nos o dever de a lembrarmos aos leitores. Deixamo-la no convento do Bom Successo, confrontando no seu pensamento o noivo com o seu ex-namorado. Tudo levava a crer que finalmente seria o pobre artista o enlevo do seu coração. Mas quem quizer fazer previsões do sentimentos está sempre sujeito a errar. Foi o que d'esta vez aconteceu.</p>
 <p>O amigo do João começou a acompanhar a mãe, sempre que ella ia vêr Adelia, com o apparente pretexto de trazer noticias a João, mas do facto para vêr Margarida. Não lhe passava pela mente, nem por sombras, atraiçoar o amigo; mas gostava de a vêr, comprazia-se na sua conversa, enlevava-se na musica da sua voz, e João mostrava-se tão reconhecido d'este favor, que entendia, não sabendo ninguem o que se passava no intimo da sua alma, poder, sem quebra do dignidado, frequentar o convento e conversar com Margarida.</p>
 <p>As raparigas novas, mesmo as que são mais ingenuas, teem uma vista dupla para perceber os sentimentos amorosos das pessoas da sua idade. Adelia começou notando a assiduidade de seu irmão era visita-la. Primeiro penhorou-se: depois, tendo o rubor que subia ás faces do irmão logo que Margarida apparecia, começou a suspeitar do caso; o finalmente, um dia em que por levo incommodo ella não veiu ao locutorio, teve a certeza.</p>
@@ -1250,7 +1249,7 @@
 <p>-- Isso tambem eu digo, affirmou Paschoal abraçando-o.</p>
 <p>D. Maria da Graça, commovida, levou o lenço aos olhos.</p>
 <p>Não se pode negar que em todo o peito de mulher ha um coração de mãe.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>A tia Engracia recebera de manhã um telegramma que lhe dizia:</p>
 <p>«Partimos hoje, devendo chegar ahi no comboio</p>
 <p>das tres.»</p>
@@ -1460,7 +1459,7 @@
 <p>-- Demorou-se, meu tio!</p>
 <p>-- Que queres, rapaz? quando o passado nos empolga, somos insensiveis ao presente e desdenhamos o futuro.</p>
 <p>E dirigiu-se para a capella a fazer as suas orações da noite.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Emquanto durou a criação do filho, a marqueza não pensou em sahir nem em divertimentos. Estevam ia só a toda a parte e ella ficava embalando o berço e conversando com Jenny. Mas não ha nada peior do que ferir a vaidade feminina. Uma magua intensa dormia falsamente no coração de Joanninha. Aquella apresentação á duqueza de Alhandra no Bois, em que tão visivel lhe fôra o receio que o marido tinha de a vêr cometter qualquer inconveniencia que fôsse ferir as attenções dos que se prezam de saber viver, a pressa com que retomara habitos mundanos desde que tivera a certeza de que a mulher o não acompanharia ás festas, tudo isso a susceptibilisara cruelmente e lhe fizera nascer no espirito a ideia da vingança. Não d'uma vingança torpe que a sua alma não percebia, mas d'uma vingança digna d'ella.</p>
 <p>-- E' preciso, pensava Joanninha, que elle, quando fallar commigo, perca o habito, que adquiriu, de jul-</p>
 <p>gar que falla a uma criança prestes a cahir, se lhe não acodem.</p>
@@ -1520,7 +1519,7 @@
 <p>E como não era criatura que pudesse habituar-se à ideia de perder cousa alguma, resolveu-se, visto que o não podia vender, a habita-lo, a ir viver alli no pé em que os antigos marquezes viviam, tractando os camponezes a muita distancia, mas fazendo-se perdoar este proceder por habeis e reguladas generosidades.</p>
 <p>Como se enganava! Por muito rudes que elles fossem, tinham um coração e, bem que ninguem ainda lhes tivesse prégado a igualdade, o instincto dizia-lhes tantas coisas!</p>
 <p>Não ha compendio de moral mais perfeito do que aquelle que, sem palavras, temos gravado na nossa consciencia.</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>A tia Engracia consternou-se ao receber a noticia da morte do marquez. Andara com elle ao collo, adormecera-o nos joelhos contando-lhe historias e, se sempre lhe quizera, desde que Estevam se tornára seu neto, tinha por elle um verdadeiro culto.</p>
 <p>Sabendo que a neta vinha para Valle Negro não se alegrou. Já não era Joanninha que chegava. Era a nova marqueza que lhe enviara o seu ultimo retrato de Paris, no qual ella procurára em vão, anciosamente, um traço da sua Joanninha. Desejou mudar para o casal antes da sua chegada, mas receou dar que fallar no povo.</p>
 <p>Resolveu portanto esperar, encommendando-se com devoção á Senhora das Dôres para que lhe não desse um fim de vida attribulado.</p>
@@ -1607,7 +1606,7 @@
 <p>Aconselhada assim pela mãe de seu marido, a intelligente Margarida, sempre que no caminho da vida sentia uma hesitação, recorria a ella e encontrava receita prompta e efficaz. Por isso Margarida, fallando ás vezes com as suas amigas, confessava lhes:</p>
 <p>-- Não me venham dizer que a experiencia alheia não serve de nada. Se não presumirem muito de si e discorrerem que é preciso aprender a viver, como a cantar ou a qualquer outra cousa, verão que a experiencia alheia não é perdida.</p>
 <p>E a senhora D. Carolina quasi dava por bem empregados todos os seus soffrimentos, vendo que era o filho que tirava o proveito d'elles.</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Enterrado o marido no grande mausoleu do cemiterio de Valle Negro, a dôr de Joanna, já tão rasoavel, diminuiu consideravelmente. Aquelle negocio, segundo o seu innato modo de ser, estava arrumado.</p>
 <p>A gente do povo, passada a novidade da chegada, quasi se convencera de que ella era outra mulher. Evitavam fallar-lhe, cumprimentavam-n'a de longe, ao que de longe ella amavelmente correspondia; mas, se por acaso se viam forçados a dirigir-lhe a palavra, não lhe davam o titulo nem o nome, arranjando varios circumloquios para não empregarem a palavra senhora.</p>
 <p>Comtudo não a tratavam por tu. Aquelle ar, que ella trouxera de Paris, impunha-se-lhes, mau grado seu.</p>
@@ -1760,7 +1759,7 @@
 <p>-- Para que digamos, confirmou o prior, muito bem não parece, mas como já está feito... Nós, se nos perguntarem, temos de affirmar que vimos... Para recuar já é muito tarde.</p>
 <p>-- Tambem digo... Então, vá lá.</p>
 <p>E estendeu de novo as mãos a João que lh'as beijou com transporte.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>Margarida, ao sabor do casamento da irmã com João, pasmou e disse:</p>
 <p>-- Está destinada a casar com os homens que gostaram de mim. Ainda bem que me não convidou para o casamento. Eu não teria animo de recusar o convite, e tremeria com mêdo de que ella me roubasse o Luiz.</p>
 <p>-- Não havia perigo, aflirmou elle beijando-a na testa. Isso não entra nos limites do possivel.</p>
@@ -1856,7 +1855,7 @@
 <p>-- Quem sabe? Talvez se as circumstancias variassem... se elle não sentisse que já não era amado e que empecia a ventura dos outros... Quem sabe ?... Grande alma, grande coração tinha elle .. O seu fim, digam o que quizerem, não foi uma fraqueza...</p>
 <p>E fazendo para si estas observações, afagava a cabeça annellada da mais pequena filha de João, pensando:</p>
 <p>-- Hei de cumprir pontualmente a promessa que lhe fiz.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>Passado pouco mais d'um anno, Joanna casava com o cunhado, mas, por não sei que particular enguiço, não o quiz fazer em Valle Negro.</p>
 <p>Quando no povo conheceram a noticia, discutiram-n'a muito durante o primeiro mez. A' noite, na Tenda do Lourenço, emquanio se despejavam canecas de vinho e se jogava a bisca lambida, era assumpto forçado o casamento de Joanninha.</p>
 <p>-- Não era eu que casava com ella! bradava indignado e dando uma punhada na mesa o filho d'um pequeno lavrador dos arredores.</p>

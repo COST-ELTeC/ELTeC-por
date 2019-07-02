@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">20683</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>10 de janeiro de 2019</date>. </p>
@@ -65,7 +64,7 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>O Dr. Luiz Sandoval</head>
+<div type="titlepage"><head>O Dr. Luiz Sandoval</head>
 </div>
 <div type="liminal">
 
@@ -75,7 +74,7 @@
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Haviam-na casado aos dezoito annos, com um amigo do pae, que tinha mais dezoito annos do que ella. </p>
 <p>Os paes adoravam-na, e queriam vel-a bem casada; José Maria de Brito, o marido, possuia quarenta contos de reis, e estava, por conseguinte, na conta de ser acceito. </p>
 <p>Vivera até aos trinta e seis annos n'u ma sua propriedade, onde, de verão, recebia amigos, com os quaes se divertia caçando, fumando e jogando o bilhar. </p>
@@ -99,7 +98,7 @@
 <p>Etelvina, quando lhe falaram em tal, pasmou. </p>
 <p>Lembrara-se muitissimas vezes de casar; mas nunca com o compadre do pae. No emtanto, se não tinha por elle decidida sympathia, tambem lhe não tinha repugnancia, e respondeu que casaria, logo que o papa e a mamã fizessem gosto n'isso. </p>
 <p>Casou como casam quasi todas as mulheres, para casar, simplesmente; sem consciencia dos deveres rigorosos que o seu novo estado lhe ia fazer contrahir!</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Em casa de Caetano Ramalho, é grande a azafama. É que casa hoje Etelvina, a sua filha mais velha. </p>
 <p>O casamento devia realisar-se ás quatro horas da tarde; e, posto que fossem apenas duas horas, estava a parentela dos dois noivos reunida na espaçosa sala do abastado proprietario minhoto. </p>
 <p>Etelvina, pertinazmente fechada no seu quarto, não apparecera ainda aos parentes. </p>
@@ -137,7 +136,7 @@
 <p>Responde que sim. </p>
 <p>Se gosta de estar casada. </p>
 <p>Mesma resposta, acompanhada de um suspiro. </p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Casar aos dezoito annos, com a mente repleta de sonhos, a alma sedenta de ideal, o coração sequioso de um affecto ardente e inextinguivel, e ver-se ligada por toda a vida a um Jose Maria de Brito, que decepção tremenda ! </p>
 <p>Quando, no dia seguinte ao seu casamento, Etelvina foi, pelo braço do marido, visitar a sua propriedade, quando esperava que elle lhe fallasse nas doçuras inegualaveis da lua de mel, na embriaguez auroreal dos primeiros tempos d'aquella vida entre deux, disse-lhe este, com o seu sorriso alegre e o seu modo bonacheirão e expansivo: Até agora, engordava dois porcos por anno, mas vou passar a engordar quatro!</p>
 <p>E accrescentou amavelmente: Já mandei vir uns bacoros do Alemtejo... </p>
@@ -154,14 +153,14 @@
 <p>Etelvina, viuva aos vinte e um annos de edade, resolveu passar os primeiros tempos da viuvez em casa de seu pae. </p>
 <p>Para la partiu pois na noite do proprio dia em que se sepultara o marido. </p>
 <p>Sentiu uma sensação agradabilissima ao ver-se outra vez no seu quarto de solteira; mas, depois, lembrou-se de que o marido fôra sempre bom para ella, e entrou a chorar copiosamente ! </p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Passado o anno de rigoroso luto, resolveu Etelvina ir viver algum tempo em Lisboa. </p>
 <p>Uma sua amiga de collegio, então casada com um advogado muito distincto da capital, escrevia-lhe frequentemente, e procurava por todos os meios attrahil-a para lá. </p>
 <p>A verdade É que a vida de Lisboa, que entrevira durante os quatro annos em que estivera no collegio, seduzira Etelvina, e não eram precisas grandes instancias para a levarem a abandonar o modesto recanto da província onde nascera. </p>
 <p>A amiga alugara-lhe, no mesmo predio em que residia, uma casita, que mobiliara com o seu fino gosto de mulher elegante e caprichosa, e de que Etelvina tomou posse, ainda envolvida nos crepes de uma viuvez recente, e acompanhada por uma creada que trouxera do Minho, rapariga que tinha pouco mais ou menos a sua edade, e que lhe era fundamente dedicada. </p>
 <p>Os primeiros mezes de Lisboa pareceram monotonos a Etelvina : quasi tão monotonos como os que na casa paterna acabava de passar. </p>
 <p>Pouco sahia, e não conhecia ninguem; alem d'isso, achava-se doente: os tres annos que vivera em companhia do marido, sempre contrafeita e aborrecida, haviam-lhe arruinado a constituição robusta. Tinha insomnias, palpitações, e crises nervosas, que, as vezes, a incommodavam seriamente. </p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Uma noite, sentiu-se muito peior do que de costume. </p>
 <p>A creada que a acompanhava, vendo-a desfallecida e tremula, assustou-se, e, descendo a correr os dois lances de escada, foi pedir ao guarda-portão que fosse a toda a pressa chamar um medico. </p>
 <p>Havia um naquella mesma rua; um rapaz muito novo, formado havia pouco tempo, e que gosava já da reputação de medico muito distincto. </p>
@@ -194,7 +193,7 @@
 <p>-Ora ahi tem V. Ex.a o que lhe tem feito mal. V. Ex.a deve passeiar, ler, ir ao theatro, e deitar para longe de si este som brio spleen que tanto prejudicio lhe tem causado. V. Ex.a é muito joven, e não pode, aos vinte e tres annos, viver como se tivesse sessenta. V. Ex.a já pagou a memoria de seu esposo o tributo devido de lagrimas e saudades; agora é tempo de tratar de si. E depois, que remedio tem V. Ex.a senão curvar-se ao que lhe receita o seu medico? </p>
 <p>Etelvina sorriu. </p>
 <p>O Dr. Sandoval sentou-se à banca, e receitou um medicamento que devia fazel-a dormir, e, em seguida, retirou-se, despedindo-se com a cortezia de um homem da melhor sociedade. </p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>No dia seguinte, seriam duas horas da tarde, e estava Etelvina no seu boudoir, quando a creada lhe foi dizer que se acha va alli o Doutor. </p>
 <p>Luiz de Sandoval entrou, informou-se da saude da sua doente, que havia dormi do o resto da noite, e se achava muito melhor, e, em seguida, conversou durante cerca de meia hora, com aquelle fino espi rito e requintada delicadeza de um homem que sabe o que ha-de dizer as mulheres. </p>
 <p>Ao despedir-se, disse-lhe, entregando lhe um bilhete em que se liam o seu nome e morada: Caso V. Ex.a torne a precisar dos meus serviços, envie-me as suas ordens. </p>
@@ -216,7 +215,7 @@
 <p>-Tenho commettido a indelicadeza de lhe não perguntar por sua esposa; mas, como ignorasse que V. Ex.a era casado... </p>
 <p>O Doutor empallideceu um pouco.</p>
 <p>--Minha mulher, disse então, está boa, e brevemente virá offerecer a nossa casa a V. Ex.a. Espero que nos fará a honra das suas visitas... </p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Effectivamente, logo no dia seguinte, pelas duas horas da tarde, foi Etelvina prevenida de que se achava na sala uma senhora que lhe queria falar. </p>
 <p>A visitante, ao entrar, entregara o seu bilhete à creada. Etelvina pegou-lhe e leu o seguinte: </p>
 <p>Bertha de Sandoval </p>
@@ -229,7 +228,7 @@
 <p>E, como Etelvina balbuciasse uma desculpa, Bertha continuou: </p>
 <p>-Não admitto recusas. O Luiz conferiu-me todos os seus direitos e esta é a minha primeira receita. </p>
 <p>E sahiu pouco depois, com um até logo, nada ceremonioso. </p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Bertha foi ponctual; ás 8 horas parava o seu coupé á porta de Etelvina, prevenida pelo groom de que era esperada. </p>
 <p>Pouco depois, rodavam para o theatro lyrico, levadas pela fogosa parelha de cavallos negros. </p>
 <p>Etelvina puzera um vestido de faille preto, e tinha, por unico enfeite, uma camelia branca, que se destacava, com a sua alvura incomparavel, da negrura setinosa do corpete. </p>
@@ -268,7 +267,7 @@
 <p>N'uma occasião, tiveram de parar para deixar passar alguns grupos, e, por uma attracção a que nenhum dlelles pôde resistir, olharam-se longamente... </p>
 <p>E depois, por um phenomeno que os psychologistas se encarregarão de explicar, o tremor da mão de Etelvina transmittiu se ao braço do Doutor. </p>
 <p>Chegados ao coupé, as duas senhoras subiram, e Luiz de Sandoval e o cunhado, depois de accenderem os seus charutos, voltaram a pé para suas casas. </p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Na sexta-feira seguinte, Etelvina foi ao five o' clock tea de Bertha. </p>
 <p>Chegada á casa do Doutor, subiu uma larga escada alcatifada, e tocou no botão de uma campainha, sendo-lhe immediatamente aberta a porta por um creado de casaca e gravata branca. </p>
 <p>Um pouco perturbada por esse ceremonial, que não esperava, mas com o desembaraço que desde muito pequena tivera, deixou-se guiar pelo creado, que a fez atravessar uma comprida ante-camara, e, por fim, penetrar n'uma grande sala de rece pção, onde a deixou, dizendo que ia prevenir a senhora. </p>
@@ -314,7 +313,7 @@
 <p>Durante a noite, entregue a toda a febre dos seus ciumes, protestava esquecel-o, fugil-o, partir para casa de seu pae, ir para parte onde nunca mais, nunca mais, lhe ouvisse pronunciar o nome! </p>
 <p>Depois, amanhecia, e ella levantava-se, e, pelas 8 horas, chegava por acaso a janella e recebia o cumprimento sempre correcto e irreprehensivel do Doutor, que sahia n'aquella mesma hora, a ver os seus doentes. A</p>
 <p>E, pelo dia adiante, ia a casa d'elle, embriagava-se com o som da sua voz, prendia-se cada vez mais com as attençöes affectuosas com que elle a cercava infatigavelmente ! </p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Um dia, depois do almoço, disse Bertha ao marido : </p>
 <p>-- Preciso muito de falar comtigo.</p>
 <p>-- Eis-me desde já as tuas ordens. </p>
@@ -352,7 +351,7 @@
 <p>-Isso não; mas dize-lhe que... lhe falarei, quando... se proporcionar ensejo... </p>
 <p>-Ah, exclamou a esposa do Doutor abraçando-o, és um anjo! Bem sabia eu que havias, afinal, de dizer que sim! </p>
 <p>E sahiu alegremente, a fim de escrever ao irmão, participando-lhe essa boa noticia. </p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Assim que se viu só, no remanso do seu gabinete, Luiz de Sandoval encostou a fronte incandescida ás vidraças da sua janella.</p>
 <p>E, pensando nas ultimas palavras de Bertha, murmurava : </p>
 <p>-Um anjo não, mas um martyr... talvez ! </p>
@@ -360,7 +359,7 @@
 <p>Que tem Jorge para captar o coração de uma mulher como Etelvina? Uma farda vistosa e... nada mais! Oh ! é impossivel que ella o ame ! Oh ! sim, as primeiras palavras que eu pronunciar -- se as pronunciar -- interromper-me ha com uma gargalhada. Oh! é impossivel que ella case! </p>
 <p>Mas, emquanto o coração do Doutor irrompia nas apaixonadas exclamações que deixamos ditas, segredava-lhe a sua consciencia: </p>
 <p>O teu cunhado é um bom rapaz e saberá tornal-a feliz, porque a felicidade da mulher consiste em ser esposa e em ser mãe. E depois, não és tu casado? Não tens tu uma mulher adoravel e que te adora? Que mais queres? Casaste por motu proprio e juraste fazel-a feliz. Cumpre com o teu dever de homem de bem e esmaga de vez esse amor que se assenhoreou do teu coração. Continua a ser o que sempre foste: um homem honrado. Fais ce que dois, advienne ce que pourra! </p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Á tarde, quando o Doutor voltou para casa, encontrou na ante-camara Bertha que o esperava.</p>
 <p>-Etelvina esta aqui, disse-lhe ella, e convidei-a para jantar comnosco; depois do serão vaes acompanhal-a a casa, entras e falas-lhe.</p>
 <p>-Ah! isto vae de empreitada?!</p>
@@ -389,7 +388,7 @@
 <p>-E qual foi o ultimo? </p>
 <p>-Les mísérablcs, de Victor Hugo. Pouco depois, entrou Bertha. </p>
 <p>--O jantar está na meza, disse ella alegremente. </p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Às 11 horas da noite, Etelvina quiz retirar-se, e, como de costume, o medico offereceu-se para a acompanhar. </p>
 <p>Sahiram; era em maio, a noite estava lindissima, no ceu palpitavam suave, e mansamente, as estrellas. </p>
 <p>Pela rua, alguns raros transeuntes; perto, o caes, sobre o qual, com um marulhar doce e triste como um gemido, se vinham quebrar as marés. </p>
@@ -422,7 +421,7 @@
 <p>E, com um movimento irreflectido, expontaneo, irresistível, estreitou-a febrilmente de encontro ao coração.</p>
 <p>Ella encostou-lhe a cabeça ao hombro, e elle, no delírio da sua febre, murmurava-lhe ao ouvido: </p>
 <p>-Amo-te, amo-te, adoro-te! </p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Eram cinco horas da manhã quando o Dr. Sandoval entrou em casa. </p>
 <p>N'um estado de exaltação impossivel de exprimir, dirigiu-se para o seu gabinete e deixou-se cahir em uma poltrona. </p>
 <p>Amava-a! Oh ! como a amava! E, que incomparavel felicidade, era amado! Que magicas palavras estas: -Ser amado! So as não comprehende quem não possue coraç'ão ! E que protestos haviam trocado! Como elle lhe fizera esquecer, com as suas caricias apaixonadas, o que ella soffrera ao julgal-o indifferente! E como ella era adoravel em tudo quanto lhe dizia ! Que juramen tos lhe exigira! Como manifestara ingenua e apaixonadamente todos os ciumes que a torturavam! Oh! elle bem o comprehendia, amava e amava pela primeira vez na vida! Nunca sentira por mulher alguma o amor delirante que Etelvina lhe inspirava! E amal-a-hia sempre! Consagraria a sua vida a felicidade de Etelvina, seria para ella, ao mesmo tempo, um amante, um pae, um irmão e um amigo! Para Bertha, seria sempre um marido correcto, delicado e condescendente; mas reservaria para Etelvina todos os thesouros de amor que lhe enchiam o coração!</p>
@@ -432,7 +431,7 @@
 <p>Lembrava-se com delírio das entrevistas que haviam combinado. Umas, em casa de Etelvina, outras n'um escriptorio que o Doutor tinha n'um bairro pobre, e onde receitava a operarios.</p>
 <p>Alli, estariam perfeitamente bem, e poderiam ver-se todos os dias, e fariam n'essas entrevistas, provisões de coragem para as horas em que devessem tratar-se com uma indifferença ceremoniosa. </p>
 <p>E lembrava-se de mil cousas que deveriam ha muito ter-lhe provado que ella o amava. Mas elle, cego que era, so o comprehendera quando as suas lagrimas lh'o haviam revelado! E admittira por segundos a ideia de que ella pudesse casar com o cunhado ! Que contrasenso ! Que loucura !</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>N'esse mesmo dia, ao almoço, perguntou Bertha ao marido: </p>
 <p>-Falaste a Etelvina? </p>
 <p>-Falei.</p>
@@ -463,7 +462,7 @@
 <p>E, heroicamente, reduziu a cinzas a carta que minutos antes cobrira de beijos. </p>
 <p>Ao sahir de casa do photographo, entrou n'uma livraria e tomou assignatura de todos os jornaes do Minho. </p>
 <p>Era uma maneira indirecta de ter no ticias de Etelvina, tendo-as da província onde ella habitava... </p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>E decorreram quinze dias ! Quinze dias mortalmente longos para o Dr. Sandoval, que esperava impacientemente, sem nunca a receber, uma carta de Etelvina. </p>
 <p>Todos os dias, dizia, de si para si : -Ha de ser amanhã. -Chegava o dia se guinte, o Doutor levantava-se, vestia-se, almoçava e ia para o seu gabinete esperar pela chegada do correio. Oh! esperava-o febrilmente, passeando agitado, estremecendo ao menor toque da campainha electrica, despachando, sem a sua habitual minuciosidade, os raros clientes que admittia á consulta. </p>
 <p>Muitissimas vezes pegou na penna para escrever a Etelvina; mas sempre adiava a remessa da sua carta. </p>
@@ -480,7 +479,7 @@
 <p>Todo teu </p>
 <p>L. de S. </p>
 <p>Apenas escripta esta carta, o Dr. Sandoval sahiu e foi pessoalmente deital-a no correio, não se esquecendo de a registar. </p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>N'esse dia, uma sexta-feira, jantaram em casa do Dr. Sandoval o conde da Trafaria e seu filho, o capitão Jorge. O capitão de artilheria ouvira da bocca da irmã a resposta de Etelvina; mas não desanimara. </p>
 <p>A sua paixão não era precisamente delirante, é mister que se diga. </p>
 <p>Agradara-se de Etelvina, em grande parte, por causa dos elogios encomiasticos que lhe ouvira fazer pela irmã; analysara-a e reconhecera que era uma viuva adoravel, e que tinha, entre outros attractivos, e alem de uma boa herança em perspectiva, uma fortuna superior a quarenta contos.</p>
@@ -499,7 +498,7 @@
 <p>Elle, escravo dos seus deveres profissionaes, ficava preso em Lisboa emquanto que o outro, o pretendente, lá corria para junto da mulher amada, que não poderia deixar de ficar commovida por aquella prova de amor! </p>
 <p>O Doutor, de certo, tinha confiança em Etelvina, ella amava-o delirantemente, e já lh'o provara; mas, no entanto, aquella partida do cunhado contrariava-o horrivelmente, e durante o resto da noite, esteve sombrio e preoccupado. </p>
 <p>No dia seguinte, pelo comboio da ma nhã, partiram Bertha e o irmão para a aldeia onde residia então Etelvina. </p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>Era um domingo. Domingo triste, como o são sempre os domingos em casa de anojados. </p>
 <p>No entanto. Etelvina, sentada junto á janella do seu quarto, com a fronte encostada a mão, parece pensativa, mas não triste. </p>
 <p>É que n'esse dia recebeu uma carta do homem a quem ama mais do que á vida, mais do que a honra, mais do que a Deus. </p>
@@ -525,7 +524,7 @@
 <p>O capitão jogava com elle a bisca durante horas inteiras, fingia interessar-se pela lavoura, admirava-lhe enthusiasticamente os cevados e as juntas de bois, e cultivava esmeradamente a sympathia que, de introducção, captara ao rico proprietario minhoto. </p>
 <p>Se fazia, porém, progressos no coração do pae, não os fazia no da filha. </p>
 <p>Etelvina acolhia-o sempre com uma reserva glacial, e, a maior parte das vezes, retirava-se para o seu quarto com Bertha, deixando o pobre oficial soffrer com uma paciencia angelica as massadas que lhe dava seu pae, fallando-lhe, de umas terras que pretendia semear de batata, já de um casal de suinos que mandara vir do Alemtejo. </p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <p>Uma noite, poucos dias depois da chegada de Bertha, em que o capitão jogava pachorrentamente a bisca de quatro com Caetano Ramalho, o vigario e o professor da freguezia, haviam as duas amigas ido passear para a quinta que ficava contigua a casa do pae de Etelvina. </p>
 <p>Alli, sentada sob uma latada expessa mente coberta de folhas, pelos intersticios das quaes mal cabiam os tenues raios da lua, conversavam Bertha e Etelvina. </p>
 <p>Falaram de Lisboa, dos seus serões, das suas amigas commons, e, por fim, vieram a falar de amor. </p>
@@ -556,7 +555,7 @@
 <p>-Oh! dizia Etelvina, de si para si, fazendo esforços heroicos para conter as lagrimas de desespero, pensas assim porque não o amas como eu o amo!</p>
 <p>Enganava-se. </p>
 <p>Bertha de Sandoval talvez não amasse mais ao marido que Etelvina ao amante, mas amava-o certamente melhor! </p>
-</div><div><head>XXI</head>
+</div><div type="chapter"><head>XXI</head>
 <p>Depois da conversa que narrámos, passada entre as duas amigas, Etelvina recolhera ao seu quarto n'um estado de desespero impossivel de descrever! </p>
 <p>Assim, o homem a quem amara a ponto de lhe sacrificar todos os seus deveres, esse homem que tomara no seu espirito as proporções de um deus, esse homem, cujo coração so se podia comparar com a sua intelligencia, nada mais era do que um seductor vulgar, um D. Juan habil e perigoso, que passava, no seu voltear de borboleta inconstante, da aristocrata a bailarina, ostentando as suas conquistas repetidas, ora nas salas, ora nos bastidores! </p>
 <p>E chorava de desesperação, chorava de despeito, chorava de ciumes, lembrando-se que aquelle amor, que representava para ella o idyllio unico da sua vida, nada mais fôra para elle do que uma diversão momentanea, um capricho de poucos mezes. </p>
@@ -566,7 +565,7 @@
 <p>-Oh ! é um infame! Quero odial-o ! </p>
 <p>Mas, em vão repetia innumeras vezes essas palavras; la estava o seu coração, a dizer-lhe que o amor que lhe consagrava estava profundissimamente arreigado e que não dependia d'ella o arrancal-o do seu coração! Havia dias que escrevera uma extensa carta ao Doutor, uma carta em que lhe renovara todos os seus protestos, em que expandira em phrases delirantes tudo o que lhe ia no intimo! </p>
 <p>Não a deitara, porem, no correio, esperando occasião em que podesse fazel-o pessoalmente, e, n'essa noite de desesperação enorme, reduziu-a a migalhas imper ceptíveis quasi, lastimando não poder fazer o mesmo ao seu coração, a ver se assim conseguiria arrancar-lhe aquelle amor fatal! </p>
-</div><div><head>XXII</head>
+</div><div type="chapter"><head>XXII</head>
 <p>Dias depois d'aquella noite, que devia ter uma tão decisiva influencia na vida de Etelvina, começou Bertha a falar em voltar a Lisboa. </p>
 <p>Etelvina fez grandes esforços para a demorar mais uns dias. Achava-se então n'um estado de abatimento physico e mo ral que a fazia passar dias inteiros sentada no vão de uma janella, perfeitamente immovel e com os olhos perdidos no vacuo! </p>
 <p>Onde lhe iria então o pensamento? </p>
@@ -585,7 +584,7 @@
 <p>Não tenho, em toda a minha vida, se não uma falta,-- que conhece -- e venho perguntar-lhe se ainda me acha digna de fazer parte da sua familia. </p>
 <p>De V. Ex.' </p>
 <p>Etelvina Ramalho. </p>
-</div><div><head>XXIII</head>
+</div><div type="chapter"><head>XXIII</head>
 <p>A carta de Etelvina, que náo fôra re gistada, teve demora no correio, e, por acaso, chegou a Lisboa no mesmo dia em que regressaram ao capital Bertha e seu irmão. </p>
 <p>Não nos devemos admirar d'ísso.</p>
 <p>A província do Minho faz parte de Por tugal, e os correios de Portugal são os mesmos em todo o reino. </p>
@@ -608,7 +607,7 @@
 <p>Luiz de Sandoval </p>
 <p>Escrípta esta carta, foi o Doutor dei tal-a no correio, registando-a. </p>
 <p>Aquella, ao menos, não teria demora, Etelvina recebel-a-hía no dia seguinte! </p>
-</div><div><head>XXIV</head>
+</div><div type="chapter"><head>XXIV</head>
 <p>Aconteceu a Etelvina o que sempre acontece a quem não tem a prudencia necessaria para moderar as suas primeiras impressões. </p>
 <p>Apenas mandara para o correio a carta que escrevera ao Doutor, arrependera-se amargamente de a ter escripto e chegou a mandar um creado em procura do que levara a carta : este, porém, alcançou-o quando regressava a casa, depois de ter cumprido a sua missão. Etelvina, então, sahira, como doida, e correra à estação, pedir ao empregado superior que lh'a entregasse de novo. Respondeu-lhe este que a mala partira n'essa mesma ocasião para o Porto, d'onde seria remettida para Lisboa. </p>
 <p>Etelvina voltara a casa n'um estado de tristeza indescriptivel. A unica cousa que poderia sanctificar a sua fraqueza aos olhos do Doutor, era o profundissimo amor que tinha por elle, e eis que ella lhe provava que o não amava, que o não tinha amado nunca! Que ideia faria o medico de uma mulher que, pouco mais de um mez depois do dia em que lhe jurara e provara amal-o ardente e irresístivelmente, lhe participava que pretendia casar com outro homem? </p>
@@ -620,7 +619,7 @@
 <p>Elle nem responde a minha carta! D'ora avante banir-me-ha da sua casa, julgando me uma companhia perigosa para a mulher! Abrirá os olhos ao cunhado, indicando-me como indigna do seu nome! Oh! que fiz eu, para soffrer tanto?! </p>
 <p>No dia seguinte, porém, a partida de Bertha, Etelvina recebeu a carta fria, ceremoniosa e correcta do Doutor. </p>
 <p>Oh! essa carta, tal e qual era, tornou a feliz! Luiz de Sandoval não a desprezava tanto quanto ella julgara! </p>
-</div><div><head>XXV</head>
+</div><div type="chapter"><head>XXV</head>
 <p>Decorreram mais uns mezes. </p>
 <p>Bertha escrevia a Etelvina tão affectuosamente que lhe provava que o marido, em quem ella tão cegamente cria, nada lhe dissera a seu respeito; o capitão Jorge de Albuquerque escrevia a Caetano Ra malho, enviando-lhe, inclusas, longas cartas para a filha, de quem, ja então, era considerado noivo official. </p>
 <p>Etelvina, incessantemente convidada por Bertha, tencionava ir para Lisboa um ou dois mezes antes da epoca fixada para o casamento, afim de lá cuidar da mobilia e aprestes do enxoval. </p>
@@ -665,7 +664,7 @@
 <p>E Etelvina ficou abysmada n'um pensamento atroz ! Reconhecia que o amava mais do que nunca. </p>
 <p>Quereria cahir-lhe aos pes, pedir-lhe que, ao menos, lhe perdoasse e lhe ouvisse a confissão do seu amor. Quasi esquecera completamente a historia da bailarina! E, de si para sí, comparava-o com o noivo, alegre, folgasão, bom rapaz, mas insignificante, um d'estes homens que se encontram a cada passo, e nada mais. </p>
 <p>E emquanto Bertha e Jorge discutiam todos os pormenores do casamento, fazia ella esforços inauditos para não chorar! </p>
-</div><div><head>XXVI</head>
+</div><div type="chapter"><head>XXVI</head>
 <p>Passaram-se tres semanas. </p>
 <p>Etelvina e o Doutor só se viam ás horas das refeições.</p>
 <p>Elle era sempre, para ella, attencioso e delicado, mas a sua familiaridade affectuosa d'outr'ora desapparecera totalmente: </p>
@@ -819,7 +818,7 @@
 <p>Tudo isto lhe passou com a rapidez de um turbilhão, mas com a nitidez de um espelho, pela mente escandecida, e repetia: Não, não pode ser, seria infame! </p>
 <p>Limpou os olhos rasos de agua e voltou ao gabinete onde o esperava Etelvina. </p>
 <p>Esta conseguira descobrir a mola de segredo que abria a medalha, e contemplava apaixonadamente o retrato de Luiz. </p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Com os olhos brilhantes de paixão, as faces levemente coloridas, e o seio a arfar de commoção, estava arrebatadora. </p>
 <p>O Doutor suspirou profundamente. </p>
 <p>Ella arrancou-se á sua contemplação, levantou-se, foi encostar-lhe a cabeça ao coração, e perguntou-lhe: </p>
@@ -843,7 +842,7 @@
 <p>O olhar dos que se despedem da felicidade é similhante ao d'aquelles que se despedem da vida! </p>
 <p>Pouco depois de Etelvina ter regressado ao seu quarto, parava a porta a carruagem do Doutor e apeava-se Bertha. </p>
 <p>Nunca soube que a sua bondade inexgotalvel fôra o escudo que lhe livrara a felicidade do golpe supremo! </p>
-</div><div><head>XXVIII</head>
+</div><div type="chapter"><head>XXVIII</head>
 <p>Pouco depois de Bertha de Sandoval ter regressado, sahia da mesma casa para onde entrara, uma mulher vestida de preto. </p>
 <p>Ao chegar a rua, relanceou os olhos para a esquina que ficava proxima, e ao ver lá uma mendiga que estendia a mão supplicante aos transeuntes, dirigiu-se-lhe rapidamente : </p>
 <p>-Ha pouco, disse-lhe ella com a voz vibrante de commoção, e apontando para a casa do Dr. Sandoval, atiraram-lhe de uma das janellas d'aquella casa uma medalha. </p>
@@ -869,7 +868,7 @@
 <p>--Aqui estão cem mil reis, disse ella a mendiga, entregando-lhe as notas. Adeus! Seja feliz. </p>
 <p>Recebeu a medalha, e deu ordem ao cocheiro para regressar a casa do Doutor. </p>
 <p>Quizera a todo o transe conservar aquella medalha, e aquelle retrato, unicas recordações do seu primeiro e ultimo amor! </p>
-</div><div><head>XXIX</head>
+</div><div type="chapter"><head>XXIX</head>
 <p>Oito dias depois d'aquelle dia terrivel, um cortejo de muitos carros se dirigia, as 2 horas da tarde, para uma capella particular, situada nos arrebaldes de Lisboa. </p>
 <p>Ao chegarem ao seu destino, apearam se do segundo carro tres homens. </p>
 <p>Um d'elles, já velho, traja a farda de moço fidalgo da Casa Real, o segundo refulge n'uma brilhante farda de artilheria, e o terceiro veste muito simplesmente, mas com uma elegancia aprimorada, uma casaca. </p>
@@ -925,7 +924,7 @@
 <p>Cinco minutos depois volta o creado dizendo que o senhor não apparece em parte alguma. </p>
 <p>Bertha abraça os noivos e volta para a sala emquanto estes se dirigem ao trote dos dois cavallos para a estação. </p>
 <p>Partem para a Italia onde vão passar a lua de mel. </p>
-</div><div><head>XXX</head>
+</div><div type="chapter"><head>XXX</head>
 <p>Querendo a todo o custo furtar-se as meditações que o torturavam, o Dr. Sandoval dirigira-se ao seu quarto, trocara a casaca por uma sobre-casaca, a claque por um chapeu de pello, as luvas brancas por luvas pretas, e sahira, não podendo supportar por mais tempo aquella orchestra, aquellas luzes, aquellas flores e aquelles convidados, que se divertiam ingenuamente, quando elle, a dois passos soffria uma tortura verdadeiramente inquisitorial.</p>
 <p>Sahiu, com o chapeu na mão, expondo a fronte ardente as brisas da noite, e machinalmente dirigiu-se para o caes, que, como sabemos, ficava perto. </p>
 <p>Sentou-se n'uma banqueta e procurou serenar o espirito; mas, de repente levantou-se, affastando-se com horror. </p>
@@ -956,7 +955,7 @@
 <p>Ajudado por um praticante que chamou, deitou-o em um canapé, friccionou-lhe a fronte com alcali e fez-lhe respirar saes. </p>
 <p>O Doutor abriu os olhos, e relanceando-os a roda de si: </p>
 <p>-Para a minha casa, murmurou, um carro...</p>
-</div><div><head>XXXI</head>
+</div><div type="chapter"><head>XXXI</head>
 <p>Eram cinco horas da manhã, haviam retirado os ultimos convidados, e Bertha, no seu quarto começava a despir-se.</p>
 <p>A ausencia do marido contrariara-a um pouco, mas não a affligira. </p>
 <p>-Naturalmente, pensava, passou a noite junto de algum doente. Pobre Luiz! Sempre escravo do seu dever! </p>
@@ -969,7 +968,7 @@
 <p>Viu o marido deitado em um canape e amparado por um homem que não conhecia, emquanto que dois creados lhe preparavam apressadamente uma cama. </p>
 <p>Estava tão desfigurado que Bertha, instinctivamente, comprehendeu que a ameaçava uma grande desgraça e exclamou angustiosamente : </p>
 <p>-Um medico ! Depressa! Vão chamar um medico ! </p>
-</div><div><head>XXXII</head>
+</div><div type="chapter"><head>XXXII</head>
 <p>Veneza, novembro de 188... </p>
 <p>Minha querida Bertha </p>
 <p>Acabo de ler n'um jornal de Lisboa que teu marido se acha gravemente doente. Calcularás facilmente o estado em que esta noticia nos deixou, a mim e a Etelvina! E, pelo que soffremos, avaliamos o quanto terás soffrido, minha pobre irmã! Pedimos-te instantemente que nos envies todos os dias um telegramma dizendo-nos o estado do nosso querido doente. </p>
@@ -1036,7 +1035,7 @@
 <p>Disse ao Luiz que ia escrever-te e elle pediu-me que te transmittisse os seus cumprimentos e um abraço ao Jorge. </p>
 <p>Abraça-o tambem por mim, e recebe affectuosos beijos de tua irmã muito amiga </p>
 <p>Bertha de Sandoval </p>
-</div><div><head>XXXIII</head>
+</div><div type="chapter"><head>XXXIII</head>
 <p>Estamos em janeiro; chove; na grande sala do Dr. Sandoval, Bertha, muito alegre como sempre, dispõe, com o seu fino gosto, algumas flores de estufa em vasos de porcellana do Japão. </p>
 <p>É sexta-feira, não teve visitas em consequencia do mau tempo, mas espera pelo pae que continua invariavelmente a jantar em sua casa todas as sextas-feiras, e por Jorge e Etelvina, que regressaram já da sua viagem nupcial. </p>
 <p>De bocado a bocado olha para o pequeno relogio e segue impacientemente a marcha do ponteiro que se approxima lentamente da hora do jantar. </p>
@@ -1075,7 +1074,7 @@
 <p>E accrescenta, de modo que só ella o ouça:</p>
 <p>-V. Ex.' vae ter um filho, emquanto que eu... oh! eu, so tenho a consciencia do dever cumprido ! </p>
 <p>Luiz de Sandoval não quizera falar-lhe n'aquelle lencito de cambraia perfumada que ella lhe dera n'uma noite de primavera em que se haviam amado muito, e onde ella enxugara as primeiras lagrimas que elle lhe fizera chorar! </p>
-</div><div><head>XXXIV</head>
+</div><div type="chapter"><head>XXXIV</head>
 <p>Deixemos passar um anno, e vamos, queridos leitores, a casa de Etelvina, onde encontraremos noticias dos nossos heroes. </p>
 <p>É terça-feira. A esposa do capitão Jorge de Albuquerque adoptou este dia para receber visitas, e a noite, tem a jantar o sogro e os cunhados. </p>
 <p>Com um cavalheirismo inexcedivel, Luiz de Sandoval evita cuidadosamente todas as oceasiões em que poderia estar a sós com Etelvina. Nos dias em que janta em sua casa, chega quasi a horas de ir para a meza e quando esta a familia reunida. </p>
@@ -1118,7 +1117,7 @@
 <p>Luiz e Etelvina estão sós, e, no entan to, nem uma unica allusão ao passado e proferida pelos seus labios. </p>
 <p>Entre os dois está aquella creança, de seis mezes apenas, mas que lhes lembra que o dever exige o olvido do passado.</p>
 <p>E ambos se curvam a exigencia austera do dever! </p>
-</div><div><head>XXXV</head>
+</div><div type="chapter"><head>XXXV</head>
 <p>Decorreram mais tres annos, e, como é possivel que o leitor benevolo se interesse pela sorte dos nossos heroes, vamos em poucas palavras pol-o ao facto da sua existencia actual. </p>
 <p>Antonio de Albuquerque, filho primogenito do conde, morreu em Paris, mortalmente ferido n'um duello que teve por causa de uma actriz. </p>
 <p>Deixou varias dividas, que o pae pagou até ao ultimo ceitil. </p>

@@ -19,7 +19,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">49151</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>27 de abril de 2019</date>. </p>
@@ -65,7 +64,7 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>Faustino da Fonseca</head>
+<div type="titlepage"><head>Faustino da Fonseca</head>
 <p>OS BRAVOS</p>
 <p>DO MINDELLO</p>
 <p>ROMANCE HISTORICO</p>
@@ -75,7 +74,7 @@
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Ao tiro de peça acordou João de um inquieto somno de namorado e, apoiando o cotovelo no grande leito de alta cabeceira de tarja, prestou attenção.</p>
 <p>Seria salva do castello, ou vinha navio de Lisboa confirmar as aprehensões dos sonhos agitados em que Maria se esquivava sempre ao caloroso enlace dos seus braços, e um subito quebranto o impossibilitava de perseguil-a, e um sobresalto, como que a queda do ideal, interrompia o laborioso despertar da sua estuante virilidade?</p>
 <p>Não se repetiram detonações que o tranquilisassem e, no brando rumor cantante e alegre, reconheceu o romper d'alva. Deitou pelos hombros um capote azul de cabeção, e fechos de prata, apagou a candeia de ferro cujo espelho areado reluzia e tirou a tranqueta que especava, desde a cunha ao encaixe da parede, o postigo das pesadas portas de cedro da janella de peitoril.</p>
@@ -183,7 +182,7 @@
 <p>Subiu a Rocha até ao Relvão.</p>
 <p>Ouvia o batucar dos cutellos picando o engodo no castello de prôa dos barcos de pesca apoitados ao longe; sentia guinchar o cabrestante a bordo da fragata, alando os ferros.</p>
 <p>Abrigado do sol contra a muralha do castello de S. João Baptista, encostado ao granito, as pernas estendidas na relva, viu-a largar os pannos mal rizados, afastar-se em bordos, a montar os Ilheus, em rumo da ilha de S. Miguel, e quando ella se sumiu de todo sentiu-se como protegido pela poderosa fortaleza que a obrigára a retirar, por esse castello que fôra o symbolo da oppressão hespanhola e se tornára a unica esperança da liberdade portuguesa!</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Com alegre surpreza das tias, João entrou á hora do jantar, ao meio dia em ponto; mas em breve lhes tirou toda a illusão de que não o interessassem os acontecimentos cujo echo já chegava á Pereira.</p>
 <p>Comeu á pressa, foi aperaltar-se para vêr Maria, e saiu logo, de chapeo alto de aba direita, casaca de briche nacional côr de castanha de quatro botões nas abas, collete de grande gola, alta gravata em volta ao collarinho, calça branca e botas altas de canhão amarello.</p>
 <p>Merendaria na quinta, não contassem com elle.</p>
@@ -397,7 +396,7 @@
 <p>-- O que tu merecias era que eu fosse contar tudo ao tio.</p>
 <p>-- Pois experimenta, e verás que te pico os olhos com uma agulha.</p>
 <p>Ao perceber o tom das referencias, João apressava o passo, corrido, humilhado, occultando se com os silvados, para que nunca mais o vissem.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Passára João interminaveis dias de angustia, e agora apenas ia á lição de latim, ficando a estudar noite e dia para poder entrar mais depressa na universidade.</p>
 <p>Manter-se-ia em Coimbra com a pequena legitima paterna que, para se formar, conservava intacta, sustentado pelas tias, a quem auxiliava com os ganhos de escrevente.</p>
 <p>Para supprir as quatro patacas pedira ao Juvencio, e ao doutor Ferraz, que o apreciava das conversas politicas da botica, alguns trabalhos de expediente da junta provisoria, que podesse fazer de tarde e á noite.</p>
@@ -548,7 +547,7 @@
 <p>-- Pois tambem tu, pequeno! Oh! Com rapazes assim a victoria é nossa.</p>
 <p>Muito orgulhoso, João gracejava:</p>
 <p>-- Então o senhor, sósinho, é que havia de defender esta terra toda, lá por ella ser tão pequena? Eu tambem sou terceirense, tambem tenho direito ao meu pedaço!</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Saíram para a praça, repleta de gente.</p>
 <p>Não queriam voltar para as freguesias ruraes, sem saberem a decisão, os homens do monte, as mulheres com o cabello de risca ao meio a luzir de unto, saia pela cabeça, entufadas de saias sobre saias, os pés metidos em galochas de cedro, com pálas de coiro verde, avivadas a vermelho, luzentes de ilhós, cravejadas de pregos de aço.</p>
 <p>Nos grupos da gente da cidade graves artistas independentes, carpinteiros, ferreiros, ourives, sapateiros, marceneiros, alfaiates, trabalhando na propria casa, e para si, auxiliados pelos filhos, ou por apprendizes e officiaes, que sentavam á sua meza.</p>
@@ -647,7 +646,7 @@
 <p>Havia uma consciente decisão n'aquelles dos militares que sempre tinham querido ficar, communicando-se agora aos que a fraqueza dominára por um momento.</p>
 <p>Só a aspiração liberal reunia todas as classes da nação.</p>
 <p>Estavam ali, ao abrigo das muralhas, ligando-se nos mesmos protestos, a nobreza, o clero, a burguezia, o operariado; profissionaes da guerra como os officiaes, os sargentos e os velhos soldados readmittidos; populares trazidos á força para a fileira pelo «Joaquim agarrador»; antigos voluntarios alistados em 23, ao perigar a causa liberal; os que se offereciam agora; e todos, fardados e á paisana, e os proprios que ainda não se tinham deixado arrastar, formavam uma phalange, invencivel porque era realmente a nação armada, e offereciam-se ao sacrificio no momento em que bordejava contra elles uma forte esquadra, com o bojo cheio de juizes, de carrascos e de forcas!</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Já reconciliadas do arrufo, debruçaram-se as primas no mirante da quinta dos Folhadaes, devorando com os olhos o caminho da cidade.</p>
 <p>-- E nunca mais cá veiu? -- perguntava Josepha da Esperança.</p>
 <p>-- Nunca mais. Como se tornou esse rapaz! Tão orgulhoso como se fosse fidalgo, tão brioso como nós!</p>
@@ -854,7 +853,7 @@
 <p>Reanimou-se, decidiu-se.</p>
 <p>O mal crescera, chegára a invadir-lhe a casa! Pois bem, collocar-se-ia d'ahi em diante ao lado dos que mantinham a verdade do passado, a honra incorruptivel da fidalguia, a fé religiosa intransigente!</p>
 <p>E levantou-se aprumado, disposto á lucta que a todos reclamava, e a que até ahi o subtraíra a indolencia do seu viver.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Segundo o costume, mal se levantára, fôra logo o morgado para a casa de jantar e, com a cabeça apoiada entre as mãos, os olhos fitos nos montes de rapa, nos picos de esterco do pateo interior, onde fossavam porcos e depenicavam gallinhas, reconstituia por partes a scena da vespera, illuminando se-lhe successivamente zonas da memoria, mas sem continuidade nos acontecimentos, como se uma palavra do frade lhe ficasse menos gravada, como se um insulto do veterano se marcasse mais fundo; e depois colligiu tudo, e poz-se a ligar os factos aos antecedentes e a preparar-lhes, por sua iniciativa, a necessaria conclusão.</p>
 <p>Batiam alto na cosinha as galochas de sola de cedro da morgada, ao passar na parte do lagedo raspada pelo rachar da lenha; em sons abafados, surdos, ao calcar as crôstas de lama negra e luzente, terra da horta, caldeada ás escorrencias da amassaria.</p>
 <p>Começou a chiar a frigideira na trempe, ao fogo das achas atiçadas pelo borralho do forno, onde acabava de cozer o pão da semana.</p>
@@ -984,7 +983,7 @@
 <p>Deu uns passos amparando-se ao bordão, mas desempenou-o o automatismo profissional. Pôl-o ao hombro á guisa de espingarda, deu a si proprio uma voz de commando:</p>
 <p>-- Ordinario, marche!</p>
 <p>E a passo cadenciado avançou estrada fóra, rejuvenescido pela esperança.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Na melancholia do entardecer, em que as trindades põem o echo de um soluço, impregnado da tristeza do esmorecer do sol, fitava João o mirante da quinta, quasi totalmente esbatido na folhagem dos pomares.</p>
 <p>Representava-se-lhe a scena da emboscada, revia-se na galharda atitude em que provocára os adversarios, baioneta em punho; fixára na retina o rosto transformado de Maria, a ardencia refulgindo-lhe no olhar; e vibrava-lhe ainda nos ouvidos a commoção dos gritos afflictivos.</p>
 <p>Amava-o! Denunciara-a a surpreza.</p>
@@ -1228,7 +1227,7 @@
 <p>-- Era isso mesmo que queria que lhe dissesse, porque eu não sou capaz de a levar ao bem, e não usarei da força senão na ultima extremidade. Faça o possivel por demovel-a, fr. Angelico.</p>
 <p>E n'uma ameaça, para o lado do pomar, onde a sabia em colloquio com a prima:</p>
 <p>-- Mas ai d'ella se não obedecer!</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>-- Alviçaras, senhor morgado, alviçaras! Deus amerceiou-se de nós, e deu por terminada a expiação com que quiz provar os seus servos!</p>
 <p>Olhou-o um tanto desconfiado Martinho, pela falta de fundamento de semelhantes boatos.</p>
 <p>Mas o frade confirmou, enthusiasmado:</p>
@@ -1419,7 +1418,7 @@
 <p>E para Josepha da Esperança, que os dois levavam adiante de si, tratando-a de encobridora, de enredeadeira:</p>
 <p>-- Não me desampares, Josepha! Conta o que vistes, e não te esqueças de que me bateram, e de que esse frade me magoou! É preciso que elle o saiba!</p>
 <p>Tornara-se João tudo para ella!</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Bloqueado por temporaes de inverno, dias de chuva torrencial, grandes frios, installára-se fr. Angelico da Immaculada Conceição de Maria na quinta dos Folhadaes, mandando como senhor, dirigindo a casa, cujo governo D. Perpetua abandonára, para se refugiar no quarto de Maria, horrorisada por adivinhal-o catechizando creadas pelo escuro dos grandes corredores.</p>
 <p>Enclausurada voluntariamente com a filha, prohibida de sahir do quarto, comiam ali ambas depois de prévia revista do morgado ou do frade ao que recebiam, não fossem cartas escondidas.</p>
 <p>Só os dois homens pois iam á meza, e ali passavam quasi de uma á outra refeição, não se decidindo a arrostar a frieza da adega, nem o chavascal do campo.</p>
@@ -1640,7 +1639,7 @@
 <p>Pediu ao juiz que a fosse buscar, mas elle desculpou-se com a lei, que não o autorizava a tanto.</p>
 <p>N'uma grande amargura, Maria exclamou sentidamente:</p>
 <p>-- Então, senhor juiz, para que serve a liberdade, se ainda se pode opprimir uma mulher!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Agora viam-se, falavam-se, estavam ali juntos um do outro, no vão da janela, um degrau acima do sobrado, como n'um nicho, sentados nos poiaes de pedra, os joelhos tocando-se, as mãos dadas, tão perto os labios, que só os impedia de passarem a tarde n'um longo beijo o olhar vigilante da tia Victorina, a mãe de Josepha da Esperança, enterrada na poltrona, roca á cinta, fiando massarocas para a Francisca da Bica, grande tecedeira, que as lançava no tear em guardanapos, lençoes e colchas, a trinta reis a vara.</p>
 <p>Para impedir o escandalo de se falarem da janela abaixo, permittia-lhes, aos domingos, a dona da casa, esse curto desabafo em que pesava com a sua presidencia, impassivel, entre a commoda negra, de pés recurvos, e a porta de vidraça da escura alcova onde dormiam as raparigas.</p>
 <p>Nos outros dias, ao passar para o castello e para casa, via-a João ao postigo do grande ralo, de riscas em diagonal pintadas a verde, com remates de pinhas nos rectangulos divididos pelos columnellos, manchas rubras de cravos nos recantos, no alto gaiolas de cana onde saltitavam canarios.</p>
@@ -1855,7 +1854,7 @@
 <p>-- Ó doida! E ao João, que lhe hei de dizer?</p>
 <p>E como ella balbuciasse que ia só vêl-a, e que voltava, tapando a bôcca, abafando-se no biôco do manto para não a ouvirem soluçar, gritou-lhe do alto da escada:</p>
 <p>-- Mal empregado rapaz! Tu não o mereces!</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Pelo caminho, baloiçada na traquitana que tomaram no alto das Covas, ainda lhe echoavam aos ouvidos as palavras de Josepha:</p>
 <p>«Não o merecia».</p>
 <p>E o que diria elle ao saber que destruira n'um momento o que bastante lhe custára a conseguir? Era capaz de descrer d'ella.</p>
@@ -2048,7 +2047,7 @@
 <p>Realisava-se emfim o longo sonho do exilio, e, ao saltarem no Mindello, prostravam-se os expatriados, beijando o querido solo, cujas poças de sangue reflectiam as rubras tintas d'uma nova aurora.</p>
 <p>Apertando convulsos as armas fraticidas, com que eram forçados a apoiar os gritos de liberdade, os votos de egualdade e fraternisação, pediam novas forças a essa terra que ainda defenderiam cobrindo-a com o retalho do seu corpo, osculando a na crispação da ultima agonia; sentiam-se felizes ao tocarem-a, embora para morrerem n'ella, ameaçados por oitenta mil soldados, e pelo fanatismo catholico mantido por frades e jesuitas entre as populações a libertar.</p>
 <p>Na patria ensanguentada, apunhalada pelos pés das forcas, oscilavam garrotados, como pendulos sinistros, marcando á tyrannia a hora fatal.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Observava Maria através das grades.</p>
 <p>Iam as ruas d'Evora coalhadas de soldados miguelistas, e ao convento chegavam novas da retirada de Santarem.</p>
 <p>-- É o fim da guerra, descança -- dizia-lhe uma freira de meia edade, amarela de cera, vislumbres de juventude no olhar vivo, que tambem observava para fóra.</p>

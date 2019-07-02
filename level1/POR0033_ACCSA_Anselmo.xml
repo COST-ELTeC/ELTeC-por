@@ -18,7 +18,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">121709</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>20 de novembro de 2018</date>. </p>
@@ -64,11 +63,11 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>Os filhos do Padre Anselmo</head>
+<div type="titlepage"><head>Os filhos do Padre Anselmo</head>
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Os irmãos da mão negra </p>
 <p>O relogio dos Clerigos tinha acabado de fazer soar pausadamente as doze badaladas da meia noite.</p>
 <p>O tempo estava brusco e o vento, soprando da barra em frias e cortantes rajadas, punha arrepios nos transeuntes que, levantadas as golas dos casacos e as mãos mettidas nos bolsos, seguiam a passo apressado, recolhendo a casa, sob a ameaça de um temporal desfeito.</p>
@@ -332,7 +331,7 @@
 <p>Os irmãos que o haviam rodeado com os florêtes vieram todos um a um abraçál-o e beijál-o na testa.</p>
 <p>-- Irmãos! -- disse o chefe do alto do throno -- vae reunir o sublime capitulo. Está encerrado o "templo".</p>
 <p>As luzes apagaram-se, e os vultos começaram a sahir pelas differentes portas do recinto, sumindo-se mysteriosamente sem que alguem pudesse dizer que caminho levavam.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Amôr e esperança</p>
 <p> Deixemos os mysteriosos irmãos da "Mão-negra" seguir o caminho que os havia de reconduzir ao mundo do qual por algum tempo semelhavam ter-se apartado, e sigamos o arrojado e corajoso adolescente que acaba de iniciar-se nos mysterios da terrivel seita.</p>
 <p>Paulo, tendo sahido da quinta do Carvalhido em companhia do seu amigo Jorge, agora convertido em seu "irmão", regressou á cidade no mesmo trem que o conduzira, apeando-se e despedindo-se do companheiro em uma rua proxima da de Cedofeita.</p>
@@ -481,7 +480,7 @@
 <p>-- Trabalharei e empregarei todos os esforços para realisar os desejos de vossa reverendissima -- que são tambem os meus.</p>
 <p>-- E conseguil-o-has, porque és intelligente, és energico, e revelas nobreza de caracter. Com taes predicados, só não alcança uma posição distincta na sociedade quem não quer.</p>
 <p>Agora, reanimado pela esperança que as palavras do padre Filippe lhe incutiram, o mancebo despediu-se do seu protector, mais que nunca resolvido a encetar a lucta pela vida e pelo triumpho completo das nobres aspirações do seu amoroso coração de rapaz.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Pae e filha</p>
 <p> Emquanto o pupillo do padre Filippe e de madre Paula busca a maneira de realisar os dourados sonhos da sua imaginação juvenil, queira o leitor acompanhar-nos a casa do pae de Beatriz e travar conhecimento com o sombrio progenitor da encantadora menina.</p>
 <p>Não tendo nós os mesmos motivos de Paulo para occultar do pae as relações com a filha, justo é que busquemos o conhecimento de ambos e entremos na intimidade dos dois para melhor podermos avaliar o caracter de cada um e apreciar os acontecimentos que vão desenrolar-se aos nossos olhos.</p>
@@ -745,7 +744,7 @@
 <p>O sr. Custodio, radiante, estreitou-a nos braços com frenesi.</p>
 <p>-- Deus te abençôe, minha filha! Pódes dizer que salvaste teu pobre pae! Vou mandar avisar o Belchior.</p>
 <p>E, beijando a filha na testa, sahiu quasi doido de contentamento.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Dois patifes</p>
 <p> O procurador Belchior está no seu escriptorio, sentado á carteira, conversando animadamente com um rapaz alto, pallido, elegantemente vestido, de maneiras distinctas, e bastante desenvoltas, que frequentemente o interrompe com uma gargalhada de intima satisfação. No rosto d'este rapaz, que poderá contar, quando muito, vinte e quatro ou vinte e cinco annos, ha os traços indeleveis do bohemio que passa a mocidade entregue a toda a sorte de vicios e prazeres e para quem a vida tem apenas uma difficuldade séria: arranjar dinheiro para gastar.</p>
 <p>Os olhos pretos, vivissimos e o sorriso zombeteiro que lhe baila constantemente nos labios, meio disfarçado pelo bigode fino, lustroso e petulantemente encaracolado nas guias, dão-lhe á physionomia uma expressão velhaca que poria de sobreaviso um observador experimentado, mas que ao sr. Belchior não parece inspirar a minima desconfiança.</p>
@@ -857,7 +856,7 @@
 <p>-- Eu supponho-a uma dama d'oiros... Já vê que a differença do naipe não é tamanha como parece...</p>
 <p>Dizendo isto, o Mello saiu trauteando uma modinha, emquanto o Belchior, rindo, arrumava o livro das suas contas com o bohemio.</p>
 <p>-- Isto é que é um mariola! -- murmurava o procurador satisfeito. -- Não ha dinheiro que lhe chegue... O jogo e as mulheres levam-lhe tudo... Ha-de acabar mal este patife!</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Madre Paula</p>
 <p> Na casa conventual das Sereias, vamos encontrar madre Paula, aquella espirituosa e gentil abbadessa que os leitores da "Irmã Dorothêa" certamente não terão esquecido e com quem aquelles que porventura a não conheçam d'ahi, acharão prazer em travar conhecimento.</p>
 <p>Formosa ainda, posto que um ou outro fio de prata ponha um signal de velhice nos seus lindos cabellos pretos, a amiga de Helena de Noronha não tem já aquella vivacidade traquina dos tempos em que a conhecemos.</p>
@@ -922,7 +921,7 @@
 <p>Despediu-se de madre Paula promettendo voltar no dia seguinte.</p>
 <p>A abbadessa, ao vêl-o partir, ficou immersa n'uma profunda tristeza.</p>
 <p>-- É o unico que a alma negra da seita não perverteu de todo! -- murmurou ella. -- Que adoravel esposo e que exemplar cidadão se não perdeu n'este homem, que assim vae atravessando a vida amortalhado na sotaina da hypocrisia que elle proprio odeia! Pobre amigo! morrerás como eu na dôr e na saudade cruciante da liberdade que te roubaram!</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Á hora da morte</p>
 <p> Tres dias depois d'esta visita do padre Filippe a madre Paula, bateram violentamente á porta do sacerdote, era uma hora da noite.</p>
 <p>O padre Filippe não se tinha ainda deitado.</p>
@@ -1086,7 +1085,7 @@
 <p>-- V. s.^a quer que o vá acompanhar "inté" casa? -- offereceu a mulher.</p>
 <p>-- Não, não é preciso... D'aqui até lá é perto e não ha escadas a subir nem a descer. Amanhã procure-me para se comprar um caixão á pobre creatura. Boa noute!</p>
 <p>-- Vá v. s.^a na graça de Deus, meu senhor!</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Tres miseraveis</p>
 <p> Depois da scena que representou com a filha, o Custodio de Jesus correu a procurar o seu amigo Belchior.</p>
 <p>O agiota ia radiante de satisfação.</p>
@@ -1280,7 +1279,7 @@
 <p>-- Despediu-me dizendo, que, visto isso, ia pensar e depois daria resposta definitiva...</p>
 <p>-- Amigo Custodio! -- disse o Belchior, batendo familiarmente no hombro do usurario -- o caso agora é comsigo... Aperte-me a pequena... torne a representar a scena da pobreza até ella dizer que sim... Tenha pena d'este pobre diabo, que anda aqui pelo queixo!...</p>
 <p>-- Não tem duvida! -- aquietou o Custodio -- Ella ha de ir... O que eu quiz foi apanhar-lhe o "fraco"... Se fôr preciso, até dou um tiro para o ar, a fingir que me mato... E ella ha de ir!...</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Entre irmãos</p>
 <p> Paulo de Noronha, depois que se filiara na "Mão-Negra", não obstante saber que um rival lhe disputava a posse de Beatriz, alimentava a esperança bem fagueira de conquistar em breve uma posição que lhe permittisse apresentar-se a Custodio a pedir-lhe a mão da filha.</p>
 <p>Preoccupava-o, porém, a ideia de que sobre o seu nascimento pesava um mysterio que elle não sabia explicar e que o havia de collocar em terriveis embaraços, quando o pae da Beatriz muito naturalmente lhe perguntasse o nome de seus paes.</p>
@@ -1397,7 +1396,7 @@
 <p>Chegando ao ponto em que uma fita preta, intercalada nas folhas, punha uma especie de signal, o novo personagem, fez saltar a mola de um tinteiro em fórma de caixa, pegou de uma penna de pato, que molhou n'esse tinteiro, e começou escrevendo vertiginosamente. Ao passo, porém, que a penna ia traçando as palavras, estas iam-se apagando rapidamente; retomando o papel a sua brancura immaculada.</p>
 <p>É que o homem dos oculos verdes escrevia com tinta sympathica.</p>
 <p>Que mysteriosos pensamentos lançaria elle n'aquelle papel que os guardava discreto, como um vasto mar guarda no fundo os coraes e as perolas, as algas e os peixes que o povoam, sem que a esmeraldina superficie das suas aguas denuncie a existencia dos thesouros que elle occulta no seio?</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Amores faceis</p>
 <p> Eugenio de Mello, deixando o procurador e a familia, seguiu pela rua de Cedofeita, subiu á rua dos Bragas, desandou á rua da Sovella e, passando o Campo da Regeneração, entrou na rua da Rainha.</p>
 <p>O relogio da Lapa fazia soar uma hora da madrugada quando o bohemio parou em frente de uma casa de um unico andar, construcção moderna, em que se notava decencia e bom gosto.</p>
@@ -1559,7 +1558,7 @@
 <p>-- Mas é preciso que isto não demore muito tempo a decidir.</p>
 <p>-- Isto por esta semana rebenta! Deixe-me cá manobrar á vontade e você verá como a coisa se arranja...</p>
 <p>Tendo affirmado isto, o Custodio deixou o procurador e partiu a arranjar a conta do seu debito para apresentar á filha.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Para os grandes males...</p>
 <p> Custodio de Jesus não se enganara quando dissera aos seus dois cumplices em patifaria que suppunha ter sido Paulo quem inspirara a Beatriz o pedido da relação das dividas do pae, para pensar na melhor maneira de as solver.</p>
 <p>Effectivamente, Paulo de Noronha, animado pelos conselhos de madre Paula, a quem fizera a confidencia dos seus amores, e pelas palavras de esperança que ouvira da bôcca do seu amigo Jorge, fôra n'essa mesma noite fallar com Beatriz.</p>
@@ -1694,7 +1693,7 @@
 <p>-- Naturalmente -- ia dizendo comsigo -- lá o tal franganito mostrou-se desanimado e ella vae perdendo a esperança que tinha n'elle... É questão de mais dois dias ou tres, e ella ahi está a dizer que sim, que se resolve a querer o Eugenio... Se todos os paes fizessem como eu... se quando as filhas se inclinam para um bigorrilha sem cinco reis, lhes dessem logo com as precisas, fazendo-as pensar na pobresa e na miseria que as espera, não se via tanto casamento desgraçado como se vê!</p>
 <p>E esfregava as mãos, satisfeito de haver conseguido illudir a filha.</p>
 <p>Mal sabia o velhaco que n'este caso, o verdadeiro illudido era elle!</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>João Lazaro</p>
 <p> Jorge tinha o habito de ir todos os dias ao "Suisso" tomar café, depois de jantar.</p>
 <p>Alli passava uma hora em palestra amena com os amigos, se os encontrava, ou a lêr os jornaes estrangeiros que o criado lhe punha diante -- para matar tempo.</p>
@@ -1856,7 +1855,7 @@
 <p>De resto, alto, entroncado, de andar desenvolto e um tanto gingado, de preto "capoeira", tinha o quer que era de elegante e distincto, e chegaria mesmo a ser attrahente e sympathico, se não fôra a pretensão ridicula que se lhe trahia nos gestos e attitudes de grande senhor.</p>
 <p>Tal era physica e moralmente João Lazaro, que o leitor terá occasião de apreciar melhor em capitulos subsequentes.</p>
 <p>Por agora, deixemol-o ruminar o seu infame plano de anniquilar o amigo que o convidava para uma ceia em sua honra, e vamos nós travar relações com outros personagens importantes d'esta complicada mas veridica historia.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Velhos conhecimentos</p>
 <p> Em S. Martinho de Campo, concelho da Povoa de Lanhoso e não longe da casa de Norberto de Noronha, que os leitores da "Irmã Dorothea" já conhecem, havia uma outra casa de bôa apparencia, -- "casa nobre", como lá se diz, -- mas de severo e melancholico aspecto.</p>
 <p>Permanecia a maior parte do anno fechada, e apenas na quadra estival as suas janellas se abriam e as salas se illuminavam n'um rumor de alegria e de festa.</p>
@@ -2109,7 +2108,7 @@
 <p>-- Póde ser... -- replicou o commendador -- A D. Aurelia está ainda muito fresca e, se o Julio tiver juizo, o que deve fazer é casar com ella para se distrahir.</p>
 <p>Assim dizendo, fôram aproximando-se sem darem a perceber nos gestos ou nas palavras a impressão. que aquelle encontro lhes causára.</p>
 <p>Mais tarde veremos se o juiz tinha razão.</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Denuncia</p>
 <p> João Lazaro fôra pontual em comparecer á hora marcada para a ceia que os amigos offereciam em sua honra, no Palacio de Crystal.</p>
 <p>O aventuareiro sentia-se intimamente lisonjeado e envaidecido por esta demonstração de affecto e estima que Eugenio de Mello e os seus amigos lhe davam. Mas apparentava grande desdem e indifferença por tudo quanto o cercava, assumindo a attitude altiva e soberana de quem dispensa uma honra quando recebe um favôr. Chegou mesmo a dizer a um de seus intimos, no tom cançado e aborrecido de quem se vê obrigado a aturar importunos:</p>
@@ -2395,7 +2394,7 @@
 <p>-- Comprehendeu-me perfeitamente. Até amanhã.</p>
 <p>-- Até amanhã.</p>
 <p>O aventureiro tomou a mão de Leonor, depositou n'ella galantemente um beijo, e sahiu.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Miseravel!</p>
 <p> João Lazaro recolheu ao hotel e no dia seguinte batia á porta de Jorge. Era uma casa modesta, de homem só, em que se notava o natural desarranjo de quem não tem os cuidados intelligentes de uma mulher a dirigir o serviço domestico.</p>
 <p>-- Venho fazer-te a promettida visita -- disse João Lazaro ao amigo que estava já sentado á banca no seu gabinete de trabalho.</p>
@@ -2620,7 +2619,7 @@
 <p>-- Pois sim. Adeus.</p>
 <p>Quando João Lazaro sahiu, Jorge, que o acompanhou com a vista até elle transpôr a porta da sala, murmurou:</p>
 <p>-- Sempre o mesmo biltre! Sempre o mesmo miseravel!</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Conluio infame</p>
 <p> No escriptorio de Custodio de Jesus, discutiam animadamente o dono da casa e o seu amigo e confidente, o procurador Belchior.</p>
 <p>-- A coisa é esta: -- dizia o procurador -- com pannos quentes não se faz nada.</p>
@@ -2699,7 +2698,7 @@
 <p>-- Está optimo! -- apoiou o Custodio radiante.</p>
 <p>-- E o dito dito -- tornou o Belchior -- eu levo a percentagem combinada...</p>
 <p>-- Isso está sabido. Arranje você as coisas de modo que o casamento se faça nas condições combinadas e o dinheiro passa-lhe logo para as unhas.</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>O rapto</p>
 <p> Dois dias depois da conferencia entre o procurador e Custodio, Beatriz, que fôra convidada pela mulher e a cunhada do Belchior para as acompanhar n'um passeio ao campo, levantou-se de manhã muito contrariada por não poder furtar-se ao convite que lhe não proporcionava o minimo prazer.</p>
 <p>O Custodio fingia-se tambem contrariado, e tendo-se levantado muito cêdo, resmungava de modo que a filha o ouvisse, maldizendo a lembrança de o convidarem para um passeio que alterava os seus habitos e talvez lhe puzesse a saude em risco.</p>
@@ -2885,7 +2884,7 @@
 <p>-- Deve estar fatigada, minha filha... Vou mandar servir-lhe uma leve refeição e acompanhal-a em seguida ao seu quarto.</p>
 <p>E dirigindo-se a Paulo:</p>
 <p>-- Vae, meu filho. Despede-te da tua noiva e faze por merecer sempre a estima e o affecto que tens encontrado no meu coração.</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Quem semeia ventos...</p>
 <p> O Belchior e o Custodio, mal chegaram ao Porto, dirigiram-se ao commissariado de policia e ahi formularam a sua queixa contra Eugenio de Mello, accusando-o do rapto de Beatriz.</p>
 <p>O procurador e a familia apresentaram-se como testemunhas, e todos declararam haver reconhecido o bohemio n'um dos dois raptores.</p>
@@ -2971,7 +2970,7 @@
 <p>-- A mim não me palpita nada... Mas você nunca ouviu dizer que o seguro morreu de velho? É preciso a gente prevenir sempre o peor...</p>
 <p>-- Bem; pois então vamos lá para o administrador de Gaya.</p>
 <p>Chegaram á praça de Carlos Alberto, tomaram um trem á hora e partiram para Villa Nova.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>Revelação</p>
 <p> O padre Filippe, quando chegou a casa, depois de ter assistido aos ultimos momentos de Maria do Carmo, tirou da sotaina a sacca das libras e o manuscripto que a moribunda lhe confiara, atirando tudo para dentro da gaveta da sua secretária, sem se dar pressa em observar de perto o estranho legado.</p>
 <p>Vinha fatigadissimo e como a idade já lhe não permittia prolongadas vigilias, recolheu-se ao leito, reservando para o dia seguinte o exame do mysterioso manuscripto.</p>
@@ -3125,7 +3124,7 @@
 <p>-- Já acceitei, meu pae!</p>
 <p>O leitor já conhece como o rapto se effectuou e como madre Paula recebeu com os extremos e carinhos de mãe a gentil Beatriz, salva das garras do aventureiro Eugenio de Mello e da sua alma negra, o procurador Belchior, por maneira tão original como inesperada.</p>
 <p>Agora, emquanto a pobre menina, livre de perigo, encontra na doce convivencia da abbadessa os affectos maternaes que a morte lhe roubára e os tres sujos heroes d'esta repellentissima, porém veridica, historia se empenham n'uma lucta de desconfianças e malquerenças, que são o seu verdadeiro castigo, voltemos a S. Martinho do Campo, onde novos e interessantes episodios se estão dando.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>Um velho amigo</p>
 <p> Julio de Montarroyo, logo que o brazileiro lhe deu por desoccupada a casa que pertencera a Norberto de Noronha, tomou posse da sua nova propriedade e installou-se n'ella immediatamente, sem mesmo esperar que se fizessem os convenientes e indispensaveis reparos.</p>
 <p>Este acontecimento foi celebrado pelos convivas e amigos de Gustavo de Magalhães com um jantar lauto, em que houve discursos, brindes e poesias, como estava combinado muito tempo antes.</p>
@@ -3255,7 +3254,7 @@
 <p>-- Saiba se é viva e em que casa religiosa da provincia se encontra.</p>
 <p>-- Está bem! Vamos a vêr se ainda tenho geito para estas coisas -- disse o "Tomba" radiante.</p>
 <p>E n'esse mesmo dia partiu para o Porto.</p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <p>Alma negra</p>
 <p> Voltemos a casa da loura Leonor, da doida amante do commendador Garcia, apaixonada por Eugenio de Mello e instrumento de torpes vinganças nas mãos de João Lazaro.</p>
 <p>O commendador Garcia retirára á hora habitual, dez da noite, muito desconsolado, porque o "seu peccado" -- que era assim que elle chamava á endiabrada creatura que o tinha preso nos laços de uma affeição insensata -- havia tempos que o recebia desabridamente, com repellões de histerica, irritando-se sem motivo, chorando sem saber porquê, n'uns accessos de nevrosismo que faziam a sua tortura e a tortura do encarquilhado protector.</p>
@@ -3415,7 +3414,7 @@
 <p>-- Como o sabe?</p>
 <p>-- Disse-m'o elle.</p>
 <p>-- Ah! o miseravel! Pois se vier não sahirá vivo d'esta casa...</p>
-</div><div><head>XXI</head>
+</div><div type="chapter"><head>XXI</head>
 <p>Tal vida, tal fim</p>
 <p> Leonor, prevenida na vespera por João Lazaro, ficou sabendo que Eugenio iria procural-a n'essa noite, e d'accordo com aquelle, mandára mudar a fechadura da porta para impedir que elle entrasse sem bater.</p>
 <p>No emtanto, não se deitára. Espreitando pela janella, vira-o aproximar-se, vira o espanto que lhe causára a mudança da chave, traduzido na attitude hesitante do bohemio, indo ao meio da rua a espiar as janellas como que a certificar-se de que era aquella a mesma casa e de que tudo lá dentro estava em silencio.</p>
@@ -3547,7 +3546,7 @@
 <p>E com as mãos enclavinhadas, estorcendo-se n'uma dôr angustiosa, a loura debruçou-se sobre o cadaver do amante e rompeu n'um chôro lancinantissimo.</p>
 <p>O estampido do tiro e os gritos de Marianna, que alternavam com os da sua joven ama, attrahiram as attenções da visinhança e das pessoas que iam passando.</p>
 <p>Em breve a casa encheu-se de gente, e, por entre a turba, appareceu tambem o guarda civil de giro, que recebeu as primeiras declarações, participando o caso para o commissariado.</p>
-</div><div><head>XXII</head>
+</div><div type="chapter"><head>XXII</head>
 <p>Mysterio</p>
 <p> Emquanto o sapateiro andava pelo Porto farejando o rasto de madre Paula, passavam-se em S. Martinho do Campo acontecimentos extraordinarios e verdadeiramente inesperados, tanto para o leitor como para os personagens d'esta singela narrativa.</p>
 <p>Julio de Montarroyo e Aurelia de Magalhães, propellidos ao natural desafogo de suas mágoas intimas, encontravam-se a miudo, quer em curtos passeios, quer em reciprocas visitas, que semanalmente se faziam, sem ultrapassarem jamais os limites de uma estricta e rigorosa observancia das leis do decoro e do respeito devido á posição de cada um.</p>
@@ -3620,7 +3619,7 @@
 <p>-- Repare, meu amigo -- tentou impedir D. Aurelia -- que a noite está tempestuosa e que vae pôr em perigo a sua saude, bastante abalada.</p>
 <p>-- A minha existencia -- replicou Julio com amargura -- ha muito que decorre batida pelos vendavaes do infortunio. Que importa uma noite de chuva a quem traz a alma obscurecida n'uma perpetua noite de tempestuosas desgraças? Até amanhã! Nada receiem por mim, que eu vou preparado para tudo.</p>
 <p>E sahiu, na resolução inabalavel de cumprir o que dizia.</p>
-</div><div><head>XXIII</head>
+</div><div type="chapter"><head>XXIII</head>
 <p>Allucinação</p>
 <p> No dia seguinte de manhã, D. Aurelia e o padre Manoel, movidos da extraordinaria curiosidade de saberem o resultado da audaciosa aventura de Julio de Montarroyo, correram a casa d'este com o fim de o interrogarem.</p>
 <p>O excentrico apaixonado de Helena de Noronha estava no leito ardendo em febre.</p>
@@ -3705,7 +3704,7 @@
 <p>-- Póde ser -- acquiesceu o padre Manoel, incredulo.</p>
 <p>-- No emtanto, e seja como fôr, v. s.^a faz-me o obsequio de continuar a mandar vigiar o local. Eu me encarrego de gratificar o Mil-homens pelo trabalho que lhe está incumbido.</p>
 <p>-- Para lá vae todas as noites. Mas creia v. ex.^a que tanto faz ir como estar na cama... O homem, não pôde vêr lá pessoa alguma, pela simples razão de nunca lá ter estado de noite essa tal penitente imaginaria que se diz... Os tempos de fé acabaram, minha senhora, e quem reza gosta de o fazer com ostentação, á luz do dia, diante de toda a gente... não se vae pôr de noite, como os mochos e as corujas que chupam o azeite das lampadas, a piar miserias á porta dos templos desertos...</p>
-</div><div><head>XXIV</head>
+</div><div type="chapter"><head>XXIV</head>
 <p>Estranho encontro</p>
 <p> D. Aurelia, despedindo-se do padre Manoel, recolheu a casa, scismando nas palavras do sacerdote.</p>
 <p>-- Será realmente Helena de Noronha? -- dizia comsigo -- Julio de Montarroyo affirma que sim; mas o seu estado febril justifica em certo modo uma allucinação, que o fizesse tomar pela mulher que ama, uma sombra, talvez uma phantastica visão dos seus sentidos excitados... Emfim, o Manoel Mil-homens, que é arrojado e valente, encarregar-se-ha de verificar até que ponto são verdadeiras as affirmativas de Julio.</p>
@@ -3905,7 +3904,7 @@
 <p>Helena de Noronha pediu papel o penna, e escreveu algumas linhas, que fechou em seguida n'um "enveloppe".</p>
 <p>-- Que parta sem perda de tempo! -- disse ella, entregando a carta a D. Aurelia -- Desejo que a resposta me encontre viva.</p>
 <p>O "Tomba" partiu n'essa mesma noite para o Porto.</p>
-</div><div><head>XXV</head>
+</div><div type="chapter"><head>XXV</head>
 <p>Pobre Helena!</p>
 <p> Julio de Montarroyo melhorara um pouco da febre intensa que o acommettera. O restabelecimento, porém, fazia-se tão lentamente, o seu estado de fraqueza era tal, que o medico prohibira-lhe que sahisse do quarto e recommendava-lhe insistentemente que se abstivesse de longas conversas com quem quer que fosse.</p>
 <p>Todavia, o "Tomba" lograra fallar-lhe e informal-o de que madre Paula era viva e podia ser encontrada no Porto.</p>
@@ -4023,7 +4022,7 @@
 <p>-- É preciso confiarmos nos sentimentos de nobre lealdade d'esse rapaz, e não o prevertermos com a suspeita que uma tal prohibição traduziria...</p>
 <p>-- Dizes bem.</p>
 <p>-- Minha pobre Helena! Que mysteriosa cadeia de soffrimentos a conduziu até ao leito de morte d'onde agora me chama na agonia do traspasse?</p>
-</div><div><head>XXVI</head>
+</div><div type="chapter"><head>XXVI</head>
 <p>Um amigo dos diabos</p>
 <p> Na tarde d'esse dia, madre Paula e padre Filippe, convenientemente disfarçados sob os trajes seculares e guiados por mestre "Tomba", tomavam na estação do Pinheiro, em Campanhã, bilhetes para Guimarães, por ser o caminho que mais rapidamente os levaria a S. Martinho de Campo.</p>
 <p>O sapateiro, persuadido de que fôra elle quem conseguira resolver a superiora das Sereias a esta viagem, pois ignorava inteiramente o conthéudo da carta de que fora portador, ia radiante e vaidoso da sua astucia.</p>
@@ -4146,7 +4145,7 @@
 <p>-- Deem-me licença que eu vá junto da minha amiga, tratar de a predispôr para receber sem grande surpreza a virtuosa madre Paula. Escuso dizer-lhes que os considero meus hospedes n'esta casa e que vou tambem dar as ordens precisas para serem convenientemente installados.</p>
 <p>Fez uma ligeira mesura e sahiu.</p>
 <p>D'ahi a instantes, a criada de quarto de D. Aurelia entrava na sala a indicar aos hospedes que os seus aposentos estavam preparados.</p>
-</div><div><head>XXVII</head>
+</div><div type="chapter"><head>XXVII</head>
 <p>Duas amigas</p>
 <p> No dia seguinte, muito cêdo ainda, Helena de Noronha que passára a noite socegada, accordou inquieta e perguntou á creada se já tinha chegado uma senhora que devia vir do Porto.</p>
 <p>-- Não sei, minha senhora -- respondeu a creada que estava já prevenida -- mas eu hei-de dizer que senti ha pouco parar um trem ao portão...</p>
@@ -4277,7 +4276,7 @@
 <p>-- Não sei... Se o remorso matasse, elle deveria ter morrido. Mas o remorso é um veneno que vae minando lentamente a existencia. Tortura, mas não fulmina, as suas victimas. Elle matou o pae, é bem certo. Mas tambem eu matei o meu e não morri... Não morri, quando tantas vezes pedia a morte a Deus! Deve portanto viver.</p>
 <p>-- Socega, minha amiga... -- observou-lhe madre Paula, vendo-a de cada vez mais agitada. -- Tens fallado muito... e, no estado de abatimento e fraqueza em que te encontras, é isso uma imprudencia grave.</p>
 <p>Disse e saiu deixando a doente em repouso.</p>
-</div><div><head>XXVIII</head>
+</div><div type="chapter"><head>XXVIII</head>
 <p>Coração morto</p>
 <p> Helena de Noronha, a instancias de madre Paula e de D. Aurelia, consentiu em receber a visita de Julio de Montarroyo.</p>
 <p>O encontro d'estes dois desgraçados, depois de tantos annos d'ausencia, foi tudo quanto póde imaginar-se de mais simples e de mais tocante.</p>
@@ -4328,7 +4327,7 @@
 <p>-- Se a vida é um favor, eu tenho o direito de a recusar, por isso mesmo que a não pedi. Se é um ultrage que se me faz, um soffrimento a que me condemnam, maior direito me assiste de a rejeitar, pois que o juiz que me castiga se abstem de me dizer o delicto de que sou reu!</p>
 <p>-- Não falle assim, meu amigo! Quem teve animo para soffrer até aqui, deve tambem ter coragem para supportar o resto e esgotar até ao fim o calix da amargura que lhe foi offerecido... Adeus! Amanhã tornaremos a vêr-nos e tenho esperança de que o hei-de encontrar mais resignado...</p>
 <p>Estendeu-lhe a mão descarnada e transparente que elle beijou; e, extenuada, pousou a cabeça no travesseiro, onde se sumiram duas grossas lagrimas que furtivamente se lhe escaparam dos olhos semi-cerrados.</p>
-</div><div><head>XXIX</head>
+</div><div type="chapter"><head>XXIX</head>
 <p>Confidencias</p>
 <p> Em quanto estas scenas se passam em S. Martinho do Campo, voltemos nós ao Porto, entremos na mysteriosa casa de S. Bento da Victoria, onde já uma vez introduzimos o leitor, e ouçamos o dialogo alli travado entre Jorge de Gusmão e o singular e estranho personagem a quem o amigo de Paulo dava o tractamento de "Mestre".</p>
 <p>O homem dos occulos verdes está, como da outra vez, sentado á sua banca de trabalho, e falla com affectuoso semblante para aquelle que parece ser o seu discipulo querido.</p>
@@ -4372,7 +4371,7 @@
 <p>Os dois calaram-se e permaneceram mudos e silenciosos por alguns instantes.</p>
 <p>Evidentemente, uma profunda commoção embargava n'esse momento a voz áquelles dois homens energicos, tão fortes e tão activos que, consubstanciados no mesmo pensamento, tinham conseguido organisar, dominar e dirigir com superior intelligencia uma das mais poderosas e terriveis associações secretas dos nossos dias.</p>
 <p>-- Meu amigo -- disse por fim o mysterioso personagem dos oculos -- era indispensavel que eu te manifestasse a minha ultima vontade, antes de partir para a grande romagem. Não é que eu pense realisal-a breve; mas como a vida é um thesouro de que apenas somos depositarios, um valor á ordem que pode ser-nos reclamado de um momento para o outro, o meu dever é prevenir. Aqui tens e aqui ficam n'este livro todas as indicações precisas para poderes continuar a minha obra. Se eu faltar, repito, assume a direcção suprema da "Mão negra", e o meu espirito será comtigo.</p>
-</div><div><head>XXX</head>
+</div><div type="chapter"><head>XXX</head>
 <p>Mãe</p>
 <p> Madre Paula enviára o "Tomba" ao Porto com uma carta a chamar para junto de si o filho da "Irmã Dorothea", sob pretexto de que precisava da sua companhia por alguns dias, para suavisar com a sua presença o aborrecimento do padre Filippe, constrangido a permanecer alli emquanto ella velava o leito de uma amiga intima, perigosamente enferma.</p>
 <p>No mesmo dia em que Paulo chegou, a abbadessa approximou-se do leito de Helena e disse-lhe sorrindo:</p>
@@ -4441,7 +4440,7 @@
 <p>-- Sim... sim!... -- disse ella -- seria feliz ainda, se pudesse viver na companhia de meu filho, amada por elle e respeitada por aquelles que me conhecem... Mas isso é impossivel! E queres que te diga? Agora, depois que vi meu filho... sinto-me mais desgraçada!</p>
 <p>-- Porque?</p>
 <p>-- Porque... tu comprehendes... na minha alma começam a despertar agora todos os sentimentos do amor maternal, e não posso dizer a meu filho: «Sou tua mãe!»</p>
-</div><div><head>XXXI</head>
+</div><div type="chapter"><head>XXXI</head>
 <p>O homem dos oculos verdes</p>
 <p> Decorreram quinze dias de suave e doce convivencia entre mãe e filho, na casa de D. Aurelia.</p>
 <p>Madre Paula e a irmã de Gustavo, ambas de intimo accôrdo no empenho de salvarem Helena de Noronha, tinham sabido dispôr e conduzir as coisas de modo que Julio, Paulo e o padre Manoel se encontrassem muitas vezes reunidos á volta da doente, sem que nenhum d'elles suspeitasse os laços de sangue que ligavam aquelle mancebo, tão cheio de vida e de alegria, á infeliz victima do padre Anselmo.</p>

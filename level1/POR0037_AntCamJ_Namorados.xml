@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">238762</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>22 de novembro de 2018</date>. </p>
@@ -65,13 +64,13 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>A Ala dos Namorados</head>
+<div type="titlepage"><head>A Ala dos Namorados</head>
 <p>António Campos Júnior</p>
 </div>
 </front>
 <body>
 <pb/>
-<div>
+<div type="chapter">
 <p>BREVE NOTA</p>
 <p>OS EVENTOS QUE ANTECEDEM ESTA HISTÓRIA</p>
 <p>Corria o ano de 1383.</p>
@@ -84,7 +83,7 @@
 <p>Estes eventos são o prelúdio real das situações que conduziram à guerra Luso- Castelhana entre 1383 e 1385 e que culminaria na batalha de Aljubarrota.</p>
 <p>A história que vai ler inicia-se já em plena invasão de Castela, durante o cerco de Lisboa de 1384, que durou exatamente 4 meses e 27 dias, e que quase dizimou a população lisboeta.</p>
 <p>PRIMEIRA PARTE INFORTUNADOS AMORES </p>
-</div><div><head>CAPÍTULO I</head>
+</div><div type="chapter"><head>CAPÍTULO I</head>
 <p>DOR QUE ENLOUQUECE </p>
 <p>Fora calmo aquele dia de Junho de 1384. O sol sumira-se afogueado, globo enorme de ouro fulvo que deixara pelos cumes dos montes e sobre as águas dormentes do Tejo um crepúsculo agoirento, vermelho como a púrpura antiga dos autocratas e como o sangue forte da plebe.</p>
 <p>Em todas as torres de Lisboa bateram lugubremente as badaladas das alvorada. Parecia que nunca os sinos da cidade tinham tido uma voz assim dolente! Badaladas como trágicos soluços daquele bronze que parecia ter dentro em si a alma angustiosa da cidade.</p>
@@ -258,7 +257,7 @@
 <p>-- Levai-me daqui -- pedia em voz baixa a endoidecida -- Depressa...</p>
 <p>Não lhe mostreis... A pequena! Não lhe digam que era minha filha! Não! A ele nunca! Tenho vergonha! Tenho vergonha!</p>
 <p>E assim a levaram dali, com as mãos cada vez mais cingidas ao rosto, como se uma grande vergonha a oprimisse tanto, que até aquela sua loucura de mãe a pudesse compreender e sentir!</p>
-</div><div><head>CAPÍTULO II</head>
+</div><div type="chapter"><head>CAPÍTULO II</head>
 <p>DRAMA ANTIGO </p>
 <p>Em Santo Elói, o cavaleiro e o monge pararam em frente do portão de um velho palácio brasonado.</p>
 <p>-- Tio Mendo, ides ver que alvoroço fará a minha querida mãe.</p>
@@ -521,7 +520,7 @@
 <p>O Andeiro fora golpeado a poucos passos da rainha amante, e o bispo, enrodilhado na sua batina roxa, viera cair aos pés da multidão enfurecida, que lhe descarnou às chuçadas os ossos esmigalhados e, em uivos de ódio, o levou de rastos, dilacerado, pelas ruas lamacentas da cidade, como se fosse um cão morto!</p>
 <p>Têm destas alucinações medonhas e destas ferocidades odientas as revoltas dos povos que mais se humilharam e mais sofreram!</p>
 <p>São as iniquidades monstruosas da sua dor e das suas vergonhas.</p>
-</div><div><head>CAPÍTULO III</head>
+</div><div type="chapter"><head>CAPÍTULO III</head>
 <p>O FILHO DE D. DULCE </p>
 <p>Ainda não tinha clareado bem a manhã, porque o sol nascente mal se percebia através do toldo, escuro das nuvens, quando o Mestre saiu do paço de Apar S.</p>
 <p>Martinho, com o seu pequeno estado-maior de fidalgos, o seu conselho de estado de mecânicos da Casa dos Vinte e Quatro, um séquito de pajens e escudeiros e uma tumultuosa comitiva de mulheres e farroupilhas da plebe, que desde alta madrugada o esperavam nas imediações daquela grande e sombria edificação real.</p>
@@ -807,7 +806,7 @@
 <p>-- Olhai que até o barbaças da Terra Santa lá vai! -- notou uma rapariga da rua das Linheiras.</p>
 <p>-- Vai para excomungar os castelões enquanto o rapazote mete as naus no fundo com a tromba da galeaça -- chasqueou o sapateiro avinhado, ilustre irmão da confraria de S. Crispim, bendito patrono dos remendões.</p>
 <p>A galeaça lá ia de arrancada, envolta em espumas, aos saltos sobre as águas do rio, que o vento levantava revoltas como ondas de um mar embravecido.</p>
-</div><div><head>CAPÍTULO IV</head>
+</div><div type="chapter"><head>CAPÍTULO IV</head>
 <p>HERÓIS E FAMINTOS </p>
 <p>A esquadra de Castela, muito encostada ao Rastelo e de proas ao sul, tinha esperado a enchente da maré e vento de feição para dar batalha aos navios portugueses, seguindo nas suas águas.</p>
 <p>Quando a galeaça pequena, em que Ruy de Vasconcelos partira, ia em frente da moderna Junqueira, já a vanguarda da esquadra portuguesa vinha a todo o pano com vento de feição.</p>
@@ -997,7 +996,7 @@
 <p>-- Sou alguém capaz de vos mandar no seu próprio nome e obrigar-vos a cumprir o mandado!</p>
 <p>-- É o da galeaça da batalha desta manhã! -- disse alto uma das mulheres, afirmando-se nele -- É o que há três meses mandou desafiar o Condestabre de Castela!</p>
 <p>E era efetivamente Ruy de Vasconcelos.</p>
-</div><div><head>CAPÍTULO V</head>
+</div><div type="chapter"><head>CAPÍTULO V</head>
 <p>A FILHA DE UM TRAIDOR </p>
 <p>Sentiram de repente vergonha até os que eram da ralé, hoste miserável de rotos e de famintos.</p>
 <p>Em volta daquela cabeça juvenil de campeador, de altivez leonina e máscula beleza, fulgia uma auréola prestigiosa de heroísmo. Era uma figura de sonho pela sua juventude romanesca e forte e uma figura de epopeia pelo seu esforço impetuoso e nobre.</p>
@@ -1270,7 +1269,7 @@
 <p>-- Viva o nosso Defensor, o nosso Messias! -- gritavam.</p>
 <p>Dali a minutos, a populaça voltava. Cantavam lugubremente no silêncio da noite, batidas pelas picaretas, arregoadas pelos alviões, desprumadas pelas alavancas, as velhas cantarias da casa grande de D. Judas Navarro.</p>
 <p>E os madeiramentos seculares, de cedro e Carvalho, estoiravam num ruído estridente, a lembrarem gritos bruscos, singulares, de alguma estranha dor, cortados por uma dezena de machados.</p>
-</div><div><head>CAPÍTULO VI</head>
+</div><div type="chapter"><head>CAPÍTULO VI</head>
 <p>AMORES DE SONHO </p>
 <p>Longas horas oprimida de espanto pela demora do filho, D. Dulce sentiu uma grande impressão de consolo quando ele apareceu na casa do serão, que era onde ela costumava esperá-lo à noite.</p>
 <p>Mendo já a tinha informado do arrojo de Ruy durante a batalha naval e de como ele voltara a salvo.</p>
@@ -1637,7 +1636,7 @@
 <p>-- Filho, estou eu aqui! -- disse-lhe severamente D. Dulce, curvando-se para aquela pobre desmaiada -- Ruy, pede por mim desculpa a estes cavaleiros.</p>
 <p>E logo baixo para ele numa dolorida ironia:</p>
 <p>-- Eu velarei pela rainha.</p>
-</div><div><head>CAPÍTULO VII</head>
+</div><div type="chapter"><head>CAPÍTULO VII</head>
 <p>UM COMBATE SINGULAR </p>
 <p>O encontro fora aprazado para o alvorecer do dia seguinte, nas terras ermas de Santo Antão, um pouco para os lados da Porta do Jogo da Péla, com a espada de batalha e adaga, até que um dos campeadores ficasse mortalmente ferido. Por armas defensivas somente o bacinete sem viseira descida e sem gorjeira, o loudel<ref target="#note32"/> e os braçais.</p>
 <p>Fora isto combinado de tarde no adro da Sé, entre Álvaro Coutinho e outro do grupo dos Namorados, testemunhas e mantenedores por parte de Ruy de Vasconcelos, e dois cavaleiros de prole, escolhidos por Antão de Mendonça para seus apadrinhadores.</p>
@@ -1891,7 +1890,7 @@
 <p>-- Tenho então de a ajudar a ela nas súplicas a quem lho pode salvar, se ainda a morte o não levou. Eu te mandarei chamar para tratarmos de coisas que interessam à nossa honra e à de mais alguém.</p>
 <p>-- Quando mandardes, senhora -- volveu-lhe, apreensivo.</p>
 <p>Sentia naquele aviso uma fria severidade que o oprimia. Compreendeu claramente que se tratava dos seus amores com Madalena.</p>
-</div><div><head>CAPÍTULO VIII</head>
+</div><div type="chapter"><head>CAPÍTULO VIII</head>
 <p>ALMAS AMARGURADAS </p>
 <p>Maria de Mendonça não se afastara em toda a noite do quarto da filha, sempre a arder em febre, numa agitação de pesadelos.</p>
 <p>Sobre a madrugada, Madalena ficou-se num quebramento de modorra e a mãe adormeceu a chorar, sentada num escabelo, a cabeça repousada no cabeçal da filha.</p>
@@ -2195,7 +2194,7 @@
 <p>-- Mais ainda, porque sois mais nosso.</p>
 <p>-- O Condestabre da arraia-miúda.</p>
 <p>E lá foram de roldão atrás do prestigioso tanoeiro, que era uma das mais soberbas figuras daquele extraordinário período da História portuguesa.</p>
-</div><div><head>CAPÍTULO IX</head>
+</div><div type="chapter"><head>CAPÍTULO IX</head>
 <p>A BANDEIRA DOS NAMORADOS </p>
 <p>No dia seguinte àquele em que D. Maria de Mendonça e a filha voltaram ao paço abandonado dos Mendonças, apareceram logo de manhã uns grandes grupos de cavaleiros fidalgos, todos juvenis, em frente do velho solar medievo.</p>
 <p>Destacava-se de todos aqueles jovens um de alta estatura, magro, espadaúdo, feio, de mãos cabeludas. Era Álvaro Coutinho, o Magriço.</p>
@@ -2606,7 +2605,7 @@
 <p>-- E mais a vossa bandeira de amores -- acrescentou enternecidamente uma linda dama das Linheiras.</p>
 <p>E a pavonear a bandeira, a toda a altura dos seus braços enormes, para que ela voasse na aragem daquela madrugada luarenta, o Magriço dizia jovialmente:</p>
 <p>-- Perdeu el-rei de Castela o seu mercado de ciganos e demos nós uma trepa nos farronqueiros da Gasconha!</p>
-</div><div><head>CAPÍTULO X</head>
+</div><div type="chapter"><head>CAPÍTULO X</head>
 <p>CÉU DE LUTO </p>
 <p>A rija têmpera de Ruy de Vasconcelos desmentira com espanto de toda a gente o prognóstico pessimista do cirurgião Teve uma ligeira febre durante o dia 15, mas logo sobre a madrugada de 16 se lhe despegou totalmente, e não houve pedidos que o retivessem na cama.</p>
 <p>O apetite era admirável e a disposição de ânimo excelente. O ferimento ia tomando um aspeto animador e prometia cura completa dentro de quinze ou vinte dias.</p>
@@ -2811,7 +2810,7 @@
 <p>-- Já em tudo creio. Nos piores fingimentos, nas mais hediondas torpezas!</p>
 <p>Trazia na alma um sonho de mais dourada luz que a desse ardente sol que há pouco se encobriu -- ia dizendo baixo, doloridamente, para aquele plebeu que era dos seus maiores amigos -- agora leva mais sombras do que teve o céu por instantes! Sombras talvez para sempre, escuridão para não acabar nunca!</p>
 <p>Tinham chegado em frente do torvo palácio medievo.</p>
-</div><div><head>CAPÍTULO XI</head>
+</div><div type="chapter"><head>CAPÍTULO XI</head>
 <p>DOLOROSA SURPRESA </p>
 <p>Estavam os criados numa consternação, que mais provinha do pavor supersticioso das suas almas crédulas do que de piedade por aquelas senhoras que se tinham sumido como por feitiçaria, naqueles momentos de terror em que o sol se velara ao pino do meio-dia.</p>
 <p>A lamuriar, as criadas afiançaram a Ruy de Vasconcelos que já umas poucas de vezes tinham corrido as casas todas e nenhum indício tinham encontrado do paradeiro das senhoras.</p>
@@ -3006,7 +3005,7 @@
 <p>Levou à boca, enternecidamente, a cruzita de rubis, murmurando:</p>
 <p>-- Cruz pequenina do meu tamanho calvário! Foi no seu colo... Alvo como os arminhos das rainhas e como a plumagem do cisne branco do cavaleiro de Santo Graal... Que te dei o primeiro beijo!</p>
 <p>Não reparou na mãe, que orava, chorando tão sumidamente, que mais se lhe podia ouvir o coração do que o murmúrio das rezas.</p>
-</div><div><head>CAPÍTULO XII</head>
+</div><div type="chapter"><head>CAPÍTULO XII</head>
 <p>A LOUCA </p>
 <p>Ao cabo de cinco dias, o ferimento de Vasconcelos estava completamente curado. O da alma, esse é que de dia para dia mais se agravava e talvez nunca tivesse cura.</p>
 <p>Os rapazes do esquadrão dos Namorados tinham ido visitá-lo várias vezes. As adesões tinham sido importantes; o número dos filiados aumentava consideravelmente, e das províncias já tinham recebido mensagens de alguns jovens de famílias fidalgas, pedindo a admissão na hoste do estandarte verde como por lá lhe chamavam já.</p>
@@ -3166,7 +3165,7 @@
 <p>-- Homenagem que mereceis.</p>
 <p>-- Pois se alguma coisa entendeis que mereço, rogai vós no meu nome ao Mestre que atire com a nossa gente contra os castelões para se acabar com isto de vez. E a velha Lourença lá irá com a sua ala de saias, chuça na mão, para golpear esses lobos de Castela, que estão a uivar em redor da cidade. Perdoai o ousio, e Deus vá convosco e vos pague a caridosa benfeitoria, senhor fidalgo e honrado Juiz do Povo.</p>
 <p>E assim, neste feitio desassombrado e chão, em que transpareciam nitidamente a sua forte alma de lutadora e o seu generoso coração de mulher, se despediu daqueles dois homens de tão diversa condição, irmanados pela mesma devoção de patriotas e por igual esforço de ânimo.</p>
-</div><div><head>CAPÍTULO XIII</head>
+</div><div type="chapter"><head>CAPÍTULO XIII</head>
 <p>A ÚLTIMA INVESTIDA </p>
 <p>O dia seguinte, ainda não era sol fora, saiu Afonso Eanes da sua casa com um servo seu, antigo mouro saloio, e tomou para o casebre da tia Lourença.</p>
 <p>A regateira já tinha aviso para os esperar. O tanoeiro cumpria a promessa da véspera. Levaria para sua casa a desventurada Leonor e aquela que misericordiosamente lhe dera abrigo.</p>
@@ -3468,7 +3467,7 @@
 <p>Riram as outras do gracejo e o frade, já filado a um soberbo naco de presunto andaluz, o melhor troféu dos despojos inimigos, sorria das indignações daquelas filhas de Eva, que por momentos tinham esquecido a fome para ouvir o que as cartas diziam.</p>
 <p>O Mestre andava a ver os feridos, a dizer palavras consoladoras a uns, a fazer promessas de galardão aos que sabia mais assinalados na luta daquele dia e a tomar providências para que os socorros cirúrgicos se lhes não demorassem.</p>
 <p>E pela cidade faminta, onde a água envenenava e as ervas já escasseavam, o sol espargia dadivoso o ouro magnífico da sua luz e revoavam as vibrações triunfais no arranque febril de todos os corações e no repique louco de todos os sinos.</p>
-</div><div><head>CAPÍTULO XIV</head>
+</div><div type="chapter"><head>CAPÍTULO XIV</head>
 <p>PLANO FRUSTRADO </p>
 <p>Três dias depois, ao anoitecer, apareceram na torre maior do Castelo de Palmeia uns grandes fogachos, que a princípio amedrontaram a gente supersticiosa da cidade. Do terraço do paço do Limoeiro também se viram bem e o Mestre disse logo, com um clarão de fé a iluminar-lhe o rosto, subitamente prazenteiro:</p>
 <p>-- Sinal será para nós e de boa nova acerca de Nuno Álvares, que já com pesar me estava tardando!</p>
@@ -3693,7 +3692,7 @@
 <p>Confrangeu-se a alma do infortunado Vasconcelos.</p>
 <p>Com um sorriso afetuoso, o Defensor do Reino deu-lhes a despedida e saiu.</p>
 <p>-- Meu Deus, para derradeira tortura só faltava agora que a morte ma levasse! -- disse de si para si o Vasconcelos esmorecida mente.</p>
-</div><div><head>CAPÍTULO XV</head>
+</div><div type="chapter"><head>CAPÍTULO XV</head>
 <p>A DESPEDIDA </p>
 <p>O aviso confidencial que Afonso Eanes levara ao Mestre acerca de qualquer aventura dos Namorados, aviso vago e de simples suspeita por umas palavras de Ruy de Vasconcelos, inspirara a D. João aquele ardil bem intencionado.</p>
 <p>O caso das galés era apenas um pretexto, um estratagema para segurar o esforço temerário dos jovens aventureiros. Mas no invento do ardil achara o Mestre a noção de um plano a seguir, logo que as galés estivessem suficientemente preparadas para a defesa do rio, acima de Sacavém, e fossem oportunidade apropriada para se efetuar a passagem da hoste de Nuno Álvares Pereira.</p>
@@ -3781,7 +3780,7 @@
 <p>Aquela refrega foi a despedida de um cerco em que Lisboa padeceu misérias imensamente maiores que nos outros, muito mais breves, de 1373 e 1382.</p>
 <p>Aquele durava havia aproximadamente cinco meses, depois que fora completamente fechado, e sete meses desde que tinham começado as hostilidades dos lados do Lumiar.</p>
 <p>Em terra, vinte e cinco mil Castelhanos e aventureiros ilustres de França (os de Gasconha e do Bearne), no Tejo sessenta e duas naus e vinte galés com outros navios ligeiros e, provavelmente, uns quatro ou cinco mil homens a bordo; mas Lisboa não se rendera, antes brasonou com aquele feito a primeira grande página épica da sua história, para um dia servir de prólogo à maior odisseia das civilizações modernas.</p>
-</div><div><head>CAPÍTULO XVI</head>
+</div><div type="chapter"><head>CAPÍTULO XVI</head>
 <p>O PRÉSTITO DE CASTELA </p>
 <p>Por alta madrugada, de 3 para 4 daquele trágico mês de Setembro, os vigias das torres deram sinal de alarme e os sinos tocaram a rebate.</p>
 <p>Ouvia-se um cavo tropel dos lados de Santo Antão como de muitos cavalos e um ruído de carros que fossem rodando lentamente pelos caminhos.</p>
@@ -4004,7 +4003,7 @@
 <p>Iam acabrunhados os soberbos invasores e, mais talvez do que nenhum, porque era um doente, aquele poderoso rei das Espanhas<ref target="#note52"/>.</p>
 <p>E quando, num alteamento da estrada a colear o dorso de uma colina, mal se viam já as torres da cidade a esfumar-se no horizonte, el-rei sofreou o seu soberbo alazão de jaezes rutilantes e, voltando-se para o lado da insubmissa capital do país que julgava seu, disse num gesto teatral, erguida no ar a destra ameaçadora, os olhos rasos de lágrimas:</p>
 <p>-- Lisboa, tanta graça me faça Deus, que ainda te eu veja lavrada do ferro dos arados!</p>
-</div><div><head>CAPÍTULO XVII</head>
+</div><div type="chapter"><head>CAPÍTULO XVII</head>
 <p>A VINDA DE NUNO ÁLVARES </p>
 <p>O mês de Setembro quase se passou em procissões de penitência e em festas de igreja, num fervor piedoso de ação de graças pela constância heroica do povo de Lisboa, em tantos trabalhos e misérias durante aquele cerco, do qual providencialmente se vira livre.</p>
 <p>A mais comovedora das procissões penitenciais foi logo no dia 6, quer dizer, no dia seguinte àquele em que o exército de Castela se afastou de Lisboa.</p>
@@ -4284,7 +4283,7 @@
 <p>-- Mãe Lourença, dizei -- pediu-lhe sumidamente -- Piorou?</p>
 <p>-- Não; louvores a Deus. Vão as melhoras indo devagar, muito devagar para o que a mãe e nós desejávamos -- respondeu-lhe com intenso dó.</p>
 <p>E logo saíram.</p>
-</div><div><head>CAPÍTULO XVIII</head>
+</div><div type="chapter"><head>CAPÍTULO XVIII</head>
 <p>REI ELEITO </p>
 <p>Estamos a 2 de Outubro. Era de manhã cedo e já o Mestre e Nuno Álvares ficavam em nova conferência acerca dos negócios do reino e das precauções para uma outra guerra, que se podia considerar inevitável.</p>
 <p>O glorioso jovem do Alentejo conseguira que o Mestre perfilhasse, como de exclusiva iniciativa sua, alguns alvitres que lhe havia proposto. Entre outros, o de receber juramento de preito e menagem aos fidalgos de qualquer categoria, cavaleiros e escudeiros, que ainda o não tivessem prestado, como tinham feito os de Entre Douro e Minho. Assim os seguraria melhor e com maior e mais devotada lealdade adstritos à sua autoridade, quase soberana, de Regedor e Defensor do reino, ou regente como hoje se diria.</p>
@@ -4519,7 +4518,7 @@
 <p>-- Ora, umas poucas conheço eu que vão já para cima dos noventa, e não parece que a morte queira entrar com elas.</p>
 <p>-- Pois sim, sim. Mas reparai como os sinos cantam, e em vez de irmos a falazar de coisas tristes, vamos lá acompanhando os vivas dessa gente que alçou a rei o Mestre de Avis.</p>
 <p>E na vozearia atroadora das aclamações se embeberam, como num coro enorme, os gritos patrióticos da tia Lourença e do seu mulherio batalhador.</p>
-</div><div><head>CAPÍTULO XIX</head>
+</div><div type="chapter"><head>CAPÍTULO XIX</head>
 <p>MENAGENS DE CAVALEIROS E DE AMARGURADOS </p>
 <p>Tinham passado quatro dias. Em casa de D. Dulce de Vasconcelos não podiam entrar os fervores e os entusiasmos em que estava Lisboa, desde aquela memorável reunião do terreiro de S. Domingos. A tristeza como que a isolava da cidade; as mágoas cerravam-lhe as portas a todos os júbilos e a todas as agitações do grande drama em que a capital vivia.</p>
 <p>Da extraordinária manifestação do dia 2, só o velho escudeiro soubera por umas breves informações do monge, que dela casualmente houvera conhecimento naquele mesmo dia e com o povo se misturara como sabemos.</p>
@@ -4729,7 +4728,7 @@
 <p>-- Mas nenhum o fora ver, porque eu, a escudar-me com as recomendações do físico, nunca lho quis consentir. E ontem, esse tal Magriço honradamente cumpriu a sua promessa. A demora não foi além de uns instantes e só lhe disse meia dúzia de palavras.</p>
 <p>-- Pois então mais tranquilo fico. Irás tu receber D. Nuno; irei eu depois falar-lhe, e alguém ficará a tomar conta em Ruy no pouco tempo em que ambos estivermos afastados dele.</p>
 <p>-- Senhor, assim será bem.</p>
-</div><div><head>CAPÍTULO XX</head>
+</div><div type="chapter"><head>CAPÍTULO XX</head>
 <p>UMA VISITA DE NUNO ÁLVARES </p>
 <p>Entrava pelas janelas aquele sol de Outubro com o seu resplendor suave de ouro antigo. Ia já a desmaiar para os lados do mar.</p>
 <p>Vibrou alta a sineta do portão. Já prevenidos, os jovens do monte logo o foram abrir de par em par. O Gonçalo Vasques desceu a tremer os últimos degraus da escadaria nobre. Um pouco a tremura da sua velhice, mas muito mais a outra daquela comoção imensa que todos os crentes e patriotas de alma sonhadora sentiam sempre diante do jovem lidador, suprema esperança da Nação.</p>
@@ -4825,7 +4824,7 @@
 <p>E atravessou direito à porta. Foram com ele, para o acompanhar até à rua, Mendo Rodrigues e Gonçalo Vasques.</p>
 <p>E lá da penumbra da câmara, a espreitá-lo, arquejante, a monja serventuária murmurou doloridamente:</p>
 <p>-- Está chorando! Pela outra há de ser que ele chora!</p>
-</div><div><head>CAPÍTULO XXI</head>
+</div><div type="chapter"><head>CAPÍTULO XXI</head>
 <p>O DRAMA DE UMA NOITE </p>
 <p>Por volta das 11 horas, já noite velha naqueles tempos, em que a gente morigerada se deitava das 8 para as 9, o pobre do Gonçalo Vasques, a quem pertencera velar até à madrugada, estava à cabeceira de Ruy num confrangimento de dores. Eram da sua gota a adivinhar-lhe o Inverno que estava à porta.</p>
 <p>Mendo quisera substituí-lo, mas na sua dedicação pirrónica, o velhinho insistira em ficar e, só depois de muito instado, prometera ir chamar o irmão de D. Dulce, se as dores o torturassem mais.</p>
@@ -5105,7 +5104,7 @@
 <p>-- Deus te salve, e Deus te leve para a noiva que mereces! -- disse num estrangulamento de voz -- Cavaleiro enamorado, boa glória seja contigo!</p>
 <p>Desceu a grande escada a tremer. E lá foi a trambolhar pela rua fora naquela rútila manhã de Outubro.</p>
 <p>SEGUNDA PARTE A EPOPÉIA </p>
-</div><div><head>CAPÍTULO I</head>
+</div><div type="chapter"><head>CAPÍTULO I</head>
 <p>OITO MESES DEPOIS </p>
 <p>Estamos em meados de junho de 1385. Tão agitados por grandes acontecimentos políticos foram os meses decorridos desde aquela manhã de outubro, em que Leonor de Gusmão saiu do palácio de D.</p>
 <p>Dulce, num estonteamento de amargura, que não podemos deixar de resumir aqui os factos justificadores da situação em que vamos encontrar o país e algumas individualidades preponderantes, que são já do nosso conhecimento.</p>
@@ -5325,7 +5324,7 @@
 <p>-- Quando contais pôr vos a caminho da vossa Beira? -- perguntou-lhe Ruy.</p>
 <p>-- Uns dias espero demorar-me em Lisboa, pois me não parece urgente voltar a minha casa. Não creio que tão cedo tornem à veiga de Trancoso os castelhanos de D. Pedro Tenório, arcebispo de Toledo.</p>
 <p>-- Nisso também eu creio -- disse-lhe Ruy sorrindo, como se naqueles seus deslumbramentos de homem de guerra um pouco se lhe tivessem amortecido as mágoas dos seus mal aventurados amores.</p>
-</div><div><head>CAPÍTULO II</head>
+</div><div type="chapter"><head>CAPÍTULO II</head>
 <p>O MENSAGEIRO DOS NAMORADOS </p>
 <p>O escudeiro de Trancoso deixou-se ficar em Lisboa e, a pedidos de Ruy, se conservou na carinhosa hospedagem do paço dos Vasconcelos. Era ele até um dos companheiros diletos do jovem cavaleiro nos seus passeios de exercício para enrijar e adestrar os músculos, emperrados e enfraquecidos pela demorada doença.</p>
 <p>Por sua parte D. Dulce andava cada vez mais afervorada na devoção caridosa de encontrar o paradeiro da infortunada Leonor. Não era empresa fácil. Dado mesmo que tivesse ido acolher-se ao mosteiro, a que a velha Lourença fizera alusão e depois lhe designara, e tudo levava a crer que fosse, grandes e pacientes diligências era preciso fazer, movendo influências preponderantes, para obter das monjas a confirmação daquela suspeita.</p>
@@ -5469,7 +5468,7 @@
 <p>O Magriço dobrou o joelho como se fosse diante de uma rainha, e beijou-lhe e mão.</p>
 <p>No seu penoso disfarce, D. Dulce disse em castelhano umas palavras obsequiadoras a Montferrat, com quem já naquela manhã linha falado.</p>
 <p>-- Cá vos espero a ambos para o nosso jantar de hoje, senhores cavaleiros -- disse lhes num cumprimento de despedida.</p>
-</div><div><head>CAPÍTULO III</head>
+</div><div type="chapter"><head>CAPÍTULO III</head>
 <p>A PARTIDA </p>
 <p>Na véspera, o carairo-mor de Lisboa, Fernão Rodrigues de Sequeira, afirmara ao Magriço que, dali a dois dias, estaria no acampamento de Alenquer com os homens de lança e a peonagem que era possível juntar e meter a caminho, sem deixar indefesa a cidade e o concelho. E que isto mesmo podia ele afirmar a El-Rei.</p>
 <p>Também o chefe do contingente inglês lhe afiançou que no mesmo dia havia de partir com os frecheiros e homens de lança que se tinham demorado em Lisboa.</p>
@@ -5576,7 +5575,7 @@
 <p>-- Vivam os Namorados! -- gritaram as raparigas numa voz calorosa e aguda como vibrações de um clarim.</p>
 <p>E lá em cima, na sala de armas, D. Dulce, a soluçar no escabelo de espalda alta, o irmão ao pé dela, animando-a carinhosamente. Ouvira bem a tropeada dos cavalos e o grito vibrante das mulheres novas.</p>
 <p>-- Mendo, agora é que é chorar.</p>
-</div><div><head>CAPÍTULO IV</head>
+</div><div type="chapter"><head>CAPÍTULO IV</head>
 <p>À PROMESSA D’EL-REI </p>
 <p>Alenquer estava outra vez pela rainha herdeira, ou como se disséssemos por Castela. Era alcaide da vila, um casmurro parcial de D. Beatriz, fidalgo de Galiza, que no reinado de D. Fernando viera para o serviço de Portugal.</p>
 <p>Chamava-se Vasco Pires de Camões.</p>
@@ -5762,7 +5761,7 @@
 <p>Se até entre os mais favorecidos a variedade e a velharia dos armamentos eram curiosas! Capelinas ou capelos de ferro comidos da ferrugem de oitenta ou cem anos, solhas esfrangalhadas que tinham ido ao Salado, ascumas remotíssimas que tinham estado em Navas de Tolosa.</p>
 <p>-- Viva a Ala dos rôtos! -- clamavam os trocistas.</p>
 <p>-- Os guerreiros de ventres ao sol!</p>
-</div><div><head>CAPÍTULO V</head>
+</div><div type="chapter"><head>CAPÍTULO V</head>
 <p>AO ENCONTRO DOS INVASORES </p>
 <p>No dia seguinte de madrugada a hoste real arrasou as tranqueiras do acampamento, levantou as tendas e pôs se a caminho para ir ficar a Valada.</p>
 <p>A uma légua de Alenquer afastou-se Diogo Machado, tomando para a Beira com cartas e recados do Rei para os fidalgos que tinham vencido a batalha de Trancoso. Instava com eles D. João para que não tardassem a juntar-se ao exército real com a sua melhor gente de armas, visto que, sozinhos e entregues ás suas forças, lhes não seria possível rebater o poder do rei castelhano.</p>
@@ -5891,7 +5890,7 @@
 <p>No dia seguinte aquele em que Fernão Álvares de Almeida lhe trouxe a resposta do Condestável, marchava El-Rei com a sua hoste para tomar.</p>
 <p>Tinha-se espalhado que iam ao encontro de Nuno Álvares e to dos sentiram em si uma nova alma, sem que lhes importasse indagar se eram mais ou menos de três mil homens de guerra esses que o vencedor dos Atoleiros tinha consigo.</p>
 <p>E os da Ala dos Namorados, esses então iam radiantes. Com aquele chefe jovem, arrojado, devaneador, todo embevecido nas lendas novelescas da Távola Redonda e do Santo Graal, paladino que sabia vencer batalhas, mas também idealista para sonhar milagres de esforço, com ele é que os rapazes se tinham de entender bem e não haveria voto denodado que esse Condestável de vinte e cinco anos lhes não autorizasse.</p>
-</div><div><head>CAPÍTULO VI</head>
+</div><div type="chapter"><head>CAPÍTULO VI</head>
 <p>NOTÍCIAS DE LONGE </p>
 <p>Logo no dia imediato aquele em que as tropas reais se juntaram em tomar com as do Condestável determinou sua real senhoria que nas várzeas se fizesse alardo de todas as forças da hoste. Era uma espécie de revista ou parada geral, como hoje se diria.</p>
 <p>D. João e Nuno Álvares queriam avaliar por si próprios as forças totais com que podiam contar e agrupar as grandes unidades de batalha, coisa embaraçosa e demorada com a tática rudimentar daqueles tempos e com a frouxa coesão e difícil mobilidade de tropas coletícias, reunidas à pressa aos primeiros rebates da guerra.</p>
@@ -6044,7 +6043,7 @@
 <p>Eram esmorecedores os pormenores contados pelo Peixoto em audiência confidencial com o Rei.</p>
 <p>Vinham com os quarenta e tantos mil homens da hoste os mais poderosos senhores e altivos fidalgos da Espanha, da Gasconha e do Bearne e até um cavaleiro velho, que era camareiro do rei de França e já tinha assistido a muitas batalhas, sendo as principais contra os ingleses.</p>
 <p>O Rei impôs-lhe absoluto segredo, e logo deu ordem para a sua hoste seguir na madrugada do dia seguinte direita a Ourem, levando a disposição com que devia entrar em batalha. As forças do Condestável formando o corpo avançado, as alas como flanqueadores, a coluna do Rei como corpo principal.</p>
-</div><div><head>CAPÍTULO VII</head>
+</div><div type="chapter"><head>CAPÍTULO VII</head>
 <p>O VOTO DOS NAMORADOS </p>
 <p>No sábado, 12 daquele mês de agosto, a hoste portuguesa levantou do seu acampamento, entre a Atouguia das Cabras e Ourem, e marchou para Porto de Mós.</p>
 <p>Assim se ia aproximando do exército de Castela, já em Leiria. Rejeitara-se a defensiva-passiva, como se diz na moderna tecnologia militar, e o minúsculo exército português, que não daria hoje para duas brigadas em mobilização, lá ia ao encontro dos invasores para se lhes atravessar no caminho de Lisboa.</p>
@@ -6160,7 +6159,7 @@
 <p>Contra esta suspeita me acautelei, não deixando que a minha escassa cavalaria se metesse pelas baixas e pinhais mais avizinhados da povoação. Na volta subi à charneca alta sobre o caminho de Alcobaça e pareceu-me que para ali iriamos bem. Nos campos de Leiria, para além do monte do Castelo, quereriam eles que eu fosse dar. Lá facilmente nos fariam em postas os muitos mil cavaleiros que dizem ter. Agora me parece que o melhor será irmos todos daqui busca-los.</p>
 <p>-- Sim, a fazer-lhes espera no caminho para Lisboa. E amanhã véspera da Senhora de Agosto. Pois na sua honra seja esse nosso dia. Disponde tudo para que antemanhã a vossa hoste nos vá tomar o campo em que temos de espera- los. A minha irá com pouca demora, seguindo a vossa.</p>
 <p>Deram-se as ordens de prevenção e tudo se dispôs para a marcha do dia seguinte.</p>
-</div><div><head>CAPÍTULO VIII</head>
+</div><div type="chapter"><head>CAPÍTULO VIII</head>
 <p>NOITE DE SONHO </p>
 <p>Entretanto chegara ao acampamento um aventureiro singular, que perguntava por Álvaro Coutinho no seu português de contrabando.</p>
 <p>Era uma estranha figura de idealista e de boémio. Gorra de plumas a desfazerem se de velhas, donairosamente posto um manto que fora branco e vinha a esfiampar-se, arrabil<ref target="#note81"/> a tiracolo, um cão grande, magro e triste, por companheiro. Tinha já alguns cabelos brancos na barba loura e fina.</p>
@@ -6220,7 +6219,7 @@
 <p>Dos lados da serra, sacudidos pela fome, os lobos uivavam a espaços, ao faro daquela gente silenciosa.</p>
 <p>Enganavam-se. Não era ali que tinha de ser o seu trágico banquete.</p>
 <p>De espaço a espaço, as sentinelas do arraial e os esculcas distantes soltavam os seus brados de alerta.</p>
-</div><div><head>CAPÍTULO IX</head>
+</div><div type="chapter"><head>CAPÍTULO IX</head>
 <p>ALJUBARROTA </p>
 <p>Ainda era escuro e já os trombeteiros do Condestável estavam dando o sinal de alvorada. E logo um grande borborinho por aquela veiga de Porto de Mós.</p>
 <p>Levantou-se toda a gente da vila num alvoroço cheio de receios. Por todas as adufas transluziam candeias; as ruazitas estreitas iam atulhadas de gente.</p>
@@ -6726,7 +6725,7 @@
 <p>Durou meia hora. A mais soberba meia hora que Portugal tem tido até hoje nos seus oitenta anos de história. A meia hora que nos levou para os destinos do mundo como vanguarda homérica de uma civilização que fez a terra maior.</p>
 <p>Se aquela batalha se perdesse para nós, Portugal teria por estreito coval aquele outeiro em que a batalha se travou e decidiu, e na história das raças aventurosas faltaria um capítulo enorme de dois séculos, feito de nomes portugueses sobre os mapas de um mundo, que os contemporâneos de Aljubarrota nem sequer poderiam sonhar.</p>
 <p>Naquele céu onde o sol se sumira, se as estrelas falassem ouse nelas os batalhadores vitoriosos soubessem ler aquelas verdades de vaticínio que os mágicos e os astrólogos fingiam entender, nalguma delas poderiam encontrar tais profecias de assombro, que a si próprios, envaidecidamente, se julgassem os semideuses geradores de uma lenda.</p>
-</div><div><head>CAPÍTULO X</head>
+</div><div type="chapter"><head>CAPÍTULO X</head>
 <p>O CETRO D’EL-REI DE CASTELA </p>
 <p>Logo à primeira galopada o Vasconcelos dissera para o Magriço:</p>
 <p>-- Assim eu encontre agora o vilão de Antão Gonçalves, que se me sumiu!</p>
@@ -6897,7 +6896,7 @@
 <p>Missa em ação de graças pela última batalha romântica dos tempos medievais.</p>
 <p>Aquela batalha em que os Namorados com a sua cavalaria apeada e a plebe com a sua infantaria rota colaboraram no prólogo de outro romance do esforço humano, imensamente maior, numa aventura de séculos pelo mundo.</p>
 <p>TERCEIRA PARTE NOIVA IMACULADA </p>
-</div><div><head>CAPÍTULO I</head>
+</div><div type="chapter"><head>CAPÍTULO I</head>
 <p>A ESCOLTA DOS TROFÉUS </p>
 <p>Depois daquela missa ao nascer do sol do dia 15 de Agosto, El-rei concedeu que os Namorados fossem extremar os cadáveres dos seus companheiros.</p>
 <p>Eram muitos. Pobres noivas, pobres namoradas!</p>
@@ -7148,7 +7147,7 @@
 <p>Felizmente para os castos ouvidos, os sinos da cidade e as sinetas das muralhas, cortando os ares com a vibração dos seus repiques, num frenesi louco, abafaram completamente a vozearia das afrontas.</p>
 <p>O sol, decorador supremo, punha os seus esplendores de apoteose sobre aquela procissão de triunfo.</p>
 <p>E só uma hora depois chegaram à Sé, onde um franciscano, grande teólogo e famoso orador, ia subir ao púlpito para pregar o sermão congratulatório da vitória.</p>
-</div><div><head>CAPÍTULO II</head>
+</div><div type="chapter"><head>CAPÍTULO II</head>
 <p>PLANO DE AVENTURAS </p>
 <p>Tinham passado três dias. Um escudeiro do Condestável chegara de Santarém com uma carta para Ruy de Vasconcelos. Trazia notícia de alvoroço, pois que logo o jovem caudilho dos Namorados mandou sair dois escudeiros com aviso para os companheiros se reunirem no alpendre de S. Domingos, por volta das 3 horas da tarde.</p>
 <p>E a seguir foi aos aposentos do tio Mendo. Encontrou-o de palestra com o trovador provençal, a quem muito se afeiçoara desde as jornadas de regresso a Lisboa.</p>
@@ -7376,7 +7375,7 @@
 <p>Os dois frades afastaram-se logo com admirável ligeireza como se levassem asas nas sandálias. Só por vergonha é que não deitaram a correr como raposas espavoridas, e só Deus sabe com que regalo de alma eles viram palmilhada a primeira fadigosa légua que os separava dos chamorros.</p>
 <p>De olhos no chão, caminhando lento, Ruy ia dizendo de si para si, amarguradamente:</p>
 <p>-- Se a Rainha a levou consigo, então será este meu sonho de agora o último que se desfaz. O último! E acabará com ele esta pobre alma, tão rudemente mortificada. O tributo que devia à minha Pátria e ao meu nome, está pago. Já não haverá glórias nem vaidades de cavaleiro que cheguem para me encher o coração. Nenhumas!</p>
-</div><div><head>CAPÍTULO III</head>
+</div><div type="chapter"><head>CAPÍTULO III</head>
 <p>UM GLORIOSO DIA </p>
 <p>A hoste do Condestável avançou lentamente em busca de alguém que lhe fizesse frente. No dia 3 de Outubro ficou em Almendral; no dia 4 acantonou- se, como se diria hoje, na aldeia de La Parra.</p>
 <p>E foi ali que os nossos descobriram gente de armas que se lhes pudesse opor.</p>
@@ -7690,7 +7689,7 @@
 <p>Tinham acendido fogueiras, porque a noite esfriara muito.</p>
 <p>E a poucos passos dos que ainda podiam sonhar, os outros de Castela e Portugal que já não tinham visto amanhecer, vencidos e vencedores que a morte ali deixara deitados numa tranquilidade de neutros.</p>
 <p>Havia de ter sido cheia de sonhos encantadores aquela noite para o mais brilhante campeador dos Namorados naquela batalha de Valverde.</p>
-</div><div><head>CAPÍTULO IV</head>
+</div><div type="chapter"><head>CAPÍTULO IV</head>
 <p>PARA TORDESILHAS </p>
 <p>Logo ao romper da manhã o Provençal voltou a conversar com Ruy de Vasconcelos acerca da planeada expedição a Tordesilhas.</p>
 <p>Conversa confidencial, muito recatada de ouvidos indiscretos.</p>
@@ -7866,7 +7865,7 @@
 <p>-- Ali fomos uma vez, vosso tio e eu. E com ele deixei combinado que para lá vos havia de guiar.</p>
 <p>-- É então perto de Tordesilhas?</p>
 <p>-- A uma grande légua.</p>
-</div><div><head>CAPÍTULO V</head>
+</div><div type="chapter"><head>CAPÍTULO V</head>
 <p>RECEIOS </p>
 <p>No real mosteiro de Tordesilhas havia, como em outros de Portugal e Espanha, uns aposentos especiais, muito afastados das celas das monjas, para hospedagem dos soberanos e a sua comitiva, e ainda uns compartimentos destinados às damas que ali se acolhiam para uma reclusão temporária, sem encargo de obediência a todas as regras da comunidade.</p>
 <p>Também aquele, como outros mosteiros da Península, algumas vezes fora prisão disfarçada para altas damas comprometidas por desvairados amores, ou sequestradas da vida profana por interesses de família ilegítima e inconfessáveis, e não raras vezes por conveniências políticas e supremo arbítrio dos reis. Era este o caso da pérfida D. Leonor Teles, encerrada ali por ter conspirado contra o genro, mal sucedido herdeiro da coroa de Portugal.</p>
@@ -7979,7 +7978,7 @@
 <p>-- Ide lá dizer-lho por favor de amigo. E mal que cerre a noite, eu vos esperarei ali, àquela esquina do muro da cerca, para um e outro ficarmos sabendo como tudo está disposto.</p>
 <p>-- Pois então até ao fechar da noite.</p>
 <p>-- Até lá, e grande amigo temos em vós, meu querido poeta da Provença.</p>
-</div><div><head>CAPÍTULO VI</head>
+</div><div type="chapter"><head>CAPÍTULO VI</head>
 <p>D. PELAYO MUNOZ </p>
 <p>Ainda não eram duas horas da tarde. O Provençal e o Magriço tinham saído ambos do casarão em ruínas onde os Namorados tinham metido os cavalos e eles próprios se tinham ocultado.</p>
 <p>Vinham os dois procurando carreiros por onde o matagal era menos bravio; depois meteram para o árvoredo mais espesso daquele fundão ermo.</p>
@@ -8147,7 +8146,7 @@
 <p>-- Mas olhai que o casamento é que se não pode fazer no mosteiro, como tínheis ideado.</p>
 <p>-- É pena! Teria assim maior significação; mas sei que não posso contar com a anuência de Ruy e do tio, e desisto. Do que eu não desisto é de levar as guedelhas de D. Pelayo Munoz de Leon y Bullones. Levo-as por conta das tremendas mentiras e nunca sonhadas insolências que tive a paciência de lhe ouvir na minha falsa qualidade de Gascão. Lá com pés de lã e calados como furtadores de galinhas é que os Namorados não hão de sair daqui. Mas não me fiqueis de má sombra, meu devotado amigo. Tudo há de correr na paz do Senhor, e até vós haveis de rir perdidamente por esse caminho fora. Hei de repartir convosco uma madeixazinha da guedelha do Munoz. Vamos lá ver agora a chegada da Rainha-menina e admirar os ginetes de Valhadolid.</p>
 <p>Saíram. O Marival ia taciturno. Agourava mal daquela jactanciosa extravagância do Magriço.</p>
-</div><div><head>CAPÍTULO VII</head>
+</div><div type="chapter"><head>CAPÍTULO VII</head>
 <p>AS DUAS RAINHAS </p>
 <p>D. Beatriz dispensou a guarda de honra dos ginetes e, assim que se viu liberta da receção carinhosa das monjas, foi logo à cela de D. Leonor Teles em companhia da camareira-mor.</p>
 <p>Visita de cerimoniosa compaixão, foi breve e, compreende-se que o fosse.</p>
@@ -8258,7 +8257,7 @@
 <p>-- Certamente. Mas se quereis, vamos para além ou vou eu chamá-los para aqui.</p>
 <p>-- Vamos nós ter com eles. Ali estaremos mais no escuro.</p>
 <p>Foram.</p>
-</div><div><head>CAPÍTULO VIII</head>
+</div><div type="chapter"><head>CAPÍTULO VIII</head>
 <p>GRAVES REVELAÇÕES </p>
 <p>Ás nove horas as monjas estavam já recolhidas nas suas celas e poucas talvez ainda acordadas.</p>
 <p>A própria vila parecia já adormecida. Apenas numa taberna se jogava à porta fechada. A povoação era pacífica, de gente morigerada, e o uso do tempo era deitar cedo para levantar ao romper da madrugada.</p>
@@ -8410,7 +8409,7 @@
 <p>-- Como tu tremes, meu amor! -- segredou-lhe Ruy.</p>
 <p>-- Tem ânimo. Chegamos bem para te defender.</p>
 <p>-- Mas com a tua vida em perigo, e disso é que eu tenho medo! -- balbuciou, muito chegada a ele como criança oprimida de susto.</p>
-</div><div><head>CAPÍTULO IX</head>
+</div><div type="chapter"><head>CAPÍTULO IX</head>
 <p>O RAPTO DE UMA NOIVA </p>
 <p>Resumamos como os Namorados tinham entrado em Tordesilhas.</p>
 <p>Ao sol-posto, antes de se fecharem as portas da vila, seis deles, à sorte, tinham vindo com Ruy de Vasconcelos, a pé entre a gente que voltava dos campos, com o disfarce já indicado em outro capítulo; os arneses encobertos, as espadas muito cingidas ao corpo, verticalmente, o capuz gualteiro aconchegado ao rosto.</p>
@@ -8458,7 +8457,7 @@
 <p>-- Vamos lá ver se o Munoz de Leon y Bullones já acabou de cear. Quero ganhar-lhe a aposta das guedelhas. A outra da vida lha dispenso eu, salvo se ele teimar muito. Quereis vir?</p>
 <p>-- Vou.</p>
 <p>-- Tende paciência; esperai aqui uns instantes mais, que eu não tardo -- disse o Magriço aos outros.</p>
-</div><div><head>CAPÍTULO X</head>
+</div><div type="chapter"><head>CAPÍTULO X</head>
 <p>A DESPEDIDA </p>
 <p>Na salazita da hospedaria D. Pelayo Munoz estava ainda à mesa com o seu colega D. Ramon Cabeza de Vaca, nobre comandante dos ginetes da escolta real. Este Cabeza de Vaca era sobrinho de um chefe notável que tinha morrido no último cerco de Lisboa.</p>
 <p>Cearam regularmente; beberam com denodo épico e ficaram a caturrar, à espera dos parceiros para o jogo, sem dar pelas horas que fugiam.</p>
@@ -8568,7 +8567,7 @@
 <p>Bullones estava delicioso nos seus rugidos de desespero leonino, a encrespar as barbas e a brandir nos ares a soberba durindana desfeiteada.</p>
 <p>-- Por Santa Maria de Valhadolid e por quantos Bullones têm assombrado Castela, que iria eu só contra eles, se não fora o dó de deixar Tordesilhas ao desamparo! -- bramiu de olhos injetados.</p>
 <p>E teve um ataque de tosse épica.</p>
-</div><div><head>CAPÍTULO XI</head>
+</div><div type="chapter"><head>CAPÍTULO XI</head>
 <p>TERRA DE PORTUGAL </p>
 <p>Três léguas a passo, e nem sequer tropel longínquo dos ginetes do Munoz!</p>
 <p>Era manhã clara; vinha rompendo o sol.</p>
@@ -8606,7 +8605,7 @@
 <p>A 25 de Dezembro começava o cerco de Chaves. Naquele dia, com o coração confrangido de saudades, duas mulheres choravam amargamente no palácio de Santo Elói.</p>
 <p>D. Dulce e Madalena. Foi assim a sua consoada naquele ano de tamanhas glórias para a Pátria e de tão efémera ventura para a rainha, dos Namorados.</p>
 <p>É que também as mulheres dão um pesado tributo para a guerra. O tributo das suas lágrimas para esse longo mar de sangue, esparso no Mundo pelos ódios dos homens e pelas iníquas ambições dos estados.</p>
-</div><div><head>CAPÍTULO XII</head>
+</div><div type="chapter"><head>CAPÍTULO XII</head>
 <p>A EMPAREDADA </p>
 <p>Em Janeiro soubera D. Dulce, por intermédio do Bispo de Lisboa, em que convento da cidade se fora asilar aquela grande amargurada que era D. Leonor de Gusmão.</p>
 <p>A desditosa fizera o seu dito certo. Era uma emparedada.</p>
@@ -8730,7 +8729,7 @@
 <p>-- Pois mandai-lho vós dizer -- lembrou a mãe de Ruy, abrindo num sorriso a carinhosa alvorada que subitamente lhe enchera o coração -- Ou nós ambas.</p>
 <p>-- Assim -- acudiu Madalena a sorrir -- As duas, para ele sentir melhor a boa nova. Dizem que as avozinhas são duas vezes mães.</p>
 <p>E beijou-a com uma infantilidade encantadora.</p>
-</div><div><head>CAPÍTULO XIII</head>
+</div><div type="chapter"><head>CAPÍTULO XIII</head>
 <p>A INVESTIDURA DE UM CAVALEIRO </p>
 <p>Em fins de Abril, Chaves capitulava; em Maio, Bragança. O rei de Avis, como ainda lhe chamavam os Castelhanos, tinha de ir assim conquistando as terras carairiças onde a bandeira da união luso-castelhana, esboço dessa união ibérica, profundamente detestada pela grande maioria da Nação, ainda não fora abatida pela épica lufada que se levantara de Aljubarrota.</p>
 <p>Em Maio, nova entrada dos Portugueses em Castela. Ciudad Rodrigo entrega- se, mas Cória resiste afincadamente a um porfiado cerco. Não tinha ainda a ressurgida monarquia recursos que bastassem para as campanhas ofensivas em território estranho e os sitiantes de Cória, sem o dispendioso material necessário para um cerco em regra, padecendo fome como se fossem eles os sitiados, tiveram de retirar para as suas terras, dizimados pelos assaltos inúteis e pelas epidemias dos acampamentos.</p>
@@ -8851,7 +8850,7 @@
 <p>-- Tal como fui, e mais dei comigo em Itália onde as damas são de enfeitiçar e primam em amoráveis generosidades. Deixarei, porém, estes lances da minha má fortuna para vos dizer coisas de envaidamento que ouvi por lá. Sabei que muito se fala agora da nossa terra como de Nação jovem para grandes destinos! Há anos havia lá por fora muita gente que punha em dúvida o nosso feito de Aljubarrota, e uns diziam que tinham sido ali mais de vinte mil dos nossos contra menos de trinta mil de Castela; outros inventavam que os arqueiros ingleses, muitos centos deles, é que tinham vencido a batalha.</p>
 <p>O feito de seis mil e quinhentos contra os trinta e quatro mil de Castela é o que a eles lhes custava a engolir. Em Londres tive de rasgar a pele às lançadas a um mentiroso, que dava a batalha vencida por setecentos ou mil arqueiros ingleses. Mas no Brabante encontrei um velho francês, que fora menestrel e era cronista, e esse me leu a narração da batalha como lha tinham contado e ele a pôs por escrita. Tem coisas falsas, mas justiça nos faz. A respeito de nomes de cá é que o Francês errou quase todos, logo a começar pelo da batalha, a quem ele chama de Yuberothe. Custou-me a desencantar neste embrulhado nome o nosso de Aljubarrota! Ele a perguntar-me se eu também tinha estado na grande batalha de Yuberothe, e eu de olhos pasmados nele e quase a supor-lhe intentos de jogral escarninho, a quem, pela sua velhice, me não fosse dado castigar!</p>
 <p>Riram.</p>
-</div><div><head>CAPÍTULO XIV</head>
+</div><div type="chapter"><head>CAPÍTULO XIV</head>
 <p>O SONHO DE UMA ODISSEIA </p>
 <p>Escutai agora uma nova que me fez voltar mais cedo a Portugal. Ides talvez cair das nuvens.</p>
 <p>-- Pois aqui nos tendes à espera da surpresa, meu querido Álvaro Goutinho -- disse-lhe Ruy.</p>
@@ -8902,7 +8901,7 @@
 <p>Bom vento para sair no rumo daquela empresa. E já com o coração a adivinhar-lhe a morte, a Rainha mandou que lhe trouxessem as três espadas que mandara fazer para os filhos, os três infantes já homens -- D. Duarte, D.</p>
 <p>Pedro e D. Henrique -- e das suas mãos trementes lhas receberam eles, de joelhos à beira daquele catre real, que ia mudar-se em leito funerário.</p>
 <p>A Idade Média estava também moribunda, e dessa cavalaria romântica e sonhadora que exalçara até ao fanatismo o culto da mulher endeusando-a, era Portugal, naquele derradeiro ciclo, a terra maternal e alma consagradora. Para a cruzada marroquina, a Rainha moribunda, filha dessa raça que ideou a lenda do rei Artur de Gales, armava do seu leito de morte aqueles filhos seus, vergônteas dessa árvore soberba que o Messias batalhador de Lisboa plantara na charneca ensanguentada de Aljubarrota.</p>
-</div><div><head>CAPÍTULO XV</head>
+</div><div type="chapter"><head>CAPÍTULO XV</head>
 <p>A PRIMEIRA CONQUISTA </p>
 <p>Dobravam os sinos do mosteiro de Odivelas. A Rainha morrera. Querida e venerada por todos, o choro e o luto não podiam ser em Portugal uma hipocrisia imposta pela pragmática real. Não eram.</p>
 <p>Mas um vento de sonho, de maior poder que o aquilão favorecedor, levava para longe as almas guiadoras da Nação remoçada, e naquele lance de aventura já não havia dor que chegasse para trajar de luto a página em branco de uma nova História.</p>
@@ -8970,7 +8969,7 @@
 <p>Estavam agora imensamente mais fáceis para a Espanha a expulsão do mouro dos rochedos de Gibraltar e a conquista da terra paradisíaca de Granada.</p>
 <p>E o que a Europa nem sequer ainda podia sonhar era que por aquela parte da África misteriosa se abrira o caminho prodigioso de uma nova civilização.</p>
 <p>Naquele feito de um dia apenas, fazia-se a génese de uma Renascença que a cronologia ligou a outro facto histórico,<ref target="#note96"/> mas que ali realmente alvoreceu.</p>
-</div><div><head>CAPÍTULO XVI</head>
+</div><div type="chapter"><head>CAPÍTULO XVI</head>
 <p>OS DERRADEIROS DA ALA </p>
 <p>Nos últimos dias de Agosto começava o reembarque do exército para voltar para Portugal. Em Ceuta ficava uma forte guarnição.</p>
 <p>Na praia, o grupo dos Namorados esperava a sua vez para embarcar.</p>
@@ -9031,7 +9030,7 @@
 <p>A saída, já sol-posto, todos os outros operários tinham também despegado do trabalho e todos eles se foram juntando no terreiro da igreja.</p>
 <p>-- Homens jovens -- disse o velho lavrante para os colegas noviços -- foi assim por esta hora que se salvou a nossa terra! E vão ali alguns da ala que mais batalhou nesta hora.</p>
 <p>Num fervor de devoção patriótica todos aqueles rústicos enfarinhados de pó branco da pedra, levantaram fervorosos vivas aos envelhecidos Namorados.</p>
-</div><div><head>CAPÍTULO XVII</head>
+</div><div type="chapter"><head>CAPÍTULO XVII</head>
 <p>EPÍLOGO </p>
 <p>O filho de Ruy de Vasconcelos, armado cavaleiro pelo Infante D. Henrique na mesquita maior de Ceuta, volvida em igreja da nossa Senhora de África, ficara ao serviço daquele glorioso filho do rei de Aljubarrota.</p>
 <p>Já tinha amores o jovem cavaleiro; era, porém, de outra ala de namorados diferente daquela que o pai ilustrara. Podia levar no seu balsão o mesmo apaixonado moto bordado pela mãe no estandarte verde da ala juvenil de 1385, mas agora para outra campanha imensa, de gerações sucessivas, pelos mares das lendas, para um mundo de sonho.</p>

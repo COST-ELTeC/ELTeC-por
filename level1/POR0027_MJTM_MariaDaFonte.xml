@@ -19,7 +19,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">58236</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>12 de novembro de 2018</date>. </p>
@@ -65,12 +64,12 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>O Annel Mysterioso</head>
+<div type="titlepage"><head>O Annel Mysterioso</head>
 <p>Scenas da Guerra Peninsular</p>
 <p>Romance original de</p>
 <p>Alberto Pimentel</p>
 </div>
-<div>
+<div type="chapter">
 <head>PROLOGO</head>
 <p>Não ha forças humanas que nos destruam as tendencias.</p>
 <p>Quando o pae d'um antigo poeta latino castigou severamente o filho por escrever poesias, ouviu do castigado um famoso verso heroico, como promessa de não compôr mais versos.</p>
@@ -91,12 +90,12 @@
 </front>
 <body>
 <pb/>
-<div><head>PRIMEIRA PARTE</head>
+<div type="chapter"><head>PRIMEIRA PARTE</head>
 <p>HONRA</p>
 <p>«No que o mundo chama "honra" ha muitas vezes mais vaidade que virtude».</p>
 <p>                                                 (DR. CORRÊA DE LACERDA).</p>
 <p>UM CONTO PORTUGUEZ</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>TREZ DONZELLAS</p>
 <quote>
 <l>Tres, sim. Não cuides       </l>
@@ -154,7 +153,7 @@
 <p>-- É muito povo, é, snr.^a D. Maria! Responderam, a uma voz, surprehendidas, as duas amigas da fidalga.</p>
 <p>-- É caso extraordinario! A esta hora, e n'um dia de serviço!... Ahi vem o sobrinho do snr. reitor, que nos vai dizer o que significa aquelle ajuntamento...</p>
 <p>Interrogado, o recem-vindo, pelas tres donzellas ao mesmo tempo, respondeu, -- precedendo um cumprimento de cabeça, por lhe não darem logar a outro -- é... a «Maria da Fonte!»</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>RUGIDO</p>
 <p>«Não vêdes, que nos destruiremos a nós, e á nossa Republica, se   intentarmos cousas, que não podem ser, porque nos hão-de dar na cabeça   todos esses remedios?»</p>
 <p>                                             ("Vieira" -- ARTE DE FURTAR.)</p>
@@ -204,7 +203,7 @@
 <p>-- N'esse caso, -- interrompeu Sebastião da Mesquita -- peço as ordens de v. ex.^a... João, acompanha meu primo até ao portal.</p>
 <p>Ao receber a ordem do amo, o escudeiro foi postar-se atraz de Leopoldo. Este, fulo de cólera açamada, virou a espalda e sahiu com o povo, que escutára o fidalgo com todo o respeito e silenciosa attenção, e que foi tão rapido na sahida como morôso havia sido na entrada.</p>
 <p>Logo que foi evacuada a sala segundo as ordens de Sebastião da Mesquita, caminhou este até ao pé  das donzellas, pôz a mão direita sobre o hombro esquerdo da filha, encarou-a por longo tempo com visivel commoção, e disse-lhe com lagrimas na voz: Deos te dê melhor sorte, Maria!... Depois, cingiu Rosa e Anna com o braço esquerdo, e disse a todas com igual ternura: Deos vos proteja, minhas filhas!...</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>AO LUAR</p>
 <quote>
 <l>«Na minha terra, uma aldeia,       </l>
@@ -263,7 +262,7 @@
 <p>-- Adeus, snr. Arthur Soares! Durma tranquillo e guarde bem essa arma que deve ser entregue por V. S.^a "em pessoa" a mim, ou, de minha ordem, á minha amiga e discipula Rosa...</p>
 <p>Ditas estas palavras, retirou-se D. Maria da janella, que fechou de manso.</p>
 <p>Arthur permaneceu no mesmo logar por largo espaço  de tempo, immovel, com os olhos fitos na formosa lua cheia, e o pensamento entregue ao vago de estranhas e indecifraveis sensações. Accordou d'este delicioso e pungente lethargo, á voz amiga de João Vidal, o escudeiro, que o acompanhou á residencia do thio.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>MÃE E MADRE</p>
 <p>«Espero que essas pedras, que em outras foram de escandalo, sejam em v. m. padrões de espirituaes exemplos.»</p>
 <p>                                ("Fr. Ant. das Chagas" -- CARTAS ESPIRIT.)</p>
@@ -296,7 +295,7 @@
 <p>O fallar-se dentro do convento a deshoras, o bulicio de homens e cavallos, por occasião da entrada e tambem da sahida da creança, alguns indicios da existencia do pequeno João junto das freiras, o bom gasalhado que as trataveis madres davam ás suas visitas, e os commentarios exageradissimos dos vadios indagadores, -- foram causas, tão indignas como infundadas, da extincção d'aquelle convento.</p>
 <p>É assim, muitas e repetidas vezes, a justiça dos homens.</p>
 <p>Ao leitor attento, escusado talvez seria declarar, que o mancebo a quem foi entregue o pequenino João, se chama, n'este conto, Sebastião da Mesquita. E a creancinha, salva da sanha de uma terrivel madrasta e da cobardia de um indigno pae, pela santa abbadessa, -- madre e mãe adoptiva -- tem aqui os nomes de João Vidal, o escudeiro.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>UM LEVITA</p>
 <quote>
 <l>«Apostolo é o pae que se afadiga       </l>
@@ -343,7 +342,7 @@
 <p>Chegada a hora da ceremonia, foram vêr o religioso e solemne apparato, os paes de Alvaro, acompanhados por Eugenia e pela creada Thereza. Quando o ordinando appareceu revestido do habito clerical, cahiu a desditosa Eugenia, com o sangue gelado, nos braços de Thereza. A boa da serva, ficou tambem semi-morta.</p>
 <p>Estavam finalmente realisados os ambiciosos sonhos dos velhos lavradores de Esporões.</p>
 <p>Alvaro, era presbytero!</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>CELIBATO</p>
 <p>«Deus me livre de discutir materia tantas vezes disputada, tantas vezes exhaurida pelos que sabem a sciencia do mundo, e pelos que sabem a sciencia do céu!»</p>
 <p>                                                "Alex. Herc." -- EURICO.</p>
@@ -392,7 +391,7 @@
 <p>-- E as leis da egreja?!...</p>
 <p>-- E as leis da natureza; a misericordia divina; os votos de seus honrados paes; a consideração, a estima, o respeito geral; as bençãos dos infelizes e a tranquillidade da consciencia, pelo que toca a todas as demais acções da sua vida?...</p>
 <p>-- Viverei, snr. Sebastião da Mesquita, e o tempo que me sobrar da penitencia dal-o-hei á sua heroica amisade!</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>RAPTOS</p>
 <p>«Que póde valer á hebrêa       </p>
 <p>Sentir n'alma chamma infinda?       </p>
@@ -432,7 +431,7 @@
 <p>A meio caminho da residencia encontrou D. Isabel Arthur Soares, que o toque dos sinos despertara, ao qual referiu o succedido.</p>
 <p>Duas horas depois das scenas narradas, quem fosse á sala do oratorio da residencia, encontraria uma senhora e um homem -- dous velhos -- ajoelhados, a orarem ao Creador. Eram o reitor e a fidalga D. Isabel.</p>
 <p>Á mesma hora, passeava Arthur Soares, como louco, no seu quarto, brandindo um punhal, aquella detestavel arma, já conhecida do leitor, que D. Maria lhe legára.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>COMBATE</p>
 <p>«O homem debatia-se ahi nas vascas da morte, e o sol passava involto na sua gloria sem corar das angustias d'aquelles, que em seu ridiculo orgulho se chamavam monarchas e conquistadores do mundo; sem lhe importar se os vermes vestidos de ferro, chamados guerreiros, se despedaçavam uns aos outros com o delirio insensato das viboras no momento dos seus amorosos ardores.»</p>
 <p>                                                ("A. Herculano" -- EURICO.)</p>
@@ -459,7 +458,7 @@
 <p>Contou Rosa a historia da sua fuga com as variantes e variadas peripecias a que forçosamente havia de sujeital-a a sua inexperiencia, narrou os succedimentos que da liteira poude presencear após os raptos, e foi no fim abraçada por todos com frenetico enthusiasmo.</p>
 <p>No rosto de Arthur Soares, ao reconhecer Rosa, havia transparecido um raio de alegria, que foi de novo sumido nas trevas da sua profunda tristeza, mal que terminára a narrativa.</p>
 <p>-- Esta, já está salva! e hade ser o primeiro mobil da salvação das outras nossas filhas, Isabel! -- Disse Sebastião da Mesquita, cheio do jubilo que em taes circumstancias podia abrigar no peito.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>AMOR</p>
 <p>AMOR é a palavra, o brado eterno       </p>
 <p>Solto por Deus ao vêr já feito o mundo,       </p>
@@ -512,7 +511,7 @@
 <p>Sahiu o escudeiro e Leopoldo ficou immovel e calado por alguns minutos. Depois, como se após intima lucta se fizesse luz no seu espirito, levantou repentinamente a fronte, encarou a donzella, d'esta vez sem acanhamento, e disse-lhe:</p>
 <p>-- Sou... serei um infame! mas um infame que a ama como V. Exc.^a nunca por outrem será amada, juro-lh'o!... Adeus, senhora D. Maria da Gloria!...</p>
 <p>Ao retirar-se o attribulado mancebo, proferiu D. Maria, como para só d'ella serem ouvidas, estas significativas palavas: -- «Ao menos foi uma hora verdadeiro fidalgo...» D'aqui a levar a sua clemencia ao ponto de perdoar ao primo os insultos que d'elle recebera, havia só a transpôr a barreira de Arthur Soares, que ella não queria nem podia vencer!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>RELIGIÃO</p>
 <p>«O mundo que nos tira até o que Deus nos deu, que nos não póde dar o que Deus nos tirou, que não tem bem que dure nem cousa que permaneça, -- que cultos merece? que estimações se lhe devem?»</p>
 <p>                                   ("Fr. A. das Chagas" -- C. ESPIRITUAES.)</p>
@@ -606,7 +605,7 @@
 <p>-- Por hoje, não quero demoral-o mais... Conto que V. S.^a não ha de recusar-se a dar-me, de futuro, quaesquer esclarecimentos...</p>
 <p>-- Sempre ás ordens de V. Exc.^a, para o que fôr do meu brio.</p>
 <p>Retirou-se Arthur Soares, e o mesmo foi que abrir-se um dique á torrente do odio represado no coração de Leopoldo. Ficou o leão rugindo no seu antro, prestes a cahir no abysmo cavado a seus pés pelo amor e pelo ciume.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>FIDALGUIA</p>
 <p>«É que ha uma fidalguia de alma que nem sempre falta ao que chegou por si á grandeza, assim como nem sempre vem aos que a herdaram de seus antepassados.»</p>
 <p>                                     ("V. d'Almeida-Garrett" -- HELENA.)</p>
@@ -662,7 +661,7 @@
 <p>João Vidal, pronunciou estas palavras com dignidade e consciencia tal, que as tres senhoras immediatamente estenderam as mãos ao ex-escudeiro.</p>
 <p>Sebastião da Mesquita levantou-se com toda a soberania, e disse:</p>
 <p>-- Está terminada a conferencia... Ácerca do que pede, eu darei parte ao "primo" João do que resolver.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>CIUME</p>
 <p>Invejo-te, Camões, o nome honroso,       </p>
 <p>Da Mente creadora o sacro lume,       </p>
@@ -734,7 +733,7 @@
 <p>Leopoldo, acompanhára aquellas expansões de gratidão com olhos ferinos. De repente, perdeu a côr, sacudiu fortemente a cabeça, e dirigia-se, com passos mal seguros, ao grupo encantador. Não podemos calcular o que teria succedido, se aquella prêsa do ciume não fosse logo interrompida nos seus passos pelo irmão que, com o album aberto, lhe disse:</p>
 <p>-- Tem bellissimas pinturas este album, mano Leopoldo... Esta, que parece ser o emblema do ciume, é realmente curiosa... Figura uma bella mulher com apparencia de inquietação, e ar de quem escuta... As suas roupas são da côr das ondas do mar: tem na mão direita um ramo de espinhos, e na esquerda um gallo... Mantém-se na attitude do desassocêgo e curiosidade, e a côr dos vestidos indica a perturbação da alma... O ramo de espinhos denota que os tormentos do ciume são acerbos e agudos, e o gallo é o symbolo da suspeita e vigilancia... É curioso, muito curioso!... O seu braço, mano Leopoldo, e vamos até á proxima saleta, onde quero fazer-lhe entrega do movel em que lhe fallou a snr.^a D. Maria da Gloria, e conversar em cousas de commum interesse...</p>
 <p>E sem dar occasião a evasivas, foi arrastando Leopoldo, que se deixou conduzir sem resistencia, já mais ou menos conscio do ridiculo de que o irmão o salvava.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>O BERÇO DA MONARCHIA</p>
 <p>«Querem alguns que seja esta villa o assento da cidade de Araduca, de que Ptolomeu faz menção; é porem incerta a conjectura, sendo certissima a sua veneranda antiguidade.»</p>
 <p>          (O PANORAMA DE 1867.)</p>
@@ -842,7 +841,7 @@
 <p>Conservam-se, é tambem certo, alguns costumes de velhas datas; mas n'estes uzos, que os modernistas condemnam, sem bem os avaliarem, ha um certo sabôr de patriotismo, que satisfaz, e deleita, aos que não trocam o que foi bom, no passado, pelo que é, muitas vezes, futil, e mau no presente.</p>
 <p>O auctor d'estas Linhas, para que o não acoimem de suspeito, declara que nasceu na cidade do Porto.</p>
 <p>Fugimos um pouco do principal fim do nosso «conto», chamando os leitores para o local da acção, em que elle vae continuar, nos seguintes capitulos; mas d'este desvio se podem esquivar os mais exigentes, passando em claro as noticias vimaranenses, que damos por concluidas.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>BABEL DE SABIOS</p>
 <quote>
 <l>«Alli se ajunta bando de casquilhos,       </l>
@@ -924,7 +923,7 @@
 <p>-- Seu amante!!... Foi, esta ultima exclamação, sahida simultanea e admirativamente da bocca de todos os circumstantes; pronunciando-a, com indiscriptivel amargura, aquelle que fôra a causa de ella ter apenas brincado nos labios da donzella.</p>
 <p>Depois de um silencio d'alguns instantes, pediu João de Lencastre, aos que alli estavam reunidos, com tão persuasiva eloquencia e vehementedor que o deixassem a sós com a donzella, que foi immediatamente por todos attendido.</p>
 <p>O que disseram, e como se encontraram n'uma casa de libertinagem estes dous heroes do nosso «Conto», a seu tempo será explicado.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>UM BAILE EM COSTUMES</p>
 <p>«David dançou diante da arca da alliança, e nos primeiros tempos da Egreja havia uma dança, que era a demonstração exterior da dependencia das creaturas, e uma expressão primitiva de reconhecimento.»</p>
 <p>«O sabio e sisudo Socrates era summamente apaixonado pelas danças, que lhe ensinára Aspasia.»</p>
@@ -1021,7 +1020,7 @@
 <p>E Sebastião da Mesquita, assim fallando, virou as costas á donzella, retirando-se vagarosamente.</p>
 <p>O baile continuou ainda por muito tempo, um pouco frio após estas scenas, e, para o fim, com a mesma animação do comêço.</p>
 <p>As dôres alheias, não tolhem as festas dos felizes.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>TORMENTOS INTIMOS</p>
 <quote>
 <l>«Correu-me a vida outr'ora delirante,       </l>
@@ -1061,7 +1060,7 @@
 <p>D. Maria da Gloria, embebida nos fagueiros sonhos de um futuro risonho, a que aspirava pelo seu amor a Arthur Soares, e entretida a desvanecer, com expansivas provas da sua amisade e bom juiso, os dissabores da sua discipula Anna, que todos eram a quasi certeza de não ser já amada por Leopoldo, nem por sombras podia prever a fatalidade de que estava ameaçada, com aquella ordem paterna.</p>
 <p>O padre Alvaro, continuava a sua vida de oração e penitencia. Pastor exemplar, possuia o acrisolado amor das suas ovelhas, porque sabia praticar, para com todos, a caridade que aprendêra de Christo. Ainda assim, soffria constantemente, e muito. Havia uma campa na sua parochial egreja, ao pé da qual elle esquecia o filho idolatrado, as suas penitencias, o seu evangelico proceder, para tão sómente se recordar de que fôra peccador.</p>
 <p>Feliz, quanto se póde ser n'este patrimonio de Eva, de todos os personagens do nosso «Conto», só era a respeitavel e bondosa matrona, D. Isabel de Abendanho, que tinha fechada a sua existencia em aldeia pacifica, e resumidas as suas ambições na direcção do seu casal, no respeito e amisade ao esposo, e no elevado amor a sua filha.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>A MULHER CAHIDA</p>
 <p>«A justiça de Deus lhe infundira no coração abundancia de remorsos, e a dos homens lhe entornava sobre a fronte amplo vaso farto de ignominia.»</p>
 <p>                                ("A. H." -- Fragmento de um livro inedito.)</p>
@@ -1095,7 +1094,7 @@
 <p>-- O snr. João de Lencastre!!... Oh, leve-me d'aqui!... Salve- me!... A mais forte das mulheres, cercada d'estas infamias, é impotente e fraca!... Agora o conheço!... Mas... como appareceu tanto a proposito?!...</p>
 <p>-- Habito aquella casa, alli defronte, e estava sempre de vigia, e preparado com uma taboa forte e larga, para lançar da minha janella á varanda d'esta casa, quando, como agora succedeu, lhe fosse necessaria a protecção de... seu irmão, senhora...</p>
 <p>-- Que nobre alma a sua, João!... Vamos... deixemos este inferno, e em sua casa combinaremos o que deva fazer-se...</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>O PERIGO DAS CARTAS</p>
 <quote>
 <l>«......e bem se manifesta,       </l>
@@ -1118,7 +1117,7 @@
 <p>Empenhado o tiroteio entre as pequenas forças inimigas, cahiu ferido Arthur Soares, que ficára por morto no campo. Um soldado, d'aquelles a que os proprios camaradas dão o epitheto infamante de "pulhas", despojou logo o official inimigo de todos os objectos de algum valor, que elle tinha em si: entre os demais despojos, ficou tambem possuidor da carta de D. Anna, que teve a curiosidade de lêr; e como visse lá o nome de Leopoldo, e soubesse que assim se chamava o seu commandante, com a mira em qualquer recompensa, quando por ventura com elle se entendesse aquella carta, foi immediatamente entregal-a a Leopoldo, dizendo-lhe que a encontrára perdida no logar da refrega...</p>
 <p>Aquella bala de papel, fôra mais fatal ao marido de D. Anna, do que a de chumbo ao amante de D. Maria da Gloria...</p>
 <p>Leopoldo retirou precipitadamente com a força do seu commando; e o corpo de Arthur Soares foi recolhido pelos seus camaradas, que lamentavam com desespêro a sorte do bondoso e bravo official.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>O CRIME</p>
 <p>«O espirito não lhe dava coisa que vislumbrasse senso-commum. A carta era o seu maximo supplicio.»</p>
 <p>                          ("Camillo Castello Branco". MYSTERIOS DE FAFE.)</p>
@@ -1149,7 +1148,7 @@
 <p>REMORSO</p>
 <p>«Para que venha sobre vós todo o sangue dos justos, que se tem  derramado sobre a terra...</p>
 <p>                        (S. Lucas, XI; vida de N. S. Jesu-Christo).</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>GRATIDÃO</p>
 <quote>
 <l>Tira-me já do p'rigo, amigo honrado,       </l>
@@ -1187,7 +1186,7 @@
 <p>Em seguida tirou o punhal do peito do cadaver, metteu-o no seio sem o limpar, guardou a carta fatal, e, agarrando nas mãos de sua mãe, sairam ambas repentinamente.</p>
 <p>Tiveram apenas tempo de transpôr os umbraes da porta d'aquelle recinto, quando um grito unisono, dos dous romeiros, as teria feito retroceder, se o estado em que fugiam lhes podésse deixar ouvil-o.</p>
 <p>Aquelle grito fôra occasionado por ter parecido aos romeiros, que o cadaver abrira os olhos: -- Ao tentarem verificar a sua illusão, estavam já acompanhados do padre Alvaro e do medico.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>MYSTERIO</p>
 <p>«Os conegos da sé de Evora, conduziram, sem pompa, á igreja de S. Domingos, entoando as orações dos finados, o cadaver truncado do duque de Bragança.»</p>
 <p>                                             (CHRONICA DO SECULO XV.)</p>
@@ -1215,7 +1214,7 @@
 <p>-- Mas, minha filha, o snr. padre Alvaro diz bem... Tu não deves querer o que Deus não quer...</p>
 <p>-- Perdão, minha santa mãe.....Se não deseja vêr sua filha morta pela dôr, e pela saudade, deixe-a dar largas á sua gratidão...</p>
 <p>Tres dias depois de ter logar o enterro, chegava áquelle formoso e triste domicilio, o velho fidalgo Sebastião da Mesquita, já sabedor pela voz publica, que se antecipára á parte dada pela familia, da morte de D. Anna e da loucura de Leopoldo.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>BRIOS DE RAÇA</p>
 <quote>
 <l>«Se de imitar meu nome te gloreias,                 </l>
@@ -1280,7 +1279,7 @@
 <p>-- São de boa casta os Lencastres, minha filha; mas...</p>
 <p>-- Muito bem, meu pae e senhor!... Com quanto eu receba a cruz da minha herança, a escolha agora é minha... Findo o lucto pela morte de minha irmã Anna, serei esposa do snr. Leopoldo de Lencastre!...</p>
 <p>Ficaram de tal sorte aturdidos os restantes personagens, com este inesperado desenlace, que nem uma palavra se ouviu mais, retirando-se a donzella cheia de magestade.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>VISÃO</p>
 <p>«Um presentimento de terror, d'aquelles que batem no coração de repente, sem saber por quê nem d'onde vêem...</p>
 <p>«Tem sempre fé em Deus, que hade querer o que fôr melhor para nós.</p>
@@ -1298,7 +1297,7 @@
 <p>Ao abrir os olhos, viu Sebastião da Mesquita junto da cabeceira a sollicita e carinhosa esposa. Diligenciou recordar-se, e communicou o acontecido a D. Isabel, em voz fraca, e cada vez mais duvidoso, se um sonho fôra, ou se tudo se passára na realidade. A bondosa senhora, aproveitou aquellas disposições do marido, para advogar a causa da filha. Pintou Arthur Soares com as mais bellas côres; revelou o que elle praticára em beneficio de D. Anna, porque entendeu que o juramento de guardar segredo, dado por D. Maria, a não obrigava a ella; descreveu com enthusiasmo o casto amor da donzella, e o que ella soffreria tendo de o sacrificar ao dever de esposa de um homem aborrecido; foi, finalmente, sublime de eloquencia maternal.</p>
 <p>No fim das suas expansões, olhou D. Isabel para o marido, a vêr se lhe lia nos olhos o assentimento, que os labios não tinham proferido. Não conseguiu o seu intento, porque os olhos de Sebastião da Mesquita estavam completamente fechados... O remorso fôra um poderoso auxiliar da enfermidade...</p>
 <p>Áquella hora, já o velho fidalgo sabia se lá nas alturas Deus permitte a distincção de "humanas raças"...</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>TRES SOLDADOS POR AMOR</p>
 <quote>
 <l>«Tomai pensar mais solido e sizudo:       </l>
@@ -1337,7 +1336,7 @@
 <p>Rosa, que o não prevenira da sua resolução, seguira-o pouco depois.</p>
 <p>Quarenta e oito horas eram apenas passadas, quando, no Porto, a companhia de que era capitão Arthur Soares, contava mais dous voluntarios, que eram o tenente João de Lencastre, e um elegante sargento, que dizia chamar-se Paulo Virginio.</p>
 <p>Arthur Soares, estava já completamente restabelecido.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>DENODO FEMININO</p>
 <p>«Descavalgando, os dous guerreiros tomaram nos braços a irmã de Pelagio, e foram reclinál-a sobre um monticulo cuberto de relva e musgos.....</p>
 <p>«O unico signal que n'ella revelava vida era o tremor convulso que violentamente a agitava.»</p>
@@ -1354,7 +1353,7 @@
 <p>Dias depois, tivera logar a batalha de Setubal, que matou cerca de 600 homens de ambos os lados, em quatro horas que durou o fogo, e a que poz termo um armisticio, por uma especie de intervenção do coronel Wilde, que se achava n'aquellas paragens, a bordo do navio de S. M. Britanica "Polyphemus".</p>
 <p>N'esta batalha, achou-se o regimento de Arthur Soares fazendo parte da força que atacara a direita do inimigo, e que foi tomada de improviso pela cavallaria, que a fez debandar desordenadamente. O major Arthur Soares, o tenente João de Lencastre, e o sargento Paulo Virginio, fizeram desesperados esforços por conter os soldados, e tiveram de sustentar uma lucta desigual com a cavallaria inimiga. Na occasião em que o peito de João de Lencastre ia ser varado por uma bala sahida da pistola que lhe apontava um soldado, collocou-se de permeio o sargento Paulo Virginio, que recebeu o ferimento destinado ao seu superior. N'esta altura, ouvia-se por todo o campo da batalha o toque de retirada, e foi a elle que os dous officiaes deveram a conservação de suas vidas, e o poderem soccorrer o ferido, que tão denodadamente havia salvado um d'elles.</p>
 <p>Imagine-se qual seria o espanto dos nossos heroes, ao reconhecerem, sob as vestes militares do sargento moribundo, o corpo mimoso da donzella Rosa!...</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>OS ESPINHOS DA FLOR</p>
 <quote>
 <l>«Peço ao meu anjo da guarda,       </l>
@@ -1430,7 +1429,7 @@
 <p>-- Nunca se deve descrêr da misericordia divina, snr. Leopoldo!... Se na sua alma entrou o remorso e o arrependimento do mal que tem causado, posso dar-lhe uma esperança de que será perdoado por Deus... O seu crime, não teve o resultado fatal, que o fizera enlouquecer... Sua esposa escapou do ferimento que o senhor lhe fez, e vive ainda para lhe perdoar, e amal-o como sempre o amou... Eu, seu irmão e a senhora D. Rosa occultos em trajes de romeiros, e o honrado medico d'esta localidade, que logo asseverou não ser mortal o ferimento, combinamos deixal-a passar por morta, na caridosa intenção de pouparmos toda a familia aos escandalos de um processo crime; fizemos convencer a todos de que v. exc.^a enlouquecera com o desgosto; simulamos o enterro de um cadaver, e conduzimos secretamente a snr.^a D. Anna á habitação do medico, onde se conservou até se achar completamente curada, passando depois para a residencia d'este humilde servo do senhor...</p>
 <p>Leopoldo, forcejou por levantar-se e ir ter com o vulto de mulher, que elle adivinhara ser a sua, mas não pôde conseguil-o, porque a violencia d'estas scenas o fizera cahir sem sentidos nos braços do bondoso padre.</p>
 <p>As duas irmãs, ternamente abraçadas, confundiam as lagrimas e os soluços.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>A CONVENÇÃO DE GRAMIDO</p>
 <p>«O partido popular fica livre da deshonra. Cedemos desde que nos era impossivel combater; cedemos á força de tres poderosas nações. Perdemos tudo, mas salvamos a honra.»</p>
 <p>                                          (O n.º 63 do "Espectro")<ref target="#note16"/>.</p>
@@ -1462,7 +1461,7 @@
 <p>«Venha quanto antes abraçar a sua esposa. As barreiras que se oppunham á nossa ventura, quiz Deus sumil-as pela sua infinita bondade!</p>
 <p>                                                                "Maria".»</p>
 <p>Avalie o contentamento de Arthur, aquelle dos nossos leitores, que tiver sinceramente amado.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>BRIOS DE PLEBEU</p>
 <quote>
 <l>«Uns homens ha, que, na paixão ardente,                             </l>
@@ -1490,7 +1489,7 @@
 <p>-- Nem sou "anjo", nem sou ainda "sua", seu mau... Isso hade acontecer, quando se realisar um sonho que eu tive uma d'estas noites......O snr. Arthur Soares, figurava no meu sonho como um grande personagem, cercado de attenções e de respeitos, podendo dispensar protecção, e não tendo já que receiar dos maus juizos que o mundo fórma quando vê ligações entre duas pessoas que não pesam do mesmo modo na balança das conveniencias... Eu era sempre a mesma rapariga aldeã, que "V. Exc.^a se dignava elevar" até á sua altura, e que caminhava para a capella tão contente por o meu esposo ser um "potentado", como o estaria se elle fosse um simples "operario"...</p>
 <p>-- Basta, minha adorada Maria!... Fixa tu a epocha do nosso casamento...</p>
 <p>-- Está fixada, já lhe disse... Esperemos a realisação do meu sonho, que me diz o coração, que não havemos de envelhecer esperando... Quero que fiquem bem satisfeitos todos os seus caprichinhos... E agora, nem mais uma palavra, que te faz mal fallar...</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>VIAGEM DA RAINHA</p>
 <p>«Foi então que se apossou da corôa.»</p>
 <p>                  (A. HERCULANO -- EURICO.)</p>

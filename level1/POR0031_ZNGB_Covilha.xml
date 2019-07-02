@@ -18,7 +18,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">51406</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>19 de novembro de 2018</date>. </p>
@@ -64,7 +63,7 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>Pero da Covilhan</head>
+<div type="titlepage"><head>Pero da Covilhan</head>
 <p>Episódio Romântico do Século XV</p>
 </div>
 <div type="liminal">
@@ -81,7 +80,7 @@
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>"DESPEDIDA"</p>
 <p>O leitor já visitou Sevilha? Pois se nunca a enxergou sequér, affirmam por lá os nossos visinhos, que "não vio maravilha".</p>
 <p>Os attractivos da vida sevilhana seduzem-nos tanto, que nos offerecem crêr no velho proverbio andaluz, e compensam certamente a princeza do Guadalquivir do muito que lhe falta em monumentos para ser admirada, e em melhoramentos materiaes para rivalisar vantajosamente com as cidades modernas.</p>
@@ -185,7 +184,7 @@
 <l><foreign xml:lang="es">no vos puedo aver no.</foreign> <ref target="#note2"/> </l>
 </quote>
 
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>"CONSPIRAÇÃO"</p>
 <p>Se o leitor tem folheado a historia de Henrique IV, de Castella, póde poupar-se á leitura d'este enfadonho capitulo, no qual vamos condensa-la, para melhor intelligencia do que mais ao deante se dirá.</p>
 <p>Esteve Henrique IV casado sete annos com D. Joanna, irmã do rei de Portugal D. Affonso V, sem ter successão; até que, em 1462, a rainha deu á luz uma menina. Foi baptisada esta com muita pompa, e geraes demonstrações de regosijo, pelo arcebispo de Toledo, D. Affonso Carrillo, sendo madrinha a infanta D. Isabel, irmã do rei, e padrinho, por procuração, Luiz XI de França. Pouco depois, reunidas côrtes em Madrid, n'estas foi jurada herdeira do throno a recem-nascida, a que se havia dado o nome de Joanna, e ninguem protestou contra o juramento.</p>
@@ -277,7 +276,7 @@
 <l>"Fôra por certo invicto cavalleiro,"     </l>
 <l>"Se não quizera ir ver a terra Iberica."</l>
 </quote>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>"NOVO ESCUDEIRO"</p>
 <p>Após o passamento de Henrique IV, todas as esperanças dos partidarios de D. Joanna firmavam-se no heróe de Arzilla; e as de D. Isabel no apoio de Aragão principalmente. Estava préstes a travar-se a lucta, em que devia afinal decidir-se da sorte das duas contendoras, collocadas em circumstancias mui diversas.</p>
 <p>Isabel, ainda em vida de seu irmão, soube preparar-se a tempo; Joanna era uma creança inexperiente, filha de uma senhora sem prestigio, e sem a necessaria energia para collocar-se á frente do movimento, que se operava a favor da justa causa da princeza de Castella.</p>
@@ -347,7 +346,7 @@
 <p>«Sendo antes destas tres escreturas atras contheudas trautado casamento delRei Dom Affonso o quinto, padre delRei nosso Senhor e sobre elle com a Rainha Dona Isabel, que na era presente reinava, foi com embaixada a Castella o Arcebispo de Lisboa Dom Jorge grandemente, que hoje he Cardeal de titolo de Sam Pedro Marceleni, e está em corte de Roma privado e amado do Papa Innocencio, que foi Cardeal malfetano, e asi outros embaixadores, e vindos outros de Castella ao dito Rei sobre o mesmo caso, esta senhora Rainha Dona Isabel se casou com elRei de Cecilia e Principe d'Araguam, filho delRei Dom João d'Araguam, que primeiro foi Rei de Navarra, o qual casamento fez por mão do Arcebispo de Tolledo dom Affonso Carillo, e do Almirante avoo do dito Rei da parte de sua mãi, e fique em memoria que o fez porque o dito Senhor Rei Dom Affonso "a não quiz, querendo ella muito", e depois elle a quisera e ella como as molheres naturalmente sam vingativas o não quiz quando elle quisera, e folgou de lhe dar competidor e de o anojar, como na verdade foi, "ca desta mesma causa naceo sua entrada em Castella com o titolo de sua sobrinha", filha delRei Dom Amrique per dar trabalho á Rainha Dona Isabel, e se vingar della, e como as cousas de sua entrada sobcederão fique do Coronista ao carguo.»</p>
 <p>Com effeito Henrique IV, annos antes do seu passamento, offerecera, como vimos, a mão de D. Isabel a D. Affonso V; e desejou igualmente, que o principe D. João casasse com a princeza de Castella, D. Joanna. D. Affonso dilatou a sua resolução, e sómente quando muito instado por seu cunhado, pelo principe seu filho, e pelas diligencias do marquez de Vilhena, mandou uma embaixada pedir a infanta. Os embaixadores esperavam pela resposta na aldeia de Cientpozuelos, e afinal foram despedidos, dizendo-se-lhes, que se trataria por meios brandos de reduzir a infanta a obedecer a seu irmão. O arcebispo de Toledo cuidou immediatamente de dissuadir D. Isabel d'este enlace, pondo em relêvo a dilação descortêz de D. Affonso, aconselhou-a, a que preferisse Fernando de Aragão, e entendeu, que, para frustrar as idéas dos adversarios, devia fazer secretamente os preparativos, precipitar os tramites do negocio, e de um modo ou outro verificar o matrimonio, para que, realizado e consumado, não désse lugar ao "arrependimento da princeza". E maior préssa se deu ainda, quando soube, que de Roma havia sido enviada a Bulla de Paulo II, com data de 23 de junho de 1469, concedendo a dispensa a D. Affonso e D. Isabel. Fabricou então um breve apostolico, datado de 28 de maio de 1464 e com assignatura falsa de Pio II, pois se oppunha á execução do desposorio com Fernando o impedimento da consanguinidade dos nubentes, e não havia outro meio de velar o sigillo e realizar o negocio com promptidão.</p>
 <p>O atribiliario prelado toledano comprazia-se em forjar caballas e commetter torpezas.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>"JORNADA INFELIZ"</p>
 <p>Resolveu D. Affonso V entrar em Castella pela villa de Arronches, onde mandou reunir o exercito. Antes da marcha, e conforme prescrevia o "Regimento de Guerra", não só o rei, mas todos os fidalgos, que tinham de acompanha-lo, receberam a Sagrada Eucharistia, indo depois toda a hoste assistir a uma missa solemne, e sendo pelo celebrante benzida a bandeira real mettida na funda.</p>
 <p>Terminados estes actos, ao alvorecer de um formoso dia de maio de 1475, D. Affonso V</p>
@@ -495,7 +494,7 @@
 <p>Desanimou um pouco, emfim, aquelle que nos sertões da Africa nunca temera a morte.</p>
 <p>Uma vez unicamente havia desembainhado a sua espada na peninsula, para ser instrumento de uma tragedia ominosa. Era chegado o momento da expiação. Appareceu-lhe talvez a sombra do infante D. Pedro, a jurar vingança eterna do sangue derramado em Alfarrobeira.</p>
 <p>Justiça da Providencia!</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>"ADVENTO DA UNIDADE HESPANHOLA"</p>
 <p>Estava D. Affonso V com desalento igual á falta de confiança, que tinha nos meios, de que dispunha, para accelerar o suspirado exito da sua temeraria empreza, quando chegaram a Toro D. Alvaro de Ataide e o Licenciado João d'Elvas, que vinham communicar-lhe o resultado da sua missão junto de Luiz XI. Era grande o contentamento dos embaixadores, por terem a convicção, de que não fôra illudida por vãs promessas a sua boa fé ao tratarem com o rei da França. Não lhes occorria, que os principes não contráem, nem conservam amisades com sacrificio de seus interesses; e talvez ignorassem, que Luiz XI tinha por maxima: "quem não sabe dissimular, não sabe reinar"; e que, por elle ser assás astucioso e perfido, lhe chamavam "a raposa".</p>
 <p>Lograram effectivamente celebrar, aos 8 de setembro de 1475, o tratado de liga offensiva, no qual a França se comprometteu a coadjuvar Portugal na conquista dos reinos de Castella e Leão; e obtiveram a confirmação e renovação dos antigos tratados de paz e amisade entre estes dois ultimos reinos e o da França, por Luiz XI de uma parte, e da outra por D. Affonso V, rei de Castella.</p>
@@ -566,7 +565,7 @@
 <p>O que mórmente achanou o caminho do throno a Isabel, foram as leviandades e torpezas de um rei inepto e devasso; mas nada póde lavar a macula de rebelde, com que ella conspurcou o seu nome para sempre.</p>
 <p>Foi uma ruim causa que produziu bom effeito. O consorcio de Fernando de Aragão com Isabel preparou o successo transcendente da unidade hespanhola, realisada mais tarde por Carlos V, e os reis catholicos elevaram a Hespanha ao mais alto grau de prosperidade.</p>
 <p>Acabaram-se as turbulencias dos magnates, e restabeleceu-se emfim o poder da realeza.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>"PESQUIZAS"</p>
 <p>Por morte de D. Affonso V todos os creádos da sua casa tomou D. João II para si com muito amor e agasalho, conforme testemunha Garcia de Rezende. Pero da Covilhan pertencia áquelle pessoal, e, como pelos serviços prestados em Castella e França havia conquistado a estima do novo monarcha, para logo ascendeu esta á quasi intimidade de valido.</p>
 <p>Convem notar, que D. João II ao seu serviço preferia ter cavalleiros particulares a grandes e senhores; ou fosse por manifesta má vontade contra estes, ou porque, fazendo creaturas suas os que possuissem iguaes qualidades e menos poder, esperava que o servissem com maior fidelidade e menos ambição, por carecerem mais do seu rei, e serem mais faceis de contentar. Sobretudo tinha na melhor conta os seus companheiros de armas em Toro, aos quaes louvava por vezes a dedicação e valor, cujo testemunho lhe deram, e por isso a todos elevou e distinguiu sempre, entrando a maxima parte d'elles em o numero dos quatro mil "vassallos d'el-rei", que creou, como lhe requereram as côrtes reunidas em Evora a 12 de setembro de 1481.</p>
@@ -647,7 +646,7 @@
 <p>No dia seguinte, que era o setimo de maio de 1487, D. João II, tendo a seu lado D. Manoel duque de Beja, entregou a Pero da Covilhan, que se apresentou já com Affonso de Paiva, uma carta de marear, feita em casa de Pedro d'Alcaçova, pelo licenciado D. Diogo Ortiz, o "Calçadilha", depois bispo, e pelos physicos hebreos, mestre Rodrigo e mestre Moysés, os quaes tomavam com o primeiro parte na "junta dos cosmographos". N'essa carta devia Pero da Covilhan, marcar os lugares do senhorio do Preste, bem como todos os mais, por onde passasse.</p>
 <p>Para os primeiros gastos da viagem mandou-lhe D. João II dar da arca das despesas da horta de Almeirim quatrocentos cruzados, parte dos quaes Pero da Covilhan depositou na casa bancaria de Bartholomeu Florentino, a fim de receber em Hespanha o que lhe conviesse, levando além d'isso uma carta de credito, dirigida pelo monarcha á opulenta casa Medicis, para que nada lhe faltasse nos paizes, que tivesse de percorrer. Foi emfim portador de cartas em arabico para o Préste, nas quaes D. João II significava a este o grande desejo de o conhecer, e travar com elle relações de amisade, dando-lhe ao mesmo tempo conta de tudo o que pela costa da Guiné havia descoberto para saber, se alguma d'aquellas terras era perto de seu reino e senhorios, a fim de por ellas se poderem communicar e prestar, bem como fazer, com que a Fé Christã fosse exalçada.</p>
 <p>E no mesmo dia partiram os dois exploradores em direcção a Barcelona.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>"EM RHODES"</p>
 <p>Apenas Pero da Covilhan e Affonso de Paiva chegaram a Barcelona, passaram a Napoles pelo Mediterraneo. Alli desembarcaram, e dirigindo-se logo á casa commercial de Cósme de Medicis, pelos filhos d'este lhes foi dado seu caminho, em vista da carta de credito, que levavam, como fica dito.</p>
 <p>Na formosa e vasta bahia de Napoles estava a largar para a ilha de Rhodes uma náu, a bordo da qual facil foi receber os nossos viajantes. Proseguiram n'ella, pois.</p>
@@ -688,7 +687,7 @@
 <p>-- Nem al se deve esperar de vós, como brioso cavalleiro que sois.</p>
 <p>O resultado, que Pero da Covilhan logrou d'esta pratica, foi tornar-se-lhe cada vez mais problematica a residencia, senão a existencia, do Préste João das Indias. Não soffreu com isso a menor contrariedade o seu animo imperturbavel; serviu antes de maior estimulo á sua diligencia.</p>
 <p>De Rhodes, onde se forneceram de mel, com que se dispozeram a negociar, atravessaram os dois viajantes para Alexandria, disfarçados em mercadores.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>"BOAS NOVAS"</p>
 <p>Era portuguez o navio, que conduziu Pero da Covilhan e o seu companheiro ao porto de Alexandria. As ondas do Mediterraneo mal marulhavam em torno do costado da embarcação, imprimindo-lhe uma arfagem indolente, e fazendo parecer, que o mar se transformára em um grande lago azul e tranquillo. Ao cabo de uma feliz derrota o navio deu fundo em frente da velha cidade egypcia, uma das mais bellas e graciosas cidades do mundo antigo, e laço de união da Europa com o Oriente.</p>
 <p>Estava no periodo da sua maior decadencia a patria de Euclides. A sua bibliotheca celebre, que fôra a maior do mundo, e quasi todos os seus monumentos, que davam brilhante e seguro testemunho da sua antiguidade gloriosa, haviam sido arrasados pelos arabes, no VII seculo.</p>
@@ -769,7 +768,7 @@
 <p>Continuava, pois, Pero da Covilhan a ser o confidente de si proprio; e a esperança, que mais lhe sorria agora, de ver seus sonhos de gloria realisados, era o melhor lenitivo da sua saudade.</p>
 <p>-- Que prazer não sentirá Thereza, quando souber, que mandei dizer a el-rei qual é o caminho da India pelo mar!... -- repetiam os echos da sua alma radiante e apaixonada.</p>
 <p>E o infatigavel explorador lá foi de novo atravessar as aguas do mar d'Oman.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>"CONSTANCIA"</p>
 <p>Nunca na côrte portugueza se prestou mais livre, menos recatado culto ao espirito, á elegancia, e á formosura da mulher, do que durante os primeiros nove annos do curto reinado de D. João II. Os serões do paço eram exhibição permanente de requebros, de arrufos, de ironias, de motejos deliciosos.</p>
 <p>Depois que Pero da Covilhan saíu de Portugal, Maria Thereza tinha uma repugnancia invencivel em assistir a esses passatempos, e, quando apparecia, era unicamente por obediencia.</p>
@@ -877,7 +876,7 @@
 <p>Como se explica a presença de D. Manoel no acto da despedida de Pero da Covilhan, em Santarem?</p>
 <p>Por que razão havia de D. João II confiar a seu cunhado, que nenhum interesse directo podia ter nos descobrimentos, aquelle alto segredo do Estado?</p>
 <p>Mais ainda. Um astrologo hebraico prognosticou a D. Manoel, que seria o successor de D. João II na corôa. Quem poderia dar credito ao visionario, quando na familia real existia um herdeiro necessario, e ainda outros com mais direito do que D. Manoel? E com que reservado intento concedeu D. João II a D. Manoel uma esphera por empreza, cuja "alma" era: "Spera in Deo"? Não parece ser um presentimento muito singular?...</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>"TENTANDO AS AZAS..."</p>
 <p>Recebeu D. João II as cartas, que lhe escrevera Pero da Covilhan. Occultava-se na singella narrativa do explorador um enthusiasmo, que sómente podia ser egualado ao jubilo immenso por ella produzido na alma anciosa do monarcha.</p>
 <p>Ao terminar a leitura, exclamou D. João II a meia voz:</p>
@@ -964,7 +963,7 @@
 <p>-- Nunca soffri dôr igual, á que me está causando a idéa, de deixar por algum tempo a companhia de voss'alteza!...</p>
 <p>-- Pobre creança!... -- interrompeu a rainha, dando-lhe um beijo na testa. Mandou-a depois levantar, e concluiu, passando-lhe a mão carinhosamente pela cara:</p>
 <p>-- Váe! Espéro, que tires muito proveito dos teus estudos. Quando voltáres, não encontrarás preenchido o lugar, que deixas vasio junto de mim...</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>"PEREGRINAÇÃO"</p>
 <p>Do golfo persico voltou Pero da Covilhan ao mar Vermelho, e foi desembarcar em Djiddah. Genuino mercador mouro no aspecto, mas sincera e profundamente catholico do coração, d'aquella cidade do Hedjaz dirigiu-se a Mecca, incorporando-se em uma numerosa caravana de peregrinos, e, affectando o recolhimento de um crente da religião de Mafoma, sem mostrar, todavia, como os musulmanos seus companheiros, o semblante macerado e consumido pelo ardor fanatico.</p>
 <p>Tentar uma visita a Mecca, sendo-se christão, em todos os tempos se considerou infructuoso, ou ao menos de um exito muito problematico; realisa-la, porém, mórmente no seculo XV, embóra se tivesse envergado o "ihram" do peregrino, era um acto de assignalada temeridade.</p>
@@ -1044,7 +1043,7 @@
 <p>Ao norte saía-se para um pomar de palmeiras, plantado por Fatima, filha do propheta, e pérto amontoavam-se as escorralhas de lava saídas da cratéra de Ohod, a montanha famosa, que deve, segundo a crença dos musulmanos, ser transportada um dia para o paraizo, como theatro, que foi, da victoria alcançada por Mahomet sobre os seus inimigos. A léste e a oeste elevavam-se tambem alguns picos, um dos quaes era o de Aïra, onde o propheta esteve préstes a morrer de sêde, e que será precipitado no inferno, conforme a crença. Ao sul prolongava-se a planicie a perder de vista. Raros pomares e renques de palmeiras juntos de póços, cujas aguas fossem sufficientes para as regar, moderavam de longe em longe a monotonia d'essa extensão pardacenta, onde as argilas alternavam com as areias e a greda.</p>
 <p>Terminada a romaria, Pero da Covilhan retirou para Yambo, d'onde, embarcando em um zambuco, passou a Tor. Estava pérto do Sinai, que percorreu, e, voltando a Tor, d'aqui se dirigiu a Zeila.</p>
 <p>Chegou emfim ás portas da Abyssinia.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>"NA ABYSSINIA"</p>
 <p>Ao cabo de tres annos de trabalhosas e arrojadas viagens, entrava finalmente Pero da Covilhan nos encantados dominios do legendario Préste João. Parece, que Deus lhe inspirára acinte aquella digressão, pelas regiões desertas da Arabia, para retemperar-lhe o animo, e tornar-lhe mais attrahente a paizagem deslumbrante do novo paiz que demandava. Ao passo, que foi o primeiro a mostrar, em uma carta maritima, a derrota, que as nossas caravelas deviam seguir para a India, ia agora tambem levantar o véo, que trazia occulta aos olhos da Europa a historia da Abyssinia.</p>
 <p>Em mil narrativas exaggeradas e phantasticas, acolhidas pela curiosidade credula, havia sómente um fundo de verdade: a existencia de um povo christão no seio da Africa, defendendo gloriosamente a sua independencia contra o islamismo.</p>
@@ -1153,7 +1152,7 @@
 <p>Foi a primeira vez, que elle se viu chorar!...</p>
 <p>-- E porque chorava?!...</p>
 <p>Pobre coração humano!...</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>"REMATE"</p>
 <p>O casamento de Maria Thereza com Pero da Covilhan não repugnava a D. Leonor de Lencastre, a qual tinha até o presentimento, de que não viria a realizar-se. Além d'isso Maria Thereza, sempre muito briosa, havia de timbrar em progredir no estudo das sciencias, que cursaria na Universidade, e, comquanto a vehemencia do seu desejo de saber não apagasse a chamma do amor, que lhe incendiava o coração, amortece-la-ia ao menos. Depois a ausencia com arrefecer, e o tempo com gastar, eram no conceito da rainha remedios capazes, de debellar a enfermidade d'esse amor.</p>
 <p>Talvez fosse uma illusão similhante pensamento, porque o maior incentivo do amor de Maria Thereza era a gloria de Pero da Covilhan, e esta não tardaria a engrinardar-lhe o nome. Assim o esperava Maria Thereza, e tinha para isso fundamento.</p>

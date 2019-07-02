@@ -14,7 +14,6 @@
 </titleStmt>
 <extent>
 <measure unit="words">36622</measure>
-<measure unit="pages"></measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>26 de março de 2019</date>. </p>
@@ -66,11 +65,11 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlePage"><head>O soldado de Aljubarrota</head>
+<div type="titlepage"><head>O soldado de Aljubarrota</head>
 </div>
 </front>
 <body>
-<div>
+<div type="chapter">
 <head>I</head>
 <quote>
 <l>E porque mais aqui se amanse e dome</l>
@@ -92,7 +91,7 @@
 <p>O throno de D. João I estava seguro. Segundo o uso d'aquelle tempo, o rei demorou-se tres dias sobre o campo da batalha, onde ajuntou uma rico despojo. As arvores da floresta visinha carregadas em estes trophéns annunciavam que a dynastia d‘Aviz reinaria sem obstaculo em Portugal.</p>
 <p>Mas se os esforços dos inimigos ficaram sem successo, a historia registou os feitos de bravura e de resignação praticados pelos castelhanos n‘aquella campanha, na qual, infelizmente, se lhes haviam juntado muitos portuguezes; uns despeitados contra o Mestre d‘Aviz, por haverem seguido a causa do conde Andeiro: outros, sequazes incognitos de D. João, o filho primogenito de D. lgnez de Castro, o assassino da bella Maria Telles, que do fundo de uma masmorra, onde o lançara o rei de Castella. tambem elevava as suas pretenções ao throno de Portugal. No numero dos portugueses que deviam acabar batalhando contra a patria tinha de contar-se o irmão do mais bravo e leal cavalleiro de exercito portuguez, e nobre e santo Condestavel D. Nuno Alvares Pereira. D'entre os castelhanos que sobreviveram á victoria, e que, extenuadus de fome e de fadiga, se derramaram pelos arredores de Aljubarrota, sete ficaram esmagados, victimas de uma mulher, que armada com uma pa, e possuida do sentimento geral do povo portuguez, mostrou ao mundo a que ponto chegava n'esta nação o odio ao dominio estrangeiro, e sua affeirão para com aquelle que ella tinha escolhido para defensor de seus direitos.</p>
 <p>A historia conservou-nos o nome d'esta heroina, de quem fallaremos no capitulo seguinte.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <quote>
 <l>Contos vontade de idades a idades</l>
 <l>Uma força d'encantos que a tantos obriga.</l>
@@ -121,7 +120,7 @@
 <p>E o bom do monge descêra a pequena escada da casa de Brites de Almeida, e contemplativo e melancólico se encaminhára ao seu convento.</p>
 <p>A pobre donzella havia-se despedido do seu protector, e pozera em execução as suas recommendações. Quando a tia Brites entrou em casa alardeando seus altos feitos, Margarida resava as suas ultimas orações pelos que haviam acabado no campo da batalha. Sobresaltada pelas primeiras palavras de sua tia, a sua commoção foi crescendo á medida que esta ultima lhe narrava a sua heroicidade. «Quem sabe se aquelle castelhano, aquelle mancebo que expunha a sua vida para valer a um ferido, seria uma das victimas immoladas pelas mãos da tia Brites?» Esta idéa aterrou Margarida a ponto de lhe cortar a falla. Não respondêra nunca a pobre donzella ás perguntas exigentes de sua tia; e quando esta, contrariada pelo seu silencio, lhe voltou as costas, pegando em uma lanterna, que achara á mão para de novo voltar ao theatro</p>
 <p>de suas façanhas, Margarida, que já não tinha com quem constranger-se, soltou um grito, e caiu desmaiada.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <quote>
 <l>Dizei-lhe que tambem dos portuguezes</l>
 <l>Alguns traidores houve algumas vezes.</l>
@@ -129,7 +128,7 @@
 <p>CAMÕES -- Lusiadas.</p>
 <p>O valente capitão que expirava á sêde e exausto pelas feridas recebidas no combate, era o proprio irmão do companheiro de armas, do amigo de D. João I. Uma louca ambição o tinha levado para fóra da sua patria a combater contra ella. Depois de mil esforços que tentara para seduzir seu irmão D. Nuno Alvares Pereira. Diogo Alvares o havia sempre achado leal ao Mestre de Aviz. Não esperando d'ali nenhum auxilio para o rei de Castella, Diogo Alvares havia lançado mão do ultimo recurso. Animando com a voz e com o exemplo os seus companheiros de armas nas planicies de Aljubarrota, não podendo sustentar por mais tempo o combate, crivado de feridas e prestes a desfallecer, fôra levado para longe da acção por um joven pagem que combatêra a seu lado, e que mais de uma vez recebêra em seu peito os golpes dirigidos contra o degenerado portuguez. Este pagem, tambem portuguez, não tinha conhecido pae; na idade de um anno tinha sido levado para Hespanha; e por um acaso fôra encontrado por Diogo Alvares, que o tratou desde logo, se não como filho, ao menos como pessoa que de perto lhe tocava.</p>
 <p>O joven Alvaro respeitava aquelle que lhe servia de pae, avisava-o e daria mil vidas para salvar a do seu protector, a quem obedecia cegamente. Costumado a aceitar quanto lhe dizia Diogo Alvares, o mancebo, a quem repugnava o combater contra a patria, não se atrevèra a soppor suas rasões ás do irmão do condestavel; mas por um instincto de lealdade á sua terra, havia imaginado um plano para nunca atacar, mas contentar-se com defender a sua vida, e mais que tudo a vida de Diogo Alvares, de cujo lado nunca se afastara. Mas quando de volta de casa de Brites de Almeida, o pobre Alvaro chegara com um pucaro de agua, destinado ao moribundo, já o misero tinha entregue a alma a Deus! Então o afflicto mancebo, ajoelhando ao lado do cadaver d'aquelle que lhe tinha mostrado tamanha affeição, beijando-lhe as mãos geladas, dirigiu ao céu uma simples mas fervida supplica pelo repouso de sua alma. Breve devia ser esta oração! Ouviam-se já perto as vozerias dos vencedores e os gritos dos vencidos. Alvaro levantou-se. Olhou em torno de si para ver se poderia achar algum instrumento de lavoura, com que desse o ultimo jazigo ao seu amigo. Nada via! Lembrou-se então de voltar á mesma casa, onde com tão boa vontade lhe tinham dado o soccorro que pedira; mas hesitava em largar o cadaver exposto no furor dos inimigos. N'esta alternativa de desejos e de sustos, o tempo corria, e os soldados portuguezes approximavam-se. Então, possuido de novo esforço, quer levantar o cadaver e fugir com elle; mas o sangue que das proprias feridas lhe vertia tinha de tal modo enfraquecido o vigor de seus braços, que mal podiam sustentar aquelle corpo frio e inteiriçado. Comtudo, conseguiu levanta-lo e dar alguns passos para o lado opposto aquelle d'onde lhe vinham as vozes. Em breve porém viu que nada aproveitava. Por detraz de uma sebe que rodeava uma pequena herdade contigua ao logar aonde Alvaro se adiava, saiu-lhe ao encontro um official portuguez que, intimando-lhe ordem de prisão, lhe mandara largar o morto. O mancebo não desconhecia as leis da guerra, e não ignorava o rancor dos portuguezes pelo nome castelhano; respondeu comtudo que estava prompto a entregar-se prisioneiro, mas que exigia uma sepultura para o seu chefe que ali tiuha nos bracos. Palavras inuteis, que apenas pronunciadas teriam sido as ultimas que houvesse de proferir o valente mancebo, se uma terceira pessoa não viesse subitamente apresentar-se em scena.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <quote>
 <l>O que legou á terra o po da terra,</l>
 <l>Julga-lo cabe a Deus.</l>
@@ -139,7 +138,7 @@
 <p>«Que fazeis, christão?» foram as primeiras palavras que saíram dos labios venerandos de Frei Francisco, em quanto com toda a força do seu braço apertava o do soldado, que havia ficado attonito e pezaroso com aquelle encontro. «Sois portuguez, e a deslealdade não póde morar em um peito portuguez! Ouvi uma voz que me parecia a de um homem ferido; esta voz pedia sepultura para um cadaver: e vós, esquecendo os preceitos que Jesus Christo nos deu do alto da Cruz sobre o Calvario, ousaes atacar um homem desarmado, que vos pede um pedaço de terra para sepultar um inimigo! Seguramente a allucinação no combate foi a causa d'este desvario ! Se o homem que aqui fallou é castelhano, guardae-o como prisioneiro e ide leva-lo aos vossos chefes, promettemdo-lhe uma sepultura para aquelle que já compareceu diante do unico throno onde a justiça é sempre administrada sem paixão por um juiz integerrimo que nunca póde enganar-se. Aqui mesmo talvez possamos cumprir este piedoso dever. Soldado de Christo, aqui estou eu para desempenhar uma parte da missão que elle me deixou sobre a terra. Ide acompanhar esse prisioneiro ao logar onde deve ser entregue. Respeitae na sua pessoa um inimigo indefezo. Quando o tiverdes deixado, mandae-me aqui uma lanterna e uma pá, é quanto preciso. E vós, hespanhol inimigo, se quereis dirigir o ultimo adeus ao cadaver do vosso amigo ou companheiro, podeis faze-lo. Dizei-me o vosso nome, para que eu possa deixar-vos saber mais tarde que cumpri com o vosso desejo. Este desejo faz-me pensar que a vossa alma não esta tolalmente endurecida por todo esse sangue que tendes visto, ou porventura tendes feito derramar. Perdoae no fundo de vosso coração aos vossos inimigos, para que Deus tambem vos perdoe as vossas culpais.»</p>
 <p>Alvaro admirava aquelle homem que assim tinha fallado. Ajoelhou de novo ao lado do cadaver, e beijou-o. Depois levantando-se disse: «Prestes a partir, talvez para a morte, peço-vos, Senhor, já que não posso distinguir as vossas feições, me deixeis abraçar-vos como um testemunho do meu reconhecimento, pelo bem que haveis feito á minha alma. O meu nome é Alvaro; nunca me deram outro, nem eu sei se o tenho.</p>
 <p>Aquelle cadaver não é o de um hespanhol; o sangue quc correu em suas veias era portuguez... Mas eu não devo accusa-lo... Elle não póde justificar-se a nossos olhos. O juiz integerrimo de quem haveis fallado, e de quem sois digno ministro, já o tem julgado, e terá piedade de sua alma! « Dizendo estas palavras, o mancebo approximou-se de Frei Francisco, que lhe estendera os braços, e partiu com o soldado portuguez.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <quote>
 <l>Alvejavam-lhe as cans das longas barbas</l>
 <l>Pelo negro burel, que o peito cobre.</l>
@@ -158,7 +157,7 @@
 <p>«Meus filhos,» disse-lhes então Frei Francisco, «o povo d'estes contornos é bom e religioso; mas a sua bondade leva-o a terem grande conta cousas que têem bem pouca valia: e a sua religião, um tanto dominada pelo fanatismo, arvora em santos os que ainda têem muitas faltas para remir, e que ainda estão longe d'aquelle estado de perfeição. Vedes aqui apenas um pobre monge, cujas culpas foram mui grandes, mas que espera na misericordia do Senhor, e que trabalha por seguir os seus dictames, exercendo, quanto em si cabe, as obras dc misericordia. Vamos pois, meus filhos, cumprir uma d'ellas, enterrando os mortos. Abri a cova.»</p>
 <p>Em quanto os homens a faziam, tendo um pegado na pá, e o outro ajudando-o com as mãos a tirar a terra, Frei Francisco rasgava um lenço, e com elle atava as mãos e os pés do morto. Depois, tirou do peito uma pequena medalha da Virgem, que sempre o acompanhava, e lançando-a ao pescoço de Diogo Alvares, recitou um De Profundis; findo o qual, collocaram o morto na sua ultima morada, e encheram a cova com a</p>
 <p>mesma terra que tinham tirado. pondo-lhe em cima uma cruz feita com dois paus. Depois de have-la abençoado, Frei Francisco dispunha-se a pedir a lanterna para partir sósinho, mas os seus companheiros não lh'o consentiram; e pegando um na pá, e o outro caminhando adiante com a lanterna, chegaram sem o menor accidente ao mosteiro de Alcobaça, onde se despediram de Frei Francisco, promettendo tornarem a procura-lo.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Diante d'ella, realidade ou phantasma, estava a origem de seus terrores.</p>
 <p>A. HERCULANO - Eurico</p>
 <p>Pela volta das dez horas da noite, entrava Brites de Almeida em sua casa, e fechando s porta que elIa mesma, no meio de sua exaltação, deixara aberta, apagou a luz da pequena lanterna que trazia, e subiu a escada que conduzia ao quarto onde havia deixado Margarida.</p>
@@ -179,7 +178,7 @@
 <p>«Nada receieis, filha. Eu fiquei illesa, nem uma arranhadura... Elles sim, esses ficaram bem mortos!»</p>
 <p>«Minha tia, replicou Margarida, Frei Francisco tem-nos sempre ensinado o esquecimento das injurias... Se aquelles homens vos offenderam, parece-me que devieis ter-lhes perdoado...»</p>
 <p>«Cala-te, cala-te, que não sabes o que dizes. Mas ahi começas tu com choros e lamurias! Vallia-te Deus! Não penses mais n'isso, e fica-te aqui trauquilla, emquanto eu vou matar uma ave para fazer-te um caldo,de que tanto precisas; adeus!»</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>A religião, querendo reformar o coração humano, inventou uma nova paixão; e para exprimi-la, não se serviu da palavra amor, por não ser assas severa; nem da palavra amisade, que ser perde no tumulo; nem da palavra compaixão, visinha do orgulho; mas achou a expressão caridade, que encerra as tres primeiras.</p>
 <p>CHATEUBRIAND - Genio do Christian.</p>
 <p>Quando depois da memoravel batalha, a effervescencia dos espiritos, começando a declinar, permittia ao Mestre d'Aviz pôr em pratica a generosidade do seu caracter, D. João chamou o codestavel, e ordenou-lhe que tomasse as medidas mais efficazes para obstar que, não somente se desse a morte a algum prisioneiro, mas que se impozessem severas penas aos que ousassem maltratar aquelles que tinham sobrevivido, e que já estavam em ferros, ou que se podessem encontrar procurando evadir-se.</p>
@@ -196,7 +195,7 @@
 <p>«Reverendo Padre,» disse-lhe então, « o defensor d'este reino ordena que os prisioneiros sejam respeitados, e que se prestem os possiveis cuidados aos feridos. Esta villa, desprovida, como é, de estabelecimentos de caridade, não offerece um amparo a estes ultimos. Aqui mesmo acabo de achar um pobre soldado hespanhol, que me parece moribundo; quer vossa paternidade indicar-me o que se póde fazer em beneficio d'elle, onde colloca-lo, para ser tratado convenientemente, ou procurar-me pessoa que d‘elle se encarregue?»</p>
 <p>«Deus esteja com vossa mercê,» respondeu o monge, «e o queira sempre encaminhar na estrada da justiça. De bom grado me presto para o coadjuvar no que esteja ao meu alcance. E se vossa mercê poder dispensar alguns soldados veteranos que, impondo á soldadesca, façam respeitar as ordens de que for munido, eu vou desde já fallar com uma boa gente n''esta terra. e tratarei de convence-la de que devem prestar me quarto de sua casa (cuja capacidade conheço), para servir de uma especie de hospital, onde se recolham alguns feridos. As mulheres d'aquella casa dedicar-se-hão, não o duvido, ao serviço d'estes infelizes, enquanto vossa mercê os mandará visitar por pessoa competente que lhes ministre os soccorros para o corpo; ordenando que os veteranos, de quem eu fallei, façam o serviço externo e guardem a porta da casa contra o fanatico furor que aqui se encontra pelo nome castelhano. Os soccorros espirituaes d'estes infelizes ficarão por minha conta.»</p>
 <p>D. Nuno agradeceu a boa vontade do monge, prometteu fazer o que elle desejava, e retirou-se a dar as suas ordens; enquanto Frei Francisco, sem entrar no carcere, se poz a caminho da casa de Brites de Almeida.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>A medicina esta mais na intenção do que na arte de curar</p>
 <p>O medico sabia que a esperança é uma grande força vital, e que cumpre sobretudo animar a vida emquanto ella luta com a morte.</p>
 <p>LAMARTINE - Genoveva.</p>
@@ -217,7 +216,7 @@
 <p>«Minha filha, tu agora dormirás no meu quarto; eu devo ficar aqui como enfermeira de um soldado que está muito mal. Não desejo que trates com os castelhanos; nem é preciso que vejas o prisioneiro que ahi vem. A visinha Joanna não fará o serviço do forno em quanto os doentes tiverem precisão d'ella. Chamarei entra pessoa para isso, porque não pudemos viver sem vender o nosso pão. Tu, minha Margarida, farás os caldos para os doentes e uma sópa para nos. Não quero que te occupes em outra cousa. Ouves?»</p>
 <p>E Margarida escutava e admirava o que ouvia, e promettia obedecer. O seu coração estava triste. Suspirava por fallar a sós com Frei Francisco, com quem não tinha conversado desde que lhe narrára a sua entrevista com Alvaro, o soldado hespanhol; mas não tinha podido faze-lo, pois Frei Francisco tinha vindo áquella casa duas vezes nos dois dias somente para resolver a tia Brites a deixar recolher os primeiros castelhanos em seus armazens.</p>
 <p>D. Nuno Alvares Pereira tinha já saido do hospital, mas o medico, depois de ter dado o caldo aos doentes, esperava a resposta de Brites, quando esta chegou para dizer-lhe que o quarto para o ferido eslava prompto, e que se podiam chamar alguns homens para o transportarem para ali. O medico deu as suas ordens aos veteranos que estavam de guarda á porta, e foi de novo pulsar o doente e dar-lhe a beber umas gotas de um cordial que trouxera comsigo. Depois, embrulhando-o em um grande capote que trazia sobre os hombros, fê-lo conduzir á sua nova morada, deitou-o elle mesmo na cama, e, chamando de novo a padeira para recommendar-lhe o socego para o doente, despediu-se d'elle affectuosamente, promettendo voltar bem cedo na manhã seguinte.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>No mesmo sepulchro não ha porvir da esperança, porque ao pensamento do corpo precedeu a morte do espírito.</p>
 <p>A. HERCULANO - Eurico</p>
 <p>Em quanto a tia Brites revolvia na memoria as feições delicadas e sympathicas do joven soldado; em quanto Margarida, sem poder conciliar o somno, pedia a Deus melhorasse todos os feridos castelhanos, julgando que assim rogava tambem por aquelle por quem tanto se interessava; o pobre Alvaro perdia as forças, e caira em um 111 lethargo assustador. Mas a padeira, que para velar sobre elle ficara assentada ao lado da sua cama, persuadida de que um somno benefico se apoderara do mancebo, continuava a observa-lo, certa de que dormia tranquillamente.</p>
@@ -235,7 +234,7 @@
 <p>O arrependimento efficaz é um dom gratuito, concedido ás orações e as lagrimas. Luiz de Sonsa não podia recorrer a uma nem a outra cousa. Cego de raiva, arrancára do cinto o punhal que, segundo o uso dos cavalleiros, trazia sempre comsigo, o atravessára com elle o coração!</p>
 <p>Um creado que o seguira, atemorisado pela mudança de sua physionomia, ainda ouviu as ultimas palavras que murmurara: «Meu Deus! perdão!... Violante ! » Estas palavras eram a expressão do seu amor pela creatura angelica que deixava viuva, e um signal do seu remorso por haver quebrantado o seu voto! Não pensava o misera que Violante ficava muito mais infeliz depois da morte desgraçada de seu marido, do que mesmo o seria se tivesse sido obrigada a separar-se d'elle! Luiz de Sousa morria em um momento de desesperação! Entre elle e os que deixava quebrava-se essa cadeia de esperança, que serve de communicação de um mundo a outro! A ponte de flores pela qual se devem reunir os que se amaram n'esta vida não existia para Luiz de Sonsa. Elle mesmo a despedaçara!... As orações de Violante não deviam passar através das muralhas da cidade dolorosa, que a separavam de seu marido!... O desafortunado esquecera tudo! e em seu louco furor pretendera mergulhar as idéas que o perturbavam em um</p>
 <p>somno estupido; sem lembrar-se que este somno cujo despertar seria terrivel, o levava á morte eterna!!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Á vista d'estes cabellos, tremula, e empallidecendo mais e mais, arranca-lh'os das mãos e pergunta-lhe : « De quem são estes cabellos? » -- «De minha mãe. »</p>
 <p>LAMARTINE -- Genoveva.</p>
 <p>A nova d'esta catastrophe cedo chegou aos ouvidos de Violante. A triste caira logo em delirio. A febre acommettêra-a com violencia, e durante tres mezes lutára a infeliz viuva com a morte. A sua mocidade porem, os desvelos constantes de uma extremosa mãe, a ausencia de seu pae, que outra vez entrara em novas guerras contra Castella venceram a doença, e Violante no fim d'aquelle tempo levantava-se da cama, magra, pallida, com o rosto transtornado mas resignado, e promettendo remir por uma vida de penitencia os erros da paixão de que fôra victima.</p>
@@ -251,7 +250,7 @@
 <p>momentos depois dizia comsigo a patriotica padeira:</p>
 <p>«Mas se elle pegou em armas contra o seu paiz?! e não ha duvida que assim foi; é soldado, está ferido, e ficou prisioneiro! que mais querem?!... Santo Deus! Nunca me verei eu livre de hespanhoes, ou cousa que o valha?!... Mas este rapaz e Alvaro, aquella creança que tantas vezes passeiei nos meus braços... é o filho da boa D. Violante. Santa rapariga, que tão cedo deixou este mundo! e D. Iria... era outra santa, que não pôde sobreviver áquella filha! Depois lá veio o sarampo, que levou a outra pequena; ficou o velho, esse já ninguem o podia aturar, tão rabugento, tão rabugento... Mas coitado! Deus o tenha na sua gloria! Era um homem de mão cheia, aborrecia os castelhanos, e bastantes mandou para o inferno, até que uma noite feia, noite de trovões, estando á sua janella admirando a tempestade e o fuzilar dos raios, veio um que o estendeu no chão!... Lembro-me como se fosse hontem... Eu estava bem perto e comecei a gritar: Santa Barbara! S. Jeronymo! mas nada valeu. Lopo de Mendonça estava morto! Frei Francisco ha de lembrar-se bem d'esse caso; elle que não esquece cousa alguma. A gente de Alcobaça dizia que o santo monge emprehendêra a conversão do velho capitão, que a final já ia á igreja e frequentava o confessionario. Frei Francisco reconhecerá tambem n'este mancebo o pequeno Alvaro que elle mesmo baptisára.»</p>
 <p>E assim recordando os passados acontecimentos, a tia Brites, dominada pela fadiga do dia, deitou a cabeça sobre o leito de Alvaro, e adormeceu.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Entregue cedo a mãos estranhas, foi creado longe do tecto paterno.</p>
 <p>CHATEAUBRIAND -- René.</p>
 <p>O sol ia a nascer. Do alto dos montes via-se para o lado do oriente um clarão immenso, cujo reflexo brilhava sobre a planicie. As nuvens doiradas que se estendiam pelo céu, os grupos das montanhas ao longe esclarecidas, a verdura das arvores, o canto dos passaros, tudo apresentava um espectaculo sublime de harmonia.</p>
@@ -278,7 +277,7 @@
 <p>(1 ) S. Paulo aos Corinthios vos conhecer do pobre monge. Vou desde já occupar-me em mostrar a legitimidade do vosso nascimento; quando o tiver conseguido, quando alcançar de D. João l a vossa liberrdade, poderei exclamar com o santo velho Simcão: « Agora deixae, Senhor, o vosso servo morrer em paz!»</p>
 <p>Alvaro escutara com a maior attenção as palavras de Frei Francisco. Por vezes tinha o mancebo, durante aquella conversarão, pegado nas mãos do monge, e lh'as apertára com toda a demonstração de agradecida ternura. Por vezes tinham-lhe as lagrimas corrido pelas faces ao ouvir a morte de entes tão caros. A final, quando o bom monge acabou de fallar, Alvaro lançou-Ihe os braços em roda do pescoço, e ali se demorou alguns instantes.</p>
 <p>Depois de algum tempo passado em doce e reciproca expansão, Frei Francisco despediu-se de Alvaro de Sousa, entregando-o, como de costume, aos cuidados da tia Brites e de Margarida.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>A amargura do corarão revela a forçados laços, que unem as pessoas que vão separar -se. Mede-se a felicidade passada pela desgraça que vae começar: porque a dor é o thermometro mais seguro da amisade.</p>
 <p>ALEXANDRE -- Deus dispõe.</p>
 <p>O velho monge saindo de casa da padeira, pensou que antes de tudo devia tratar na liberdade do prisioneiro, e, para consegui-la, lembrou-se logo de D. Nuno Alvares Pereira; mas dirigindo-se a procura-lo, sonhe que o condestavel tinha partido na vespera, em procura de novos touros, para encontrar os castelhanos. Então pensou em João das Begras, emulo de D. Nuno; este celebre jurisconsulto havia sido feito chanceller do reino por D. João I, que, pesando na balança quanto devia áquelles dois homens, os escutava sempre com igual respeito, posto que bem persuadido que sem o auxilio do braço do condestavel toda a sciencia do doutor de Bolonha mal o teria ajudado a livrar a patria do dominio estrangeiro.</p>
@@ -289,7 +288,7 @@
 <p>«Meu filho, é preciso mostrar que es homem, curvar-te aos trabalhos que Deus quizer enviar-te, e accita-los com resignação. O Senhor nunca abandona os que são fieis á sua santa lei. Confia n‘elle, meu filho, e fica certo que o velho monge não te esquece. Eu vou seguir as pisadas d'el-rei; vou implorar o teu resgate. D. João I não terá esquecido com a gloria os dictames da humanidade, que o Mestre d‘Aviz sabia praticar. Enche-te de coragem, da coragem propria de um varão, e o Senhor terá compaixão de todos nós. E tu, Margarida, a tua missão é outra. Em quanto Alvaro vae como homem lutar com os perigos, dos quaes, com a graça de Deus, sairá incolume, tu, desempenhando os deveres a teu cargo, elevarás o teu coração ao céu, pedindo o soccorro que só d‘ali nos pôde vir. Eu, como soldado de Christo, seguirei os afflictos até poder resgatados. Se o não conseguir, se os meus esforços não forem coroados, ainda os acompanharei até que possa ter-lhes feito alcançar uma intera resignação á vontade do céu.» Alvaro de Sousa, penetrado das palavras do monge, pegára na mão de Margarida, e tendo-lh'a beijado com toda a ternura murmurou: « Ate á volta, Margarida. Juro que hei de esposar-te se Deus me conceder a liberdade!» Depois abraçou a tia Brites, e saiu d'aquella casa onde tinha encontrado tanto desvelo, tanto amor!</p>
 <p>Chegando á rua achou a escolla que o esperava, e acompanhado dos prisioneiros do hospital, que haviam escapado á morte, foram todos reunir-se ao destacamento que saía de Aljubarrota.</p>
 <p>Frei Francisco seguiu-os ate certa distancia, e tendo-se assegurado que partiam n'aquella mesma noite, tomou o caminho do seu convento.</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>E de by se partio logo com sua gente .. De by caminho de Castella... E assi per prazer de Deos foy vencida esta batalha, a qual durou dois dias de sol a sol em pelejar.</p>
 <p>Chronica de Condestabre.</p>
 <p>Não relataremos as differentes jornadas que fizeram os soldados de D. João I, antes de se encontrarem com o condestavel. Não fallaremos das injurias e vexames a que os prisioneiros castelhanos tiveram de resignar-se em seu caminho. O povo portuguez patenteava por toda a parte o seu odio para com os d'aquella nação; e os soldados prisioneiros não eram os que menos tinham a soffrer de um tal rancor.</p>
@@ -308,7 +307,7 @@
 <p>D, João de Castella era cegamente obedecido em suas ordens sanguinarias contra os infractores das leis da guerra.</p>
 <p>Alvaro de Sousa foi lançado em uma masmorra, emquanto o capitão que o induzira a pegar em armas contra Castella chorava a morte do mancebo, que elle suppunha ter acabado no ultimo encontro!</p>
 <p>Deixemos porem o condestavel proseguir em seus gloriosos feitos, e passemos a recentrar-mos com o veneravel monge, que não achando el-rei em Santarem, saira immediatamente a procura-lo; esquecendo-se dos perigos e fadigas de uma longa viagem para alcançar o resgate do neto de D. Iria.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <quote>
 <l>Ó tu. que só tiveste piedade,</l>
 <l>Rei benigno, da gente lusitana.</l>
@@ -326,12 +325,12 @@
 <p>«Certo como estou de que ás constantes preces de vossa paternidade e ás das outras almas piedosas d'este reino devo tudo quanto tenho conseguido em prol d‘esta nação, permitia-me vossa paternidade que, confiado na sua protecção, eu peça a continuação de suas orações em meu favor para que o Senhor se digne esclarecer-me sobre o modo por que devo reger este povo que amo sinceramente e por cuja liberdade darei a propria vida.»</p>
 <p>«Nas humildes orações do pobre monge de Alcobaça não será nunca esquecido o augusto nome do defensor d'este reino! »</p>
 <p>Dizendo estas palavras. Frei Francisco approximou-se de D. João, que lhe beijou a manga do habito á despedida.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Um sonho terrivel apoderou-se lhe dos sentidos; um horrivel grito fugiu-lhe do peito e este grito que ella verdadeiramente ?????</p>
 <p>Voltemos agora a Aljubarrota para narrarmos quanto ali se passára desde que Alvaro de Sousa saíra de casa da tia Brites. A padeira chorára um dia inteiro a ausencia do filho de Violante, mas a boa mulher, cuja constancia de sentimentos se limitava ao odio que consagrava nos castelhanos, depois de chorar umas doze horas pelo pobre prisioneiro, deitou-se a dormir, no dia seguinte disse a Margarida: «Minha filha, não chores, não me aflijas: o tempo tudo gasta. Alvaro de Sousa é bom rapaz, mas não deves matar-te por sua causa. Homens são homens! E demais  quem sabe se elle voltará; e se, voltando, quererá casar contigo? Teu pae era um soldado</p>
 <p>valente como os mais valentes; mas a familia de Alvaro era nobre de ambos os lados, e aquella gente, por melhor que seja, não perdoa a differença do nascimento. EIle por si, o bom Alvaro, não pensará n'isso; mas sempre ha agulhas ferrugentas... Mas tu choras?... talvez tomes a mal o que eu te digo! Mas olha, filha é para teu bem. Eu quero muito a Alvaro, a quem quasi que vi nascer: mas a ti, Margarida, a filha de minha pobre irmã, quero-te como ás meninas dos meus olhos! Devo aconselhar-te como se fica tua mãe. Vamos trabalhar, rapariga; a ociosidade alimenta os maus pensamentos. Não digo que te não lembres d'elle, coitado! Mas não te entregues toda a essa idéa. Frei Francisco lá foi. O que elle não fizer, ninguem fará! Veremos o que se arranja. No entretanto, vamos para o forno.» E travando do braço de Margarida, saiu com ella. A donzella seguiu machinalmente sua tia: as palavras de Brites de Almeida tinham-lhe feito grande mal. Margarida julgava-se como a desposada de Alvaro de Sousa, desde que este á despedida lhe jurára eterno amor. Esta idéa, mitigando a sua saudade, dava-lhe força para supportar a ausencia, emquanto com ferventes orações pedia a Deus o resgate do mancebo. Crente e sensivel esperava que o Senhor escutasse as suas preces, e confiava no soccorro divino. Mas sua tia havia em um momento desvanecido as suas esperanças. Margarida começou a duvidar da protecção do céu!... A donzella entrou com sua tia na cozinha. Seus olhos estavam enxutos mas a pallidez de suas faces dizia quanto soffria. Comtudo trabalhou com Brites ate á tarde. De volta a casa disse a sua tia que não queria ceiar, que desejava deitar-se, e pediu-lhe a deixasse dormir no seu antigo quarto. A infeliz donzella precisava de estar só. Brites annniu, e Margarida, tomando-lhe a benção, recolheu-se ao seu aposento. Ali abriu uma janella; a febre devorava-a. Depois accendeu uma pequena alampada diante de uma imagem da Virgem; quiz rezar, não pôde. A orarão, esse fio invisivel que une a creatura ao Creador, recusava vir em seu soccorro. Prostrada defronte d'aquella imagem, Margarida não pronunciava uma palavra, nem mentalmente lhe dirigia uma supplira. Assim esteve por muito tempo sem ter uma idea. A final, levantou-se, apagou a alampada, arrojou-se sobre o leito e adormeceu. Mas o que a natureza lhe negara emquanto acordada, runcedeu-lh‘o emquanto dormia. Os sonhos, com toda a magia e mysterios que por vezes os acompanham, vieram visita-la.</p>
 <p>N‘esta visão que o céu lhe enviou. Margarida viu, ouviu e fallou a Alvaro de Sousa. O mancebo estava moribundo sobre o campo da batalha; suas feridas vertiam uma quantidade de sangue, que não era possivel estancar: o mancebo chamara um padre, e fizera Margarida prometter-lhe diante do sacerdote que se retiraria do mundo logo que elle tivesse espirado. Depois pedira-lhe que recebesse ali os seus juramentos, e tendo sido abençoado pelo ministro da Igreja, entregára a alma ao Creador! Margarida vira aquella alma nobre e pura subir á mansão de paz, e ouvira entre os sons da divina harmonia a voz de seu esposo, que louvando e bendizendo o Senhor, lhe pedia se com padecesse da esposa desditosa que deixava sobre a terra! Então acordou, dando um profundo gemido! Era dia. Margarida olhou para todos os lados, nada mais via do que tinha deixado na vespera; applicou o ouvido, tudo estava mudo. Então julgou que tivera ouvido uma inspiração do céu; que um sonho era prognostico do que devia acontecer-lhe; e, sem mostrar pelas lagrimas as sensações que a dominavam, tomou uma subita resolução. Mal porém acabava de forma-la, a tia Brites entrou no seu quarto para dizer-lhe que era obrigada a partir para Leiria, onde teria que demorar-se alguns dias; que houvesse ella de fallar com os freguezes, participando-lhes que a padeiro tinha saido para comprar algum trigo que lhe faltava, mas que a sua ausencia não seria longa. Brites, que já tinha disposto tudo para a partida, abraçou a sobrinha, e, montando sobre uma velha mula que a miudo lhe emprestava um seu visinho, poz-se a caminho de Leiria.</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <quote>
 <l>Ó Patria! ó meu Portugal!</l>
 <l>Minhas lagrimas saudosas</l>
@@ -347,7 +346,7 @@
 <p>as sensações sublimes que, soltando os corações puros da região nebulosa que habitámos, os devam ate uma esphera brilhante, presagio dos gosos infinitos, que a Providencia envia áquelles que ama, para reanimar o seu valor.</p>
 <p>A igreja devia fechar-se. Margarida levantou-se, approvimou-se da pia baptismal, pensou de novo em Alvaro, tomou agua benta e saíu.</p>
 <p>No dia seguinte póz-se em jornada e cedo alcançou a fronteira. Então dizendo adeus á terra natal, resolvida a não tornar a piza-la se Alvaro de Sousa a não acompanhasse, alugou uma pequena barca e atravessando o Guadiana achou-se em terras de Hespanha.</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Nunca a sua mão benefica deixou de estender-se para o logar em que a afflicção se assentava... Sacerdote do Christo percebêra que o christianismo se resume em duas palavras, fraternidade e igualdade, ou antes só na primeira.</p>
 <p>A. HERCULANO - Eurico</p>
 <p>Frei Francisco tinha saído de Chaves, e destinara-se a entrar no reino risinho, se não podesse colher alguma policia ácerca de Alvaro de Sousa. Escreveu comtudo a todos os capitães que havia conhecido em Aljubarrota, e communnicando-lhes o que passára com D. Joao I, lhes pedia</p>
@@ -363,7 +362,7 @@
 <p>O monge não queria acreditar o que ouvia; mas os soldados, para que elle se convencesse do que lhe referiam, pediram-lhe que os acompanhasse</p>
 <p>a casa de uma pobre mulher dos arrabaldes da cidade, onde Frei Francisco devia encontrar quem o podesse pôr ao tacto de quanto havia acontecido.</p>
 <p>Inquieto e pezaroso o bom monge seguiu os soldados, sem dizer uma palavra.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <quote>
 <l>.... Deixar um triste mundu</l>
 <l>Onde tudo perdeu. ao céu voltára.</l>
@@ -399,7 +398,7 @@
 <p>«Meu padre, abençoae-me... e rogae a Deus por mim!...»</p>
 <p>«O Senhor receba benignamente o sacrificio que lhe offereceis; seja elle aceito para honra e gloria do seu nome e para utilidade da tua alma!»</p>
 <p>«Amen!» Responderam os circunstanates. E Margarida havendo-se erguido, dirigiu-se para a porta do mosteiro, e desappareceu entre um grupo de religiosas.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>E entrava todos os dias n'aquellas habitações, administrando remedios aos doentes abandonados...dando aos cadaveres sepultura christã. sem curar de si, sem temor da morte que se apresentava a todos sob forma hodionda. porque tal olhos da sua fé como o penhor certo da salvação.</p>
 <p>M. DE LA ROCHELE</p>
 <p>Em quanto Margarida lutava entre o pungir da sua dor, e o desejo de apparecer resignada aos olhos da communidade. Frei Francisco, havendo recommendado a abhandessa do convento a educanda quee tanto affecto lhe merecia, punha-se a caminho de Portugal, para ir consolar a padeira, que deixára meio alienada. Antes porém de partir havia pedido ao capitão de Aljubarrota inviolavel segredo sobre o retiro que Margarida escolhêra. «Él ella quem vo-lo roga; tendes visto quão grande e a força de vontade d'aquella rapariga. Todos os esforços de Brites de Almeida seriam inuteis; devemos pois impedir que a pobr mulher se exponha a fazer uma tal jornada.» O capitão prometteu tudo o que Frei Francisco desejava, e atravessou com elle a fronteira até ELvas, onde tiveram de separar-se. um para seguir aos combates a sorte da guerra </p>
@@ -409,7 +408,7 @@
 <p>Victima de seu constante amor pelo proximo, Frei Francisco viu chegar com alegria a hora do passamento. N'esses momentos supremos, em</p>
 <p>que a alma, solta das prisões que a ligam a terra, antevê os gosos que lhe são destinados como recompensa de suas penas n'este valle de miserias, o santo monge bemdizia o Senhor pelos soffrimentos que lhe havia enviado. Os seus pensamentos elevaram-se mais e mais para o céu á medida que o corpo, enfraquecendo-se, se vergava para a terra!</p>
 <p>Finalmente, rodeado de bons religiosos de Alcobaça, o santo monge, entoando com elles as orações da Igreja, terminou essa longa carreira de virtudes que o levou á bemaventurança! A sua morte foi chorada pelos seus irmãos do mosteiro, e altamente sentida pelos habitantes de Alcobaça e suas visinhanças, que perdiam com ella um pae compassivo, um mestre indulgente e um protector efficaz!</p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <quote>
 <l>Não soffre o peito forte, usado à guerra,</l>
 <l>Não ter imigo já a quem faça damno;</l>
@@ -442,7 +441,7 @@
 <p>«Chamo-me Alvaro, não tenho posição no mundo, e... sou portuguez! Disponho-me a servir contra os mouros; se, quereis os meus serviços, aceitae-os.»</p>
 <p>«Então, acrescentaram os que assim fallavam a D. João I, então entrou no serviço, seguindo a expedição. Desde que chegámos a Ceuta, vimo-lo sempre combater com ardor. Onde havia mais perigo, ali se achava o soldado. Depois da tomada da praça ninguem  o viu mais.»</p>
 <p>Não podendo demorar-se por mais tempo na Barbaria, D. João tornou a embarcar com o seu exercito, e alguns dias depois, altiva das glorias alcançadas sobre os mouros, a frota ancorava no porto de Tavira.</p>
-</div><div><head>XXI</head>
+</div><div type="chapter"><head>XXI</head>
 <quote>
 <l>Tudo quanto nasce e vivo</l>
 <l>Sob o manto azul do céu,</l>
@@ -459,7 +458,7 @@
 <p>Acabadas as orações do sacerdote, a abbadessa ergueu a voz para dizer ao povo que a noviça tinha deixado de existir:</p>
 <p>«Meus irmãos, a ceremonia da profissão não se acabará. A nossa amada filha em Jesus Christo, Soror Margarida da Assumpção, já não existe! Podeis sair da igreja, meus irmãos.»</p>
 <p>Ao silencio religioso que até ali se guardara no templo seguiu-se um murmurio confuso de vozes, cujos sons se não distinguiam. O povo, avido sempre de espectaculos tristes, largava a custo o santuario; e quando depois de muito tempo, tendo a abbadessa avisado o sacerdote do que havia acontecido, o sacristão, julgando a igreja totalmente vasia, se encaminhava para fechar a porta principal, que era muito proxima da grade do coro, viu, entre uma e outra um vulto de homem que, de joelhos com o rosto voltado para o côro, não tirava os olhos do logar onde jazia o corpo da sobrinha da padeira de Aljubarrota.</p>
-</div><div><head>XXII</head>
+</div><div type="chapter"><head>XXII</head>
 <p>-- A trança, que ao sepulchro sonegada, prenda foi de ternura!</p>
 <p>ALMEIDA GARRET - Camões</p>
 <p>Margarida não somente desejara a morte, mas tinha o presentimento de que o seu desejo devia cedo realisar-se. Quando na manhã da sua profissão ella saira do côro e entrara na sua cella, aquella idea dominava-a tão fortemente, que a donzella se determinara a escrever a sua tia pedindo-lhe perdão por have-la deixado, e dando-lhe conta do que motivava a sua ausencia. Pela primeira vez depois de sair de Aljubarrota, Margarida deixava ler o que se passava em sua alma. A dôr que a minava, o martyrio que soffria, a porfiada luta de tantos mezes, tudo ali se pintava fielmente e sem exageração. A ultima parte da carta dizia assim :</p>
@@ -527,7 +526,7 @@
 <l>E recebe lá nos céus,</l>
 <l>Este meu ardente amor!</l>
 </quote>
-</div><div><head>XXIII</head>
+</div><div type="chapter"><head>XXIII</head>
 <p>Quando o céu é um deserto para a esperança, onde a acharei na terra? Que póde hoje embriagar-me, senão uma festa de sangue?</p>
 <p>A. HERCULANO -- Eurico.</p>
 <p>Depois de haver atravessado uma grande parte de Portugal, Alvaro de Sousa chegou a Alcobaça. Era quasi noite quando o mancebo, batendo á porta do mosteiro d'aquella villa, perguntou por Frei Francisco de São Boaventura. Alvaro de Sousa queria ouvir da bôca d'aquelle santo religioso todas as particularidades concernentes á partida de Margarida para Hespanha; queria agradecer-lhe os trabalhos que o bom monge experimentara por sua causa; queria finalmente dizer-lhe que não havia descido ao tumulo, e que desejava comprovar a legitimidade do seu nascimento. Mas a sorte devia ainda ser adversa ao mancebo! Frei Francisco havia sido victima do seu zêlo evangélico. A sua cella tinha por unicos moveis a grande mesa que lhe conhecemos. Ali não se achou papel no livro que podasse orientar o pobre filho de Luiz de Sousa. Frei Francisco, havendo seguido precipitadamente o mancebo até Hespanha, na sua volta para Alcobaça, julgando-o morto, não pensara em procurar os papeis que deviam esclarecer o</p>
@@ -543,7 +542,7 @@
 <p>Alvaro de Sousa, que nunca deixara de amar a sua patria, que preferia a gloria de batalhar junto a portuezes aos louros que pudesse ganhar em outra qualquer nação, ouvindo esta nova pensou logo em voltara Portugal. Comtudo não foi sem grande contrariedade que se decidiu a faze-lo. A gloria do exercito ingleza ainda não havia chegado ao seu auge. A victoria de Azencourt, que cedo depois teve logar, devia coroar de louros aquella nação, enquanto os francezes totalmente desbaratados, teriam a chorar en-</p>
 <p>tre a perda de milhares de homens sete principes de sangue e o grande condestavel de França.</p>
 <p>Alvaro de Sousa perguntava a si mesmo, se não seria melhor para elle ficar entre os estrangeiros que o tinham acolhido, e continuar a prestar-lhes o valor do seu braço até encontrar a morte que procurava: a sua resposta foi breve e decisiva. Despediu-se de seus companheiros de armas: fechou em uma pequena mala o pouco, que possuia; passou a Inglaterra, e d'ali embarcou para Portugal, onde chegou na vespera de partir a expedição para Ceuta, não como o joven e alegre soldado de Aljubarrota; o voluntario do exercito de Ricardo II, o esforçado veterano de Harfleur, tinha os cabellos brancos, a testa e as faces enrugadas; o riso nunca se deslisava sobre seus labios, fim Alvaro de Sousa só o coração não linha mudado!</p>
-</div><div><head>XXIV</head>
+</div><div type="chapter"><head>XXIV</head>
 <p>Patria e amor!...</p>
 <p>Interrogae as aguas do Vaucluse, que talvez, no seu estalar monotomo, vos repitam algum canto vivido de sentimento do famoso Petrareba! Patria e amor!... Interrogae o Tejo, interrogae os vagalhões do oceano, interrogae as penedias da India, que vos ensinarão, se as souberdes, as melodias repassadas da crença do nosso Camões | Patria e amor!...</p>
 <p>J. A. DE SANT'ANNA -- Patria e amor.</p>
@@ -555,7 +554,7 @@
 <p>Esta mulher, de extraordinaria belleza, estava deitada. Os seus membros paralysados desde tenra idade impossiblitavam-n'a de andar. Sua irmã, muito mais velha do que ella, estava na praça de Ceuta na occasião de ali entrarem os portuguezes; e querendo sair para evitar o perigo, caira em um fosso, onde ficara por morta, e d'onde a tiraram os soldados de D. João.</p>
 <p>Fatima era uma perfeita moura: respeitadora do propheta, fatalista e inimiga dos christãos. A não ser sua irmã, que adorava com amor de mãe,</p>
 <p>Fatima não teria ficado em Ceuta depois de occupado pelos portuguezes. Mas o estado de Rachel, que não podia mover se, fez com que não abandonasse a sua casa. Ali havia recebido Alvaro de Sousa, quando depois da victoria, cheia de feridas, saíra da praça para evitar que o reconhecessem. Fatima promettêra guardar-lhe o segredo, afiançando-lhe que podia ali ficar com segurança: «Os nazarenos,  dizia ella, « os nazarenos não ousarão penetrar na habitação dos descendentes dos Abencerrages! »</p>
-</div><div><head>XXV</head>
+</div><div type="chapter"><head>XXV</head>
 <quote>
 <l>Formosa entre as mais formosas.</l>
 <l>Alva estrella em um ceu de,</l>
@@ -576,7 +575,7 @@
 <p>« Mas por que assim quereis dispor do mim? quem sois vós? »</p>
 <p>«Um homem que vos adora desde a primeira vez que vos contemplou, quando na melhor phase da vida, na epocha mais favoravel á belleza, vos viu, triste e silenciosa, escondendo as lagrimas que vos arrebentavam dos olhos, seguir os emissarios de um despota cruel que, desenhecendo as leis da humanidade, calcando aos pés os mais nobres sentimentos, exige as caricias de uma mulher que o despreza. Fatima, eu sou um homem que jurei vingar-te. Mahomet acaba de sair de Alhambra para ir encontrar-se com o rei de Marrocos; Alhobacem pretende vingar a morrte de seu filho, e pediu o auxilio de Mahomet. É chegado o momento supremo. Foge, Fatima; o teu vingador não póde acompanhar-te. A liberdade do povo deve seguir-se á tua liberdade. Quando ella se houver effectuado, conhecerás o meu nome, e serás o arbitro do meu destino.»</p>
 <p>Acabando de proferir estas palavras deu outro silvo, segurou a mão de Fatima sobre a escada que pendia da muralha, esperou que a joven Abencerrage chegasse ao cimo; disse-lhe então que suspendesse a escada e a lançasse do outro lado. Fatima voltou-se para o desconhecido, poz uma mão sobre o peito, apontou com a outra para o céu e desappareceu. Minutos depois ouviu-se o galope de dois cavallos que seguiam ao longo de Xenil.</p>
-</div><div><head>XXVI</head>
+</div><div type="chapter"><head>XXVI</head>
 <quote>
 <l>Com esforço tamanho estrue e mata</l>
 <l>O Luso ao Granadit, que em pouco espaço,</l>
@@ -591,7 +590,7 @@
 <p>«Senhora» disse-lhe o mouro,«Ahen-malech ordenou-me que vos fizesse sair de Hespanha, com a velocidade possivel, que vos depozesse em um pequena cabana, situada na falda do Abyla; que apenas vos installasse ali, voltasse a procura-lo para participar-lhe o como se effectuára o seu mandado. Allah é grande! Vós sabeis, bella flor das Hespanhas, como até aqui tenho cumprido a minha missão: Vamos continua-la, segui-me.»E pondo-se em caminho, levou Fatima junto da montanha indicada. Antes porem de começarem a subir a pequena elevação que tinham diante de si e que os devia conduzir á cabana de que fallára o mouro, Fatima viu duas pessoas que descendo o monte com pandeiros e alaudes, tocando e cantando, se dirigiam para ella. Ao approximarem-se, curvaram-se diante de Fatima exclamando «Allah é grande! E Mahomet é o seu propheta! Bella rosa de Granada, que assim murchaveis á sombra dos jardins da Alhambra! Aquelle que vos envia, sahe quanto a vossa vinda é apreciada pelos moradores da cabana do Abyla. Vinde, vinde que chegaes a tempo.»</p>
 <p>Quem assim fallava, era uma mulher idosa, que trazia nas mãos um pandeiro, o qual agitava nos ares, emquanto um homem já velho tirava do alande uns sons tristes e desafinados. Fatima e o mouro foram seguindo aquelles personagens, cujos trajos eram iguaes aos dos mouros de Hespanha, até chegarem á cabana.</p>
 <p>Ali a moura entrou, fazendo signal que esperassem, e logo depois veiu dizer a Fatima, que se preparasse para ver sua mãe, acrescentando: «O estado de saude d'aquella que vos trouxe em suas entranhas é melindroso. Desde que vos perdeu de vista nunca mais o riso pousou sobre os seus labios. Vosso pae não tem consolação emquanto lhe não for dado abraçar-vos; mas hoje, nem um nem outro podem faze-lo. Vossa mãe deve hoje dar á luz um filho, e ainda que ella espera por vós, eu temo annunciar-lhe n'este momento a vossa chegada. Mas para dar animo a vosso pae, cujo valor diminue de dia em dia, eu fui dar-lhe signai que estaveis aqui; e elle disse-me baixinho: «Vae, dize-lhe que entre n'este aposento, que eu não posso deixar, e que se occulte ali detraz de uma esteira de palma, para me dar coragem pela sua presença, e para ser testemunha das dores de sua mãe.»</p>
-</div><div><head>XXVII</head>
+</div><div type="chapter"><head>XXVII</head>
 <p>Promette. Jura-me que lhe servirás de mãe; que farás por ella todos os sacrificios que uma mãe faz por um filho.</p>
 <p>LAMARTINE -- Genoveva.</p>
 <p>Fatima tinha-se despedido com reconhecimento do seu companheiro de viagem, e recebendo de suas mãos o cofre que lhe entregara o seu libertador, entrou com passus leves para a rabana. Aquelle quarto, forrado de esteiras de palmeira, continha quatro pessoas. Sobre um leito collocado junto da parede jazia uma mulher ainda nova e bella. Seus lindos cabellos pretos estavam soltos e cobriam inteira mente as almofadas sobre que se reclinava. Seus olhos, tambem pretos, estavam cravados sobre uma fenda quasi no tecto da cabana, para o lado do occidente, por onde entravam os furtivos raios do sol, que descia a mergulhar-se nas aguas do Estreito. A moura não fallava, não soltava uma queixa, mas as contorsões do semblante mostravam quanto soffria. A seu lado um homem já idoso segurava-lhe uma das mãos, emquanto o mouro, que descêra ao encontro de Fatima, de joelhos, aos pés do leito, parecia pensativo. Este homem era o medico e o amigo dos paes de Fatima, desde que, prevenidos por Aben-malech, fugidos de Hespanha, tinham vindo esperar em Marrocos o resgate de sua unica filha. A quarta personagem era a moura que os servia. Fatima entrara sem fazer o menor ruido, e dirigira-se para o lado do nascente, onde sua mãe a não podia ver. Mas apenas se assentara sobre uma esteira, onde haviam depositado algumas roupas que deviam servir para a creança que se esperava, um grito agudo que sua mãe soltou, fê-la levantar, e sem lembrar-se do que lhe havia recommendado a moura, e correu para o lado da cama, dizendo;</p>
@@ -615,7 +614,7 @@
 <p>Assim se passaram annos e annos. Ora habitando na praça de Ceuta, ora na cabana do Abyla, as mouras, estavam velhas. D. João I havia chegado a Ceuta e tomado a praça. Os musulmanos que ali habitavam e que escaparam á mortandade, haviam fugido.</p>
 <p>Dos seguidores do Alcorão só restavam em Ceuta duas mulheres velhas. Uma d‘ellas era paralytica desde o berço, a outra jurára que so o tumulo as separaria uma da outra!</p>
 <p>Alvaro de Sousa habitava um pequeno quarto da casa d'estas mulheres, situada nas faldas do Abyla, onde se abrigára para evitar ser reconhecido pelos soldados portuguezes.</p>
-</div><div><head>XXVIII</head>
+</div><div type="chapter"><head>XXVIII</head>
 <quote>
 <l>Passámos a grande ilha da Madeira.</l>
 <l>Que do muito arvoredo assim se chama;</l>
@@ -636,7 +635,7 @@
 <p>Comtudo, Zarco e os outros portuguezes, desejando ter maior conhecimento do paiz que descobriam, tinham desembarcado, e haviam chegado a uma linda praia, que chamaram Praia Formosa, e d‘ali continuaram por terra até uma especie de caverna, onde teriam sido devorados por uma grande quantidade de lobos marinhos que ali se abrigavam, se promptamente se nao houvessem recolhido ás suas embarcações. A este logar deram os portuguezes da pequena expedição o nome de Cumera de Lobos. Voltando então o rumo, passaram os mesmos sitios que haviam visto, e de novo desembarcaram perto da ponta de S. Lourenço, em uma pequena enseada entre dois altos rochedos. As arvores que ali encontraram, chegavam até ao mar, cujas ondas lhes beijavam os troncos. Ao passo porém que desejavam explorar a terra, os portuguezes receiavam encontrar n'aquella espessura alguns animaes ferozes, e por isso se contentaram com examinarem o local mais perto da costa. O piloto porem da primeira embarcarão havia-se afastado de seus companheiros, que só deram pela sua falta no momento do embarque para de novo ganharem o Porto Santo. Então começaram a chama-lo de um e de outro lado da enseada; mas não obtendo resposta, João Gonçalves Zarco mandou quatro dos seus marinheiros, homens fortes e valorosos, para que procurassem o piloto. Aquelles homens dirigiram-se para o lado do Oriente, onde o arvoredo era mais espesso, e ali, encoberto com frondosos cedros que se erguiam altivos acima das outras arvores, acharam o companheiro que procuravam, de joelhos diante de uma cruz, toscamente feita de grosseiro pau. Ás vozes dos marinheiros que gritavam: « Mestre Sousa, vamos, vamos embarcar, » o piloto levantára-se de sua humilde postura, e melancolico seguira os que tinham vindo perturba-lo.</p>
 <p>Já iam a meio de sua navegação, entre as duas ilhas, quando João Gonçalves Zarco se lembrou de perguntar ao piloto por que se havia entranhado em um pais desconhecido.</p>
 <p>A resposta do mestre Sousa satisfez o chefe da expedição, e fornecerá aos nossos leitores o episodio do seguinte capitulo.</p>
-</div><div><head>XXIX</head>
+</div><div type="chapter"><head>XXIX</head>
 <quote>
 <l>Nunca leste com ternura</l>
 <l>Legenda da sepultura,</l>
@@ -664,7 +663,7 @@
 <p>O nosso heroe obteve facilmente o logar de segundo piloto de umadas tres embarcações, que o infante D. Henrique fizera equipar, e que partiam sob o commando dos chefes mencionados, aos quaes o infante juntou Bartholomeu Perestrello.</p>
 <p>Descoberta a ilha da Madeira, havendo Zarco e Tristão Vaz ficado na ilha do Porto Santo entregues aos trabalhos da colonisação, voltou Bartholomeu Perestrello a Portugal em um pequeno navio, cujo capitão era Morales, e piloto Alvaro de Sousa.</p>
 <p>Estes dois homens seguiram desde então o mesmo destino, embarcando juntos e saindo muitas vezes de Portugal em demanda das novas terras que o incansavel genio do infante mandava procurar.</p>
-</div><div><head>XXX</head>
+</div><div type="chapter"><head>XXX</head>
 <quote>
 <l>E aqui se conta o romance</l>
 <l>D'uns amores mallogrados,</l>
@@ -852,7 +851,7 @@
 <p>O infante D. Henrique, que logo depois da expedição de Ceuta fizera tentativas para que os seus navios dobrassem o cabo Bojador, continuava a manda-los frequentemente para aquelles mares. Em uma d'aquellas embarcações partiu de novo Alvaro de Sousa, depois da ultima viagem que fez á Madeira, continuando a seguir por algum tempo uma vida aventurosa.</p>
 <p>Finalmeiite, no anno de 1430, Gil Eannes, natural de Lagos, saindo de Portugal para o mesmo fim, voltou trazendo ao infante uma planta Anastatica Hierochuntica, vulgarmente chamada Rosa de Jerichó (unico signal que podia dar-lhe de haver dobrado o formidavel cabo), que Alvaro de Sousa, piloto do seu navio, tendo descido á terra, havia colhido n'aquellas paragens.</p>
 <p>O infante recebeu esta nova com grande alegria, concedendo a Gil Eannes honras e recompensas. Quanto a Alvaro de Sousa, desejoso de continuar n'aquella vida tormentosa, partiu com o Cabral, que seguia para os mares do oeste, em demanda de novas terras, e só voltou a Portugal no anno de 1433.</p>
-</div><div><head>XXXI</head>
+</div><div type="chapter"><head>XXXI</head>
 <p>Para entender o pensamento do mosteiro de Santa Maria da Victoria cumpre ser portuguez, cumpre ter vivido com a revolução que poz no throno o Mestre d'Aviz.</p>
 <p>A. HERCULANO - A. Abobada</p>
 <p>O voto de D. João I achava-se cumprido. O real mosteiro de Santa Maria da Victoria, commumnente chamado da Batalha, obra sumptuosa concebida por um portuguez, mestre Affonso Domingues, estava edificado. Havendo cegado este famoso architecto, a rainha D. Filippa alcançou de seu marido que os trabalhos fossem continuados sob a direcção de um irlandez, seu protegida, mestre Ouguet. O mosteiro fôra levantado nos contornos do logar onde se déra a batalha de Aljubarrota, em um bellissimo valle fertilisado pelo rio Lena.</p>
@@ -864,7 +863,7 @@
 <p>Contra os desejos do condestavel fez-se o seu enterro com extraordinaria pompa, assistindo el-rei e os infantes ao seu funeral.</p>
 <p>D. João sentiu pvofundamente a perda de seu antigo companheiro de armas, a quem o povo ficou venerando como santo, visitando devotamente a sua sepultura.</p>
 <p>A filha unica de D. Nuno Alvares Pereira, D. Beatriz Pereira, que havia casado com o filho natural de D. João I, D. Affonso, conde de Barcellos, primeiro duque de Bragança, tinha precedido seu pae á sepultura, e deixara descendentes. Esta successão devia legar aquelle titulo de paes em filhos, até que, em 1640, o oitavo duque de Bragança, acclamado rei de Portugal com o nome de D. João IV, fosse o tronco da actual dynastia reinante em Portugal.</p>
-</div><div><head>XXXII</head>
+</div><div type="chapter"><head>XXXII</head>
 <p>Agora resta-me unicamente o morrer como soldado da cruz.</p>
 <p>A. HERCULANO -- Eurico</p>
 <p>Alvaro de Sousa desembarcava em Lisboa a 14 de Agosto de 1433. Aquelle dia tinha-lhe sem-</p>
@@ -894,7 +893,7 @@
 <p>A casa de Brites de Almeida não existia. Alvaro de Sousa foi então ao convento erguido sobre o terreno em que a grande batalha tivera logar. Depois de visitar o mosteiro entrou no templo. Ali orou por Margarida, por D.Violante, por Luiz de Sousa; orou por Frei Francisco, por Brites de Almeida; pediu ao céu o auxiliasse no seu proposito, e poz-se em caminho de Lisboa.</p>
 <p>Alguns dias depois de chegar áquella capital, recebia das mãos do seu antigo o cofre de prata, com as bellas joias que haviam feito o espanto do artifice que as havia cravado. Entrou então no seu quarto. Abriu a mala, tirou d'ella os cabellos de Margarida, e ajoelhando, beijou-os; e no mais santo recolhimento, fechou-os no cofre de prata, exclamando: «Faça-se o ultimo sacrificio! Recebei-o, Senhor!» E saindo de casa dirigiu-se á igreja do Carmo, onde jazia o condestavel, e ali entregando nas mãos do superior do convento o pequeno cofre com os cabellos de Margarida, pediu-lhe quizesse abençoa-lo e pô-lo aos pés da virgem, collocada no altar mór.</p>
 <p>Satisfeito este desejo, teve uma longa pratica com o mesmo religioso; finda a qual, voltou a casa do piloto. Tres dias depois saiu d'ali para não voltar. Desde esse tempo ninguem mais ouviu o nome de Alvaro de Sousa!</p>
-</div><div><head>XXXIII</head>
+</div><div type="chapter"><head>XXXIII</head>
 <quote>
 <l>...................entrei os muros</l>
 <l>Da veneranda Ceuta, insigue preço</l>
@@ -910,7 +909,7 @@
 <p>«Não é esta a primeira vez que eu piso as terras da Africa. Ha vinte e dois annos estive em Ceuta; habitei então esta mesma casa e recebi a hospitalidade de Fatima e de Rachel. Os seus beneficio seguiram-me até longe d'aqui. Agora, que os soldados de D. Duarte deviam passar os mares para combater de novo sobre estas paragens, eu, que me alistei na milicia de Christo, tive, como soldado obediente a meus superiores, que deixar o repouso do mosteiro, que habito ha quatro annos, para vir espalhar a religião de um Deus de paz entre os que a desconhecem. Chegando a Ceuta, o meu primeiro desejo foi visitar esta cabana, postoque estava certo de que os seus antigos moradores não podiam existir. Já cumpri o meu desejo; agora resta-me agradecer-vos a bondade com que haveis satisfeito o meu pedido.»</p>
 <p>E tendo-se despedido da moura, Frei Alvaro da Assumpção descia de novo o outeiro, dirigindo-se á praça.</p>
 <p>Em poucos dias a frota fazia-se de véla para Tanger. Frei Alvaro tinha embarcado na armada com o resto dos que compunham a expedição.</p>
-</div><div><head>XXXIV</head>
+</div><div type="chapter"><head>XXXIV</head>
 <quote>
 <l>Codro, nem Curcio, ouvido por espanto,</l>
 <l>Nem os Decios leaes fizeram tanto.</l>

@@ -69,12 +69,12 @@
 
 
 
-<div type="titlePage"><head>A casa dos fantasmas</head>
+<div type="titlepage"><head>A casa dos fantasmas</head>
 <p>VOLUME I</p>
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Uma noite desabrida</p>
 <p>Era de tarde. Tinham dado cinco horas, e o dia declinava rapidamente. O mez de maio do anno 1808, anno assignalado de successos estrondosos na peninsula, acabava, como tinha corrido quasi todo, entre diluvios de chuva e ventanias. A noite, cujos primeiros veus já começavam a cobrir as terras baixas, em quanto os derradeiros raios do sol esmoreciam na corôa dos outeiros, avisinhava-se, toldada de castellos de nuvens, que surgiam do sul, listrando o horizonte de barras cinzentas, rasgadas de espaço em espaço pelos clarões dos relampagos.</p>
 <p>O ar estava tepido, ou antes quente, e todos os ruidos se iam calando uns após outros. A immobilidade das aguas, que não arrugava o mais leve sopro; a das arvores, cujas copas pareciam petrificadas; e as sombras, que avultavam mais pesadas de instante para instante, revestiam a paizagem de um aspecto gelido. Uma lufada de vento, halito abrazado da tormenta, passava solta por cima dos campos, <pb n="8"/> acamando as hervas altas, destoucando os arbustos, e saccudindo as ramas das oliveiras, dos alamos, e das faias, e ia morrer distante no roncar soturno e rouco dos trovões. Algumas gotas, raras e grossas, caiam então, e a luz, offuscada por mais espessos vapores, sumia-se de subito para reviver depois, mas timida e desmaiada, sem alegria e sem calor. As aves fugiam, cruzando-se e pipitando; a solidão quasi que não tinha echos; e um silencio lugubre precedia a grande voz da tempestade, que ia principiar dentro em pouco.</p>
@@ -109,7 +109,7 @@
 <p>Uma escada empinada, de degráus toscos, verdadeiro quebra-costas, subia de um dos angulos para o andar de cima, aonde um alçapão erguido e quadrado abria as fauces, como se quizesse engulir os que entrassem. Era ahi a labutação principal do moinho. As mós, rodando e zoando, ensurdeciam casadas no ruido somnolento com a queda da levada, que por uma longa calha de pau descia da preza a ferir a roda, e d'esta, saltando em cachões dos baldes, ia espadanar no canal, d'onde fugia <pb n="14"/> ainda espumante a regar as hortas e as terras dos visinhos.</p>
 <p>Dois mochos de cerejeira brava, e uma poltrona de couro, roto e cossado, rodeavam no sobrado de baixo uma velha mesa de pau, collocada no meio do aposento por baixo da candeia de dois bicos. No meio d'ella um cangirão de aza larga, bojudo e vidrado, com sua tampa de cortiça guardava a agua-pé. Um copo de canada, limpo como crystal, um prato sobre toalha alva, meia broa de milho com um garfo de cabo de pau ao lado, e uma frigideira de sardinhas fritas annunciavam que a ceia do moleiro ía começar, quando fôra chamado. A navalha de mola e de ponta, um rôlo de tabaco de picar, e algumas aparas d'elle, assim como duas capas de papel de cigarros, estavam dizendo tambem o que elle fazia pouco antes da visita inopinada lhe bater á porta.</p>
 <p>Vejamos agora que razão de estado attrahia o mancebo a tal hora e por um tempo similhante áquella casa, e o que se passou alli n'esta noite fecunda em incidentes para os personagens, que temos de metter em scena.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>O moinho da Raposa</p>
 <p>O mancebo approximou-se da mesa, picou do rôlo uma porção pequena, enrolou o cigaro entre os dedos, e, depois de o accender á luz da candeia, assentou-se em um dos mochos, com os cotovellos fincados na tábua, e o rosto entre as mãos, não sem primeiro ter tirado do cinto um par de pistolas inglezas e uma faca de matto hespanhola, encubertas com as compridas abas do gabinardo, que trajava.</p>
 <p>Antonio da Cruz appareceu instantes depois.</p>
@@ -152,7 +152,7 @@
 <p>-- Buscam-o para o processar como rebelde desde o caso de Mafra. Tinham-se escondido na Aramanha, e esse villão do sargento Cabrinha, por trinta moedas prometteu entregal-o. Não o achando já alli, correu os arredores, e de certo o foi encontrar no Casal do Ouro pela denuncia...</p>
 <p>-- Do Sapo! Foi o Sapo, aposto! Por isso o patife andava desde hontem de orelha fita e focinho aguçado! Só ao moinho, aqui, veiu duas vezes! Ah! Se eu soubera! Partia-lhe outra perna. Não importa. O que não se acaba dia de S. Braz n'outro dia se faz. Não as perde.</p>
 <p>-- Antonio! Paulo de Azevedo não ha de entrar na cadeia da villa, nem na de Lisboa. Esta noite a «Casa Negra» terá outra historia talvez mais feia que juntar á sua. Aprompta-te! Á meia noite saímos. Pódes resar por alma do sargento, se o encontro!</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Duas paginas da historia d'este seculo</p>
 <p>Antes de proseguirmos, para maior clareza d'esta mui veridica narração, cujo fio poderia enredar-se com as explicações de todos os momentos, pedimos venia ao leitor para resumir em breve noticia os acontecimentos, que formam o fundo da pintura, ou antes do esboço, que nos propozemos traçar.</p>
 <p>A revolução franceza, representante das forças e interesses da humanidade, herdeira não só das aspirações e esperanças, mas tambem das dores e resentimentos de muitos seculos, saudada em 1789 com transportes de jubilo, em 1793 já tinha convertido a innocencia do primeiro enthusiasmo nos accessos febris de um patriotismo sombrio, dando o espectaculo, novo e incrivel, dos maiores crimes a par dos rasgos mais heroicos, e das virtudes mais sublimes.</p>
@@ -191,7 +191,7 @@
 <p>Correu sangue de parte a parte. Nas provincias os roubos impunes, os desacatos da soldadesca nas egrejas, e as tropelias de tropas licenciosas e pouco disciplinadas, ainda cansavam mais a paciencia publica.</p>
 <p><pb n="31"/> A sorte da capital e do Porto não era menos infeliz. Lagarde, detestado pela sua tyrannia na Italia, e Perrot assaz inventivo em oppressões, cobriam de uma rede de delatores os pontos, onde suppunham que podiam abrigar-se os seus adversarios, faziam leilão publico da clemencia, e abriam, ou cerravam as portas das prisões com chaves de ouro. Tinham pressa de enriquecer!</p>
 <p>Adivinhariam que o seu governo não havia de durar muito? Os factos provaram mais esta vez ainda os perigos de tão errado systema. Filho da violencia, apenas o desamparou a força que era o seu unico apoio, despenhou-se nos abysmos, que elle proprio afundára.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>O bem soa, o mal voa</p>
 <p>De ordinario voltam-se contra os poderes odiados os proprios meios empregados para algemar os povos. As visitas domiciliarias, as buscas, as denuncias, as multas, os encarceramentos, todos os instrumentos de tortura moral, em fim, excogitados pelo genio assolador de Lagarde, produziam effeitos contrarios aos que elle esperava colher, ulcerando o orgulho nacional, enfurecendo as populações, e predispondo-as para vingarem no primeiro ensejo todas as offensas de uma vez.</p>
 <p>Em Mafra, aonde um conflicto casual custára a vida, ou o sangue a alguns soldados de Junot, a crueldade da repressão, confiada ao general Loison, acabou de exasperar os animos. O desditoso Jacintho Correia expiou com o supplicio a culpa, quasi geral, da aversão aos invasores.</p>
@@ -231,7 +231,7 @@
 <p>Nunca lhe viam o trigo e o milho na eira, que não rosnassem por entre dentes: «Queira Deus que o meu compadre uma vez se não arrependa. De parceria com o demo nunca ninguem medrou!» O João, como bom christão, ouvia-os, suspirando, queixava-se da carestia dos tempos, que obrigava o pobre a fazer pão até das pedras, e ia attestando de saccos o celleiro, <pb n="42"/> dizendo sempre que muitas noites não podia pregar olho com o alarido infernal, que ía lá por cima.</p>
 <p>Dadas estas informações essenciaes, que o leitor benevolo desculpará, tornemos á nossa historia, e acompanhemos as diversas pessoas, que estão em scena, esperando por nós, tanto no Moinho da Raposa, como na Casa Maldita.</p>
 <p>Quanto aos honrados aldeões, apinhados defronte da porta do reverendo prior, não nos dê cuidado a sua inquietação. O parocho, consolando-os com duas maximas em mau latim de orelha, prometteu-lhes exorcismar, mesmo de longe o espirito maligno, e recommendou-lhes que se recolhessem e abafassem depressa, porque a noite estava medonha, e o anno corria infamado de pleurizes e catharraes. Dito isto lançou-lhes a benção da janella, e foi sentar-se á mesa para não deixar esfriar a ceia. As ovelhas imitaram o pastor, e meia hora depois, acalmado o alvoroço, reinava na aldeia o mais profundo socego, apenas interrompido pelos latidos de algum cão impertinente, e pelas rajadas da chuva e do vento, com que a tempestade açoutava as copas das arvores, e fustigava os telhados das casas.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Não ha atalho sem trabalho</p>
 <p>Transportemo-nos sem demora ao andar baixo da Casa Negra.</p>
 <p>As duas portas da fachada estão fechadas, mas um estreito postigo, que abre para o pateo, apenas se acha cerrado. Entremos por elle, e, seguindo o som das vozes, continuemos, apalpando no escuro as paredes, que se esfarelam de humidade pelo comprido corredor.</p>
@@ -279,7 +279,7 @@
 <p>Seguiram-se as explicações. O rendeiro com a voz macia, cujo timbre era quasi feminil, e aquelle ar de rir bondoso, que encobria tanta cousa, desculpou-se da triste companhia, que era obrigado a dar aos hospedes.</p>
 <p>Tinha encontrado, disse elle, Antonio Simões morto, apenas o conhecia de vista, mas não tivera animo de deixar o corpo de uma creatura de Deus exposto no caminho toda a noite. Não havia outra casa decente, aonde esperasse a sepultura christã, e o tempo e a hora não permittiam chamar o padre, e deposital-o na egreja. Ao passo que explicava isto, o compassivo João accendia de vagar duas vellas de cêra, amarelladas dos ocios da gavêta, e cravando-as nos castiçaes de estanho amolgados, punha uma aos pés e outra á cabeceira do morto, completando com todo o socego, e de proposito, a exposição funebre, que arripiava os circumstantes, e especialmente o sargento e seu confidente, constrangidos <pb n="54"/> a associar toda a noite o banquete e o somno dos vivos ao espectaculo do cadaver ensanguentado da sua victima. Se ambos podessem ler na alma do homem, que lhes estava falando, ainda haviam de tremer mais!</p>
 <p>Na mente d'elle tudo isto apenas era prologo!</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Ressurreição de Lazaro</p>
 <p>Decorreram minutos sem que as mandibulas de Estevam Cabrinha, deslocadas pelo terror, podessem volver ao estado natural. Nem articulava, nem balbuciava. Só a pouco e pouco é que se foi restaurando do susto, e maldizendo o Sapo, o rendeiro, e aquella funesta casa, regougou meio desvairado uma evasiva para desculpar o pavôr, que o accommettêra, e que não era senhor de disfarçar.</p>
 <p>Os seus nervos estavam tão delicados, que a vista do sangue e do cadaver, tirava-o de si, e tornava-o mais fraco, do que uma mulher! Entretanto fazia o possivel por ser homem; mas pedia por tudo o que havia de santo no céu e na terra, que o não obrigassem a velar a noite ao pé do morto, se em vez de um, não queriam enterrar dois cadaveres.</p>
@@ -323,7 +323,7 @@
 <p>Mas apezar dos accessos de valor, que lhe notámos, era malsim na alma e nos ossos, e a curiosidade prevaleceu. Antes de fugir quiz verificar de novo se os outros podiam fugir. A tremer pegou em uma véla e abriu as cortinas da cama de Paulo de Azevedo. Recuou pasmado. Estava vasia! Correu ao quarto immediato de Leonor; achou-o deserto! O unico preso, que não se bolira, fôra a inoffensiva e tropega Margarida! O sargento sentiu estalar uma cousa dentro do peito. Se tivesse coração diria que era o coração! Não o tendo acabou de se lhe varrer o sizo, e ficou por minutos estatico a contemplar aquella solidão, obra visivel do demonio.</p>
 <p>Por fim este ultimo golpe e uns suspiros <pb n="66"/> em tremulos, exhalados do outro lado da parede, venceram esses restos de vigor, que ainda conservára. Consumou o seu destino, e despejou o campo como os seus milicianos, porém com menos felicidade. Quiz descer a escada, os pés atraiçoaram-o, e mediu-a com as costellas de cima até baixo. Quando tornou a si com a dor, e por ella conheceu que vivia ainda, os seus olhos horrorizados perderam a luz de assombro e de pavor.</p>
 <p>No meio da casa o Manuel Simões da Aramanha, de pé, encarava-o sombrio e terrivel. Ao pé da mesa o fantasma branco, entrouxado nos lençoes, extendia o braço direito em ar de ameaça. Atraz d'elles João da Ventosa, mudo e inerte, e como gelado, apontava-lhe para o corredor, sem falar, como se o convidasse a fugir. Não poude mais. Atou as mãos na cabeça e caíu sem sentidos.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Segredos em toda a parte</p>
 <p>Os aposentos aonde Paulo de Azevedo Carvalho e sua filha foram encerrados, em um dos torreões do palacio, eram dos mais bem conservados. Os tectos não estavam arrombados; os filetes, que guarneciam as molduras das paredes, forradas de pannos de Arraz, ainda não tinham perdido de todo o ouro; e a humidade não acabára tambem de desvanecer inteiramente as tintas dos quadros de caçadas, batalhas e scenas campestres, representados na tela. Apezar de velhos e de ennegrecidos, os moveis ainda resistíam em parte aos seculos e ao caruncho.</p>
 <p>O venerando leito de cabeceira de talha alta e columnas enroscadas occupava o centro da primeira casa, e podia quasi dizer-se um edificio, um monumento, pelo descommunal das proporções. Um pesado baldaquino de seda desbotada cobria o céu da cama, e largas cortinas do mesmo estofo desciam dos lados a arrastar pelo chão.</p>
@@ -372,7 +372,7 @@
 <p>-- Para Lisboa. Para o covil do Lobo. Aonde menos cuidem que póde estar, ahi será o mais seguro.</p>
 <p>Paulo inclinou a cabeça e seguiu-o com sua filha.</p>
 <p>O espelho fechou-se. Quando o sargento veiu não achou nem o rasto de seus presos.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Entre os bastidores</p>
 <p>Lá sabemos como Leonor e seu pae conseguiram evadir-se sem as chaves da prisão saírem do bolso do carcereiro. Agora cumpre-nos explicar a resurreição dos mortos na casa maldita, e esboçar em duas palavras a biographia do intrepido espectro, que, mascarado em alma do outro mundo para assustar os valorosos milicianos da comarca, ás ordens do sargento, baqueou das andas abaixo, transido de pavôr, por achar o defunto, de pé tendo-o visto entrar em braços dos creados.</p>
 <p>Nos acontecimentos d'esta infausta noite para os agentes da policia franceza, o morto-vivo e o espectro medroso representaram um papel, que os torna dignos de nos demorarmos com elles por algum tempo.</p>
@@ -508,7 +508,7 @@
 <p>-- Está bom! Está bom! Até logo! Com que viste o defunto e o fantasma?... insistia o moleiro serio e apprehensivo, olhando para o amo com certo enleio.</p>
 <p>-- Como o estou vendo a você, sôr Antonio. Credo!...</p>
 <p>Manuel Coutinho encolheu os hombros, conchegou o capote e saíu. O Antonio não teve mais remedio senão seguil-o, mas apezar de todo o seu valor benzeu-se, e o coração batia-lhe mais rijo no peito, do que se visse um touro partir contra elle enfurecido.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Que talvez podesse servir de prologo</p>
 <p>Deixemos descançar por um pouco os heroes d'esta mui veridica historia, em quanto corremos rapidamente os olhos pelos successos, de que a Peninsula foi theatro n'este periodo memoravel.</p>
 <p>Sem um resumido esboço, dos factos, que servem de fundo e de moldura ao quadro, difficilmente formará o leitor exacta idéa d'elle.</p>
@@ -554,7 +554,7 @@
 <p>Olhou. Não viu em volta de si, senão odios mal reprimidos, ou adhesões falliveis e compradas. A pobreza e a miseria, filhas do bloqueio, que paralysava o commercio, tornavam ainda mais critica a sua posição. O cambio do papel moeda subira a 31 e a 32 por cento; o pão custava 75 réis o arratel. A carestia dos generos, tornando a vida difficil e dolorosa para as classes indigentes, aggravava o descontentamento geral. A Junta dos Tres Estados, reunida para pedir um rei a Napoleão, proporcionou ao juiz do povo José de Abreu Campos, a occasião appetecida de manifestar os verdadeiros sentimentos do paiz, desenganando o duque de Abrantes, de que se achava só e detestado com o seu exercito no meio de populações hostis, que suspiravam pela hora de restaurar a liberdade e o throno de seus principes.</p>
 <p>No mez de junho estavam dissipadas todas as illusões. Admirado do arrojo com que paizanos quasi sem defeza se arriscavam ao encontro de legiões aguerridas, Junot exclamava: «Portuguezes! Que delirio é o vosso? Em que abysmo de males vos despenhaes? Ao cabo de sete mezes de paz e harmonia, porque razão correis ás armas?» Concluindo com a lei marcial, ameaçava as villas e cidades com o saque e o incendio, e os cidadãos com a morte!</p>
 <p>Se estivesse mais lembrado da sua juventude deveria recordar-se do modo por que a França respondêra heroicamente aos que lhe apontaram a espada ao peito dizendo o mesmo.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Tolda-se o tempo</p>
 <p>Transportemo-nos um pouco antes dos successos esboçados nas paginas antecedentes aos paços da inquisição, situados no Rocio de Lisboa, aonde hoje ergue o seu frontão votado ás Musas o theatro de D. Maria II. Em algumas das salas e aposentos do antigo palacio dos Estáos, restaurado pelo marquez de Pombal, assentou Lagarde as repartições da policia geral do reino. Era justo! Ao lado do santo officio da fé o santo officio da usurpação. As duas inquisições fraternalmente hospedadas uma a par da outra não podiam offender-se do acaso que as unia! Soldados da guarda real da policia, corpo fundado e disciplinado pelo conde de Novion, emigrado francez que as victorias de Bonaparte e a invasão de 1807 lançaram outra vez nos braços dos seus compatriotas, guardavam as portas de fóra, ou de espadas em punho vigiavam os corredores e camaras, que precediam o quarto reservado aonde o proconsul se encerrava com os seus confidentes.</p>
 <p>Deixemos passar esses vultos, que pisam os <pb n="112"/> sobrados nas pontas dos pés, escorregando quasi como sombras. São rodas secundarias da machina. O olhar enviezado e inquieto, o rosto meio escondido na dobra do capote, e a humildade rasteira denunciam, sem necessidade de mais exame, os delatores obscuros, ou os agentes provocadores, destacados nas ruas e praças, ou nas tavernas para escutar e repetir os clamores de indignação das multidões. Esperemos que algum personagem de elevada gerarchia appareça, e nos introduza no gabinete discreto e só accessivel a poucos eleitos, aonde o magistrado estrangeiro conta as pulsações do coração de Portugal, e segue com a vista fria e penetrante os estremecimentos de cholera, ou de impaciencia do paiz, cançado da oppressão e envergonhado do silencio, em que a supporta ha sete mezes!</p>
@@ -634,7 +634,7 @@
 <p>-- Meu querido senhor Lagarde, o homem que ha de prender Junot... não está de certo no Conselho Conservador de Lisboa! Redarguiu o ministro rindo. Socegue!</p>
 <p>Momentos depois o intendente tocava a campainha, e por ordem sua um porteiro introduzia no gabinete o sargento Cabrinha e <pb n="126"/> o seu assessor Gaspar Preto, por alcunha o Sapo.</p>
 <p>Saberemos a seu tempo o que alli vinham fazer aquellas duas boas almas.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Achilles e Nestor</p>
 <p>Em quanto no palacio do Rocio se representava a scena, a que assistiu o leitor, em uma casa, situada quasi no arrabalde, perto de Campo de Ourique, no qual trabalham ranchos de operarios sem repouso a levantar um acampamento militar para as tropas francezas, que Junot recolhe das provincias, e concentra na capital, iremos encontrar alguns dos personagens, que deixámos na Ponte de Asseca, n'aquella tempestuosa noite, que viu as proezas do sargento Cabrinha, a evasão de Paulo de Azevedo, e as artes diabolicas do astuto lavrador João da Ventosa.</p>
 <p>Estava formoso o dia, mas quente. Nem um leve sopro de aragem meneava as cortinas de caça, que por detraz das quatro janellas da frontaria substituiam os modernos e elegantes stores. A casa, de um só andar, caiada de branco, pintada de verde claro em todas as portas, grades, hombreiras, e maineis respirava aceio e alegria. Um muro baixo rodeava o jardim, d'onde as rozas de trepar, as baunilhas, e outras plantas, subindo pelas paredes, <pb n="128"/> vinham debruçar do espigão seus festões floridos e recendentes.</p>
@@ -715,7 +715,7 @@
 <p>-- Hei de cumprir a minha palavra como homem de honra, mas depois, sr. bispo!...</p>
 <p>-- Depois... O que Deus quizer! Dá o mundo tantas voltas em poucas horas, Manuel Coutinho, que nos deitâmos rapazes, e ás vezes accordamos velhos. Deixe andar os homens e as cousas. Creia no tempo. É grande medico. Adeus! Vou tractar de uma doença, que dá maior cuidado... Portugal está enfermo e não póde esperar.</p>
 <p>E despedindo-o com um sorriso e um aceno de mão cheio de bondade, o velho prelado entrou para um aposento terreo, cujas portas de vidraças abriam sobre o jardim, em quanto o mancebo voltou em busca da escada de pedra, que subia para as salas do primeiro andar.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Arcades ambo!</p>
 <p>-- Está certo do que affirma? Veja lá!... A policia não gosta de representar papeis tristes, e um erro nas circumstancias actuaes póde ter consequencias... Repita! Viu os homens? Sabe o seu intento?...</p>
 <p>-- Vi, sim senhor! Largava a falua quando eu cheguei, e por um triz me não apanham!... Sempre curti um medo! A gente não ganha para sustos...</p>
@@ -776,7 +776,7 @@
 <p>Virando-se depois para os agentes, que aguardavam calados as suas ordens, acrescentou:</p>
 <p>-- Sargento! Estamos na pista de um trama complicado. Fique em Lisboa com este homem, e procure hoje de tarde o meu secretario Loisy. Elle lhe dirá o que ha de fazer.</p>
 <p>Estas palavras, e o gesto do ministro avisaram os dois, de que a audiencia estava terminada. <pb n="146"/> Saíram logo, mas ainda Lagarde não tinha tido tempo de percorrer com os olhos um papel, que acabavam de lhe entregar, abriu-se uma porta particular, e entrou no escriptorio um mancebo, de rosto jovial, vinte oito annos de edade, e figura esbelta, realçada pelo uniforme de official de cavallaria, trajado com garbo. Era seu sobrinho Armand de Aubry.</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Dois parentes</p>
 <p>O intendente accolheu o recem-chegado com um sorriso, e extendeu-lhe a mão com amizade. Aubry apertou-lh'a sem ceremonia, encarou-o com ar malicioso por momentos, e disparou-lhe depois na cara a mais longa e estrepitosa risada, que de certo tinham ouvido aquellas paredes, desde que a Santa Inquisição reinava dentro d'ellas.</p>
 <p>-- Ah! Ah! exclamou fazendo esforços em vão para se reprimir. Que duas figuras unicas, que duas corujas agoureiras acabo de encontrar no corredor!... Pelo que vejo a procissão de ámanhã leva anjos, demonios, serpentes, e até estafermos do mais curioso feitio. Estes dois são magnificos. Sobre tudo um... o mais baixo. É admiravel!</p>
@@ -864,7 +864,7 @@
 <p>-- Jesus, que ares tragicos, meu tio! Pela sua vida não represente de tyranno. O papel cai-lhe mal. Dê-me essa missão a mim. Adoro as aventuras, e Cazote é o meu idolo... Quem sabe se irei lá encontrar algum diabo amoroso?</p>
 <p>-- Pois bem, irás! atalhou Lagarde sorrindo. Mas já te previno. O que lá acharás são morgados lorpas, e rebeldes endurecidos. Agora adeus. Não te esqueças. Ao meio dia em ponto!</p>
 <p>-- Ao meio dia em ponto! respondeu o sobrinho, saudando-o, e saindo.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Amor</p>
 <p>Quando Manuel Coutinho assomou aos umbraes da porta do aposento, acabava Leonor de lêr uma carta de seu pae, escripta com a firmeza de animo, que tornava tão nobre o caracter do velho cavalheiro. Da sua prisão do castello, com a morte eminente e a vingança de poderosos inimigos suspensa sobre a cabeça, falava Paulo a sua filha com o mesmo socego, com que o faria solto e desaffrontado. Nem uma queixa! Nem um indicio de tristeza, ou desalento! Ausente em uma viagem longa, ou distraído em uma partida de caça, não tractaria com indifferença mais soberana as vigilias e amarguras do carcere.</p>
 <p>Dizia-lhe que o seu processo, apressado a principio pelo odio, agora coxeava, retido por mão occulta. Zombava da vigilancia, com que era guardado, attribuindo-a á scena comica da sua evasão no palacio da Ponte da Asseca.</p>
@@ -918,7 +918,7 @@
 <p>E impellindo-o com maviosa brandura obrigou-o a entrar para o gabinete, cuja porta de vidraças recatavam duas cortinas de seda despregadas quasi até ao chão.</p>
 <p>Depois, levando a mão ao peito, como se quizesse contel-o, alçou a vista com expressão sublime e magoada, e aguardou que a porta se abrisse.</p>
 <p>Não tardou. Lagarde d'ahi a um instante appareceu entre os umbraes.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Cubiça e Nobreza</p>
 <p>O intendente geral da policia era homem de sala. No tracto usual ninguem o excedia em delicadeza.</p>
 <p>Apenas apontou ao limiar, inclinando-se profundamente, adeantou-se com o chapéu na mão. Com o sorriso estereotypado nos labios beijou a mão, que Leonor de pé, séria, e grave, nem lhe estendeu, nem lhe recusou.</p>
@@ -1021,12 +1021,12 @@
 <p>E o prelado entrou afadigado e tremulo de jubilo no aposento, aonde os dois lhe abriam os braços não menos alvoroçados.</p>
 <p>FIM DO PRIMEIRO VOLUME</p>
 <p>NOTAS AO PRIMEIRO VOLUME</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>O poder do ministro eclipsou-se com o ultimo suspiro do principe e, com elle expiraram as tradições viris e os commettimentos reformadores... pag. 24.</p>
 <p>O governo do marquez de Pombal abrangeu todo o reinado de el rei D. José I. Varios, e mais ou menos parciaes, foram os juizos dos contemporaneos ácerca da administração severa, intolerante, e absoluta, mas a muitos respeitos fecunda e reorganizadora de Sebastião José de Carvalho e Mello. A obra, que emprehendeu, o rejuvenescimento da unidade monarchica sustentado pelo apoio das classes medias devia encontrar, e de feito encontrou, a opposição dos privilegios, dos abusos, das hypocrisias, e do fanatismo. No paço a familia real, nos gremios puritanos da nobreza os fidalgos mais poderosos, nas corporações religiosas a companhia de Jesus, declararam guerra mortal e incessante ao ministro, aos seus actos, e ás suas tendencias. Para a familia real Sebastião José de Carvalho era quasi um inimigo da força e da consciencia do rei. Para a nobreza arrogante e affeita a dominar o poder despotico de um ministro, que não acurvava as vontades, ou as leis ao aceno imperioso dos eleitos de sangue azul era um peão fidalgo, insolente e soberbo, que importava derrubar e punir o mais depressa possivel. Finalmente, para os jesuitas, cuja influencia dilatada nos ultimos annos de valimento durante o reinado de D. João V, não consentia emulos, e muito menos peias, os planos atrevidos do secretario d'Estado, representando ameaças e perigos perennes para a prosperidade da sociedade, equivaliam a um cartel, que a todo o <pb n="180"/> transe convinha acceitar e concluir pela derrota do orgulhoso sob pena de aplanar aos adversarios os caminhos do triumpho.</p>
 <p>A firmeza do rei, o prestigio que a auctoridade monarchica possuia ainda, e a intrepidez do ministro venceram estas resistencias colligadas. Por que preço, porém? Que o digam os carceres e prisões povoadas de suspeitos, réos apenas muitos d'elles de alguma opinião mais livre. Que respondam os processos, as alçadas, os degredos, e os supplicios, paginas luctuosas de um governo inexoravel e vingativo. Copiando do cardeal de Richelieu até as perfidias cruentas, Pombal assignalou com um rasto patibular as principaes estações da sua administração. Por fim escorregou e caiu no sangue vertido muitas vezes sem necessidade. Os horrores, que afogaram nos tratos e crueldades da praça de Belem a famosa conspiração de 1758, a expulsão dos jesuitas; os castigos atrozes contra os tumultuarios do Porto; a execução de João Baptista-Pelle; o encarceramento prompto e perpetuo de quantos podia receiar como rivaes, ou como censores pelo nome, pela integridade, pela jerarchia, ou pela sciencia são nodoas indeleveis e accusadoras, que não apagam o merecido elogio de outros actos, nem a recta e desassombrada apreciação de suas reformas uteis e opportunas.</p>
 <p>O marquez de Pombal tentava em parte o impossivel. Não admira, por isso, que na queda arrastasse comsigo quasi tudo o que nos monumentos do seu governo era fragil, instavel, e transitorio. A monarchia pura tinha envelhecido muito e depressa para ser exequivel salval-a por meio da transfusão de idéas e principios repugnantes á sua índole, contrarios aos preconceitos e crenças do povo e das classes elevadas, e sem base firme em que assentasse uma construcção duravel. Os tres reinados de D. Affonso VI, D. Pedro II e D. João V adeantaram a tal ponto a caducidade, que os milagres do genio, e os prodigios da vontade o mais que poderam conseguir foi suspender a dissolução espaçando até ao fim do reinado seguinte a revolução eminente. O ministro absoluto serviu-se em muitas occasiões do poder como de uma arma cega e demolidora, e a ferro e fogo imaginou transformar a sociedade decrepita e moribunda em uma sociedade nova, e vigorosa e viril, filha legitima das grandes idéas philosophicas <pb n="181"/> fadadas á conquista do futuro. Suas leis e seus esforços provam a elevação do pensamento e a intensidade dos bons desejos; mas do que elle decretou ficou de pé sómente o corpo logo tornado cadaver. O espirito... não eram aquelles ainda os dias da sua victoria nem os seus meios de persuasão. Por isso com o ultimo suspiro de D. José I baqueou não só o poder, mas subverteram-se em grande parte até as idéas representadas pelo marquez de Pombal.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Um gabinete quasi todo composto de aulicos, sujeito ao voto do confessor valido substituiu o mando odiado do marquez... pag. 24.</p>
 <p>A rainha D. Maria I contava, quando subiu ao throno, quarenta e tres annos de edade. Nascida e educada para reinar houve um momento, em que seu pae, segundo se affirma, concebeu a idéa de proclamar a lei salica, cingindo a corôa na fronte juvenil do principe D. José. Acclamada em 13 de maio de 1777 com D. Pedro III, esposo e tio, o primeiro acto do seu governo foi um acto de clemencia. Mandou abrir as prisões e soltar os presos d'Estado. Chamou dos longos desterros, em que jaziam, a muitos varões respeitaveis pelos annos, pelo caracter, e pela jerarchia. Menos feliz do que Richelieu e Colbert o marquez de Pombal assistiu vivo ás exequias do seu poder e á demolição da sua obra.</p>
 <p>Demittido dos principaes empregos exercidos por largo tempo, teve o marquez por successores na presidencia do real erario o marquez de Angeja, cuja lealdade D. José I attestára espontaneamente recolhendo-se a sua casa na fatal noite de 3 de setembro de 1778; na secretaria d'Estado dos negocios do reino, o visconde de Villa Nova da Cerveira; na dos negocios estrangeiros e da guerra Ayres de Sá; e na repartição da marinha e ultramar Martinho de Mello e Castro.</p>
@@ -1037,7 +1037,7 @@
 <p>Modesto nas idéas e nos commettimentos, o gabinete da rainha creou a junta do codigo civil, cujos trabalhos nunca viram a luz da estampa; fundou a Academia Real das sciencias; estabeleceu os estudos de primeiras lettras e humanidades nos claustros das corporações regulares; instituiu a casa Pia para asylo das creanças orphãs; dotou as aulas de Fortificação e a Academia de Marinha; e decretou novas estradas e meios de as executar sob a direcção de José Diogo de Mascarenhas Netto.</p>
 <p>A entrada de D. Rodrigo de Sousa Coutinho no ministerio em principios de 1797, por morte de Martinho de Mello, introduziu na administração um elemento activo, emprehendedor, e dedicado por indole e tendencias a arriscar planos mais vastos e mais altos muitas vezes, do que o consentiam as circumstancias e as forças debilitadas da monarchia.</p>
 <p><pb n="183"/></p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Os tres sujeitos eram nada menos, do que tres delegados do conselho conservador de Lisboa, associação composta de patriotas dedicados á restauração da independencia, etc., pag. 88.</p>
 <p>A existencia d'esta sociedade secreta politica não é uma invenção. Saiu á luz dos prelos da imprensa regia um opusculo de 24 paginas de 8º, com a seguinte denominação Catalogo por copia extrahido do original das sessões e actas feitas pela sociedade de portuguezes, dirigida por um conselho intitulado conselho conservador de lisboa, e installada n'esta mesma cidade em 5 de fevereiro de 1808; tendo se unido os installadores em 21 de janeiro do mesmo anno para tractar da restauração da patria.</p>
 <p>O conselho fundou-se em 5 de fevereiro de 1808 com seis socios que eram: G... Matheus Augusto, José Maximo Pinto da Fonseca Rangel, José Carlos de Figueiredo, Antonio Gonçalves Pereira, André da Ponte do Quental da Camara; José Maximo da Fonseca foi nomeado secretario. O local das reuniões decidiu-se que fosse alternadamente a casa de cada um dos adeptos. A hora das conferencias ás 8 da noite.</p>
@@ -1047,7 +1047,7 @@
 <p>Os planos de sublevação, as proclamações, os avisos ao almirante inglez sir Charles Cotton, e os projectos da sociedade não corriam tão secretos como elle imaginava.</p>
 <p>A policia franceza suspeitava, pelo menos, se não conhecia plenamente a organização d'este nucleo; porém não julgou prudente proceder contra elle, temendo-se talvez mais de um processo ruidoso em circumstancias criticas, do que dos tramas pouco bellicosos e activos dos conspiradores. É o que se deprehende de um trecho da Historia da Guerra da Peninsula do general Foy.</p>
 <p><pb n="185"/></p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Muitos homens illustrados, que o grandioso espectaculo dos acontecimentos advertia, suspiravam por uma renovação, que nunca podia ser inspirada, bem o sabiam por experiencia, nem pelas idéas, nem pela iniciativa de um governo caduco pag. 101.</p>
 <p>Allude-se no texto ao plano de uma constituição similhante á que Napoleão I concedêra ao grão-ducado de Varsovia, plano concebido, segundo affirma o general Foy, no liv. II da sua Histoire de la Guerre de la Peninsule, por alguns patriotas portuguezes, desejosos de colherem ao menos da intrusão estrangeira os beneficios da liberdade.</p>
 <p>O general Foy cita como auctores principaes do plano o desembargador Francisco Duarte Coelho, o doutor Ricardo Raymundo Nogueira, reitor do Collegio dos Nobres, e o conego Simão de Cordes Brandão, lente de direito natural e das gentes na Universidade de Coimbra, e insere nas provas sob a lettra J o projecto de codigo politico, que então se queria pedir a Bonaparte. (Tomo II, edição de Paris pag. 38 e seguintes e pag. 469 e seguintes).</p>
@@ -1059,14 +1059,14 @@
 <p>Esta voz isenta proclamando a emancipação politica offendeu os ouvidos do duque de Abrantes. O juiz do povo, chamado ao quartel general, foi asperamente reprehendido, e varias pessoas, suspeitas de liberaes, mandadas sair de Lisboa.</p>
 <p>Prevaleceu assim a mensagem servil dictada á simulada junta da nação. José Sebastião de Saldanha partiu encarregado de a apresentar a Napoleão I. Achando, porém, já interceptadas as communicações da Hespanha com a França, recolheu a Lisboa sem ter podido passar adeante da cidade Rodrigo.</p>
 <p><pb n="187"/></p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Deixemos passar esses vultos, que pisam os sobrados nas pontas dos pés, escorregando quasi como sombras. São rodas secundarias da machina, pag. 111 e 112.</p>
 <p>O general Junot, intitulando-se nos seus actos governador de Paris, primeiro ajudante de campo de S. M. o imperador e rei, e general em chefe do exercito invasor, compôz desde principio e da maneira seguinte o pessoal do governo em Lisboa:</p>
 <p>Por decreto datado de Lisboa no 1.º de dezembro de 1807, nomeou Francisco Antonio Herman commissario do governo francez junto do conselho do reino de Portugal, o qual lhe daria conta de todas as suas deliberações, podendo assistir a ellas, querendo, e assignar as actas. Por decreto de 3 de dezembro, do mesmo anno foi Herman incumbido tambem da administração geral da fazenda. Em 8 de dezembro foi encarregado o general Laborde do commando superior de Lisboa e o conde de Novion do commando das armas da cidade. O marquez de Alorna recebeu a nomeação de inspector geral e commandante das tropas nas provincias de Traz os-Montes, Beira e Extremadura (22 de dezembro de 1807).</p>
 <p>J. J. Magendie já exercia as funcções de commandante em chefe da marinha em 1 de março de 1808, como consta de um aviso seu aos officiaes da arma, e aos empregados do porto de Lisboa, expedido n'essa data. P. Lagarde foi nomeado intendente geral da policia do reino em 25 de março de 1808, por decreto de Junot, referendado pelo secretario de Estado dos negocios do interior e da fazenda, Francisco Antonio Herman. Por decretos da mesma data nomeou Junot corregedor-mór da Extremadura a mr. Pepin Bellisle, auditor do conselho de Estado, da provincia do Alemtejo a mr. Lafond, e da provincia de entre Douro e Minho a Taboureau, ambos tambem auditores do conselho de Estado. Quintella foi feito corregedor-mór da Beira.</p>
 <p>O decreto, que approvou as instrucções dictadas a estes novos magistrados, sahiu com a data de 2 de <pb n="188"/> abril de 1808. Por decreto de 16 de abril do mesmo anno foi Lagarde nomeado conselheiro do governo para assistir ás sessões do conselho. A 16 de abril já o general Junot havia recebido de Napoleão o titulo de duque de Abrantes.</p>
 <p>VOLUME II</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>Quando Deus queria... do norte chovia</p>
 <p>A procissão do Corpo de Deus, em Lisboa, era talvez a festa religiosa mais solemne da cidade. Nossos avós, e sobre tudo nossas avós, preparavam-se para ella mezes antes, e nas vesperas do grande dia as costureiras, os alfayates, e os cabelleireiros viam-se doidos com as impertinencias, recados, e instancias. É que todas as sumptuosidades da mobilia, toda a prata mareada das baixellas, todo o recheio das arcas e armarios tinha de apparecer e luzir n'aquella bem vinda festividade, que abria as portas das casas e o seio das familias a uma verdadeira inundação de visitas, de conhecidos, e de curiosos. As janellas das ruas, por onde passava o prestito do bemaventurado S. Jorge, santo cavalleiro e general ao serviço de Portugal desde os tempos heroicos de el-rei D. João I, em odio a Castella e como pirraça ao senhor Santiago, convertiam-se em outros tantos camarotes armados de sanefas e listões de purpura nas vergas <pb n="6"/> e ombreiras, forrados de colchas da India e de cobertas de seda da China.</p>
 <p>O copo de agua, que era costume offerecer aos convidados, despejava as lojas mais sortidas dos confeiteiros e conserveiros da moda. O jantar, ao qual se assentavam os hospedes mais aceitos, só com a vista fartaria a gula mais faminta. As galas devotas espertavam a emulação, e as bolsas mais discretas e apertadas não se negavam por excepção aos maiores sacrificios para que vestidos, joias, e toucados brilhassem ao menos uma vez no anno com esplendor digno da vaidade e ufania de seus donos.</p>
@@ -1095,7 +1095,7 @@
 <p>Não ha pincel, nem tintas que possam desenhar quadro tão medonho! Os gemidos, os choros, as quedas, contrastam a cada minuto com os lances comicos e os episodios risiveis. O medo inspira os ardis mais burlescos. O desespero suggere os arbitrios mais violentos.</p>
 <p>As ruas e travessas proximas, similhantes a canaes rotos á furia das aguas, engolem e despejam incessantemente os bandos variegados dos fugitivos, entre os quaes a egualdade do terror acotovella os commendadores e os togados com o operario, o frade e o farricouco pelo judeu transido, ou pela collareja <pb n="16"/> tão veloz nos passos, como solta de lingua e prompta de gestos.</p>
 <p>Capotes, cabelleiras, chinós, sapatos, abas de fardas e de casacas, canhões e gollas bordadas, lenços, cintos, farrapos, de todas as telas e de todos os matizes em fim, coalham este campo de batalha, aonde os mortos, felizmente, isto é os que baqueiam, resuscitam logo ao beijarem o chão, e se levantam para disputar celeridade aos mais ligeiros. No meio dos alaridos e dos estrepitos, do centro d'este cahos ruidoso de furias, bramidos, e uivos bestiaes, vozes tremulas e roucas de susto, em perguntas e replicas instantaneas, exclamam confusas e lugubres: «O terremoto! Os inglezes! As ruas minadas!»</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>De um argueiro um cavalleiro</p>
 <p>As vozes, o espanto, o terror, e o tumulto das ruas, todas as apparencias, em fim, inculcavam a cidade sublevada e as apprehensões de Lagarde confirmadas.</p>
 <p>O denodo e a presença de espirito de Junot não o atraiçoaram n'este lance. Descendo os degraus da escadaria á pressa, emquanto o intendente da policia se emparedava e calafetava no gabinete secreto, o duque de Abrantes atravessa intrepido por meio das ondas revoltas do povo, rompe pelo centro d'ellas até á egreja, corre á sacristia, e á força de estimulos e persuasões consegue arrancar d'aquelle asylo pouco seguro o prelado e os sacerdotes, que tremem de medo, e que julgam chegada a sua ultima hora.</p>
@@ -1122,7 +1122,7 @@
 <p>Cabrinha tornando a si, e os beleguins moidos e estirados, soltavam gritos espantosos, bradando pelo soccorro da justiça. Respondeu-lhes a bengala magistral do tambor mór, e a bainha de ferro da espada do alferes, vingando com raiva incansavel o riso e as vaias da queda desastrada no dorso dos delinquentes. O mais agil dos dois, o homem-grelo, fulo de dor, e cego de medo, para se furtar ao chuveiro de bastonadas, que não cessava de lhe afagar as costellas, atirou-se de um pulo, ao meio do prestito, abalroou um desditoso cruciferario banhado em suor, e encontrando-o em cheio, rolou com elle. Amotinou-se o <pb n="24"/> vulgo, ferveram juras, ameaças, e punhadas, e um patriota, que espreitava a occasião, lembrou-se de açular a desordem, exclamando: «Fujam! fujam! Ahi vem os inglezes!» Não foi preciso mais. O espanto e o terror obraram prodigios. A multidão precipitou-se, e o tumulto tomou as proporções, que sabemos.</p>
 <p>Em quanto nos quarteirões da cidade baixa se representavam estas scenas, corriam os tres auctores do motim direitos ao caes hoje chamado da Areia. Chegados em poucos minutos viram uma falua do Riba-tejo de verga de alto, e o arraes, seu conhecido, metteu-os dentro sem mais perguntas. D'ahi a pouco navegavam rio acima, e o Sapo, sempre hypocrita e vil, estorcia-se aos pés dos inimigos triumphantes, chorando e supplicando, com prantos mulherís! Mas o Manuel Simões apontava-lhe para a cicatriz da bala, com que o ferira na cabeça, o João da Ventosa encolhia os hombros, e o Antonio da Cruz, grave e conciso, como um juiz do crime, mandava-o calar, jurando-lhe que a arvore e a corda estavam promptas, e não podiam esperar, e que a sua palavra, uma vez dada, havia de ser cumprida. O arraes e os marujos, um ao leme, e dois á proa, assobiavam como se não vissem, ou não ouvissem nada.</p>
 <p>O vento soprou de feição, e ás dez horas da noite a falua atracava a Villa Franca.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Um conciliabulo politico</p>
 <p>no anno de 1808</p>
 <p>Voltemos á ponte da Asseca, de que ha tanto estamos ausentes.</p>
@@ -1157,7 +1157,7 @@
 <p>-- Ao milhafre atira-se, sr. Mannel Coutinho, gritou o bellicoso servo de S. Francisco, ferindo a mesa com o punho cerrado. Bons caçadores temos, e se for preciso, Deus pela sua infinita misericordia fará um milagre em nosso favor.</p>
 <p><pb n="35"/> -- Nada de milagres! accudiu o capitão-mór de ordenanças, Manuel Carranca, o qual, rouco de gritar, aproveitava o incidente para locupletar com duas valentes inspirações o pulmão estafado. Nada de milagres! Se v. s.a rev.ma julga, que os francezes fogem com estolas, hyssopes, e caldeirinhas de agua benta, engana-se redondamente. Vá a Leiria, e lá lhe dirão de que serviu o bello cantoxão do bispo e dos clerigos!... Safa! Tenho ainda nos ouvidos os bérros das peças de artilheria, e os alaridos d'aquelles malditos granadeiros... Pareciam gatos a marinhar e leões a arremetter...</p>
 <p>Esta apostrophe, sem desmaiar a resolução dos ouvintes, tornou mais grave o rosto de alguns. Houve até quem applaudisse com um aceno de cabeça assaz expressivo a rustica e quasi impia declaração do capitão-mór. As momices bellicosas e varias do franciscano começavam a aborrecel-os. Veremos no capitulo seguinte a verdade do adagio: Pela fructa se conhece a arvore!</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Reina a confusão no campo de</p>
 <p>Agramante</p>
 <p>Fr. João era o mais irado, ou antes, era o unico irado. O seu labio superior, extendido como tromba cresceu, e a barba de tres andares descaíu-lhe com o beiço de baixo quasi até o peito, signal manifesto de seu despreso. O suor da colera, colera de frade, oleosa e leveda, inundou-lhe a testa. As pupillas faiscavam.</p>
@@ -1221,7 +1221,7 @@
 <p>-- Lá está o João da Ventosa com elles à fala! observou o major, que espreitava á janella: Apeiam-se! A ceia que os espera ha de custar-lhes a digerir.</p>
 <p>-- Deram-nos tão mau almoço em Leiria, atalhou rindo o coronel, que lhes devemos esta ceia. Vamos ensaiar os nossos papeis.</p>
 <p>D'ahi a um momento estava deserta a vasta sala. Os conspiradores tinham desapparecido por uma porta falsa, aberta na parede com tal arte, que ninguem seria capaz de a descobrir.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Francezes á meia noite</p>
 <p>Em quanto Manuel Coutinho e seus amigos traçavam á pressa o plano, que acabámos de escutar, os dois officiaes francezes batiam, chamando o lavrador com a auctoridade de quem mandava.</p>
 <p>João da Ventosa e Manuel Simões conservavam-se ainda na mesma posição, mas os canecos tinham ido tantas vezes á fonte do cangirão, e o summo da cepa fôra tão seductor, que, apezar de suas dimensões respeitaveis, o alentado vaso estava quasi no fundo. A lingua começava a pegar-se ao céu da bôcca dos dois bebedores, e os olhos a piscarem-se. Ambos cabeceavam a compasso com aquelle sorriso beatifico e petrificado, proprio da embriaguez mansa, quando as pancadas rijas dos militares os despertaram em sobresalto.</p>
@@ -1270,7 +1270,7 @@
 <p>O sobrinho de Lagarde saltou de manso á casa, engatilhou as pistolas, e com ellas nas mãos, e a espada núa debaixo do braço, pé ante pé, encaminhou-se á entrada do quarto, em que repousava Lassagne.</p>
 <p>Achou-o erguido tambem, e armado. Com o dedo sobre os labios recommendou-lhe silencio. Os dois apenas trocaram um gesto. Não era preciso mais. Estavam entendidos.</p>
 <p>Aubry encobriu-se com o cortinado do leito; Lassagne atraz do vão da porta, e ambos aguardaram que os espectros acabassem de vencer os obstaculos. Queriam desenganar-se finalmente por seus olhos da verdadeira significação das mysteriosas apparições, que vinham visital-os. Não esperaram muito!</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Uma visão pouco sobrenatural</p>
 <p>O espelho continuava a desviar-se, girando de vagar, descobrindo a porta secreta. De repente dois vultos embuçados apontaram á entrada, e com passos subtís adeantaram-se cautelosos. Atraz d'elles, como sentinella no seu posto, ficou uma terceira figura com meio corpo na escuridão e meio corpo frouxamente allumiado pelo escasso clarão da lanterna, que trazia, a qual aclarava os tres personagens enroupados de mais para a estação e assás pesados e volumosos para passarem por espiritos.</p>
 <p>-- Dormem! Estão apanhados! disse o primeiro em voz submissa.</p>
@@ -1363,7 +1363,7 @@
 <p>E voltando-se para Lassagne e para o sargento, immoveis assim como os conspiradores, em quanto durára a conversação com Manuel Coutinho, d'Aubry disse-lhes com o seu ar de riso habitual:</p>
 <p>-- Meus amigos, estes senhores, que por muito enroupados no verão tomavamos por homens friorentos, são na realidade espectros, e vão desapparecer. Já lhes agradeci o favor da visita, e depois da explicação, que acabo de ter, creio que se convenceram de que era perigoso passeiar fóra de horas por este mundo. Lassagne! Logo vos explicarei o enigma. Roberto! Mandai soltar os presos da granja. Partimos dentro de duas horas. Senhores fantasmas! A sua visita causou-me o maior prazer, mas espero que seja a ultima. Muito boas noites! Queiram dar recados da minha parte ás almas de meus parentes, que encontrarem no purgatorio!</p>
 <p><pb n="66"/> Um momento depois Lassagne e d'Aubry achavam-se outra vez inteiramente sós nos quartos, o tenente abraçava o seu companheiro d'armas pelo nobre rasgo, que ennobrecia mais o seu caracter, do que uma victoria. A magnanimidade é a mais alta e a mais sublime das virtudes do guerreiro.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Primeiros clarões de um grande dia</p>
 <p>A Gran-Bretanha entrou por fim em campo. Sir Arthur Wellesley, cujo nome, conhecido então apenas pelas campanhas da India, em breve os revezes de Napoleão haviam de tornar famoso, avançava das praias do Figueira, pela estrada de Coimbra e de Pombal, com treze mil infantes, duzentos cavallos, e dezoito canhões. As forças nacionaes, organizadas, ás ordens do general Bernardim Freire, não excediam de seis mil bayonetas e de seiscentos homens de cavallaria. Nos dias 10 e 11 de agosto os alliados occuparam Leiria, e no dia 12 descansavam em Pombal as tropas portuguezas.</p>
 <p>Mas se os nossos e os inglezes eram ainda poucos, atraz d'elles vinha a nação inteira.</p>
@@ -1395,7 +1395,7 @@
 <p>Mas a voz do dever chamava-o; foi obrigado a obedecer. A 15 de agosto, á noite, marchou á testa do regimento de granadeiros, de um batalhão do 82.º, do 3.º provisorio de dragões, e de uma bateria de dez peças. Parou em Villa Franca, e a 17 seguiu vagaroso na direcção do Cercal, quatro leguas distante da Roliça, aonde o despertou o echo amortecido do canhão disparado no primeiro campo da batalha d'esta guerra.</p>
 <p>Deixemol-o rodear-se de exploradores, e estimular com suas ordens cheias de instancias a marcha de Loison e de Thiébault, para não arriscar a lucta senão com todas as forças reunidas contra sir Arthur Wellesley. Transportemo-nos no emtanto e sem demora do Cercal e Torres Vedras ao palacio do Rocio, <pb n="76"/> e entremos na sala do conselho, aonde deliberam os membros do governo. O que então se passava alli não era menos curioso e importante, do que o que occorria debaixo da barraca do quartel general nas vesperas da acção decisiva, que se planeava.</p>
 <p>Em ambos os theatros o dedo da Providencia escrevia em lettras de fogo a sublime palavra de Deus, suprema consolação dos que padecem, terror infinito dos oppressores!</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Ralham as comadres descobrem-se as</p>
 <p>verdades</p>
 <p>Voltemos á mesma sala, onde assistimos ha dias nos paços da Inquisição ao conselho de governo, presidido pelo duque de Abrantes. As figuras, que vamos encontrar, são ainda as mesmas. Só falta o general em chefe já a caminho para se collocar á testa do exercito.</p>
@@ -1487,7 +1487,7 @@
 <p>-- Tambem tu, Armand!...</p>
 <p>-- Fiz o meu dever. Sois irmão de minha mãe, mas da herança de meu pae, o que acima de tudo préso é a honra do nome, e essa, já vol-o tinha dito, hei de sepultal-a commigo pura no campo da batalha, aonde posso caír e morrer hoje, ou ámanhã! Meus senhores, adeus. Pedí a Deus que exalte as nossas armas!</p>
 <p>Ditas estas palavras saíu sereno e grave, deixando todos pasmados e silenciosos.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>O pae e a filha</p>
 <p>-- Trinta contos! É um sacrificio grande, bem sei, mas a vida e a liberdade valem mais. As provas estão em nossas mãos. Se as abrirmos, o conselho de guerra ámanhã...</p>
 <p>-- Condemna-me á morte?!...</p>
@@ -1601,7 +1601,7 @@
 <p>-- É tão natural! O que hei de estranhar? Sr.a D. Leonor! Se lhe disserem que Armand d'Aubry ficou no campo, lembre-se d'elle, lembre-se do homem, que, não podendo merecel-a, quiz ao menos eximir-se ao seu despreso.</p>
 <p>-- Despreso!? Porque nos fez Deus nascer tão separados, sr. d'Aubry!</p>
 <p>-- Paciencia, accudiu o mancebo com um sorriso contrafeito. Seja minha irmã! E se em suas orações não póde pedir a Deus que faça triumphar a minha causa, rogue-lhe ao menos que me dê a morte gloriosa do soldado. Adeus! Lembre-se alguma vez de mim sem odio. Magendie são horas! Se quereis ser dos primeiros na batalha... a cavallo, e a galope!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Antes de se levantar o panno</p>
 <p>Junot sobresaía no valor heroico. Era a imagem viva dos paladinos cantados pelo Ariosto. O peso das responsabilidades acurvava-lhe, porém, o animo, e as complicações do governo afrouxavam-lhe a vontade. Soldado sem emulo na intrepidez facilmente se offuscava no gabinete, ou no conselho, aonde a sua estrella esmorecia com frequencia. Grande, quando não era o primeiro, sentia vacillar nas mãos o leme do Estado no exercicio da suprema auctoridade.</p>
 <p>Accrescentemos, para sermos justos, que a culpa das infelicidades foi menos sua, do que filha das ordens que o subjugaram de longe, e das circumstancias que o opprimiram de perto. A invasão de Portugal e a usurpação da Hespanha, dois attentados agravados por meios ardilosos, assignalaram os primeiros passos de Napoleão I para o precipicio, d'onde se despenhou poucos annos depois.</p>
@@ -1636,7 +1636,7 @@
 <p>-- Melhor! Quanto mais cara, mais gloriosa será a victoria! Quando mandará o duque romper o baile?! Sinto uma impaciencia!...</p>
 <p>-- Escutai! Eil-o que principia! atalhou Lassagne. Se a fortuna proteger as armas da França, este dia póde ser um grande dia!</p>
 <p>E largando as redeas, os dois partiram a bom correr para o posto, que haviam de occupar, e aonde Magendie e outros officiaes esperavam já por elles.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>A batalha</p>
 <p>Deram oito horas da manhã. Um silencio profundo afogou de repente todos os estrepitos e todas as vozes nos dois campos. Similhante á pausa abafada, que precede os gemidos da procella, em breve iam rebentar d'este silencio momentaneo, todas as tempestades, que o odio e as paixões encerram.</p>
 <p>A fortaleza das posições do Vimeiro, e a valentia dos defensores promettiam aos soldados de Junot disputada lucta. Apezar d'isso as massas accumuladas nas eminencias, nem suspenderam, nem paralysaram, o seu esforço. A divisão Laborde começou o ataque. N'esse momento, como se á ira dos homens se antepozessem as consolações do ceu, ouviu-se o repique longiquo, mas claro, de uma sineta, na capella da aldeia, convidando os fieis á oração. Logo apoz reboou, immensa e prolongada, acclamação festiva dos batalhões francezes. Era a brigada Thomières, que a passo ordinario, e com os estandar A fortaleza das posições do Vimeiro, e a valentia dos defensores promettiam aos soldados de Junot disputada lucta. Apezar d'isso as massas accumuladas nas eminencias, nem suspenderam, nem paralysaram, o seu esforço. A divisão Laborde começou o ataque. N'esse momento, como se á ira dos homens se antepozessem as consolações do ceu, ouviu-se o repique longiquo, mas claro, de uma sineta, na capella da aldeia, convidando os fieis á oração. Logo apoz reboou, immensa e prolongada, acclamação festiva dos batalhões francezes. Era a brigada Thomières, que a passo ordinario, e com os estandartes desenrolados, partia intrepida a escalar as escarpas da montanha, d'onde tres linhas inabalaveis juravam repellil-a.</p>
@@ -1695,7 +1695,7 @@
 <p>Quando tornou a abril-os, achou-se debaixo do tecto de uma barraca de lona ingleza, com o cirurgião-mór de um corpo britannico ao lado, e Manuel Coutinho á cabeceira.</p>
 <p>A batalha tinha terminado. A brigada Solignac na estrada da Lourinhã, e a brigada Crenier na assomada da Ventosa haviam tentado tambem de balde a ventura das armas. A fortuna de Wellesley foi mais poderosa. As posições do Vimeiro, immortalizadas pela firmeza dos alliados, repelliram todos os ataques. No fim de duas horas e meia de fogo, os francezes contaram fóra de combate mil e oitocentos homens entre mortos e feridos, bastantes prisioneiros, entre elles o general Brenier, e treze peças de campanha perdidas, com vinte e tres carros de munições. O duque de Abrantes, salva a honra, inclinou-se <pb n="130"/> deante da adversidade, e ordenou a retirada.</p>
 <p>Restava-lhe morrer, capitular, ou abrir pelo meio dos inimigos a retirada. A sorte compadecida não quiz que elle encontrasse um tumulo em Portugal, aonde quasi possuira um throno. Por mão dos proprios adversarios lhe franqueou as portas da patria.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Sol entre nuvens</p>
 <p>Voltemos áquella casa tão risonha do campo do Ourique, aonde ouvimos as imprecações de Manuel Coutinho, as palavras prudentes do bispo de Malaca, e a resposta de Leonor ás propostas de Lagarde. Apenas decorreram algumas semanas, mas os successos precipitaram-se, e tudo mudou de aspecto.</p>
 <p>Entremos sem ruido pela alcova, cujas portas de vidraça, recatadas pelo reposteiro de seda, abrem sobre a sala, aonde vimos a filha de Paulo de Azevedo jurar ao seu amante eterno amor. Os moveis e o adorno do aposento são ainda os mesmos. Os raios do sol afagam de luz dourada as avezinhas, que saltam nas gaiolas, e beijam as corollas das flores, cujos variados matizes sobresaem, marchetando os bellos ramos, que enfeitam as antigas jarras japonezas em cima do marmore dos tremós.</p>
@@ -1744,7 +1744,7 @@
 <p>Todos estes movimentos, e a vigilancia <pb n="141"/> militar e hostil, com que os francezes se guardavam nas praças com as peças carregadas á bôcca das ruas e os murrões accesos, despertavam as esperanças dos nossos, inflammando o seu zelo, reprimido do maior impeto pelos avisos de sir Carlos Cotton, enviados de bordo da nau Hybernia, e pelos conselhos prudentes de alguns patriotas respeitados.</p>
 <p>Ao povo tudo isto se representava um sonho. Aos homens sisudos doiam no orgulho nacional as condições da capitulação, mas temperava-se a magoa d'ellas com a idéa de estar por um fio a queda da usurpação.</p>
 <p>D'Aubry e Lassagne, perigosamente feridos no Vimeiro, salvos por Manuel Coutinho, e transportados para a casa hospitaleira do bispo de Malaca, graças aos disvelos do mancebo, tornando a si do agudo padecimento, souberam que veriam de novo a França em breve. Seria sem saudade da terra que iam deixar?</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Conclusão</p>
 <p>-- Então ainda duvida? Somos livres. Não lhe dizia eu que estavamos nas mãos de Deus?!..</p>
 <p>-- Ainda bem que acabou assim, sr. bispo, ainda bem! Mas sou teimoso. Os inglezes portaram-se mal. Não os defenda. Dão ao céu o que o demonio não quiz...</p>
@@ -1805,7 +1805,7 @@
 <p>FIM DO SEGUNDO E ULTIMO VOLUME DA</p>
 <p>«CASA DOS FANTASMAS»</p>
 <p>NOTAS AO SEGUNDO VOLUME</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>As chacotas os andores, o baile das espadas etc. pag. 7</p>
 <p>A festa do Corpo de Deus, instituida em 1264 pelo Papa Urbano IV, para dar a Jesus Christo culto particular, era solemnizada nas villas e cidades principaes do reino com exquisitas invenções de figuras, danças, e folias. A procissão saía na primeira quinta-feira, depois da festa da Santissima Trindade, attraindo os olhos, e enlevando a imaginação do povo pelo esplendor e pompa, de que se rodeava.</p>
 <p>As noticias impressas mais antigas, que sobrevivem ácerca d'ella, encontram-se nas Dissertações Chronologicas de João Pedro Ribeiro, e no Novo Regimento para o governo da mesa da bandeira de S. Jorge, fundada nas cartas, alvarás e lembranças do antigo regimento, que se queimou pelo terremoto de 1755, publicado pelos habeis archivistas da camara municipal de Lisboa, em cujo cartorio se guarda.</p>
@@ -1815,7 +1815,7 @@
 <p>No Regimento Novo de Lisboa, que já citámos, diz-se que a primeira vez, que o sr. S. Jorge saiu com o seu estado na procissão foi no anno de 1387 por ordem expressa de D. João I. No reinado de D. João III, em 1538, o prestito era tão vistoso e variado pela singularidade e invenções das figuras, e pela opulencia e riqueza que ostentavam as corporações mechanicas, que não admirava que se despovoassem os arrabaldes e até as provincias para assistir a tão sumptuosa festa. Em tempos mais proximos havia toirada no dia da procissão.</p>
 <p>D. João V, instituindo a Patriarcal em 1717, decretou nova fórma á procissão de corpus, tornada menos profana e mais devota. A grande pompa e o immenso cortejo, que a ennobreceu no anno de 1719, proporcionou fecundo thema á eloquencia do incansavel irmão Barbosa Machado, auctor da obra a que se refere o texto.</p>
 <p><pb n="153"/></p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>O resto, o peior da empreza, encarregou-se o brigadeiro Margaron de o concluir por ordem de Junot, etc., pag. 29.</p>
 <p>Coimbra sublevou-se contra os francezes no dia 22 de junho, formando logo para sua defeza a legião academica, composta dos estudantes ás ordens do vice-reitor. O Porto tinha-se levantado no dia 18, dando o exemplo a toda a provincia do Minho. O Algarve insurgiu-se a 16. A provincia da Beira não se demorou tambem. Dentro de poucos dias o incendio tinha-se extendido a todo o reino, tornando-se geral.</p>
 <p>Os francezes conservavam guardas avançadas em Pombal e Leiria. Quinze estudantes e um cabo conceberam o projecto de desalojar, e sairam com esse intento de Coimbra no dia 28 de junho. Perto de Leiria foram accommettidos por vinte e dois dragões de Junot; travou-se a peleja; a cavallaria inimiga cedeu, e communicou o panico ao resto da força postada á entrada da ponte. Esta, recuando, dispersou-se, ferida de terror.</p>
@@ -1825,7 +1825,7 @@
 <p>A noite, e a noticia do que occorrêra em Alcoentre, acabaram de arrefecer o enthusiasmo amortecido dos moradores. Rodrigo Barba, os magistrados, e o bispo, não julgando prudente, desarmados, como se viam, affrontar as iras dos inimigos, evadiram-se sem ruido durante a calada das trevas. Quando rompeu o dia, apenas oitocentos homens da plebe, e duzentas ordenanças de espingardas e chuços se atreveram com temeridade louca a disputar sem chefes a entrada da cidade aos francezes. Margaron deu-lhes as honras de guerreiros consumados, tomando as disposições, que poderia exigir uma força regular e numerosa. Avançou contra Leiria com as tropas divididas em duas álas e a artilheria no centro. Disparados os primeiros canhões, e dadas as primeiras descargas de mosqueteria, o povo fugiu em confusão, e os francezes apoderaram-se da cidade com perda de um homem morto e de dois feridos!</p>
 <p>Os vencedores despregaram então toda a crueldade contra velhos, mulheres, e crianças, que imploraram debalde a sua misericordia, e metteram toda a povoação a ferro e saque. O principe de Salm-Salm sobresaiu com ferocidade n'esta campanha contra prisioneiros inermes. O palacio episcopal, a Sé, e os templos foram roubados; as egrejas desacatadas; as casas particulares invadidas e despojadas. O resultado foi incenderem-se mais os odios, e recrudescer a resistencia nacional. (Vid. general Foy tomo II liv. VIII).</p>
 <p><pb n="155"/></p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>O duque de Abrantes mostrou-se digno dos feitos heroicos, que ennobreceram a sua carreira etc. pag. 68.</p>
 <p>A vida de Junot comporia quasi um romance.</p>
 <p>Nascido em 23 de outubro de 1771 contava trinta e sete annos em 1808. Estudante do collegio de Châtillon, quando rebentou a revolução, alistou se como voluntario em uma companhia de granadeiros, e combateu com denodo em defeza da patria. O valor temerario e arrebatado grangeou-lhe no quartel a alcunha do Tempestade; mas a sua elevação começa em Toulon. Bonaparte conheceu-o e apreciou-o alli, e nunca mais deixou de o proteger.</p>

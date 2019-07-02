@@ -5,7 +5,7 @@
 <fileDesc>
 <titleStmt>
 <title >O Cura de São Lourenço</title>
-<author>Vasconcelos, Maria do Monte de Santana e (1809-1884)</author>
+<author>Vasconcelos, M.M.S.A. e (?-1893)</author>
 <respStmt>
 <resp>ElTeC encoding</resp>
 <name>Adeliana Silva</name>
@@ -14,7 +14,6 @@
 </titleStmt>
 <extent>
 <measure unit="words">51316</measure>
-<measure unit="pages"></measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>26 de abril de 2019</date>. </p>
@@ -26,8 +25,8 @@
 <bibl>
 <title>O Cura de São Lourenço</title> 
 <author>M.M.S.A. e Vasconcelos</author>
-<publisher>Imprensa Nacional</publisher>
-<pubPlace>Lisboa</pubPlace> 
+<publisher></publisher>
+<pubPlace></pubPlace> 
 <date>1855</date>
 </bibl>
 </relatedItem>
@@ -59,7 +58,7 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlePage"><head>O cura de São Lourenço</head>
+<div type="titlepage"><head>O cura de São Lourenço</head>
 <p>Romance</p>
 <p>por</p>
 <p>M. M. S. A. e Vasconcellos</p>
@@ -68,7 +67,7 @@
 </div>
 </front>
 <body>
-<div><head>CAPITULO I</head>
+<div type="chapter"><head>CAPITULO I</head>
 <p>O CONDE DE NESLE</p>
 <p>Mr. de Nesle, descendente dos antigos heroes das cruzadas, Raoul de Nesle, condestavel e armado cavalleiro por Luiz IX, e João II de Nesle, regente de França, na ausencia de S. Luiz, havia herdado de seus antepassados, não sómente a lealdade e o valor, como tambem essa fé robusta na sua religião e no seu Deus, fé por elles tão altamente testemunhada, quando deixavam o solo patrio por largos annos, expondo a vida a todos os azares e incertezas, não em busca d'essa gloria estrondosa e vulgar, d'esses loiros ceifados nos campos de batalha, mas para trazerem junto ao peito uma reliquia d'essa cidade, santificada primeiramente pelas prophecias, depois pelos milagres, e finalmente pelo sangue de Christo.</p>
 <p>Fazendo parte da côrte, Raoul de Nesle tinha ali passado a maior parte da sua mocidade. Sua mãe, dama idosa e respeitavel, conservára até á morte as modas e a elegancia da Fronda. Esse capricho não lh’o tinham inspirado ideas aristocraticas: conservava este luxo antigo, como uma reminiscencia da sua alegre juventude.</p>
@@ -90,7 +89,7 @@
 <p>d‘esse culto?—A bella nave gothica dos Franciscanos acabava de ser demolida; a igreja dos Theatinos tinha-se convertido em um café e sala de dançarinos de corda!</p>
 <p>As terras de mr. de Nesle eram no departamento d'Ardêche, no Languedoe. Ali possuia um vasto e antigo castello, cercado de extensissimas alamedas, cujos velhos troncos, tendo resistido aos annos e á intemperie das estações, como as pyramides do celebrado Oriente, rendiam muda homenagem á gloria e esplendor dos seus antigos proprietarios.</p>
 <p>Madame de Nesle partiu, um mez antes de seu marido para a provincia, com uma parte de seus domesticos, incluindo o fiel Anselmo, o qual tinha sobre todos a primazia na estima de seus respeitaveis amos.</p>
-</div><div><head>CAPITULO II</head>
+</div><div type="chapter"><head>CAPITULO II</head>
 <p>ANSELMO.</p>
 <p>Aqui daremos de corrida uma pequena noticia do homem, que adiante encontraremos como o grande heroe da nossa historia; porque a honra o a lealdade, quando se alojam no peito do homem, seja illustre ou humilde, dão-lhe a verdadeira nobreza; e porventura os acontecimentos, arrojando o humilde para longe da sua esphera, fazem-lhe desenvolver rasgos sublimes de amor e resolução, e da mais pura e estremada honradez!</p>
 <p>Anselmo era filho do jardineiro d‘Ardéche. Esta occupação tinha passado de pae a filho.</p>
@@ -107,7 +106,7 @@
 <p>Anselmo acceitou a caridosa proposta de sua excellente irmã, e alguns dias depois ella partia para Fréjus com o pequeno Alberto Beaupré.</p>
 <p>A presença de seus amos, e as palavras de consolarão e de religião de madame de Nesle, foram pouco a pouco resignando o desconsolado viuvo; mas o que arahon o seu restabelecimento foi o ultimo accôrdo que tomaram de o conservar outra vez: em sua casa como uma especie de mordomo; logar que lhe competia, tanto pela sua intelligencia como pela sua probidade.</p>
 <p>Esta novidade agradou sobremaneira a seus parentes: — «A vida correr-lhe-ha aprazivel na companhia de seus patrões», diziam elles. Anselmo era o orgulho da familia.</p>
-</div><div><head>CAPITULO III</head>
+</div><div type="chapter"><head>CAPITULO III</head>
 <p>A ENTRADA NO CASTELLO.</p>
 <p>Frederico tinha acompanhado sua mãe. A primeira educação do joven conde havia sido muito interpollada; a creança, até aos dez annos, tivera poucos intervallos de samle.</p>
 <p>N’esta idade começava elle apenas a soletrar; sua mãe, que fòra sempre a sua carinhosa enfermeira, foi ao mesmo tempo a sua primeira mestra.</p>
@@ -117,7 +116,7 @@
 <p>Mr. de Nesle não queria fazer de seu filho um sabio, mas pretendia que elle soubesse perfeitamente a sua lingua, o latim, a arithmetica, e que tivesse alguns conhecimentos da lei civil. N'esses tempos de revoluções, de subitos engrandecimentos, e fortunas decaidas, não era difficil encontrar o talento posto de parte, deslembrado, e porventura votado á mendicidade! Mas a pureza de costumes, a virtude como a queria o conde, no instructor, e assiduo companheiro por alguns annos, de seu filho, não se achavam logo ao alcance das suas pesquizas. O acaso lhe deparou uma noute o encontro de mr. Pocion, sub-prefeito, demittido do seu emprego por um acto devido ao seu melindre. A intelligencia, e a elevação de sentimentos politicos e religiosos d’este homem de bem, excitaram a attenção do conde; na manhã seguinte elle procurou-o em sua casa, foi affavelmente recebido, e a sua proposição foi acceita.</p>
 <p>Mr. de Pocion era um dos que compunham a comitiva que entrou com o conde no castello d’Ardêche; mr. de Nesle tinha feito uma acquisição duplicadamente vantajosa; no respeitavel mestre de seu filho tinha um amigo e um companheiro para os dias e os annos da sua solidão.</p>
 <p>Os habitantes d'Ardêche conservavam o antigo costume de celebrarem com suas rusticas festas a chegada dos condes ao castello. Os homens soltavam aos ares alegres vivas, que os echos multiplicavam; e ouviram-se tiros de pistola até altas horas da noute; as camponezas acompanhavam respeitosamente seu nobre senhor até o limiar; e as donzellas traziam suspensos ao braço açafates cheios de bellas flores, que iam espalhando pelo caminho. Este tributo, singelo e edificante, de antiga lealdade, arrancava agora lagrimas e vozes de gratidão: Raoul de Nesle era respeitado e considerado, não só como senhor, mas tambem amado e estimado como pae e protector dos seus vassallos e dependentes.</p>
-</div><div><head>CAPITULO IV</head>
+</div><div type="chapter"><head>CAPITULO IV</head>
 <p>MORTE DO CONDE.</p>
 <p>A differença dos ares, e a socegada vida do castello, alliviaram o conde dos seus padecimentos, e quiçá lhe prolongaram a debil existencia; porém esta melhora era passageira; a sua figura, extenuada pela febre lenta, apenas os-</p>
 <p>tentava o antigo garbo; os seus bellissimos cabellos louros, os seus olhos vivos e expressivos, contrastavam fortemente com aquelle rosto macerado, aquella livida tez, desmaiadas as ultimas côres da vida!</p>
@@ -143,7 +142,7 @@
 <p>Houve um pequeno momento de silencio; e depois o sacerdote começou a missa. Chegou a occasião de commungar: o conde recebeu com uma visivel satisfação o pão sagrado das mãos do ministro; o veneravel padre Gregorio administrou este mesmo sacramento á afflicta esposa do moribundo conde, a seu joven filho, e ao honrado Anselmo. O sacerdote dirigiu-se depois para o altar a passo lento: n’esse momento de grave silencio e de unção a que estavam entregues todas aquellas almas, ouviu-se um leve murmurio para o lado do leito; no mesmo instante todos os olhos para aIi se dirigiram, e todos viram, excepto o padre que</p>
 <p>continuava a missa, o ultimo olhar do adeus que o conde lançou sobre o caro grupo que lhe ficava á cabeceira, quando entregava o espirito a Deus.</p>
 <p>Logo (que o sacerdote lançou a benção sobre o auditorio, a um leve aceno de Anselmo toda aquella pobre gente foi saindo, saudosa e compungida, do quarto: nem um leve gemido interrompeu a ceremonia funebre.</p>
-</div><div><head>CAPITULO V</head>
+</div><div type="chapter"><head>CAPITULO V</head>
 <p>FREDERICO.</p>
 <p>Dous mezes antes da morte do conde, Frederico tinha igualmente perdido o seu mentor; e essa perda inesperada contribuiu a abreviar o fim de seu chorado pae. O aspecto do joven conde era tambem demasiado grave e melancolico para a sua idade. Este abatimento prematuro, e a profunda magoa da viuva, contristaram os parentes que tinham vindo de Paris e de Montpellier, (cidade natal da condeça) a fazer-lhe a visita de pezames. Empenharam-se, pois, em arranca-la áquella solidão do tumulo.</p>
 <p>Madame de Nesle condescendeu com os solicitos rogos de seus parentes, e resolveu-se a deixar o triste castello de Ardêche, partindo, não para Paris, aonde a sua dor fôra assaltada coro frescas recordações, mas para Montpellier.</p>
@@ -155,7 +154,7 @@
 <p>—«Eu louvo a tua sensibilidade, lhe disse a condeça, ella é o grito da natureza, e o effeito do amor que me consagras; mas não queira Deus que o egoismo me cegue, e que eu consinta em ver-te exposto por elle a excesso algum. Os homens, os tempos, e os mares, não podem nunca desunir dous corações que se amam. Vae, meu filho; viajando e aprendendo, poderás sempre amar tua mãe; as tuas cartas m’o dirão, e mais que tudo a tua submissão á minha vontade.»</p>
 <p>Frederico calou-se, e não ousou mais oppor-se ás determinações de sua mãe; sua boa indole suffocava-lhe a vontade, e contrafaze-la não era para elle um sacrificio. A boa condeça o viu prestar-se finalmente de bom grado a todos os preparativos que requerem as vesperas de uma grande viagem.</p>
 <p>O joven conde tinha completado os dezesseis annos quando partiu para a Grã-Bretanha, acompanhado do seu nobre parente. Madame de Nesle recommendou-o tambem á protecção de seu irmão mais velho, o barão de Coislin. Este, fidalgo, tendo casado em Londres com uma rica herdeira ahi residia viuvo, senhor de uma fortuna consideravel. Frederico devia habitar com seu tio todo o tempo que se demorasse em Londres. Madame de Nesle entregou tambem seu filho ao cuidado de Alberto Beaupré, que o acompanhou para Dover.</p>
-</div><div><head>CAPITULO VI</head>
+</div><div type="chapter"><head>CAPITULO VI</head>
 <p>ALBERTO BEAUPRÉ.</p>
 <p>Não fallàmos mais do pequeno Alberto Beaupré. E comtudo a sua infancia a não foi tão obscura como devera ser a do humilde neto de um pobre jardineiro!...</p>
 <p>Nos primeiros annos Anselmo consentiu, mau grado seu, em que a creança fosse, educada longe das suas vistas; porém, o brio de Ánna foi profição ao joven Alberto, que recebeu as lições das primeiras letras com um dos mais habeis professores de Frejus. Alberto ia visitar seu pae de tempos a tempos, mas voltava sempre para casa de sua tia. Anna finalmente accommodou seu sobrinho em casa de um tira negociante. Alguns annos depois o joven Becaipré minha de estado casando-se com uma rapariga dos arrabaldes da ridade. Theresa era filha de uma lavadeira, conhecida pelo nome de Joanna a Briosa. A boa mulher offereceu aos noivos a sua casa para assistirem juntos, em quanto seu genro ajuntava o dinheiro necessario para comprarem uma pequena herdade na provincia. A mãe Joanna, como a tratavam os visinhos, tinha muitos filhos; os dous mais velhos haviam feito toda a campanha da ltalia.</p>
@@ -169,7 +168,7 @@
 <p>secretamente todos os preparativos da expedição do Egypto. Espalha-se subitamente por toda a França a a noticia de que trinta mil soldados, e dez mil marinheiros, se reunem nos portos do Mediterraneo, e que um grande armamento se está aprestando em Toulon. Alberto sente agora despertar-se em sua alma um impulso irresistivel; não diz nada a sua esposa, e parte para Montpellier. É a seu pae que elle vae abrir o seu corarão; a sua vontade depende do conscuso paternal: implora com lagrimas, intercede com gestos, com meigas palavras, de joelhos, aos pés de seu pae, que abençoe aquelle seu irresistivel desejo de atravessar os mares em busca de um futuro glorio so; que a sua mocidade e a sua vocação lhe promettem!</p>
 <p>O que havia de Anselmo fazer? Se a Providencia de certo ateara no coração do mancebo aquella fortissima vocação! O pobre homem, pois, com o rosto babado em copiosas lagrimas, limitou-se a lançar a benção sobre a cabeça de seu unico filho.</p>
 <p>De volta a Frejus, Alberto descobriu o segredo a sua sogra, encarregando-a de o transmittir á sua Theresa, a quem não tinha valor de o revelar. Á excellente mulher custou a imprimir na alma de sua filha os seus sentimentos varonis. A virtude e a paz só poderiam tomar assento na alma serena de Theresa; ella era naturalmente dotada de um grande fundo de bondade e rasão. Estas qualidades, quando se reunem, procuram sempre o bem, e um dos mais preciosos e a resignação. Theresa chorou e risignou-se. No primeiro de maio de 1798 Alberto foi alistar-se em Toulon nas tropas que ali estavam á espera de Napoleão. No dia 19 do mesmo mez a expedirão fez-se de vela para o Oriente.</p>
-</div><div><head>CAPITULO VII</head>
+</div><div type="chapter"><head>CAPITULO VII</head>
 <p>AMELIA E ALICIA.</p>
 <p>Dois mezes depois da partida de seu filho. a condeça de Nesle saíu de Montpellier a visitar uma amiga da sua infancia, a qual, tendo a sua principal residencia em Avignão, achava-se então em um bello campo nas margens do Durance.</p>
 <p>A marqueza de Fermont-Comnène era dotada de um caracter similhante ao de Lucia de Nesle; ellas tinham vivido</p>
@@ -185,7 +184,7 @@
 <p>As duas irmãs não tinham de viver juntas muito tempo; a mão de Amelia estava promettida a um joven lord catholico, de uma antiga familia, muito relacionada com a do definito marquez de Fermont-Comnène.</p>
 <p>O casamento estava fixado para o mez de setembro do seguinte anno, e sò por esse tempo é que soror Angelica dava por acabada a educação da sua pupila.</p>
 <p>Madame de Nesle demorou-se até outubro em casa da sua amiga; estas duas senhoras não se separaram sem promessa solemne, da parte da condeça, de que viria honrar com a sua presença o noivado do bella Amelia. — «È preciso que tu faças apromptar mais um quarto para o meu filho, que ha de vir por esse tempo.» Madame de Nesle dizia estas palavras com um ar de intelligencia que parecia ser perfeitamente comprehendido.</p>
-</div><div><head>CAPITULO VIII</head>
+</div><div type="chapter"><head>CAPITULO VIII</head>
 <p>LORD CLARK</p>
 <p>Frederico escrevia extensamente a condeça; em Londres demorou-se dous mezes em casa de seu tio, o qual hospedou tambem mr. de Valmont. Tendo viajado mais tres mezes pela Inglalerra, passou á Italia.</p>
 <p>As cartas datadas de Roma. em junho do seguinte anno, tinham já certo cunho de elegancia; as suas despezas começavam a declinar; Frederico estava encantado da bella e pittoresca patria do Tasso.</p>
@@ -202,7 +201,7 @@
 <p>Suas lagrimas renovaram-se quando ao aproximar-se á mesa ella abraçou a marqueza sua mãe; mas este era agora um pranto indefinivel, um pranto misturado de risos... e ao mesmo tempo lançava olhares de ingenna curiosidade para o joven lord, que não conhecêra ainda, mas que sabia pela informação de seu primo Alfredo, ser o seu futuro cunhado.</p>
 <p>Lord Clare não exagerou d‘esta vez a sua admiração, porque a sentia; porque, quando ella é verdadeira, escaceiam-nos as expressões. Amelia e Alfredo foram ambos mostrar á joven Alicia o quarto que lhe era destinado. Este aposento estava elegantemente adornado com a mobilia que compõe o toilette de uma donzella nobre. Tudo lhe agradou, porque tudo era novo e bello; mas o seu bom coração, sentido de uma doce saudade, a incitou a mostrar a estes bons amigos, os parentes, as galantes bagatellas, com que fora brindada á sua saída pelas santas moujas. Assim, uma por uma, foi ella expondo aquellas reliquias da amisade, e sobre cada uma fazia a explicação do nome e occupação da religiosa de quem a recebêra: uma lhe arrancava um leve suspiro, sobre est‘outra derramava uma lagrima...</p>
 <p>Eram rozarios de contas; algumas imagens das santas; emfim, tudo piedosas dadivas, devotamente estimadas pela docil educanda, cujos principios religiosos haviam sido a base fundamental da sua educação.</p>
-</div><div><head>CAPITULO IX</head>
+</div><div type="chapter"><head>CAPITULO IX</head>
 <p>O BAILE.</p>
 <p>N'uma tarde tempestuosa do mez de outubro, a casa terrea de Joanna a Briosa, estava cheia de gente; a casa compunha-se de um quarto grande, mais duas alcovas, e a cozinha, que era tão grande como a sala.</p>
 <p>Havia à entrada um vasto terreiro lageado, onde a familia trabalhava á sombra, em quanto as roupas enxugavam em um bello prado arrelvado da propriedade; porém como tinha choviscado, os amigos, compadres, parente e visinhos da mãe Joanna, haviam sido recebidos igualmente na sala e na cosinha.</p>
@@ -226,7 +225,7 @@
 <p>Lord Clare, que tinha conhecido o joven conde, foi logo depois da dança procurar sua esposa, e veiu apresentar-lh'a, e comprimenta-lo. O mancebo conheceu que se tinha enganado com o par de contradança do lord, mas não se deu por entendido, e Amelia correu a annunciar a chegada inesperada do conde a sua mãe.</p>
 <p>—«Quem era pois aquella menina com quem dançava lord Clare?» — perguntou Frederico á conheça:— «A outra? lhe tornou ella vivamente: é a joven Alicia; é a minha querida filha...» Estavam assim praticando quando madame de Fermont-Comnène entrou na sala com suas duas filhas.</p>
 <p>Frederico beijou respeitosamente a mão da marqueza, e esta dirigindo-se a sua filha mais moça, disse-lhe, apresentando-lhe o mancebo: —«Alicia, eis-aqui o conde de Nesle: é um inimigo que te vem remover do logar que occupavas no coração da tua boa amiga, madame de Nesle.» Frederico, um puco perturbado, balbuciou um cumpriento, e pediu ao mesmo tempo a mademoiselle de Comnène a honra de dançar com elle é seguinte contradança.</p>
-</div><div><head>CAPITULO X</head>
+</div><div type="chapter"><head>CAPITULO X</head>
 <p>O SEGREDO.</p>
 <p>Deus escutou os votos da boa Lucia de Nesle; no fim dos oito dias que ainda se demorou com seu filho em Avignão, mademoiselle de Comnène tinha ganhado decididamente a affeição do mancebo.</p>
 <p>As viagens haviam modificado os antigos habitos do joven conde. Suas maneiras tinham agora aquella gentileza e desembaraço que se adquire no grande mundo: mas de lá trouxera elle uma grande reougnancia ao estudo, e a toda a applicação de que ainda tinha grande mister. Elle tinha visto de corrida e superficialmente homens e os differente usos não tinha porém aprofundado o seu caracter voluvel, eivado de tantos egoismos e falsidades! Desgraçadamente, na sua primeira educação, sua mãe sempre curava de lhe esconder o revesso da medalha e Frederico costumou-se a regular pelas apparencias!</p>
@@ -239,7 +238,7 @@
 <p>Corria o mez de abril de 1800. Uma manhã que o conde folheva um volumoso livro, madame de Nesle disse pausadamente a seu filho que achava bom que elle fosse até Ardêche para presidir a cartas obras que tencionava mandar fazer nos aposentos do castello. —«Eu devo dous verões de amavel hospitalidade á miha cara Adelaide, e como vou para Paris, e provavelente não nos encontraremos mais n'este mundo, (disse maliciosamente a condeça) lembro-me que na tua viagem podias passar um dia em Avignão para convidar da minha parte madame de Fermont-Comnène e a minha querida Alicia a acompanhar-nos ao castello, aonde faremos juntos umas longas despedidas.« —«Minha boa mãe, disse o mancebo, alegre e ao mesmo tempo desgostoso do astucioso rodeio da condeça: — eu era bem novo quando sai de lá podém vós me assustaes com a idéa de Paris. Essa grande capital parecer-me-ha um cemiterio se formos viver ali longe dos entes que mais amâmos. — Se me dizeis que indo para Paris não tornarei mais a vêr...» — «quem? — tornou a condeça apertando ternamente a mão do filho: —«amas tu algem na provincia? — eia, diz-me, Frederico: tu não deves ter segredos para tua mãe!» — « Minha excelente mãe, exclamou o mancebo, ajoelhando aos pés da condeça: — « ella merece-vos uma particular affeição e é por isso que a amo dolorasamente...vós adivinhastes; vosso filho devia amar infallivelmente Alicia!</p>
 <p>Frederico partiu, com effeito e voltou por Avignão. No aicado de maio a pequena comitiva do conde de Nesle foi pernoitar n'aquella cidade, e d'ahi saiu no dia immediato, augmentada com a amavel familia de Fermont-Comène.</p>
 <p>A viagem foi feita vagarosamente para se poder mostrar o paiz a mademoiselle Alicia. Chegaram ao castello n'uma bella manhã ás nove horas. Raoul de Nesle havia sido enterrado na antiga capella que ficava um pouco desviada da casa. Madame de Nesle tinha mandado ali plantar alguns ciprestes e dispor um pequeno jardim. A viuva encaminhou-se na direcção do ultimo jazigo de seu esposo em quanto o novo conde de Nesle conduzia a casa as suas hospedas, seguido da alegre turba de seus numerosos caseiros.</p>
-</div><div><head>CAPITULO XI</head>
+</div><div type="chapter"><head>CAPITULO XI</head>
 <p>A DECLARAÇÃO.</p>
 <p>Frederico estidava todos os meios de agradar á joven Alicia sem lhe fallar de amor. Dous caminhos conduziam ao coração da educanda das Ursulinas: o amor de Deus e a caridade com o proximo.</p>
 <p>O conde tinha aprendido a amar a Deus com sua mãe, e os piedosos exemplos de Alicia fizeram-no voltar aos santos exercicios da sua infancia.</p>
@@ -258,7 +257,7 @@
 <p>: minha mãe não quererá tão cedo annullar os seus direitos sobre a sua Alicia...»</p>
 <p>—« Mademoiselle de Comnène, redarguiu o mancebo, vós já me dissestes a verdade, e não deveis retractar-vos. Vamos procurar vossa mãe; e necessario que este nogocio fique decidido hoje mesmo.»</p>
 <p>A respeitavel marqueza de Fermont-Comnène gostava de ver bem estabelecidas as suas duas filhas; mas esta segunda alliança fôra por ella desejada ardentemente, antes mesmo de ella occorrer aos dois.</p>
-</div><div><head>CAPITULO XII</head>
+</div><div type="chapter"><head>CAPITULO XII</head>
 <p>O NOIVADO.</p>
 <p>Tres dias antes da separação das duas familias, fez-se o contrato de casamento. Em junho do anno seguinte Alicia e sua mãe deviam achar-se no castello d'Ardêche, e n’esse mesmo mez mademoiselle de Comnéne seria condeça de Nesle.</p>
 <p>A marqueza, não podendo resolver-se a deixar a sua socegada vida d’Aviguão, onde tinha a seu cargo uma numerosa familia de viuvas e orphãos desvalidos, devia passar com sua filha os verões no castello d'Ardêche. O conde passou o inverno quasi sempre em viagens de Paris para Aviguão, o logo que veiu a primavera, a mãe e o filho deixaram a</p>
@@ -271,7 +270,7 @@
 <p>A morte de Raoul de Nesle tinha deitado doloroso vestigio no sensivel coração de sua esposa; a saudade que elle não podia mitigar, consumia-a de dia para dia, e cada vez as suas forças se debilitavam mais. Lucia não presentiu o seu proximo fim, como o defunto conde: —a parca foi subitamente cortando-lhe um após outro os nós da vida; — e a condeça falleceu quasi repentinamente no mez de Agosto, no centro de uma felicidade invejada, e quando as avesinhas, as arvores, e os campos pareciam ainda festejar o consorcio de seu filho!...</p>
 <p>Frederico era por natureza extremoso; e extremoso era o seu amor filial: a sua dor foi grande, immensa; e houvera talvez sido inconsolavel, se Alicia não existisse. A marqueza de Fermont-Comnéme foi porventura uma das grandes consolações do joven conde, que n'ella depositou, se não todo o amor, todo o affecto que tributara a sua chorada mãe.</p>
 <p>O conde e sua esposa demoraram-se no Languedoc, apenas o tempo do nojo; Alicia acompanhou para Aviguão madame de Fermont-Comnèue, e tendo-se demorado com ella ainda um mez, partiu para Paris com seu marido.</p>
-</div><div><head>CAPITULO XIII</head>
+</div><div type="chapter"><head>CAPITULO XIII</head>
 <p>A CAMPONEZA.</p>
 <p>Era uma bElla e alegre manhã de maio. Nos arrabaldes da cidade de Livron, pela estrada que segue parallela á margem do Drome, caminhava uma mulher.</p>
 <p>Seus passos ás vezes apressados, como quem forceja por ganhar caminho, augmentavam-lhe a fadiga que lhe tingia o rosto de vivas côres; a pobre mulher, de mais a mais, trazia nos braços uma creança de quatro ou cinco annos, que com a cabecinha reclinada sobre o seu hombro esquerdo, ahi adormecêra.</p>
@@ -285,7 +284,7 @@
 <p>—«Longe, muito longe, disse a mulher; com os olhos arrazados de lagrimas. Depois, acabada a singela refeição, a camponeza ergueu-se e ajoelhou de mãos postas. A creança imitou-a immediatamente n‘aquella reverente postura; e os passarinhos, que sobre as arvores gorgeavam harmonias, pareciam partilhar n‘esta acção de graças da creatura, soltando pelos ares seus hymuos ao Universal Creador!</p>
 <p>Acabada que foi a oração, a camponeza tomou novamente nos braços a menina, e seguindo a mesma vereda por onde tinha entrado, saiu em pouco tempo da sombria floresta.</p>
 <p>Teria andado obra de meia hora, quando chegou a uma estrada assas frequentada. Passavam jumentos carregados com gigas das lavadeiras que levavam as roupas á cidade; algumas calcças conduziam gente, outras iam carregadas só de mantimentos: vinham tambem algumas vazias. A camponeza aproximou-se ao conductor de uma d’estas ultimas, e propôz-lhe conduzi-la até S. Lourenço, pagando-lhe o seu transporte. O homem conveiu, e as nossas viajantes proseguiram mais commodamente na sua derrota.</p>
-</div><div><head>CAPITULO XIV</head>
+</div><div type="chapter"><head>CAPITULO XIV</head>
 <p>A CARTA.</p>
 <p>É noute. Entremos agora em uma pequena habitação campestre, são onze horas, um profundo silencio reina n‘esta casa, e nos seus arredores; mas n‘um dos aposentos ha luz.</p>
 <p>Em candieiro de cobre luzidio allumia o quarto; este candieiro está sobre uma mesa, em a qual avultam alguns utensilios de quem escreve: algumas folhas de papel ordinario, um pequeno tinteiro de louça, e algumas pennas ahi estão espalhadas: quem escreve é uma mulher.</p>
@@ -313,7 +312,7 @@
 <p>«Mr. de Nesle tinha deixado sua esposa gravida de pouco tempo, e ao cabo de seis mezes ella deu á luz uma menioa, em casa de sua mãe, em Montpellier, onde tinha ido passar o tempo da gravidez.</p>
 <p>«Algum tempo depois do regresso de minha ama a Paris, lord Clare, cunhado de madame de Nesle, chegou de Inglaterra; trouxe cartas do conde, e a noticia da morte de seu tio.</p>
 <p>«Este acontecimento devia prolongar ainda por dois ou tres mezes a ausencia de meu amo.</p>
-</div><div><head>CAPITULO XV</head>
+</div><div type="chapter"><head>CAPITULO XV</head>
 <p>CONTINUAÇÃO DA CARTA.</p>
 <p>«Lord Clare ficou hospedado em casa de sua cunhada.</p>
 <p>«Vem a pêlo dizer-te, continuou teu pae, que, não sei por que, nunca pude engraçar com o tal lord!</p>
@@ -333,7 +332,7 @@
 <p>«Ás quatro horas da tarde, em quanto eu fazia uns assentos no meu quarto, que fica contiguo á casa da entrada, senti os passos de mr. de Gouvion; demorou-se pouco, e depois, quando descia... ouvi distinctamente estas palavras da esposa do conde de Nesle.</p>
 <p>—«Alfredo! se não desistes do teu funesto intento, se teimas em querer morrer por minha causa... considera que commettes dois crimes!... juntas ao suicidio um assassinio: eu não te sobrevivo!!.</p>
 <p>«Teu pae soltou estas ultimas palavras com intonação lugubre e pausadamente, como custando-lhe a proferi-las.</p>
-</div><div><head>CAPITULO XVI</head>
+</div><div type="chapter"><head>CAPITULO XVI</head>
 <p>CONTINUAÇÃO DA CARTA.</p>
 <p>«Meu pobre sogro guardou por alguns instantes profundo silencio, mas logo reanimando-se, continuou como fielmente te vou referindo; e com esta já são duas noutes que passo a escrever-te!</p>
 <p>«Morreu-me uma esposa que eu adorava; esse golpe traspassou-me de uma dor agudissima: porém, com o tempo, esta dor se foi metamorphoseando em outra, triste tambem, mas supportavel pela sua doçura; era uma suavissima saudade, a serena imagem de tua mãe que me acompanhava na minha solidão, que me seguia por toda a parte.</p>
@@ -359,7 +358,7 @@
 <p>«O conde escreveu d’ali regularmente a sua esposa ate 10 de fevereiro; houve então uma delonga de vinte e sete dias, no fim dos quaes, oh! Theresa! exclamou teu bom pae:—este golpe ainda sangra no meu coração!</p>
 <p>«N'uma manhã, um homem procurou-me, proseguiu elle —era um inglez; não sympathico com aquella nacão! Esse inglez entregou-me duas cartas, que deviam ser-me dadas por mão propria. As cartas eram, uma para mim, outra para madame de Nesle. Entreguei-lh'a no momento em que se sentava para almoçar.</p>
 <p>«Madame leu-a rapidamente, e ergueu-se extremainente pallida; lançou em redor uns olhos indecisos.., e pousando-os sobre mim; disse:—Anselmo! apertando com a mão o coração; e depois saiu sem nada tomar de alimento.</p>
-</div><div><head>CAPITULO XVII</head>
+</div><div type="chapter"><head>CAPITULO XVII</head>
 <p>CONTlNAÇÃO DA CARTA.</p>
 <p>«Fiquei, continuou teu pae, attento a escutar-lhe os passos, ate que a senti fechar uma porta.</p>
 <p>—«Animo, Anselmo, exclamei eu! deslacrando tremulo e confuso a carta de meu amo: então li estas regras:</p>
@@ -405,14 +404,14 @@
 <p>—«Senhora, lhe disse, tenho ordem de vos dar dinheiro, e tudo o mais de que carecerdes. —Não, me respondeu: nada quero. Inda lenho a maior parte do dinheiro que trouxe de Montpellier; esse dinheiro era destinado a soccorrer os infelizes... d’elle me vou aproveitar. Tenho além d’isso muitas joias. Receber protecção de quem me não estima é uma das phases da humilhação a que não posso sujeitar-me!</p>
 <p>«Logo em seguida a estas palavras correu no leito da filha, aonde ajoelhou como para dirigir a Deus uma ardente supplica; ergueu-se precipitadamente, e saiu do quarto. Mal tive tempo de tomar a luz, e segui-la pelos corredores e pelas escadas, que atravessava com extraordinaria velocidade. Quando chegámos ao pateo, mandou-me que abrisse; deu alguns passos fóra e tossiu: senti logo passos de alguem.—Então, retrocedendo, veiu a mim, e disse-me com uma voz... com uma vehemencia terminante:— Vamos, Anselmo: dá-me á tua palavra; promette-me que o ensino religioso da minha cara filha fica ao cargo da</p>
 <p>a tua boa e solicita guarda?—Eu vo-lo prometto, senhora, exclamei eu! Sacrificarei a propria vida se for necessario no cumprimento da sagrada promessa que hoje vos faço, e a Deus!—Encommenda nas tuas orações esta infeliz familia!...—disse ella, e partiu. Foi juntar-se a dois vultos embuçados que a esperavam; e em breve os perdi de vista.</p>
-</div><div><head>CAPITULO XVIII</head>
+</div><div type="chapter"><head>CAPITULO XVIII</head>
 <p>CONTINUAÇÃO DA CARTA.</p>
 <p>«Fechei devagarinho a porta, e subi rapidamente a escada para encerrar-me no meu quarto sem ser visto de ninguem de casa. Então, como esses aguaceiros que cáem de repente e nos apanham de sobresalto no raminho, o pranto rebentou-me espontaneo e abundante dos olhos. Por algum tempo desafoguei a minha profunda emoção; mas finalmente pude conter-me, Iembrando-me que nem sempre se deve dar largas ao sentimento, e das palavras de meu pae, que quando eu ia visita-lo me recommendava lealdade, resolução, firmeza e actividade.</p>
 <p>«Tenho uma pequena livraria, augmeutada de mezes a mezes por mr. e madame de Nesle á noite muitas vezes entrentinha-me a ler sosinho: de sorte que a familia inda não tinha dado pela ausencia da senhora condeça, nem tão pouco se haviam lembrado de mim. Apenas meia hora tive para meditar, não no passado, nem no futuro, mas nos trabalhos que me estavam imminentes. Como de feito, comecei de ouvir passadas pela casa, abrir e fechar portas, e pouco depois baterem na minha—Lá vou, disse en brandamente, affectando o socego do costume.»—Mas dizei-nos onde está a senhora! exclamaram ao mesmo tempo Leonardo e Cloé; o almoço está prompto, e a senhora não está nas salas, nem em quarto algum!»</p>
 <p>«Ao tempo que elles fallavam, eu abria socegadamente a porta.—Historia! fui eu dizendo, e caminhando adiante d'elles:— a senhora não é nenhuma formiga para que se sumisse assim pela casa! Corri os quartos um por um, como  elles já haviam feito, e n‘esta pesquisa de cantos e recantos, passei pela cosinha, e trouxe após mim uma procissão de gente; o suisso, os cosinheiros, os lacaios, as mulheres, incluindo a boa Cloé, que era a creada grave da condeça, a qual, tenho d'ella recebido a sua carta de alforria, gosava de todos os privilegios e regalias das aias favoritas. Procurámos por todos os logares, mas infructuosamente...</p>
 <p>«De repente Cloé, sacudindo-me o braço, e soltando uma estrondosa risada:—«Pobres tolos que aqui andámos, exclamou ella: nenhum se lembrou que a senhora está na capella! E largou a correr, e todos a seguiram: ella mesmo abriu a porta da capella. Succedeu á sua alegria um transporte de dor, começando n’um sentido choro, sentada no estrado do altar. Dei então um pequeno desafogo ás minhas magoas interiores; chorei um momento com a pobre 	Cloé; mas, procurando conter-me, disse então:— Está claro: a senhora condeça deixou a sua casa. Saiu clandestinamente; está bem visto que não voltará hoje, nem ámanhã, e Deus sabe quando virá! E como lhe devemos carinho e protecção, é Deus que nos trouxe na sua procura a este logar; ajoelhemos todos, meus amigos, e oremos por ella ao Omnipotente, que dispõe dos homens e das cousas. Caíram todos de joelhos a minha voz.</p>
 <p>«Não me demorarei em contar-te o que passei n’esses primeiros dias com aquella pobre menina. Cloé ajudou-me a entrete-la com promessas e carinhos.</p>
-</div><div><head>CAPITULO XIX</head>
+</div><div type="chapter"><head>CAPITULO XIX</head>
 <p>CONTINUAÇÃO DA CARTA.</p>
 <p>«Meu amo chegou no tempo aprazado, acompanhado do seu parente lord Clare.</p>
 <p>«Theresa, me disse o bom de teu pae, sabes que o joven conde e o filho do meu coração; o filho da minha adopção! Acalentei-o nos meus braços; e o meu amor por naquella creança, transpondo pouco a pouco o espaço immenso entre a sua alta nobreza e a minha rasteira esfera, poz-me finalmente de nivel com elle no caminho da vida. Costumei-me, pois, a ler-lhe no pensamento muito antes do que m’o exprimisse com palavras.</p>
@@ -420,7 +419,7 @@
 <p>«Não se passaram muitos dias que não conhecesse a causa d'esta nova desgraça, para a qual não estava preparado.</p>
 <p>«Um domingo pela manhã, meu amo, tendo passado ao quarto do lord, que se vestia, fui ali procura-lo, e dizer-lhe que o reverendo padre Gregorio, antigo capellão da casa, o esperava desde muito na capella. Estas palavras excitaram um gesto de mófa no nosso hospede, e sem mais preambulo entrou a soltar os gracejos mais sacrilegos, contra tudo quanto ha de mais sagrado. Volvi os olhos para meu amo, percebi-o contrafeito, e mesmo lhe ouvi balbuciar algumas palavras em defeza da sua religião; mas com um animo fraco, como a luz da candeia que se extingue pela escassez do azeite. Levantou-se, comtudo, e seguiu-me.</p>
 <p>—«Senhor Frederico, lhe disse eu quando saímos, não posso gostar da vossa Inglaterra, nem dos vossos inglezes...—«E eu, senhor Anselmo, me tornou elle. acho-me ainda menos disposto a tolerar a vossa bella França!»</p>
-</div><div><head>CAPITULO XX</head>
+</div><div type="chapter"><head>CAPITULO XX</head>
 <p>CONTINUAÇÃO DA CARTA.</p>
 <p>«Todavia o conde amava-me com toda a bondade d’aquelle coração e docilidade de indole. Além d’isso eu sou como um movel necessario ao conforto da sua vida: Anselmo, vem cá; Anselmo, vae lá; Anselmo, eu conto fazer isto: o que achas, Anselmo?</p>
 <p>«Aqui para nós, meu Alberto; teu pae merecia ser o aio de um principe! mas, tornemos ao fio da sua triste narração;</p>
@@ -448,7 +447,7 @@
 <p>«Hontem me escreveu elle para informar-me que o rapto de mademoiselle de Nesle foi imputado a sua infeliz mãe: esta noticia socegou-me mais o espirito, e gostei de poder com ella finalisar esta longa escriptura!</p>
 <p>«Na sua curta, o pobre homem faz-nos umas despedidas! Sabes o que me mandou? todo o seu dinheiro e papeis.... Esta idea da morte, que passou pela mente de teu pae, me fez pensar na minha, e na tua, meu Alberto... e n'esta bella e nobre mocidade que aqui fica, crestando a mimosa pelle com os gelos da montanha! Mas é muito tarde: adeus, meu bom marido; aqui fica saudosa a tua</p>
 <p>Theresa Braupré.»</p>
-</div><div><head>CAPITULO XXI</head>
+</div><div type="chapter"><head>CAPITULO XXI</head>
 <p>THERESA.</p>
 <p>Havia apenas quinze dias que Theresa Beaupré habitava a sua nova casa no presbyterio de Sr.Lourenço, no Delphinado. Inda este curto espado não o tinha ella passado todo ali; porque dois dias depois da sua chegada ao paiz saira em busca da sua filha gemea, como disse á sua visinha mais proxima, a qual vigiou na sua ausencia as duas crianças, das quaes a mais velha, que era um rapaz, tinha pouco mais de seis annos.</p>
 <p>Theresa havia sido informada da venda da grande, fazenda, por um vendilhão ambulante que costumava trazer a Fréjus castanhas a vender. Esta pequena herdade, com todo o animado trem da vida campestre, havia sido sempre o doce sonho da sua imaginação: nada faltava no domestico arranjo, porque tudo fora premeditado e delineado com vagar.</p>
@@ -471,7 +470,7 @@
 <p>Os pequenos brincavam no terreiro; e Theresa os vigiava fazendo meia. Estas horas de socego eram sempre agitadas com mil preoccupações; quando o corpo descansava trabalhava a imaginação! «Alberto estaria n'aquelle momento exposto ás balas do inimigo?—elle era tão necessario em casa para delinear esta ou aquella plantação... quanto gostaria elle da creança!»—Era então Maria, e a sua educação, que lhe agitava o pensamento.</p>
 <p>A nora de Anselmo não se deitava logo á noite. Quando as portas e janellas se fechavam, e que reinava dentro em casa a quietação e o silencio, ella atravessava pé ante pé os quartos, e abria devagarinho a porta da sala; e assumindo um certo ar modesto e grave, como se fora aquella a entrada de um sanctuario, punha em cima da mesa o candieiro, tirava com cuidado da estante o livro, e abria-o no logar em que o deixara marcado da vespera.</p>
 <p>Theresa lia ás vezes até alta noite; de tempo a tempo interrompia a sua leitura, e encostando á mesa o cotovelo, segurava com a mão a cabeça para meditar; umas vezes ella ficava satisfeita, porque tinha comprehendido: outras enrugava a testa com um ar de duvida, e abanando a cabeça, um pouco descontente, continuava a ler até que mais tarde a fadiga ou o somno a convidavam a deitar-se.</p>
-</div><div><head>CAPITULO XXII</head>
+</div><div type="chapter"><head>CAPITULO XXII</head>
 <p>O LIVRO DA NATUREZA.</p>
 <p>Dois annos tinham decorrido desde que Theresa se achava dona de uma grande propriedade. As guerras haviam-se pro-</p>
 <p>longado, e Alberto passara da Allemanha para a Hespanha, e da Hespanha para a Allemanha, sempre desviado e longe do conforto do lar domestico, onde era tão anciosamente esperado.</p>
@@ -492,7 +491,7 @@
 <p>homens podem fallar a Deus por meio da oração. A oração é sempre uma supplica da creatura ao Omnipotente, ou para pedir-lhe o perdão das culpas commetidas, e que lhe desagradaram, ou para invocar do Senhor a graça de nos defender contra as ruins tentações.</p>
 <p>«Vamos para casa, continuou ella: esta noite começaes a orar a Deos comigo.</p>
 <p>As creanças seguiram a boa mulher, alvoraçadas de alegria. A alampada ardia junto á bella redoma. Theresa ergueu o vidro, e mostrou a imagem de Jesus-Menino a seus filhos. —«Eis-aqui está o Menino Deus no collo de sua mãe, lhes disse ella; porque Deus veiu já ha muitos annos á terra, aonde nasceu e cresceu como vós; é a bella e celebrada historia divina, que ides aprender nos livros. Ajoelhae, meninos.» Dizendo isto, ella sentou-se, e, com as creanças ajoelhadas a seus pés, começou a ensinar-lhes o Padre Nosso.</p>
-</div><div><head>CAPITULO XXIII</head>
+</div><div type="chapter"><head>CAPITULO XXIII</head>
 <p>O CURA DE S. LOURENÇO.</p>
 <p>O bom padre Jeronymo Delahorde era um desses religiosos que a revolução de 1789 expulsará do claustro. Elle havia dedicado os momentos vagos da sua mocidade á cultura das sagradas letras; e depois, nas suas viagens pela Italia, communicára com alguns sujeitos eruditos, e adquirira luzes em todos os ramos dos conhecimentos humanos. Onze annos mais tarde um grande dever o chamou á sua patria. Sua mãe acabava de morrer, deixando no mundo uma filha, cega de nascimento, da idade de quinze annos.</p>
 <p>Jeronymo achava-se então na Sardenha; mas depressa atravessou os Alpes para vir em soccorro de sua infeliz irmã, a qual ficara sob a protecção de uma honesta familia da cidade de Valença.</p>
@@ -513,7 +512,7 @@
 <p>«Um pae não tem direito de reclamar a sua filha?-dizia a pobre nora de Anselmo, caminhando para casa: — mas se elle a vem buscar para perde-la?...e a minha santa missão de resgatar uma alma do paraizo?! —vamos: já que o Senhor a trouxe á nossa casa, façamos o que estiver ao nosso alcance: é necessário que eu faça uma revelação ao nosso bom parocho; elle é homem honrado, e entende das cousas que respeitam á salvação, como um apostolo!</p>
 <p>Theresa demorou-se pouco á mesa, e em quanto seus filhos acabavam de almoçar, ella foi tirando do armario todo o seu fato novo e calçado. Depois chamou-os, e annunciou-lhes a visita que íam fazer com sua mãe.</p>
 <p>Esta noticia causou-lhes uma alegria extraordinaria: elles nunca tinham saido da fazenda, como as tenras avesinhas creadas no ninho que lhe compõe a providente mãe!</p>
-</div><div><head>CAPITULO XXIV</head>
+</div><div type="chapter"><head>CAPITULO XXIV</head>
 <p>A VISITA AO PRESBYTERIO.</p>
 <p>Quando a familia Beaupré entrava no pequeno jardim da casa de Jeronymo, saiam duas pobres velhas. O bom cura nunca almoçava nem jantava só; tinha tantos amigos! Segundo o uso do paiz punha a comida na grande mesa da cosinha. Em uma das extremidades d'esta mesa havia sempre dois talheres para os hospedes; os que almoçavam iam tambem jantar; d esta maneira todos participavam das bençãos e bom agasalho do digno clerigo.</p>
 <p>O cura deu signal a Theresa que subisse uns tres degraus que conduziam á sua modesta sala; tendo-os transposto, ella inclinou-se, beijando-lhe humildemente a manga da batina,</p>
@@ -533,7 +532,7 @@
 <p>Theresa saiu depois para chamar as creanças, em quanto o bom parocho tinha ido em busca da sua joven irmã. Lia, a ceguinha, tinha vinte e tres annos.</p>
 <p>Todas as suas forças intellectuaes tinham-se-lhe concentrado na memoria, cultivada na infancia por uma terna e intelligente mãe, e apurada depois por seu bom irmão e protector.</p>
 <p>Lia pareceu encantada d’este novo conhecimento, e como a impressão dos ouvidos lhe substituia a cegueira dos olhos, ella era attrahida pelo som da voz; a pequena Maria a tinha tão doce e cadente, que as palavras caiam brandamente da sua bôca, como as gotas de agua que murmuram nas sombrias fontes. O cura e sua irmã formaram, desde logo, o melhor conceito de Theresa, de que ella era realmente merecedora, e despediram-ser com promessa de se visitarem reciprocamente a miudo.</p>
-</div><div><head>CAPITULO XXV</head>
+</div><div type="chapter"><head>CAPITULO XXV</head>
 <p>TRANSFORMAÇÃO.</p>
 <p>Que é o tempo? Uma rapida e vigorosa torrente, que atravessando os mundos, leva na sua passagem os annos e os projectos dos homens. A vida some-se successivamente nas suas vagas!</p>
 <p>Theresa já linha trinta e seis a annos e andava de luto por sua mãe. A pobre Joanna a Briosa viveu e morreu mais feliz do que o seu heroe; ella viveu da sua gloria, e por sua morte deixou-o imperador da França; Napoleão teve poucos momentos de felicidade, e acabou a vida no exilio e no abandono!</p>
@@ -554,7 +553,7 @@
 <p>Forçoso é ilizer que no seu exterior havia tambem uma grande mudança; a sua pelle estava um pouco mais branca; tinha as mãos macias como qualquer senhora, e na convivencia com Lia e Jeronymo pouco a pouco havia convertido o seu ar rustico em uma meiga gravidade.</p>
 <p>Lia costumára-se a passar regularmente tres vezes na semana as tardes e uma parte da noite com Theresa e suas filhas. Seu irmão a deixava á porta, e d’ali passava ás suas visitas de caridade; na sua volta, que era sempre no fim da tarde, elle vinha entreter-se com os seus jovens amigos. Foi então que vendo os progressos dos discipulos de Theresa, e os esforços que fazia a boa mulher para tirar das suas fracas luzes grammaticaes uns certos principios e regulamento de ensino, o bom clerigo se offereceu a repartir com a pequena familia os seus conhecimentos, que os tinha</p>
 <p>era abundancia; e havia quasi cinco annos que recebiam sem interrupção as lições ao seu parocho.</p>
-</div><div><head>CAPITULO XXVI</head>
+</div><div type="chapter"><head>CAPITULO XXVI</head>
 <p>O SERÃO.</p>
 <p>Uma noite que madame de Montlerrier fazia as honras da ceia ao seu circulo, em um bello quarto de jantar: — «Vamos, meu bom cura, disse ella, dae-nos a vossa palavra que nos acompanhareis, ou se não, tereis de arrepender-vos, porque Lia não vivirá muito tempo longe das suas amigas...</p>
 <p>—«Não terei esse remorso, respondeu o cura: já lhe propuz a escolha; ella póde ficar acompanhando as meninas.»</p>
@@ -584,7 +583,7 @@
 <p>«Sabeis que o general doou a vosso pae as suas terras de Montferrier, nos arrabaldes da universidade: ali ides adquirir as bellas maneiras das cidades. Em Montferrier tomareis algumas lições de musica e do italiano, lingua que podereis praticar com vosso pae.»</p>
 <p>—«Mas o que faremos ás noites, redarguiu o cura, senão começarmos tambem com o italiano? as cabecinhas d'estas lindas meninas estão bem recheadas de geographia; entendem e escrevem perfeitamente a sua lingua...»</p>
 <p>—«Como for vossa vontade, respondeu Theresa: n’esse caso, Luiza e Maria pouco vão aprender em Montferrier, e estou bem certa que o tempo e as distracções não lhe farão esquecer nunca as vossas lições ao serão!»</p>
-</div><div><head>CAPITULO XXVII</head>
+</div><div type="chapter"><head>CAPITULO XXVII</head>
 <p>CONFORTO DOMESTICO.</p>
 <p>Estava-se no mez de marco de 1814. De tempos a tempos o cura de S. Lourenço passava dois ou tres dias na cidade de Valencia, em casa do seu amigo.</p>
 <p>Esta casa era uma especie de club, onde se ajuntavam todas as noites os amigos que vinham contar-lhe as noticias do dia, e ali conversavam e commnentavam os acontecimentos.</p>
@@ -608,7 +607,7 @@
 <p>A familia reunia-se então no quarto do jantar, aonde se achava o pae estendido sobre um singelo divau; os tres irmãos traziam para ali os seus livros de estudos, em quanto os servos com socego e ordem obedeciam á voz da boa governanta.</p>
 <p>Theresa não se dedignava de ir á cosinha ; a sua actividade animava os domesticos no trabalho; imprimia em tudo o cunho da sua bondade, e, pondo de parte o devido respeito, havia entre a ama e os creados uma confiança mutua.</p>
 <p>Alberto occupava-se muito em ler, e a livraria escolhida de Jeronyimo passava-lhe agora pelas mãos.</p>
-</div><div><head>CAPITULO XXVIII</head>
+</div><div type="chapter"><head>CAPITULO XXVIII</head>
 <p>O PAE E O FILHO.</p>
 <p>A bulha dos ferros do captivo da ilha d'Elba perturbava as bachauaes da restauração dos Bourbons. Uma mulher que viera d'ali foi presa, por ter espalhado boatos mais circuinstanciados dos preparativos que se faziam em Porto-Ferrajo.</p>
 <p>No 1.° de março de 1815 os telegraphos anuunciaram o desembarque do heroe. Esta importante noticia voou de bôca em bôca, de bairro em bairro, de cidade em cidade; chegando brevemente até ao presbyterio de S. Lourenço.</p>
@@ -637,7 +636,7 @@
 <p>—«Quizera atar esta sagrada cruz á vossa cabeceira, meu caro avô, disse ella:—vós velastes sobre a minha infancia, eu devo ajudar-vos na velhice: conservei sempre a vossa lembrança nas recordações dos meus primeiros annos.»</p>
 <p>Dizendo isto, ella subiu á cadeira que estava junto ao leito, e atou com uma fita á cabeceira o crucifixo; desceu depois em silencio, e tomou ao seu logar.</p>
 <p>Passado algum tempo, Theresa entrou no quarto com seu esposo, e disseram a Maria que fosse com sua irmã colher algumas rosas para enfeitar o altar que se ia preparar n’aquelle quarto.</p>
-</div><div><head>CAPITULO XXIX</head>
+</div><div type="chapter"><head>CAPITULO XXIX</head>
 <p>A ITALIANA.</p>
 <p>Tinha havido um forte temporal n‘aquella noite, e se bem que a chuva houvesse cessado desde pela manhã, a alameda estava n'um charco. Costumadas aos gelos e á humidade, Luiza e Maria, tendo calçado os seus tamancos, foram com açafates em busca das rosas que estavam na sebe á borda da estrada.</p>
 <p>—«Tu não te lembravas d‘elle?—disse Maria a sua irmã, caminhando ambas a custo pelo terreno que escorregava.»</p>
@@ -679,7 +678,7 @@
 <p>Pouco depois Lia chegou, que viera no carro adiante de seu irmão. Madame de Montferrier disse a suas filhas que ficassem em baixo com a sua amiga, em quanto seu avô ía confessar-se. N'estes arranjos ella precisou de ir ao oratorio, e atravessando o quarto de suas filhas deparou com a figura immovel e melancholica da bella italiana; tendo trazido do oratorio o que ali fora procurar, ella dirigia-se á estrangeira, apresentando-lhe a mão. Theresa Mancini levantou-se, e seguiu a sua amavel couductora; tendo atravessado ambas um pequeno corredor, entraram por uma porta que estava entre-aberta para o quarto do doente.</p>
 <p>Um leve estremecimento se apoderou da estrangeira. Madame de Montferrier a fez sentar em um canto do quarto desviado do leito, e foi occupar o seu logar ao lado do enfermo.</p>
 <p>D’ahi a pouco Alberto chamou sua mulher. Ouviu-se então em baixo um pequeno ruido, e um passo mais pesado subir os degraus da escada.</p>
-</div><div><head>CAPITULO XXX</head>
+</div><div type="chapter"><head>CAPITULO XXX</head>
 <p>PRIMEIRA CONFISSÃO.</p>
 <p>A senhora Mancini viu entrar um respeitavel clerigo: era alto, tinha a testa espaçosa, e um pouco calva, não pela idade, mas naturalmente: em todas as suas feições resumbrava a fé e a caridade.</p>
 <p>Parou á entrada, olhando para o lado do leito, sem dar attenção á estranha guarda de Anselmo. Depositou em um pequeno altar o Viatico, e fechando com cuidado a porta, preparou-se para cumprir os santos deveres do seu ministerio.</p>
@@ -703,7 +702,7 @@
 <p>—«Não, meu padre, redarguiu Anselmo: vós a conheceis melhor do que eu! é Maria, meu respeitavel amigo!»</p>
 <p>Ao ouvir estas palavras do doente, a mulher immediatamente poz-se de joelhos, o inclinou a cabeça até ao chão; n’esta humilde posição, ella parecia enviar silenciosamente a Deus alguma prece fervorosa!</p>
 <p>Anselmo continuou contando a scena edificante que passara com a menina n'aquella manhã: — «Estou impaciente, disse elle, por saber o que direis a respeito da minha resolução?—entretanto devo confessarmos que me sinto alliviado do grande peso que tinha na consciencia... Sim, senhor; comecei mesmo desde hoje a nutrir esperanças no melhoramento da chaga do meu coração... aberta sempre, em quanto Deus não tocar da sua graça a ovelha perdida que ficou a meu cargo... esse filho da minha alma!...—  balbuciou Anselmo, enxugando algumas lagrimas, e proseguiu:—Experimentei uma suave alegria ao contemplar a celeste acção daquella creança; julguei ver n'ella o anjo que me trazia a recompensa em nome do Senhor... e é verdade, meu padre, claramente verdade, que me sinto melhor no meu estado de saude.</p>
-</div><div><head>CAPITULO XXXI</head>
+</div><div type="chapter"><head>CAPITULO XXXI</head>
 <p>CONTINUAÇÃO.</p>
 <p>— «A base essencial da nossa doutrina, prorompeu o cura, encerra-se n’estas palavras: Fé. Esperança, e Caridade.— A fé é a nossa viva crença em Deus. A esperança é o futuro da nossa alma na eternidade. A caridade é o nosso amor para com o proximo.</p>
 <p>«Devemos amar os homens como nos amámos; todo o amor proprio resolve-se pois em fraternal affecto.</p>
@@ -726,7 +725,7 @@
 <p>—«Pensando no que me dissestes, tornou o bom Anselmo, se a minha melhora continuar, estou resolvido a voltar á Inglaterra. Ha já dois antros que o conde tem fallado repetidas vezes na sua volta á Fraça; ultimamente elle havia fixado o seu regresso para o proximo abril. Tencionava ir primeiramente a Montpellier porque a lembrança de sua sogra persegue-o como um remorso...»</p>
 <p>—«Houve alguma desintelligencia entre o conde e sua sogra?»—perguntou o cura.</p>
 <p>—«Como vos tinha dito, os desgostos tornaram-no impaciente. Na sua ultima volta de Inglaterra, tres dias depois, passou por Montpellier; e sem attender á delicadeza de sentimentos de uma senhora e mãe, fez-lhe uma narrarão precipitada do proceder desenvolto da sua indigna esposa... foi uma grande desgraça! porque a pobre senhora perdeu o juizo desde então...»</p>
-</div><div><head>CAPITULO XXXII</head>
+</div><div type="chapter"><head>CAPITULO XXXII</head>
 <p>A SURPREZA.</p>
 <p>Ouviu-se n'este momento um forte soluçar no quarto.</p>
 <p>—«Que é isto?— disse o cura, levantando-se:—Estava aqui alguem?»</p>
@@ -767,7 +766,7 @@
 <p>Pela manhã muito cedo, a sympathica hospeda vestiu o seu fato, que havia sido enxuto a ferro. Todos dormiam ainda. A natureza mesmo indolente, parecia ressarcir-se das forças exhaustas na tormenta da precedente noite, e nem se ouvia o mais leve murmurio da aragem. A aurora não acabara de transpor as orlas do horisonte, mas a vaga luz do crepusculo lançava uma frouxa claridade por todo o quarto de madeimoiselles de Montferrier.</p>
 <p>Madame Mancini ajoelhou junto ao leito das meninas, e demorou-se ali algum tempo com o lenço nos olhos: — «Dorme, dorme, disse ella, interrompendo brandamente o silencio de toda a natureza:—tu não verás chorar d‘esta vez a tua desconhecida amiga... este rosto que te agradou, vae envelhecer com saudades tuas!—não ouso perturbar a serenidade do teu descanso... adeus, preciosa flor... aqui te deixo!... de mim só te fica este triste e isolado nome: Theresa Mancini!»</p>
 <p>Pouco depois ella descia a escada, parando a cada degrau para enxugar as lagrimas.</p>
-</div><div><head>CAPITULO XXXIII</head>
+</div><div type="chapter"><head>CAPITULO XXXIII</head>
 <p>A IGREJA DE S.LOURONÇO.</p>
 <p>Era uma manhã sombria e frigidissima. Madame Mancini encontrou no seu caminho algumas camponias, que saiam tiritando de suas casas a buscar agua em cantaros, trajando grosso sayal.</p>
 <p>—«Nós estamos perto da casa do nosso cura, disse o conductor:—mas talvez queiraes ir á igreja, que é onde elle está certamente a estas horas?»</p>
@@ -796,7 +795,7 @@
 <p>—«Bem sei, padre, tornou a infeliz senhora. As provas são indispensaveis perante a lei e os tribunaes; mas uma confissão sincera não tem aos vossos olhos o mesmo valor?»</p>
 <p>—«Sim, senhora, respondeu o cura: mas porque a não fizestes logo, quando podieis depor a vossa innocencia no regaço de uma mãe?—Sabeis o mal irreparavel que lhe causou a fatal nova?»</p>
 <p>—«Minha mãe! minha boa e santa mãe! exclamou Alicia: e depois continuou, voltando-se para o cura.</p>
-</div><div><head>CAPITULO XXXIV</head>
+</div><div type="chapter"><head>CAPITULO XXXIV</head>
 <p>SEGUNDA CONFISSÃO.</p>
 <p>—«Soube tudo honTem: lembrae-vos de que fui a muda espectadora da ingenua confissão do meu velho creadó!— Vamos, continuou ella: eu devo começar por essas palavras, que articulei em um excesso de afflicção, e que ainda pesam hoje na consciencia do bom Anselmo Dir-vos-hei primeiramente, que devo unia grande parte dos meus infortunios a uma imprudencia minha; tinha então desesete annos, senhor; e n’aquella idade a imprevidencia é natural...»</p>
 <p>—«Sim, replicou o cura, a innocencia é franca e descuidada.»</p>
@@ -830,7 +829,7 @@
 <p>«Fiz offerta de uma grande parte dos meus vestidos á familia Nathaniel; para mim reservei só o fato preto. Saimos de Paris entre lusco e fusco, e viajamos pacificamente até Marselha.</p>
 <p>«Demorei-me alguns dias n’essa cidade: que bello céu, senhor, e que boa gente!— Que recordações dos meus passados e alegres dias de Avinhão! A generosidade e benevolencia dos filhos de Marselha tornaram mais saudosas ainda as despedidas que ali fizemos á patria!—Eu não sabia se esta separação seria eterna: mas a minha dor era infinita!</p>
 <p>«Comecei n'este ponto a passar por viuva, e o meu incansavel e previdente companheiro de viagem arranjou-me excellente passagem em um navio, fretado por uma rica familia de Lyão, que ia passar em Roma a semana santa. Parti, senhor!» e n'essa noite sobre o convezdao luar, enviei um bem sentido adeus á minha terra nataliça</p>
-</div><div><head>CAPITULO XXXV</head>
+</div><div type="chapter"><head>CAPITULO XXXV</head>
 <p>CONTINUAÇÃO</p>
 <p>A 12 de março a embarcação ancorou no pequeno porto de Civita-Vecchia. A familia lyonneza compunha-se tão sómente de marido e mulher: mr. e madame de Breton.</p>
 <p>«Passámos um dia n’esta cidade na mesma hospedaria. Achava-me tão precisada de pousar a vista, e occupar o pensamento com algumas imagens da outra vida, que me decidi a passar, em Roma, com os meus amigos de viagem, a semana santa.</p>
@@ -845,7 +844,7 @@
 <p>esphera um pouco elevada do meu nascimento. Madame Perceval (meu nome em Italia) devia passar por viuva de um oficial do exercito francez.</p>
 <p>«Ainda tinha uma vaga esperança de ver um dia a minha filha. — D’aqui a doze annos, dizia eu comigo, já terei trinta e quatro;, o tempo e o saudade hão de operar em mim consideravel mudança... poderei talvez passar por italiana; verei a minha patria, viverei entre os meus sem que elles me conheçam!—Amelia terá então dezesete annos .. poderei porventura introduzir-me na minha casa como professora de alguma dessas artes uteis para a mocidade, e acabar eu mesma a edueação da filha querida da minha alma. Este pensamento comprazia-me; mal apontou na minha imaginação dominou-a logo.</p>
 <p>«Mr. e madame Breton separaram-se de mim com saudade; n'esse mesmo dia fui estabelecer-me no meu novo domicilio.</p>
-</div><div><head>CAPITULO XXXVI</head>
+</div><div type="chapter"><head>CAPITULO XXXVI</head>
 <p>CONTINUAÇÃO.</p>
 <p>«Fui assistir com uma respeitavel romana viuva. A nossa casa ficava sobre o Tibre. Eu tinha dois bellos quartos, e comiamos juntas.</p>
 <p>«Entretanto, nos meus projectos de futuro tinha despezas extraordinarias a fazer; e se bem que eu trouxesse uns sessenta mil francos em joias e mais algum dinheiro, era necessario lançar mão de algum meio de vida, para poder conservar-me com uma certa independencia.</p>
@@ -861,7 +860,7 @@
 <p>«Sai de Roma n'esse mesmo dia, e pouco antes da minha partida, a artilharia do castello de Santo Angelo annunciou a queda da soberania pontifical.</p>
 <p>«Fiz uma bella viagem pelo Tibre, e cheguei sem novidade ao porto de Ostia. Nessa cidade demorei-me apenas dois dias, partindo d'ali em uma pequena embarcação para Genova.</p>
 <p>«Genova convinha-me por muitas rasões, continuou Alicia: este estado, reunido ao imperio francez, era para mim como um simulacro da patria; gostava de ouvir pelas ruas a linguagem da minha terra natal! — Ali estava eu nas raias da minha França, salva e protegida contra a perseguição de meu indigno cunhado.</p>
-</div><div><head>CAPITULO XXXVII</head>
+</div><div type="chapter"><head>CAPITULO XXXVII</head>
 <p>CONTINUAÇÃO.</p>
 <p>«Nathaniel era o meu unico correspondente em França.</p>
 <p>O pobre homem morava ultimamente muito distante da nossa residencia e apenas soube dizer-me que meu marido tinha passado á Grã-Bretanha.</p>
@@ -879,7 +878,7 @@
 <p>«A figura nobre do pae d'estas meninas estava em perfeita harmonia com a sumptuosidade da architectura e mobilia d'aquella rica habitação.</p>
 <p>«Executei uma peça de musica de Nozze de Mozart,e cantei duas arias que escolhi de proposito para a occasião. Da segunda vez que me levantei do piano, miando acabava a primeira aria, o senhor Negroni, beijando-me uma das mãos, conduziu-me enthusiasmado a suas filhas, dizendo —«Vós tomareis as lições de madame Perceval; n’ella vejo reunido tudo quanto um extremoso pae póde desejar para o bem de suas filhas. Madame Perceval; continuou elle tem nas suas maneiras aquella affabilidade que distingue a sua nação: é o uncio dom que trouxe da sua terra os outros certamente vi eram-lhe do ceu: canta primorosamente: não e uma mulher, ainda menos uma actriz... é um anjo!</p>
 <p>«Repito-vos estes elogios, não por jactancia, mas para que mais tarde vos lembreis da minha entrada n'esta casa, que foi no dia que se seguiu a tão agradavel noite.</p>
-</div><div><head>CAPITULO XXXVIII</head>
+</div><div type="chapter"><head>CAPITULO XXXVIII</head>
 <p>CONTINUAÇÃO.</p>
 <p>«Passaram-se quatro annos, em que vivi amada e tratada como uma amiga intima, como um membiro d'aquella nobre e excellente familia.</p>
 <p>«O senhor Negroni, homem sexagenario, tinha um tanto de rigido e caprichoso; era tão excessivo nas suas affeições como nas suas antipathias; velho republicano genovez, odiava a nação franceza, e ainda que geral mente em Genova as senhoras têem o espirito mais cultivado, estudam as linguas, e adoptam algumas as modas francezas, na villa Negroni não entrava um covado de seda ou renda tecida na França. Determinou-se-me que me vestisse inteiramente á genoveza, e por isso comecei de usar o longo veu com que se cobrem quando vão ás igrejas e aos passeios publicos.</p>
@@ -900,7 +899,7 @@
 <p>«No primeiro momento o ancião não respondeu uma unica palavra a seu filho, e Lourenzo saiu da presença de seu pae mais tremulo e confuso ainda.</p>
 <p>«Como vos disse, padre, tomaram lá entre si aquella resolução, sem que eu estivesse iniciada no segredo. Estava pois lendo socegada no meu quarto, quando ouvi a voz do senhor Negroni que me chamava; abri a porta, e elle disse-me estas palavras com um accento ironico e aspero:</p>
 <p>—«Vinde comigo, senhora.»</p>
-</div><div><head>CAPITULO XXXVIX</head>
+</div><div type="chapter"><head>CAPITULO XXXVIX</head>
 <p>CONTINUAÇÃO.</p>
 <p>«Obedeci promptamente, continuou Alicia. Atravessámos alguns corredores, e fomos sair a uma escada mais escura d‘esta parte do edificio: fomos sempre andando por immensos jardins, até que entrámos em uma espessa e velha</p>
 <p>mata de antigas arvores, enteadas de robustas silvas, formando um vasto labyrintho, onde eu podia penetrar a custo, seguindo o temido proprietario d'aquelle deserto bosque!</p>
@@ -916,7 +915,7 @@
 <p>«Dizendo isto, fechou-me a porta e saiu sem me dar tempo a dirigir-lhe uma só palavra: pouco depois anoiteceu.</p>
 <p>«Nem um momento me occorreu a idéa da morte: tinha perfeito conhecimento da pessoa a quem a minha vida estava entregue. Giovani Negroni era tudo quanto d'elle tenho dito; porém o genovez tinha boa indole e era profunda e sinceramente religioso; por isso esperava confiada. Giovani era exquisito, austero, teimoso... mas não podia nunca ser um assassino.</p>
 <p>«Cansada de pensar no presente e no passador não podendo romper o denso veu do meu faturo, deitei-me sobre o leito, e dormi uma parte da noite.</p>
-</div><div><head>CAPITULO XL</head>
+</div><div type="chapter"><head>CAPITULO XL</head>
 <p>CONTINUAÇÃO.</p>
 <p>«A claridade entrava a furto na minha prisão, e o sol nunca lá penetrou. Eram passadas as horas de almoço, quando senti um leve rumor; abriram por ultimo a porta do meu quarto, e um homem limpo, de meia idade, entrou, apresentando-me um pequeno taboleiro hem acondicionado com alvas toalhas; dentro vinha um bom caldo, uma ave assada, algum vinho, pão e fructa.</p>
 <p>«Interroguei-o por duas ou tres vezes sem obter resposta; ate que a final soltou como uns gritos que me fizeram conhecer que era mudo.</p>
@@ -944,7 +943,7 @@
 <p>«Com quanto tivesse errado a pontaria, a bala sempre lhe penetrou no peito, e os medicos declararam-no grave-</p>
 <p>mente ferido. Alguns dias depois comecámos a ter esperanças; ao cabo de duas semanas os doutores affiançaram que estava livre de perigo.</p>
 <p>«Mas Lourenzo, tornado á vida, recaiu no seu padecimento moral... sobreveiu a febre e o delirio... meu irmão foi de mal a peior, e hoje já não temos esperança de o salvar...» o pranto afogou aqui a voz da donzella, e todas tres chorámos amargamente.</p>
-</div><div><head>CAPITULO XLI</head>
+</div><div type="chapter"><head>CAPITULO XLI</head>
 <p>CONTINUAÇÃO.</p>
 <p>—«E vosso pae? lhe perguntei.</p>
 <p>—«Esperae, me disse Salvadora: meu pae talvez escape... o pranto embargou-lhe novamente a voz... graças ás vossas orações, e ás nossas... meu pae viverá, proseguiu ella com fé, o seu arrependimento é-lhe necessário á alma!</p>
@@ -982,7 +981,7 @@
 <p>—«Dormi até algumas vezes em sua casa, disse elle, porém nunca vi mademoiselle de Nesle, nem d‘ella ouvi fallar! O conde só duas vezes me fallou de vós, mas de passagem: percebe-se que a vossa lembrança o affecta.»</p>
 <p>«Não encobri por mais tempo o meu nome, tanto mais</p>
 <p>que morria por fazer algumas indagações sobre meu esposo. Affligia-me a incerteza em que estava de ser viva ou não a minha Amelia; porém, uma consoladora esperança suavisava a minha dor.</p>
-</div><div><head>CAPITULO XLII</head>
+</div><div type="chapter"><head>CAPITULO XLII</head>
 <p>CONTINUAÇÃO.</p>
 <p>—«Lourenzo, disse o velho Negroni, profundamente commovido dos meus infortunnios:—eu estou velho e cansado; mas se fosse mancebo como tu, dedicaria um anno da minha vida a restituir a sua respeitavel familia a mais digna e virtuosa mulher que tenho conhecido.»</p>
 <p>—«Esse é o meu mais ardente desejo, respondeu Lourenzo; e juro-vos pela niinlia honra, que háveis de recobrar os vossos legitimos direitos de esposa e mãe...»</p>
@@ -1010,7 +1009,7 @@
 <p>—«Adeus Alicia, me disse minha irmã: tinha-me enganado com a porta, quando entrei aqui... Foi um equivoco providencial... Não o julgas assim? Dizendo isto despediu-se de mim com muitas lagrimas, e saiu.</p>
 <p>«Demorei-me ainda uns quinze dias em Nice; desembarquei em Fréjus no primeiro dia d’este mez.</p>
 <p>«Sabia o nome do sitio onde habitava a sogra de Alberto Beaupré, e resolvi procura-la no mesmo dia.</p>
-</div><div><head>CAPITULO XLIII</head>
+</div><div type="chapter"><head>CAPITULO XLIII</head>
 <p>A PROTECÇÃO.</p>
 <p>«Tendo almoçado em uma pequena estalagem, sai na minha pesquisa, Joanna morava nos arrabaldes; pelo caminho me mostraram a casa. Entrei ali como por acaso, e affectando ser estrangeira. A lavadeira já tinha fallecido, e a casa era agora habitada por uma de suas filhas. Facil me foi encetar uma conversação, simulando a curiosidade de ter noticia do estado de seus parentes. Anna gostava de bacharelar, como sua mãe, e não se esqueceu de referir-se á posição elevada a que tinha chegado seu cunhado Alberto; mencionou-vos tambem, senhor, como grande amigo de sua irmã Theresa, e disse-me o nome do presbyterio.</p>
 <p>«Ao outro dia pela manhã puz-me a caminno, e vim descansar em Montelimart. D’ali continuei a jornada, caminhando umas vezes a pé outras em caleças que encontrava, tendo confiado á excellente mulher, que me hospedou em Montelimart, o resto das joias que levei da França, e algumas preciosidades com que fora presenteada pela familia Negroni.</p>
@@ -1028,7 +1027,7 @@
 <p>—«Então, continuou o cura, tenho em minha casa mesmo uma preciosa companheira para a vossa solidão: é uma pobre viuva de Valença que abriguei da miseria ha dois annos; as guerras lhe levaram todos os parentes, um apos outro. Genoveva é uma excellente mulher; tomae-a ao vosso serviço. Alugareis uma pequena casa n’aquella cidade, e quando vos achardes bem estabelecida, escrevei-me indicando-me a vossa habitação. Por mim sabereis de Maria; mas convém por em quanto afastar-vos d’ella. Dentro de uma hora tenho-vos arranjado tudo.»</p>
 <p>O cura chamou Lia sua irmã, e saiu.</p>
 <p>Passado algum tempo, ouviu-se no pateo a bulha de um carro. Alicia foi ali conduzida pelo bom cura: a sua companheira de viagem já estava prompta á sua espera, e a nossa viajante partiu, acompanhada d’esta vez e protegida.</p>
-</div><div><head>CAPITULO XLIV</head>
+</div><div type="chapter"><head>CAPITULO XLIV</head>
 <p>A TIA MARGARIDA.</p>
 <p>Certo dia de abril, um moço cavalheiro apresentou-se á porta de uma modesta casa campestre no Languedoe. Ao quarto da entrada via-se uma velhinha sentada n’uma antiga cadeira de pau: cadeira e velha pareciam contemporaneas!</p>
 <p>A velhinha estava só, mas tinha diante de si uma grande roca, que chamam ingleza, com rodas, por onde o fio passava com a ajuda do pé e da mão: mas tudo estava quieto; pé, mão, velha e roca!</p>
@@ -1084,7 +1083,7 @@
 <p>—Minha mãe, disse João, abanando a velhinha, que nada ouvia aturdida com a bulha da roca: —o nosso patrão, continuou elle, afastando para um lado o impertinente instrumento—o senhor Frederico está aqui!</p>
 <p>—O senhor Frederico está aqui?—disse a velha com inflexão ironica:—bem vindo seja o senhor Frederico... já era tempo de visitar a campa de seu honrado pae... que Deus o traga em boa guarda!</p>
 <p>—Vamos, João, disse o conde de Nesle ao camponez; — faz-se tarde; chama gente que possa servir-me; venho causado, quero cear e deitar-me. João correu a buscar um grande mólho de chaves, que estava pendurado na parede, e acompanhou seu amo ao castello.</p>
-</div><div><head>CAPITULO XLV</head>
+</div><div type="chapter"><head>CAPITULO XLV</head>
 <p>A CAPELLA DO TEMULO.</p>
 <p>A visita do patrão ao castello era movimento uma grande parte dos habitantes. Uns limpavam a herva dos pateos, outros alavam com vimes alguns ramos esgalhados das arvores que embaraçavam a passagem; estes varriam, est'outros aguavam algumas flores conservadas nos jardins: João tinha amanhecido na capella dos tumulos; o pequeno atrio de cyprestes estava limpo e varrido, e a porta ita capella achava-se aberta á espera do neto dos Nesles.</p>
 <p>As fallas da velhice são sempre admoestações para a mocidade, e bem degenerado e o coração humano que não reconhece a superioridade da experiencia, e a não respeita!</p>
@@ -1107,7 +1106,7 @@
 <p>Cumpre declarar, entre parenthesis, que o cura havia pedido ao pae de Alberto, que não fallasse ao conde na grande transformarão e fortuna de Alberto de Moutferrier; isto era mui necessario aos meios pelos quaes se propunha o bom clerigo de trazer á conversão o conde de Nesle.</p>
 <p>N'essa mesma noite Anselmo escreveu a Jeronymo, passando-lhe aviso da subita chegada de Frederico, e do seu encontro com o mancebo.</p>
 <p>A resposta a esta carta não tardou, e alegrou sobremaneira o ancião.</p>
-</div><div><head>CAPITULO XLVI</head>
+</div><div type="chapter"><head>CAPITULO XLVI</head>
 <p>A VISITA DE UM CLERIGO.</p>
 <p>Já havia oito dias que Frederico se achava na antiga habitação da sua infancia e tinha sido visitado por todas as notabilidades da provincia.</p>
 <p>Anselmo um dia saiu cedo, e de volta a casa dirigiu-se ao quarto de seu patrão.</p>
@@ -1156,7 +1155,7 @@
 <p>—«É o pae d’essa menina, e de uma sua irmã. Bravo militar! fez todas as campanhas de Napoleão, mas retirou-se ao seio da sua familia muito antes da ultima catastrophe do imperador. A sua conversação é mui attrahente. Madame de Montferrier e tambem uma senhora digna de toda a consideração e de todo o respeito, como um composto de raras virtudes!»</p>
 <p>«Não vos prometto grande assiduidade com os vossos amigos, respondeu o conde: tenho-me tornado bastante excentrico, e o tracto das senhoras constrange-me; não acontecerá assim connosco, meu amigo; pelo contrario, talvez que eu tenha de importunar-vos.»</p>
 <p>No outro dia, ao separarem-se, o conde prometteu pagar a visita ao cura, no presbyterio.</p>
-</div><div><head>CAPITULO XLVII</head>
+</div><div type="chapter"><head>CAPITULO XLVII</head>
 <p>AS SUPPOSTAS GEMEAS.</p>
 <p>Havia alguns dias que o conde de Nesle se achava na sua bella vivenda de Montpellier, e tinha já recebido a visita de mr. de Montferrier, a quem o cura o havia recommendado. Estava convidado a jantar n’aquelle dia em sua casa, o que equivalia a uma pequena viagem, porque o castello de Montferrier ficava um pouco arredado da cidade.</p>
 <p>Acompanhemos o conde e entremos com elle.</p>
@@ -1180,7 +1179,7 @@
 <p>Á noite chegaram uns tres convidados, que fizeram a partida com o dono da casa; e Frederico passou entretido com a mãe e as filhas, cuja sociedade quanto mais cultivada mais se tornava appetecida.</p>
 <p>Madame de Montferrier trouxe era conversa os antepassados do conde, e manifestou ao seu hospede uma tão amavel e singela sympathia, que desafogou com ella mais do que costumava; e, sem nunca desviar-se da reserva sobre a causa particular do seu padecimento moral, fallou da sua tendencia para a solidão, e do aborrecimento que lhe inspiravam as intrigas e etiquetas do grande mundo.</p>
 <p>Quando se despediram, mr. de Montferrier disse ao conde que dava duas vezes na semana um pequeno concerto de musica para suas filhas, e que o esperava n'aquelles dois dias no castello. O conde acceitou e agradeceu.</p>
-</div><div><head>CAPITULO XLVIII</head>
+</div><div type="chapter"><head>CAPITULO XLVIII</head>
 <p>EQUIVOCO.</p>
 <p>Nas primeiras vezes o conde usou de algum ceremonial, e vinha tarde, á hora do jantar; depois passou a vir cedo pela manha, e era ali que se achava verdadeiramente satisfeito.</p>
 <p>As graças feiticeiras de Luiza despertaram-lhe por alguns momentos a sua antiga jovialidade; Maria, porém, inspirava-lhe um sentimento que não podia definir; desconhecia-se a si mesmo diante d'ella!</p>
@@ -1234,7 +1233,7 @@
 <p>A conversação dos dois prolongou-se até quasi á hora do jantar.</p>
 <p>Maria foi predispondo o coração do seu discipulo, que passava com ella quasi todas as manhãs. Como dissemos, a menina escrevia sempre ao seu mestre, e as suas cartas eram cada dia mais satisfatorias.</p>
 <p>Frederico correspondia-se tambem com o cura, e esperava anciosamente o sua vinda.</p>
-</div><div><head>CAPITULO XLIX</head>
+</div><div type="chapter"><head>CAPITULO XLIX</head>
 <p>A CORRESPONDENCIA.</p>
 <p>Um dia pela manhã, a nossa gemea recebeu esta carta do conde.</p>
 <p>«Mademoiselle de Montferrier:</p>
@@ -1286,7 +1285,7 @@
 <p>«Ô Maria!... quanto eu era indigno dos gosos da fé! — « E como mereci a Deus a vossa affeição?!... Sim... ha um Deus, minha querida, minha excellente amiga, ha um Deus que respeito profundamente, e cuja lei vae ser desde hoje a minha!</p>
 <p>«Segui a estupenda historia de Christo: continuae!</p>
 <p>«Frederico, conde de Nesle.»</p>
-</div><div><head>CAPITULO L</head>
+</div><div type="chapter"><head>CAPITULO L</head>
 <p>OUTRA CARTA DE MARIA.</p>
 <p>O conde recebeu por este tempo uma carta de Jeronymo, na qual lhe dizia, que resolvido a passar á Italia por negocios particulares, só contava achar-se em Montpellier por meado de abril.</p>
 <p>Frederico escreveu immediatamente ao cura, pedindo-lhe de passar com elle dois ou tres dias no caminho da sua viagem; que o negocio que tinham a tratar não admittia demora, nem mesmo de dias.</p>
@@ -1329,7 +1328,7 @@
 <p>«Logo que chegue o nosso cura avisae-me, e marcae-me igualmente o dia e a hora em que ides ajoelhar aos pés do vosso confessor: quero participar do mesmo sagrado pão comvosco n’esse dia!</p>
 <p>«Espero a vossa resposta.</p>
 <p>«Maria de Montferrier.»</p>
-</div><div><head>CAPITULO LI</head>
+</div><div type="chapter"><head>CAPITULO LI</head>
 <p>A CONVERSÃO.</p>
 <p>Passavam-se alguns dias, e o cura de S. Lourenço appareceu uma manhã em Montferrier com Lia e Joaquim. Maria contou ao seu mestre tudo quanto se tinha passado. O cura depois teve uma larga conferencia com Theresa de Montferrier.</p>
 <p>Jeronymo apenas tres dias se podia demorar em Montpellier, e tendo jantado com a familia, partiu para casa do conde.</p>
@@ -1359,7 +1358,7 @@
 <p>O conde não saiu da igreja sem pedir humildemente perdão ao seu respeitavel aio dos desgostos que lhe causara.</p>
 <p>—«Anselmo, lhe disse, agora pódes tratar-me mais a miudo por filho, e todos os dias como amigo: é assim que eu quero que te considerem desde hoje em minha casa, onde não consinto que faças o menor serviço.»</p>
 <p>As seges partiram para Montferrier.</p>
-</div><div><head>CAPITULO LII</head>
+</div><div type="chapter"><head>CAPITULO LII</head>
 <p>UMA FILHA RESTITUIDA A SEU PAE.</p>
 <p>Eram 10 horas da manhã quando chegaram ao castello. Entrando na primeira sala, Theresa, com grande emoção, dirigiu-se ao conde, e disse-lhe:</p>
 <p>—«Permittis que introduza o companheiro da vosso infancia um momento n‘esta sala?»</p>
@@ -1386,7 +1385,7 @@
 <p>Dizendo isto, suffocado de commoção, Frederico abraçou-se estreitamente com Anselmo, e foi custoso separa-los.</p>
 <p>Frederico, sabendo que o cura ia desembarcar no porto de Nice, passou algum tempo a escrever uma extensa carta a seu cunhado lord Clare, que ali havia voltado doentissimo.</p>
 <p>O cura partiu no outro dia: suspeitâmos que não deixou a França, sem novamente procurar a occulta habitante da casinha nos arrabaldes da cidade.</p>
-</div><div><head>CAPITULO LIII</head>
+</div><div type="chapter"><head>CAPITULO LIII</head>
 <p>A ALIENADA.</p>
 <p>Poucos dias depois Maria entrou em casa de seu pae com a familia de Montferrier que a acompanhou.</p>
 <p>—«Meu pae, disse Maria, depois de ali se acharem: — tenho a pedir-vos duas cousas.»</p>
@@ -1405,7 +1404,7 @@
 <p>Maria não tinha similhança com sua mãe nas feições, como já dissemos; mas no gesto, na voz, emfim na harmonia d'aquelle todo, dava muitos ares de Alicia.</p>
 <p>—«Minha boa mamã, lhe disse a meiga Maria, não conheceis a vossa neta?»</p>
 <p>A pobre senhora soltou um grito, apertando nas suas as mãos de Maria, e uns visos de senso pareceram animar aquella physionomia... percorreu o quarto com um ar estonteado, como quem procurava alguma cousa, e depois sentou-se, recaindo no seu usual entorpecimento.</p>
-</div><div><head>CAPITULO LIV</head>
+</div><div type="chapter"><head>CAPITULO LIV</head>
 <p>A VIRGEM DA MONTANHA.</p>
 <p>A historia de madEmoiselle de Nesle breve se divulgou por todos os parentes de Alicia, e por toda a cidade.</p>
 <p>O pasmoso talento da virgem, a sua vocação religiosa, que se desenvolvia de dia em dia, tanto na santidade da sua vida, quanto na sua edificante e activa caridade, tudo lhe grangeava não sómente a admiração, mas um prestigio de enthusiasmo por todo o Montpellier.</p>
@@ -1430,7 +1429,7 @@
 <p>«Mas quanto ao que me dizeis de madame de Montferrier, essa interessante creatura, confesso-vo-lo, inspira-me a mais profunda, a mais affectuosa sympathia, e a minha, gratidão pela forza que lhe devo será eterna..»</p>
 <p>—«Quanto folgo de vos ouvir exprimir fão nobres sentimentos exclamou Lourenzo enthusiasmado... desejava todavia que o vosso coração conservasse um pouco do amor pela interessante Alicia...»</p>
 <p>Lourenzo acceitou o offerecimento que lhe fez o conde da sua casa, tanto mais que o objecto da sua viagem fora unicamente o interesse que trazia tanto a peito, sobre a sorte dos dois esposos.</p>
-</div><div><head>CAPITULO LV</head>
+</div><div type="chapter"><head>CAPITULO LV</head>
 <p>A VOLTA DO CURA.</p>
 <p>O que foi fazer á Italia o nosso cura?—Negocio pessoal não o levou ali; elle não tinha ambições; contentava-se com os limitados proventos do seu curato: Jeronymo, digno de occupar o cardcalato no metropole do mundo, era alheio a toda a sorte de egoismo.</p>
 <p>Tendo-se demorado por fóra mais tempo do que projectára, este homem de coração tanto trabalhou que descobriu a verdade sepultada nos barrancos do erro, trazendo-a como um salvo conducto para o feliz desfecho da sua grave missão.</p>
@@ -1447,7 +1446,7 @@
 <p>Findos que foram os usuaes cumprimentos, o cura, sentado junto a uma mesa que ficava no centro do respeitavel circulo, erguee-se pedindo a palavra, ao tempo que tirava da algibeira um volumoso papel.</p>
 <p>—«Esta carta vos é primeiramente dirigida, mr. de Nesle, disse o padre; abri-a; mas cuidado; julgo que dentro vem letras para mais alguem.»</p>
 <p>O conde, um pouco agitado, levantou-se, e tomando a carta das mãos do veneravel cura, abriu-a e tendo posto sobre a mesa um pequeno macete que vinha dentro, percorreu com os olhos as linhas que lhe eram dirigidas, que leu em voz alta, mas um pouco tremula de emoção.</p>
-</div><div><head>CAPITULO LVI</head>
+</div><div type="chapter"><head>CAPITULO LVI</head>
 <p>TERCEIRA CONFISSÃO.</p>
 <p>«Frederico.</p>
 <p>«Incluso vae um papel por mim escripto e assiguado, dirigido a ti, e a meus respeitaveis parentes mr. e madame de Gouvion-Saint-Cyr.</p>
@@ -1490,7 +1489,7 @@
 <p>—«Reverendo cura, disse, passado um momento, o velho mr. de Gouvion;—respondo pelo coração de minha esposa.»</p>
 <p>—«É o que de vós espero hoje mesmo, e de mr. de Nesle; cumprida esta condição, madame de Nesle promette comparecer, inda que tarde, n’esta grave assembléa, respondeu o cura.»</p>
 <p>Quando foram para a mesa, o cura já tinha expedido um correio a toda a pressa para a cidade.</p>
-</div><div><head>CAPITULO LVII</head>
+</div><div type="chapter"><head>CAPITULO LVII</head>
 <p>O DOUTOR MESTRE.</p>
 <p>Pela tarde reuniu-se ao circulo um novo hospede: o doutor Meneu, medico da universidade, acabava de chegar na sege de mr. de Montferrier.</p>
 <p>—«Meus caros amigos, disse então mr. de Montferrier aos seus hospedes: — tenho a honra de vos apresentar mr. Meneu, formado em medicina, homem assás experimentado na sua arte, e gosando da mais alta reputação entre os seus collegas; sabemos que se tem dedicado a profundar os grandes enigmas no livro aberto da natureza; foi, não sómente consultado, mas offereceu-nos o seu auxilio no desempenho de uma peça difficil e pasmosamente combinada no corarão filial...</p>
@@ -1500,7 +1499,7 @@
 <p>A sala estava magnificamente iIluminada, e no fundo, em frente exactamente dos assistentes, havia um grande reposteiro que abrangia de um lado ao outro a parede.</p>
 <p>Observou-se no fim d'aquelle dia uma certa alteração; uns vislumbres de interior satisfação na infeliz senhora; sua intelligencia havia sido porventura animada de um raio de vida, e essa animação era produzida pela sympathia que a attrahia visivelmente para madame de Montferrier.</p>
 <p>Já dissemos que esta senhora tinha na sua bondade natural uma magia que captivava, uma attracção irresistivel, não só para os que entendiam e apreciavam a virtude, porém mesmo para os que a não conheciam.</p>
-</div><div><head>CAPITULO LVIII</head>
+</div><div type="chapter"><head>CAPITULO LVIII</head>
 <p>ALICIA.</p>
 <p>Já expozemos os promenores da scena tocante e pathetica, que podemos melhor recompor na imaginação com todas as suas phases, do que traduzi-la pela palavra.</p>
 <p>Não ha um leve signal de introducção; mas uns sons começam a ouvir-se; sons que ora se concentram, ora se expandem e multiplicam, exhibindo vozes brandas, fortes, alegres, sonoras, plangentes... vozes para todos os pensamentos: —a musica é lithurgica; o instrumento é um orgão.</p>
@@ -1522,7 +1521,7 @@
 <p>«Abraçae-me, caros filhos, disse a boa dama, lançando aos dois esposos um maternal abraço: — nós temos soffrido todos tres bastantes desgostos!»</p>
 <p>—«Madame do Nesle, disse então o doutor Meneu, dirigindo-se a Alicia:—viestes achar vossa mãe, não tão moça, não tão bella como d‘antes... mas perfeitamente boa para o resto da sua vida!..»</p>
 <p>As palavras do doutor foram acolhidas pelos circumstantes com alegria indefinivel.</p>
-</div><div><head>CAPITULO LIX</head>
+</div><div type="chapter"><head>CAPITULO LIX</head>
 <p>LOURENZO NEGRONI.</p>
 <p>Madame de Nesle, depois de ter abraçado estreitamente sua filha, procurou Anselmo com os olhos; o velho tinha-se afastado um momento da companhia.</p>
 <p>Alicia aproximou-se-lhe, tirando de uma das mãos um rico annel de diamantes:</p>
@@ -1543,7 +1542,7 @@
 <p>«Por isso não posso, nem Luiza póde já responder-vos.</p>
 <p>Mr. Negroni, continuou a boa mãe, pareceis-me sinceramente arrependido do horrivel excesso a que vos levou outr’ora a impaciencia... por conseguinte não fico recciosa pelos resultados que poderá ter a nossa decisão, seja ou não favoravel ao desejo que acalmes de ennuciar-me.»</p>
 <p>Os hospedes de mr de Montferrier ficaram no castello até o seguinte dia.</p>
-</div><div><head>CAPITULO LX</head>
+</div><div type="chapter"><head>CAPITULO LX</head>
 <p>A IRMÃ DA CARIDADE.,</p>
 <p>«O campo é o paraizo da terra. Os annaes antigos da creação do mundo fallam da maravilhosa e primeira habitacão do homem, pondo-a por sobre todas as cousas mais ricas e magnificentes! E todavia essa riqueza estupenda não consistia em oiro, prata, ou brilhantes pedrarias: nada d'isso havia; mas a natureza ostentava ali profusamente os seus primores. Pelo que concordaremos que o singelo panorama do campo e o que mais propriamente nos offerece a imagem risonha do paraizo.»</p>
 <p>Estas e outras reflexões entretiam duas amigas, passeando pelas antigas alamedas do vasto castello de mr. de Nesle no Languedoc.</p>
@@ -1566,7 +1565,7 @@
 <p>«Impõe-vos o dever de relevar os defeitos do proximo, como o farieis dos vossos, porque a boa moral da religião manda que nós sofframos com paciencia as nossas mutuas faltas.</p>
 <p>«Impõe-vos a humildade, com a qual podeis caminhar a salvo por sobre os espinhos da calumnia.</p>
 <p>«Impõe-vos a piedade, que é um essencialissimo elemento na pratica da virtude; e deve estender-se não sómente ao miseravel indigente, mas o rico e o poderoso talvez careça limitas vezes da vossa piedade!</p>
-</div><div><head>CAPITULO LXI</head>
+</div><div type="chapter"><head>CAPITULO LXI</head>
 <p>CONCLUSÃO.</p>
 <p>Assim devolveu a amena paz ao antigo domicilio dou Nesles. Frederico viveu largos annos no castello de seus antepassados, amado e venerado de seus vassallos e amigos.</p>
 <p>A condeça de Fermont-Comnène, tendo inteiramente recobrado o juizo, não quiz viver mais separada dos dois esposos.</p>

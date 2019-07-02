@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">26305</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>13 de novembro de 2018</date>. </p>
@@ -63,18 +62,18 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>A senhora viscondessa</head>
+<div type="titlepage"><head>A senhora viscondessa</head>
 <p>Romance original</p>
 <p>Por S. de Magalhães Lima</p>
 </div>
 </front>
 <body>
-<div>
+<div type="chapter">
 <p>A TI</p>
 <p>"A ti, que hoje és ideal, e que um dia serás mãe; a ti, que foste filha e que has de ser esposa; a ti, mulher, a ti,"</p>
 <p>                                                Consagro este livro.</p>
 <p>                                                    "Magalhães Lima"</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>Um baile</p>
 <p>Temos baile em casa da sr.^a viscondessa de B ***.</p>
 <p>Á porta do palacete param trens sem conta. Descem os convivas, profusamente almiscarados.</p>
@@ -110,7 +109,7 @@
 <p>-- Nunca!... -- vociferou Alfredo, arrancando-lhe o punhal da mão. Primeiro cahirás tu, desgraçado. Já, já fora d'esta casa........................... ..........................................................................</p>
 <p>Este incidente, como é natural, perturbou a quadrilha, que então se dançava. Acorreram todos. Os dois contendores haviam desapparecido da saleta.</p>
 <p>O baile continuou.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>A Senhora Viscondessa</p>
 <p>É uma mulher da moda -- chlorotica, anemica, febril.</p>
 <p>Olhar vivo, e transparente, como um chrystal. Na sua doce pallidez o que quer que seja das visões de Schiller. No andar, porte altivo, donairoso, esbelto. As longas insomnias, apaixonadas, tornaram-n'a triste e contemplativa, como uma virgem de Murillo.</p>
@@ -177,7 +176,7 @@
 <p>Languida, abatida, sensual a senhora adormeceu finalmente.</p>
 <p>Virginia chegára pé ante pé e retirára a luz. O palacete, envolto em trévas, acompanhára o somno da sua rainha.</p>
 <p>E assim se passava a vida da Viscondessa.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Alfredo</p>
 <p>Alfredo da Silveira nascêra embalado pelos sorrisos da fortuna.</p>
 <p>Teve uma casa que vendeu. E que bonita casa! Situada na orla da praia extendia-se deante d'ella o oceano como um vasto lençol, cujas dobras phantasticas se encolhiam e desencolhiam, consoante as horas e as marés.</p>
@@ -248,7 +247,7 @@
 <p>-- Mas quem será o maldito rival? -- monologava elle de si para comsigo. Acham pouco ainda? pois bem. Tambem tu cahirás, minha querida viscondessa. Tentou-te o demonio estupido: serás uma das suas victimas.</p>
 <p>E entrou no café.</p>
 <p>   [1] Este facto que para muitos passará por inverosimil, deu-se,     todavia, proximo de Lisbôa, em 1854.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Contrastes</p>
 <p>O amor é o laço que une duas almas.</p>
 <p>Quando as tempestades rugem, e os ventos bramem, e os mares se encapellam, a mãe, candido alento, apertando o filho contra o peito, diz amor; e o amor que é medo, afujenta o medo, e o amor, que é aprehensão, combate a aprehensão, e o amor, que é timidez, destróe a timidez.</p>
@@ -280,7 +279,7 @@
 <p>Esse ser é um marido; esse ser é uma esposa: um vinculo os prende -- o amor; um ideal os incita -- os filhos; uma virtude os reune -- a conveniencia.</p>
 <p>Á viscondessa tambem lhe chegára a sua vez. Sonhára e fora feliz. Alfredo era o doce amante, que lhe alimentava a phantasia ardente; Alfredo, o louro rapaz, era a formosa visão, que aos quinze annos, ella tivera por companheira inseparavel da sua vida.</p>
 <p>Sejamos como a viscondessa. Amemos e seremos felizes.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>No restaurante</p>
 <p>Um mez volvido, após os acontecimentos, acima descriptos, -- em Junho de 59 -- entrava eu casualmente n'um café do "Caes do Sodré", situado por baixo do "Grand Hotel Central" -- quando ouvi a voz de Alfredo, que de longe me chamava.</p>
 <p>Ebrio e tumultuoso extendeu-me a mão direita, offerecendo-me um banco de palhinha em um dos extremos da mesa.</p>
@@ -330,7 +329,7 @@
 <p>Fez o mesmo aos restantes e fechou as portas do estabelecimento.</p>
 <p>Eu sahi tambem; mas, ao contrario dos outros, aterrado e confuso, com o que ali havia presenciado e ouvido.</p>
 <p>Pensei em Luiz Veuillot e segui para casa.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Sem sahir do mundo</p>
 <p>Alfredo era um rapaz do seu tempo, e, como tal, um filho dedicado dos cafés, um amador do fumo e um apreciador exaggerado "du vieux cognac".</p>
 <p>No proprio desalinho ostentava elle uma generosidade fidalga, que o tornava sympathico e bem quisto por todos os que com elle mais de perto privavam.</p>
@@ -347,7 +346,7 @@
 <p>Alfredo, porêm, desviára-se d'esta norma. De creança aprendêra elle a sondar a sociedade com todas as suas corrupções e inconsequencias. De sobejo sabia que a dança, toda exterior e ficticia, era a perversão do ideal conjugal. Por instincto aborrecêra o salão, soalheiro de intriga e de pequeninas miserias. Conhecedor dos homens, e das cousas cahira, finalmente, n'um indifferentismo, até certo ponto, deploravel, para um rapaz, mas, de certo, necessario e fatal para todo o organismo, digno de outra aspiração que não fosse a do animal, por naturesa inerte e estupido.</p>
 <p>Alfredo resumia, portanto, uma energica reacção contra o estabelecido, e um vago aspirar para um futuro, ainda não bem definido.</p>
 <p>Saudemos esse futuro.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Entre amigos</p>
 <p>Tudo disposto e preparado.</p>
 <p>Somos quarenta convivas á mesa. A viscondessa está bella, verdadeiramente bella, sem os artificios que deslumbram, nem as vaidades que enojam. Completa agora vinte e seis annos, volvidos entre o regaço da mãe que se finou e os beijos do pae cuja existencia, por duvidosa, se ignora. Alfredo está tambem, mas triste, acabrunhado, pesaroso, olhando indifferentemente as pessoas que o rodêam, comendo pouco, bocejando muito e bebendo mais.</p>
@@ -371,7 +370,7 @@
 <p>E sahiu, assobiando a carta adorada da Grã-Duquesa.</p>
 <p>Na carta que eu tive, Amelia formosa,</p>
 <p>Me disseste amor...</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>De passagem</p>
 <p>Entre um bom jantar e um bom espirito existe, ao que parece, uma profunda analogia. "Tous les gens d'esprit sont gastronomes" -- dizia Balzac. De todos os animaes, o unico, que sabe comer, é o homem -- escrevia um outro auctor francez. D'este modo o jantar entre amigos é uma quasi necessidade da nossa existencia e um salutar incentivo a duas ou tres horas de boa e franca jovialidade.</p>
 <p>Em Portugal dão-se jantares, mais como ostentação vã, do que verdadeiramente como meio de melhor expandirmos os nossos affectos, as nossas ideias, os nossos desejos, as nossas ambições. A nossa mesa distingue-se das mesas estrangeiras, não só pela má escolha das comidas, senão tambem pela exaggerada seriedade com que costumamos assistir a taes solemnidades. Dir-se-hia que, em taes momentos, estamos presenciando o enterro de nossos paes.</p>
@@ -387,7 +386,7 @@
 <p>Grave era a viscondessa, mas espirituosa. Ninguem sabia tratar melhor os seus hospedes, nem com mais liberdade. Como aphorismo passava já em julgado que eram bons, substanciosos e alegres os jantares da viscondessa.</p>
 <p>É que, á parte os seus caprichos, a viscondessa comprehendeu a vida moderna, tal qual ella deve ser: commoda, aceiada e elegante.</p>
 <p>Nem porisso lhe queiramos mal, mas antes façamos por imital-a.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Pobresa e miseria</p>
 <p>É singelo o quadro; tocante até.</p>
 <p>Uma pobre velha, habitando uma alcova humida e sombria, treme de frio, gemendo por vezes. Serve-lhe de leito uma pouca de palha enxarcada e nauseabunda. Ao lado uma panella velha, tosca e ligeira, cuja grande utilidade é aparar a agua, que a miudo se despenha do telhado.</p>
@@ -432,7 +431,7 @@
 <p>Consciencia de Cain é jóia que só se mercadeja no alto mercado.</p>
 <p>Foi mais uma lei do mundo.</p>
 <p>Convêm, comtudo, registral-a para desafogo de todos nós.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Cousas dos Homens</p>
 <p>Permitta-nos a leitora que um pouco nos demoremos sobre este incidente do nosso romance. Mais tarde volveremos a fallar da viscondessa. Por agora historiemos os factos que mais concorreram para o triumpho da nossa heroina.</p>
 <p>Quem era Julio? quem era Maria? e porque motivo foram elles chamados para aqui?</p>
@@ -462,7 +461,7 @@
 <p>Olhando, porém, para o céu, ajoelhou. Um raio de esperança lhe illuminava a alma, até então em trévas.</p>
 <p>Felizes os que, como elle, sabem esperar!</p>
 <p>A esperança conduz Colombo, e descobre mundos!</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Na taberna</p>
 <p>Entrava-se por um beco immundo, torcia-se á direita, e estava-se lá, no antro do crime, em que a vida e a fortuna se joga, o bem estar, a tranquilidade, o socego, toda a harmonia da existencia humana.</p>
 <p>Exteriormente, apresentava a taberna um aspecto mesquinho e lugubre. Um distico, apenas, no alto da parede indicava aos transeuntes que ali «"se vendia vinho verde".»</p>
@@ -500,7 +499,7 @@
 <p>De repente apagou-se o gaz. O ruido tornara-se insupportavel, medonho, confuso.</p>
 <p>-- Traição... traição... -- repetiram todos.</p>
 <p>E o silencio recomeçou de novo.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Perigos e consequencias</p>
 <p>N'este nosso paiz ficam muitas vezes impunes os crimes mais graves, castigando-se os mais insignificantes.</p>
 <p>A lei penal muitas vezes dá existencia aos crimes, imaginando penas para delictos imaginaveis.</p>
@@ -519,7 +518,7 @@
 <p>Um homem rico decahira um dia da sua fortuna. Habituado ás commodidades da vida, encontrou-se repentinamente privado do necessario. Acostumado aos falsos amigos, viu-se sem amigos. Olhou. Quatro filhos o encaravam. Uma esposa lhe sorria. Fôra bom o seu coração. Nunca até ali se dera um unico facto que lhe manchasse a consciencia. Examinou os bolsos. Dinheiro não havia já. Recorreu ao trabalho. O trabalho fez-se esperar. Mendigou. Ainda era pouco. Os filhos continuavam a chorar. A esposa continuava a morrer. Que fazer, pois? Roubar. E roubou. Roubou um pão porque tinha fome. E dois. E tres. E quatro. A lei, inexoravel como a Parca, encontrou-o uma noite. Levou-o para o Limoeiro. Pediu-se, sollicitou-se, em nome da desgraça. Tudo embalde! Os poderes publicos cumpriam o seu dever. N'uma casita humida, situada ao Salitre, definhavam, ao cabo de cinco dias, quatro creanças e uma mulher. No Limoeiro creava-se mais um monstro, e inutilisava-se um homem. E tudo isto com uma prodigiosa simplicidade.</p>
 <p>É a historia de Valjean sem o auxilio do arcebispo!</p>
 <p>Ao moço-operario não succedeu, felizmente, outro tanto. A Providencia encarregou-se de velar por elle. E o certo é que a evasão de cinco presos deu-se rigorosamente n'esta época. Julio foi um dos que, a salvo da prudencia, recuperaram a liberdade.</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Continuação</p>
 <p>Seriam 2 horas da madrugada. A lua brilhava em pleno espaço. O Tejo era Sereno. Apenas de longe em longe um rumor surdo, vago, incomprehensivel, acordava a naturesa do seu pacifico somno nocturno.</p>
 <p>Por sobre as mansas aguas deslisava um bote suavemente. As estrellas, reflectindo-se na bahia, similhavam, pela vivacidade irrequieta do brilho, um cardume de peixes em debandada. A viração era fresca, e deliciosamente salutar.</p>
@@ -543,7 +542,7 @@
 <p>Alfredo, não tendo coragem para realisar os seus planos, embora bom e generoso no fundo, tornara-se devasso, e adormecera inconscientemente nos braços da sensualidade estupida. Julio, não! Julio estava puro; reagia ainda com heroicidade contra a geral corrupção da sociedade.</p>
 <p>Entre estes dois homens, ambos moços e sympathicos, existia uma differença apenas: Alfredo pertencia á mocidade dos cafés, incomparavelmente mais inutil que a mocidade da taberna, composta, na generalidade, por operarios honestos, como Julio.</p>
 <p>Mais tarde, porém, nos encontraremos novamente com Alfredo.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Novos mundos</p>
 <p>Penetremos em Alcantara.</p>
 <p>É um bairro pobre, habitado por operarios, n'uma grande parte, e por homens do mar.</p>
@@ -568,7 +567,7 @@
 <p>Nem sempre, porém, nos abandonam os anjos do céu.</p>
 <p>Á beira do despenhadeiro tivera Julio o seu anjo da guarda.</p>
 <p>Abençoada a mão, que n'um raio de amor nos traz a esperança e a consolação!</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Primeiros amores</p>
 <p>Um sol ardente batia de chapa sobre um eirado de pedra, em cujo espaço se abrigava cuidadosamente o fructo de uma boa colheita de milho.</p>
 <p>Ao lado, e fóra do alpendre, elevavam-se tres medas de palha, unico alimento annual, aos pacientes trabalhadores d'aquelle campo.</p>
@@ -598,7 +597,7 @@
 <p>-- Pobre rapaz! -- exclamava o bom do velho, limpando os olhos com as costas da mão.</p>
 <p>E voltando-se para sua filha, começou de beijal-a ardentemente.</p>
 <p>Doce esperança do céu lhe illuminára a fronte, encanecida na virtude e no trabalho!</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>Transformações</p>
 <p>Eu não sei qual seja melhor: se o ar do campo, se o ar da cidade.</p>
 <p>É certo que muitos preferem a provincia á capital. Tambem é certo que os doentes, por via de regra, se não dão bem nos grandes centros: Entretanto a cidade, se bem que despida da ingenuidade nativa da aldeia, tem para mim o supremo encanto da actividade e do trabalho. O silencio prolongado degenera as mais das vezes n'um aborrecimento deploravel, quando não é elle o gerador de graves e dolorosas molestias.</p>
@@ -615,7 +614,7 @@
 <p>Sem mesmo querer, olvidavas a aldeia, que te fôra consolação momentanea nas agruras da vida; e n'esse esquecimento involuntario ia-se-te a alma partida com a doce imagem da mulher honrada que por ti velava dia e noite.</p>
 <p>Pobre de ti, meu poeta! e pobre d'aquelles, que, como tu, soffrem as mesmas e tristes inconstancias, a cujo horrivel imperio não ha nunca resistir n'este mundo de phantasmas e de vadios.</p>
 <p>Pobre de ti!</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Allucinações</p>
 <p>Quando alguma ideia nos preoccupa o espirito fortemente, o nosso primeiro movimento é estar só, isolado, em intimo colloquio com os nossos desejos.</p>
 <p>Momentos ha em que aborrecemos a luz, como supremo escarneo aos nossos soffrimentos. N'este caso é a conversa de estranhos muitas vezes levada á conta de uma ironia pungente. Queremos fallar, e não podemos. Desejamos abrir os olhos, e conservamol-os fechados. Esforçamo-nos por chorar, e as lagrimas não correm. Então, sequestrados da sociedade, e a sós com a nossa dor, imploramos de Deus o soccorro da morte e a hora suave do passamento.</p>
@@ -642,7 +641,7 @@
 <p>Julio, ébrio, ameaçou as estrellas, riu-se da lua, escarneceu do céu, e insultou-se a si.</p>
 <p>A embriaguez tem d'estas oscillações inexplicaveis: no principio é vigorosa, athletica, muscular, até que a pouco e pouco enfraquece, tornando-se inerte, covarde, miseravel: similhante a um homem que, cahindo no abysmo, solta a principio uns gritos agudos, lancinantes, e que a final, desesperado e sem força, se deixa escorregar para o fundo, onde adormece no leito do universal esquecimento.</p>
 <p>Julio, sem ser cadaver, era no entretanto um alucinado. E o alucinado só dista do cadaver, em que aquelle é um morto ambulante, ao passo que este é apenas um morto inerte, estupido e incapaz de movimento.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>O escudeiro da senhora Viscondessa</p>
 <p>Apenas sahido do theatro o primeiro pensamento de Julio fôra suicidar-se.</p>
 <p>Alguma cousa, porém, impossivel de explicar-se, o prendia á vida. Demais elle era novo; contava vinte e seis annos, se tanto; possuia aspirações em larga escala; vastos affectos lhe referviam na mente escaldada. É verdade que até ahi a pobresa o não deixára sahir do seu silencio. Que lhe importava, comtudo, a obscuridade do presente, se o futuro lhe podia ser de amor e de rosas?</p>
@@ -673,7 +672,7 @@
 <p>-- Virginia, disse a Viscondessa, paga a este miseravel, o manda-o embora.</p>
 <p>-- Já, minha senhora.</p>
 <p>-- Bem me queria a mim parecer -- murmurava a esperta da creada -- que aqui andava sua cousa encoberta.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>Falla o coração</p>
 <p>Será verdade que o coração tambem falla?</p>
 <p>Uma cousa é amar, outra cousa é desejar. O amor deriva do coração, foco de toda a vida humana; o desejo nasce dos sentidos. Ao primeiro pertence o amor-sentimento, ao segundo o amor-sensação. Até aos trinta annos o amor póde dizer-se sentimento; o que, por via da regra, não succede já d'ahi por deante, em que elle se transforma n'um desejo material.</p>
@@ -697,7 +696,7 @@
 <p>Estava apaixonado.</p>
 <p>O coração batia-lhe d'entro do peito com viva e prolongada violencia. A cabeça era fria, e os sentidos mal davam accordo de si.</p>
 <p>Ai! d'aquelles que só a voz do coração escutam, porque para esses é a paixão um ignorado martyrio e a vida um tristissimo cemiterio.</p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <p>Casa burguesa</p>
 <p>Era um gosto entrar a gente em casa do sr. Francisco Alves. Tudo respirava ali um aceio, por tal fórma invejavel, que o espirito em verdade se sentia bem, muito bem, ante aquella limpesa, tão rara em Portugal como prodiga em qualquer outro paiz.</p>
 <p>No bairro de Alcantara era o sr. Francisco conhecido como um modelo de philantropia e de bons sentimentos. Os jornaes por vezes resavam da sua pessoa, assim como da sua catholica esposa, a sr.^a Felisbella de Menezes.</p>
@@ -722,7 +721,7 @@
 <p>Não parava, porém, aqui a abnegação do sr. Francisco.</p>
 <p>Acontecia frequentemente elle vir para casa mais tarde do que desejava. Se por acaso encontrava algum pobre estendido na rua, ao relento e ao frio, levantava-o, e trazia-o comsigo. Chegado ao lar mandava-lhe arranjar uma boa ceia, vestia-o no dia seguinte, e deixava-o seguir o seu caminho.</p>
 <p>E a isto, leitor generoso, chama o mundo ser boçal.</p>
-</div><div><head>XXI</head>
+</div><div type="chapter"><head>XXI</head>
 <p>Considerações</p>
 <p>A nossa sociedade é essencialmente burguesa. Actualmente todos gritam contra o burguezismo, e entretanto ninguem está isento d'esse peccado, se peccado se lhe póde chamar. E cousa singular! ao passo que a aristocracia vai descendo até ás regiões do plebeismo, a burguezia, por seu turno, eleva-se, e tenta em breve ser a Excellencia do paiz.</p>
 <p>O moderno fidalgo portuguez não existe já. Antigamente um aristocrata, "pur sang", tornava-se respeitavel por uma educação sisuda e por uma illustração opulenta. Hoje dá-se perfeitamente o contrario. O bom fidalgo, "faia" de recente data, abandalha-se na convivencia dos cocheiros, tocando o fado pelas ruas, durante a noite, picando touros, usando jaqueta e facha de seda e vivendo entregue á ociosidade, que é o vicio, e á embriaguez, que é a doença e muitas vezes a morte.</p>
@@ -739,7 +738,7 @@
 <p>Aos domingos encontram-se estes "pequenos negociantes" -- que outro nome não sei eu que elles tenham -- em longo e aturado passeio pelos campos e pelas estradas. Ahi, reunidos em familia, comem o seu pedaço de queijo com pão, e bebem o seu meio quartilho de vinho. E isto apenas aos domingos, que, aos dias de semana, a alvorada vem quasi sempre encontral-os no trabalho.</p>
 <p>O sr. Alves enfileirara-se n'este grupo ignorado, e delle herdára os habitos e as tradicções.</p>
 <p>E o certo é que se não foi um anjo, na verdadeira acepção da palavra, foi pelo menos um bom homem, honrado e caritativo.</p>
-</div><div><head>XXII</head>
+</div><div type="chapter"><head>XXII</head>
 <p>Um hospede</p>
 <p>N'uma noite tempestuosa em que a caridade, silenciosa sempre e occulta quasi sempre se encarrega de velar pela miseria sobre a terra, -- voltava o sr. Francisco Alves a Alcantara, onde anciosamente o esperava a carissima metade da sua alma.</p>
 <p>Na occasião, porém, em que descia a calçada da Pampulha, notou elle vagamente uma sombra que a um recanto permanecia n'uma mudez quasi sepulchral. Aproximando-se, reconheceu um homem, mais cadaver do que outra cousa. A tristesa tomou-o, então, dos pés á cabeça. Cheio de terror, livido, nervoso, lembrou-se o senhor Alves de chamar a policia. Não era essa, todavia, a tendencia do seu coração generoso e leal. Emfim esperou. Casualmente passava um trem de praça. Chamou o cocheiro, e levantando o homem que elle supposéra ebrio, introduziu-o na carruagem.</p>
@@ -762,7 +761,7 @@
 <p>A comitiva, assim composta, seguia para Queluz. Impossivel nos fôra descrever a amizade que n'esse dia reuniu aquelles tres entes queridos.</p>
 <p>O sr. Francisco Alves brindou o seu hospede, appellidando-o com o doce nome de filho. A sr.^a Felisbella sorriu devotamente; e a creada, a velha creada, exclamou sentenciosamente:</p>
 <p>«Deus sabe o que faz!»</p>
-</div><div><head>XXIII</head>
+</div><div type="chapter"><head>XXIII</head>
 <p>Transição</p>
 <p>Na escolha do espectaculo manifesta-se, em geral, o bom gosto do espectador. Não quero eu com isto dizer que, muitas vezes, não seja a curiosidade o motor das nossas acções; mas, emfim, o que cumpre saber-se é que n'um theatro, n'um circo, n'uma exposição está, por via de regra, representada a civilisação de um povo.</p>
 <p>O theatro é hoje o "rendez vous" da moda. Nos espectaculos, e á vista de dramas perfeitamente phantasticos e inuteis, aprendem as nossas elegantes a soletrar os primeiros rudimentos do amor, do "coquettismo" e as supremas illusões.</p>
@@ -778,7 +777,7 @@
 <p>O sr. Francisco Alves sabia rir, porque tambem sabia trabalhar. Não frequentava os theatros, porque, á similhança dos da sua egualha, desconhecia a moda totalmente. Vivia para a familia e com ella se divertia. Tambem tinha amigos. Aos domingos chamava-os, reunia-os a si, e ia para o campo, ficando-se por lá até á noite.</p>
 <p>Comendo, bebendo e rindo á vontade, o sr. Alves estava no seu paraiso, longe da serpente que tentou Eva a comer do fructo prohibido, perfeitamente a bem com Deus e comsigo mesmo.</p>
 <p>Bem hajam os que, como elle, comprehendem por este modo a felicidade sobre a terra!</p>
-</div><div><head>XXIV</head>
+</div><div type="chapter"><head>XXIV</head>
 <p>Confidencia</p>
 <p>Um dia a sr.^a Felisbella apparecêra de luto na missa da Ajuda, dando o braço direito a um sympathico moço, alto e moreno.</p>
 <p>Francisco Alves já não era d'este mundo. A mercearia passára a outro dono.</p>
@@ -786,7 +785,7 @@
 <p>(A sr.^a Felisbella limpou uma lagrima).</p>
 <p>... e encontrar-me elle, o mesmo foi que estar eu com a Providencia. Passou-me a loja -- que me deu fortuna, e sobretudo passou-me o seu nobilissimo espirito, que Deus tem em sua santa paz. A sr.^a Felisbella sabe como eu o amei. Se nunca lhe pedi que me tratasse por Julio, e não por José Xavier, foi -- Deus me perdoe, -- por suspeitar que elle se irritasse contra mim.</p>
 <p>E Julio, ajoelhando, beijou as mãos convulsas da sr.^a Felisbella de Menezes.</p>
-</div><div><head>XXV</head>
+</div><div type="chapter"><head>XXV</head>
 <p>Mais confidencias</p>
 <p>Para muito se amar, quer-se silencio e solidão -- dizia Balzac.</p>
 <p>O amor é por natureza melancholico. Quem ama, soffre. A melancholia não é uma doença physica, é apenas uma enfermidade moral.</p>
@@ -814,7 +813,7 @@
 <p>Mulheres, que viveis na desgraça, se quereis ser felizes -- acreditae no santo amor de um filho, esperae de Deus a crença na maternidade, e vivei na intima e doce consolação de vossos maridos.</p>
 <p>A familia é amparo da misaria e arrimo dos que soffrem.</p>
 <p>Felizes os que sabem cumprir sobre a terra a primeira e a mais indiscutivel lei da natureza!</p>
-</div><div><head>XXVI</head>
+</div><div type="chapter"><head>XXVI</head>
 <p>A Viscondessa</p>
 <p>São decorridos quatro annos.</p>
 <p>A Viscondessa, docemente reclinada numa "chaise longue", lê os annuncios do "Diario de Noticias", sorvendo, de quando em quando, uns gólos de café, com a evangelica paciencia de uma mulher aborrecida.</p>
@@ -851,7 +850,7 @@
 <p>A Viscondessa, soluçando tristemente, chamava ainda Alfredo, sem de modo algum haver notado a sua rapida fuga.</p>
 <p>-- Como eu sou infeliz, meu Deus! -- exclamou ella.</p>
 <p>E ao longe só os echos lhe repetiram os queixumes magoados.</p>
-</div><div><head>XXVII</head>
+</div><div type="chapter"><head>XXVII</head>
 <p>Digressão</p>
 <p>A mulher nasceu para realisar a sua felicidade por meio do matrimonio.</p>
 <p>Sem familia, pedra angular do grande edificio, chamado humanidade, o progresso seria uma vã mentira e a civilisação um triste retrocesso.</p>
@@ -872,7 +871,7 @@
 <p>Procura uma familia; trabalha na doce companhia de teu marido; mostra ao mundo os teus filhos -- os filhos das tuas entranhas e do teu amor: que te importa depois a voz da opinião -- a opinião está como a realesa, está gasta e pôdre.</p>
 <p>A Viscondessa não estava, de certo, n'este caso. Uma boa mãe, um bom marido, um filho terno, tel-a-iam salvado do abysmo que a esperava.</p>
 <p>E quantas vezes não é o instincto da maternidade a causa do vicio e do crime?</p>
-</div><div><head>XXVIII</head>
+</div><div type="chapter"><head>XXVIII</head>
 <p>Ainda a Viscondessa</p>
 <p>No meio de todas as suas loucuras era a Viscondessa uma nobre e esplendida mulher.</p>
 <p>Uma trança preta, côr de azeviche, lhe cobria o cóllo de cysne. A bôcca esculpturalmente pequena, quasi se desfazia n'um beijo, ethéreo, imperceptivel, como o ar. Uns olhos verdes e profundos, como os abysmos do mar, a tornavam simultaneamente imperiosa e meiga. A pequena mão aristocratica, eclipsava-se-lhe por vezes sob as rendas e os "puffs" do vestido. E o pé, ai, o pé era um primor, um verdadeiro primor. Calçava de ordinario um sapato de setim azul, perfeitamente ajustado a uma meia de seda, cuja transparencia nos faria logo perguntar com Alphonse Karr, onde ella collocava a liga -- se abaixo se acima do joelho. O seio arfava-lhe debaixo do espartilho n'uma suave e doce ondulação, symptoma evidente de uns vedados e amorosos paraisos.</p>
@@ -893,7 +892,7 @@
 <p>E Alfredo, despedindo-se da amante, sahiu. -- Henrique acompanhou-o. Cá fóra. porém, cada um tomou pela sua rua.</p>
 <p>Mabilia ainda veiu á janella. Máu grado seu, Alfredo havia desapparecido.</p>
 <p>Julgando-se para todo sempre perdida, chorou então a Viscondessa, e chorou como poucas mulheres talvez tenham chorado n'este mundo.</p>
-</div><div><head>XXIX</head>
+</div><div type="chapter"><head>XXIX</head>
 <p>Indecisões</p>
 <p>O orvalho vem do céu á terra; as lagrimas sóbem da terra ao céu.</p>
 <p>Mulher que chora, é mulher que sabe amar.</p>
@@ -916,7 +915,7 @@
 <p>A Viscondessa chorava e continuava indecisa.</p>
 <p>Semelhante a um arbusto, que, açoutado pelo vento, deixa cahir sobre a terra o orvalho; assim a Viscondessa, ao dar accôrdo de si, deixou cahir no seu candido seio as perolas consoladoras do seu espirito.</p>
 <p>Bemaventuradas perolas! e oxalá que todos assim as tivessem!...</p>
-</div><div><head>XXX</head>
+</div><div type="chapter"><head>XXX</head>
 <p>Glorias do operario</p>
 <p>Entretanto o nosso operario, agora já transformado em negociante, vai seguindo o seu caminho, a despeito da intriga e da inveja, com que a sociedade, em geral, costuma premiar o trabalho e a honradez.</p>
 <p>Julio, retemperado no cadinho dos grandes soffrimentos, fizera-se homem repentinamente. Julgando apagada a imagem da Viscondessa no seu espirito, dedicou-se ao trabalho com fervôr. Levantava-se habitualmente ás seis horas da manhã, ia receber as ordens da sr.^a Felisbella, e partia. Só regressava a casa ás oito ou nove da noite, hora em que elle tomava chá. E este programma, assim praticado, com a regularidade de um pendulo de relogio, poucas vezes era transgredido, a não ser n'um ou outro domingo.</p>
@@ -943,7 +942,7 @@
 <p>Julio transformára-se, pois, n'um homem severo, sem as paixões que arrebatam, nem os egoismos que offendem. Á parte a propria felicidade e a da sr.^a Felisbella, a quem elle tratava por mãe, pouco mais lhe interessava n'este mundo.</p>
 <p>Com a convivencia dos homens tornara-se concentrado, desconfiando de tudo e de todos. Advogando de preferencia os proprios interesses, era, todavia, generoso, para quem o devia ser.</p>
 <p>Os pobres conheciam-no de longe. E Deus abençoava-lhe as acções, tornando-o um homem rico, forte e corajoso.</p>
-</div><div><head>XXXI</head>
+</div><div type="chapter"><head>XXXI</head>
 <p>O que faz o talento</p>
 <p>Uns sóbem e outros descem: é a roda do mundo. Á dos alcatruzes se similha, segundo Sá de Miranda: uns para baixo, outros para cima, uns cheios, outros vazios.</p>
 <p>A vontade conduz á felicidade. Homem que sabe querer é homem de talento ordinariamente.</p>
@@ -968,7 +967,7 @@
 <p>Porisso tambem subiu, e porisso tambem subirão todos aquelles que assim procederem.</p>
 <p>O mundo depende de geito, apenas. Tão despresiveis são os demasiadamente Catões como os demasiadamente relaxados.</p>
 <p>No meio-termo está a lei de toda a sociedade humana.</p>
-</div><div><head>XXXII</head>
+</div><div type="chapter"><head>XXXII</head>
 <p>Vestigios e ruinas</p>
 <p>Similhante a um velho castello roqueiro, coberto de hera e parietarias, assim Alfredo vivia, doente, sem dinheiro, arruinado, mas generoso no fundo.</p>
 <p>O seu fato preto, invariavel em todas as estações do anno, principiara de tornar-se velho e esverdeado pela acção corrosiva das chuvas doentias e dos sóes abrasadores. A camelia desapparecera-lhe para sempre do seu logar habitual. Emfim Alfredo, esgotados os derradeiros recursos patrimoniaes, era mais um authomato da indigencia, do que verdadeiramente um homem de espirito, critico e mordaz, qual n'outros tempos o havia sido.</p>
@@ -987,7 +986,7 @@
 <p>-- Em nome da mulher que só eu amei e que o senhor perdeu -- convido-o a retirar-se d'esta casa.</p>
 <p>-- Muito bem! uma vez que assim o querem, far-me-hei ladrão -- exclamou Alfredo.</p>
 <p>E fez-se fabricante de notas falsas.</p>
-</div><div><head>XXXIII</head>
+</div><div type="chapter"><head>XXXIII</head>
 <p>Causas e motivos</p>
 <p>Diz-se geralmente que a humanidade esta enfêrma.</p>
 <p>A mocidade padece uma horrivel molestia -- o tédio.</p>
@@ -1008,7 +1007,7 @@
 <p>isto é:</p>
 <p>               " -- campo e mar -- "</p>
 <p>Que s. s.^as, os senhores facultativos, se não irritem comnosco por tão interessante descoberta.</p>
-</div><div><head>XXXIV</head>
+</div><div type="chapter"><head>XXXIV</head>
 <p>Latet anguis</p>
 <p>A primavera, a doce filha da harmonia e da luz, desentranhava-se em flôres e fructos. Rejubilavam as aves no arvoredo frondente. O céu era azul, limpido. Nem uma nuvem lhe maculava a superficie chrystallina e pura.</p>
 <p>Nada mais delicioso do que esta rapida transição de uma estação, agreste e fria, para uma outra agradavel e sympathica. Dir-se-hia que um velho, sulcado do rugas, se metamorphoseára subitamente, como o Fausto, n'um elegante moço, cheio de vida e de aspirações.</p>
@@ -1039,7 +1038,7 @@
 <p>-- Embalde -- gritava o padre. É Deus que assim m'o ordena!...</p>
 <p>E, ao longe, um guitarrista que passava cantava tristemente a seguinte quadra de Gonçalves Dias:</p>
 <p>   «O amor da mulher é qual nuvem     Que o vento impelle no ar;     O amor da mulher é voluvel     É tão vario, como a onda do mar.»</p>
-</div><div><head>XXXV</head>
+</div><div type="chapter"><head>XXXV</head>
 <p>Critica</p>
 <p>Nós não somos d'aquelles que exageradamente comdemnam o clero.</p>
 <p>Nada mais santo, nada mais suavemente consolador do que o bom padre, especie de medianeiro entre Deus e os homens.</p>
@@ -1059,7 +1058,7 @@
 <p>Que a esposa seja uma conselheira de seu marido e uma perceptora de seus filhos -- tal deve ser o desejo do bom padre. -- Porque um padre é acima de tudo um educador, e como tal carece de muita illustração, de muito bom senso e de muita heroicidade.</p>
 <p>Se os rapases não podem satisfazer a esta nobre missão, escolham-se os velhos. Se com o clero periga a honestidade das mulheres, acautellem-se os homens, e aprendam por uma vez a distinguir o bom do mau, aquillo que lhes convém d'aquillo que lhes não convém.</p>
 <p>D'outro modo continuaremos eternamente divididos, odiando-nos como inimigos, e pelejando uns contra aos outros, cegamente, loucamente, sem ideal, sem raciocinio e sem vontade.</p>
-</div><div><head>XXXVI</head>
+</div><div type="chapter"><head>XXXVI</head>
 <p>Toldam-se os horisontes</p>
 <p>Nem sempre a felicidade nos sorri. Quando menos o acreditamos, embacia-se o prisma que sonhavamos perpetuo e immorredoiro, e as illusões começam de cahir uma por uma.</p>
 <p>É assim a vida; é assim o mundo: rodeado de formosas apparencias e colmado de negra podridão.</p>
@@ -1092,7 +1091,7 @@
 <p>Largo de Camões</p>
 <p>A Viscondessa de B***</p>
 <p>Virginia, tomando das mãos da Viscondessa este bilhete, competentemente sellado com o carimbo da casa, sahiu na direcção acima indicada.</p>
-</div><div><head>XXXVII</head>
+</div><div type="chapter"><head>XXXVII</head>
 <p>Uma victima</p>
 <p>E Cecilia? que será feito d'ella?</p>
 <p>Pela callada das trévas, á meia noite, ha sombras que vagueiam pelas ruas como visões informes, famintas, esqueleticas. Á sahida dos theatros abeiram-se de nós vultos esfarrapados, cheios de dôr e de vergonha, que nos estendem a mão carcomida e triste. Cada um d'esses vultos representa, no grande drama social, uma consciencia offendida ou uma crença ludibriada. Não se descobrem nunca esses desgraçados, porque não desejam ser reconhecidos. Se é mãe e tem filhos, pede em nome dos filhos; se é pae e tem familia, pede em nome da familia; se é só e miseravel, pede em nome da miseria.</p>
@@ -1113,7 +1112,7 @@
 <p>Cecilia acceitou a esmola authomaticamente. Muda, sem proferir uma palavra, olhou para o homem como uma alucinada. Só depois, cá fóra, trémula e nervosa, reconheceu a degradação por que havia passado. Uma dolorosa agitação lhe percorria os membros febris. Não podendo mais conter-se, transbordando de raiva e de agonia, desmaiou sobre as pedras da calçada.</p>
 <p>Ó sociedade, ó mysterio dos mysterios, quanta victima tua, não terá perecido assim, á fome, ao relento e ao frio?</p>
 <p>Ó humanidade, ó triste e ignorado "Ashawerus", como é espinhosa a tua sorte e tremendo o teu fadario!</p>
-</div><div><head>XXXVIII</head>
+</div><div type="chapter"><head>XXXVIII</head>
 <p>Julio feito barão</p>
 <p> -- Póde vossa excellencia acreditar, senhora Viscondessa, que emquanto eu viver nada faltará n'esta casa.</p>
 <p>-- Oh! Deus o abençoe, senhor barão...</p>
@@ -1122,7 +1121,7 @@
 <p>-- Mais duas palavras, minha senhora, e eu termino: «Infamado e corrido de vergonha entregou-se o desventurado moço ao trabalho com ardor. Próspera lhe correra a fortuna. Amparado por dois velhos, hoje mortos, que durante os primeiros annos lhe serviram de paes progrediu José Xavier tornando-se honrado e bem quisto dos seus semelhantes. Depois... oh! depois... Vossa excellencia sabe o resto...</p>
 <p>-- Sim! depois José Xavier foi feito barão, encontrando na Viscondessa de B*** a sua mais pura e desinteressada amiga.</p>
 <p>E Julio, curvando-se, beijou solemnemente a mão da Viscondessa.</p>
-</div><div><head>XXXIX</head>
+</div><div type="chapter"><head>XXXIX</head>
 <p>Denuncias e suspeitas</p>
 <p>Alfredo, sem recursos, recorreu ao ultimo expediente de um vadio bem educado: tornou-se falsificador de notas.</p>
 <p>Os proprios amigos d'outros tempos, ao saberem d'este facto, denunciaram-n'o á policia.</p>
@@ -1151,7 +1150,7 @@
 <p>«Nas suas noites de prazer não s'esqueça de libar por mim -- por mim, pelo miseravel condemnado da sociedade, sua irmã.</p>
 <p>                                                             "Alfredo."»</p>
 <p>-- Um pobre rapaz, coitado! -- exclamou a Viscondessa, ao terminar a leitura d'esta carta.</p>
-</div><div><head>XL</head>
+</div><div type="chapter"><head>XL</head>
 <p>Ao hospital</p>
 <p>Do calabouço passaremos ao hospital. Tudo é enfermidade: com uma differença apenas -- e é que, n'uns adoece o espirito, ao passo que n'outros adoece o corpo.</p>
 <p>Ao percorrermos aquelles longos salões, onde só a doença tem o seu throno e a morte o seu prestigio; ao pararmos junto d'aquelles leitos empobrecidos, onde os gemidos da miseria se cazam tristemente com a dolorosa suavidade da esperança; ao palparmos as chagas, as desventuras e as mil angustias porque passa a humanidade n'este mundo; ao vermos tudo isto, o espirito vacilla realmente, e o coração sente-se fatal e impetuosamente abalado em tudo o que ha de mais santo, de mais nobre e de mais digno á superficie da terra.</p>
@@ -1165,7 +1164,7 @@
 <p>Arrastada para uma sala especial, unicamente destinada aos mortos, ficou o seu cadaver em deposito, até que um esquife o levasse para o cemiterio.</p>
 <p>Sobre o corpo putrefacto d'aquella victima desventurada não houve sequer quem derramasse uma lagrima.</p>
 <p>É que o mundo, no seu estupido cynismo, pensa de ordinario mais em rir do que em chorar!</p>
-</div><div><head>XLI</head>
+</div><div type="chapter"><head>XLI</head>
 <p>Sorrisos e lagrimas</p>
 <p> -- Acredita-me, Mabilia: esta felicidade para nós é inalteravel. Deixa que o mundo murmure no seu louco e estupido egoismo. Nada importa! A openião das maiorias é, em quanto a mim, uma vil e dolorosa mentira. Tendo-te a ti, que mais poderei eu ambicionar? Desafio os rios e os mares para que venham arrebatar-me do coração a tua terna e doce imagem. Que venham! E eu, impavido, arrostarei com elles, braço a braço, se tanto fôr preciso.</p>
 <p>-- Oh! Julio, meu bom amigo, por Deus, não sejas mentiroso; não digas aquillo que não sentes; se devéras me não amas, para que fallar em tal? Olha que a experiencia, meu amigo, tem-me sido uma triste e dolorosa desillusão n'esta vida...</p>
@@ -1174,7 +1173,7 @@
 <p>Antes, porém, de o pousar, estacou em uma das locaes, e leu o seguinte:</p>
 <p>«Falleceu hontem no hospital de S. José, victima de uma phthisica pulmonar, uma pobre rapariga, por nome Cecilia da Silva. Parece que uns amores mal correspondidos foram a causa de similhante infortunio. Por se ignorar o nome do pae, que se suppõe viver na aldeia, foi o seu cadaver sepultado no cemiterio dos Prazeres, com uma simples inscripção, gravada n'uma pequena cruz de madeira.»</p>
 <p>-- Se me não engano já vi algures esta mulher! -- regougou o barão, repoltreando-se na cadeira, e lançando do seu excellente charuto "havano" uma longa e deliciosa bafurada de fumo.</p>
-</div><div><head>XLII</head>
+</div><div type="chapter"><head>XLII</head>
 <p>Tableau</p>
 <p>Agora o quadro.</p>
 <p>Atravez os quatro personagens, distingue-se um mundo de miserias.</p>

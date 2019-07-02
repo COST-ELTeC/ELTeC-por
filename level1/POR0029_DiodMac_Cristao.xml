@@ -18,7 +18,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">25603</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>15 de novembro de 2018</date>. </p>
@@ -64,7 +63,7 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>O Christão novo</head>
+<div type="titlepage"><head>O Christão novo</head>
 <p>romance histórico do século XVI</p>
 </div>
 <div type="liminal">
@@ -84,7 +83,7 @@
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>CIUMES DE UM REI</p>
 <p>Por uma das mais somnolentas e placidas noites dos fins de outubro de 1553, no desvão de esguia janella do palacio dos nossos reis estava casual ou intencionalmente encoberto pelas dobras de soberba cortina de rendas de Flandres um personagem vestido com gibão de veludo preto.</p>
 <p>Usava elle de curta cabelladura côr de castanha e não inculcava mais de cincoenta annos de idade<ref target="#note2"/>. Em volta do pescoço alvejava-lhe uma das amplas gorgueiras encanudadas que, na frase picaresca de um novellista espanhol, davam á cabeça o irrisorio aspecto de um melão collocado em cima de um prato de porcelana branca. Pronunciava-se-lhe bem um nariz em demasia grosso, era baixo da corporatura como qualquer burguez e parecia reforçado dos musculos como um legitimo descendente de Hercules.</p>
@@ -125,7 +124,7 @@
 <p>-- Diseis bem, applaudiu Dom João com modos brandos e com uma indefinivel expressão que só elle e Machiavelo sabiam fingir. Diseis bem; mas esses negocios ficam para mais tarde. Veremos se elles interessam ao esplendor da religião e ao bem do estado.</p>
 <p>Estendendo depois o braço para a porta do aposento, pareceu indicar a Dom Luiz que era chegado o desfecho da entrevista.</p>
 <p>Dom Luiz de Beja, baixando a cabeça e não arredando os olhos do chão, dirigiu-se machinalmente para a porta e se retirou em completo silencio.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>OS REIS NÃO COSTUMAM PERDOAR AS OFFENSAS RECEBIDAS</p>
 <p>Atravessara Dom Luiz a comprida sala chamada ordinariamente dos tudescos e se dispunha a descer a marmorea escadaria dos reaes paços da Ribeira quando se lhe aproxima um dos pagens de Catharina de Austria e, em tom de quem dá conselhos, ousa segredar-lhe assim:</p>
 <p>-- Tomae cuidado. Os reis não costumam perdoar as offensas que recebem.</p>
@@ -185,7 +184,7 @@
 <p>   Amor é um fogo que arde sem se vêr;     É ferida que doe e não se sente;     É um contentamento descontente;     É dôr que desatina sem doer.</p>
 <p>Logo que terminou levanta-se o gentil prior com todo o carinho a apertar-lhe os braços em volta da cintura e com labios de fogo imprimiu-lhe nas rosas do collo um osculo fremente.</p>
 <p>-- São estas as unicas venturas da minha alma! revelou elle ao pagem. Não vês como ella é formosa? Algum dia te contarei como nasceram estes amores...</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>RECOMPENSA DO CRIME</p>
 <p>Acabara de badalejar a meia noite no campanario da cathedral quando na portaria arqueada do memorando collegio de Santo Antão parou um homem de gigantea corporatura.</p>
 <p>Vinha embuçado em um capote de fartos cabeções e equilibrava na cabeça um desses negros chapeus com amplas abas e copa sumida em fórma de funil.</p>
@@ -248,7 +247,7 @@
 <p>«Por fim o virtuoso varão declarou ao povo com um profundo convencimento:</p>
 <p>« -- Deus é victorioso. Nossos soldados triunfam. Estou vendo os de Achem banhados no proprio sangue. O nosso exercito em marcha triunfante deve entrar sexta feira pelo porto de Malaca.</p>
 <p>«Chega entretanto Manoel Godinho e confirma tudo quanto fôra annunciado. Torna-se em viva alegria a entranhavel tristesa em que todos estavam. Os ares retiniram com voses festivaes. Divisa-se o praser em todos os rostos. Emfim entra o almirante na sexta feira pelo porto, bem cheio de gloria e carregado com os despojos opimos da batalha!»</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>O FESTIM DE BALTHASAR</p>
 <p>Era Francisco Xavier um dos raros exemplos com que os jesuitas poderiam alardear a santidade da sua universal associação; mas quem é que em Lisboa se importava das virtudes do apostolo das Indias?</p>
 <p>Por outras differentes rasões se recreava Lisboa com folganças e festejos.</p>
@@ -296,7 +295,7 @@
 <p>-- Justiça rigorosa vol-a reclamo eu! solemnemente bradou a rainha.</p>
 <p>-- Justiça! justiça! conclamaram todos os convivas.</p>
 <p>Gradualmente foram esmorecendo as vingadoras explosões de enthusiasmo e então o monarcha portuguez, retirando-se bruscamente da mesa, fez terminar esse festival e ruidoso banquete que, para dar em tudo semelhanças do festim de Balthasar, só faltou que mão invisivel escrevesse na parede as mysteriosas palavras mané -- thécel -- pharês!</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>ORAÇÕES E JEJUNS REDIMEM TODAS AS CULPAS</p>
 <p>Da casa do jantar passou a maioria dos convivas para um faustoso salão em cujos moveis sobresaiam riquissimos estofos de cores amarella e carmesim.</p>
 <p>Aqui principiaram damas e fidalgos de se entreter com jogos de cartas, girando a rodo sobre as mesas moedas de prata e ouro como se fossem alcacer de Astrea os paços de el-rei Dom João III.</p>
@@ -358,7 +357,7 @@
 <p>-- Lançai-me agora a vossa benção, meu padre.</p>
 <p>-- Real senhor, eu vos abençôo em nome do Padre e do Filho e do Espirito Santo!</p>
 <p>Ajoelhou el-rei para receber a benção do jesuita e em tam humilde postura de santidade poder-se-hia conhecer que nunca um piedoso monarcha illustrara mais com suas devoções os fastos da monarchia portuguesa.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>A CAÇADA</p>
 <p>Alguns dias depois do casamento convidou el-rei toda a côrte para assistir a uma caçada.</p>
 <p>Ajaesaram-se logo os mais vistosos palafrens e os mais rapidos ginetes. Desenas de creados afadigavam-se nos preparos dos nobres paços de Almeirim e tudo ali se dispoz com o luxo de uma casa de fadas.</p>
@@ -405,7 +404,7 @@
 <p>-- Mas que tens ahi? Que animal é esse?</p>
 <p>-- Meu senhor, são os despojos da caçada.</p>
 <p>Em seguida contou a princesa Dona Joanna as peripecias do fatal acontecimento e logo de todos fôra o pagem felicitado por sua valentia e dedicação.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>A LUTA</p>
 <p>A rainha, forcejando por esquecer as extraordinarias impressões da caçada, recreava-se momentos depois na sua recamara dos paços de Almeirim com a leitura das trovas populares do celebre Juan de Encina.</p>
 <p>A tristesa empanava-lhe levemente o brilho dos olhos feiticeiros e a cada minuto lhe assaltava o espirito de ideias desconsoladoras. Parecia inquieta do animo como se adivinhasse alguma funesta novidade.</p>
@@ -462,7 +461,7 @@
 <p>-- Tens memoria, meu fidalgote. Nem mais nem menos... Olha bem para mim: sou o teu conhecido Jacobo.</p>
 <p>O badage retrocedeu meio passo e por dous momentos apresentou a descoberto a arca do peito. Aproveitou este arriscado estratagema para triunfar do seu terrivel adversario, porque Jacobo, julgando certeiro e infallivel o golpe, resolveu apenas valer-se da vantagem de ferir o pagem. Todavia o denodado mancebo, por meio de uma rapida manobra, desviou o corpo e arremessa a ponta da espada em direitura do contendor. Em um abrir e fechar de olhos rasga-lhe a carotida e completamente lhe atravessa o pescoço de lado a lado!</p>
 <p>Ouve-se então um clamor horrendo. Á testa de uma dusia de archeiros e familiares do Santo Officio com ascumas e espadas acode tumultuariamente o jesuita Simão Rodrigues, o qual, primeiro que o pagem aproveitasse ensejo de evasão, com arrogancia o intima a render-se por ordem de el-rei.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>OS ESTAUS</p>
 <p>Ao indio amarraram os pulsos com rijas cordas e violentamente o conduziram dos paços de Almeirim á residencia inquisitorial do Rocio.</p>
 <p>Aqui foi, sempre debaixo de uma orchestra de apupos, introduzido na abobada subterranea que servia de encerro, onde lhe vestiram uma casula ou escapulario de panno amarello com cruses de Santo André pintadas de vermelho assim por diante como por detraz.</p>
@@ -499,7 +498,7 @@
 <p>O badage, pensando na sorte das malaventuradas creaturas, sentiu ainda mais activa a prurigem da curiosidade. Não cuidando de fechar a porta do escondrijo, lembra-se de percorrer a trechos a parede. Lançou as mãos a segunda argola e eis que lhe apparece novo escondedouro. Não tem sarcophagos, nem feretros, nem prateleiras, nem divisões. Menos alto do que largo, é simplesmente uma grande caixa de pedra. No pavimento amontoam-se braços encrusados, pernas desconjuntadas e caveiras ás duzias. Era uma pilha putrefacta e immunda de caveiras e esqueletos humanos: um repulsivo e fetido ossario emfim.</p>
 <p>Nuvens de fumo espesso e acre vieram entretanto invadir pouco a pouco o espaço do carcere. Cada vez se pronuncia mais um cheiro violento de substancias asphixiadoras. Ficam por todo o espaço predominando esses dous inimigos dos pulmões: o acido carbonico e o acido sulphydrico.</p>
 <p>Esta horrivel atmosphera devia naturalmente influir nos sentidos e na organisação do badage. Influiu. A cabeça entonteceu-lhe e, cambaleando como um ebrio, cahiu na distancia de algumas polegadas das caveiras e esqueletos do ossario!</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>O CARCEREIRO</p>
 <p>O badage irremediavelmente morreria asphixiado pela acção dos vapores deleterios se o carcereiro, cuidando de abrir uma larga janella situada ao fundo do calabouço, não permittisse rapido ingresso a uma camada violenta de ar.</p>
 <p>Abertas as portas da janella, os fluidos atmosphericos vieram naturalmente substituir os vapores do enxofre e assim em poucos momentos se restabeleceu nas gemonias inquisitoriaes um ambiente mais ou menos salutar.</p>
@@ -574,7 +573,7 @@
 <p>O carcereiro esgaseou attonitamente os olhos e respondeu com firmesa:</p>
 <p>-- Por 1:000 escudos vende-se a alma ao diabo. Quero, meu fidalgo!</p>
 <p>-- Fases bem, fases bem. Estas abobadas cheiram a vermes podres e a cadaveres queimados!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>VANTAGEM DE DOUS CONTRA UM</p>
 <p>Preparava-se o badage para se escapulir do carcere quando o homunculo, em attitude de lhe embargar a passagem, desfechou das suas guelas herculeas uma estridente cascalhada de riso.</p>
 <p>-- Meu fidalgo, regougou elle, julga que eu seja de animo tam simplorio que lhe favoreça a escapula sem primeiro arrecadar no bolso os mil ducados promettidos por vossa senhoria? Pardés que me rio com vontade, meu fidalgo!</p>
@@ -604,7 +603,7 @@
 <p>-- Vamos deixar-te agora, proferiu o badage. Ficarás ahi, filho de Torquemada, entregue ao arrependimento e ao remorso dos teus crimes. Não teve força nem coragem el-rei Dom João III para reprimir as tuas ambições e castigar os teus delictos. Pois desempenho eu os deveres do rei! Para bem do povo e desaggravo da humanidade faz-se mister que desappareças da face do mundo e que tambem desappareça comtigo essa ordem de viboras e de tigres que para desdita nossa introdusiste de Roma nos reinos de Portugal. Adivinhas o que te vai succeder? Adivinhas por acaso? Desapparecerás para sempre, Simão Rodrigues. Antes de meia hora será o teu corpo um esqueleto e esse esqueleto se redusirá a um punhado de cinzas!</p>
 <p>Em seguida desprendeu dos pilares da abobada uma lanterna e com a chamma do pavio incendiou as roupas talares do jesuita.</p>
 <p>Começando então de atear-se uma labareda fumegante, logo os dous companheiros a passo lesto se dirigiram para o umbral da porta e assim sem saudades abandonaram aquella horrenda masmorra.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>A TAVERNA</p>
 <p>O carcereiro e o pagem toparam-se defronte do sombrio edificio de San Domingos por altas horas de uma noite escura como breu e sem ideias determinadas sobre a melhor direcção que lhes convinha aproveitar.</p>
 <p>Era certo que por longos momentos não podiam ali permanecer sem o risco de serem percebidos e presos. Mas, em conjuncturas de indecisão, quem se lembra de acodir convenientemente pela propria segurança? Viam-se em liberdade e esse unico bem lhes parecia a suprema fortuna. A largos sorvos aspiravam as emanações puras da noite e com as vistas abrangiam o espaço immenso onde volitam os astros. Pisavam aquelle chão por cem veses trilhado pelas doloridas plantas das victimas inquisitoriaes. Por ali passaram em companhia do carrasco e dos defensores da cruz algumas dusias de martyres envolvidos na samarra e cobertos das terriveis carochas sarapintadas de chammas e demonios. Mas, ainda assim, que feliz differença se se comparava a sombria praça de San Domingos com as estreitas e miasmaticas gemonias onde o corpo se esquartejava no excesso das torturas e a consciencia desfallecia á mingoa do ambiente da liberdade? Entretanto os dous foragidos, como julgando-se proximos de um foco de miasmas e de peste, reconheciam a necessidade instinctiva de se desviarem para longe. Não tinham pensado ainda na escolha do refugio. Lisboa, essa decantada sultana de marmore e granito a não invejar bellesas a Stambul, era cidade grandiosa e opulenta, era então, como a soube descrever um dos mais sympathicos engenhos da moderna geração, a «perola das cidades do mundo, a Phryné das capitaes da Europa, a terra do luxo, dos praseres, das ostentações e das grandesas.»<ref target="#note16"/> Não lhe faltavam palacios nem choupanas, igrejas nem tavernas. Mas o olho dos activos inquisidores, Argos da peor especie conhecida, com tanta facilidade se estendia aos santuarios de Christo como sobre os santuarios das familias. Nada aos filhos de Loyola e aos discipulos de Torquemada lhes era vedado nem recondito: o seu fim predilecto e a sua ambição natural eram avassallar o mundo, eram enroscar-se como serpente gigantesca, desde as raises ao vertice da ramada, na arvore do universo!</p>
@@ -683,7 +682,7 @@
 <p>-- Vejo, rosnou o ex-carcereiro, que não sois homens para empresas serias. Tanto medo para nada! Eu, que servi por alguns annos essa corja de inquisidores, confesso-vos que não recuo nem me arreceio.</p>
 <p>-- Aqui ninguem confessa medo! interferiu o vendeiro com heroica resolução. A vida é uma ninharia e a mim tanto se me dá morrer hoje na praça como ámanhan na cama. Vamos ou não vamos, rapases?</p>
 <p>Momentos mais tarde a baiuca ficou permanecendo silenciosa e vasia.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>REFERTA DE TIGRES E LEÕES</p>
 <p>Este arrojado troço de feras humanas premunidas com lanças e espadões, ascunhas e alabardas, facas e mosquetes investiu no Rocio com rude e selvagem ousia contra a infrene multidão. Ia travar-se agora uma luta de tigres e leões.</p>
 <p>Nem a surpresa nem o medo conseguiram afugentar as mulheres ou as crianças. As mulheres gritavam e rugiam como pantheras, as crianças, em corridas vertiginosas arremessavam pedras e calhaus, os velhos sentiam refluir-lhes o sangue da juventude e serviam para animar os brios dos mais novos. Uma destemida populaça e uma horda fanatica de soldados lidavam e combatiam, como em liça de musulmanos contra christãos, com egual coragem e com o mesmo furor.</p>
@@ -712,7 +711,7 @@
 <p>-- Decerto cumprirá vossa altesa a sua palavra? inquire o badage a meio do caminho.</p>
 <p>-- Sinto, meu amigo, que me reservasses o officio de carcereiro. Mas confio que meu irmão e senhor não deixará de vos tratar bem.</p>
 <p>-- Alimenta vossa altesa mais esperanças do que as que eu nutro. Do animo generoso de el-rei pouco espero. Desconfio que precisa a guela d'aquelle serenissimo sapo de mais uma doninha...</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>O LEITO DA DOR</p>
 <p>As festas e os folgares não se interrompiam nos alegres paços da Ribeira. Comtudo não havia remedios nem divertimentos que restabelecessem a saude do joven herdeiro da coroa.</p>
 <p>A maior parte dos dias passava-os elle de cama. Acommettera-o grave enfermidade. Queixava-se continuamente de dores de entranhas e revoluções de estomago. Emmagrecia a olhos vistos e a cada hora mais se lhe pronunciava a debilidade do corpo.</p>
@@ -762,7 +761,7 @@
 <p>-- Disem os medicos que não passam de debilidade os achaques de vossa altesa...</p>
 <p>-- Os medicos sabem tudo, sabem tudo... Só não sabem dar-me cura!</p>
 <p>Abriu-se o reposteiro da alcova e a comprimentar o principe entrou agora a colmea dos admiradores do poeta Caminha.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>EFFEITOS DO VENENO</p>
 <p>Respeitosamente foi comprimentado o herdeiro da coroa por todos os poetas e cortesãos que de improviso assaltaram a alcova. Mas o joven Dom João não se encontrava em maré de paciencia para aturar importunidades e por isso a numerosa colmea dos nobres aduladores cuidou logo de se despedir.</p>
 <p>A alcova permaneceu deserta; mas soou depressa o estalido de uma secreta mola e a um dos cantos sahiu vagarosamente por uma porta escondida na parede o aventuroso pagem.</p>
@@ -805,7 +804,7 @@
 <p>O badage continuou a revelar-lhe:</p>
 <p>-- Vou por fim denunciar-vos tudo o que sei. É caso incrivel, mas é verdade. Foi crime horrendo, mas aconteceu. Está soffrendo vossa altesa os effeitos do veneno e é el-rei, acredite-me vossa altesa, é el-rei Dom João III a causa da sua morte!</p>
 <p>A tam inesperada e tremenda revelação o corpo do principe contorceu-se com maior violencia. Quiz erguer-se do leito, gritar logo por soccorro e despedaçar as carnes com as unhas como se o dominassem os instinctos de um abutre. Porém a alcova nupcial tornara-se depressa a habitação lugubre da morte. Agora a voz e as forças abandonaram de vez o corpo franzino do principe. Era elle apenas um cadaver!</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>O PERDÃO</p>
 <p>Com o espirito entregue aos dominios de uma vaga melancolia desceu seguidamente o badage ao primeiro andar dos Paços da Ribeira, onde, ao derredor de uma luxuosa banca pejada de papeis, meia dusia dos mais altos personagens se debatiam em calorosa conversação nos aposentos particulares de el-rei.</p>
 <p>O badage, predispondo-se a colher o fio da conversação, cautelosamente applicou o ouvido ao ralo da porta dos regios aposentos.</p>
@@ -832,7 +831,7 @@
 <p>-- Puf! meu rapaz. Pareces bem orgulhoso e bem louco. Pois já te não convem o viso-reinado das Indias?</p>
 <p>Ao successor de Dom Manoel, o glorioso principe que tam respeitado e temido fisera no Oriente o nome portuguez, retrucou o indio com magestosa serenidade:</p>
 <p>-- Parto para as agras e florestas do meu paiz; mas deixe-me vossa altesa partir sem honrarias nem proveito. Não me sedusem as grandesas da vida nem os avellorios do mundo. Christão velho ou christão novo, deveras ficarei contente com dar a Simão Rodrigues um exemplo de modestia e uma lição de humildade!</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>A VINGANÇA</p>
 <p>Foi annunciado o almoço e então suas altesas as pessoas reaes, acompanhadas de suas senhorias os conselheiros e o celebre provincial, poseram logo termo á audiencia.</p>
 <p>Apenas se conservou na sala o badage.</p>

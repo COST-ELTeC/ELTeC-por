@@ -20,7 +20,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">54838</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>21 de novembro de 2018</date>. </p>
@@ -66,11 +65,11 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>O Conde de S. Luiz</head>
+<div type="titlepage"><head>O Conde de S. Luiz</head>
 </div>
 </front>
 <body>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Era no anno de 18*** N'um palacete proximo á Calçada de Santo André, vivia, em companhia de seu filho e de duas creadas, D. Marianna de Mendonça, filha bastarda de Manuel Pires de Athayde, que fôra em tempos de pouco saudosa memoria alcaide-mór da cidade de * * *</p>
 <p>Poucos mezes antes de morrer, Manuel Pires de Athayde, entregára a sua filha dezeseis mil cruzados em dinheiro, afóra joias e outros objectos de valor, pedindo-lhe ao mesmo tempo que acceitasse por esposo a Alvaro de Mendonça seu primo co-irmão, moço serio e de bom porte, e, além d'isso, possuidor de riquezas quasi eguaes ás que o alcaide-mór lhe legava.</p>
 <p>Recusando, a principio, o noivo que o pae lhe indicava, D. Marianna, por ultimo, não teve mais remedio senão acceder aos seus desejos.</p>
@@ -169,7 +168,7 @@
 <p>Que é um refinado ladrão que nos deixa a todos desgraçados! accudiu um individuo que ouvira a pergunta feita pela viuva.</p>
 <p>O commendador Felix Justino de Araujo havia fechado o escriptorio. Domingos de Andrade fugira, roubando dinheiro a todos aquelles que, como D. Marianna de Mendonça, o haviam depositado nas suas mãos.</p>
 <p>Cinco dias depois D. Marianna, com a razão perdida, entrava para a casa dos doidos no hospital de S. José.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Pelos fins do anno de 1858, vivia n'uma pequena casa da Rua do Meio, freguezia de Nossa Senhora da Lapa, Jeronymo de Almeida, honrado mestre de obras, em companhia de sua mulher e de uma filha de dezeseis annos, chamada Martha. A excentricidade de caracter do operario, fazia com que todos os visinhos o detestassem. Para elle, não havia domingos nem dias santificados que o obrigassem a distrair-se do seu trabalho. A sua janella encontrava-se sempre fechada.</p>
 <p>O cultivo do microscopico jardim era a unica distracção que n'esses dias se permittia. Alli entre sua mulher e sua filha, Jeronymo mondava o pequeno canteiro de hortaliça, que duas horas depois tinha de fazer as delicias da refeição domingueira. No armario da cozinha, esperava desde a vespera a garrafa do Cartaxo que figurava á sua meza, sobria sempre, porém honradamente disfructada com o suor do rosto.</p>
 <p>Emquanto Jeronymo trabalhava no pequeno horto, Balbina, a esposa, assentada na cadeira de costura, largava apenas a agulha para agradecer a Deus o marido que a Providencia lhe havia destinado.</p>
@@ -200,7 +199,7 @@
 <p>-- Pois olhe, sr.ª Balbina, disse a capellista, fosse ella minha filha, não lh'o consentia.</p>
 <p>-- Cada qual tem o seu modo de pensar, sr.ª Margarida, e Deus fez-me assim; mas deixemo nos de mais dize tu, direi eu, e vamos a ver o que se poderá fazer por aquella infeliz. E sem mais reflexionar, entrou n'esse recinto mortuario, por onde momentos antes sua filha havia desapparecido.</p>
 <p>-- "Avé Maria, cheia de graça, o senhor é comvosco, benta sois vós", dizia a beata. Forte impostora! accrescentou ella; aquillo não é senão para se fazer valer na visinhança.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Meia hora depois d'esta veridica scena, que acabamos de descrever, appareceu o medico.</p>
 <p>-- É alli, disse-lhe o regedor, apontando para a porta da tia Marianna.</p>
 <p>-- Siga me, disse o doutor, voltando-se para a autoridade.</p>
@@ -224,7 +223,7 @@
 <p>Meia hora depois de arranjada a cama, a velha sentiu-se mais alliviada. As horriveis dôres por que passara, iam-lhe diminuindo a pouco e pouco, e á face, de pallidez mortal, subira-lhe de novo o calor e a vida.</p>
 <p>Nem uma só das visinhas, approximando se á sua porta, foram pelo menos indagar o estado da sua doença.</p>
 <p>Ás sete horas, como o havia promettido, voltou o doutor. A enferma estava livre de perigo.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Oito dias depois, com grave assombro da visinhança, a tia Marianna, envolta n'um capotezinho azul, apparecia de novo á janela da sua casa.</p>
 <p>Os effeitos da febre amarella haviam-lhe passado desapercebidos pela sua organização de ferro. Ao vel-a, ninguem poderia acreditar que essa mulher, aos sessenta e seis annos, podesse haver resistido aos golpes d'uma doença, que tanta gente nova e robusta ceifára n'aquellas immediações.</p>
 <p>Todos viam na sua convalescença, começando pela beata, um favor da Providencia; e nem uma só bocca se abriu para dizer, quanto a dedicação da pobre Martha ajudára aquelle verdadeiro milagre.</p>
@@ -258,7 +257,7 @@
 <p>Momentos depois, ouvia-se apenas em casa do operario o ciciar d'esta curta, mas eloquente oração:</p>
 <p>       Bom Jesus, todo Poderoso,           Filho da Virgem Maria,           Soccorrei-nos esta noite           E ámanhã por todo o dia.</p>
 <p>       Se na terra não coubermos,           Levae-nos Senhor aos céos,           Rogae por nós peccadores,           Virgem Santa, Mãe de Deus.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Havia dias que tinha chegado a Lisboa, vindo do Rio Grande do Sul, um abastado capitalista por nome Tristão de Almeida, segundo rezava o seu passaporte. Acompanhavam-n'o sua mulher e duas filhas.</p>
 <p>Trazia apenas tres cartas de recommendação, uma para o visconde de Coruche, outra para o commendador Lopes de Miranda, e a terceira para a casa bancaria de Vaz Mendes e C.ª, extraordinariamente acreditada n'esta capital, não só pela notavel amabilidade dos seus gerentes, como pelo facto de já ter fallido tres vezes.</p>
 <p>O visconde, o commendador e o banqueiro abraçaram gostosamente o seu recommendado. Como bons farejadores reflectiram que a caça era rara de mais para se abandonar por essas mattas de Lisboa, onde o genero tanto escasseia.</p>
@@ -330,7 +329,7 @@
 <p>-- Foi um magnifico prologo, dizia comsigo Tristão.</p>
 <p>Meia hora depois dirigiam-se ambos para casa do commendador.</p>
 <p>[Nota de rodapé 1: Tristão de Almeida lera a preclarissima obra de sir Francis Strolopp, e procurando um celebre chimico allemão, conseguira que este lhe transformasse a physionomia a ponto de se tornar desconhecido de si mesmo.]</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>-- E já lá vão as cinco, as seis, e as sete, e Jeronymo sem chegar! Virgem Santissima que lhe terá acontecido?</p>
 <p>Isto dizia a infeliz Balbina, olhando ora para o relogio, ora para uma pequena imagem de Nossa Senhora da Conceição, defronte da qual ardia a luz frouxa e melancholica de uma lamparina de azeite.</p>
 <p>-- Ha dezoito annos que somos casados, continuou ella voltando se para a tia Marianna, e nunca tal me aconteceu! E sobretudo n'este tempo! Quem nos diz que elle foi atacado pela febre, e que o levaram; morto talvez; morto, o meu querido Jeronymo? Deus permitta que Martha se não demore. Ella já tinha tempo e mais do que tempo para voltar.</p>
@@ -370,7 +369,7 @@
 <p>Marianna e Martha, ajoelhadas deante da pobre esposa, tentavam impedir-lhe a passagem.</p>
 <p>E ella então, comprehendendo a inutilidade da sua saida, caiu de joelhos deante da imagem de Nossa Senhora. Imitando-a, Martha e Marianna acompanharam-n'a na sua oração.</p>
 <p>E o relogio, seguindo n'um rumor compassado, continuava na sua material indifferença marcando os segundos e os minutos, ao som da chuva que, batendo de encontro aos vidros, ainda mais sombrio tornava aquelle quadro de amargura.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Mudando de rumo, o visconde e Tristão de Almeida dirigiram-se primeiramente a casa de Vaz Mendes.</p>
 <p>Depois de os escutar, o banqueiro annuiu gostosamente aos desejos do seu recommendado, promettendo-lhe desde logo fazer tudo quanto estivesse ao seu alcance para animar uma idéa tão philantropica.</p>
 <p>D'alli partiram todos tres para casa do commendador Lopes de Miranda.</p>
@@ -438,7 +437,7 @@
 <p>-- Ora ahi tem a mamã porque eu não gosto de comer á mesa quando temos visitas. Levanto-me sempre com fome. Só eu á minha parte seria capaz de comer toda aquella carne assada, disse Olympia entristecidamente voltando se para sua mãe.</p>
 <p>-- Pois é possivel que ainda tivesses mais vontade? perguntou Magdalena.</p>
 <p>-- Abençoado estomago! disse D. Maria Egypciaca levantando-se da mesa.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Deixemos por algum tempo os preclaros bemfeitores do pobre Jeronymo; a inconsolavel esposa rezando á Virgem Santissima; D. Maria Egypciaca abençoando o fructo dos seus burocraticos amores, e volvamos a uma epocha vinte annos anterior a estes successos, quando, perdida a razão, a infeliz D. Marianna de Mendonça deu entrada no hospital de S. José.</p>
 <p>Como o leitor deve estar lembrado, a viuva não tinha um unico parente sobre a terra. As pessoas que frequentavam a sua casa havia muito que se tinham afastado, em virtude das intrigas urdidas pela sua amiga intima, que annos antes a aconselhára a depositar os capitaes nas mãos do commendador.</p>
 <p>Até o advogado que fôra acompanhal-a ao escriptorio no dia da fuga de Felix Justino de Araujo, até esse a havia abandonado, para com o seu conselho salvar as victimas do fugitivo.</p>
@@ -477,7 +476,7 @@
 <p>A pobre senhora, na doce esperança de ainda tornar a vêr seu filho, economizava, quanto cabia em suas forças, os poucos haveres que lhe restavam.</p>
 <p>«Este dinheiro, dizia ella ás vezes comsigo olhando para as inscripções, não me pertence, é de meu filho; cumpre-me fazer tudo quanto possivel me fôr para lh'o augmentar.»</p>
 <p>Explicado está portanto o seu modo de viver.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>A physionomia doce e melancholica de Martha impressionára de mais o desconhecido para que a sua promessa deixasse de ser cumprida.</p>
 <p>Quando ao apear-se no Largo das Duas Egrejas se demorou alguns segundos para pagar ao bolieiro, olhou instinctivamente para um grupo composto de quatro individuos que estavam discutindo.</p>
 <p>-- Se fosse algum de nós que tivesse atropellado o homem, provavelmente estava preso, dizia um d'elles.</p>
@@ -518,7 +517,7 @@
 <p>Martha havía-lhe dado o nome da rua e o numero da porta. Dizendo ambas as cousas ao bolieiro, ordenou-lhe que trouxesse Martha e sua mãe ao Hotel de Bragança o mais depressa que lhe fosse possivel.</p>
 <p>Foi n'este momento que Manuel desceu á casa do jantar para dizer a Tristão de Almeida que o ferido estava no uso das suas faculdades.</p>
 <p>Deixemos o mysterioso descobridor do pae de Martha esperando á porta do hotel a mulher e a filha de Jeronymo, e vejamos o que se está passando no quarto do ferido.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>-- Ora graças a Deus que está livre de perigo, exclamou Tristão de Almeida approximando-se do leito de Jeronymo. Não calcula o quanto me tem feito soffrer a sua prostração. Quero que nos perdôe todo o mal que involuntariamente lhe causamos, eu e o meu amigo visconde.</p>
 <p>-- Mas agora, felizmente, sente-se melhor! perguntou o visconde approximando-se de Tristão.</p>
 <p>-- Nem mesmo sei como me sinto, meus caros senhores, respondeu Jeronymo, como se ainda estivesse sendo victima de uma allucinação. De quanto se passou, continuou elle, com uma voz muito enfraquecida, lembro-me apenas que fui atropellado por um trem, e de nada mais me recordo. Sei que tenho tido umas dôres horríveis tanto na cabeça como em todo este lado direito, e nada mais posso responder a vossa senhoria. O que apenas me mortifica é lembrar-me os cuidados em que deve estar minha pobre mulher e filha, o resto será o que Deus quizer. Tratamento, graças aos senhores, vejo que me não tem faltado. O que eu tambem agora desejava pedir-lhe eram dois favores; o primeiro, que me dissessem onde estou, e o segundo, que mandassem immediatamente a minha casa participar a Martha e a minha mulher que estou aqui, vivo e bem tractado. As infelizes a esta hora cuidam que fui atacado pela febre amarella, e andam á minha procura por toda a parte.</p>
@@ -574,7 +573,7 @@
 <p>-- Vamos dar ordem para que tragam alguma coisa de comer a esta gente, disse Olympia, puxando pela saia de sua mãe.</p>
 <p>-- Safa, inimigo! Que esta rapariga não pensa n'outra coisa senão em comer, resmungava D. Maria Egypciaca á proporção que, seguida dos seus hospedes, saía do quarto de Jeronymo.</p>
 <p>-- Que bem que alli cheira, dizia Olympia dirigindo-se para sua irmã e aspirando os aromas culinarios que rescendiam no corredor por onde atravessavam. Provavelmente foi algum hospede que mandou vir o jantar ao seu quarto. Quem me dera fazer o mesmo!</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Cada vez mais impressionado pela ingenua formosura da filha do operario, debalde tentava o desconhecido afastar para longe da memoria aquella imagem que o perseguia.</p>
 <p>«Mas, pensava elle, e se tudo isto não passar de uma illusão, d'um capricho de phantasia?</p>
 <p>«Casar-me hoje, para d'aqui a mezes aborrecer a companheira da minha vida? Continua solteiro Manuel de Mendonça, e se um dia te impressionar como agora algum rosto de mulher, estuda o teu coração e a tua intelligencia, apalpa, mede e analysa esse sentimento que experimentas, e se o considerares estavel, firme e immorredouro, pede então a mão da mulher que o tiver despertado, e torna-a a companheira inseparavel da tua existencia.</p>
@@ -620,7 +619,7 @@
 <p>Foi então que elle reconheceu de verdade o seu estado.</p>
 <p>-- Esperemos, disse elle finalmente de si para comsigo, e vestindo-se saíu com Mascatudo, dirigindo-se a bordo.</p>
 <p>[Ilustração:  -- Como se acha? perguntou Martha levantando se da cadeira... ("pag. 85")]</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>No dia immediato aos acontecimentos que presenceamos no hotel de Bragança, a saude de Jeronymo melhorou consideravelmente. O medico que pela manhã o fôra visitar declarou as feridas de pouca importancia, aconselhando, a despeito de tudo, que seria muito mais prudente não removerem d'alli o ferido, attendendo ao estado anormal em que Lisboa se encontrava.</p>
 <p>Tanto o mestre de obras como a sua familia não se cançavam de agradecer á Providencia a felicidade que tinham achado no meio da sua desventura.</p>
 <p>Não houve delicadeza que lhe não fosse dispensada por aquella santa familia. A tal ponto foi levada a dedicação de D. Maria Egypciaca, que por tres vezes se levantou da cama afim de se informar do doente.</p>
@@ -649,7 +648,7 @@
 <p>-- Ainda não vi melhor coração, murmurou Jeronymo voltando-se para sua filha.</p>
 <p>-- Tudo é muito verdade, meu pae, mas torno a dizer-lhe, preferia que nada d'isto tivesse succedido.</p>
 <p>Meia hora depois, com grandes esforços de Tristão de Almeida, Balbina dirigia-se n'um trem de bandeirinha para sua casa.</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Emquanto se estão passando estas veridicas scenas, entremos em casa do visconde de Coruche.</p>
 <p>-- Vê como pões esse pó de arroz, imbecil! Olha que me estás arranhando as costas! dizia o visconde voltando-se para o seu "groom".</p>
 <p>-- Não é da minha mão, sr. visconde, é uma borbulha que v. ex.ª aqui tem.</p>
@@ -722,7 +721,7 @@
 <p>Pretextando em seguida varios negocios que tinha de tractar, Lopes de Miranda despediu-se do visconde, seguindo d'alli para casa de Vaz Mendes, esperançado de encontrar melhor acolhimento no banqueiro.</p>
 <p>Dez minutos depois, perfumado, burnido e penteado, o visconde de Coruche n'um irreprehensivel "pied fé" fazia em branda flexão voltar o pescoço á "Andorinha", a egua lazã que mandara apparelhar.</p>
 <p>Saindo do pateo em duas upas obrigadas, a "Andorinha" levou o visconde, que formulando o seu plano, se dirigia ao hotel Bragança.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Quando Manuel de Mendonça e Mascatudo sairam do hotel d'Europa, encaminharam-se para bordo, como o leitor deve estar lembrado.</p>
 <p>A galera que fôra em Buenos-Ayres comprada por Manuel de Mendonça, era uma formosa barca de duzentas a trezentas toneladas.</p>
 <p>Era muito de vêr-se o aceio e a disciplina que reinavam a bordo da galera Esperança, habilmente commandada por Manuel de Mendonça, cujos conhecimentos nauticos fariam inveja ao mais experimentado maritimo.</p>
@@ -759,7 +758,7 @@
 <p>-- Amen, respondeu Manuel, reclinando a fronte na mão direita.</p>
 <p>Mascatudo, sem esperar mais observações, saiu da camara, e, subindo ao convez mandou preparar o escaler. Manuel olhava-o em silencio.</p>
 <p>-- Será este o anjo que Deus me mandou á terra, para me acompanhar nas longas noites da minha solidão? pensava elle espraiando os seus olhares entristecidos na direcção do soberbo edificio do hotel Bragança.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Desembarcando no Terreiro do Paço, Mascatudo tomou o rumo do hotel. Desde que saira de bordo, o dedicado amigo em mais alguma coisa havia pensado senão em Martha.</p>
 <p>O seu caracter concentrado e ao mesmo tempo sensivel, levava o a acreditar na impossibilidade de ventura na terra, e, muito menos sobre as aguas do mar, sem se possuir um coração fiel e dedicado, qual a sua imaginação o phantasiava.</p>
 <p>A mulher, essa divina creação que Deus lançou ao mundo para inseparavel companheira do homem, que deante de nossos sorrisos levanta o rosto brilhante de felicidade, e que desmaia a fronte pallida e inquieta, ao enxugar-nos as lagrimas de desventura, concebia-a Mascatudo no seu coração selvatico com toda a força de um vigoroso sentimento.</p>
@@ -789,7 +788,7 @@
 <p>-- N'esse caso eu farei a diligencia de o trazer aqui, respondeu Mascatudo, satisfeito por comprehender o que se passava no coração de Martha.</p>
 <p>Despedindo se de todos, o marinheiro saiu do hotel.</p>
 <p>-- É um anjo, ou eu sou um grande asno, dizia elle comsigo mesmo, emquanto se dirigia para bordo.</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>Deixemos Mascatudo participar a Manuel de Mendonça os resultados da sua entrevista, e encaminhemo-nos a um pequeno gabinete do hotel onde Tristão costuma receber as visitas de mais confiança.</p>
 <p>O visconde, como o leitor não ignora, tinha resolvido tirar o maior partido que podesse do seu novo amigo; com este fim se havia dirigido para o hotel.</p>
 <p>Tristão acabava de chegar de casa de um banqueiro, a quem fôra consultar ácerca de uma transferencia de fundos para o Banco de Portugal na importancia de 650:000$000, para lhe não succeder o mesmo que lhe acontecêra com quantia superior a essa, que tinha no banco de Havana, d'onde havia dois annos não recebia juro algum.</p>
@@ -831,7 +830,7 @@
 <p>A casa, segundo elle havia pensado, era magnifica para aquelle fim. O dono morava longe, porém a boa vontade tanto de um como de outro principiava a não admittir difficuldades, e seguiram immediatamente para casa do senhorio.</p>
 <p>No dia seguinte ás oito horas da manhã, na rua de S. Francisco de Paula, começavam todos os preparativos inherentes á fundação do hospital.</p>
 <p>O anjo da caridade, invocado por Tristão de Almeida, elevava as suas azas brancas sobre os telhados d'aquelle edificio!</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>-- Acompanhas-me, Luiz? Tenho tanto desejo de ir visitar aquella gente... e comtudo não me sinto com valor.</p>
 <p>-- Ora essa, meu capitão, da melhor vontade! Não sei o que li n'aquelles olhos verdes de Martha; ainda se me não poderam tirar da memoria! Póde ser que me engane, mas essa menina é um anjo! Ha na meiguice do seu olhar um não sei quê, que me prendeu!</p>
 <p>-- Será isso uma illusão da tua parte?</p>
@@ -882,7 +881,7 @@
 <p>-- Tenho de ir para bordo, respondeu Manuel despedindo-se de Martha, e promettendo-lhe voltar no dia seguinte.</p>
 <p>-- Então o que me diz, meu capitão? perguntava Mascatudo ao sairem o pateo do hotel.</p>
 <p>-- Que gosto muito d'ella, respondeu Manuel de Mendonça olhando para as paredes do edificio como se buscasse a janella do quarto onde havia ficado a familia do operario.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>São dez horas da manhã. Deitado no seu leito de precioso ebano, e fazendo mil conjecturas ácerca de Tristão, a quem na vespera havia convidado para almoçar, o visconde de Coruche, como homem experimentado, palpa, estuda e analysa o terreno por onde tem de caminhar.</p>
 <p>Tudo estava prevenido para o almoço. Uma grande parte da baixella, que dias antes tinha sido substituida no "prégo" por outros objectos cuja ausencia se não fazia notar, já estava sobre os aparadores. Entre os riquissimos trabalhos de prata destacava-se um pelo seu grande valor e merito artistico.</p>
 <p>Era um centro de mesa. Representava as tres graças sustentando uma enorme concha.</p>
@@ -923,7 +922,7 @@
 <p>Ás quatro horas da tarde sairam todos tres, tendo previamente combinado com o visconde, para que os esperasse no hotel das seis para as sete horas da noite.</p>
 <p>«Estou salvo! dizia o visconde, á proporção que os via desapparecer. Por qualquer dos dois meios venço. Desfazendo me das tres graças, que já para mim não tem graça, posso vender-lh'as talvez por dez ou doze contos. Mas espera, accrescentou elle como se uma idéa lhe acudisse subitamente, é mais decente, mais elegante mesmo: presenteal-o com esse objecto. Ninguem chegou a mais de mil libras, e, para isso, foi necessario que encontrasse um inglez que as julgava Benevenuto! Mas quando viu que o não era, creio que me não daria nem mais dez libras do que o seu pezo. Se elle o attribue a cinzel, bem estamos; deve pelo menos avalial-o em vinte contos, portanto, em vinte contos avaliará o presente. Não ficarei habilitado a pedir-lhe vinte e cinco ou trinta? Ao centro, visconde, e chegarás ao teu fim! E, sem mais reflectir, chamou o "groom" e mandou embrulhar as tres graças em finissima toalha de Flandres, ordenando-lhe que as collocasse dentro do "coupé".</p>
 <p>Ao cair da tarde, acompanhadas pelo visconde, as tres filhas de Eurynome abandonavam a casa do fidalgo para entrarem de graça em casa de Tristão, que bem caro teria de pagar aquella graça.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>O hospital da rua de S. Francisco de Paula, em virtude dos esforços do visconde de Coruche e da inexgotavel bolsa de Tristão, estava prompto de tudo. Sem lisonja, podia chamar-se-lhe um hospital modelo! A boa ordem reunida ao aceio e todas as outras condições hygienicas, tornavam aquella instituição a melhor do seu genero.</p>
 <p>Em Lisboa, Tristão d'Almeida era o assumpto de todas as conversações. Todos falavam na sua caridade; todos se assombravam das sommas fabulosas que dispendia.</p>
 <p>Além do custeamento do hospital, Tristão collocára cincoenta contos de réis em metal sonante na burra do seu escriptorio, para serem applicados ás familias dos doentes que por ventura alli morressem, deixando por unico legado a fome e a saudade.</p>
@@ -949,7 +948,7 @@
 <p>Durante todo esse dia, aonde mais intensos reinavam o perigo e a afflicção, alli se encontrava Martha!</p>
 <p>Quando ao anoitecer a familia de Tristão se preparava para sair do hospital, Magdalena insistiu com a filha do operario para que tambem se retirasse. Foram inuteis todos os seus esforços. Pretextando que tinha de ficar com seu pae, Martha acompanhou-as até á carruagem e voltando depois para o terceiro andar, tornou a encostar-se áquella janella onde a encontrámos no principio d'este capitulo.</p>
 <p>Deixemos a infeliz criança enchugando em silencio as suas primeiras lagrimas, e dirijamo-nos ao hotel Bragança.</p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <p>São nove horas da noite. D. Maria Egypciaca, de pé, encostada a um bufete, aguarda com palpitante anciedade a volta de seu marido.</p>
 <p>Olympia, agitando-se impacientemente pelo salão, contempla de vez em quando o mostrador de uma pendula, como implorando aos ponteiros que bem depressa lhe marquem a hora da ceia!</p>
 <p>Magdalena, reclinada ao parapeito da varanda, fita o astro da noite, que, reflectindo-se sobre as aguas do Tejo as cria de um brilho triste e melancholico.</p>
@@ -1005,7 +1004,7 @@
 <p>-- Qual?</p>
 <p>-- Acceitar o titulo de conde.</p>
 <p>-- Acceito.</p>
-</div><div><head>XXI</head>
+</div><div type="chapter"><head>XXI</head>
 <p>No dia seguinte áquelle em que praticâmos a indiscrição de fazer com que o leitor tambem escutasse as ultimas palavras trocadas entre Tristão de Almeida e o visconde de Coruche, achava se este, antes do meio dia, assentado á secretaria do seu escriptorio, chamando todos os criados, e ordenando a cada um que lhe apresentasse as suas contas.</p>
 <p>Os moços estavam como que assombrados! Nenhum podia acreditar que elle estivesse habilitado a falar d'aquelle modo. Todos sabiam o estado da sua casa, e a unica esperança que lhes restava, eram as promessas de um agiota a quem tencionavam vender as dividas.</p>
 <p>-- Aquillo foi obra de jogo, dizia o cocheiro, refinado velhaco, a quem o visconde havia arrancado á miseria.</p>
@@ -1046,7 +1045,7 @@
 <p>-- Nunca contei dinheiro; para esse fim lá tenho em casa um criado que não faz outra coisa, respondeu altivamente o visconde de Coruche.</p>
 <p>Pondo insolentemente o chapéu, o fidalgo cortejou o banqueiro e retirou-se para casa.</p>
 <p>-- Salvo! exclamou o visconde, extendendo se commodamente n'um sophá. Falta agora o titulo, ajuntou elle olhando ao mesmo tempo para um magnifico charuto havano, cujo fumo subindo em espiral inundou os aposentos de um perfume doce e innebriante!</p>
-</div><div><head>XXII</head>
+</div><div type="chapter"><head>XXII</head>
 <p>«Fortes nescios, que idéa formam de mim! O visconde imagina que sou algum minhoto, que foi d'aqui para o Rio de Janeiro varrer o escriptorio do patrão, e que por uma fórma ou outra, adquiri a riqueza que hoje possuo.</p>
 <p>«Se elle soubesse que fôra o commendador Felix Justino de Araujo quem lhe havia emprestado os trinta contos de réis.</p>
 <p>«Como a sorte me favoreceu em tudo! continuava elle, passeando ao mesmo tempo pelo seu gabinete. Emprestei-lhe trinta contos, e é possivel que nunca mais os torne a ver, mas, quanto vale aquelle magnifico centro de Benevenuto? Quarenta contos talvez. E dizem que um filho da Grã-Bretanha veiu expressamente a Lisboa para lh'o comprar, e se retirou deixando-o aqui. O archeologo tinha bebido muito n'esse dia!</p>
@@ -1077,7 +1076,7 @@
 <p>-- Conte commigo.</p>
 <p>-- Peço-lhe encarecidamente que não falte, accrescentou o visconde n'um cerrado "shake-hands", e saindo do gabinete.</p>
 <p>«Trata-se de me "apanharem" ao jogo, pensou Tristão. Veremos quem fica logrado, accrescentou elle extendendo-se sobre um sophá.»</p>
-</div><div><head>XXIII</head>
+</div><div type="chapter"><head>XXIII</head>
 <p>Emquanto o visconde de Coruche ordena aos seus criados que lhe preparem um lauto jantar, dirijamo-nos á Rua do Meio, a casa de Jeronymo.</p>
 <p>São tres horas da tarde. O operario, á mesa do jantar, entre Marianna e sua mulher, olha de vez em quando para a vidraça, como para ver se ainda continúa a chuva.</p>
 <p>Na face pallida de Balbina, desenha-se-lhe o soffrimento. Marianna parece acompanhal a nas suas tristes meditações.</p>
@@ -1126,7 +1125,7 @@
 <p>Martha não proferiu uma palavra.</p>
 <p>-- Não me illudas, filha, esse homem é amado por ti.</p>
 <p>-- Esse homem, balbuciou Martha, é amado pela filha do nosso protector! Hoje mesmo a encontrei olhando para a sua galera, ajuntou ella, caindo desanimada nos braços de seu pae.</p>
-</div><div><head>XXIV</head>
+</div><div type="chapter"><head>XXIV</head>
 <p>-- Aposto a minha cabeça em como o visconde ha-de ser tão nescio que se não lembre de arranjar um montesinho antes da ceia.</p>
 <p>-- Se o não fizer alguns motivos tem para isso. Por tolo, não é, decerto.</p>
 <p>-- Tambem, se queres que te diga a verdade, não lhe encontro grande esperteza. Já lá vão duas heranças importantissimas, e ambas tiveram o mesmo fim. Se isto é ser esperto, está o mundo cheio de espertalhões!</p>
@@ -1235,7 +1234,7 @@
 <p>Mais tarde parava um trem á porta do visconde. Era Gil de Carvalho que fôra a casa buscar mais dinheiro, e uns certos baralhos em que as cartas se pegavam umas ás outras. Descendo rapidamente, entrou no patim.</p>
 <p>-- Os senhores já lá vão para o theatro, disse-lhe o guarda-portão.</p>
 <p>Gil cuidou morrer de desespero!</p>
-</div><div><head>XXV</head>
+</div><div type="chapter"><head>XXV</head>
 <p>Alguns esclarecimentos ácerca de Manuel de Mendonça, de quem vossa excellencia e a pallida Martha, ha tempos a esta parte, nada tem sabido.</p>
 <p>Quando verdadeiramente fascinado pela formosura da filha do operario, saiu do hotel Bragança  -- vespera da retirada de Jeronymo para sua casa  -- o maritimo havia-lhes promettido de brevemente os visitar; porém, reflectindo mais pausadamente sobre esse gravissimo assumpto, quiz ainda forcejar com o coração, abafando-lhe quanto podesse a chamma que o consumia!</p>
 <p>Tudo foi inutil! Ao cabo de dez dias, a pobre alma, cada vez mais preza á recordação de Martha, ia a tal ponto identificando-se com ella, que Manuel resolveu de si para si, ou sahir immediatamente de Portugal ou pedir a filha de Jeronymo.</p>
@@ -1311,7 +1310,7 @@
 <p>Manuel de Mendonça sorriu-se brandamente, e olhando para aquelles horisontes, toldados então por uma neblina espessa, fitou a vista no oceano, como que dizendo-lhe que o esperasse.</p>
 <p>N'essa mesma noite adoeceu com uma febre gravissima, de que lhe resultou estar quinze dias de cama.</p>
 <p>Foi durante esse tempo, emquanto ao infeliz, entre as visões da febre, se lhe desenhava a imagem da supposta peccadora, que Magdalena na varanda do hospital, assestava de vez em quando o telescopio para descobrir o rasto do commandante da galera.</p>
-</div><div><head>XXVI</head>
+</div><div type="chapter"><head>XXVI</head>
 <p>-- Terá a bondade de dizer á sr.ª D. Magdalena que está aqui a sua pobresinha, dizia a tia Monica voltando-se para o guarda-portão do hospital.</p>
 <p>-- A sr.ª D. Magdalena não póde agora recebel-a; acha-se á cabeceira de um doente que está por pouco... respondeu-lhe o guarda-portão.</p>
 <p>-- Pois sim, pois sim, vá sempre dizer-lhe que é a tia Monica, a quem deu ordem para que viesse aqui hoje sem falta. Ande, avie-se; verá se me fala ou não.</p>
@@ -1358,7 +1357,7 @@
 <p>-- Será meu, disse Magdalena com uma voz debil e melancholica. Tirando depois algumas moedas de prata de dentro de um "porte-monnaie", entregou-as á tia Monica.</p>
 <p>-- Se elles não se amassem! pensava Magdalena ao despedir-se da velha.</p>
 <p>-- Se Deus me ajudasse! repetia a tia Monica sahindo do gabinete.</p>
-</div><div><head>XXVII</head>
+</div><div type="chapter"><head>XXVII</head>
 <p>Ao cabo de quinze dias, graças á sua robusta compleição, Manuel de Mendonça pôde subir ao convez, esperando, dizia elle, conseguir com a brisa do mar completo restabelecimento.</p>
 <p>Mas não era esse apenas o motivo que alli o conduzia. Mascatudo havia-lhe dito na vespera, que da galera se via perfeitamente o edificio do hospital, e quasi todos os dias, depois da uma hora da tarde se divisava um vulto na varanda, assestando o oculo na direcção do barco.</p>
 <p>Achando se completamente restabelecido, Manuel de Mendonça pegou no seu magnifico telescopio e dirigiu-se á prôa do navio afim de descobrir quem tão assiduamente o espreitava.</p>
@@ -1372,7 +1371,7 @@
 <p>Quem n'esse momento tivesse entrado no hospital da rua de S. Francisco de Paula, e houvesse subido aquelle terceiro andar, onde Magdalena se achava, teria ouvido o som da queda de um corpo e uma voz entrecortada pelos soluços, soltando estas palavras:</p>
 <p>-- Amam-se, não ha duvida!</p>
 <p>-- Maldito caldo de gallinha, puff, está a escaldar! dizia uma outra voz. Era a de Olympia.</p>
-</div><div><head>XXVIII</head>
+</div><div type="chapter"><head>XXVIII</head>
 <p>Graças aos rasgos de valor e profunda dedicação que o dono do hospital da rua de S. Francisco de Paula espalhava a cada a hora sobre a cidade de Lisboa, o seu nome tornou-se popular.</p>
 <p>Todos á uma desejavam encontrar esse homem, que, arriscando constantemente não só a sua preciosa existencia, como tambem a de sua mulher e duas filhas, se chegava hoje ao leito do moribundo com palavras consoladoras, ámanhã amortalhava o cadaver de outro por cuja existencia batalhára até a ultima. Era de justiça, mais do que justiça, indispensavel até conceder-se-lhe a mercê em que sua magestade dias antes havia falado com o ministro do reino, segundo este havia dito ao visconde de Coruche.</p>
 <p>Uma manhã em que o visconde, fazendo a sua demorada "toilette", se preparava para ir ao hospital, foi procural-o o conselheiro Poderosa.</p>
@@ -1443,7 +1442,7 @@
 <p>-- Suppuz que vinha prevenido, mas enganei-me, respondeu Gil de Carvalho. Ámanhã passarei por sua casa.</p>
 <p>-- Pois então adeus, meu amigo, disse o visconde, batendo as pernas ao cavallo.</p>
 <p>Deixemos o visconde e Tristão de Almeida no jardim do hospital discutindo ácerca do nome que tencionam escolher para o titulo, e subindo pela rua do Conde, vamos a casa da pobre Martha, de quem não sabemos desde aquelle dia em que se prostrou sem sentidos ao ouvir a historia do mestre de obras.</p>
-</div><div><head>XXIX</head>
+</div><div type="chapter"><head>XXIX</head>
 <p>Magdalena, ao ver a cruel realidade das suas suspeitas, resolveu esmagar nos seios d'alma aquelle affecto que lhe era vida, e dirigindo-se a casa de Martha, exigir da sua amizade a revelação de todos os segredos.</p>
 <p>Havia dias que a pobre criança, cada vez mais enfraquecida, parecia levantar os olhos a Deus, como pedindo-lhe pela sua infinita misericordia que a recolhesse na paz divina de seus braços.</p>
 <p>Balbina e Jeronymo, sem se retirarem um só momento do lado de sua filha, erguiam de vez em quando os seus olhos supplices e inquietos para a Virgem da Conceição.</p>
@@ -1507,7 +1506,7 @@
 <p>-- A minha felicidade está no céu, respondeu a infeliz, levantando os olhos para o tecto.</p>
 <p>-- Enganas-te! exclamou Magdalena. A tua felicidade está nos braços d'esse homem como a sua ventura deve estar n'um coração nobre e generoso como o teu! Já a mim mesma o prometti, irei hoje preparar o teu bem estar. Agora, filha, accrescentou Magdalena, que esses teus olhos se enxuguem para sempre, e que as lagrimas desçam sobre os meus para jámais os abandonar. E abraçando estreitamente a pobre creança, Magdalena sahiu do quarto, e sem quasi se despedir de Balbina, deixou a casa do operario e partiu para o hotel Bragança!</p>
 <p>[Ilustração: É de joelhos que lh'o imploro! ("pag. 213")]</p>
-</div><div><head>XXX</head>
+</div><div type="chapter"><head>XXX</head>
 <p>Ao chegar ao hotel de Bragança, Magdalena encontrou sua mãe louca de alegria. Já tinha sabido por Tristão e pelo visconde de Coruche, a mercê que sua magestade acabava de lhe offerecer.</p>
 <p>-- Um abraço minha filha! exclamou D. Maria Egypciaca. El-rei, attendendo aos serviços que temos prestado ao paiz durante a epidemia, acaba de encarregar o conselheiro Poderosa, de perguntar a teu pae que nome deseja dar ao titulo de conde que lhe vae ser concedido. Fique portanto sabendo, accrescentou ella, que d'aqui a pouco tempo será filha de uma condessa! Que te parece Olympia?</p>
 <p>-- Parece-me que sua magestade acaba de nos dispensar uma grande honra, respondeu Olympia, para dizer qualquer coisa a sua mãe.</p>
@@ -1584,7 +1583,7 @@
 <p>Ás onze horas, retiraram-se o conselheiro e o visconde, combinando ambos com Tristão de Almeida a hora para no dia seguinte se encontrarem, a fim de se decidir o nome que devia ser escolhido para o titulo.</p>
 <p>D'ali a duas horas, Olympia resonando profundamente, via em sonhos um lauto banquete, e, a seu lado, com a farda de conselheiro, aquelle que na sua vida lhe tinha proporcionado o ensejo de se convencer que no seu todo havia uma outra viscera sem ser o estomago.</p>
 <p>Magdalena, com o rosto encostado aos vidros da janella, contemplava os astros, adivinhando em cada um d'elles o rosto grave e melancholico de Manuel de Mendonça.</p>
-</div><div><head>XXXI</head>
+</div><div type="chapter"><head>XXXI</head>
 <p>No dia seguinte á entrevista do conselheiro, á mesma hora que este e o visconde se preparavam para ir falar com Tristão, Manuel de Mendonça resolvia procurar informações de Martha.</p>
 <p>-- Se tudo quanto te disse aquella infame beata, não fosse mais do que uma calumnia... pensava Manuel ao mesmo tempo que o proferia a Mascatudo.</p>
 <p>-- Póde muito bem ser que tal aconteça, respondia-lhe o marinheiro. Em todo o caso, se eu fosse ao sr. Manuel de Mendonça...</p>
@@ -1624,7 +1623,7 @@
 <p>-- Que vá quanto antes, respondeu Mascatudo.</p>
 <p>Sem mais hesitação, Manuel de Mendonça entrou na rua da Bella Vista, e seguiu para o passeio da Estrella.</p>
 <p>-- Espera-me aqui junto ao lago, disse elle a Mascatudo ao entrarem as portas do passeio.</p>
-</div><div><head>XXXII</head>
+</div><div type="chapter"><head>XXXII</head>
 <p>Espera-o, martyr! Unge-lhe o peito com o divino balsamo do teu nobre sacrificio! Lagrimas misericordiosas foram as tuas, derramadas sobre a face da pobre virgem! Vae, infeliz; fere, profunda, arranca uma por uma as fibras do coração, e que o sangue que d'ahi te gotejar, lavando as nodoas do futuro conde lhe purifique a alma para um dia entrar no reino dos justos com o passaporte de uma retribuição!</p>
 <p>Manuel subiu á montanha.</p>
 <p>Magdalena não faltára.</p>
@@ -1660,7 +1659,7 @@
 <p>-- Preciso de ar livre, respondeu-lhe Manuel. Escalda-me a febre. Para que haviamos de ter vindo a Lisboa?</p>
 <p>Era tal a agitação do seu espirito, que Mascatudo nem se atreveu a perguntar-lhe o resultado da entrevista que tivera com aquella senhora.</p>
 <p>O mais que entre ambos se passou foi um mysterio. Soube-o ella e Manuel de Mendonça. Agora, quando estas paginas escrevemos, Magdalena dorme o somno da morte. Manuel, discreto como a sepultura da pobre amiga, seria incapaz de o revelar.</p>
-</div><div><head>XXXIII</head>
+</div><div type="chapter"><head>XXXIII</head>
 <p>Ao metter-se no trem, Magdalena dissera ao cocheiro que parasse na rua do Meio.</p>
 <p>Ao voltar para a esquerda da rua da Bella Vista, ouviu que a chamavam. Era Monica!</p>
 <p>Magdalena mandou parar o trem e a beata approximou-se.</p>
@@ -1697,7 +1696,7 @@
 <p>Com uma physionomia alvar, Balbina contemplava toda esta scena sem a comprehender.</p>
 <p>Magdalena fechou-se por alguns instantes no quarto de Martha. Afinal sahiu, e, abraçando de novo as suas amigas, entrou no trem, e seguiu para o hospital.</p>
 <p>No entretanto, Manuel de Mendonça descendo a calçada das Necessidades dirigia-se para bordo.</p>
-</div><div><head>XXXIV</head>
+</div><div type="chapter"><head>XXXIV</head>
 <p>«Felizmente, pensava Magdalena, Manuel de Mendonça nem sequer desconfia que Tristão de Almeida foi Felix Justino de Araujo e muito menos Domingos de Andrade. Poderei conseguir tudo sem comprometter meu pae. Vejamos; seriam quarenta, cincoenta contos... Pedir-lhe-hei o meu dote, e será uma retribuição generosa! Ao principio oppôr se-ha ao meu pedido, mas por ultimo, não terá outro remedio senão acceder. Occultarei tudo de minha mãe. Permitta Deus que o possa encontrar no hospital. São estas as suas horas.»</p>
 <p>N'este momento, o trem chegava á rua de S. Francisco de Paula. Ao entrar o portão, a primeira pessoa que lhe appareceu, foi a criada de Olympia, dando lhe os parabens não só pelo titulo que haviam concedido a seu pae, como pelo lindo nome que elle tinha escolhido: o conde de S. Luiz.</p>
 <p>Sem lhe prestar attenção alguma, Magdalena perguntou-lhe apenas se alli estivera seu pae.</p>
@@ -1775,7 +1774,7 @@
 <p>Manuel de Mendonça, que fixára o rosto entristecido de Magdalena, cravou os olhos no chão, como receiando que o trahisse o seu olhar.</p>
 <p>Teria elle comprehendido o que se passava no coração de Magdalena?</p>
 <p>-- Agora, disse Magdalena, retiro-me. Ámanhã sendo meio dia, aqui estarei, por que tenho graves negocios a tractar com vossa excellencia e com seu filho. Extendendo a mão a este ultimo e a D. Marianna, Magdalena retirou-se, caminho do hospital.</p>
-</div><div><head>XXXV</head>
+</div><div type="chapter"><head>XXXV</head>
 <p>Havia quinze dias que sahira o decreto concedendo o titulo de «conde de S. Luiz» ao illustre e philanthropico varão, que, com tanto e tanto afan, continuava a espalhar as joias da sua caridade.</p>
 <p>A condessa, impando de orgulho e de vaidade, ora se pavoneava pelas ruas mais concorridas da capital, ora embocetada no palacio de S. Francisco de Paula, aguardava o sequito das fidalgas caridosas, que, esquecendo o amarellecido dos seus pergaminhos, iam, movidas pela virtude da moderna titular, fazer antecamara áquella que dias antes se chamava apenas D. Maria Egypciaca.</p>
 <p>Graças ás repetidas instancias do seu amigo o visconde de Coruche, Tristão de Almeida, ou, para falarmos com mais propriedade, o conde de S. Luiz, fizera um arrendamento a longo prazo de um magnifico palacio em Buenos-Ayres, outr'ora pertencente aos marquezes de...</p>
@@ -1804,7 +1803,7 @@
 <p>Consummara-se o sacrificio!</p>
 <p>-- Quando se realisará esse casamento? perguntava todos os dias o conde de S. Luiz.</p>
 <p>-- Brevemente, respondia-lhe Magdalena!</p>
-</div><div><head>XXXVI</head>
+</div><div type="chapter"><head>XXXVI</head>
 <p>Instigado pelos conselhos do visconde, e pela persistente côrte que D. Olympia lhe dirigia, o conselheiro resolveu se emfim a pedir aos condes a mão de sua filha.</p>
 <p>Eram duas horas da tarde. O conde tinha partido para o hospital, mas, para sua felicidade estava em casa a condessa de S. Luiz, e prompta como sempre, desde as dez horas da manhã, para receber todas as visitas que lhe mereciam a honra da sua amizade.</p>
 <p>O conselheiro foi introduzido para um pequeno gabinete «á renascença», todo mobilado ao gosto do visconde de Coruche.</p>
@@ -1844,7 +1843,7 @@
 <p>-- Se acho, meu genro! O conde de S. Luiz, sendo cinco horas, mais "migalha" menos "migalha" deve cá estar. Não falte pois, accrescentou ella extendendo a mão ao conselheiro, que foi recuando sem descravar os olhos de Olympia, até que se retirou.</p>
 <p>-- Até que vês as tuas esperanças realizadas, disse a condessa de S. Luiz voltando-se para sua filha.</p>
 <p>-- É verdade, minha mãe, suspirou Olympia! E agora, para ter forças de supportar todas estas commoções, vou ver se me dão um caldo de cabeça de vitella.</p>
-</div><div><head>XXXVII</head>
+</div><div type="chapter"><head>XXXVII</head>
 <p>Segundo havia combinado com a condessa, o conselheiro ás cinco horas da tarde foi procurar o conde de S. Luiz.</p>
 <p>Este parecia ouvil-o sem lhe prestar attenção alguma; porém, graças á sua esposa, declarou por ultimo que não tinha duvida em conceder-lhe a mão de Olympia.</p>
 <p>João Poderosa exultou de alegria! Olympia sentia brincar-lhe o travesso amor nas cavidades estomacaes apontando-lhe ao mesmo tempo as flechas de ouro, ao orgão musculoso do corpo humano, a que vulgarmente se chama coração!</p>
@@ -1870,7 +1869,7 @@
 <p>Á meia noite, retiraram-se todos os convidados.</p>
 <p>-- Como deves estar satisfeita, Olympia, dizia Magdalena voltando se para sua irmã.</p>
 <p>-- Eu! respondeu Olympia. Ora essa! Pelo muito que jantei.</p>
-</div><div><head>XXXVIII</head>
+</div><div type="chapter"><head>XXXVIII</head>
 <p>O conselheiro saira da casa do conde de S. Luiz acompanhado pelo visconde.</p>
 <p>Ao despedirem se, este ficou de ir no dia seguinte almoçar com João Poderosa, para saber todos os promenores da sua entrevista com o conde de S. Luiz.</p>
 <p>São dez horas da manhã. Louco de alegria pelo negocio que viera de fazer, o conselheiro formúla mil planos para o seu dourado porvir!</p>
@@ -1912,7 +1911,7 @@
 <p>-- Tenho muitas voltas a dar, não poderei ir senão de tarde. E despedindo-se do conselheiro, o visconde saiu, deixando o entregue ás suas profundas reflexões.</p>
 <p>«Pobre visconde! Realmente, compadeço-te. Quanto melhor te fôra o teres sido sincero para commigo. Se tens sido esperto, apanhavas-me cincoenta ou sessenta contos por me teres conseguido este casamento. Assim, melhor foi, custar-me-ha apenas cincoenta ou sessenta libras!»</p>
 <p>Meia hora depois, o conselheiro mandou buscar um trem, e dirigiu-se para Buenos-Ayres.</p>
-</div><div><head>XXXIX</head>
+</div><div type="chapter"><head>XXXIX</head>
 <p>São tres horas da tarde. O palacio dos condes de S. Luiz, que na vespera ainda brilhantemente illuminado, abria os seus magnificos salões á primeira sociedade de Lisboa, apresenta se agora entristecido como fachada de edificio legendario!</p>
 <p>É que a morte, estranha e indifferente a todas as grandezas humanas, assenta-se melancholicamente sobre os degraus d'aquellas escadas de marmore, e, erguendo-se de vez em quando, fixa o seu olhar invisivel, que atravessando as salas, vae pousar lugubremente no rosto pallido e cadaverico do conde de S. Luiz!</p>
 <p>Tristão sente-lhe as mãos frias e descarnadas pesando-lhe sobre o peito. Quer falar; a voz prende-se-lhe na garganta! De vez em quando, levanta um olhar de piedade para um Christo, que de braços abertos o contempla da sua cruz, como se o convidasse a recolher-se ao seu divino seio! Então o conde torna a abaixar os olhos como se aquella imagem o assustasse, e, levantando ao mesmo tempo uma das mãos, pede a Magdalena que se lhe approxime.</p>

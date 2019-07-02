@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">24147</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>13 de janeiro de 2019</date>. </p>
@@ -65,7 +64,7 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>A ruiva</head>
+<div type="titlepage"><head>A ruiva</head>
 </div>
 <div type="liminal">
 <p>Dedicado a Camilo Castelo Branco, Acabo de reler toda a sua obra. Quanto, no artista e no escritor, o talento tem de maleável, de voluntarioso e de grande — a ironia na sua expansão facetada e cortante, o estilo na elástica elegância nervosa dos seus moldes plásticos, e a observação no seu processo tenaz de análise e de crítica —, tudo nos seus livros se encontra, a mãos plenas, com uma opulência que deslumbra.</p>
@@ -74,7 +73,7 @@
 </div>
 </front>
 <body>
-<div>
+<div type="chapter">
 <p>A RUIVA</p>
 <p>A taberna do Pescada ficava mesmo em frente ao Cemitério dos Prazeres, e era frequentada pela gente do sítio, especialmente de noite, à hora em que os cabouqueiros e os britadores abandonam os seus trabalhos e entram na cidade, em ruído.</p>
 <p>Tratava-se então de levantar um muro de cantaria que fosse como a fachada opulenta da gélida cidade de cadáveres; na planura que medeia entre o cemitério e as terras, o terreno via-se revolto; os carros de mão jaziam esquecidos; os montes de pedras miúdas e de argamassas antigas tornavam penoso o trânsito. Na lama constante do caminho, eram profundos os sulcos que as seges de enterro deixavam até à porta do cemitério, escancarada sempre, como a goela de um plesiossauro faminto.</p>

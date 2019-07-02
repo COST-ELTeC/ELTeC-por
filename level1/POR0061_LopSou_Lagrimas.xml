@@ -14,7 +14,6 @@
 </titleStmt>
 <extent>
 <measure unit="words">48764</measure>
-<measure unit="pages"></measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>5 de fevereiro de 2019</date>. </p>
@@ -66,7 +65,7 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlePage"><head>Herança de lágrimas</head>
+<div type="titlepage"><head>Herança de lágrimas</head>
 <p>Romance original</p>
 <p>por</p>
 <p>Lopo de Souza</p>
@@ -75,11 +74,11 @@
 </div>
 </front>
 <body>
-<div><head>Herança de lágrimas</head>
+<div type="liminal"><head>Herança de lágrimas</head>
 
 <p><foreign xml:lang="fr"> «Les femmes s’imaginent être des anges et avoir reçu du ciel la mission et la puissance de sauver tous ces don Juan; mais comme l’ange de la légende, elles ne les convertissent pas, et elles se perdent avec eux».</foreign> </p>
 <p>George Sand—Lélia</p>
-</div><div><head>I</head>
+</div><div type="chapter"><head>I</head>
 <p>DIANNA DE SEPULVEDA A HENRIQUETA D’AGUIAR</p>
 <p>Eis-me, pois, caminho de Lisboa, minha querida Henriqueta. Pediste-me uma descripção minuciosa dos pequenos incidentes d’uma jornada de trinta e tantas legoas, e dos abalos, enlevos, ou fastios do meu coração. D’este coração de que a tua graciosa e feliz bacharelice diz coisas tão feias, até descrer da sua individualidade, excepto quando o sentes pulsar junto do teu seio. Sou eu responsavel, mereço as accusações que me diriges, se algumas das fibras da minha alma se conservam fechadas no seu involtorio de gelo ? O que eu não sei ainda bem, minha amiga, é se isto é um mal que me faz padecer, ou um bem que me poupa a grandes magoas. Todavia, forçoso é confessal-o, a minha alma tem anceios de curiosas experiencias. Deus negou-me um dos attributos felizes da humanidade: as alegrias infinitas da paixão reciproca, os arrobos mysteriosos do amor exaltado, dizes tu, e com razão. Concordo comtigo, e quizera sentil-o; sentil-o, como eu o comprehendo.</p>
 <p>D’aqui nascem estes secretos enfados que me atormentam a existencia, estes desesperos tantas vezes disfarçados n’um sorriso d'amarga ironia ao meu destino. Crêr que existe para todas as creaturas um mundo de luz embriagadora, e viver nas minhas trevas!...  Aqui, ao lado d’este homem que me chama sua desde os dezoito annos, e a quem o mundo denomina meu ! Meu ! Pertence-me como o aleijão pertence ao rachitico de nascença, que debalde tenta lançar fóra de si a carga pezada e odiosa.</p>
@@ -111,7 +110,7 @@
 <p>Parece-te uma demencia remodellar-me eu assim ? Será. Eu sinto uma tristeza, uma saudade infinda, uma embriaguez dulcíssima que me arrebata para além mesmo dos caminhos percorridos pelo espirito... </p>
 <p>Vou dizer-te tudo. Muitas vezes, quando os meus olhos se fecham ou escondem, como tu dizes, debaixo das palpebras, é que eu sinto um frémito voluptuoso e aromatico pousar-lhe ao de leve como um beijo da aragem matutina no mez d’abril. Quando a minha cabeça descae como a roza queimada na haste pelos ardores estivos, é que as pontas dos meus cabellos me roçam as faces, palidas pelo estremecimento do jubilo interior. Quando finalmente, a minha voz immudece no meio d’uma dissertação animada, é a minha alma que se desprende dos laços terrestres, e anda pairando no espaço com sua irmã fugitiva.</p>
 <p>Depois desta confissão, minha amiga, fico certa de que menos ainda me conheces do que no passado. Ficas-me chamando excentrica, doida, romantica, e afinal de tudo isto, ha só um epitheto que me cabe perfeitamente: chama-me uma grande desgraçada, e é que acertaste. A minha primavera não pôde romper os nevoeiros em que despontou involta ; o outomno vae carregado e sombrio; e o inverno, para que eu já caminho, será pezado e fastidioso. Quando me lembra que breve chegará a velhice, esse achaque incuravel da humanidade, o qual não ha-de ter um deposito de reminiscencias que me aligeire as horas, essas horas que são como uma vida retrospectiva para o ancião, sinto um desejo quasi invencivel de pôr termo a este flagel-lo incessante do meu espirito... Silencio, Hen-riqueta ! Não, não me digas onde estava para mim a salvação. De mais o comprehendo eu !</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Dianna a Henriqueta</p>
 <p>Interrompi hontem bruscamente a longa carta em que, pondo de parte os mil incommo-dos d’uma jornada de sete dias, dentro d’aquelle abafador transporte da liteira, e o arrastado d’aquellas horas de permanente tête-à-tête com uma pessoa que dormita as tres quartas partes do tempo, me dispunha a descrever-te a impressão que me causou esta magnifica cidade, para a qual os provincianos, como nós, olham e não sem razão com verdadeiro enlevo.</p>
 <p>Até mesmo para as almas prosaicas que nunca sahiram de Portugal, e que, por uma estupida monomania do seculo, só acham sublime e primoroso o que, por fé e favor dos almanacks, sabem e conhecem dos paizes estrangeiros, Lisboa deve ser uma cidade admiravel, pela mages-tosa grandeza de seus edifícios, e o espaçoso de suas ruas principaes. A mim me pareceu, vendo-a do alto de S. Pedro d’ Alcantara,—permitte linguagem figurada—uma dama graciosa espregui-çando-se gentilmente em fôfo relvado de jardins, e remirando-se alem no espelho immenso, onde se banham aquellas saudosas Tagides do nosso divinal poeta.</p>
@@ -131,7 +130,7 @@
 <p>Porque ? pergunta o meu espirito perdido nesta urdidura, sem poder acertar com o fio principal. Porque ? repete a minha razão, procurando nas trevas um raio de luz que me esclareça. Mas nem espirito nem razão me responde; e o raciocinio nada pode em casos destes em que é preciso adivinhar...  Mudemos por tanto de assumpto, e deixa-me ver se encarreiro outra vez o aranzel que te estava fazendo do meu enthusiasmo.</p>
 <p>Enthusiasmo ! Repara tu como ha palavras convencionaes até para o nosso proprio sentir, e como resaltam dos bicos da penna sem a gente saber dar a explicação d’ellas. Deves rir-te de mim, Henriqueta; deves dizer lá comtigo :  -- Esta mulher engana-me ou illude-se a si mesma quando me falla em commoções e em extasis á vista das maravilhas surprehendentes da terra. Tens razão; ri-te de mim; ri ainda de melhor vontade, sabendo que vou ámanhã assistir a um concerto dançante dado em meu obsequio pela viscondessa de***, e que tenho preparado para essa occasião uma toilette elegantissima, segundo diz a modista, mais afamada entre as aformoseadoras do genero humano. Dou-te licença para tudo, menos para me chamar hypocrita : isso sabes tu que não sou, e que o meu desgosto e indifferença por essas futilidades, que entretem e amenisam a vida das outras, não é fingido, mas sim real.</p>
 <p>Nunca tu saibas o que isto é, minha amiga.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Dianna a Henriqueta</p>
 <p>Davam dez horas quando entrei nos esplendidos salões da viscondessa.</p>
 <p>Nunca meus olhos se tinham aberto em ambito tão rescendente dos perfumes da sociedade escolhida. Tudo ali era grande e magnifico. Á exquisita e rica elegancia dos adornos, juntava-se o prestigio que infundem ainda estes nomes reverenciados desde seculos.</p>
@@ -180,7 +179,7 @@
 <p>             «Ami, je suis la solitude».</p>
 <p>Aproximou-se-nos meu marido: deixei o baile.</p>
 <p>Assim acabou a minha entrada no mundo. Creio que não omitti coisa essencial, e que me ficarás obrigada pela prolixidade occiosa da minha narração.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Henriqueta a Dianna</p>
 <p>Ha oito dias sem carta tua ! Porque me não escreves ? Quantas horas se passam sem te lembrares de mim ?</p>
 <p>Oh ! Dianna, Dianna ! eu estou receiosa de ouvir uma verdade, que tu foges de manifestar-me com o silencio. Porque filha ? Não, não me assustes...  Conta-me tudo: eu que te conheço sei que nunca podes baixar a um nivel affrontoso para a nossa amizade.</p>
@@ -192,7 +191,7 @@
 <p>Será este meu dessocego o vaticinio de grandes calamidades para ti ?</p>
 <p>Cautella com o teu espirito, filha. E’ preciso represal-o, e lances ha, minha amiga, em que devemos cortar-lhe os vôos, porque na vida real são perigosas estas ascenções e sujeitas a graves quedas.</p>
 <p>Cuidado, pois, Dianna, com quanto eu muito confie na tua illustrada intelligencia. Bom é que vás aos bailes, que te distraias, mas não te concentres demasiado em ti, nem dês tanto apreço a esses scismadores infelizes.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Dianna a Henriqueta</p>
 <p>Discorres tão acertadamente respeito a estes tenebrosos de salão, quão justas me parecem as arguições que me diriges.</p>
 <p>E’ verdade, Henriqueta. Eu tenho ás vezes illusões que cahem pedaço a pedaço como as folhas seccas desnudando o tronco em que floriam viçosas.</p>
@@ -219,7 +218,7 @@
 <p>Desde esse momento, as horas passaram rapidamente. Nuno estava alegre e Beatriz redobrára de carinhos como agradecendo-me o contentamento do irmão. Eu sentia-me bem: pela primeira vez saboreava o prazer de me ver obedecida e amada.</p>
 <p>Louca, meu Deus! louca! Porque preço devia eu pagar tão intempestivo contentamento!... </p>
 <p>E por hoje fiquemos aqui, Henriqueta: estou cançada de evocar reminiscencias que tomára eu esquecer... </p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Dianna a Henriqueta</p>
 <p>Ardua tarefa emprehendi, minha amiga; mas não afrouxo, não: o mesmo pêso d’ella fará abater parte das sublevações d’um espiritualismo que me adoenta, e que me faz talvez cahir em aberrações indesculpaveis.</p>
 <p>Pelo final da minha carta ficarias entendendo que me excedi na insolita presteza com que acceitei, d’um homem quasi desconhecido, a troca d’um sentimento, a que nós as mulheres temos obrigação de demarcar certos limites, senão queremos desmerecer no conceito d'aquelles mesmo que nos obrigaram a descer um passo do nosso pedestal. A minha razão bradava; porem a minha alma, senhoreada por pensamentos d’uma suavidade embriagadora, procurava sophismas que tresmalhavam o candido rebanho das minhas idéas, que tão seguro de si caminhára até então por esses prados e alfombras !</p>
@@ -279,7 +278,7 @@
 <p>Quando recolhemos aproveitei o ensejo que me davam uns ataques de tosse secca e nervosa para me evadir ao jantar em casa da viscondessa.</p>
 <p>Nuno não pôde, nem me pareceu, pelo menos, fazer esforços para se aproximar de mim. Ia tão guardado pelos olhos de Guiomar!</p>
 <p>E que teria elle a dizer-me ?</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Dianna a Henriqueta</p>
 <p>Lê a copia d’essas duas cartas para te orientares no que se tem passado.</p>
 <p>«Dianna.</p>
@@ -318,7 +317,7 @@
 <p>«Ella crê-me mau, pervertido e traidor; as apparencias condenmam-me; mas eu quero, morrendo por ella, ganhar para a minha memoria uma rehabilitação saudosa e eterna. Quero;  é preciso morrer. A vida sem a sua estima é d’um pezo incomportavel, é ir requestal-a como a uma mulher vulgar; humilhar-me e tornar-me por assim dizer indigno a seus olhos, da altura em que eu sei era visto até que o demónio da fatalidade me fez cahir, isso é que eu não posso.</p>
 <p>«O’ Dianna, Dianna! Tu me ouvirás depois lá d’um outro mundo. Tu me farás justiça; tu saberás que santo pudor fechou meus labios á entrada do tumulo. Tu me chorarás; tu irás perguntar á minha campa o segredo que não ouso revelar-te, e eu te direi então na lingoagem dos mortos: olha para esta pedra; guarda a memoria do homem que deixou o mundo, porque não soubeste que coração perdias... ..</p>
 <p>«Adeus; abraza-me a febre. É necessario terminar com isto. Adeus».</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Dianna a Henriqueta</p>
 <p>Deves ter notado o meu silencio n’estes quinze dias que me tem fugido rapidos, como a memoria d’um sonho.</p>
 <p>É um encanto tão doce sentir reviver debaixo dos nossos olhares uma vida preciosa e adorada! Os mesmos sobressaltos da duvida, contrabalançados com os fulgores sempre vivos da esperança, tem um sabor especial e indiscriptivel!</p>
@@ -331,7 +330,7 @@
 <p>Na verdade, minha amiga, Nuno é bello. Nunca a sua formosura me saltou tanto aos olhos, como n’essas horas em que o anjo da extrema agonia o cingia já com a auréola da eternidade.</p>
 <p>O’meu Deus! Salval-o-hia o meu amor? Este amor sacratissimo que nada tem de commum com os amores da terra?! Não achas tu que sou immensamente feliz, e que devo ao Senhor uma gratidão sem limites por este enchimento de ventura em que náda a minha alma? Este deleitoso sonhar, tão innocente como o germen da flor que, lançada á terra, viçou entre os cardos e os espinhos, e sem que a agrura d'elles lhe empanasse a lindeza!. ..</p>
 <p>Estou certa que tu, ceifeira cuidadosa das minhas reflexões, entrarás bem no âmago de meus pensamentos. Tambem o amas, não é verdade? Tambem tu elevas o teu espirito ao Deus misericordioso, tambem tu fazes votos por este homem, tambem tu pedes para elle a realisação de tudo o que ha de mais invejavel n’este mundo: a permanencia dos sentimentos que o inobreceram a meus olhos. E para mim pede -- oh! não o esqueças nunca! pede que não fuja a felicidade que gozo n’este momento, dizendo-te com as mãos postas e com todo o fervor da minha alma agradecida: encontrei-o! encontrei-o!</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Dianna a Henriqueta</p>
 <p>Vou contar-te um facto que me impressionou.</p>
 <p>Achava-me hontem, como de costume, com Beatriz e o conde no gabinete de Nuno sentada ao lado do sophá onde elle se reclinava com a indolencia da fraqueza e do bem-estar da alma que se sente apoz longa enfermidade, quando se sorve a largos haustos a vida, e vendo em redor de nós rostos amigos e cuidadosos procurando advinhar-nos os pensamentos.</p>
@@ -376,7 +375,7 @@
 <p>Abreviei a minha visita para me entregar melhor ás minhas cogitações, e contei em casa a Alvaro o su ccedido.</p>
 <p>Ouviu-me com attenção, dizendo-me por fim que devia ser mais moderada e menos impetuosa nos meus juizos se queria fugir á mofa da sociedade.  78</p>
 <p>Aqui tens o que são os homens de cabellos brancos! Para elles, que já tem o sangue gelado nas veias, tudo são arrebatamentos e insanias!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Dianna a Henriqueta</p>
 <p>Que será isto? Que transformação espantosa se operou em mim?! Explica-m'o tu, Henriqueta...  mas não! calla-te, calla-te que eu tenho medo; aterra-me a idéa de ouvir o que estou adivinhando, pois que seria esse o fecho das minhas incertezas! Incertezas! ai! não sei se de mais estão ellas assentes e bem definidas! Incertezas quero eu chamar-lhe, porque o mesmo som da minha voz me amedronta, e sinto o brado da consciencia a repellir-me já d’aquelles lagos tão limpidos em que a minha inexperiencia me levava a entrar, sem temer cahir no pégo aberto debaixo de tão enganadora superficie. Cahir! Que medonho echo faz esta palavra na minha alma! E ao mesmo tempo, quando o espirito se confrange, que tropel de pensamentos, que vertigem elles me despertam! Som maldito e abençoado, que fere incessantemente os meus ouvidos, e me faz gostar reciprocamente uma doçura cuja estranheza me assombra!</p>
 <p>Parece-me ás vezes que dormi longos annos ou que estou passando por aquella transmigração da alma, que é o alivio da morte para os sectarios de uma esperançosa crença.</p>
@@ -445,7 +444,7 @@
 <p>Fecho, pois, os olhos para não ver, e vou-me deixando ir na levada dos acontecimentos. Na minha situação é o que me parece mais curial minha amiga.</p>
 <p>Antecipar os prazeres é depreciar-lhes muito o valor; bem como adivinhar os desgostos e infortunios, é tragar o fel duas vezes.</p>
 <p>Esperemos, pois, Henriqueta.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Dianna a Henriqueta</p>
 <p>Amanhaceu o meu dia eterno! Ai! quão cedo me fugiu a primavera! Primavera sem fructos, sem flores que me fiquem rescendendo perfumes de saudade n’este coração despedaçado. Nem isso, meu Deus?!</p>
 <p>Que funebre aspecto apresenta o meu inverno, ó Henriqueta! Que aridez a d’este deserto immenso, em que lentamente se mirram todas as chimeras, e eu sinto já a viuvez da mocidade, restando-me o unico linitivo das minhas lagrimas. Orvalho de sangue que ha-de congelar em meu rosto, como um stigma indelevel d’estas transitorias alegrias,</p>
@@ -600,7 +599,7 @@
 <p>A sensação que esta noticia causara nos dois mancebos, que a occultas se queimavam no mesmo fogo, foi fortissima. Vasco de Mesquita, que se julgava pelo parentesco com direitos, á mão de sua prima, exhalou a sua raiva em apostrophes e gritos furibundos contra o feliz noivo e o fallecido conde, propondo-se ainda a demover com ardilosas razões sua prima. Alvaro de Sepulveda, esse fechou no peito a amargura que lhe envenenou a existência, curvou-se á dor como planta açoitada pelo nordeste, e, se não triumphou de si, pôde comtudo apparentar sereno e resignado semblante. Branca sabia que em todos aquelles corações tinha um altar. Cada um de per si lh’o tinha significado com demonstrações não equivocas; mas, o seu coração livre, como a avesinha que pela vez primeira desprende vôo, era muito bem formado para alimentar, por capricho de galanteio, esperanças que não podia satisfazer. Soubera, pois, juntar ao desengano tão maviosas desculpas, que nenhum se deu por offendido no seu amor proprio. Além de que, o perspicaz ciume abrira-lhes os olhos do raciocinio, consolando-os a igualdade com que eram tratados. Comtudo, se a escolha fôra dada a Branca, Alvaro venceria os seus rivaes. Não era a gentileza do corpo nem a formosura viril de Sepulveda que lhe dava a primazia, era a soberana modestia da sua intelligencia, e a bondade e grandeza de seu coração. O afeminado Vasco, as suas bravatas como moço educado sem ter quem lhe fosse á mão, nunca podia esperar nem sequer merecer o confronto no seu espirito, a não ser com D. Jorge de Mello, por quem intimamente sentia ella uma repugnancia sem explicação. E de facto não era Jorge o mais elegante mancebo da sua roda? Haveria que dizer d’aquelles olhos, d’aquella fronte, d’aquella maneira tão distincta de expressar-se? Não: mas apezar de tantas perfeições e de o ver tão endeusado pelas damas, e quem sabe se mesmo por isso, Branca preferia os olhos menos formosos mas seductoramente meigos de Sepulveda e o seu ar nobre, simples e natural. Entregue á permanente lembrança da irreparavel perda que soffrêra, buscava ella o refugio do seu quarto para chorar asós, e interrogar a sagrada memoria de seu pae sobre o sentimento que o levara a sacrificar a sua vocação. Branca pensava que nascêra para a vida do estudo, sem comprehender que houvesse homem que lhe fizesse esquecer os seus livros e o seu gabinete, o sanctuario que poucos profanavam. Em vida do conde nunca se lembrára de tal; porem, quando lhe faltou a luz da sua alegria, cubiçou a tranquillidade do claustro, e pedia a Deus que inspirasse D. Jorge a desquital-a da palavra que fielmente estava disposta a cumprir ainda que com constrangimento e desprazer. Da sua parte é que não podia fazer nada. Tinha sempre debaixo dos olhos a imagem do conde moribundo; ouviu-o, supplicando-lhe que esposasse aquelle homem; e isto abafava todas as resoluções que podessem nascer no seu espirito. Portanto estava fixado o seu destino. Jorge não mostrava entender-lhe o pensamento, não curava de mais que de projectos, em que, a seu pezar, ella se via sempre associada.</p>
 <p>Decorridos os seis mezes em alternativas de esperança e tristezas do desalento, effectuaram-se as nupcias, e achou-se Branca escrava voluntaria do homem a quem menos pensava pertencer.</p>
 <p>Restava-lhe a satisfação da consciencia a inflorar-lhe os áridos caminhos da vida.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Os primeiros tempos d’esta união foram serenos. Jorge, a quem sua mulher tivera a franqueza de declarar antes de realisado o casamento, que por obediencia se submettia ao seu dominio, irritára-se a principio, acabando depois por acceitar a partilha que lhe dava esta excentrica formosura, incompleta talvez pela falta de coração, Se algumas vezes, no seu férvido enthusiasmo, o revoltava a impassibilidade d’aquelle rosto sempre suave e sem sombra de commoção interior, e as palavras sempre frias e singelas onde nunca transparecia a mais ligeira alteração, foi-se acostumando pouco a pouco a este viver, pensando que, pelo menos, possuia seguras garantias do procedimento de sua esposa. Além d'isso, havia entre elles um mysterio, que lhe quebrava forças e auctoridade moral, para exigir o que se apresentava como impossivel.</p>
 <p>Branca, por sua parte, cumpriu á risca os deveres que se impozera com custo, mas resignada. Acceitava as caricias de seu marido como podia, ou talvez melhor ainda do que desejava acceital-as. Fingir, porem, extremos ou sentil-os é o que era superior ás suas forças e á sua índole altiva e sincera. Ainda que podesse baixar, a esse nivel onde tanta mulher resvala por conveniencia propria, julgar-se-hia aviltada a seus proprios olhos, e escarnecido esse nome que tantas lagrimas lhe custára e de que tão dignamente fazia uso. A sós comsigo, lamentava saudosa a sua independencia infantil; tinha, todavia, todo o cuidado em esconder estes pezares, bem certa que seu marido devia soffrer com elles, e isto querendo de maneira alguma pagar a ternura e os cuidados que lhe devia com o conhecimento fatal do pouco caminho que elles abriam em seu coração. Quanto mais Jorge redobrava de esforços para quebrar a gélida superficie que envolvia a alma da esposa, mais ella se entristecia, chegando até a desesperar-se contra si propria por não achar razões que a desculpassem. Comtudo, apezar d’estas tempestades pessoaes em que ninguem, afóra elles, penetrava, ostensivamente eram felizes. A sociedade citava-os como modelo; tanto a educação e a delicadeza soubera revestir suas maneiras de amavel sombra.</p>
 <p>Uma noite em que Jorge se desculpára de acompanhar Branca por occorrencias politicas que reclamavam a sua presença, fechou ella as suas portas, e, recolhida a seus aposentos, pensou no seu perdido paraizo e no anjo que por uma força occulta a obrigára a sahir-lhe as portas. Perda irreparavel! D’aqui lhe veio á lembrança o unico ente com quem se expandia com mais desafogo, e que era pelos laços do sangue e parecenças ingenitas um reflexo de seu pae. Era este o marquez de S. Gens, irmão do conde, de quem já fallámos.</p>
@@ -656,7 +655,7 @@
 <p>-- Pois sim, minha Branca. Perdoa-me se te irritei, e não te exaltes contra mim. Deus sabe que ainda não ha muitas horas, ouvindo tua tia fallar de ti com o enthusiasmo que inspiram as tuas adoraveis virtudes, lh’o agradeci de joelhos e com lagrimas de felicidade. Se tu podesses entrar no meu coração, filha?</p>
 <p>-- Outro dia, outro dia fallaremos a este respeito Jorge. Sinto necessidade de repouso.</p>
 <p>Jorge não insistiu. Levantou-se, beijou sua mulher na fronte e recolheu-se ao seu quarto pensativo. Retirava, senão derrotado, ao menos sem as honras de vencedor. Desmerecera um pouco a confiança que tinha nas felizes disposições a persuadir e ganhar os espiritos mais rebeldes. Toda a sua força se quebrára diante da dialectica fria e pensada de sua esposa. Estava convencido que não poderá illudil-a: duvidava de si.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Retrocedamos um pouco. É necessario que o leitor entre comigo no recesso obscuro onde nos apparece o vulto de Jorge tão confuso e in-formemente debuxado.</p>
 <p>A sua sabida de França tinha uma explicação. Seus bens desfalcados, ou prezos a pagamentos, não chegavam a sustentar com dignidade a posição que á força de estudo conseguira ganhar na sociedade; e as muitas dividas contrahidas, umas apóz outras, tornaram-n’a pouco a pouco tão difficil, que resolveu partir para Portugal, lembrando-se que, n’aquelle circulo mais restricto e mais facil de deixar-se seduzir por exterioridades, facil lhe seria restaurar todas estas perdas um bom casamento.</p>
 <p>A desillusão foi completa e dolorosa. D. Jorge de Mello foi recebido com indifferença por homens que deviam ainda ter presente na memoria o nome e os serviços e infortunios de seu pae. Acobardado um momento, refez-se por necessidade de confiança na sua boa estrella, e aporfiou.</p>
@@ -706,7 +705,7 @@
 <p>Foi a sós comsigo, que ella deu largas á dôr enorme que lhe despedaçava o peito. Lá estava porem, a religião, o anjo do conforto a chegar-lhe aos labios calcinados o calix refrigerante da paciencia.</p>
 <p>Chorou, e resignou-se. D'essa hora em diante, a sua expiação foi terrivel; via Jorge ao lado d’uma mulher que lhe chamava seu! Mas a sua consciencia aliviou um pouco. Heroico e extraordinario espirito!</p>
 <p> Entrou na sazão: era mãe; mais nada.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>A população de Lisboa tem um caracter especial.</p>
 <p> Toda a pessoa atreita a reflectir sobre a indole e costumes de cada localidade admira-se da grande concorrencia, que se encontra todos os dias em cinco ou seis ruas convergindo todas ao Chiado, que é, por assim dizer, o centro elegante e principal da garrida cidade.</p>
 <p>Os homens, com a volubilidade que lhes é innata, passam mirando as senhoras atravez da luneta, cortejando uma, apertando a mão a outra, indo d’este a outro grupo com aquelle ar indolente do ocioso.</p>
@@ -777,7 +776,7 @@
 <p> E dizendo estas palavras, que rematou com um gesto gracioso, affastou-se, deixando o moço seguil-a com a vista até que derepente desappareceram as caprichosas ondulações do seu elegante vestido. Findo o enlevo, recordou-se elle da promessa e sahiu á procura de Rodrigo, cuja subita desapparição admirava. Foi, pois, encontral-o logo adiante, no topo da escada, sentado em um banco meio encoberto pelos resposteiros e jarrões de flores, e tão absorvido em profunda meditação, que não deu pela sua chegada.</p>
 <p>-- Que fazes tu aqui? Porque fugiste? -- foi bradando Alvaro logo que o avistou, se bem que teve de repetir a pergunta.</p>
 <p>-- Não me interrogues, meu amigo -- redarguiu elle tristemente -- Não me digas nada. Vi-a!...  conheço-a!...  a mulher que ha-de matar-me é a mulher que tu amas; é Branca d’Alvarães.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Penetremos no gabinete particular da esposa de D. Jorge.</p>
 <p>São passados dois mezes depois d’essa noite fatidica e memoranda. N’aquella existencia pouco antes, cheia unicamente pelos tedios da monotonia, havia despontado uma luz. Luz doce e infernal! Clarão d’um incendio occulto que requeimava o peito da gentil mulher. Ella! a despreocupada creança que vira prostrados a seus pés os idolos mais acatados da boa sociedade; ella, a rainha sem confronto dos salões de mais nomeada, descêra emfim até considerar dependente a sua vida do sorriso d’um homem! E que homem, santo Deus! Pobre Branca! Oxalá que o accrescimo de vida que te faz arfar o seio, podesse suffocar-te o ultimo alento.</p>
 <p>Em que pensas tu infeliz?</p>
@@ -858,7 +857,7 @@
 <p>E sem dar tempo a mais empuxou Branca para a escada, e assim a foi levando até á porta da rua. Alli, fez ella um esforço violento para se desembaraçar da pressão e fallar; porém, a idéa da resistencia, o receio d’uma scena vergonhosa diante dos seus creados, esmoreceu-lhe o animo; falleceram-lhe as forças; e succumbiu á dor, entrando na carroagem quasi sem consciencia do que fazia.</p>
 <p>A voz do lacaio á portinhola arrancou-a de subito á somnolencia do desespero, lançando-a em nova perplexidade. Forçoso era porém vencel-a. Depois de curta hesitação pôde dizer:</p>
 <p>-- Campo Grande: casa de minha irmã. E dada esta ordem a formosa cabeça de Branca vergou sobre seu seio como o arbusto mimoso açoutado pelo temporal.</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Declinava o dia quando Branca apeou á porta do palacio, onde a infancia lhe corrêra ridentissima como sonho de virgem. Mandou regressar á casa o trem e subiu a escada, admirada d’achar deserto o logar do porteiro. A poucos passos appareceu-lhe este, dando-lhe a noticia que Amelia partira n’essa mesma manhã para Pariz, acompanhada por seu primo Vasco de Mesquita e na intenção de passarem de lá á Italia, onde seu irmão o actual conde d’Alvarães se achava. Esta nova foi cruel para a desditosa senhora. Onde iria acolher-se ? A que porta bater, onde não tivesse de explicar a sua posição? Restava-lhe a morte, mas faltavam-lhe os meios mesmo para a buscar era necessario achar asylo; não podia com a idéa de ir ella mesma procurar o ferro ou o veneno, que terminassem a sua desventurada carreira. Lembrava-lhe a branca mortalha do Tejo, mas discorria logo que seu cadaver, aportado á praia com o fato desfeito pelo embate das ondas, seria profanado e tornado assim objecto de descaridosa curiosidade. Era, pois, de necessidade procurar um refugio.</p>
 <p>Todos estes pensamentos occupavam o cerebro de Branca, emquanto o creado fallava. Ainda uma vez lançou um olhar angustiado em redor de si, e apertando ao seio as dobras do chaile, disse:</p>
 <p>-- Então adeus Paulo. Não sabia da partida de minha irmã.</p>
@@ -924,7 +923,7 @@
 <p>« D. Branca d'Alvarães acaba de fazer o </p>
 <p>« seu testamento: morreu. Queres agora acceitar</p>
 <p>« tua irmãsinha, Rodrigo ? </p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>A altiva dignidade de Branca fez suspirar D. -Jorge de Mello. Chegaram-lhe uns rebates de saudade que o fizeram receiar a fraqueza de implorar o esquecimento. Era necessario lembrar-se que era um ente abjecto e repulsivo aos olhos de sua mulher, para achar coragem que contivesse as manifestações d’uma dor verdadeira.</p>
 <p>O ciume, entretanto, rasgava-lhe as fibras do coração; sentia assomos de raiva frenetica, pensando no indecifravel mysterio que encobria o procedimento de Branca. A principio, depois de ter inquirido dos creados que todos responderam a uma voz que nada sabiam nem sequer suspeitavam de cousa alguma, apegou-se Jorge á lisongeira esperança de que fôra illudido por uma vingança feminil. Arrependeu-se então de não ter escutado a defeza de Branca; maldisse o arrebatamento que o levára tão longe; mas ao mesmo tempo, recordando o muito que tinha soffrido e a desapiedada seccura com que eram escutados seus queixumes, não desgostou de ter esta occasião de fazer-lhe provar o fel dos dissabores, fingindo uma severidade e força d’animo que estava bem longe de ser verdadeira. E isto era por se persuadir que Branca, vendo-se só, e sabendo as disposições em que estava, viria submissa dar-lhe esclarecimentos que confirmassem tão grata idéa. Já se vê por tanto que foi influenciado por esta crença que respondeu a Sepulveda, já comtudo um pouco irritado pela lembrança do divorcio que só então lhe occorrêra. Ainda assim, era muito conhecedor do caracter de sua esposa; tenteára muitas vezes os secretos escaninhos d’aquella nobre alma, para temer o escandalo publico. A não ser assim, nunca seus labios se abririam com tão cruel resolução.</p>
 <p>Todavia, depois de meditar e receber a carta de Branca, achou-o d’um positivo de atirar a terra com todos os seus imaginados castellos. O que não soffria agora duvida era que a situação de sua mulher necessitava amparo e se não se humilhava a implorar o seu, é que havia outro mais estimado e de maior valor...  Qual seria elle? Eram as suas cogitações, sem poder resolver estas duvidas nem colher informações que o satisfizessem. Fatigado, pois, de tanto scismar, desesperado com a traição de seus domesticos que forçosamente lhe encobriam a verdade, despediu-os a todos, fechou as portas e foi para Cintra, deixando espiões pagos em Lisboa para saberem o paradeiro de Branca e informal-o de todos os seus passos.</p>
@@ -988,7 +987,7 @@
 <p>Branca, ouvidas estas ultimas palavras com dolorosa surpreza, revelou a dôr no semblante, e logo pranto amargo lhe saltou dos olhos.</p>
 <p>Vendo isto, o bom coração de Rodrigo, commoveu-se. Passou-lhe diante dos olhos a opulencia em que a conhecêra antes de turbar o seu repouso e o grande sacrificio que lhe fizera.</p>
 <p>Ajoelhou; tomou-a nos braços; confundiu as suas lagrimas com as d’ella; e pouco depois, as nuvens carregadas desappareceram; o sol brilhante e explendido dos amantes cubriu aquellas duas almas com o manto doirado da esperança e do amor.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>O tempo, que tão rapido nos foge na infancia, quando a alma em flor se agita, rescendendo as fragrancias dos primeiros efluvios do coração, corre lento e pausado, logo que os annos e a experiencia da desgraça assentaram sobre nós a sua mão esqualida e formidavel.</p>
 <p>A memoria! O que é então a memoria, senão um atroz pungimento para os que padecem ! É ella a subtilisadora do espirito, a despertadora da razão, é o painel que reproduz as scenas queridas d’um bem perdido para sempre; é em fim a alumiadora sinista de todos os pontos negros onde naufraga a esperança e a alegria dos infelizes.</p>
 <p>A existencia de Branca, fica assim definida.</p>
@@ -1052,7 +1051,7 @@
 <p>Dava meia noite n’um relogio ao longe, quando Branca descia a escada de mansinho, e caminhando ao longo do muro, parava junto do poço. Ali, ajoelhou, pôz as mãos; cravou os olhos nas estrellas, n'aquelles fachos luzentes da eternidade, murmurando palavras summidas. De repente, levantou-se, sondou a profundeza d’agua, e fez um movimento.</p>
 <p>-- Que é isto? -- bradou Rodrigo, segurando-a com forças.</p>
 <p>-- Ainda tu ?! -- exclamou Branca -- Deus não quer. Cumpra-se a sentença.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>A vigilia de Rodrigo; o cuidado que tomára pela vida de Branca, denotariam interesse verdadeiro ou extremo da amisade? Não; nem uma nem outra cousa. O que havia n’aquella alma era uma grande dose de egoismo. Parecia-lhe a elle natural que Branca soffresse; quem pecca expie, costumava elle dizer; mas o que não entrava na sua comprehensão é como elle se via enredado n’aquelle exemplar castigo da Providencia. Elle! porque ? Em que era culpado ? Ella é que era a criminosa; era a mulher que pagava as caricias do marido com affrontas; era a doida que espontaneamente se declarára culpada para não mentir!</p>
 <p>Sublime demencia a tua, ó Branca ! Valer-te-hia mais manchar labios e consciencia com a sordida hypocrisia, que usa a blasphema contra a desmoralisação do seculo... </p>
 <p>Rodrigo salvando-a da morte, pensava nos encommodos que lhe resultariam do suicidio, e talvez que fosse tambem por um resto da humanidade. A frieza, porem, do seu coração demonstrára-se, deixando-a experimentar todas as alternativas, e mesmo fraquezas da materia, em hora tão solemne!</p>
@@ -1102,7 +1101,7 @@
 <p>-- Diz! diz! -- balbuciou Branca inquieta.</p>
 <p>Maria curvou-se e disse-lhe baixinho duas palavras.</p>
 <p>-- Mãe! mãe! -- bradou Branca com grande exaltação, emquanto o seio lhe arfava de jubilo. Depois, volvendo olhos á realidade, poz as mãos, e duas grossas lagrimas rolaram ardentes por suas faces até lhe cahirem sobre o seio.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Retrocedamos um pouco, entrando no palacio dos marquezes de S. Gens no dia immediato ao da partida de Branca para o Porto.</p>
 <p>D. Jorge de Mello regressára de Cintra, surdo á voz da razão que lhe mandava abandonar a indigna esposa, sem remorsos nem saudade. Elle por si era homem, podia trahil-a quantas vezes a isso o levassem as veleidades, os caprichos, e as occasiões sem ter de dar contas á sociedade, nem macular o seu nome; mas ella! Branca d’Alvarães deshonrar-se a si e aos seus, e ainda em cima ter a audacia de affrontal-o com a desdenhosa cedencia que lhe fazia de seus bens; isto era crime de tal ordem, que excitaria a indignação de toda aquella Lisboa, que por tanto tempo invocára vozes de fama, em respeito a suas virtudes e formosura.</p>
 <p>Isto, não sei eu se lhe chame dignidade offendida ou amor proprio; o que fallava, porem, mais alto do que tudo, era o coração; tinha uma voz surda, é verdade, mas activa e imperiosa. A poder de muitas pesquisas, pôde elle saber que sua mulher embarcára com direcção ao Porto, entrando acompanhada por uma mulher no vapor. Levando mais longe as suas investigações, colheu tambem que a viram fallar com um mancebo que chegára quando já se dispunham a tomar rumo, e que dera o nome de Ricardo da Silva. Este nome tinha geitos de pseudonymo, e confirmou Jorge em suas suspeitas, muito mais por se ter tambem sua mulher feito inscrever na lista dos passageiros com o nome de Magdalena. Até aqui chegara elle; mais alem não podèra ir. Quem era o homem, qual a sua posição e nome verdadeiro, nem a vigilancia das espias, nem as informações d’elle proprio, colhidas com toda a circumspecção, poderam obter resultado digno de mencionar-se. Demais disso, como a sua deshonra era um segredo para a sociedade, e não se sabiam ao certo os motivos, nem que Branca fora expulsa, entendeu elle que, por honra sua,  devia occultar estes pormenores, dizendo simplesmente que reciprocos desgostos domesticos levaram sua mulher a dar o passo de sahir de casa, e que elle entendera improprio da sua dignidade instar, ou fazer tentativas para uma reconciliação.</p>
@@ -1128,7 +1127,7 @@
 <p>-- E será justo que o cumplice de nossas fraquesas -- atalhou ella -- o seductor que nos arrasta á perdição seja ou queira ser o nosso proprio algoz ? Será tal procedimento bem aceite de Deus?</p>
 <p>--  Deve ser: a expiação tremenda da mulher despenhada é conhecer n'esse homem o seu primeiro juiz.</p>
 <p>E lançando-lhe um olhar de desdenhoso despreso, sahiu da sala quasi sem olhar para o velho marquez, que, sempre immovel na sua poltrona, seguira com penetrante olhar todos os movimentos dos dois personagens.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Voltou Maria com a resposta vocal de Amelia. Negava-se a acceder ao pedido de Branca, recusando-lhe um aposento na casa que pertencia a seu irmão, e onde ainda existiam muitos objectos como pratas e mobilia, pertencentes a Branca no inventario de seu pae, que esta não quizera retirar. Desculpava-se ella com a vontade de ssu marido, tendo d’aqui aproveitado espaço para se desentranhar em considerações offensivas a sua irmã, e que a creada, como boa serva, poupou á desgraçada senhora. Indagou onde pousava, queria saber o que ella fizera durante este tempo, irritando-se por esta subita apparição que destruia o boato espalhado por elles de que Branca se refugiára n’um mosteiro obscuro. Findou a sua prelecção, dizendo e Maria que aconselhasse Branca a deixar Lisboa e viver de modo, que a sua lembrança os não inquietasse com a vergonha, já que tão erradamente trilhára o caminho da honra, abusando de todas as leis da sociedade. Vasco de Mesquita, que entrára n’este momento no quarto da esposa, instruido de tudo, bradou com toda a força de seus pulmões contra a pouca vergonha de Branca, entendendo que depois das acções que praticára poderia ser ainda recebida n’aquella casa. Intimou solemnemente a Amelia que a consideraria tão perdida como a irmã, continuando a receber enviados seus, ou tendo a mais ligeira correspondencia com ella.</p>
 <p>Fulminada por este acolhimento tão contrario ao que esperava, Maria, mal podendo responder com o sentimento da dor que ia levar á desgraçada em vez de esperança e contentamento, sahiu com o coração rasgado e a cabeça perdida, não sem ter feito um ultimo esforço, dizendo a D. Amelia:</p>
 <p>-- Então a menina abandona a senhora D. Branca? Não lhe fallam ao coração estas paredes onde ainda resoa a voz do senhor conde que Deus haja e que tanto queria a ambas? Que dirá lá no seu tumulo a alma de seu pae, sabendo da crueldade de v. ex.ª para com sua mana, estando ella na penosa necessidade de precisar não só de asylo mas de pão?! -- continuou suffocada pelos soluços -- Não posso entender como o marido a rouba assim descaramente, e v. exc.a consente e seu marido em tal attentado, negando-lhe protecção! -- Não se admittem aqui reflexões -- atalhou Vasco bruscamente, tendo divisado no rosto de Amelia uma sombra melancolica -- Acabemos com estas crendices. Retire-se -- continuou voltando-se para Maria -- Se meu tio estivesse vivo, faria o mesmo, desprezando essa creatura que é a nossa vargonha, Amelia!  -- continuou voltado á esposa -- Ordem aos creados para não deixar entrar aqui esta mulher.</p>

@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">27681</measure>
-<measure unit="pages"></measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>9 de novembro de 2018</date>. </p>
@@ -70,7 +69,7 @@
 </front>
 <body>
 <pb/>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>A filha do cabinda é formosa como a visão d'um sonho celeste; meiga como o canto do sabiá, poisado nos galhos do cajueiro, e ingenua como a virgem da innocencia.</p>
 <p>O cabinda é negro, e negro de raça fina, mas é branca a sua filha, e filha, porque o velho escravo quer muito á senhora moça, que elle beijava e embalava no seu collo, quando era pequenina.</p>
 <p>Revê-se n'ella, e n'ella se mira doido d'affeição o pobre negro, e tanto a gravou na ideia, tanto a traz no coração, que chega até a esquecer-se do trabalho, sujeitando-se ás reprehensões do seu senhor, para, insensivelmente, se entregar a scismar n'ella, que é tão bondosa, tão meiga e tão carinhosa para elle; n'ella, que, por uma destas illusões, d'estas miragens, d'estas doidices, d'um grande affecto e d'uma viva sympathia, chega a julgar realmente sua filha.</p>
@@ -117,7 +116,7 @@
 <p>O cabinda perdera a sua familia, de que tão barbaramente o separaram, mas havia ganho muito pela sua dedicação.</p>
 <p>Bastavam as festas e os sorrisos de Magdalena, de quem elle dizia sempre:</p>
 <p>-- Agora não tem mãe, é filha do cabinda!</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>O Botafogo é, sem duvida, o mais formoso dos formosos arrabaldes do Rio de Janeiro.</p>
 <p>As aguas do vasto Guanabára, que, levemente onduladas, beijam constantemente a fimbria da purpura real da grande cidade, formam, n'aquelle retiro, um como lago de sufficiente superficie, que é orlado, em grande parte da circumferencia, de "chacaras" magestosas, com vistosos e immensos jardins, vegetação opulenta e luxuriante, e explendidos e poeticos panoramas.</p>
 <p>Em 1859, Jorge de Macedo, negociante de café em grande escala, e, ao mesmo tempo, abastado capitalista, vivia no Botafogo, em um formoso palacete, circumdado de lindissimos jardins.</p>
@@ -169,7 +168,7 @@
 <p>-- Oh! exclamou elle baixinho, é ella, a filha do cabinda!</p>
 <p>E foi, pé ante pé, collocar-se de joelhos, junto á meza de pedra, em posição d'onde melhor podia contemplar a sua filha, e assim ficou sem despregar os olhos d'ella.</p>
 <p>Era uma loucura aquella affeição do negro!</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>O cabinda permanecia alli, como o verdadeiro crente, em face do altar do Christo crucificado.</p>
 <p>Magdalena prendia-lhe os sentidos, absorvia-o completamente.</p>
 <p>A cada respiração, a cada ondulação do seio da virgem, extremecia elle e abria mais os seus grandes olhos, n'uma expressão alternativamente de receio e de esperança, que ella acordasse.</p>
@@ -253,7 +252,7 @@
 <p>Sentado nas commodas almofadas d'uma cadeira estofada, tinha os olhos pregados no rosto da filha mimosa, da filha, que era o seu anjo, o seu encanto, a sua vida, a sua felicidade mais completa, mas alava o espirito ás regiões celestes, nas ondas d'aquella musica, onde, n'uma especie de mystificação, estava vendo a sua adorada Beatriz, a esposa queridissima, que a morte desapiedada lhe arrebatára tão cedo dos braços!</p>
 <p>O cabinda, no entanto, jazia no extremo da varanda, que deitava sobre o terreiro, dizendo comsigo a meia voz:</p>
 <p>-- Os brancos veem amanhã; o mulato virá tambem. Cabinda, a senhora moça é tua filha!</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Vai em meio o jantar, no dia seguinte.</p>
 <p>A animação é completa, e viva, sincera e espontanea a alegria, que referve em cada conviva.</p>
 <p>É que alli não ha superiores nem inferiores, não ha grandes nem subordinados; ha uma familia festejando os annos do seu chefe estimado e querido, que só como pessoas de familia, olha Jorge para as que tem sentadas em volta da sua meza.</p>
@@ -320,7 +319,7 @@
 <p>-- O branco veiu, senhora moça; o branco é bom e gosta da minha filha!</p>
 <p>Americo, descendo para o jardim, approveitava um momento, em que só Luiz podia ouvil-o, para lhe dizer, com certo ar de cynismo;</p>
 <p>-- Temos ambos igual quinhão no negocio: agora veremos quem leva a filha!</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>Pouco depois era servido o café.</p>
 <p>Jorge e Americo, tomavam-o, conversando sentados em duas pittorescas cadeiras de bambús, á entrada de um formoso caramanchel de trepadeiras floridas.</p>
 <p>Os caixeiros mais novos passeiavam pelo jardim e pela chacara, gosando a liberdade, que lhes era concedida, desforrando-se da prisão quotidiana, e do serviço quasi aturado do armazem.</p>
@@ -407,7 +406,7 @@
 <p>-- Tenho-o aqui, respondeu, indicando o coração.</p>
 <p>-- Mas a senhora moça é ainda a filha do cabinda!</p>
 <p>-- Sou, sim; tu és meu amigo, e elle... elle amo-o muito!</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>Vai um pouco adiantada a noite.</p>
 <p>A lua dardeja os seus raios de prata nos morros da Tijuca, do Pão d'Assucar e Corcovado, e côa a sua luz pallida pelos intresticios da vegetação luxuriante dos arrabaldes do Rio de Janeiro.</p>
 <p>Que noite formosa!</p>
@@ -461,7 +460,7 @@
 <p>No entanto, é certo que o drama ia começar, que a lucta ia travar-se, mas não face a face, e a peito descoberto.</p>
 <p>E em quanto Luiz pensava n'isto e na sua Magdalena, lá ia a lua caminhando pelos páramos do azul sem fim, namorando a formosa filha do cabinda, que a olhava melancholica nas saudades do primeiro amor, e reflectindo as suas mil agulhas de prata reluzentes nas aguas murmuradoras das cachoeiras da floresta, e no espelho do vasto Guanabára.</p>
 <p>Ó noite! que de pensamentos não desabrocham, no meio do teu silencio, nos corações que viçam amores á luz do teu astro argenteo!</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Eram oito horas da manhã do dia immediato, quando Luiz desceu para o escriptorio.</p>
 <p>Americo já andava dando as suas ordens para o embarque de uma porção de saccas de café.</p>
 <p>Os dois comprimentaram-se amigavelmente na apparencia, porém, com certa reserva e um pouco de frieza, o que não era costume.</p>
@@ -531,7 +530,7 @@
 <p>Teriam ambos a mesma força?</p>
 <p>Qual d'elles tinha de attrahil-a?</p>
 <p>É facil prevel-o. A imagem de Luiz já lhe enchia o seio, já lhe havia povoado os sonhos da primeira noite d'amor, aquelles sonhos porque ella passára accordada, solitaria na sua janella, com os olhos cravados na lua, e a alma a sentir o "gosto amargo" d'uma saudade indefinida.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Eram tres horas da madrugada, quando Magdalena se retirou da janella, onde a vimos tão scismadora, tão embebecida na contemplação silenciosa da rainha da noite, que, apesar de bem alta, ainda ia vaidosa a mirar-se nos crystallinos espelhos dos lagos adormecidos, e gosando as suaves emanações das flores dos jardins.</p>
 <p>Nunca a formosa virgem tivera uma noite de sensações tão violentas, esmaltada de tantos receios e de tantas esperanças, de tantas rosas e de tantos espinhos.</p>
 <p>A imagem de Luiz, ora lhe sorria cariciosa, meiga, e cheia de bondade, ora lhe apparecia gelada, fria, e grave, com todos os traços d'uma indifferença verdadeira.</p>
@@ -594,7 +593,7 @@
 <p>-- Nunca!</p>
 <p>E Magdalena prendeu-o pelo pescoço, sorrindo com meiguice, e imprimiu-lhe na face dous osculos purissimos.</p>
 <p>Jorge acolheu-os como os paes acolhem os beijos dos filhos, quando os paes são paes, e os filhos não degeneram.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>O cabinda chegou á rua dos Pescadores, no Rio, alguns minutos depois de terminada a disputa entre Luiz e Americo.</p>
 <p>O escriptorio, como já dissemos, era situado no fundo do armazem, e resguardado por uns tapamentos de madeira, que interceptavam a vista do seu interior ás pessoas que entravam.</p>
 <p>Americo estacou, e como que teve um estremecimento, vendo surgir o negro. Dissimulou-o, porém, o mais que pôde, e foi encostar-se a uma porta lateral.</p>
@@ -683,7 +682,7 @@
 <p>-- Está contente a senhora moça?</p>
 <p>-- Oh! muito! muito! nem tu sabes como eu sou feliz!</p>
 <p>-- É isso o que o negro quer, porque a senhora moça é filha do cabinda!</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Jorge de Macedo chegou ao armazem pouco depois do negro ter sahido.</p>
 <p>Luiz e Americo cumprimentaram-o com a delicadeza devida. O capitalista recebeu-os como socios seus, affavel, risonho, bondoso, mesmo com um tanto da meiguice que o caracterisava.</p>
 <p>Jorge de Macedo era um homem sympathico, moral e physicamente. A sua physionomia era d'estas que attrahem á primeira vista, os seus actos modelados em harmonia com a virtude, com a honra, com a probidade, com todo o cavalheirismo, emfim.</p>
@@ -745,7 +744,7 @@
 <p>O mulato era um infame, e esquecia-se de que a Providencia vela sempre pelos justos e pelos bons!</p>
 <p>A grande questão d'Americo era, quando não conseguisse para si Magdalena, empregar todos os meios para que Luiz a não conseguisse tambem.</p>
 <p>N'este desejo é que elle ia trabalhar, e, sobretudo, aproveitar os poucos dias d'ausencia do seu socio, que, a bordo do vapor da carreira, ia curtindo saudades, sempre com a imagem seductora e deslumbrante de Magdalena a povoar-lhe a visão, e a apparecer-lhe em tudo!</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>Americo, apenas Jorge sahiu, foi ao escriptorio, sentou-se, tomou uma folha de papel e escreveu a seguinte carta:</p>
 <p>                                                     «Ex.^ma Snr.^a</p>
 <p>«O meu amigo e socio, Luiz de Mello, sahiu hoje, inesperadamente, para Macahé, no vapor das 8 horas, a negocios do seu ex.^mo pae. Deixou-me uma carta para V. Ex.^a, recommendando-me que das minhas mãos só sahisse para as suas. Pediu-me tambem todo o segredo, e para que ninguem me veja, peço a v. ex.^a o obsequio de apparecer esta noute, ás 10 horas, no caramanchão da chacara, junto ao lago, onde me encontrará para entregar a V. Ex.^a a referida carta.</p>
@@ -816,7 +815,7 @@
 <p>Não era inutil, não devia sel-o, aquelle trabalho, porque quasi se lhe liam nos grandes olhos os pensamentos que lh'o impunham.</p>
 <p>E Luiz?</p>
 <p>O amoroso moço, longe do Rio de Janeiro, lá tinha no seio a imagem de Magdalena, o sentimento no coração, as saudades na alma e o receio a agitar-lhe todo o ser.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>É noute, formosa como as da America, resplendente de luar, bordada de estrellas, impregnada de perfumes e suave de harmonias. Despenham-se murmuradoras, por entre as sinuosidades graniticas, as aguas das cascatas e das cachoeiras, formando lindissimos rolos de espuma, até cahirem no vasto leito, onde a fada palpitante, a rainha voluptuosa, mira languida o seu rosto prateado. Agitam-se levemente, ao sopro suave da aragem nocturna, os calices das flôres aromaticas, e os ramos, as folhas viçosas das arvores gigantes das florestas.</p>
 <p>Este meio silencio da natureza, este conjuncto de vozes indistinctas, sahido do seio das vastas mattas; a luz, que jorra brilhante das perolas engastadas na immensidão azul d'um céo tropical; as ondas inebriantes, embriagadoras, dos perfumes, que de toda a parte se levantam invisiveis; os cantos magicos, doces, harmoniosos, de algumas das aves nocturnas dos climas do novo mundo; e, finalmente, este quê ignoto, indefinivel, que distingue as noutes da America das noutes da Europa, parece que dão á alma mais desejos, aos desejos mais fogo, e ao fogo mais labaredas.</p>
 <p>É calido o ambiente. O corpo ressente-se d'este estado da athmosphera, e verga ao pêso d'uma languidez, semilhante á somnolencia voluptuosa produzida pelo opio.</p>
@@ -881,7 +880,7 @@
 <p>Magdalena exclamou vendo-se livre do mulato:</p>
 <p>-- Que fazes, cabinda!</p>
 <p>-- Mato a serpente, senhora moça!</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Houve um momento de silencio, curto, mas terrivel para Magdalena, que, ao ouvir o cabinda, julgou que elle ia espatifar o mulato, e para este tambem, vendo-se em face d'um inimigo tão possante.</p>
 <p>A lua inundava, agora, com os seus raios deslumbrantes o palco, onde se representava aquelle drama; e para contraste das paixões, que alli se agitavam, n'aquelle instante, um sabiá, poisado nos galhos d'uma jaqueira, começou a vibrar as doces melodias do seu canto suavissimo.</p>
 <p>Magdalena estava tranzída de medo; o mulato espumante de raiva, no meio da sua impotencia; e o cabinda risonho, mas n'uma alegria feroz.</p>
@@ -956,7 +955,7 @@
 <p>Tinha a pertinacia dos da sua raça pouco pura, a teimosia dos que, dotados de maus sentimentos e indole perversa, não duvidam nem hesitam em ir augmentando o mal, para conseguirem os seus fins, á medida que os obstaculos, que as barreiras se vão levantando.</p>
 <p>Era por isso que o mulato, no silencio do seu quarto, examinando agora o bilhete de Magdalena e a fita de sêda que as tranças dos cabellos d'ella lhe deixaram nas mãos, dizia com expressão de grande malvadez:</p>
 <p>-- Ainda cá está isto! Valem e podem muito estes objectos!</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Passaram-se quatro dias sem acontecimentos dignos de mencionarem-se. Magdalena ia gemendo as suas saudades; o cabinda cuidando dos jardins e da chacara, e Americo curtindo os ardentes desejos da suspirada vingança.</p>
 <p>Ao quinto dia surgiu Luiz, regressando de Macahé.</p>
 <p>Vinha ancioso o pobre moço; eram vehementes os desejos de vêr Magdalena.</p>
@@ -1023,7 +1022,7 @@
 <p>Este, apenas deu a Jorge conta do bom desempenho da missão de que fôra encarregado a Macahé, sahiu, deixando-o no armazem com Americo.</p>
 <p>O pobre moço ia fóra de si, como perdido, desvairado, e, diga-se a verdade, bastante indisposto com Magdalena, porque acreditava mais ou menos no seu perjurio.</p>
 <p>N'este estado, seguiu para o Botafogo.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>Eram onze horas quando chegou.</p>
 <p>Magdalena havia acabado d'almoçar e viera para o salão, no proposito de espalhar saudades com o seu piano, com o seu discreto confidente, mas esqueceu-se d'elle, embebida na leitura do suavissimo "Camões" do nosso immortal Garrett.</p>
 <p>Estava lendo, a meia voz, estes admiraveis versos:</p>
@@ -1083,7 +1082,7 @@
 <p>-- Maltratou-me... sahiu... já me não ama!...</p>
 <p>O negro levantou-se de subito. Fervia-lhe nas veias o sangue da sua pura raça africana. Passou-lhe pela mente uma ideia terrivel; os olhos fuzilavam-lhe relampagos, as mãos tremiam-lhe convulsivamente. Cahiu-lhe d'ellas o ramo de flores, quando elle exclamou:</p>
 <p>-- Oh! o branco é bom! Foi o mulato! o mulato é mau! Mas o cabinda ainda cá está, e a minha filha hade ser muito feliz!</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>Eram quatro horas da tarde, approximadamente, quando Jorge regressou á chacara, depois de ter deixado o armazem.</p>
 <p>Magdalena chorava sósinha no seu quarto.</p>
 <p>Sympathicas lagrimas aquellas!</p>
@@ -1157,7 +1156,7 @@
 <p>                                                      Socio amigo, etc.</p>
 <p>                                                    "Jorge de Macedo._»</p>
 <p>E em quanto o negro transpunha a distancia que vai do Botafogo á cidade, ficavam Jorge e Magdalena entregues á refeição do jantar, conversando já mui animadamente, muito contentes, entre os perfumes suavissimos das flores formosas do affecto que lhes enchia as almas.</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Não ha nada mais caprichoso do que o coração humano, e, por consequencia, nada mais enigmatico, nada mais incomprehensivel. Prende-se muitas vezes com as cousas mais simples d'este mundo, e olha, outras tantas, com indifferença para sacrificios, que, d'um só jacto o deviam attrahir para sempre. Ora se exalta, ora se humilha pelos mesmos motivos, e nas mesmas circumstancias; ora se lamenta e ora sorri com a mesma causa, indo, muitas vezes, até ao ponto de juntamente chorar e rir, de implorar e impôr-se!</p>
 <p>Eu não sei, mas creio que de todas as sciencias, a sciencia do coração é a mais difficil, a mais transcendente, a mais impyrica.</p>
 <p>O coração offende-se com cousas pequenissimas, que muitas vezes não perdôa, e é capaz de não se offender com cousas de vulto, ou de facilmente as esquecer e perdoar!</p>
@@ -1228,7 +1227,7 @@
 <p>O que lhe dizia a alma na esperança que a enflorava?</p>
 <p>Tudo lhe dizia amor, ventura e ternuras!</p>
 <p>Tudo lhe fallava de felicidades, porque era bondosa, meiga, innocente, candida, e sobretudo, porque era boa filha, porque nunca déra um desgosto áquelle que a mirava doudo d'amor!</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>Muito terrivel é a situação de quem espera, esperando debaixo do pezo d'uma duvida!</p>
 <p>A duvida dá ao coração as alternativas da esperança e do receio; da esperança, que faz das horas seculos, do receio, que faz das horas instantes rapidissimos; da esperança, que arrebata com sonhos de dourado enlevo, do receio, que fere com os espinhos d'uma perspectiva má e triste.</p>
 <p>Esperar, d'este modo, é esperar entre a lucta de dous sentimentos oppostos, que se degladiam heroicamente, braço a braço, corpo a corpo, sem se fatigarem, sem succumbirem, sem cederem um ao outro um palmo de terreno, ambos egualmente potentes, ou egualmente fracos, porque nem um cede, nem o outro vence, e porque um e outro exercem egual predominio no espirito, embora oppostamente.</p>
@@ -1298,7 +1297,7 @@
 <p>Houve um momento de silencio.</p>
 <p>Os dous esperavam d'olhos cravados no chão. Jorge dispunha-se para começar, e dentro, Magdalena e o cabinda, tentavam abafar a respiração para que nem essa trahisse a sua presença, alli, atraz da porta que os escondia, mas que os devia deixar ouvir tudo.</p>
 <p>Que contrastes no intimo de cada um d'aquelles individuos! Que mares, tão diversos nas suas agitações, no seio de cada um d'aquelles personagens!</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>Sentaram-se os tres, e houve, como já dissemos, um momento de silencio completo, em que até pareciam sustidas as respirações.</p>
 <p>Depois, Jorge esfregou vagarosamente as mãos nos joelhos, gesto este, que póde talvez traduzir-se por uma certa repugnancia, ou por uma certa difficuldade em abrir a conferencia, para a qual havia chamado os seus recentes socios, e em seguida começou assim, com ar de gravidade:</p>
 <p>-- Devo principiar por pedir-lhes desculpa de os haver incommodado, mas tenho para mim, em tanta conta, em tanta gravidade, em tanta ponderação, o negocio que me obrigou a chamal-os agora aqui, que o não fazel-o poderia talvez importar-me um desgosto, que d'este modo me pouparei, creio-o. Resumirei em poucas palavras o que tenho a dizer, porque quero limitar-me, apenas, a descobrir a verdade. Sou infelizmente viuvo, mas sou pae. Choro, por um lado, as lagrimas da saudade, mas tenho, graças ao céo, por outro, um anjo que m'as dulcifica. Fui rapaz, tive a minha mocidade, com todos os sonhos, com todos os arrebatamentos, com todas as illusões, com todos os euthusiasmos que lhe são proprios, e nos quaes se desata a effervescencia do sangue dos vinte annos. O livro da minha vida d'então, escripto, capitulo a capitulo, não tinha, nunca teve, uma unica pagina maculada por uma nodoa, leve e pequenina que fosse. Mesmo nos delirios da minha juventude timbrei sempre em conservar intacta a pureza do meu nome, e jámais tentei realisar uma aspiração grande ou pequena, boa ou má, por meios que me fizessem soffrer a dignidade, ou ferissem a minha honra. Trabalhei para chegar ao que sou, e o bom nome que creio gosar, agora, não é mais que o nome grangeado então. N'esse tempo a ambição era egual á lealdade, se é que a ambição já existia n'um grau tão elevado como actualmente, mas ainda assim, nunca tão corrompedora, como na época que vamos atravessando. Agora mudaram as cousas, e é d'isso que me queixo. Visa-se ao alvo e ha-de chegar-se lá, custe o que custar, pouco importam os meios.</p>
@@ -1348,7 +1347,7 @@
 <p>Quando as primeiras sombras da noute desciam suavemente sobre a terra, andavam Luiz e Magdalena passeiando no jardim entre as flores, irmãs d'ella, entre os perfumes suaves, como os que então se evaporavam das rosas brancas de suas almas enamoradas.</p>
 <p>Fez-se alli o primeiro idyllio do seu noivado.</p>
 <p>Já dormiam as juritys nos ninhos avelludados, e os beija-flores, cançados de oscularem as rosas, mas substituiam-os, alli, duas almas prezas nos laços dulcissimos d'uma embriagadora felicidade.</p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <p>CONCLUSÃO</p>
 <p>Tres mezes depois o altar havia santificado o mutuo amor de Luiz e Magdalena.</p>
 <p>O ninho de Jorge de Macedo abrigava mais uma ave; o bondoso capitalista, tinha, agora, em vez d'uma filha, dous filhos queridos.</p>

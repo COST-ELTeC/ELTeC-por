@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">31778</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>6 de novembro de 2018</date>. </p>
@@ -65,12 +64,12 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>Noites de Cintra</head>
+<div type="titlepage"><head>Noites de Cintra</head>
 </div>
 </front>
 <body>
 <pb/>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>Eramos dez, e tinhamos combinado, por desfastio, ir a Cintra, na primavera, ouvir os rouxinoes.</p>
 <p>Parecerá menos inverosimil este pretexto, quando se disser que todos, então reunidos em Lisboa, haviamos nascido na provincia, onde as volatas dos rouxinoes dulcificaram as nossas primeiras noites de amor, e que o mais velho de nós tinha trinta e sete annos apenas.</p>
 <p>Ainda assim, como prova involuntaria de que o melhor da nossa vida era já então o passado, não foi approvado o projecto sem uma correcção prosaica. Sim, iriamos ouvir os rouxinoes a Cintra, visto que elles não costumavam fazer-se ouvir nas ruas de Lisboa, mas temperariamos esse devaneio romantico com as queijadas da Sapa, as laranjas do visconde da Arriaga, e o "Collares" do conselheiro Francisco Costa.</p>
@@ -134,7 +133,7 @@
 <p>-- Por S. Thiago, e aos bifes! berrou o Vasconcellos.</p>
 <p>E o Victor, muito mesureiro, muito amavel:</p>
 <p>-- Elles hão de estar menos maus.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>O almôço foi uma devastação, uma hecatombe.</p>
 <p>Dizia o Vasconcellos que assim era preciso, visto que só se tornava a almoçar... no outro dia.</p>
 <p>Quando saímos do hotel eram quasi tres horas. O que se faria? Por onde se começaria? Os fumos capitosos do almôço accenderam brios quixotescos no espirito da maioria dos nove. A burro e á Pena! era o grito do Vasconcellos, reforçado por mais cinco ou seis vozes.</p>
@@ -209,7 +208,7 @@
 <p>-- Isso é lá como quizerem. Que não esqueça o fio da historia. O Muxagata estava na feira e queria dinheiro -- como eu.</p>
 <p>-- Como nós todos! gritaram uns poucos.</p>
 <p>-- A burro e ao jantar! commandou o Vasconcellos.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>-- Ó filho! pelo amor de Deus! deixa os rouxinoes para ámanhã, dizia o Vasconcellos, depois de jantar, ao Gonçallinho Jervis.</p>
 <p>-- Aqui da janella não se ouve nenhum! Já estive á escuta.</p>
 <p>-- Pudera! Imaginavas então que uma tão poetica ave principiava a amar logo depois das ave-marias, como um caixeiro que fecha a loja e vae metter-se n'uma escada a gargarejar para defronte! Tem juizo, Gonçallinho. Para irmos a Collares ouvir os rouxinoes, precisavamos ter prevenido os trens. Deixa isso para ámanhã, e vamos á historia do Muxagata.</p>
@@ -280,7 +279,7 @@
 <p>-- Tambem não sei. Se viver deve ter agora os seus dezenove annos.</p>
 <p>-- Como era o nome todo do Muxagata?</p>
 <p>-- Nunca lh'o soube. Por morgado de Muxagata era que toda a gente o tratava.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>-- Então, se não vamos ainda hoje ouvir os rouxinoes, tambem eu quero contar o meu conto, disse o Gonçallinho Jervis.</p>
 <p>-- Sim, senhor, concordou o Vasconcellos.</p>
 <p>-- Mas qual dos dois contos que nos annunciaste pelo caminho? perguntou o Athayde.</p>
@@ -327,7 +326,7 @@
 <p>-- Em cascos de rolhas... commentou o Vasconcellos.</p>
 <p>-- É que eu queria, concluiu o Leotte, que elle viesse accender-me a lamparina do quarto.</p>
 <p>E, rindo, cada um de nós foi para a cama -- ás onze e dez, noite velha no paraiso de Cintra, a 20 de maio.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>No dia seguinte, quando saímos do "hotel" depois de almoço, era quasi uma hora da tarde.</p>
 <p>Convencemo-nos mais uma vez de que não ha nada tão bom para gastar o tempo... como não ter nada que fazer.</p>
 <p>Fomos a Collares, em burro. Só o Leotte pediu licença para ficar. Concedida; -- sob condição de que daria conta ás côrtes do uso que fizesse d'esta auctorisação legal.</p>
@@ -405,7 +404,7 @@
 <p>Toda a gente sabe com que facilidade, n'estas condições, se volta um barco. Foi o que aconteceu ao do principe. Sua alteza fizera um movimento menos cauteloso, e o barco tombou. Era um vez um principe n'um charco.</p>
 <p>Grande grita se levantou de entre os populares. Os hospedes do "Hotel do Padre" riam a bandeiras despregadas. Um rapazito atirou-se ao rio, para ir salvar sua alteza, que barafustava na agua. Cheirava-lhe a grande gorgeta, ao rapazito; nadava como um desesperado.</p>
 <p>Foi-lhe facil trazer para terra o principe, e o barco. Mas o principe, que estava de fato branco, precisava mudar de "toilette_. A decencia reclamava-o. E emquanto o criado corria ao "hotel_, a pedir outro fato para sua alteza, o desgraçado principe da Ribária, mettido dentro da mala, só com a cabeça de fóra, evitando olhar para qualquer parte, esperava humilhado...</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>-- E eu que sei quem elle é! apostrophou o Maldonado, que era o mais silencioso de todos nós.</p>
 <p>Achámos graça á observação, espicaçámos o Maldonado.</p>
 <p>Elle explicou que tinha estado n'aquelle anno no Porto e que tambem lá tinha apparecido o commendador Piratinino, de fato branco, o qual seguiu d'ali para as Caldas de Vizella.</p>
@@ -505,7 +504,7 @@
 <p>-- Lá vamos, respondeu elle. Fiz exame de licenciado, defendi theses, tomei capello. Dia cheio na Universidade, o do capello. Puz na cabeça uma borla doutoral, e recebi auctorisação solemne para acrescentar ao meu nome mais seis lettras. A Universidade confirmou o tratamento que a minha servente me dava desde o primeiro anno. Abraços dos lentes e de toda a mais doutorança; abraços dos estudantes, abraços dos archeiros. A propria "Cabra" parecia dizer-me: Se eu pudesse descer, mettia-te os tampos dentro. Vou a casa para descansar do capello, emquanto n'um "hotel" da baixa se prepara o jantar do doutoramento. Desço até á Sé Velha, entro na rua do Correio, aproximo-me de casa e vejo á minha porta, cada um de seu lado, os dois cães que eu concertei, e que me iam dar os parabens! Aqui teem os senhores o que é a intelligencia do cão.</p>
 <p>Tal foi -- exclamava o Leotte enthusiasmado -- a improvisação do grande, do immortal Barcellos n'uma noite da botica. E todas as outras noites eram assim.</p>
 <p>-- Ó homem! atalhei eu. Vae deitar-te e deixa-me dormir, que são duas horas da noite!</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>Depois de um terceiro dia passado no mais delicioso pantheismo vadio de que ha memoria, e em que o Leotte, sempre intrigado com a historia da criada, houve por bem, "malgrê lui_, acompanhar-nos, reunimo-nos, depois de jantar, no salão do Victor para continuarmos os nossos serões litterarios, a que, seja dito de passagem, já todos mais ou menos iamos tomando gosto.</p>
 <p>As reluctancias que alguns, a principio, manifestavam, quando o presidente Vasconcellos e o "sabio congresso" os intimavam a falar, iam desapparecendo. Com mais um mez de Cintra, saía d'ali um enxame de oradores. Que desgraça, se tal acontecesse!</p>
 <p>Durante o dia, mettemos á bulha o Leotte por causa do seu supposto achado de uma fidalga na cozinha do Victor. Elle estava um pouco azoinado com a nossa troça. E, por orgulho ou convicção, promettia, protestava tirar o caso a limpo.</p>
@@ -563,7 +562,7 @@
 <p>Foi assim que aquella alma cristallina, para quem a idade-média tinha sido uma delicia, exhalou o derradeiro suspiro, emquanto o velho Leão, sempre de joelhos, lia o "D. Quichote" de Cervantes, -- o epitaphio eterno da idade-média.</p>
 <p>Os applausos foram unanimes, postoque nem todos os ouvintes gostassem sinceramente d'esta especie de contos, a que o Vasconcellos, com maior ou menor propriedade, chamava phantasticos. Elle, por exemplo, preferia a escola realista: estava mais no seu genio, aliás pouco propenso a idealisações romanescas. Mas a verdade era que, afastada a questão de assumpto, o Gonçallinho Jervis lográra dar á sua narrativa uma forma litteraria, que revelava um escriptor.</p>
 <p>Do Leotte sabia o Vasconcellos que não viriam phantasias, fabulações romanticas; que, pelo contrario, quando o Leotte falasse, seriam assumpto obrigado as mulheres. Ora no conto do Gonçallinho, segundo a expressão do Vasconcellos, nem meia mulher apparecia.</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>Foi pois o Vasconcellos, que n'essa noite excedia o seu bom humor habitual, quem lembrou que, para contrapor ao Gonçallinho, só havia um homem entre nós, e que esse homem era o Leotte.</p>
 <p>Estavamos n'isto, quando o Victor, dono do "hotel_, appareceu á porta da sala, pedindo-nos licença para entrar.</p>
 <p>-- Era negocio urgente, dizia elle.</p>
@@ -642,7 +641,7 @@
 <p>Gargalhadas, ápartes, commentarios. A atmosphera aqueceu; o proprio orador estava vibrante, excellentemente disposto. Que contasse a historia do conde, que ainda era cedo. Que contaria, mas que precisava primeiro um copo de cognac. Veio cognac para todos.</p>
 <p>-- Pois então, meus caros, disse o Leotte, ahi vae a historia do conde.</p>
 <p>Silencio geral.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Imaginem vocês que é o proprio conde que está falando.</p>
 <p>Eu lhe conto, disse-me o conde.</p>
 <p>E, accendendo vagarosamente o seu charuto, cruzando a perna direita sobre o fémur da esquerda, contou, com o seu habitual sorriso, levemente malicioso:</p>
@@ -693,7 +692,7 @@
 <p>-- O que estás tu ahi fazendo?</p>
 <p>-- Que bello luar! exclamou elle. Que bella noite de primavera para irmos ouvir os rouxinoes!</p>
 <p>-- Não seja piegas, atalhou o Vasconcellos. Que bella hora para a gente ir deitar-se!...</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>Era certo que tinhamos ido a Cintra com o pretexto de ouvir os rouxinoes. Mas era certo tambem que nenhum de nós, com excepção do Gonçallinho Jervis, estava já n'esse periodo agudo de romanticismo, que exalta allucinadamente a imaginação.</p>
 <p>Parariamos de boa vontade para ouvir um rouxinol, que nos houvesse surprehendido no caminho. Mas ser-nos-ia pesado qualquer incommodo que, a não ser por surpresa, isso nos pudesse custar.</p>
 <p>O que principalmente nós quizemos gozar indo a Cintra, era a liberdade, o descanso, que não tinhamos habitualmente. O projecto de ouvir os rouxinoes lisonjeára por momentos a vaga saudade, que todos alimentavamos, dos annos felizes da vida, passados na provincia. Mas, uma vez postos a caminho, a doce liberdade, que principiamos a saborear, bem depressa nos fez esquecer dos rouxinoes, que não pensamos mais em ouvir.</p>
@@ -723,7 +722,7 @@
 <p>«Ordenou o poeta esta fabula de vêr que o rouxinol quasi não tem lingua, e a andorinha ser vestida de preto, e no peito ter umas nodoas vermelhas, e ter o canto triste, como que conta a historia da maldade do marido, e as pennas rôxas como sangue da crueldade que teve em matar o filho em vingança da irmã. E do canto do rouxinol a saudade com que viveu a vida a forçada Filomena, e do avião porque no seu canto parece que grita como menino, e na poupa pela significação da corôa da cabeça, e na formusura das pennas pintadas de que se vestem finge ser el-rei, porque a poupa, tomada na mão, tem mau cheiro, e o ninho d'ella o mesmo: em que se dá a entender que os maus feitos, ainda que sejam commettidos por reis e pessoas graves, se ha de fugir d'elles e virar-lhes o rosto, como coisa abominavel e fedorenta.»</p>
 <p>Este processo da moralidade pelo fedor não deixa de ser convincente.</p>
 <p>Disse isto uma vez ao Gonçallinho. E elle, muito despeitado, chamou-me barbaro.</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>No dia seguinte, quando recolhemos para jantar, soubemos pelo Leotte, que tinha ficado de atalaia, tudo o que se passára com relação á chegada dos dois novos hospedes -- o brazileiro e a mulher.</p>
 <p>Não era o nosso amigo Leotte homem que, em se tratando de uma mulher, curasse por informações. Queria vêr a brazileira: ficou.</p>
 <p>-- Já não é nova -- disse-nos elle -- mas considero-a ainda acirrante. Dou-lhe quarenta annos, pouco mais, e está menos mal conservada. Bonitos olhos, bons dentes, cabello magnifico. Reforçada de carnes, sem se poder dizer nutrida. Mulher capaz de satisfazer o ideal de um brazileiro, que a idade principia a tornar decadente. Disse-me a Rosa, que está de serviço á brazileira, que elles irão jantar á mesa redonda.</p>
@@ -805,7 +804,7 @@
 <p>De mim para comigo dizia eu: «Já vi estas mãos e estes anneis, não sei onde!»</p>
 <p>A mulher do brazileiro mostrava-se encantada com a surpresa de um sarau, que a nossa excentricidade, como ella disséra, lhe havia preparado.</p>
 <p>O Araujo, muito resignado, parecia dizer com os olhos, explicando a sua presença ali: «Sim, filha, o que tu quizeres».</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Mettemos á bulha o Saavedra, que tinha sido até esse momento um dos mais silenciosos do grupo, para que se dignasse fazer as honras d'aquella noite, visto como a sua eloquencia devia achar-se ainda em folha, e a nossa já ia estando um pouco fatigada.</p>
 <p>O Saavedra tinha certa graça natural, era um espirito observador, mas a sua modestia orçava ás vezes pela timidez. Felizmente pudemos convencel-o a contar uma das suas anecdotas.</p>
 <p>-- Imaginem v. exas., disse elle, que uma respeitavel dona de casa, uma exemplar mãe de familia, o que quer que seja de Cornelia romana, tem um marido cujo orçamento domestico é em grande parte absorvido pelas immensas publicações, principalmente jornaes, de que o fazem assignante, ás vezes sem elle proprio o saber.</p>
@@ -916,7 +915,7 @@
 <p>-- Ha seis é que eu lá estive, ponderou o brazileiro.</p>
 <p>-- Vamos a ouvir a historia, disse madame Araujo.</p>
 <p>-- Sim, filha, obedeceu o brazileiro, submisso como sempre.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>A "festa dos taboleiros" tinha reunido em Thomar muita gente de fóra. A companhia dos caminhos de ferro estabelecêra comboios directos a preços reduzidos. A pittoresca cidadesinha do Nabão, com o seu bello convento de Christo no topo, tinha um movimento extraordinario, anormal, que a vitalisava desde o castello dos templarios até á graciosa planicie da "Varzea grande_, habitualmente só frequentada por alguns soldados de infantaria 11.</p>
 <p>Todas as familias gradas da localidade tratavam de engalanar os taboleiros com muitas flôres e fogaças, alguns d'elles cogulados até á altura hiperbolica de dois metros. São estes taboleiros que as raparigas mais bonitas da cidade, entrajadas ao garrido, conduzem á igreja de Santa Maria, onde a fogaça é benzida por um sacerdote. D'ali seguem por entre alas de povo, que as applaude, até á igreja da Misericordia. Á noite, a cidade, que é atravessada por uma ponte, illuminava-se com balões venezianos, que se espelhavam nas aguas do rio. Havia um bazar, e toirada. Era por tal signal cavalleiro um "amador_, Alfredo Marreca.</p>
 <p>Algumas familias das minhas relações haviam planeado um passeio através da Estremadura. Pretexto, a "festa dos taboleiros" em Thomar. Eu, que não gosto nada de viajar com o concurso de uma multidão festiva, combati o projecto, propuz um adiamento para depois da romaria. Procedeu-se á votação, e a maioria esmagou-me: tal qual como em S. Bento. Para me não demittir, submetti-me. Fomos por Santarem, onde nos demoramos dois dias. Depois seguimos para a estação de Paialvo, onde nos apeamos, e entramos em "char-à-bancs" que nos conduziram a Thomar. Estação e estrada abarrotavam de gente. Irritado dos nervos, o meu desejo era mandar parar o sol ou... aquella gente toda. Fomos na incerteza de obter "hotel_, e essa incerteza sorria-me. Mas quiz o acaso que ainda encontrassemos alojamento no "Hotel Cotrim_, á beira do Nabão. Tudo aquillo seria delicioso, se não estivessemos em plena romaria. Uma barafunda de todos os diabos.</p>
@@ -984,7 +983,7 @@
 <p>-- A Christina do Muxagata, sem tirar nem pôr!</p>
 <p>-- A Christina da historia que nos contaste?!</p>
 <p>-- Acreditem, meus amigos, é a Christina do Muxagata.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>A minha revelação causou tanta surpresa e interesse aos meus companheiros de "villegiature_, como a mim proprio.</p>
 <p>Ir eu encontrar, ao cabo de tantos annos, a mesma Christina da rua das Fontainhas, a quem fôra entregar o dinheiro do Muxagata, na occasião em que ella estava ceando com o Falcão do Marco!</p>
 <p>Que singular coincidencia a de ter eu começado por contar, nos nossos improvisados serões de Cintra, a historia do Muxagata e de ter vindo ao nosso encontro, no "hotel" do Victor, essa famosa Christina, que eu nunca mais tinha visto, e de que nunca mais ouvira falar!</p>
@@ -1106,7 +1105,7 @@
 <p>E como os rios correm para o mar, era ella e o brazileiro que estavam com sorte.</p>
 <p>Não havia que duvidar. A experiencia era completa, decisiva.</p>
 <p>Ó alma batoteira do Muxagata! volta por um instante a este mundo para verificares como a tua Christina de Lamego honra a tua memoria transitando firmemente pelo caminho que tu lhe traçaste em roda de uma mesa de jogo.</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>Todas as baterias da nossa curiosidade se assestaram contra um alvo unico: descobrir a historia do supposto casamento da Christina do Muxagata com o brazileiro Araujo.</p>
 <p>Felizmente para nós, o bloqueio não durou muito. Foi a propria praça que se rendeu voluntariamente.</p>
 <p>Emquanto D. Christina fazia a sua "toilette" para o jantar, o brazileiro contava-me no terraço do "hotel_, com toda a sua ingenuidade bondosa, a historia do seu casamento -- revelação a que eu o conduzi mais ou menos habilmente.</p>
@@ -1212,7 +1211,7 @@
 <p>-- Tambem eu, se isso tivesse acontecido comigo! observou ingenuamente o brazileiro.</p>
 <p>D. Christina, espirito forte, desatou a rir, e como já estivessem sobre a mesa dois baralhos de cartas, foi ella propria que os abriu, dizendo e abancando:</p>
 <p>-- Vamos a isto, meus senhores.</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Leotte arrastava discretamente a aza a D. Christina, mas enganára-se quanto á presumpção de, como César, chegar, ver e vencer.</p>
 <p>Teve de conhecer que madame Araujo, muito experimentada no terreno que pisava, não quereria comprometter-se no pequeno theatro de acção de um "hotel_, onde o marido só a largava por instantes e onde nós, os oito companheiros de Leotte, eramos outros tantos olheiros, cheios de malicia e curiosidade. De mais a mais, entre esses oito havia um que lhe conhecia a vida. Era eu. E ella estava de certo empenhada em fazer-me convencer a mim proprio, como tinha convencido o brazileiro, de que era a viuva authentica e duplicada do morgado Muxagata e do Falcão do Marco.</p>
 <p>Portanto, o Leotte, que não era tambem um novato inexperiente, resolveu "rallentar" o galanteio, appellando para Lisboa. Por esta razão e, certamente espicaçado pela minha feliz descoberta, voltou-se de novo para a criada, não só por amor das cerejas apetitosas, como pelo desejo de ver se deslindava o misterio, que fôra o primeiro a suspeitar.</p>
@@ -1268,7 +1267,7 @@
 <p>1.ª Que se escreveria ao Callixto, que tinha ficado em Lisboa, para ir á rua da Padaria procurar a sobrinha de D. Clara Gouvêa, a fim de pessoalmente verificar se as declarações d'ella coincidiam com as da Rosa. Ficariamos em Cintra esperando a resposta.</p>
 <p>2.ª Que eu inventaria á noite uma historia qualquer que, visando ao coração das mães descaroaveis, pudesse revelar-nos o arrependimento ou o cinismo de D. Christina.</p>
 <p>Escripta a carta ao Callixto, comecei a pensar no modo de conduzir a observação psichologica de que tinha sido incumbido.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>O conto que eu architectei, para contar á noite, foi baseado, devo confessal-o francamente, n'uma noticia que havia lido em Buffon, e que para aqui vou transcrever textualmente.</p>
 <p>Diz o sabio naturalista na sua obra monumental:</p>
 <p>«_Pendant tout le temps de l'incubation, la paone évite soigneusement le mâle, et tâche surtout de lui dérober sa marche lorsqu'elle retourne à ses ½ufs; car dans cette espèce, comme dans celle du coq et de bien d'autres, le mâle, plus ardent et moins fidèle au v½u de la Nature, est plus occupé de son plaisir particulier que de la multiplication de son espèce; et s'il peut surprendre la couveuse sur ses ½ufs, il les casse en s'approchant d'elle, et peut-être y met-il de l'intention, et cherche-t-il à se délivrer d'un obstacle qui l'empêche de jouir: quelques-uns ont cru qu'il ne les cassoit que par son empressement à les couver lui-même, ce seroit un motif bien diffèrent._»</p>
@@ -1322,7 +1321,7 @@
 <p>D. Christina, mostrando-se enfadada com os commentarios do marido, disse abruptamente, cortando-lhe a palavra:</p>
 <p>-- Vamos lá á nossa partida, que estou hoje com grande raiva aos valetes.</p>
 <p>D'onde o Vasconcellos quiz concluir que ella, indignada com a minha historia, tivera em vista chamar-me valete.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>Veio a resposta do Callixto.</p>
 <p>A sobrinha de D. Clara Gouvêa confirmou plenamente as declarações da filha do Muxagata, acrescentando-as com excellentes informações a respeito da pobre rapariga.</p>
 <p>«Disse-me ella, escrevia o Callixto, que tem a pequena na conta de muito honesta. Sempre mostrou muito juizo. Se a não tem em casa, é porque se peja de assoldadar como criada uma rapariga fina, filha de um fidalgo; como pessoa de familia não a póde sustentar, porque tem muitos filhos, o marido ganha pouco na alfandega, e da tia Clara apenas herdou uma insignificancia. Diz ella.»</p>

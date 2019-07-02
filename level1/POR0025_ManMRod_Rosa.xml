@@ -17,7 +17,6 @@
    </titleStmt>
 <extent>
 <measure unit="words">59170</measure>
-<measure unit="pages">1</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>9 de novembro de 2018</date>. </p>
@@ -65,13 +64,13 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>A Rosa do Adro</head>
+<div type="titlepage"><head>A Rosa do Adro</head>
 <p>Manuel Maria Rodrigues</p>
 </div>
 </front>
 <body>
 <pb/>
-<div><head>CAPÍTULO 1</head> 
+<div type="chapter"><head>CAPÍTULO 1</head> 
 <p>A umas cinco ou seis léguas do Porto, e no fundo montanhoso de uma colina, surge, como por encanto, de entre as bouças de pinheiros e carvalhos, a pequena mas pitoresca aldeia de... forma ela um gracioso montão de pequenas casas, com as suas paredes brancas de neve e os seus telhados vermelhos de sangue, sobrepujados por outras tantas chaminés, das quais respiram de vez em quando uns rolos esbranquiçados de fumo, que se desfazem nos ares ao mais leve sopro da viração.</p>
 <p>Do centro deste interessante grupo sobressai, majestosa, uma igreja de modesta e simples arquitetura, do cimo da qual se ergue, desafogada, uma grande cruz de granito, que eleva para o céu os seus toscos braços enegrecidos pelo tempo e pelos anos.</p>
 <p>É belo e cheio de poesia tudo aquilo!</p>
@@ -101,7 +100,7 @@
 <p>Relativamente a namoros, como geralmente se diz, Rosa não tinha nenhum certo. Falava com a mesma afabilidade e com o mesmo agrado para todos os rapazes da aldeia, sem contudo patentear mais pronunciada deferência por qualquer deles. O seu coração, despreocupado e juvenil, parecia inabalável e insensível aos mais ternos olhares e às mais ardentes declarações, e isso dava incentivo a algumas pessoas de a acoimarem de presunçosa e soberba.</p>
 <p>Rosa, porém, nada disso tinha: o seu coração, ainda pouco impressionável e talvez um tanto leviano, não era de fácil contento; entre os rostos dos rapazes que lhe faziam a corte não encontrara até então uns olhos que lhe impressionassem profundamente a alma, nem vira entreabrir-se uns lábios que proferissem duas palavras que lhe soassem sonoramente ao coração.</p>
 <p>Havia, porém, de chegar-lhe um dia a sua vez.</p>
-</div><div><head>CAPÍTULO 2</head>
+</div><div type="chapter"><head>CAPÍTULO 2</head>
 <p>Cerca de um quarto de légua distante da igreja, e por detrás de um pequeno monte coberto de castanheiros velhos, estendia-se a rica herdade chamada do Capitão, nome que lhe viera dos avoengos do atual possuidor, o Sr. José da Costa, o mais abastado lavrador daquelas redondezas, homem honrado em toda a aceção da palavra, um pouco rude, sim, mas que nem por isso deixava de exercer, havia oito anos, com toda a consciência e retidão, o importante cargo de juiz eleito da freguesia, sendo, além disso, juiz, mesário ou irmão de quantas confrarias e irmandades ali existiam.</p>
 <p>Tinha ele um filho, único herdeiro dos seus haveres, chamado Fernando, a quem, por mera deliberação sua, mandara aos catorze anos para o Porto estudar preparatórios para se formar em medicina.</p>
 <p>Fernando, que não passara até então de um pobre rapaz, sem ilustração nem pretensões, acostumou-se depois por tal forma aos hábitos da cidade e àquela vida livre e risonha de estudante, que dentro em pouco tempo tornara-se o mais alegre, espirituoso e casquilho de todos os seus condiscípulos, pois que para tudo lhe dava de sobra a recheada bolsa do seu pai, sempre aberta às suas mais pequenas necessidades e exigências.</p>
@@ -129,7 +128,7 @@
 <p>Fernando examinou a parte afetada do animal, mandou buscar um medicamento à farmácia da aldeia, ligou a perna doente, e, para terminar a história, daí a quatro dias a égua estava completamente curada e caminhava com todo o desembaraço.</p>
 <p>Foi a primeira vitória alcançada pelo novo filho de Hipócrates.</p>
 <p>Prossigamos agora na nossa narração, interrompida por este episódio.</p>
-</div><div><head>CAPÍTULO 3</head>
+</div><div type="chapter"><head>CAPÍTULO 3</head>
 <p>Fernando era inegavelmente um belo e simpático rapaz. De estatura um pouco mais do que regular, tinha o rosto levemente anguloso, a tez branca, tendendo um tanto para o pálido, os olhos grandes e expressivos, os cabelos pretos e naturalmente anelados, e o pequeno bigode, da mesma cor dos cabelos, era luzidio e nédio como uma tira de azeviche.</p>
 <p>Além destes dotes físicos, que de per si já o recomendavam aos olhos de qualquer filha de Eva, Fernando, que possuía formas bem contornadas tinha um gosto particular no modo de trajar, era engraçado no dizer, e um desafetado abandono nos movimentos completava os predicados necessários para o extremarem da trivialidade de certo dandismo que nem se aprecia pelos dotes do corpo nem pelos do espírito.</p>
 <p>No primeiro domingo que sucedeu ao dia da sua chegada, foi ele, em companhia dos seus pais, ouvir missa à igreja da aldeia, e tornou-se por essa ocasião o alvo de todas as atenções e de todos os elogios do povo da freguesia, que aí estava reunido.</p>
@@ -178,7 +177,7 @@
 <p>O jovem retirou-se, mas pelo caminho foi sempre cabisbaixo e como que embebido em reflexões estranhas. Dar-se-ia o caso de que o belo rosto da rapariga tivesse impressionado seriamente o seu coração'?</p>
 <p>É o que veremos no decorrer desta simples narração.</p>
 <p>Quanto à Rosa do Adro, dir-se-ia que as palavras de Fernando em nada lhe tinham feito mudar a sua habitual alegria, e bem depressa pareceu até esquecê- lo.</p>
-</div><div><head>CAPÍTULO 4</head>
+</div><div type="chapter"><head>CAPÍTULO 4</head>
 <p>Não sei o que se passou no coração de Fernando durante o resto daquele dia; o que é certo é que, no dia seguinte, logo que acabou de jantar, subiu apressadamente ao seu quarto, substituiu a roupa ligeira que trazia por uma própria de caça, lançou mão de uma bela espingarda de dois canos, que no dia antecedente se entretivera a limpar e preparar, desceu a um quarto onde estava a matilha, chamou dois cães e pôs-se a caminho em direção à igreja.</p>
 <p>Fernando ia visivelmente preocupado.</p>
 <p>Com a cabeça baixa e os olhos no chão, parecia que um pensamento qualquer lhe dominava todas as faculdades mentais, e, se alguma vez levantava distraidamente a vista, era só para medir a distância que o separava ainda daquela torre que alvejava ao longe entre a folhagem do arvoredo, como se fosse o ponto principal da sua excursão.</p>
@@ -288,7 +287,7 @@
 <p>Depois de um curto diálogo, Fernando retirou-se, continuando o seu passeio.</p>
 <p>Ao fim da tarde, quando voltava, notou com desgosto que a janela da casa estava fechada e que Rosa não se achava, como na tarde antecedente, encostada à ombreira da porta.</p>
 <p>Esperou ainda alguns minutos, mas, como não aparecesse, retirou-se bastante pesaroso e quase descrente das esperanças que havia nutrido a respeito do amor que ambicionava.</p>
-</div><div><head>CAPÍTULO 5</head>
+</div><div type="chapter"><head>CAPÍTULO 5</head>
 <p>Decorreram seis ou sete dias depois dos sucessos que deixamos narrados.</p>
 <p>Durante este espaço de tempo nada se passou de notável, a não ser o completo silêncio que ambos os jovens se tinham guardado sobre os sentimentos das suas almas.</p>
 <p>Rosa, desde a última tarde em que Fernando lhe patenteara o seu amor, evitava toda a ocasião de se achar a sós com ele e fugia arteiramente ao mais simples galanteio que tentava dirigir-lhe.</p>
@@ -383,7 +382,7 @@
 <p>Durante todo o tempo da entrevista dos dois jovens, alguém, uma única pessoa, tinha sido testemunha ocular de tudo quanto se passara entre eles, e ouvira decerto todo o colóquio.</p>
 <p>Esse alguém era um homem, que, encoberto pelo tronco de um velho álamo que havia próximo da casa de Rosa, e favorecido pela escuridão da noite, assistira imóvel como uma estátua, e sustendo até a própria respiração, àquela cena de amor, que faria a inveja de muitos entes desgraçados que nunca conseguiram sequer apertar a mão do anjo dos seus sonhos.</p>
 <p>Esse homem, logo que os dois amantes se retiraram, saiu cautelosamente do seu esconderijo, encaminhou-se para em frente da porta da habitação, e, postando-se alguns minutos em frente dela, estendeu os braços em ar de desespero ou ameaça, acompanhando este movimento de algumas palavras impercetíveis, depois do que se retirou com passos pouco firmes e a cabeça pendida para o peito como subjugado por uma grande dor.</p>
-</div><div><head>CAPÍTULO 6</head>
+</div><div type="chapter"><head>CAPÍTULO 6</head>
 <p>No dia seguinte, pouco depois do meio-dia, parava em frente da janela de Rosa um dos rapazes que mais assiduamente faziam a corte à travessa rapariga, e a quem esta igualmente parecia ligar mais consideração que a nenhum outro.</p>
 <p>Tinha ele cerca de vinte e dois anos, era alto, bem proporcionado de formas, feições simpáticas, e possuía além disso umas maneiras engraçadas e agradáveis.</p>
 <p>Chamava-se António, e era jovem de um padre que habitava uma herdade não longe da igreja, e ao serviço do qual estava desde criança.</p>
@@ -528,7 +527,7 @@
 <p>-- Satisfá-lo-ei em tudo, porque o amo.</p>
 <p>-- És um anjo!</p>
 <p>E, acercando-se da pequena mão que Rosa lhe estendia da janela, apertou-a entre as suas, osculou-lha ardentemente e retirou-se.</p>
-</div><div><head>CAPÍTULO 7</head>
+</div><div type="chapter"><head>CAPÍTULO 7</head>
 <p>São decorridos perto de quinze dias, depois das cenas que deixamos descritas.</p>
 <p>Durante esse tempo nada se passou de notável, a não ser os progressos que fazia de dia para dia o amor dos dois jovens.</p>
 <p>Dir-se-ia que já não havia forças humanas capazes de separar aqueles dois corações tão cheios de douradas esperanças.</p>
@@ -658,7 +657,7 @@
 <p>António, pelo seu turno, logo que os dois desapareceram, também saiu do esconderijo.</p>
 <p>Na sua cara, sulcada por duas profundas rugas, mostrava-se a palidez medonha dos cadáveres.</p>
 <p>-- Desgraçada!... -- exclamou ele, caminhando vagarosamente. -- Como se deixa arrastar para o inferno da desventura!... Insensatos! Julgaram que ninguém os ouvia, como se não houvesse no mundo um ente que vigiasse noite e dia os seus passos!... Oh! continuarei agora a velar mais do que nunca.</p>
-</div><div><head>CAPÍTULO 8</head>
+</div><div type="chapter"><head>CAPÍTULO 8</head>
 <p>No dia seguinte, por volta das onze horas e meia da noite, a herdade do Capitão estava imersa no mais fundo silêncio.</p>
 <p>E, a não ser o reflexo de uma luz que brilhava nas vidraças de um dos quartos do lado norte, dir-se-ia que tudo ali repousava.</p>
 <p>A janela que assim resplandecia no meio das densas trevas que cercavam o resto da casa era a do quarto de Fernando, e o vulto deste, destacando-se de vez em quando no meio da claridade, denotava que o jovem ainda se não havia deitado.</p>
@@ -746,7 +745,7 @@
 <p>-- Assim é preciso, Fernandinho...</p>
 <p>Trocaram-se ainda os últimos adeuses, e, enquanto Rosa se encaminhava para a sua habitação, Fernando galgara o muro e pusera-se também a caminho.</p>
 <p>Momentos depois ergueu-se por detrás do muro que separava a bouça do quintal de Rosa a sombra de um outro indivíduo que estivera ali oculto e se dirigiu pelo caminho contrário àquele que seguira Fernando.</p>
-</div><div><head>CAPÍTULO 9</head>
+</div><div type="chapter"><head>CAPÍTULO 9</head>
 <p>O padre Francisco da Encarnação era um bom e santo homem. Na época em que se passavam os acontecimentos que vamos relacionando, tinha ele cerca de setenta anos. Os cabelos nevados, o rosto sereno e de uma expressão franca e bondosa, e a cabeça já um pouco vergada pelo peso dos anos, tudo lhe dava um aspeto respeitável e insinuante.</p>
 <p>Efetivamente era ele a bondade e a beneficência personificadas: não havia pobre nem desvalido por aquelas redondezas que não conhecesse bem de perto os seus benefícios.</p>
 <p>Graças aos bens terrenos com que a Providência o dotara, padre Francisco podia exercer com prodigalidade os santos impulsos da sua alma caritativa, porque para tudo lhe davam de sobra os rendimentos dos seus muitos haveres, na sua casa, pois havia diariamente mesa franca para todos os enjeitados da fortuna que ali fossem procurar um pedaço de pão e uma malga de sopa para saciarem a fome; e, pelo dia adiante, nunca pobre algum fora pedir uma esmola que lha não dessem, nem procurar asilo por uma noite, que lhe não fosse ministrado da melhor vontade.</p>
@@ -884,7 +883,7 @@
 <p>-- Lá isso é verdade: isto de casar não é negócio de brincadeira; basta dizer que é a gente amarrar-se por toda a vida, e portanto dou-te razão.</p>
 <p>O diálogo terminou aqui. Rosa despediu-se das palradoras e retirou-se.</p>
 <p>Aquelas servas do Senhor, que antes da sua chegada tão pouco lisonjeiramente falavam da rapariga e que na sua presença lhe teciam milhares de lisonjas, lá ficaram, continuando na sua boa obra de criticar quanta gente conheciam, não deixando sem longos comentários o procedimento de Rosa e as palavras que tinham há pouco proferido na conversa. Boas e santas almas aquelas!</p>
-</div><div><head>CAPÍTULO 10</head>
+</div><div type="chapter"><head>CAPÍTULO 10</head>
 <p>Iam decorridos trinta e tantos dias depois dos sucessos que deixamos descritos.</p>
 <p>Os dois jovens continuavam a amar-se com todas as loucuras e enlevos de uma paixão sempre crescente, e as entrevistas noturnas que nem uma só vez se interromperam, contribuíram em grande parte para o desenvolvimento desse amor que refervia de hora para hora naqueles dois corações anelantes de felicidade e de vivas sensações.</p>
 <p>Na aldeia já se não falava nesses amores, porque de há muito ninguém vira mais Fernando falar com a bela rapariga, e esta, pela sua parte, empregava todos os meios para fazer acreditar que tais relações tinham acabado. O que ainda alguém notava era o recato e recolhimento em que a bela aldeã vivia, desprezando sempre quaisquer convites que lhe faziam para ir a este ou àquele divertimento, mas todos atribuíam isso ao seu génio altivo e vaidoso.</p>
@@ -945,7 +944,7 @@
 <p>À medida, porém, que ia andando, a serenidade de espírito vinha pouco a pouco substituir a exaltação em que estava, e em poucos momentos a reflexão e a clareza das ideias aplacaram-lhe as iras e o despeito em que se atormentava.</p>
 <p>-- Afinal -- continuou ele, reflexionando ao passo que se dirigia para o sítio premeditado -- que proveito útil posso eu tirar deste atentado?... Se Fernando morrer às minhas mãos, Rosa, que tanto o ama, é capaz de crer que fui eu o autor da sua morte, e, além do ódio que depois nutrirá por mim, denunciar-me-á até. Se, ao contrário, não julgar que fui eu que o matei, o desespero poderá levá-la ao suicídio e depois serei eu não o causador de uma morte, mas de duas. Nada! Pensei mal. Que viva: se cumprir os seus juramentos, regozijar-me-ei com isso; se se der o contrário, então teremos irremediavelmente de ajustar contas. Deixemos, pois, obrar por enquanto o destino.</p>
 <p>Estes últimos pensamentos fizeram-no desistir afinal das suas primeiras tentações, e por isso dirigiu-se para casa com o coração gotejando fel.</p>
-</div><div><head>CAPÍTULO 11</head>
+</div><div type="chapter"><head>CAPÍTULO 11</head>
 <p>Estava quase terminado o tempo das férias escolares, e chegara o dia em que o jovem estudante devia regressar ao Porto a fim de concluir a sua formatura.</p>
 <p>Era, pois obrigado a deixar por alguns meses o lar doméstico, aquelas campinas, e sobretudo Rosa, a quem prometera a sua mão.</p>
 <p>Devia ser bem triste aquela despedida!</p>
@@ -1018,7 +1017,7 @@
 <p>-- Adeus, Fernandinho, não se esqueça desta desgraçada e lembre-se dos seus juramentos.</p>
 <p>Na volta para casa, Fernando ia tristemente preocupado e por mais de uma vez exclamou:</p>
 <p>-- Pobre rapariga! Nunca nós nos tivéssemos visto... às vezes creio amá-la realmente, e, se não fosse a imagem de Deolinda, desse anjo que a cada momento se me apresenta à imaginação... Mas como poderei eu agora livrar- me de qualquer delas, se é que amo ambas, e se as acho uma e outra dignas do meu amor?! Com efeito estou numa posição bem crítica...</p>
-</div><div><head>CAPÍTULO 12</head>
+</div><div type="chapter"><head>CAPÍTULO 12</head>
 <p>A baronesa de F... , viúva de um brigadeiro que por mais de uma vez derramara o seu sangue no campo da batalha em defesa da Pátria, era uma senhora de perto de sessenta anos, de cabelos um pouco nevados, rosto sereno e franco, boca risonha, transpirando sempre da sua fisionomia um ar de satisfação e de bondade que bem patenteava os dotes da sua boa alma.</p>
 <p>Casara aos vinte e cinco anos com o barão F... , então cadete no exército e filho de uma nobre família da província, da qual, como filho único, herdara uma boa fortuna, e desse consórcio houve três filhos, dois dos quais morreram em tenra idade, ficando apenas o mais novo deles, que era uma galante menina chamada Deolinda.</p>
 <p>Alguns meses depois do nascimento da criança, a baronesa recebeu um dia a triste notícia de que o seu marido, então brigadeiro, morrera atravessado por uma bala inimiga, legando-lhe, além dos seus muitos haveres, o brasão ilustre dos seus antepassados, dos quais sua filha era única vergôntea.</p>
@@ -1250,7 +1249,7 @@
 <p>-- Não foi nada... um leve incómodo do meu pai, que talvez me force a ir no sábado a casa, se não receber notícias das suas melhoras...</p>
 <p>Daí a pouco o sossego estava restabelecido, e a partida de voltarete continuou com a mesma animação de há pouco.</p>
 <p>Retrocedamos agora alguns meses e vejamos o que é feito de Rosa, e que motivos se deram para ela escolher para confidente o criado do padre Francisco.</p>
-</div><div><head>CAPÍTULO 13</head>
+</div><div type="chapter"><head>CAPÍTULO 13</head>
 <p>Depois da partida de Fernando para o Porto, Rosa, que até aí já vivia uma vida monótona e retirada, tornara-se depois disso mais sombria e reclusa.</p>
 <p>Saía só em casos de muita necessidade, respondia com seriedade, e às vezes até com mau modo, aos gracejos que os rapazes da aldeia lhe dirigiam quando a encontravam, e, para evitar os olhares curiosos dos que passavam, mudara o seu lugar de trabalho para uma outra janela que dava para o quintal.</p>
 <p>Aos domingos de tarde, como era costume, os rapazes e raparigas do lugar reuniam-se no adro, quase em frente da sua casa, e, aos sons de uma viola, passavam horas alegres em descantes e bailados, divertimentos outrora tão favoritos da travessa rapariga e nos quais tomava sempre a mais ativa parte.</p>
@@ -1432,7 +1431,7 @@
 <p>A rapariga, mal o viu desaparecer, deu ainda alguns passos para se encaminhar para casa, mas caiu extenuada sobre o pavimento do quintal.</p>
 <p>Fernando, ao afastar-se daqueles lugares, ia triste, com o coração alanceado, e por mais de uma vez exclamou:</p>
 <p>-- Pobre Rosa! Fui bem cruel para com ela. Para que a vi eu?... E tinha jurado pertencer-lhe... infeliz rapariga, és sacrificada aos preconceitos deste mundo!...</p>
-</div><div><head>CAPÍTULO 14</head>
+</div><div type="chapter"><head>CAPÍTULO 14</head>
 <p>Chegou finalmente o dia em que Fernando devia fazer o seu acto grande, a última prova de aproveitamento no curso que, como a baronesa tinha designado, o jovem convidara sua família para vir ser testemunha presencial da sua formatura, mas ao convite acedera só seu pai, que na véspera desse dia se apresentara em casa de Fernando, risonho e alegre, como alegres se podem mostrar os pais que veem seus filhos chegar ao termo de uma carreira que lhes promete uma posição distinta e honrosa.</p>
 <p>O jovem nesse mesmo dia foi apresentar seu pai à baronesa e a sua filha, que o receberam com a afabilidade e sem-cerimónia com que sempre se acolhe um amigo velho e futuro parente, e desde logo o convidaram, tanto a ele como a Fernando, para jantar na sua companhia depois do exame.</p>
 <p>No dia seguinte, o pai de Fernando, convenientemente vestido para assistir a uma cerimónia tão importante, envergando a sua antiquíssima casaca, que só aparecia nos actos solenes, tendo na cabeça um enorme chapéu de seda, já arruçado pelo pó de muitos anos, e apoiando-se num bengalório de castão de prata, o que tudo lhe dava uma feição um tanto grotesca, apeava, meia hora antes de começar o acto, conjuntamente com a baronesa e a sua filha, de um lindo trem que parara próximo das escadas que davam ingresso para o edifício da escola.</p>
@@ -1490,7 +1489,7 @@
 <p>-- Como ficará louca de alegria a pobre velha! -- exclamou o pai de Fernando -- , ela que estremece tanto como eu este único filho!...</p>
 <p>Continuou ainda a conversa por algum tempo, e os convidados só se retiraram, já alta noite, depois de terem felicitado os dois noivos e de fazerem os costumados cumprimentos às, para além disso, pessoas.</p>
 <p>No dia seguinte foram assinadas as escrituras do casamento, empregando o jovem médico o resto do dia em despedir-se dos seus professores e das pessoas das suas relações, e no imediato, pelas dez horas da manhã, entravam todos num a carruagem de posta, que daí a pouco caminhava ao longo da estrada que conduzia à aldeia de...</p>
-</div><div><head>CAPÍTULO 15</head>
+</div><div type="chapter"><head>CAPÍTULO 15</head>
 <p>A chegada da baronesa e de Fernando foi um verdadeiro sucesso para a aldeia.</p>
 <p>A mãe de Fernando, tendo no dia antecedente recebido as felizes notícias de tudo quanto se passara, fora imediatamente desabafar com alguns vizinhos as alegrias que lhe transbordavam do coração, e dera-lhes parte não só do casamento do seu filho, mas também da próxima chegada da baronesa, que vinha habitar outra vez nas suas ricas propriedades.</p>
 <p>Poucas horas depois, toda a aldeia estava sabedora desses sucessos, e desde logo começaram os preparativos para uma brilhante receção aos recém- vindos, não só pelas simpatias que estes inspiravam a toda a povoação, como pessoas gradas, mas também porque ainda estavam bem vivos na lembrança de todos os actos de caridade e de beneficência que a baronesa praticara durante o tempo que ali vivera.</p>
@@ -1678,7 +1677,7 @@
 <p>-- Mas, se eu já adivinhei...</p>
 <p>Neste momento entrou a baronesa e veio interromper por um pouco a conversa, que, passados instantes, continuou nos mesmos termos, tomando parte nela a mãe de Deolinda. E as duas, com as suas palavras e os seus conselhos, foram pouco a pouco convencendo o jovem do verdadeiro partido que devia tomar, que era o de desposar essa pobre rapariga, do estado da qual ele se compadecia, e a quem também não perdera a maior parte do afeto, ou talvez do amor que ela lhe inspirara em princípio.</p>
 <p>Finalmente, o jovem não quis logo dar a decisão, não porque a não tivesse já resolvido, mas porque ou o pejo ou outro qualquer sentimento o obrigavam a não se mostrar tão precipitado num a resposta de tanta importância.</p>
-</div><div><head>CAPÍTULO 16</head>
+</div><div type="chapter"><head>CAPÍTULO 16</head>
 <p>Na noite seguinte ao dia em que Fernando esteve em casa da baronesa e onde se tratou dos assuntos que deixamos relatados, por volta da meia-noite duas fortes marteladas soaram na porta da herdade do Capitão.</p>
 <p>Como era de prever, este sucesso surpreendeu toda a gente da casa, e alguns criados, que se levantaram à pressa, vieram indagar da causa de tal motim.</p>
 <p>Ao abrirem o portão, depararam com um homem, parecendo já de bastante idade pelo estado de curvação em que permanecia, embuçado num farto capote de saragoça, que lhe ocultava a maior parte do rosto, já quase invisível pela escuridão da noite.</p>
@@ -1811,7 +1810,7 @@
 <p>O velho facultativo obedeceu imediatamente, o curativo das feridas. Ao terminar, Fernando disse-lhe:</p>
 <p>-- Agora, deixe entrar meus pais e os meus amigos, e se lhe perguntarem pelo meu estado, diga-lhes que é bastante grave, mas que há esperanças. Ser- me-ia muito custoso vê-los junto a mim, desesperados pela certeza da minha morte!...</p>
 <p>O facultativo abriu a porta do quarto para dar entrada às pessoas que estavam num aposento imediato, as quais, acercando-se do velho, o cumularam de perguntas com relação à gravidade da doença, perguntas a que ele respondia consoante as instruções que tinha recebido de Fernando.</p>
-</div><div><head>CAPÍTULO 17</head>
+</div><div type="chapter"><head>CAPÍTULO 17</head>
 <p>Dois dias depois dos sucessos que ficam narrados, por volta das 10 horas da manhã, Rosa, encostada ao peitoril da pequena janela do seu quarto, permanecia triste e imóvel, envolvendo num só olhar a alegre natureza que se estendia ao longe, então revestida das suas mil galas e abrilhantada pelos raios de um belo sol de Primavera.</p>
 <p>A pobre rapariga, a quem os estragos da doença e as mortificações do espírito tinham colocado num estado de dolorosa prostração, parecia dirigir nos seus rápidos olhares os últimos adeuses àquele belo cantinho do mundo, como se adivinhasse os poucos dias que lhe restavam para o contemplar.</p>
 <p>Durava havia já muito esta muda expectação, quando um pequeno ruído veio repentinamente desviar-lhe as atenções dos objetos que fitava, e, voltando o rosto, viu entrar no seu aposento um criado da herdade do Capitão.</p>
@@ -1911,7 +1910,7 @@
 <p>-- Agora, Deolindinha -- continuou o jovem -- , encarrego-a dos preparativos destas tristes núpcias. O que lhe peço é que a cerimónia se efetue ainda hoje; sinto-me tão falto de forças...</p>
 <p>-- Serão prontamente satisfeitos os seus desejos, Fernando. Vou tratar de tudo, e brevemente unir-se-á a este anjo.</p>
 <p>E Deolinda, ao proferir estas palavras, retirou-se precipitadamente, como para ocultar uma torrente de lágrimas que lhe resvalou subitamente das pálpebras.</p>
-</div><div><head>CAPÍTULO 18</head>
+</div><div type="chapter"><head>CAPÍTULO 18</head>
 <p>Desde as quatro horas da tarde desse dia, começara a juntar-se à porta da herdade um grande número de pessoas de todas as idades e sexos, atraídas ali por essa curiosidade tão peculiar, principalmente às pequenas povoações.</p>
 <p>A notícia do casamento de Fernando com a Rosa do Adro espalhara-se tão rapidamente por toda a aldeia, que dentro em poucos momentos não havia nela uma só pessoa que não soubesse deste repentino sucesso. E a maior parte dessa gente, ávida e curiosa de assuntos que dessem largo pasto às suas conversas, dirigiu-se desde logo, em tropel, para a casa do pai de Fernando, a fim de indagar os motivos de tão inesperado acontecimento.</p>
 <p>Cada criado que aparecia no limiar do portão era logo cercado e martirizado com perguntas de uns e outros, às quais respondiam, ou por ignorância, ou por qualquer recomendação que lhes fosse feita a tal respeito:</p>
@@ -2016,7 +2015,7 @@
 <p>António, ao ouvir estas palavras, estremeceu, como se um estilete de aço lhe retalhasse as carnes, pareceu cambalear, cobriu o rosto com as mãos e desapareceu como uma sombra pela porta da igreja.</p>
 <p>Esta cena passara-se tão rápida e tão fora das vistas do povo, naquela ocasião só entretidas com a cerimónia, que já tinha começado, que não houve uma só pessoa que atentasse nela.</p>
 <p>Rosa adiantou-se então mais alguns passos para o centro da igreja, assistiu impassível, como um espectro, à fúnebre cerimónia, acompanhou ainda o corpo do seu marido até à sepultura. Foi a primeira a lançar-lhe alguns punhados de terra, conservou-se depois um pouco de tempo ajoelhada junto à campa, murmurando algumas orações, e voltou afinal para a herdade, amparada por algumas pessoas que se tinham condoído do estado de prostração em que ficara.</p>
-</div><div><head>CAPÍTULO 19</head>
+</div><div type="chapter"><head>CAPÍTULO 19</head>
 <p>São decorridos cerca de trinta dias depois das cenas que deixamos descritas.</p>
 <p>No mesmo quarto onde havia perto de um mês se finara o esposo de Rosa e sobre o mesmo leito onde o seu corpo repousara por alguns dias, dava-se quase uma cena idêntica àquela que então ali se passou.</p>
 <p>Rosa, a bela e alegre rapariga de outrora, o enlevo dos rapazes da aldeia, jazia como inanimada sobre aquele mesmo leito onde seu esposo exalara o último suspiro.</p>
