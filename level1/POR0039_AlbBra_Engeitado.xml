@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0039" xml:lang="pt">   
+<teiHeader >
+<fileDesc>
+<titleStmt>
+<title >O Engeitado</title>
+<author>Braga, Alberto Alberto Leal Barradas Monteiro (1851-1911)</author>
+        <respStmt>
+           <resp>Original HTML capture</resp>
+       <name>Pedro Saborano</name>
+       </respStmt>
+<respStmt>
+<resp>ElTeC encoding</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">8266</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>3 de julho de 2019</date>. </p>
+</publicationStmt>
+<sourceDesc>
+<bibl>
+<title>Project Gutenberg EBook O Engeitado</title>
+<ref target="http://www.gutenberg.org/ebooks/25594/"/>
+     <relatedItem type="copyText">
+       <bibl>
+	 <author>Alberto Leal Barradas Monteiro Braga</author>
+	 <title>O Engeitado</title>
+	 <publisher>Parceria António Maria Pereira</publisher>
+	 <pubPlace>Lisboa</pubPlace>
+	 <date>1888</date>
+       </bibl>
+     </relatedItem> 
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p></p>
+</encodingDesc>
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2018-11-15">Nada</change> 
+</revisionDesc>
+</teiHeader>
+
+<text xml:lang="pt-PT">
+
+<front>
+<div type="titlepage"><head>O ENGEITADO</head>
+<p>Alberto Braga</p>
+</div>
+</front>
+<body>
+<div type="chapter">
+<p>A Joaquina do Espinhal tinha ido, no fim da tarde, lavar ao rio a roupa dos pequenos. Era no mez de dezembro. A agua corria por entre os choupos, fria e levemente encrespada pela brisa que soprava do norte. Joaquina do Espinhal, com as saias arregaçadas na cintura, as pernas mettidas na agua ate ao joelho, ensaboava a roupa e batia-a com força sobre a pedra poida e lustrosa do lavadouro.</p>
+<p>Da outra banda, pelo carreiro que havia á beira do rio, passou o filho do moleiro a tanger os machos. O rapaz ia tranzido de frio, com a golla da jaqueta apanhada para as orelhas, a assobiar alto. Assim que reconheceu a lavadeira, parou, fincou a mão ao tronco d'uma arvore, e, debruçando-se sobre o rio, perguntou de lá:</p>
+<p>-- Vocemecê não tem frio?</p>
+<p>A Joaquina aprumou-se e respondeu:</p>
+<p>-- Ai! és tu, Jeronymo! Frio? Quem fala n'isso? Quando a gente tem filhos, não deita conta a nada. Onde ides?</p>
+<p>-- Vou levar a fornada a casa do sr. doutor.</p>
+<p>-- Pois vae com Deus, vae.</p>
+<p>Mas o rapaz deixou-se ficar immovel a olhar para ella. Os machos iam tosando nas silvas.</p>
+<p>-- Que frio! -- exclamava elle todo arripiado.</p>
+<p>-- Credo! Se eu a visse ahi de noite, diabos me levem se não deitava a fugir com medo!</p>
+<p>A lavadeira ria-se.</p>
+<p>-- Medo de quê, rapaz?</p>
+<p>-- Sume-te! -- dizia o moleiro. -- De noite, só as bruxas é que veem lavar aos rios... Adeusinho, tia Joaquina.</p>
+<p>-- Adeus, ó Jeronymo.</p>
+<p>Era já noite, quando a Joaquina voltou para casa, carregada com o alguidar da roupa molhada á cabeça. Atravessou uma bouça; e, quando ia a transpor o portello, que dava para a estrada, estacou de repente. Tinha ouvido uns gemidos vagos ali perto. Debaixo da lagem do portello, por entre o tojo, alvejava alguma coisa que se movia. Cuidou ao principio que fosse um cão; e ia a dar-lhe com a ponteira da chinella, quando os gemidos se repetiram.</p>
+<p>-- Elle que dianho é?</p>
+<p>Poisou resolutamente o alguidar no primeiro degráo do portello, abaixou-se para examinar de perto; e, ao levantar uma ponta da trouxa, viu uma criança recemnascida, nua, embrulhada n'um lençol velho. Tomou logo a creança nos braços, e, achegando-a ao calor do peito, exclamava commovida:</p>
+<p>-- Ó meu rico filho! Que grande cadella foi a tua mãe! Que grande desavergonhada!</p>
+<p>Quando entrou em casa, o marido estava com os dois pequenos sentado ao calor da lareira. A Joaquina correu o ferrolho interior da porta, e, chegando-se junto do homem, apresentou-lhe nos braços o engeitado.</p>
+<p>-- Aqui tens este leitão.</p>
+<p>O João do Espinhal poz-se logo de pé muito espantado. A criança, livida de frio, ao sentir o calor do lume, agitava-se no lençol, abria os olhos e a bocca, procurando com impaciencia e avidez o leite do seio materno.</p>
+<p>-- Meu rico anjinho!? -- exclamava a Joaquina, bafejando-lhe as mãosinhas. -- Que frio e que fome que tu tens!</p>
+<p>Referiu ao homem como encontrára, ao voltar do rio, aquelle innocentinho abandonado no meio do tojo.</p>
+<p>-- Se o não topo no caminho, a criancinha a esta hora tinha morrido de frio.</p>
+<p>-- Mas tu que lhe queres fazer? -- perguntou o marido, passado um momento de surpresa.</p>
+<p>-- Que lhe quero fazer!! Vou d'aqui pedir á mulher do Cosme que chegue o peito a este innocente; e ámanhã veremos então a volta que lhe hei de dar.</p>
+<p>O João, immovel e callado, com os olhos postos na labareda da lareira, coçava a nuca. O que elle não queria era augmentar os encargos da familia com mais um extranho. A féria de pedreiro, que recebia aos sabbados, mal lhe chegava para o sustento da mulher e dos dois filhos; agora, se a Joaquina teimasse em ficar com o engeitado...</p>
+<p>-- É uma dos diabos! -- pensava elle, franzindo os beiços.</p>
+<p>A Joaquina sahiu de casa com a criança ao collo, e voltou pouco depois, explicando ao homem o que tinha succedido. A Josepha do Cosme tomava conta do innocente, chegava-lhe o peito; mas queria que alguem desse parte ao regedor, porque não estava para se metter em trabalhos.</p>
+<p>-- Porque -- dizia a mulher -- o leite que tenho, graças a Deus, chega bem para elle, sem o tirar á filha; mas, sr.ª Joaquina, é preciso que alguem de futuro tome conta da criança...</p>
+<p>A Joaquina combinou com a visinha irem no dia seguinte a casa do regedor; e depois talvez que o fidalgo da Tojeira tivesse dó do engeitainho, e tomasse conta d'elle. E senão -- insistia ella -- tomo eu! Pois! Onde houver um bocado de pão para os filhos, ha de haver uma migalha para o innocente.</p>
+<p>O João ouvia isto contrariado e sisudo, mas sem replicar. Mandou deitar os pequenos. Quando despiu a jaqueta, para se metter tambem na cama, encostou-se á ilharga da enxerga, e voltando-se para a mulher perguntou:</p>
+<p>-- Mas, ó mulher, e se o fidalgo o não quizer? Sim; vamos a futurar que o fidalgo, que é teimoso com'a burro, não está por o que vocês lhe dizem?</p>
+<p>-- Adeus! -- replicou peremptoriamente a Joaquina, encolhendo os hombros. -- Ao monte não atiro eu outra vez o innocente!</p>
+<p>No dia seguinte, a Josepha do Cosme vestiu uma camisa velha á creanca, embrulhou-a n'uma baeta escarlate, e com ella ao collo, foi ter com a Joaquina. Sahiram ambas para casa do regedor. A Joaquina referiu o caso, com grandes injurias contra a desalmada que abandonou assim o filho por um inverno d'aquelles! O regedor, que era sugeito circunspecto e methodico, entendia que o verdadeiro era irem d'ali a casa do abbade.</p>
+<p>-- Primeiro que tudo, mulheres -- ponderou elle -- vamos a fazer d'isto uma alma christã. Uma de vocês serve-lhe de madrinha, e então o fidalgo, se estiver por isso, que seja o padrinho.</p>
+<p>Pozeram-se a caminho da residencia.</p>
+<p>O abbade tinha engrolado á pressa o latim da missa do dia, com grande appetite do café quente do almoço. Ia a sair apressadamente da egreja, quando viu entrar no adro as duas mulheres acompanhadas pelo regedor.</p>
+<p>-- Vae torta! -- resmungou elle, a tiritar de frio, com as mãos entanguidas enfiadas nos bolsos das calças. Parou no limiar; e, logo que ellas se aproximaram: -- Que temos? Perguntou com modo desabrido, batendo com ambos os pés na soleira da porta.</p>
+<p>A Joaquina repetiu outra vez deante do abbade o mesmo que tinha dito ao regedor.</p>
+<p>-- Mas quem será a mãe? -- perguntava elle, tentando descobrir nas feições indecisas da criança uma denuncia.</p>
+<p>-- Quem sabe lá, sr. abbade -- dizia a Josepha.</p>
+<p>E com a dobra da mantilha resguardava dos olhares cupidos e profanos do padre o peito alvo e apojado em que a criança mamava.</p>
+<p>-- Mas que grande bebeda, sr. abbade! -- rosnava a Joaqui\-na. -- Que grande... com licença de v. sr.ª... que grande cabra!</p>
+<p>O abbade replicou-lhe:</p>
+<p>-- Não insulte as cabras, mulher; não insulte as cabras, que essas não engeitam os filhos.</p>
+<p>Combinou-se ali em que as duas mulheres fossem pedir ao morgado para ser o padrinho.</p>
+<p>-- E se elle acceder -- disse o abbade, safando-se para a residencia -- mandem-me parte, que eu baptiso-o hoje mesmo. Vivam!</p>
+<p>O fidalgo da Tojeira era madrugador. Andava já a passear ao sol da varanda alpendrada da casa, quando o criado lhe veiu annunciar que a do João do Espinhal e a do Cosme lhe queriam falar.</p>
+<p>-- Que venham aqui.</p>
+<p>Entrou, á frente, a Joaquina do Espinhal, seguida da mulher do Cosme. Ao principio, o morgado disse que não. Na sua opinião, quem faz os filhos que os crie. Elle não estava ali para remediar as poucas vergonhas do mundo. A Joaquina, porém, não desanimava; e, em quanto o fidalgo passeiava ao longo da varanda, obstinado no seu proposito, a mulher ajuntava supplica sobre supplica, e nas costas d'elle ia piscando o olho matreiro á visinha. Instado por fortes razões humanitarias, o fidalgo cedeu.</p>
+<p>-- Pois bem -- disse elle, parando do seu passeio. -- Eu irei ser o padrinho; mas uma de vocês que se encarregue de o criar.</p>
+<p>O engeitado foi baptisado ás tres horas da tarde d'esse mesmo dia. Na sachristia o abbade, em quanto enfiava a sobrepeliz em frente do arcaz, lamentava que se tivesse dado aquelle caso na freguezia.</p>
+<p>-- Mas quem será o maroto do pae! -- perguntava o fidalgo.</p>
+<p>-- Quem sabe lá, sr. D. Bernardo! Nem talvez a propria mãe! Isto hoje, meu senhor, o mundo vae todo assim!</p>
+<p>D. Bernardo, quando se offerecia ensejo gostava de chalacear.</p>
+<p>-- Pois, abbade -- replicou elle -- pae tem a criança; salvo se ellas fazem como as egoas de Virgilio, lembra-se?</p>
+<p xml:lang="latin">".......................et saepe sine ullis"</p>
+<p xml:lang="latin">"Conjugiis vento gravidae (mirabile dictu!)"</p>
+<p>O pequeno recebeu na pia baptismal o nome de Simão. Foi o que occorreu á lembrança do padrinho, que tivera assim chamado outro afilhado, morto de meningite uma semana depois de baptisado.</p>
+<p>D. Bernardo da Cunha era um velho celibatario, egoista e avarento. Assignava a "Nação" e o "Bem Publico"; mas lia o "Primeiro de Janeiro", que lhe dava a cotação exacta dos fundos portuguezes.</p>
+<p>Por tradições de familia, dizia-se legitimista, com quanto na sua consciencia os correligionarios enthusiastas e crentes não passassem d'um "bando de visionarios".</p>
+<p>Vivia retirado do contacto do mundo, entre as velhas e sombrias paredes do seu solar; mas, á cautella, ia seguindo, dia a dia, as cambalhotas da politica constitucional, e sobre tudo a influencia que ella exercia na alta e baixa das inscripções. Era como um passageiro esperto d'esta velha nau combalida e desconjuntada, que tem thesouro com que possa salvar-se, no caso de naufragio!</p>
+<p>Quando acontecia que algum velho padre correligionario ia á Tojeira, e fallava com voz pungente da immoralidade dos governos, das torpezas das eleições, da dissolução dos costumes e da perda irreparavel do paiz, o morgado, ouvidas as lamentações do Jeremias, encrespava nos labios um sorriso zombeteiro, e exclamava:</p>
+<p>-- Isto, meu caro amigo, está a acabar. É tudo uma bandalheira!</p>
+<p>Parecia uma phrase de Tacito, escrevendo "sine ira et studio", a historia da dissolução dos romanos!</p>
+<p>Era senhor de um morgadio avultado. Tinha uma irmã mais nova, senhora de 59 annos, professa no convento de S. Salvador, em Braga, que lhe escrevia de longe em longe, falando-lhe muito dos seus achaques, e de todos os santos canonisados do agiologio christão, e dos não canonisados, inclusive o fradinho João da Neiva do Carmo.</p>
+<p>D. Bernardo, depois que a Joaquina e a Josepha se retiraram da egreja, chamou de parte o abbade, e perguntou-lhe se devia dar alguma coisa á ama do engeitado e afilhado. O abbade era de opinião que a mulher merecia recompensa.</p>
+<p>-- Dando-lhe dois pintos cada mez? -- perguntou o fidalgo.</p>
+<p>-- Paga v. ex.ª mui bizarramente, sr. D. Bernardo -- disse o padre.</p>
+<p>Simão cresceu e medrou. No fim d'um anno, ensaiava os primeiros passos ao lado da filha da Josepha. Foram desmamados ao mesmo tempo; e, d'ahi por diante, a tigela de sopas era commum dos dois. A Josepha criou uma grande affeição pelo pequeno. Isto causou um grande pasmo entre as vizinhas, que estavam costumadas a ver tratar os engeitados com desapiedado abandono das mulheres que os recebiam.</p>
+<p>-- Não, que uma coisa assim! -- diziam ellas admiradas. -- O pequeno parece filho d'ella!</p>
+<p>A unica differença sensivel aos olhos dos circumstantes era esta: quando acontecia ir D. Bernardo por casa do Cosme, a mulher obrigava o Simão a beijar a mão do fidalgo, acto respeitoso e humilde, a que não sugeitava a filha. O pequeno olhava o padrinho com o terror instinctivo nas crianças para com as pessoas graves, que os não amimam. Mas, afinal, o habito quasi lhe venceu a repugnancia; e, ao cabo de dois annos, com quanto a presença do fidalgo ainda o constrangesse e esfriasse no meio das suas alegres brincadeiras com a Magdalena, chegava-se a elle, humilde, e pedia-lhe a benção, balbuciante e tremulo:</p>
+<p>-- A sua benção, meu padrinho!</p>
+<p>Decorreram os annos, sem alteração digna de chronica no desenvolvimento do rapaz. Sahiu delicado de feições, de cabellos castanhos, os olhos claros e uma pelle fina e branca, muito sensivel aos ardores do sol do estio e aos nordestes asperos do inverno.</p>
+<p>Se acontecia demorar-se com Magdalena fóra de casa, pelo meio dos campos, com a cabeça exposta ao sol, carminavam-se-lhe as faces, e recolhia a pingar sangue pelo nariz. Á noite a Josepha, quando o deitava, chegava-lhe vinagre ao nariz e aos pulsos; e, apalpando-lhe o ventre, achava-lhe sempre uma pontinha de febre. Este facto entristecia-a.</p>
+<p>-- És um pelem, meu filho! -- dizia-lhe no outro dia, olhan\-do o pequeno com piedosa ternura.</p>
+<p>No inverno, constipava-se frequentemente. E em quanto a Magdalena, forte, robusta, sadia, com as bochechas rosadas e luzidias como uma maçã madura, brincava fóra, chapinando nas poças do caminho, o Simão ficava em casa, muito enroupado, friorento, agachado a um canto junto da mãe.</p>
+<p>Pela volta dos oito annos, o pequeno principiou a andar muito triste. Não queria brincar. Até então, era elle o companheiro inseparavel da Magdalena e dos filhos da Joaquina do Espinhal. Logo que principiava a nascer nos campos o centeio, o Simão preparava as palheiras com o visco, collocava-as em sitio apropriado, e escondido com os amigos entre as giestas dos vallados, espreitava d'ali que os pardaes cahissem. Jogava o eixo e o botão com os rapazes que sahiam da escola. A Magdalena preferia-o a todos. Não a largava nunca; e se o Simão, nas duvidas do jogo, se pegava com alguns rapazes mais alentados, Magdalena punha-se da banda d'elle, e arremettia valentemente.</p>
+<p>Mas o Simão principiou a não querer sahir. Ia a Magdalena para a rua, e ficava elle sósinho em casa, encostado á janella, vendo a brincar de dentro dos vidros. Andava muito pallido e murcho; e, se se encostava sobre uma caixa, adormecia.</p>
+<p>-- Tu tens morrinha, rapaz -- dizia-lhe a Josepha assustada e afflicta. -- Tu, que te doe, menino?</p>
+<p>O rapaz não se queixava; mas a Josepha não tinha socego.</p>
+<p>Foi um dia de manhã, quando o Simão almoçava ao pé de Magdalena, que a Josepha reparou que elle engolia o pão com esforço. Chamou-o logo junto de si, e apalpou-lhe o pescoço. Sob a pressão dos dedos sentiu a dureza dos ganglios enfartados por detraz das orelhas.</p>
+<p>-- Tens humores frios, filho! -- exclamou ella com uma voz dilacerante. -- Doe-te?</p>
+<p>As duas crianças, ao verem a cara assustada e afflictiva da mãe, desataram ambas uma risada.</p>
+<p>-- Não doe nada, não, minha mãe -- asseverava elle.</p>
+<p>N'esse mesmo dia, a Josepha vestiu-lhe camisa lavada e o melhor fato, e foi com elle a casa do padrinho.</p>
+<p>-- A Lena não vem? -- perguntava o Simão com pena de a deixar só.</p>
+<p>Pelo caminho, a idéa da separação aterrava-o.</p>
+<p>-- Eu não torno a ver a Lena, minha mãe? -- insistia elle, virando para a Josepha os olhos supplicantes.</p>
+<p>Ao chegarem a casa de D. Bernardo, a mulher explicou o motivo da visita.</p>
+<p>-- O pequeno sahiu enfezadito, meu senhor. Anda triste, come pouco, e agora veja v. ex.ª</p>
+<p>E expunha aos olhos do fidalgo o cachaço rubro e inchado do rapaz.</p>
+<p>-- Apalpe aqui. Vê v. ex.ª? O rapazinho padece de humores frios.</p>
+<p>D. Bernardo apalpou; e, ao ver ali o engeitado, com a carita muito pallida, magro, abatido, com a tristeza melancolica das crianças doentes o que é como um presentimento da morte, teve sincera commiseração.</p>
+<p>-- Leve-o de meu mando ao cirurgião -- disse elle. -- E o que receitar, que lh'o aviem na botica por minha conta.</p>
+<p>E quando a Josepha ia a sahir chamou-a atraz.</p>
+<p>-- Olhe, mulherzinha; e precisando de mais alguma coisa appareça por aqui.</p>
+<p>O cirurgião receitou ferruginosos e banhos do mar.</p>
+<p>Por esse tempo, recebeu D. Bernardo uma carta da irmã freira, dizendo que o medico lhe prescrevera o uso de banhos do mar. Para não incommodar o mano, tinha indagado no recolhimento se alguma senhora iria ás praias; mas, infelizmente, nenhuma ia! Era uma desgraça!</p>
+<p>Respondeu o morgado que pedisse a mana ao sr. arcebispo licença para sahir e iria elle acompanhal-a á Povoa de Varzim, logo que findassem as vindimas. Accrescentava que levaria comsigo um engeitado seu afilhado, que padecia de escrofulas. Recommendava-lhe que pedisse saude e a graça de Deus, que trabalhos e canceiras não faltavam n'este mundo!</p>
+<p>No meado de outubro, por um tempo secco, mas um pouco frio dos ventos outomniços, appareceu na Tojeira a irmã do fidalgo seguida de uma criada velha.</p>
+<p>Resolveram partir na madrugada do dia seguinte para a Povoa.</p>
+<p>Na vespera, antes de se deitar, esteve a Josepha a apertar n'uma pequena trouxa a roupinha do engeitado.</p>
+<p>-- Tu porta-te bem, Simão -- recommendava-lhe ella. -- Olha que aquelles fidalgos são os teus bemfeitores. Ouviste?</p>
+<p>O pequeno ouvia-a sem poder falar. Sentia comprimida a garganta e os olhos embaciados de lagrimas. Passou quasi toda a noite em claro. A idéa da separação proxima fazia o chorar copiosamente.</p>
+<p>Escondia a cabeça debaixo do lençol; e alli, collado á parede, chorava e soluçava baixinho, com receio de acordar a Lena. Só muito tarde, prostrado pela commoção, é que adormeceu.</p>
+<p>Rompia a luz da madrugada pelas frinchas da janella, quando a Josepha se levantou. Chegou-se á cama do pequeno, abanou-o e acordou-o.</p>
+<p>-- Simão, ó Simão!</p>
+<p>O rapaz ergueu-se atarantado.</p>
+<p>-- Veste-te, filho. Anda, que são horas.</p>
+<p>O Simão saltou abaixo da cama, e principiou a vestir-se de vagar, atordoado, sem dar tino do que fazia.</p>
+<p>A Josepha ajudava-o com o coração opprimido, mas fingindo não comprehender a tortura do pequeno.</p>
+<p>-- Não faças bulha, que acordas a Lena -- recommendou ella a meia voz.</p>
+<p>Mas do leito da mãe, a Lena ouviu e respondeu:</p>
+<p>-- Eu não durmo, minha mãe.</p>
+<p>E sentou-se na cama, para se vestir á pressa.</p>
+<p>Quando o pequeno estava vestido e prompto, a Josepha sobraçou a trouxa, e disse resolutamente:</p>
+<p>-- Vamos, filho, vamos.</p>
+<p>A Lena tambem queria ir.</p>
+<p>A mãe oppoz-se, dizendo que estava a manhã muito fria. Lena desatou a chorar, voltada para o lado.</p>
+<p>Na occasião que a Josepha abriu a porta da casa para sair, o Simão ficou um momento hesitante e ancioso. Appro\-ximou-se da Magdalena; e, com um sorriso contrafeito, como a querer suster as lagrimas, despediu-se com uma voz suffocada:</p>
+<p>-- Adeus, Lena.</p>
+<p>A pequena não respondeu. Com as costas voltadas para elle, immovel no meio do quarto, encolheu os hombros.</p>
+<p>-- Adeus, Lena -- repetiu elle mais alto e a chorar.</p>
+<p>Então a pequena, n'uma grande effusão de ternura, lan\-çando-lhe os braços ao pescoço, beijou-o repetidas vezes:</p>
+<p>-- Adeus, Simão.</p>
+<p>E quando o engeitado ia já longe, pelo atalho fóra, ao lado da mãe, Magdalena da porta da casa seguia-o com os olhos cheios de lagrimas e dizia-lhe baixinho adeus, acenando com a mão:</p>
+<p>-- Adeus, Simão! Adeus!</p>
+<p>A familia da Tojeira esteve um mez a banhos na Povoa de Varzim. Habitava uma casa pequena na rua da Junqueira. A sr.ª D. Leonarda levantava-se de madrugada, e ia para a praia, seguida da criada e do Simão.</p>
+<p>Nos primeiros dias, o pequeno sentiu um horror extraordinario pelo mar.</p>
+<p>Entrava na barraca a tremer e a chorar, pedindo a Deus que o matasse!</p>
+<p>A sr.ª D. Leonarda, a sós com elle, falava-lhe com aspereza e de sobrecenho carregado. O rapazito reprimia as primeiras lagrimas, e ouvia-a com submissão e humildade.</p>
+<p>-- Pois o sr. D. Bernardo e eu -- gritava a freira -- a termos toda a caridade por ti, e tu, ingrato, ainda choras!</p>
+<p>E, como Simão, com a cabecinha baixa como um réo convicto, principiasse a soluçar, e as lagrimas lhe cahissem em fio, D. Leonarda indignada, levantava a voz e gesticulava convulsa:</p>
+<p>-- Tu porque choras, rapaz? Ingrato! -- e, olhando sobre o hombro, observava com ironica piedade: -- Sempre has de mostrar que és filho do peccado!</p>
+<p>Diante de extranhos, no grupo das senhoras que lhe falavam, a freira de S. Salvador mudava de tom. Tinha uma voz meliflua, vagarosa, e, dando aos olhos uma feição terna, dizia do rapaz:</p>
+<p>-- É um engeitadinho, que o mano protege. Elle é que o não merece! -- accrescentava D. Leonarda, azedando a voz. -- É muito ingrato! Ah! nem v. ex.^as fazem idéa! Depois, quasi confidencialmente, explicava:</p>
+<p>-- Sempre estes desgraçados hão de mostrar que vieram a este mundo contra a vontade de Nosso Senhor!</p>
+<p>Simão ouvia isto sem levantar os olhos. De volta para casa, a freira não cessava de o reprehender.</p>
+<p>Um dia, na ausencia de D. Bernardo, D. Leonarda, durante o almoço, esteve constantemente a gritar ao pequeno. Simão, sentado defronte, ouvia-a silencioso, sorvendo o café a pequeninos golos. D. Leonarda, no auge da sua irritação, gritou-lhe:</p>
+<p>-- Levanta a cabeça, rapaz! Deixa o café. O rapazinho poisou logo a chicara e o pão, engoliu com esforço o bocado que mastigava, e deixou pender os braços.</p>
+<p>Não pôde comer mais.</p>
+<p>Os unicos momentos felizes durante o mez que esteve na Povoa eram os que passava na varanda da casa, depois do jantar, em quanto D. Bernardo e D. Leonarda dormiam a sesta. Na cosinha, a criada, sentada n'uma cadeira junto da janella que deitava para uma horta, cabeceava. Simão atravessava então o corredor em bicos de pés, e ia debruçar-se no peitoril da varanda, distraido a ver na rua a concorrencia de banhistas. A vista da gente da aldeia alegrava-o. Todas as raparigas da altura da Magdalena, vistas de longe, lhe pareciam a irmã. -- Se fosse! -- pensava elle. Estava uma tarde muito entretido a olhar um saltimbanco que trabalhava no largo da fonte, quando ouviu que o chamavam da rua. Era a Joaquina do Espinhal. O pequeno, assim que a reconheceu, sentiu o coração pular-lhe de jubilo. A Joaquina perguntou-lhe como estava, e deu-lhe muitas saudades da Lena.</p>
+<p>-- Tu ainda te lembras d'ella? -- perguntava a visinha.</p>
+<p>Elle respondia affirmativamente e ficava muito vermelho, quasi a chorar. Pediu á Joaquina que esperasse um instante. Foi ao quarto em que dormia, tirou d'uma gaveta a medalha do Bom Jesus, que lhe dera D. Leonarda, e desceu com ella á rua para a enviar á irmã.</p>
+<p>Logo que sahiu a porta, D. Leonarda assomou á varanda. Observou de cima o pequeno entregar á vizinha a medalha que lhe tinha dado. Teve um accesso de indignação, e esteve para gritar, mas conteve-a a idéa do escandalo.</p>
+<p>Quando a mulher se separou, a freira berrou para baixo ao Simão, que tinha ficado parado á porta da rua:</p>
+<p>-- Ó rapaz! Sobe!</p>
+<p>E mostrou-lhe tamanha indignação nos olhos arregalados, que o pequeno subiu as escadas a tremer, e a supplicar baixinho de mãos postas:</p>
+<p>-- Ai! minha Nossa Senhora! Valei-me, que ella mata-me!</p>
+<p>Apenas chegou ao patamar, D. Leonarda inquiriu com voz ameaçadora:</p>
+<p>-- Quem te deu licença de entregares áquella mulher a medalha que te dei?</p>
+<p>E, como o pequeno não respondesse, applicou-lhe uma bofetada com tamanha violencia, que o fez cambalear e cahir para traz, batendo com a cabeça na esquina do degráo.</p>
+<p>-- Pedaço de maroto! -- rosnava a freira convulsa. -- Levan\-ta-te!</p>
+<p>E fitava os olhos coruscantes sobre o Simão, sem reparar que elle ficára ali, sem sentidos, estendido sobre o patamar, com um fio de sangue a escorrer-lhe da nuca!</p>
+<p>O engeitado esteve oito dias de cama, com assistencia de facultativo. Havia receio de que ao abalo da queda sobreviesse uma meningite. Se se declarasse, dizia o medico, o caso era grave e podia ser fatal!</p>
+<p>Ao cahir da tarde, accommettia-o uma febre intensa, que o fazia delirar. N'essas crises, deitado de costas; com as faces affogueadas e os olhos muito brilhantes e fixos n'um ponto vago, o doente falava e gesticulava, proferindo repetidas vezes o nome da mãe e da Lena. D. Bernardo, sentado ao lado, perguntava-lhe com voz carinhosa:</p>
+<p>-- Tu que dizes?</p>
+<p>Simão, como se despertasse no meio d'um pezadello, voltava os olhos para D. Bernardo, e estremecia.</p>
+<p>-- Tu que queres, Simão? -- insistia o fidalgo, apalpando-lhe a fronte esbrazeada.</p>
+<p>O pequeno recuava para o fundo da cama, assustado, com os olhos espantados e a tremer.</p>
+<p>-- Não quero a senhora -- balbuciava elle tranzido e a chorar. -- Ella mata-me! Ai! eu quero a minha mãe! Ó meu padrinho, a senhora mata-me.</p>
+<p>E segurava com força a mão de D. Bernardo, olhando para a porta com terror da presença da freira.</p>
+<p>D. Bernardo, no dia em que o pequeno foi castigado, censurára a brutalidade da irmã.</p>
+<p>-- Não são modos de tratar as crianças, mana -- tinha elle dito.</p>
+<p>D. Leonarda replicou com azedume; e, quando D. Bernardo lhe pediu que se calasse, a freira retirou-se da sala com modo altivo, resmungando pelo corredor:</p>
+<p>-- Eu já o presumia! Bem me quiz parecer que para afilhado, era muito amor!</p>
+<p>Denunciára-se a freira! A suspeita de que o engeitado fosse filho do irmão tinha-a sobresaltado. Nutrira sempre a esperança de ficar herdeira universal da casa da Tojeira. Á primeira noticia da existencia do afilhado, todos os seus calculos ambiciosos se abalaram. Teve o receio instinctivo do mendigo, que vê concorrente á mesma porta! Recebeu o pequeno com fingida ternura e piedade, mal podendo conter, mais tarde, o rancor que a sua presença lhe inspirava.</p>
+<p>Quando reparou que elle estava desmaiado aos seus pés, a escorrer sangue, assaltou-a um sentimento de terror, julgando que o tinha morto. Chamou em altos brados pela criada, que appareceu no mesmo instante. O rapaz foi transportado em braços para o leito. Ao chegar D. Bernardo a casa, a criada referiu o que tinha succedido, desculpando a senhora da melhor maneira que pôde.</p>
+<p>-- Onde está a sr.ª D. Leonarda? -- perguntou o morgado com ar grave e carrancudo.</p>
+<p>-- Está no quarto -- respondeu a velha. -- A senhora tambem ficou doente. Isto abalou-a muito.</p>
+<p>Ao quarto dia a febre remittiu. Os receios do facultativo desvaneceram-se. No fim de uma semana, o doente sahiu da cama para uma cadeira da sala.</p>
+<p>Caminhava amparado ao braço do padrinho, muito desfallecido de forças, pallido e tremulo. A freira via então o pequeno duas vezes por dia. Falava-lhe sem rancor, mas visivelmente constrangida.</p>
+<p>Durante a enfermidade, a tal ponto D. Bernardo se affeiçoou ao afilhado, que passava os dias sentado junto d'elle, conversando e lendo-lhe d'alto as noticias dos jornaes.</p>
+<p>-- Quando voltarmos para a terra -- dizia-lhe elle -- has de tambem aprender a ler. Queres?</p>
+<p>-- Quero, meu padrinho -- respondia o Simão.</p>
+<p>Um instante depois, perguntava:</p>
+<p>-- E a Lena?</p>
+<p>-- A Lena tambem ha de aprender como tu.</p>
+<p>Á noitinha, logo depois do toque das "ave-marias", a Josepha chegava á porta a chamar os filhos, que andavam fóra a brincar.</p>
+<p>-- Venham estudar, que é noite.</p>
+<p>E accendia a candeia, que pendurava n'um gancho da parede superior a uma meza de pinho. Sentava-se depois ao lado, com a roca mettida á cinta, a fiar.</p>
+<p>Como a mestra curava mais de ensinar ás discipulas a meia e a costura, pondo em ultimo logar a leitura e a escripta, o Simão, em poucos dias, adiantou-se na lição á Magdaena. Por isso era elle quem, estudada a sua, ensinava a lição á irmã. Debruçados sobre o mesmo livro, com as cabeças chegadas uma á outra, Simão ia apontando com o dedo as syllabas que Magdalena soletrava:</p>
+<p>-- "Ma-ri-nha."</p>
+<p>E erguia os olhos do livro, hesitante, fitando-os em Simão, que a animava risonho.</p>
+<p>-- Marinha -- dizia a pequena. O Simão irradiava de jubilo.</p>
+<p>-- Bem! -- exclamava elle. -- Agora para diante.</p>
+<p>Então apparecia uma palavra enorme, que era um martyrio para Magdalena. Era ainda o Simão que a auxiliava amorosa e pacientemente, Fazendo-a reter bem as primeiras syllabas. Diziam simultaneamente:</p>
+<p>-- "Na-tu-ra-li-da-de."</p>
+<p>E se a Magdalena dizia bem, o Simão, n'um impeto de contentamento, tomava-lhe a cabeça entre as mãos, e beijava-a na testa.</p>
+<p>-- Muito bem, Lena, muito bem!</p>
+<p>No dia seguinte, sahiam de casa juntos para a escola. Mettiam por um atalho aberto no meio d'um pinhal. Era um caminho triste e sombrio, com um chão humido e molle todo sulcado pelas rodas dos carros e murado d'ambos os lados pelos taludes barrentos, onde, no inverno, escorriam as chuvas. Acabava n'um terreno baixo desmoutado e areiento, ao qual vinham dar as aguas d'um regueiro. Á tardinha vinha ali beber uma revoada de pombas brancas. Mais adiante, o caminho bifurcava-se pelo meio de campos de milho. Junto ao portão d'uma quinta murada havia um grande sobreiro, a cujo tronco estava arrumada uma pedra tosca coberta de musgo requeimado. Era ali que os dois pequenos tinham de se separar, mettendo Magdalena por uma azinhaga, onde ficava a mestra-regia, e Simão por outro lado, na direcção da escola dos rapazes. Nunca o faziam, porém, sem se sentarem algum tempo a conversar. N'esses instantes Simão contava á irmã os acontecimentos da Povoa de Varzim. Magdalena ouvia-o muito attenta, com os olhos abertos, que se embaciavam de lagrimas nos lances mais commoventes.</p>
+<p>-- Eu perguntava sempre á mãe quando tu vinhas -- dizia Magdalena, enxugando os olhos nas costas da mão. -- Não gostava de estar sem ti. Olha Simão -- pedia ella, lançando-lhe um braço sobre os hombros -- agora, nunca mais has de ir embora, não?</p>
+<p>-- Quem sabe lá! -- respondia o engeitado, incerto do futuro, muito triste, com os olhos fitos n'um grupo de arvores, que havia defronte...</p>
+<p>Ás vezes, no inverno, quando um aguaceiro os surprehendia no caminho, corriam a abrigar-se debaixo d'aquella arvore. Ficavam ambos ali, muito achegados ao tronco, e tão esquecidos e abstractos, que nem davam tino da chuva que escorria dos ramos -- como os dois namorados vistos por Diderot!</p>
+<p>Decorreram assim tres annos.</p>
+<p>Magdalena já costurava e bordava com tal perfeição, que era o espanto das visinhas. Quando a Josepha mostrou uma toalha de linho bordada pela filha, para ser offerecida ao fidalgo da Tojeira, a Joaquina do Espinhal levantou nos braços a rapariga, beijou a na bocca e exclamou:</p>
+<p>-- És uma rosa, Magdalena! Louvado seja Deus! Tens umas mãos, que são uma riqueza!</p>
+<p>O Simão lia correntemente, escrevia com boa caligraphia, sabia as quatro operações, e até já auxiliava o mestre. Era o decurião da aula. Os discipulos mais venturosos eram ensinados por elle, propenso sempre á complacencia e ao perdão, em quanto os desafortunados se viam nas mãos do sr. mestre, um velhote estupido e rabujento, que se vingava das horrendas miserias a que o lançavam os governos relapsos no calote, macerando as mãosinhas tenras das crianças com estrondosas palmatoadas!</p>
+<p>Um domingo, na occasião em que os freguezes da missa sahiam da egreja para o adro, o mestre-escola foi ao encontro de D. Bernardo, que vinha da porta lateral da sachristia, e deu-lhe do afilhado as melhores informações. Era uma grande cabeça que ali se perdia, se o deixassem seguir a lavoura -- dizia elle. O pequeno, além d'isso, era fraco e doente; e parece que estava talhado para seguir a vida ecclesiastica.</p>
+<p>D. Bernardo recolheu a casa, pensando no que o mestre lhe dissera. Era realmente preciso tratar do futuro do afilhado. Se a vocação o não contrariasse, a vida tranquilla de sacerdote era a que mais se coadunava com as qualidades physicas do pequeno. Passados dois dias chamou-o a jantar comsigo. No fim, perguntou-lhe se queria ser padre. O pequeno não respondeu. Poz-se a correr entre os dedos a dobra da toalha, com os olhos no prato e sem proferir palavra.</p>
+<p>-- Queres, ou não queres? -- insistiu D. Bernardo.</p>
+<p>-- Não, senhor -- respondeu o pequeno a medo.</p>
+<p>Desejava seguir uma vida que o não affastasse da Magdalena. O fidalgo discordou. Ponderou com palavras carinhosas que era preciso seguir uma carreira que o fizesse um homem de bem. Elle que o mandára á escola, não era de certo para o deixar ficar assim, sem um modo de vida...</p>
+<p>-- Não, -- disse D. Bernardo -- se não queres ser padre, ninguem te fórça. Serás outra coisa. Mas previne a tua mãe de que para a semana has de ir para Braga.</p>
+<p>O pequeno desatou a chorar.</p>
+<p>-- Não chores -- disse-lhe D. Bernardo, que se recordava das scenas da Povoa -- não chores. Vaes para um collegio de meninos como tu; e nas ferias vae tua mãe buscar-te para vires á terra!</p>
+<p>A proposito, e para desanuvear o coração do afilhado, contou-lhe varias brincadeiras do seu tempo de collegial.</p>
+<p>Simão foi acompanhado pela Josepha a casa do padre Barreiros, na rua da Conega, em Braga. A mulher entregou uma carta do fidalgo da Tojeira. O padre montou os oculos, e leu a recommendação do seu amigo e antigo protector.</p>
+<p>-- Muito bem -- disse no fim, retirando os oculos, e dobrando a carta. -- Então, este pequeno é o afilhado do sr. D. Bernardo?</p>
+<p>-- É, meu senhor -- respondeu a Josepha.</p>
+<p>-- E é seu filho? -- perguntou o padre.</p>
+<p>A Josepha hesitou na resposta. Olhou para o pequeno, e disse baixinho:</p>
+<p>-- Elle é engeitado; mas quem o criou fui eu.</p>
+<p>Na tarde d'esse mesmo dia o Simão entrava como alumno interno no collegio de Jesuitas do "Campo das hortas".</p>
+<p>Foi recebido carinhosamente pelo director -- um homem alto, rubicundo, vestido com uma ampla batina de clerigo. O padre Barreiros mostrou a carta do fidalgo da Tojeira, e accrescentou:</p>
+<p>-- O meu amigo é um dos membros mais valiosos do partido do sr. D. Miguel! Este pequeno é seu afilhado; e, pelos modos, o sr. D. Bernardo dedica-o aos estudos.</p>
+<p>Os primeiros dias foram uma nova tortura para o pobre coração do engeitado! Andava pelos cantos da casa a chorar. A cada momento, chegava-se ás janellas, e detinha-se a contemplar a paizagem. Faziam-lhe inveja os homens que trabalhavam no campo. Procurava ver entre o arvoredo o caminho por onde viera para Braga, e ia seguindo quasi instinctivamente a estrada, que ora se perdia encoberta pela ramaria dos carvalhos, ora surgia em retalho n'uma clareira para apparecer depois ao longe, ondeando pela encosta acima, muito branca entre a verdura do monte!...</p>
+<p>Mas ao terceiro dia, o director chamou-o ao quarto, e entregou-lhe um pacote de livros, batendo-lhe carinhosamente na cara. Recommendou-lhe que estudasse muito.</p>
+<p>-- Ouviste? Para seres agradavel a Deus, Nosso Senhor, e aos teus paes.</p>
+<p>O Simão retirou-se vivamente commovido. A idéa de que tinha de estudar todos aquelles livros, despertava-lhe na alma um agradavel sentimento de orgulho!</p>
+<p>Nas ferias do Natal, o padre Barreiros foi buscal-o ao collegio, e enviou-o para a terra, muito recommendado a um almocreve, que passava perto da Tojeira. O pequeno não cabia em si de contente! Caminhava ao lado do recoveiro, revendo com immenso prazer os sitios por onde tinha passado mezes antes, quando viera para o collegio. Ia impaciente! A cada passo perguntava:</p>
+<p>-- Agora já devemos estar perto? O almocreve dizia:</p>
+<p>-- Ainda temos muito que andar.</p>
+<p>E continuavam os dois pela estrada fóra, sem dizerem palavra. O almocreve, segurando no sovaco a arreata do primeiro macho da recova, caminhava n'um passo regular, assobiando. O Simão ia ao lado. A perspectiva triste e melancolica da paizagem n'uma manhã fria de dezembro tinha para elle encantos indefinidos! As arvores despidas da folhagem, os campos sem verdura, o ceo baixo e ennevoado, toda aquella desolação do inverno apresentava-se a elle com um aspecto risonho e seductor!</p>
+<p>-- Ainda temos muito caminho a andar? -- tornava elle ancioso.</p>
+<p>O almocreve respondia:</p>
+<p>-- Vê o menino além aquella ermida, que fica na chapada? pois em lá chegando, já póde ver o telhado da casa do fidalgo da Tojeira.</p>
+<p>Era ainda uma boa meia hora de caminhada! Quando iam a dobrar uma curva da estrada, Simão soltou um grito de alegria, e deitou a correr para a frente. Ao longe, vinha a Lena ao lado da mãe para o esperarem no caminho. A pequena correu tambem; e apenas se encontraram, abraçaram-se os dois n'uma grande expansão de ternura!</p>
+<p>O pequeno teve umas ferias deliciosas. O padrinho tinha recebido excellentes informações dos padres do collegio. O alumno era intelligente, estudioso e bem comportado.</p>
+<p>-- Se tiveres sempre juizo -- recommendava-lhe D. Bernardo satisfeito -- podes ainda vir a ser um doutor! Queres?</p>
+<p>O Simão não respondia. Ruborisava-se todo e, olhando para Lena, que assistia ao lado, sorriam-se os dois!</p>
+<p>Na vespera de voltar Simão para Braga, a Lena deu-lhe uma pequenina cruz de metal suspensa d'uma fita verde.</p>
+<p>-- Toma -- disse, ella, pondo-lhe a fita ao pescoço. -- É a cruz de Nosso Senhor, que eu beijo sempre ao deitar. Não te esqueças de fazer o mesmo, não, Simão?</p>
+<p>N'esse dia, um mez depois das ferias, o director, antes de terminarem as autos, mandou reunir na grande sala d'estudo todo o collegio. Ao lado d'elle collocaram-se os professores e os prefeitos. O director subiu ao estrado, e pronunciou de lá um longo discurso, falando em amor de Deus, em humildade, em dedicação ao estudo, em obediencia a mestres, e superiores! Os alumnos, agglomerados na vasta sala, ouviam silenciosamente, n'uma compostura grave, com os braços cahidos ao longo do corpo. Ia distribuir-se um premio a um estudante, que pela sua applicação, pela sua intelligencia e pelo seu comportamento exemplar, se tornava digno d'aquelia distincção honrosa!</p>
+<p>O director fez uma pausa, e em seguida proferiu com voz cheia e solemne o nome do alumno distincto:</p>
+<p>-- Simão Ferreira, filho de...</p>
+<p>E, como na registo não houvesse designação de nome dos paes, emendou:</p>
+<p>-- Natural de S. Silvestre.</p>
+<p>O Simão sahiu d'entre a multidão, muito vermelho e commovido, adiantando-se na sala com um passo hesitante. O director fel-o subir ao estrado; e, collocando a mão sobre a cabeça do pequeno, proferiu ainda uma breve allocução laudatoria, e entregou-lhe um livro encadernado em marroquim azul com letras doiradas no frontispicio. Os professores bateram palmas, abraçaram o estudante; e Simão atravessou por entre os condiscipulos no meio d'uma saudação enthusiastica!</p>
+<p>Á tarde, quando estava no recreio, um criado veiu chamal-o para ir á presença do sr. director. Ao entrar na sala, Simão viu ao lado do director o padre Barreiros. Tinham ambos um ar sombrio e pesado. O director, logo que o pequeno entrou, disse-lhe pausadamente, pondo-lhe uma mão no hombro:</p>
+<p>-- Meu filho! O sr. padre Barreiros acaba de me annunciar a morte do teu padrinho...</p>
+<p>O Simão fez-se pallido, e volveu para o padre os olhos marejados de lagrimas.</p>
+<p>-- Morreu hontem de repente -- disse o padre Barreiros.</p>
+<p>-- Por isso -- continuou o director -- vaes-te vestir para ires com o sr. padre Barreiros. Não sei se voltarás para o collegio, meu filho. Se não vieres, lembra-te sempre dos teus amigos, e continua a ser obediente e trabalhador.</p>
+<p>O pequeno tinha o presentimento vago de que na sua vida aquelle acontecimento funesto devia ser de alta importancia. Ficou meio atordoado, como se viesse de assistir a uma catastrophe!</p>
+<p>Que iriam fazer d'elle, sem o auxilio do seu padrinho?</p>
+<p>Esteve dois dias mettido em casa do padre Barreiros. Ao cabo d'esse tempo, o padre disse-lhe, durante o jantar, que o sr. D. Bernardo tinha morrido repentinamente, sem deixar testamento.</p>
+<p>Simão mal comprehendia o alcance d'aquella revelação; mas, pelo modo como o padre falava, pareceu-lhe que era de gravidade o caso.</p>
+<p>-- Procurei a mana no convento -- proseguiu o padre Bar\-reiros -- e perguntei-lhe se queria continuar a proteger-te. Disse-me que o não fazia, por ora, sem saber o valor da sua casa. Ahi tens tu, Simão, como estão as coisas! Por isso, entendo que deves procurar outro modo de vida. Tens hoje treze annos, sabes ler, escrever e contar, um bocado de francez e de latim. Deves seguir o commercio para, em pouco tempo, poderes proteger a mãe que te criou, que ha de carecer do teu amparo. Queres?</p>
+<p>De todas as considerações feitas pelo padre, Simão concluiu apenas que estava desamparado, e que era preciso trabalhar! Disse que sim, que fizesse o sr. padre Barreiros o que entendesse.</p>
+<p>No dia immediato, o padre Barreiros foi procurar um sobrinho estabelecido com loja de ferragens na "Fonte da Corcova", e offereceu-lhe o pequeno. O ferragista annuiu; mas declarou logo que o facto do rapaz ter andado no collegio «era o diabo»! Elle preferia os que sahiam das aldeias, sujeitos a toda a casta de trabalhos. Emfim, uma vez que o tio queria...</p>
+<p>Simão entrou para a loja ao anoitecer. O patrão falou-lhe com ar carrancudo, tratando-o por tu, e dando-lhe a entender que, se o recebia, era por ser do agrado do tio. Simão não respondeu.</p>
+<p>O tratamento grosseiro e aspero do patrão e do caixeiro mais velho da loja, a rudeza do trabalho, as condições pessimas do quarto em que dormia, sem luz, com pouco ar, entre quatro paredes humidas e pegajosas, a lida continua desde o amanhecer ate á noite, transformaram em pouco tempo o pobre rapaz, como se o minasse uma doença grave. Tinha perdido a côr sadia e a vontade de comer. Dormia mal, sobresaltado por aquella subita mudança nos habitos da sua vida! O patrão obrigava-o a trabalhos pesados; e, quando o via fraquejar sob o pezo das grandes cargas de ferragem, gritava-lhe: -- Anda, avia-te! Quem não póde, arreia! Não sei de que te serve a comida!</p>
+<p>E outras brutalidades, que melindravam e aviltavam o pequeno.</p>
+<p>De uma vez, chamou-o para pesar n'uma grande balança, que havia ao fundo da loja, n'um armazem escuro e frio, umas canastras de fechaduras. Simão, com o suor a escorrer-lhe na testa, segurava a cesta d'um lado, o patrão do outro, e, a um impulso simultaneo, collocavam-n'a sobre o prato da balança. Á terceira carga, o pequeno não pôde mais, e deixou cahir das mãos a canastra. O patrão deu um salto, e applicou-lhe dois pontapés valentes, dados com a biqueira do tamanco. Simão principiou a chorar.</p>
+<p>-- Mexe-te -- berrava o ferragista -- mexe-te, ou levas outros!</p>
+<p>Na madrugada do dia seguinte, quando o caixeiro o foi acordar para ir para a loja, Simão queixou-se d'uma forte dôr de cabeça, e pediu-lhe que o deixassem ficar na cama. Logo que o patrão appareceu, o caixeiro disse-lhe que o rapaz estava doente.</p>
+<p>-- Eu lá vou! -- rosnou ameaçador o ferragista; e entrou no quarto do rapaz, ordenando que se levantasse immedia\-tamente. -- Eu tiro-te o mimo, meu menino! -- dizia elle ao pequeno. -- O que tu tens é ronha, grande mandrião!</p>
+<p>Simão ergueu-se a tremer de frio. Vestiu-se á pressa, e desceu para a loja, adiante das ameaças e injurias do patrão. Passado um instante, vendo que o caixeiro se tinha ausentado, levantou a porta do mostrador, e fugiu para a rua. O patrão, que o avistara do fundo do armazem, saltou fóra, e veiu agarral-o por uma orelha no "Campo da vinha". Quando se viu preso, Simão julgou-se perdido. Foi levado para casa, perseguido de successivos pontapés. Umas mulheres que passavam, pararam na rua, ao ver a furia do homem, e compadecidas do rapazinho, que, a cada momento se voltava para traz, pedindo perdão com as mãos postas:</p>
+<p>-- Perdôe ao rapazinho -- imploravam ellas segurando o ferragista. -- Perdôe-lhe por esta vez. sr. José.</p>
+<p>O ferragista, porém, era implacavel.</p>
+<p>Chegado a casa, subiu com o rapaz a uma sala do andar superior, fel-o despir a jaqueta e as calças, pegou n'um junco, e gritou-lhe pallido e tremulo de raiva:</p>
+<p>-- Ajoelhe-se, e peça perdão!</p>
+<p>Simão cahiu de joelhos no sobrado, e ergueu as mãos.</p>
+<p>-- Agora -- disse o ferragista -- vamos ao correctivo.</p>
+<p>E, com o junco vibrado com toda a força, principiou a vergastar as costas do rapaz. Simão retrahia-se d'encontro á parede, clamando por soccorro. O patrão enfurecia-se mais aos brados do padecente, e, cego de indignação, quasi sem respirar, n'um impeto convulso de fera, saltou sobre o rapaz a bater-lhe com tanta violencia, que o fez cahir no chão, soltando gritos afflictivos, com as costas retalhadas e a escorrer em sangue!</p>
+<p>O patrão cançado e offegante abriu então a porta da sala, e sahiu.</p>
+<p>Simão, quando se viu só, ergueu-se d'um impeto, desceu á pressa as escadas, e saltou para a rua a gritar. Ao dar meia duzia de passos, cahiu extenuado sobre o lagedo do passeio.</p>
+<p>Reuniu-se muita gente em volta d'elle. As mulheres, em grande alarido, davam "morras!" contra o malfeitor.</p>
+<p>Alguns homens tentaram levantar do chão o pequeno; mas as mulheres oppozeram-se. Uma d'ellas retirou um lençol d'uma trouxa que levava á cabeça, e embrulhou n'elle o rapazito.</p>
+<p>-- Matem este patife! -- gritavam as mulheres raivosas, com as lagrimas a saltarem-lhes dos olhos. -- Matem!</p>
+<p>A multidão crescia. Logo que constou no mercado, quasi todas as vendedeiras acudiram a ver. O Simão ia já levado nos braços d'uma, com a cabeça pendente no hombro d'ella, quando d'entre o povo, que seguia atraz, se ouviu este grito dilacerante:</p>
+<p>-- Ai! que elle é o meu filho!</p>
+<p>E uma pobre mulher da aldeia correu para elle afflicta com os braços abertos. Era a Josepha, que, n'esse dia, tinha vindo a Braga. Andava a mercar na feira umas camisolas, que ia levar ao filho. Ao ouvir os clamores do mulherio, adiantou-se para ver. Pobre mulher!</p>
+<p>Tomou ella o Simão nos braços; e, perdida pela afflicção, caminhava á toa, sem destino, lamentando que lhe tinham matado o filho do seu coração.</p>
+<p>-- Leve-o ao hospital -- disseram as mulheres que a acompanhavam.</p>
+<p>Atravessaram as ruas, seguidas da multidão, que ia engrossando de cada vez vez mais, ate ao largo dos Remedios. Chegadas ao hospital de S. Marcos, a Josepha entrou só, subindo as escadas a chorar. O facultativo fez deitar o pequeno, observou-lhe as contusões do corpo, e disse:</p>
+<p>-- O homem que fez isto deve ser preso!</p>
+<p>O pequeno só cobrou os sentidos, quando lhe applicaram as compressas de arnica sobre os vergões. Principiou a gemer, e a chamar pela mãe.</p>
+<p>-- Eu estou aqui, Simão -- dizia a Josepha debruçando-se sobre elle. -- Não chores, meu filho.</p>
+<p>-- Eu morro, minha mãe -- dizia o pequeno, segurando-lhe as mãos, e levantando para ella os olhos supplicantes e cheios de lagrimas.</p>
+<p>O povo, que acompanhou o Simão ao hospital, desandou em grande turba para casa do ferragista. Ali, ajuntou-se a um magote, que estava já estacionado á porta. O patrão tinha desapparecido da loja. Ao canto do balcão, o caixeiro, muito assustado pelo aspecto ameaçador da gente, não se mexia.</p>
+<p>-- Morra o patife! -- gritou uma mulher.</p>
+<p>-- Morra! repetiram as outras.</p>
+<p>E a multidão cresceu sobre a loja.</p>
+<p>Foi precisa a intervenção da auctoridade, reclamada pelos visinhos do ferragista.</p>
+<p>O administrador appareceu seguido do escrivão e de alguns policias, e ordenou ao povo que se dispersasse.</p>
+<p>-- Não sahimos, sem que o malvado seja preso -- berrou um operario face a face ao administrador.</p>
+<p>O agente da auctoridade entrou na loja. Passado pouco tempo a policia foi reforçada pela cavallaria, que conseguiu dispersar o ajuntamento. E, logo em seguida, o ferragista, pallido, a tremer, olhando assustado para os dois lados da rua, atravessou-a a correr, entre policias, para dar entrada na cadeia!</p>
+<p>No outro dia de manhã, o medico do hospital mandou collocar o biombo em volta da cama do Simão.</p>
+<p>-- Está a manifestar-se a congestão -- explicou elle baixo á enfermeira.</p>
+<p>Os outros doentes da enfermaria, quando viram o medico falar confidencialmente, olharam uns para os outros, desconfiados, com um ar abatido e triste. Ao longo de toda a sala havia um grande silencio, percursor do silencio frio da morte. Os serventes do hospital atravessavam por entre as filas das camas em bicos de pés.</p>
+<p>Ás nove horas, a enfermeira acendeu as velas de cêra de dois tocheiros, que ladeavam a imagem do Senhor crucificado, ao fundo da sala. Em seguida aproximou-se do leito do Simão. Estava deitado de costas, com os olhos fixos já meio embaciados... Respirava com oppressão; e a bocca entre-aberta formava-lhe um traço escuro na pallidez cadaverica do rosto.</p>
+<p>-- Quer alguma coisa? -- disse-lhe a enfermeira ao ouvido.</p>
+<p>-- A minha mãe? -- perguntou baixo o moribundo.</p>
+<p>-- Ainda não veiu.</p>
+<p>Houve uma grande pausa.</p>
+<p>-- Quando ella vier -- pediu o Simão com uma voz debil -- se eu tiver morrido, dê-lhe a cruz que tenho ao pescoço; sim?</p>
+<p>Parou um instante para respirar, e accrescentou:</p>
+<p>-- É para a Lena.</p>
+<p>A enfermeira tentou animal-o, dizendo-lhe que elle havia de melhorar.</p>
+<p>Simão fez um leve sorriso de descrença, e respondeu:</p>
+<p>-- Eu bem sei que morro... Ouvi o medico dizel-o ha pouco... Ai! já me falta o ar! Oh! minha mãe!</p>
+<p>Quando a Josepha chegou á porta do hospital, o sino da capella começava a tocar a agonia!</p>
+<p>A enfermeira esperou-a no patamar, e disse-lhe que o filho estava a morrer. Havia então na sala um silencio lugubre! Alguns enfermos, sentados no leito, murmuravam orações, com as mãos postas em supplica. Ouvia-se, de quando em quando, um gemido que partia do biombo.</p>
+<p>A Josepha foi direita á cama do Simão. Estava a expirar! Ainda reconheceu a mãe; porque, fixando n'ella os olhos quasi apagados, procurou com anciedade a Lena. Como a não visse, rebentaram-lhe duas grossas lagrimas, e murmurou baixinho:</p>
+<p>-- Adeus!</p>
+<p>E estremeceu todo, exhalando o ultimo alento n'uma aspiração tremula, como um suspiro de alivio!</p>
+<p>Coimbra, fevereiro de 1884.</p>
+</div>
+</body>
+</text>
+</TEI>
