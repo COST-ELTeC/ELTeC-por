@@ -59,11 +59,10 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-02-05">Nada</change>
+<change when="2019-09-15">A codificação das cartas</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
-
 <front>
 <div type="titlepage"><head>Herança de lágrimas</head>
 <p>Romance original</p>
@@ -72,14 +71,12 @@
 <p>Guimarães</p>
 <p>Redacção do Vimaranense - Editora Typ. do Vimaranense </p>
 </div>
+<div type="liminal"><head>Herança de lágrimas</head>
+<p xml:lang="fra">«Les femmes s'imaginent être des anges et avoir reçu du ciel la mission et la puissance de sauver tous ces don Juan; mais comme l'ange de la légende, elles ne les convertissent pas, et elles se perdent avec eux».</p>
+</div>
 </front>
 <body>
-<div type="liminal"><head>Herança de lágrimas</head>
-<foreign>
-<p>«Les femmes s’imaginent être des anges et avoir reçu du ciel la mission et la puissance de sauver tous ces don Juan; mais comme l’ange de la légende, elles ne les convertissent pas, et elles se perdent avec eux».</p>
-<p>George Sand—Lélia</p>
-</foreign>
-</div><div type="chapter"><head>I</head>
+<div type="chapter"><head>I</head>
 <p>DIANNA DE SEPULVEDA A HENRIQUETA D’AGUIAR</p>
 <p>Eis-me, pois, caminho de Lisboa, minha querida Henriqueta. Pediste-me uma descripção minuciosa dos pequenos incidentes d’uma jornada de trinta e tantas legoas, e dos abalos, enlevos, ou fastios do meu coração. D’este coração de que a tua graciosa e feliz bacharelice diz coisas tão feias, até descrer da sua individualidade, excepto quando o sentes pulsar junto do teu seio. Sou eu responsavel, mereço as accusações que me diriges, se algumas das fibras da minha alma se conservam fechadas no seu involtorio de gelo ? O que eu não sei ainda bem, minha amiga, é se isto é um mal que me faz padecer, ou um bem que me poupa a grandes magoas. Todavia, forçoso é confessal-o, a minha alma tem anceios de curiosas experiencias. Deus negou-me um dos attributos felizes da humanidade: as alegrias infinitas da paixão reciproca, os arrobos mysteriosos do amor exaltado, dizes tu, e com razão. Concordo comtigo, e quizera sentil-o; sentil-o, como eu o comprehendo.</p>
 <p>D’aqui nascem estes secretos enfados que me atormentam a existencia, estes desesperos tantas vezes disfarçados n’um sorriso d'amarga ironia ao meu destino. Crêr que existe para todas as creaturas um mundo de luz embriagadora, e viver nas minhas trevas!...  Aqui, ao lado d’este homem que me chama sua desde os dezoito annos, e a quem o mundo denomina meu ! Meu ! Pertence-me como o aleijão pertence ao rachitico de nascença, que debalde tenta lançar fóra de si a carga pezada e odiosa.</p>
@@ -454,7 +451,8 @@
 <p>Não é isto a demover-te da resolução em que estás: não. Tu ficas sendo para mim o symbolo d’uma nova religião. Creio na virtude; adoro-te, anjo immaculado!</p>
 <p>Depois d’isto sabes o que me fica? A fé em Deus; mais nada.</p>
 <p>Temos á vista o curioso manuscripto enviado por Dianna de Sepulveda á sua amiga. Entendemos, porem, dar-lhe a forma narrativa como mais agradavel ao leitor, e de melhor feição para expor os lances e episodios d’um amor infeliz e mal galardoado, como o são todos aquelles que a sociedade repulsa de si com ignominia.</p>
-<p>SEGUNDA PARTE</p>
+</div>
+<div type="chapter"><head>SEGUNDA PARTE</head>
 <p>Esforça-te santa mulher, que choras!</p>
 <p>Serás dos bemaventurados de quem fallou</p>
 <p>Christo, o amador das lagrimas ».</p>
@@ -1074,7 +1072,7 @@
 <p>Cumprira-se a justiça... de Deus ou dos homens?</p>
 <p>Sabe agora o leitor que Dianna de Sepulveda, avisada por esta lugubre narrativa, pôde sondar o abysmo em que ia despenhar-se, e bemdizer o amor sublime, o unico amor grandioso na terra; o amor que ainda d’alem tumulo lhe apontava um exemplo salvador; aquelle amor, emfim, santo e abençoado de mãe!</p>
 <p>Oxalá que estas lições da desgraça servissem para abrir os olhos a alguma d’essas almas desvairadas que por ventura lesse e meditasse as verdades que encerra esta historia, cujos personagens não são ainda todos mortos.</p>
-<p>O amor é o atomo que gira um momento; è um raio de sol que se perde no espaço para sempre.</p>
+<p>O amor é o atomo que gira um momento; é um raio de sol que se perde no espaço para sempre.</p>
 </div>
 </body>
 <back>
