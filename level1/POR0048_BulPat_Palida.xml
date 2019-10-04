@@ -20,22 +20,13 @@
 <sourceDesc>
 <bibl type="digitalSource">
 <ref target="https://literaturabrasileira.ufsc.br/documentos/?id=223096"/>
-<author>Raimundo António de Bulhão Pato</author>
-<title>Digressões e novelas</title>
-<publisher>NuPiLL</publisher>
-<pubPlace></pubPlace>
-<date></date>
 </bibl>
-<bibl>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="firstEdition">
 <title>Digressões e novelas</title>
 <author>Raimundo António de Bulhão Pato</author>
 <publisher>Typographia universal</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1864</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
