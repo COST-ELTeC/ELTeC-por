@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >A pálida estrela: edição ELTeC</title>
+<title >A pálida estrela: edição para o ELTeC</title>
 <author>Bulhão Pato, Raimundo António de (1828-1912)</author>
 <respStmt>
 <resp>ElTeC encoding</resp>
@@ -15,18 +15,18 @@
 <measure unit="words">12499</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>23 de setembro de 2019</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2019-09-23</date>. </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
+<ref target="https://literaturabrasileira.ufsc.br/documentos/?id=223096"/>
 <author>Raimundo António de Bulhão Pato</author>
 <title>Digressões e novelas</title>
 <publisher>NuPiLL</publisher>
-<pubPlace>Lisboa</pubPlace>
-<date>1864</date>
+<pubPlace></pubPlace>
+<date></date>
 </bibl>
 <bibl>
-<ref>Obtida em <date>setembro de 2019 </date></ref>
 <relatedItem type="sourceEdition">
 <bibl>
 <title>Digressões e novelas</title>
@@ -52,7 +52,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
 </textDesc>
 
