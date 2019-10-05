@@ -7,11 +7,11 @@
         <title>Noites de Cintra</title>
         <author>Pimentel, Alberto (1849-1925)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
-       <name></name>
+           <resp>Criação do HTML original</resp>
+       <name>Pedro Saborano</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -19,22 +19,28 @@
 <measure unit="words">31778</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>6 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-06</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
+<bibl type="digitalSource">
      <title>Project Gutenberg EBook Noites de Cintra, de Alberto Pimentel</title>
      <ref target="http://www.gutenberg.org/ebooks/34719"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>Noites de Cintra</title>
+</bibl>
+<bibl type="firstEdition">
+        <title>Noites de Cintra</title>
+       <author>Alberto Pimentel</author>
+       <publisher>Parceria António Maria Pereira</publisher>
+       <pubPlace>Lisboa</pubPlace>
+       <date>1892</date>
+       </bibl>
+<bibl type="printSource">
+         <title>Noites de Cintra, 2.a edição</title>
        <author>Alberto Pimentel</author>
        <publisher>Parceria António Maria Pereira</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1908</date>
-       </bibl>
-     </relatedItem> 
+
   </bibl>
 </sourceDesc>
 </fileDesc>
@@ -51,8 +57,8 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
 </profileDesc>
