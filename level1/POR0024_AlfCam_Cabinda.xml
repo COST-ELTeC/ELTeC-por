@@ -4,14 +4,14 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>A filha do Cabinda</title>
+        <title>A filha do Cabinda: Edição para o ELTeC</title>
         <author>Campos, Alfredo (1847-1906)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -19,23 +19,21 @@
 <measure unit="words">27681</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>9 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-09</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>Project Gutenberg EBook A filha do Cabinda, de Alfredo Campos</title>
+<bibl type="digitalSource">
+      <title>Project Gutenberg EBook A filha do Cabinda, de Alfredo Campos</title>
      <ref target="http://www.gutenberg.org/ebooks/21961"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
        <title>A filha do Cabinda</title>
        <author>Alfredo Campos</author>
        <publisher>Porto Editores, Peixoto &amp; Pinto Júnior</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1873</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
