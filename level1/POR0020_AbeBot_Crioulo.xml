@@ -4,14 +4,14 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Amor crioulo</title>
+        <title>Amor crioulo: Edição para o ELTeC</title>
         <author>Botelho, Abel (1854-1917)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Rita Farinha</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -19,23 +19,21 @@
 <measure unit="words">80661</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>4 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-04</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>Project Gutenberg EBook Amor crioulo de Abel Botelho</title>
+<bibl type="digitalSource">
+      <title>Project Gutenberg EBook Amor crioulo de Abel Botelho</title>
      <ref target="http://www.gutenberg.org/ebooks/24919"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>Amor crioulo</title>
+</bibl>
+<bibl type="firstEdition">
+        <title>Amor crioulo</title>
        <author>Abel Botelho</author>
        <publisher>Livraria Chardron de Lélo e Irmão</publisher>
        <pubPlace></pubPlace>
        <date>1917</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -51,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 </textDesc>
 
