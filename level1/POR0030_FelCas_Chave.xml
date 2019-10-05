@@ -4,14 +4,14 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>A chave do enigma</title>
+        <title>A chave do enigma: Edição para o ELTeC</title>
         <author>Castilho, António Feliciano de (1800-1875)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -19,23 +19,26 @@
 <measure unit="words">47982</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>15 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date> 2018-11-15</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
+<bibl type="digitalSource">
      <title>Project Gutenberg EBook A chave do enigma</title>
      <ref target="http://www.gutenberg.org/ebooks/32002"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
+       <title>A chave do enigma</title>
+       <author>António Feliciano de Castilho</author>
+       <date>1861</date>
+       </bibl>
+<bibl type="printSource">
        <title>A chave do enigma</title>
        <author>António Feliciano de Castilho</author>
        <publisher>Empreza da História de Portugal, Sociedade Editora, Livraria Moderna</publisher>
        <pubPlace>Lisboa</pubPlace>
-       <date>1903 (1861)</date>
+       <date>1903</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -51,7 +54,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
 </textDesc>
 
@@ -64,9 +67,9 @@
 <front>
 <div type="titlepage"><head>A chave do enigma</head>
 <p>"Áquella que já não sente, pendura com mão tremula n'um ramo do seu cipreste esta pequena corôa"</p>
-<p>                                                      "O Autor."</p>
+<p>"O Autor."</p>
 <p>A CHAVE DO ENIGMA</p>
-<p>                                                       Dezembro de 1861</p>
+<p>Dezembro de 1861</p>
 <p>Digam embora que me biographei; vou escrever uma pagina da minha vida.</p>
 <p>Se mais ninguem a lêr, lêl-a-hão os meus amigos. Ella tambem, êrma de interesses grandes, desenfeitada de estilo, e só attendivel, se o fôr, por verdade e affecto, aspira unicamente a captivar a attenção dos poucos para quem um murmurio de folhas n'um retiro de estio, e de vez em quando uns gorgeios ou pios de duas aves que se entrereclamam emboscadas, supprem conversações, leituras, e até pensar.</p>
 <p>Emfim, se nem para os meus intimos valer o que eu tenho de bosquejar, muito saudoso de tempos que lá vão, ficará sendo só para mim, e para quem m'o inspirou; ¡ah! quem m'o inspirou já m'o não póde lêr, mas por ventura o ouve. Será um devaneio, e um solilóquio; será uma folha sôlta de uma deliciosa arvore longinqua, hospedeira minha ha muitos dias; folha que uma viração despegou, volveu nos ares, me atirou á fronte, e me lançou aos pés, para ahi fenecer esquecida.</p>

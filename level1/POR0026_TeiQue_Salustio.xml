@@ -4,14 +4,14 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>O Salústio Nogueira</title>
+        <title>O Salústio Nogueira: Edição para o ELTeC</title>
         <author>Queirós, Teixeira de (1848-1919)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Adeliana Silva</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Adeliana Silva</name>
          <name>Diana Santos</name>
       </respStmt>
@@ -20,23 +20,28 @@
 <measure unit="words">110206</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>7 de maio de 2019</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2019-05-07</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>O Salústio Nogueira</title>
+<bibl type="digitalSource">
+      <title>O Salústio Nogueira</title>
      <ref target="http://www.gutenberg.org/ebooks/23400"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>O Salústio Nogueira</title>
+</bibl>
+<bibl type="printSource">
+       <title>O Salústio Nogueira, 2.a edição</title>
        <author>Teixeira de Queirós</author>
        <publisher>Parceria António Maria Pereira -- Livraria Editora</publisher>
        <pubPlace>Lisboa</pubPlace>
-       <date>1909 (2.a edição)</date>
+       <date>1909</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
+<bibl type="firstEdition">
+       <title>O Salústio Nogueira</title>
+       <author>Teixeira de Queirós</author>
+       <publisher></publisher>
+       <pubPlace></pubPlace>
+       <date>1883</date>
+</bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -52,7 +57,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 

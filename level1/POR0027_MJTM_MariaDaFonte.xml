@@ -4,16 +4,16 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Um conto portuguez</title>
+        <title>Um conto portuguez: Edição para o ELTeC</title>
         <title level="s">episódio da guerra civil: a Maria da Fonte</title>
         <author>Mascarenhas, Miguel J. T. (?)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Manuela Alves</name>
        <name>Pedro Saborano</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -21,23 +21,21 @@
 <measure unit="words">58236</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>12 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-12</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
+<bibl type="digitalSource">
      <title>Project Gutenberg EBook Um conto portuguez: episódio da guerra civil: a Maria da Fonte</title>
      <ref target="http://www.gutenberg.org/ebooks/25313"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>Um conto portuguez: episódio da guerra civil: a Maria da Fonte</title>
+</bibl>
+<bibl type="firstEdition">
+        <title>Um conto portuguez: episódio da guerra civil: a Maria da Fonte</title>
        <author>Miguel J. T. Mascarenhas</author>
        <publisher>Typographia Lusitana</publisher>
        <pubPlace>Porto</pubPlace>
        <date>1873</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 

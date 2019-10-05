@@ -7,11 +7,11 @@
         <title>>A senhora viscondessa</title>
         <author>Lima, Sebastião de Magalhães (1850-1928)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -19,23 +19,21 @@
 <measure unit="words">26305</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>13 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-13</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
+<bibl type="digitalSource">
      <title>Project Gutenberg EBook A senhora viscondessa</title>
      <ref target="http://www.gutenberg.org/ebooks/24710"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
        <title>A senhora viscondessa</title>
        <author>S. de Magalhães Lima</author>
        <publisher>Imprensa Commercial e Industrial</publisher>
        <pubPlace>Coimbra</pubPlace>
        <date>1875</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
