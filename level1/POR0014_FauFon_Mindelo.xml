@@ -7,13 +7,13 @@
         <title>Os Bravos do Mindelo</title>
         <author>Fonseca, Faustino da (1871-1918)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
        <name>Christine P. Travers</name>
        <name>Online Distributed Proofreading Team</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -21,23 +21,21 @@
 <measure unit="words">49151</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>27 de abril de 2019</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2019-04-27</date>. </p>
 </publicationStmt>
 
-  <sourceDesc>
-  <bibl>
+<sourceDesc>
+<bibl type="digitalSource">
      <title>Project Gutenberg EBook Os Bravos do Mindello</title>
      <ref target="http://www.gutenberg.org/ebooks/21290"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
        <title>Os Bravos do Mindello</title>
        <author>Faustino da Fonseca</author>
        <publisher>Livraria Editora Viuva Tavares Cardoso</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1906</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -53,7 +51,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 </textDesc>
 
