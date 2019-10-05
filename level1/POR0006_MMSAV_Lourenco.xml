@@ -7,7 +7,7 @@
 <title >O Cura de São Lourenço</title>
 <author>Vasconcelos, M.M.S.A. e (?-1893)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
+<resp>Codificação segundo as normas do ELTeC</resp>
 <name>Adeliana Silva</name>
 <name>Diana Santos</name>
 </respStmt>
@@ -16,20 +16,18 @@
 <measure unit="words">51316</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>26 de abril de 2019</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2019-04-26</date>. </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
-<title>Biblioteca Nacional de Portugal</title>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="digitalSource">
+<publisher>Biblioteca Nacional de Portugal</publisher>
+</bibl>
+<bibl type="firstEdition">
 <title>O Cura de São Lourenço</title> 
 <author>M.M.S.A. e Vasconcelos</author>
 <publisher></publisher>
 <pubPlace></pubPlace> 
 <date>1855</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
