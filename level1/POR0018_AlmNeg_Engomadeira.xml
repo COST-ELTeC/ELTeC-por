@@ -8,11 +8,11 @@
 <title  level="s">novela vulgar lisboeta</title>
         <author>Almada Negreiros, José Sobral (1893-1970)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Vasco Salgado</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -20,23 +20,21 @@
 <measure unit="words">13227</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>4 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-04</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>Project Gutenberg EBook A engomadeira de Almada Negreiros</title>
+<bibl type="digitalSource">
+      <title>Project Gutenberg EBook A engomadeira de Almada Negreiros</title>
      <ref target="http://www.gutenberg.org/ebooks/23879"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>A engomadeira</title>
+</bibl>
+<bibl type="firstEdition">
+        <title>A engomadeira</title>
        <author>José de Almada Negreiros</author>
        <publisher>Typographia Monteiro &amp; Cardoso</publisher>
        <pubPlace></pubPlace>
        <date>1917</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -52,7 +50,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
