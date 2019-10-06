@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Noites de Cintra</title>
+        <title>Noites de Cintra: Edição para o ELTeC</title>
         <author>Pimentel, Alberto (1849-1925)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
@@ -19,7 +19,7 @@
 <measure unit="words">31778</measure>
 </extent>
 <publicationStmt>
-<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-06</date>. </p>
+<p> </p>
 </publicationStmt>
 
   <sourceDesc>
@@ -63,7 +63,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-09-20">DMS fixed up header</change> 
+<change when="2018-11-06">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 

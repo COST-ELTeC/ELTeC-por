@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>A Rosa do Adro</title>
+        <title>A Rosa do Adro: Edição para o ELTeC</title>
         <author>Rodrigues, Manuel Maria (1847-1899)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
@@ -19,7 +19,7 @@
 <measure unit="words">59170</measure>
 </extent>
 <publicationStmt>
-<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-09</date>. </p>
+<p> </p>
 </publicationStmt>
 
   <sourceDesc>
@@ -55,7 +55,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-09-20">Nada</change> 
+<change when="2018-11-09">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 
