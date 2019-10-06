@@ -4,11 +4,18 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >Inocente</title>
+<title >Inocente: Edição para o ELTeC</title>
 <author>Castro e Almeida, Virgínia de (1874-1945)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Adeliana Silva</name>
+  <resp>Criação do HTML original</resp>
+       <name>André Rodrigues</name>
+       <name>Alina Abbasova</name>
+       <name>Fátima Pereira</name>
+       <name>Rita Magalhães</name>
+       <name>Ângela Correia</name>
+       </respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
@@ -17,10 +24,10 @@
 <measure unit="pages">97</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>5 de fevereiro de 2019</date>. </p>
+<p>  </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
 <author>Virginia de Castro e Almeida</author>
 <title>Innocente</title>
 <publisher>Bibliotrónica Portuguesa</publisher>
@@ -28,12 +35,12 @@
 <pubPlace>Lisboa</pubPlace>
 <date>2016</date>
 </bibl>
-<bibl>
-<title>Edição de André Rodrigues, Alina Abbasova, Fátima Pereira, Rita Magalhães, Coordenação de Ângela Correia</title>
-<ref>Obtida em <date> novembro de 2018 </date></ref>
-<relatedItem type="sourceEdition">
-<bibl>Almeida, Virginia de Castro. Lisboa, 1916. Livraria Clássica Editora</bibl>
-</relatedItem>
+<bibl type="firstEdition">
+<author>Virginia de Castro e Almeida</author>
+<title>Innocente</title>
+<pubPlace>Lisboa</pubPlace>
+<publisher>Livraria Clássica Editora</publisher>
+<date>1916</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -45,18 +52,18 @@
 
 <profileDesc>
 <langUsage>
-<language ident="pt-PT">português</language>
+<language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-02-05">Nada</change>
+<change when="2019-02-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

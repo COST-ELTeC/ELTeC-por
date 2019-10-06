@@ -7,30 +7,32 @@
 <title >Elle</title>
 <author>Campos, Claudia de (1859-1916)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Adeliana Silva</name>
-<name>Diana Santos</name>
+  <resp>Criação do HTML original</resp>
+  <name>Adeliana Silva</name>
+</respStmt>
+<respStmt>
+  <resp>Codificação segundo as normas do ELTeC</resp>
+  <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
 <extent>
 <measure unit="words">50386</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>5 de fevereiro de 2019</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
-<title>Digitalização realizada a partir de três exemplares da obra existentes no Arquivo Municipal de Sines</title>
-<ref target="http://www.sines.pt/cmsines/uploads/writer_file/document/943/Elle_-_Claudia_de_Campos.pdf"/>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="digitalSource">
 <title>Elle: com o retracto da autora. 1ª edição</title> 
-<author>Campos, Cláudia de</author>
-<publisher> Livraria Editora de Carlos Tavares e Irmão</publisher>
+<publisher>Arquivo Municipal de Sines</publisher>
+<ref target="http://www.sines.pt/cmsines/uploads/writer_file/document/943/Elle_-_Claudia_de_Campos.pdf"/>
+</bibl>
+<bibl type="firstEdition">
+<title>Elle: com o retracto da autora. 1ª edição</title> 
+<author>Cláudia de Campos</author>
+<publisher>Livraria Editora de Carlos Tavares e Irmão</publisher>
 <pubPlace>Lisboa</pubPlace> 
 <date>1899</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -42,18 +44,18 @@
 
 <profileDesc>
 <langUsage>
-<language ident="pt-PT">português</language>
+<language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-02-05">Nada</change>
+<change when="2019-02-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

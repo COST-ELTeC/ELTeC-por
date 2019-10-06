@@ -4,11 +4,14 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >Henriqueta</title>
+<title >Henriqueta: Edição para o ELTeC</title>
 <author>Sousa, Maria Peregrina de (1809-1886)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Adeliana Silva</name>
+  <resp>Criação do HTML original</resp>
+  <name>Adeliana Silva</name>
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
@@ -16,20 +19,20 @@
 <measure unit="words">19172</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>8 de fevereiro de 2019</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
-<title>Biblioteca Nacional de Portugal</title>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="digitalSource">
+<title>Henriqueta</title> 
+<author>Maria Peregrina de Sousa</author>
+<publisher>Biblioteca Nacional de Portugal</publisher>
+</bibl>
+<bibl type="firstEdition">
 <title>Henriqueta</title> 
 <author>Maria Peregrina de Sousa</author>
 <publisher>Editor António Leite Cardozo Pereira de Mello</publisher>
 <pubPlace></pubPlace> 
 <date>1867</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -52,7 +55,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-02-05">Nada</change>
+<change when="2019-02-08">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
