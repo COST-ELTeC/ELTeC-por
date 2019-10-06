@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >Infaustas Aventuras de Mestre Marçal Estouro: edição para o ELTeC</title>
+<title >Infaustas Aventuras de Mestre Marçal Estouro: Edição para o ELTeC</title>
 <title  level="s">Vítima duma paixão</title>
 <author>Leal, José da Silva Mendes (1818-1886)</author>
 <respStmt>
@@ -38,7 +38,7 @@
 <bibl type="printSource">
 <title>Infaustas Aventuras de Mestre Marçal Estouro: Vítima duma paixão</title>
 <author>José da Silva Mendes Leal</author>
-<publisher> Livraria de A. M. Pereira - Editor</publisher>
+<publisher>Livraria de A. M. Pereira - Editor</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1871</date>
 </bibl>
@@ -52,7 +52,7 @@
 
 <profileDesc>
 <langUsage>
-<language ident="pt-PT">português</language>
+<language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>

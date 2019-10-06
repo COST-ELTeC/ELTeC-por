@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >A ermida de Castromino</title>
+<title >A ermida de Castromino: Edição para o ELTeC</title>
 <author>Vasconcellos, Antonio Augusto Teixeira de (1816-1878)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -51,7 +51,7 @@
 
 <profileDesc>
 <langUsage>
-<language ident="pt-PT">português</language>
+<language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
