@@ -4,15 +4,15 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Os filhos do padre Anselmo</title>
+        <title>Os filhos do padre Anselmo: Edição para o ELTeC</title>
         <author>Albergaria, António da Costa Couto Sá de (1850-1921)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
        <name>Rita Farinha</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -24,19 +24,17 @@
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>Project Gutenberg EBook Os filhos do padre Anselmo</title>
+<bibl type="digitalSource">
+      <title>Project Gutenberg EBook Os filhos do padre Anselmo</title>
      <ref target="http://www.gutenberg.org/ebooks/24625"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>Os filhos do padre Anselmo</title>
+</bibl>
+<bibl type="firstEdition">
+        <title>Os filhos do padre Anselmo</title>
        <author>António da Costa Couto Sá de Albergaria</author>
        <publisher>Livraria Chardron</publisher>
        <pubPlace>Porto</pubPlace>
        <date>1904</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -52,13 +50,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-11-15">Nada</change> 
+<change when="2018-11-20">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

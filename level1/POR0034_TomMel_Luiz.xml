@@ -4,17 +4,17 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>O Conde de S. Luiz</title>
+        <title>O Conde de S. Luiz: Edição para o ELTeC</title>
         <author>Melo, Tomaz de (1836-1905)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Júlio Reis</name>
        <name>Carlo Traverso</name>
        <name>Leonor Silva</name>
        <name>Online Distributed Proofreading Team</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -26,19 +26,22 @@
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>Project Gutenberg EBook O Conde de S. Luiz</title>
+<bibl type="digitalSource">
+      <title>Project Gutenberg EBook O Conde de S. Luiz</title>
      <ref target="http://www.gutenberg.org/ebooks/28928"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
        <title>O Conde de S. Luiz</title>
        <author>Tomaz de Melo</author>
        <publisher>Empreza da História de Portugal</publisher>
        <pubPlace>Lisboa</pubPlace>
-       <date>1903 (1874)</date>
+       <date>1903</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
+<bibl type="firstEdition">
+       <title>O Conde de S. Luiz</title>
+       <author>Tomaz de Melo</author>
+       <date>1874</date>
+</bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -54,13 +57,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-11-15">Nada</change> 
+<change when="2018-11-21">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

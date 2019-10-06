@@ -4,14 +4,14 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Transviado</title>
+        <title>Transviado: Edição para o ELTeC</title>
         <author>Lima, Jayme de Magalhães (1859-1936)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -23,19 +23,17 @@
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>Project Gutenberg EBook Transviado</title>
+<bibl type="digitalSource">
+      <title>Project Gutenberg EBook Transviado</title>
      <ref target="http://www.gutenberg.org/ebooks/25945"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
        <title>Transviado</title>
        <author>Jayme de Magalhães Lima</author>
        <publisher>Empreza Editora, Livraria Moderna</publisher>
        <pubPlace></pubPlace>
        <date>1899</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -51,13 +49,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-11-15">Nada</change> 
+<change when="2018-11-20">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
