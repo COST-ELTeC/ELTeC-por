@@ -7,6 +7,10 @@
 <title >A pálida estrela: edição para o ELTeC</title>
 <author>Bulhão Pato, Raimundo António de (1828-1912)</author>
 <respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Diana Santos</name>
+</respStmt>
+<respStmt>
 <resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
 </respStmt>
@@ -19,6 +23,8 @@
 </publicationStmt>
 <sourceDesc>
 <bibl type="digitalSource">
+<author>Raimundo António de Bulhão Pato</author>
+<title>Digressões e novelas</title>
 <ref target="https://literaturabrasileira.ufsc.br/documentos/?id=223096"/>
 </bibl>
 <bibl type="firstEdition">
@@ -49,7 +55,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-04-03">Adicionei a data correta</change>
+<change when="2019-09-23">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

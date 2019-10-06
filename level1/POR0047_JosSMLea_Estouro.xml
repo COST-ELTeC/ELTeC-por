@@ -4,39 +4,43 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >Infaustas Aventuras de Mestre Marçal Estouro</title>
+<title >Infaustas Aventuras de Mestre Marçal Estouro: edição para o ELTeC</title>
 <title  level="s">Vítima duma paixão</title>
 <author>Leal, José da Silva Mendes (1818-1886)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Diana Santos</name>
+  <resp>Criação do HTML original</resp>
+  <name>Diana Santos</name>
+</respStmt>
+<respStmt>
+  <resp>Codificação segundo as normas do ELTeC</resp>
+  <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
 <extent>
 <measure unit="words">56765</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>13 de agosto de 2019</date>. </p>
+<p>  </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
 <author>José da Silva Mendes Leal</author>
 <title>Infaustas Aventuras de Mestre Marçal Estouro</title>
-<publisher>Archive.org</publisher>
-<pubPlace></pubPlace>
-<date></date>
+<ref target="https://archive.org/details/infaustasaventur00silv/"/>
 </bibl>
-<bibl>
-<ref>Obtida em <date>julho de 2019 </date></ref>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="firstEdition">
+<title>Infaustas Aventuras de Mestre Marçal Estouro: Vítima duma paixão</title>
+<author>José da Silva Mendes Leal</author>
+<publisher></publisher>
+<pubPlace></pubPlace>
+<date>1862</date>
+</bibl>
+<bibl type="printSource">
 <title>Infaustas Aventuras de Mestre Marçal Estouro: Vítima duma paixão</title>
 <author>José da Silva Mendes Leal</author>
 <publisher> Livraria de A. M. Pereira - Editor</publisher>
 <pubPlace>Lisboa</pubPlace>
-<date>1871, 2.a edição (1.a edição 1862)</date>
-</bibl>
-</relatedItem>
+<date>1871</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -59,7 +63,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-04-03">Adicionei a data correta</change>
+<change when="2019-08-13">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

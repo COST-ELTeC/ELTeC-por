@@ -8,8 +8,11 @@
 <title  level="s">Romance histórico (1808-1865)</title>
 <author>Barata, António Francisco (1836-1910)</author>
 <respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Vanda Morgado</name>
+</respStmt>
+<respStmt>
 <resp>Codificação segundo as normas do ELTeC</resp>
-<name>Vanda Morgado</name>
 <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
@@ -17,7 +20,7 @@
 <measure unit="words">72321</measure>
 </extent>
 <publicationStmt>
-<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2019-10-05</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
 <bibl type="digitalSource">
@@ -53,7 +56,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-09-20">Nothing</change>
+<change when="2019-10-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

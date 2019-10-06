@@ -1,41 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0046" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >Os selvagens</title>
+<title>Os selvagens</title>
 <author>Amorim, Francisco Gomes de (1827-1891)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Diana Santos</name>
+  <resp>Criação do HTML original</resp>
+  <name>Diana Santos</name>
+</respStmt>
+<respStmt>
+  <resp>Codificação segundo as normas do ELTeC</resp>
+  <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
 <extent>
 <measure unit="words">54747</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>4 de agosto de 2019</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
 <author>Francisco Gomes de Amorim</author>
 <title>Os selvagens</title>
-<publisher>Archive.org</publisher>
-<pubPlace></pubPlace>
-<date></date>
+<ref target="https://archive.org/details/osselvagens00gome/"/>
 </bibl>
-<bibl>
-<ref>Obtida em <date>julho de 2019 </date></ref>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="firstEdition">
 <title>Os selvagens</title>
 <author>Francisco Gomes de Amorim</author>
 <publisher>Livraria Editora de Mattos Moreira &amp; C.a</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1875</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -47,18 +44,18 @@
 
 <profileDesc>
 <langUsage>
-<language ident="pt-PT">português</language>
+<language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-04-03">Adicionei a data correta</change>
+<change when="2019-08-04">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
