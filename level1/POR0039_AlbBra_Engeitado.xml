@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0039" xml:lang="pt">   
 <teiHeader >
 <fileDesc>
 <titleStmt>
 <title >O Engeitado: Edição para o ELTeC</title>
 <author>Braga, Alberto Alberto Leal Barradas Monteiro (1851-1911)</author>
-        <respStmt>
-           <resp>Criação do HTML original</resp>
-       <name>Pedro Saborano</name>
-       </respStmt>
+<respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Pedro Saborano</name>
+</respStmt>
 <respStmt>
 <resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
@@ -18,7 +19,7 @@
 <measure unit="words">8266</measure>
 </extent>
 <publicationStmt>
-<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>3 de julho de 2019</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
 <bibl type="digitalSource">
@@ -122,10 +123,8 @@
 <p>-- Quem sabe lá, sr. D. Bernardo! Nem talvez a propria mãe! Isto hoje, meu senhor, o mundo vae todo assim!</p>
 <p>D. Bernardo, quando se offerecia ensejo gostava de chalacear.</p>
 <p>-- Pois, abbade -- replicou elle -- pae tem a criança; salvo se ellas fazem como as egoas de Virgilio, lembra-se?</p>
-<foreign>
-<p>".......................et saepe sine ullis"       </p>
-<p>"Conjugiis vento gravidae (mirabile dictu!)"</p>
-</foreign>
+<p xml:lang="la">".......................et saepe sine ullis"       </p>
+<p xml:lang="la">"Conjugiis vento gravidae (mirabile dictu!)"</p>
 <p>O pequeno recebeu na pia baptismal o nome de Simão. Foi o que occorreu á lembrança do padrinho, que tivera assim chamado outro afilhado, morto de meningite uma semana depois de baptisado.</p>
 <p>D. Bernardo da Cunha era um velho celibatario, egoista e avarento. Assignava a "Nação" e o "Bem Publico"; mas lia o "Primeiro de Janeiro", que lhe dava a cotação exacta dos fundos portuguezes.</p>
 <p>Por tradições de familia, dizia-se legitimista, com quanto na sua consciencia os correligionarios enthusiastas e crentes não passassem d'um "bando de visionarios".</p>
