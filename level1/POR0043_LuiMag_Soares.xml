@@ -7,35 +7,40 @@
 <title >O Brasileiro Soares</title>
 <author>Magalhães, Luís de (1859-1935)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
+  <resp>Criação do HTML original</resp>
+<name>Adeliana Silva</name>
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
 </respStmt>
+</titleStmt>
 </titleStmt>
 <extent>
 <measure unit="words">39730</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>4 de julho de 2019</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>4 de julho de 2019</date>. </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
 <author>Luís de Magalhães</author>
 <title>O Brasileiro Soares</title>
 <publisher>Biblioteca Nacional de Portugal</publisher>
-<pubPlace></pubPlace>
+<pubPlace>Lisboa</pubPlace>
 <date>2019</date>
 </bibl>
-<bibl>
-<ref>Obtida em <date>maio de 2019 </date></ref>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="firstEdition">
+<title>O Brasileiro Soares</title>
+<author>Luís de Magalhães</author>
+<date>1886</date>
+</bibl>
+<bibl type="printSource">
 <title>O Brasileiro Soares</title>
 <author>Luís de Magalhães</author>
 <publisher>Imprensa Nacional - Casa da Moeda</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1981</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -52,13 +57,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-04-03">Adicionei a data correta</change>
+<change when="2019-07-04">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

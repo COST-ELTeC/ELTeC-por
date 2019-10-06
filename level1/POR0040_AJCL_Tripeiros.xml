@@ -4,15 +4,15 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Os tripeiros</title>
+        <title>Os tripeiros: Edição para o ELTeC</title>
 	<title level="s">Crónica do século XIV</title>
         <author>Lousada, António José Coelho (1828-1859)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
            <name>Luso-Livros</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -20,23 +20,21 @@
 <measure unit="words">38173</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>27 de novembro de 2018</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>27 de novembro de 2018</date>. </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
+<bibl type="digitalSource">
      <title>Os tripeiros: Crónica do século XIV (Luso-livros)</title>
      <ref target="http://www.luso-livros.net/"/>
-     <relatedItem type="copyText">
-       <bibl>
-       <title>Os tripeiros: Crónica do século XIV</title>
+</bibl>
+<bibl type="firstEdition">
+        <title>Os tripeiros: Crónica do século XIV</title>
        <author>António José Coelho Lousada</author>
        <publisher>Luso-livros</publisher>
        <pubPlace></pubPlace>
        <date>1857</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -52,13 +50,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-09-20">Nada</change> 
+<change when="2018-11-27">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 

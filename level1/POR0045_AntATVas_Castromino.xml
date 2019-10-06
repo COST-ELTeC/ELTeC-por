@@ -7,35 +7,39 @@
 <title >A ermida de Castromino</title>
 <author>Vasconcellos, Antonio Augusto Teixeira de (1816-1878)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Diana Santos</name>
+  <resp>Criação do HTML original</resp>
+  <name>Diana Santos</name>
+</respStmt>
+<respStmt>
+  <resp>Codificação segundo as normas do ELTeC</resp>
+  <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
 <extent>
 <measure unit="words">85383</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>20 de julho de 2019</date>. </p>
+<p>  </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
 <author>Antonio Augusto Teixeira de Vasconcellos</author>
 <title>A ermida de Castromino</title>
-<publisher>Archive.org</publisher>
-<pubPlace></pubPlace>
-<date></date>
+<ref target="https://archive.org/details/aermidadecastro00vascgoog/"/>
 </bibl>
-<bibl>
-<ref>Obtida em <date>julho de 2019 </date></ref>
-<relatedItem type="sourceEdition">
-<bibl>
+<bibl type="firstEdition">
 <title>A ermida de Castromino</title>
 <author>Antonio Augusto Teixeira de Vasconcellos</author>
 <publisher> Typographia Portuguesa</publisher>
 <pubPlace>Lisboa</pubPlace>
-<date>1875, 2.a edição (1.aedição 1870)</date>
+<date>1870</date>
 </bibl>
-</relatedItem>
+<bibl type="printSource">
+<title>A ermida de Castromino, 2.a edição</title>
+<author>Antonio Augusto Teixeira de Vasconcellos</author>
+<publisher> Typographia Portuguesa</publisher>
+<pubPlace>Lisboa</pubPlace>
+<date>1875)</date>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -52,13 +56,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-04-03">Adicionei a data correta</change>
+<change when="2019-07-20">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

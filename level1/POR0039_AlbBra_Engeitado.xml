@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>-->
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0039" xml:lang="pt">   
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >O Engeitado</title>
+<title >O Engeitado: Edição para o ELTeC</title>
 <author>Braga, Alberto Alberto Leal Barradas Monteiro (1851-1911)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
        </respStmt>
 <respStmt>
-<resp>ElTeC encoding</resp>
+<resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
@@ -19,21 +18,19 @@
 <measure unit="words">8266</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>3 de julho de 2019</date>. </p>
+<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>3 de julho de 2019</date>. </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
 <title>Project Gutenberg EBook O Engeitado</title>
 <ref target="http://www.gutenberg.org/ebooks/25594/"/>
-     <relatedItem type="copyText">
-       <bibl>
-	 <author>Alberto Leal Barradas Monteiro Braga</author>
+</bibl>
+<bibl type="firstEdition">
+ 	 <author>Alberto Leal Barradas Monteiro Braga</author>
 	 <title>O Engeitado</title>
 	 <publisher>Parceria António Maria Pereira</publisher>
 	 <pubPlace>Lisboa</pubPlace>
 	 <date>1888</date>
-       </bibl>
-     </relatedItem> 
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -49,13 +46,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-11-15">Nada</change> 
+<change when="2018-07-03">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 
@@ -125,10 +122,10 @@
 <p>-- Quem sabe lá, sr. D. Bernardo! Nem talvez a propria mãe! Isto hoje, meu senhor, o mundo vae todo assim!</p>
 <p>D. Bernardo, quando se offerecia ensejo gostava de chalacear.</p>
 <p>-- Pois, abbade -- replicou elle -- pae tem a criança; salvo se ellas fazem como as egoas de Virgilio, lembra-se?</p>
-<quote xml:lang='lat'>
+<foreign>
 <p>".......................et saepe sine ullis"       </p>
 <p>"Conjugiis vento gravidae (mirabile dictu!)"</p>
-</quote>
+</foreign>
 <p>O pequeno recebeu na pia baptismal o nome de Simão. Foi o que occorreu á lembrança do padrinho, que tivera assim chamado outro afilhado, morto de meningite uma semana depois de baptisado.</p>
 <p>D. Bernardo da Cunha era um velho celibatario, egoista e avarento. Assignava a "Nação" e o "Bem Publico"; mas lia o "Primeiro de Janeiro", que lhe dava a cotação exacta dos fundos portuguezes.</p>
 <p>Por tradições de familia, dizia-se legitimista, com quanto na sua consciencia os correligionarios enthusiastas e crentes não passassem d'um "bando de visionarios".</p>
