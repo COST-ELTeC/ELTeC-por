@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >O último cartuxo da Scala Caeli de Évora: edição para o ELTeC</title>
+<title >O último cartuxo da Scala Caeli de Évora: edição para o ELTeC: Edição para o ELTeC</title>
 <title  level="s">Romance histórico (1808-1865)</title>
 <author>Barata, António Francisco (1836-1910)</author>
 <respStmt>
@@ -25,7 +25,6 @@
 <sourceDesc>
 <bibl type="digitalSource">
 <title>O último cartuxo da Scala Caeli de Évora</title>
-<publisher>Archive.org</publisher>
 <ref target="https://archive.org/stream/oultimocartuxod00baragoog/oultimocartuxod00baragoog_djvu.txt"/>
 </bibl>
 <bibl type="firstEdition">

@@ -4,11 +4,14 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >A Marquesa de Vale Negro</title>
+<title >A Marquesa de Vale Negro: Edição para o ELTeC</title>
 <author>O'Neill, Maria (1873-1932)</author>
 <respStmt>
-<resp>ElTeC encoding</resp>
-<name>Adeliana Silva</name>
+  <resp>Criação do HTML original</resp>
+  <name>Adeliana Silva</name>
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
 <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
@@ -16,20 +19,20 @@
 <measure unit="words">44818</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>26 de março de 2019</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
-<bibl>
+<bibl type="digitalSource">
+<title>A Marquesa de Vale Negro</title> 
+<author>Maria O'Neill</author>
 <title>Biblioteca Nacional de Portugal</title>
-<relatedItem type="sourceEdition">
-<bibl>
+</bibl>
+<bibl type="firstEdition">
 <title>A Marquesa de Vale Negro</title> 
 <author>Maria O'Neill</author>
 <publisher>Parceria António Maria Pereira, Livaria Editora</publisher>
 <pubPlace></pubPlace> 
 <date>1914</date>
-</bibl>
-</relatedItem>
 </bibl>
 </sourceDesc>
 </fileDesc>
@@ -41,7 +44,7 @@
 
 <profileDesc>
 <langUsage>
-<language ident="pt-PT">português</language>
+<language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
@@ -52,7 +55,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-02-05">Nada</change>
+<change when="2019-03-26">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

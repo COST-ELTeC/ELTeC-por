@@ -4,14 +4,14 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>A ruiva</title>
+        <title>A ruiva: Edição para o ELTeC</title>
         <author>Almeida, Fialho de (1857-1911)</author>
         <respStmt>
-           <resp>Original HTML capture</resp>
+           <resp>Criação do HTML original</resp>
        <name>Luso-livros</name>
        </respStmt>
        <respStmt>
-         <resp>ELTeC encoding</resp>
+         <resp>Codificação segundo as normas do ELTeC</resp>
          <name>Diana Santos</name>
       </respStmt>
    </titleStmt>
@@ -19,23 +19,21 @@
 <measure unit="words">24147</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>13 de janeiro de 2019</date>. </p>
+<p> </p>
 </publicationStmt>
 
   <sourceDesc>
-  <bibl>
-     <title>O Dr. Luiz Sandoval</title>
+<bibl type="digitalSource">
+     <title>A ruiva e outras histórias</title>
      <ref target="http://www.luso-livros.net/"/>
-     <relatedItem type="copyText">
-       <bibl>
+</bibl>
+<bibl type="firstEdition">
        <title>A ruiva e outras histórias</title>
        <author>Fialho de Almeida</author>
-       <publisher>1881</publisher>
+       <publisher></publisher>
        <pubPlace></pubPlace>
        <date>1881</date>
        </bibl>
-     </relatedItem> 
-  </bibl>
 </sourceDesc>
 </fileDesc>
 
@@ -51,13 +49,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="medium"></canonicity>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-01-13">Nada</change> 
+<change when="2019-01-13">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 
