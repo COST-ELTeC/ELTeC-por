@@ -4,11 +4,14 @@
 <teiHeader >
 <fileDesc>
 <titleStmt>
-<title >O Cura de São Lourenço</title>
+<title >O Cura de São Lourenço: Edição para o ELTeC</title>
 <author>Vasconcelos, M.M.S.A. e (?-1893)</author>
 <respStmt>
+  <resp>Criação do HTML original</resp>
+  <name>Adeliana Silva</name>
+</respStmt>
+<respStmt>
 <resp>Codificação segundo as normas do ELTeC</resp>
-<name>Adeliana Silva</name>
 <name>Diana Santos</name>
 </respStmt>
 </titleStmt>
@@ -16,7 +19,7 @@
 <measure unit="words">51316</measure>
 </extent>
 <publicationStmt>
-<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2019-04-26</date>. </p>
+<p> </p>
 </publicationStmt>
 <sourceDesc>
 <bibl type="digitalSource">
@@ -50,7 +53,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2019-04-26">Nada</change>
+<change when="2019-04-26">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
