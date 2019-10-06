@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>Os Bravos do Mindelo</title>
+        <title>Os Bravos do Mindelo: Edição para o ELTeC</title>
         <author>Fonseca, Faustino da (1871-1918)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
@@ -57,7 +57,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-11-15">Nada</change> 
+<change when="2019-04-27">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">

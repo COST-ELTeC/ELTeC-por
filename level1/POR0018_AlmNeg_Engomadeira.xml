@@ -4,7 +4,7 @@
 <teiHeader >
 <fileDesc>
      <titleStmt>
-        <title>A engomadeira</title>
+        <title>A engomadeira: Edição para o ELTeC</title>
 <title  level="s">novela vulgar lisboeta</title>
         <author>Almada Negreiros, José Sobral (1893-1970)</author>
         <respStmt>
@@ -20,7 +20,7 @@
 <measure unit="words">13227</measure>
 </extent>
 <publicationStmt>
-<p>Publicado pela primeira vez pelo ELTeC em <date>2019-10-07</date>. Adicionado à coleção ELTeC <date>2018-11-04</date>. </p>
+<p> </p>
 </publicationStmt>
 
   <sourceDesc>
@@ -56,7 +56,7 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2018-11-04">DMS fixed up header</change> 
+<change when="2018-11-04">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
 
