@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0036" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >A Divorciada: Edição para o ELTeC</title>
+<title>A Divorciada: Edição para o ELTeC</title>
 <author>Vieira, José Augusto (1856-1890)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
@@ -19,30 +22,24 @@
 <extent>
 <measure unit="words">50744</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <title>Project Gutenberg EBook A Divorciada</title>
 <ref target="http://www.gutenberg.org/ebooks/31917/"/>
-</bibl>
-<bibl type="printSource">
+</bibl><bibl type="printSource">
 	 <author>José Augusto Vieira</author>
 	 <title>A Divorciada, 2.a edição</title>
 	 <publisher>Parceria António Maria Pereira</publisher>
 	 <pubPlace>Lisboa</pubPlace>
 	 <date>1906</date>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 	 <author>José Augusto Vieira</author>
 	 <title>A Divorciada</title>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 <profileDesc>
@@ -50,14 +47,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-07-03">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -2154,5 +2151,3 @@
 </body>
 </text>
 </TEI>
-
-

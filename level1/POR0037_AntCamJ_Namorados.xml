@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0037" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>A Ala dos Namorados: Edição para o ELTeC</title>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">238762</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>A Ala dos Namorados (Luso-livros)</title>
      <ref target="http://www.luso-livros.net/"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
        <title>A Ala dos Namorados</title>
        <author>António Campos Junior</author>
-       <publisher></publisher>
-       <pubPlace></pubPlace>
+       <publisher/>
+       <pubPlace/>
        <date>1905</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-22">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -3217,7 +3215,7 @@
 <p>-- Eh! Mulheres de Deus! -- exclamou a tia Lourença, indo ao encontro delas -- Assim é que eu gosto de vos ver, animadas! E em jejum, raparigas?</p>
 <p>-- Desde ontem -- disse uma.</p>
 <p>-- Pois pudera -- acudiu outra.</p>
-<p>-- Em os sinos badalando assim, parece que fica a gente cheia e farta como no tempo em que havia pão!ref target="#POR0037-nota-47"/></p>
+<p>-- Em os sinos badalando assim, parece que fica a gente cheia e farta como no tempo em que havia pão!ref target="#POR0037-nota-47"/&gt;</p>
 <p>-- Dá-nos a febre no sangue -- explicou a tia Lourença -- e a febre também sustenta.</p>
 <p>-- Os castelões às portas de Santa Catarina! -- gritou um homem que vinha correndo de cima -- E ouvi que também apareceram muitos para outros lados da cidade!</p>
 <p>-- Pois vamos lá para as portas de Santa Catarina a dar-lhes os bons dias -- resolveu a regateira -- Mas vede-me primeiro se aí vem alguma criatura caridosa, que me queira ficar em casa a tomar conta de uma doentinha que eu ali tenho.</p>
@@ -4309,7 +4307,7 @@
 <p>-- O aviso feito?! Como assim, se eu vos não posso crer adivinhador do meu propósito, ainda há uns instantes tomado?!</p>
 <p>-- Mestre, eu já tinha falado ontem à noite aos da Casa dos Vinte e Quatro para nos juntarmos em S. Domingos com o povo e dali nos fomos para este paço.</p>
 <p>-- Para quê, mestre Eanes?</p>
-<p>-- Para que o povo da cidade aqui viessem agradecer-vos a vossa honrada tutoria como de pai e o vosso bendito esforço, a fazer lembrar de má sombra a cobardia de certos reis. O povo ainda se não esqueceu de outro, que de Lisboa fugiu para Santarém, levando oculta debaixo do seu manto real a espada que fazia falta na cidade, de todo abandonada aos seus inimigos de Castelaref target="#POR0037-nota-54"/>.</p>
+<p>-- Para que o povo da cidade aqui viessem agradecer-vos a vossa honrada tutoria como de pai e o vosso bendito esforço, a fazer lembrar de má sombra a cobardia de certos reis. O povo ainda se não esqueceu de outro, que de Lisboa fugiu para Santarém, levando oculta debaixo do seu manto real a espada que fazia falta na cidade, de todo abandonada aos seus inimigos de Castelaref target="#POR0037-nota-54"/&gt;.</p>
 <p>O Mestre afogueou-se. O tanoeiro percebeu, e acudiu logo pelo resgate da irreverente evocação:</p>
 <p>-- Perdoai, senhor, porque vosso irmão era o rei que abandonou esta cidade, por vós com tamanha dedicação e grandeza de ânimo há pouco ainda defendida com glória vossa e honra de nós todos.</p>
 <p>-- Sim, sim... Águas passadas, mestre Afonso Eanes. Ide-me vós lá para S.</p>
@@ -4350,7 +4348,7 @@
 <p>-- Bem falado, mestre Eanes!</p>
 <p>-- aplaudiu o velho calafate entusiasticamente.</p>
 <p>-- Boas e honradas palavras! -- disseram os outros, envaidecidos nas suas prosápias de plebeus e mesteirais preponderantes.</p>
-<p>-- Contam os velhos -- prosseguiu o tanoeiro -- contam de o ouvir dizer, que a certas cortes que se reuniram em Leiria, nos tempos do senhor rei D. Afonso, terceiro do nome, pela primeira vez foram chamados os procuradores dos concelhos, que é como se disséssemos os procuradores do povo, e lá se juntaram com os prelados e fidalgos. Pois daqui a duas horas se hão de reunir outras cortes, que não têm antecedentes e sem nenhum cerimonial as heis de ver. Nem bancos marcadosref target="#POR0037-nota-58"/>, nem procuradores a falarem pelo povo, porém o próprio povo pela sua conta e todos de pé, alto e baixo, filhos de reis e filhos de britadores de pedra, e cada um para dizer o que no seu coração sentir. Assim, certo nunca houve nenhumas cortes nesta nossa cerra!</p>
+<p>-- Contam os velhos -- prosseguiu o tanoeiro -- contam de o ouvir dizer, que a certas cortes que se reuniram em Leiria, nos tempos do senhor rei D. Afonso, terceiro do nome, pela primeira vez foram chamados os procuradores dos concelhos, que é como se disséssemos os procuradores do povo, e lá se juntaram com os prelados e fidalgos. Pois daqui a duas horas se hão de reunir outras cortes, que não têm antecedentes e sem nenhum cerimonial as heis de ver. Nem bancos marcadosref target="#POR0037-nota-58"/&gt;, nem procuradores a falarem pelo povo, porém o próprio povo pela sua conta e todos de pé, alto e baixo, filhos de reis e filhos de britadores de pedra, e cada um para dizer o que no seu coração sentir. Assim, certo nunca houve nenhumas cortes nesta nossa cerra!</p>
 <p>-- Honrada coisa há de ser, por vida minha! -- comentou o mestre Leonardo -- Mas olhai que se corre o perigo de algum desmando do mulherio e da arraia-miúda.</p>
 <p>-- Tal não receeis. Ali não haverá que diferençar mulheres e arraia-miúda; haverá povo, o povo de Lisboa, e esse não se desmandou nunca diante do Mestre. E que algum houvesse para tal, que eu saberia ter mão nele. Já sabem que, para conter onzeneiros e assomadiços, nem preciso da minha vara de juiz. Já não estranham o punho de uma espada estas mãos calejadas no cabo da enxó. Mas nem vale agora perder tempo com tais receios; pelo povo de Lisboa fico eu e ficais vós.</p>
 <p>-- Sim, sim! De tal modo há de ser! -- apoiaram todos.</p>

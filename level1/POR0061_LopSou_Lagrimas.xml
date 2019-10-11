@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0061" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >Herança de lágrimas: Edição para o ELTeC</title>
+<title>Herança de lágrimas: Edição para o ELTeC</title>
 <author>Plácido, Ana (1831-1895)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -18,29 +21,24 @@
 <extent>
 <measure unit="words">48764</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <author>Lopo de Souza</author>
 <title>Herança de lágrimas</title>
 <publisher>Biblioteca Nacional de Portugal</publisher>
-<pubPlace></pubPlace>
+<pubPlace/>
 <date>2018</date>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>Herança de lágrimas</title>
 <author>Lopo de Souza</author>
 <publisher>Redação do Vimaranense-Editora</publisher>
 <pubPlace>Guimarães</pubPlace>
 <date>1871</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -49,14 +47,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-02-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -393,7 +391,7 @@
 <p>« contram. Se me não conhece, se não surpre-</p>
 <p>« hendeu ainda o amor nos meus olhos e até</p>
 <p>« nos disfarces, que importa dizer-lhe quem sou ?</p>
-<p>« Nunca serei amado, Dianna, mas deixe-me></p>
+<p>« Nunca serei amado, Dianna, mas deixe-me&gt;</p>
 <p>« adoral-a assim. Eu sei como é o seu coração e « a sua alma. Bastou-me vel-a, não precisei de</p>
 <p>« tratal-a de perto para descobrir as qualidades « que valem este amor tão desinteressado quan-</p>
 <p>« to infeliz.</p>
@@ -1103,7 +1101,7 @@
 <p>Retrocedamos um pouco, entrando no palacio dos marquezes de S. Gens no dia immediato ao da partida de Branca para o Porto.</p>
 <p>D. Jorge de Mello regressára de Cintra, surdo á voz da razão que lhe mandava abandonar a indigna esposa, sem remorsos nem saudade. Elle por si era homem, podia trahil-a quantas vezes a isso o levassem as veleidades, os caprichos, e as occasiões sem ter de dar contas á sociedade, nem macular o seu nome; mas ella! Branca d’Alvarães deshonrar-se a si e aos seus, e ainda em cima ter a audacia de affrontal-o com a desdenhosa cedencia que lhe fazia de seus bens; isto era crime de tal ordem, que excitaria a indignação de toda aquella Lisboa, que por tanto tempo invocára vozes de fama, em respeito a suas virtudes e formosura.</p>
 <p>Isto, não sei eu se lhe chame dignidade offendida ou amor proprio; o que fallava, porem, mais alto do que tudo, era o coração; tinha uma voz surda, é verdade, mas activa e imperiosa. A poder de muitas pesquisas, pôde elle saber que sua mulher embarcára com direcção ao Porto, entrando acompanhada por uma mulher no vapor. Levando mais longe as suas investigações, colheu tambem que a viram fallar com um mancebo que chegára quando já se dispunham a tomar rumo, e que dera o nome de Ricardo da Silva. Este nome tinha geitos de pseudonymo, e confirmou Jorge em suas suspeitas, muito mais por se ter tambem sua mulher feito inscrever na lista dos passageiros com o nome de Magdalena. Até aqui chegara elle; mais alem não podèra ir. Quem era o homem, qual a sua posição e nome verdadeiro, nem a vigilancia das espias, nem as informações d’elle proprio, colhidas com toda a circumspecção, poderam obter resultado digno de mencionar-se. Demais disso, como a sua deshonra era um segredo para a sociedade, e não se sabiam ao certo os motivos, nem que Branca fora expulsa, entendeu elle que, por honra sua,  devia occultar estes pormenores, dizendo simplesmente que reciprocos desgostos domesticos levaram sua mulher a dar o passo de sahir de casa, e que elle entendera improprio da sua dignidade instar, ou fazer tentativas para uma reconciliação.</p>
-<p>p> A sociedade, em geral, acceitou estas explicações com certa reserva. Eram já sabidos os amores d’elle com a marqueza, e não faltava quem imputasse unicamente a Jorge os extremos a que levou a pobre senhora. Algumas pessoas mais authorisadas chegaram até a fazer-lhe allusões mortificantes, que o obrigaram porfim a deixar Lisboa.</p>
+<p>p&gt; A sociedade, em geral, acceitou estas explicações com certa reserva. Eram já sabidos os amores d’elle com a marqueza, e não faltava quem imputasse unicamente a Jorge os extremos a que levou a pobre senhora. Algumas pessoas mais authorisadas chegaram até a fazer-lhe allusões mortificantes, que o obrigaram porfim a deixar Lisboa.</p>
 <p>Desde o instante fatal em que conduzira sua esposa á porta da rua, indifferente n’aquelle momento de irritação ao destino que ella podes-se tomar, nunca mais viu Michaela.</p>
 <p>Entendendo que era a ella que devia o despreso de Branca, da mulher que não podia esquecer, e cuja imagem tinha presente a toda a hora, detestou-a. A febre que lhe queimava o peito em impetos e refluxos de sangue abrazeado, precisava de dessangrar-se, em risco d’uma explosão violenta e mortifera. Era de necessidade desabafar com alguem, a respeito da refalsada Branca; N'esta disposição doentia do espirito, se encaminhou elle para o palacio dos marquezes de S. Gens, subindo até á ante-camara do marquez com a segurança que dá a familiaridade. Por um acaso não esperado, encontrou reunidos os dois esposos.</p>
 <p>Desde que os annos e a desgraça fizeram comprehender á marqueza o que era a honrosa solidão da velhice, acercara-se piedosa da poltrona onde o ancião curtia; ha longos annos, as solitarias amarguras d’um acabar sem lagrimas nem cuidados de coração amigo; Ultimamente, quando lhe chegou aos ouvidos a fuga da sobrinha, o marquez, já com a razão um pouca abalada pelos desgostos; soffreu um ataque de cabeça do que ainda se achava em convalescença.</p>

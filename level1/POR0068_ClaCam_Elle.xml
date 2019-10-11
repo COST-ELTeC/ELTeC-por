@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0068" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >Elle</title>
+<title>Elle : edição para o ELTeC</title>
 <author>Campos, Claudia de (1859-1916)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">50386</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <title>Elle: com o retracto da autora. 1ª edição</title> 
 <publisher>Arquivo Municipal de Sines</publisher>
 <ref target="http://www.sines.pt/cmsines/uploads/writer_file/document/943/Elle_-_Claudia_de_Campos.pdf"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>Elle: com o retracto da autora. 1ª edição</title> 
 <author>Cláudia de Campos</author>
 <publisher>Livraria Editora de Carlos Tavares e Irmão</publisher>
 <pubPlace>Lisboa</pubPlace> 
 <date>1899</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-02-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -1274,5 +1272,3 @@
 </back>
 </text>
 </TEI>
-
-

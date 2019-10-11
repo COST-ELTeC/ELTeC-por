@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0022" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>Noites de Cintra: Edição para o ELTeC</title>
@@ -18,35 +21,29 @@
 <extent>
 <measure unit="words">31778</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook Noites de Cintra, de Alberto Pimentel</title>
      <ref target="http://www.gutenberg.org/ebooks/34719"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
         <title>Noites de Cintra</title>
        <author>Alberto Pimentel</author>
        <publisher>Parceria António Maria Pereira</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1892</date>
-       </bibl>
-<bibl type="printSource">
+       </bibl><bibl type="printSource">
          <title>Noites de Cintra, 2.a edição</title>
        <author>Alberto Pimentel</author>
        <publisher>Parceria António Maria Pereira</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1908</date>
 
-  </bibl>
-</sourceDesc>
+  </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -55,14 +52,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-06">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>

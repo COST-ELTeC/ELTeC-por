@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0043" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >O Brasileiro Soares: Edição para o ELTeC</title>
+<title>O Brasileiro Soares: Edição para o ELTeC</title>
 <author>Magalhães, Luís de (1859-1935)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -18,34 +21,28 @@
 <extent>
 <measure unit="words">39730</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <author>Luís de Magalhães</author>
 <title>O Brasileiro Soares</title>
 <publisher>Biblioteca Nacional de Portugal</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>2019</date>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>O Brasileiro Soares</title>
 <author>Luís de Magalhães</author>
 <date>1886</date>
-</bibl>
-<bibl type="printSource">
+</bibl><bibl type="printSource">
 <title>O Brasileiro Soares</title>
 <author>Luís de Magalhães</author>
 <publisher>Imprensa Nacional - Casa da Moeda</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1981</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -54,14 +51,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-07-04">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -134,7 +131,7 @@
 <p>-- Soares, a coisa faz-se entre nós, sem que o mundo o saiba... Um jeitinho aos livros, uma sangria à burra e ninguém fica mal... O rapaz não perde, pois que ninguém perde o que não tem; e de resto muito lhe fica, todo o negócio, todas as letras, propriedades... Seu tio só precisa agora da misericórdia de Deus... Você escusa de se acabar mais tempo nessa vida de negro que tem levado... e eu pelo meu conselho só lhe peço que me ajude num negociozito que nos pode render bom dinheiro... </p>
 <p>Era muito. Joaquim Soares tremia, pálido, lívido, da indignação que o dominava. Percebera, por fim, a manobra do seu vizinho e às últimas palavras dele, fora de si, como um louco furioso, deitou-lhe ao pescoço as suas grossas mãos cabeludas e duras e levou-o adiante de si até à porta do escritório, contra a qual o entalou. </p>
 <p>A cólera explodia-lhe em insultos entrecortados. -- Ah! seu desavergonhado!... E isso não é roubar!?... Olhe que o desfaço, seu grande canalha! </p>
-<p>-- Aqui del-rei! -- gritava Lucas Pinto. -- Respeite um velho, Soares!... </p>
+<p>-- Aqui d&#x92;el-rei! -- gritava Lucas Pinto. -- Respeite um velho, Soares!... </p>
 <p>-- Eu aqui não respeito ninguém, seu grande ladrão!... E brutalmente afocinhou-o sobre uma cadeira. Como todos os homens sem hábitos de pugilato, sem arte de luta, batendo apenas no ímpeto da cólera, os seus golpes eram incertos e tinham o ridículo dos ataques das crianças ou das mulheres; arranhava, arrepelava, dava pontapés! Ao reboliço acudiram os marçanos, que estacaram perante aquela cena, mal abriram a porta. Com a presença deles Soares como que veio a si, e de um empurrão atirou o Pinto contra a parede, perto da qual ele caiu de costas no sobrado. </p>
 <p>-- Rua, seu canalha! -- rugia o caixeiro. -- Rua! nem mais um instante nesta casa... Fuja, que eu perco-me... Fuja, olhe que o mato!... </p>
 <p>E impelido por outra onda de cólera crescia para o velho que, medroso, correu para a rua, escapando-se através da mercearia -- grunhindo e com as mãos nas faces feridas e pisadas. </p>

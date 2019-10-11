@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0057" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>A ruiva: Edição para o ELTeC</title>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">24147</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>A ruiva e outras histórias</title>
      <ref target="http://www.luso-livros.net/"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
        <title>A ruiva e outras histórias</title>
        <author>Fialho de Almeida</author>
-       <publisher></publisher>
-       <pubPlace></pubPlace>
+       <publisher/>
+       <pubPlace/>
        <date>1881</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-01-13">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>

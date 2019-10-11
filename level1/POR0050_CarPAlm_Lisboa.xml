@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0050" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >A conquista de Lisboa: Edição para o ELTeC</title>
+<title>A conquista de Lisboa: Edição para o ELTeC</title>
 <author>Almeida, Carlos Pinto de (1831 — 1899)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">79722</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <author>Carlos Pinto de Almeida</author>
 <title>A conquista de Lisboa: romance original</title>
 <ref target="https://archive.org/details/conquistadelisbo00almeuoft/"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>A conquista de Lisboa: romance original</title>
 <author>Carlos Pinto de Almeida</author>
 <publisher>Typ. do Panorama</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1866</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-10-10">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -115,25 +113,25 @@
 <p>O mancebo contou as dez badaladas. Seu gesto se não era irresoluto, também não era audaz. E por quem esperava elle? É o que vamos saber. </p>
 <p>Passados alguns momentos de reflexão, proseguio no mesmo passeio de um para outro lado; e o som metalico dos seus sapatos ferrados resoava na sala quasi deserta de moveis.</p>
 <p>Abrio-se uma porta e a voz de um homem pareceu despertal-o da meditação a que se tinha entregado.</p>
-<p> Dais licença senhor? Disse elle. </p>
-<p>O mancebo voltou-se e parou dizendo:  Podes entrar Thiago.</p>
+<p>&#x97; Dais licença senhor? Disse elle. </p>
+<p>O mancebo voltou-se e parou dizendo: &#x97; Podes entrar Thiago.</p>
 <p>Thiago era um velho alto, magro, mas apresentando ainda certa rebostez e desembaraço, não obstante a sua </p>
 <p>adiantada idade. Trazia uma espécie de zurame vestido, e um gorro de pelle na cabeça.</p>
 <p>«Estou só lhe diz o mancebo, e quem viria habitar commigo n'um palácio velho e sem a menor distracção? Sabes que te digo! Sinto pouco animo para me apresentar na corte! não sei, parece-me que irei lutar com grandes embaraços! Que dizes?...</p>
-<p>«  Nada que lhe possa agradar! Senhor Vasco de Souza! Custa-me a crer que vossa honra, sendo filho do senhor Bento de Souza, que tanta vez vi forte e altivo entre os maiores perigos, esteja para ahi a cacarejar como se fôra uma galinha choca! Animo senhor! Não seja como os donzeis, que tremem e vacillam na frente das damas dos seus pensamentos! Olhe que se ainda não vio os campos da batalha, soccegue, que não lhe hão de faltar occasioes».</p>
+<p>« &#x97; Nada que lhe possa agradar! Senhor Vasco de Souza! Custa-me a crer que vossa honra, sendo filho do senhor Bento de Souza, que tanta vez vi forte e altivo entre os maiores perigos, esteja para ahi a cacarejar como se fôra uma galinha choca! Animo senhor! Não seja como os donzeis, que tremem e vacillam na frente das damas dos seus pensamentos! Olhe que se ainda não vio os campos da batalha, soccegue, que não lhe hão de faltar occasioes».</p>
 <p>Vasco de Souza pareceu não gostar das palavras de Thiago, mas não se mostrou zangado nem offendido. Sorrio da franqueza do velho e respondeu-lhe com o maior socego: </p>
-<p> «Ora essa! Julgas-me um covarde?! </p>
-<p> «Nunca senhor, respondeu o velho creaido. A familia dos Souzas de Riba Bestança nâo cede em nada ás mais illutres de Portugal! Nunca foi covarde nem traidora! </p>
-<p> «Tenho-vos visto e admirado nas selvas, no divertimento da caça, que é por assim dizer o que dá melhor idéa de um campo de batalha, tenho-vos admirado, e dito comigo mesmo, é digno fiího d'aquelle valente guerreiro que traiçoeiramente morreu às mãos dos agarenos!</p>
+<p>&#x97; «Ora essa! Julgas-me um covarde?! </p>
+<p>&#x97; «Nunca senhor, respondeu o velho creaido. A familia dos Souzas de Riba Bestança nâo cede em nada ás mais illutres de Portugal! Nunca foi covarde nem traidora! </p>
+<p>&#x97; «Tenho-vos visto e admirado nas selvas, no divertimento da caça, que é por assim dizer o que dá melhor idéa de um campo de batalha, tenho-vos admirado, e dito comigo mesmo, é digno fiího d'aquelle valente guerreiro que traiçoeiramente morreu às mãos dos agarenos!</p>
 <p>O velho ao pronunciar estas palavras, callou-se-lhe no peito uma dor intença e terrível! Os olhos scintillaram e seu gesto mudou inteiramente! Estava alegre e prasenteiro, mas ficou com a fronte tâo annuviada, que não parecia o mesmo homem!</p>
-<p>« Thiago, lhe disse Vasco de Souza, falla-me de meu pae! Conta-me essa catastrophe, que o levou ao abysmo! Quero saber tudo, com quanto me seja muito doloroso!</p>
+<p>«&#x97; Thiago, lhe disse Vasco de Souza, falla-me de meu pae! Conta-me essa catastrophe, que o levou ao abysmo! Quero saber tudo, com quanto me seja muito doloroso!</p>
 <p>Thiago ergueu os olhos! Sua fronte já estava desembaraçada! As lagrimas caiam-lhe pelas faces cavadas pela idade e sofrimentos. Encarou o mancebo com tanta vivacidade e ousadia, que o fez baixar os olhos.</p>
-<p> Foi justamente para isso que lhe pedi esta conferencia! Sois donzel! O sangue dos combates ainda não indureceu esse joven coração. A vossa espada está virgem! O tropel dos ginetes, o embate das armas e o clangor dos clarins ainda lhe não feriram os ouvidos! </p>
+<p>&#x97; Foi justamente para isso que lhe pedi esta conferencia! Sois donzel! O sangue dos combates ainda não indureceu esse joven coração. A vossa espada está virgem! O tropel dos ginetes, o embate das armas e o clangor dos clarins ainda lhe não feriram os ouvidos! </p>
 <p>No entretanto é preciso que saiba tudo! Tudo que respeita ás mortes de vosso pae e de vossa Santa mãe! Mas dê-me tempo para conciliar algumas idéas! </p>
 <p>Vasco de Souza, com o coração opprimido revellava uma anciedade indescriptivel; Assentou-se n'um dos escabellos que guarneciam a sala, fazendo signal a Thiago para fazer outro tanto.</p>
 <p>A vastidão do aposento, a hora da noite, que se achava bastante adiantada, o clarão baço e incerto que uma alampada espalhava; as immensas figuras dos guerreiros que o guarneciam e o silencio sepulchral que succedera ás ultimas palavras de Thiago, tudo contribuia, para que a scena assumisse um caracter singular e uma solemnidade, que se não revellava uma grandeza suprema, dava-lhe uma importancia sinistra e de completo interesse para o mancebo.</p>
 <p>Thiago principiou: </p>
-<p> «Vossa mãe D. Leonor Pereira éra a mais formosa donzella que se conhecia em todos os feudos e sollares que se veêm entre Douro e Minho, e desde o Limia até ao Vouga. Filha ligitima do muito poderoso íilho-d'algo D. Pedro Pereira; se não dispunha de grandes cabedaes, era porque seu pae não era rico, tinha os dotes da belleza, bondade e uma virtude de que ninguém ouzava duvidar.»</p>
+<p>&#x97; «Vossa mãe D. Leonor Pereira éra a mais formosa donzella que se conhecia em todos os feudos e sollares que se veêm entre Douro e Minho, e desde o Limia até ao Vouga. Filha ligitima do muito poderoso íilho-d'algo D. Pedro Pereira; se não dispunha de grandes cabedaes, era porque seu pae não era rico, tinha os dotes da belleza, bondade e uma virtude de que ninguém ouzava duvidar.»</p>
 <p>«Educada no convento de Lorvão, por sua tia, a sr.ª abadeça D. Eulália do Carmo, era a senhora de mais saber e merecimento que para ahi se conhecia. Escrevia melhor que um santo abbade. Alem das muitas prendas que a distinguiam. Era fallada e admirada por toda a parte!</p>
 <p>«Contava desoito annos, quando a muito alta e nobre infanta de Portugal, indo visitar o convento, aonde se achava vossa mãe, a vio pela primeira vez, e tanto lhe agradou seu porte esbelto e singello, que a levou em sua companhia para Guimarães, onde foi sempre a sua residência.</p>
 <p>«Como è sabido a infanta, tresvariada com os amores do conde de Trava, dava longa margem aos ditos e comentários dos senhores ricos homens o barões portuguezes, por causa do seu comportamento e desgraçada inclinação.</p>
@@ -142,7 +140,7 @@
 <p>«Quando vossa mãe teve que seguir a bella infanta, titulo, que todos lhe davam, e que seu marido nunca lhe recusou, já se fallava em guerras e desordens. O nosso rei, então príncipe, ainda menor, tinha pedido contas ao conde Fernão Peres, da sua tutella. O repto esteve para ser lançado, mas ficou para d'ali a três annos, quando protegido pelo Arcebispo de Braga e mais ricos homem e infanções, levantou o pendão da revolta.</p>
 <p>«Nesta occasião ainda nos achávamos em Guimarães. Vosso pae, seguiu o partido do infante e foi o primeiro a dizer, na curia que ainda podia levantar alguns homens de armas e besteiros a quem sustentaria da sua caldeira!!</p>
 <p>«Um dia havia grande reunião no alcaçar da rainha. Vosso pae foi convidado como senhor de grande solar. O conselho foi longo e agitado e mais de uma vez as armas estiveram para fulgir, e imbeberem-se nos peitos adversários! Ora n'esta epocha já o snr. Bento de Souza tinha visto e amado vossa mãe, e com quanto não tivesse a certeza de ser correspondido, era de suppor, ou quasi certo que não seria insensível a um coração, que por tantas donzellas era requestado.</p>
-<p>«Serião 4 horas da tarde quando vosso pae voltou do alcaçar. Seus olhos scintillavam de raiva! Todo elle era desespero. Thiago que apromptem o meu cavallo de batalha. Corre! Dirige-te ao solar e levanta as tropas que poderes.</p>
+<p>«Serião 4 horas da tarde quando vosso pae voltou do alcaçar. Seus olhos scintillavam de raiva! Todo elle era desespero.&#x97; Thiago que apromptem o meu cavallo de batalha. Corre! Dirige-te ao solar e levanta as tropas que poderes.</p>
 <p>«Lança pregão de que sustentarei da minha caldeira todos os homens de armas besteiros, e fundibularios que se queiram accostar em torno do balsão de Bento de Souza senhor de Riba Bestança! Vae! Faz ver a esses fieis portuguezes, que o conde gallego não quer reconhecer os direitos do infante! Diz-lhe que os ricos homens e filhos-d'algos portuguezes só guardam preito aquem lhes guarda seus foros e immunidades!</p>
 <p>Vosso pae proseguio.</p>
 <p>«Ai desses maus cavalleiros que recusam ajudar o infante na Santa causa da liberdade! Nunca será o altivo Leonez, ou esse villão gallego, que de mim receberá preito e menagem! Covardes negarem na Cúria o direito que o infante tem às terras de Portugal! Não se lembram que seu valente pae com a lança em punho rompendo mil vezes as hostes agarenas, vingou, como heroe a matança que os sarracenos fizeram em Lisboa nos cavalleiros do conde Raymundo de Galliza!</p>
@@ -152,28 +150,28 @@
 <p>«Quando atravessei o burgo notei grande animação e um movimento tumultuoso entre os villôes, que corriam armados de escumas e fundas pelas ruas e viellas. Também vi que um grande troço de soldados almogavares corriam a todo o galope.</p>
 <p>«No alcaçar havia grande algazarra! Os ricos homens e infançôes, conforme as suas opiniões e interesses, fallavam e gritavam de maneira que me admirou. </p>
 <p>«O palácio não parecia o mesmo! Estava no mais completo estado de defeza! Parecia que as mesnadas agarenas já batiam aos muros do soberbo alcaçar!</p>
-<p>«Roldas e sobre roldas percorriam as muralhas e as ruas do burgo. No cimo da grande tranqueira viam-se os besteiros de gesto carregado e ameaçador, promplos a mandar sobre a povoação um choveiro de settas.  As machinas de guerra a postos não eram menos terríveis e ameaçadoras, e ao primeiro signal derrubariam quanto se lhes oppozesse, debaixo de uma nuvem de pedras! Na torre alvarran estavam as guardas reforçadas e em toda a parte se via uma soldadesca desenfreada, sem crenças nem fé!</p>
-<p>«Admirado de quanto via entrei no alcaçar, e assim que passei a ponte levadiça encontrei vosso tio o sr. Abbade D. João! Ficou admirado e perguntou-me receioso:  Thiago aonde ficou meu sobrinho? Responde e sê breve, por que estou com cuidado n'elle! Nestes tempos tão desgraçados... Não disse mais nada.</p>
+<p>«Roldas e sobre roldas percorriam as muralhas e as ruas do burgo. No cimo da grande tranqueira viam-se os besteiros de gesto carregado e ameaçador, promplos a mandar sobre a povoação um choveiro de settas. &#x97; As machinas de guerra a postos não eram menos terríveis e ameaçadoras, e ao primeiro signal derrubariam quanto se lhes oppozesse, debaixo de uma nuvem de pedras! Na torre alvarran estavam as guardas reforçadas e em toda a parte se via uma soldadesca desenfreada, sem crenças nem fé!</p>
+<p>«Admirado de quanto via entrei no alcaçar, e assim que passei a ponte levadiça encontrei vosso tio o sr. Abbade D. João! Ficou admirado e perguntou-me receioso: &#x97; Thiago aonde ficou meu sobrinho? Responde e sê breve, por que estou com cuidado n'elle! Nestes tempos tão desgraçados... Não disse mais nada.</p>
 <p>«O senhor ficou em casa esperando pela resposta d'esta carta. E olhae que elle vae partir.</p>
 <p>«O sr. Abbade D. João disse-me depois, de se affirmar que eslava inteiramente só commigo:</p>
 <p>«Thiago, tu não és um servo vulgar. Fostes educado por mim que te destinava para a vida monástica; mas tu atirando com a cogula e a roupeta à cara do padre mestre, esquecestes o pouco latim que te ensinaram, para ires accostar-te como homem de armas na bandeira de meu irmão! Nunca te absolveria de tamanha audácia, se me não tiveras demonstrado teres vocação absoluta para as armas e seres um bom soldado da cruz!</p>
 <p>Thiago, quando pronunciou estas palavras, exclamou: Oh! sr. Vasco! O sr. Abbade D. João era um santo! Para elle não havia mouros nem christãos, nem ricos ou pobres. A todos tratava bem! Aquillo é que era um homem virtuoso. </p>
 <p>«Vosso tio depois de ler a carta disse-me tão devagar, quo me custou a ouvir.</p>
 <p>«Entrega esta carta a meu sobrinho e diz-lhe que se acautelle, porque o conde gallego é seu figadal inimigo, e que raras vezes perdoa áquelles que se oppoem às suas ambições! vae depressa e vê lá não a percas. Leva-a com a maior cautella.</p>
-<p>«Beijei-lhe a mão o saltando para cima do cavallo corri a grande galope para casa e entreguei a carta a vosso pae, que me perguntou o que tinha visto pelas viellas e e beccos do burgo. Respondi-lhe como sabia, e confesso que de nada me esqueci.</p>
-<p>«Vosso pae depois de ler a carta, dísse-me: Já não saio de Guimarães! Comtudo preciso de ti e como nunca. Olhou para mim de uma maneira tão ousada, que se n'aquella occasião se me dissesse: Eia por Deus e S. Thiago! Vamos romper um esquadrão de agarenos, eu teria avançado sem contar o numero nem olhar ao perigo!</p>
+<p>«Beijei-lhe a mão o saltando para cima do cavallo corri a grande galope para casa e entreguei a carta a vosso pae, que me perguntou o que tinha visto pelas viellas e e beccos do burgo.&#x97; Respondi-lhe como sabia, e confesso que de nada me esqueci.</p>
+<p>«Vosso pae depois de ler a carta, dísse-me:&#x97; Já não saio de Guimarães! Comtudo preciso de ti e como nunca. Olhou para mim de uma maneira tão ousada, que se n'aquella occasião se me dissesse: Eia por Deus e S. Thiago! Vamos romper um esquadrão de agarenos, eu teria avançado sem contar o numero nem olhar ao perigo!</p>
 <p>«Tal era a confiança qm n'elle tinha!</p>
-<p>«Senhor  estou prompto para o acompanhar ao cabo do mundo, lhe disse eu!</p>
+<p>«Senhor &#x97; estou prompto para o acompanhar ao cabo do mundo, lhe disse eu!</p>
 <p>«És um valente soldado. Tenho d'isso sobejas provas! Fica sabendo que o infante aconselhado pelo sr. arcebisbo de Braga, e mais alguns fieis barões e mais filhos-d'algo resolveu esperar. Mas fica e ficará de pé a idéa.</p>
 <p>D. Affonso hade ser rei de Portugal.</p>
 <p>Em sendo meia noite tem prompto e acobertado o meu cavallo de batalha. Veste as armas como se fossemos de companhia entrar de mão armada pelas terras mouriscas. </p>
 <p>«O sino da torre alvarran do castello dava meia noite. Armado de espada e lança, segurava pelas rédeas, os cavallos em que vosso pae e eu deviamos montar. A noite estava escura e tempestuosa. Ao longe sentiam-se os brados de alerta das sentinellas que vigiavam nas quadrellas do alcaçar. </p>
 <p>«Os gritos agudos e sinistros das aves agoureiras causavam terror. E não sei por que tive medo! Tremi insensivelmente quando avistei vosso pae, que de montante ao lado e braços cruzados caminhava lentamente. Não disse nada. Calou a viseira e saltou de um pulo sobre o seu famoso lazão, que por tantas vezes o conduzio á victoria nos campos de batalha!</p>
 <p>A noite estava medonha! Os passos dos ginetes resoavam pelas ruas do burgo, produzindo um som lúgubre que augmentava o terror de que me achava possuído! Não encontramos roldas nem peões! As ruas estavam desertas. Atravez da oscuridâo só apenas differençavamos os olhos dos gatos que brilhiavam como pequenos fachos. Avistamos o castello, que se levantava como um gigante! As torres erguiam-se alto como os braços de um monstro, que pretende elevar-se ás nuvens!</p>
-<p>«Ao voltar de uma esquina paramos o vosso pae disse-me:  Espera e não faças caso do que vires nem do que ouvires. Não te arredes d'aqui!</p>
+<p>«Ao voltar de uma esquina paramos o vosso pae disse-me: &#x97; Espera e não faças caso do que vires nem do que ouvires. Não te arredes d'aqui!</p>
 <p>«As horas foram decorrendo sem que vosso pae apparecesse! Já era alta noite. Eram quatro horas da madrugada. Os gallos principiavam o segundo canto matutino, quando ouvi um grande tropel de cavallos!</p>
 <p>«Puchei a lança e colloquei o escudo em estado de defeza. Preparei-me para tudo.</p>
-<p>«Quatro cavalleiros passaram por diante de mim como fantasmas!  Não vi mais nada. Nem sei a razão porque um frio suor me banhou a fronte! Todo eu tremia convulso! Mas posso afiançar-lhe que não era de medo. Apoderou-se de mim um estremecimento geral! E quem estivesse próximo, só apenas ouviria o tinir dos meus sapatos ferrados de encontro aos estribos!</p>
+<p>«Quatro cavalleiros passaram por diante de mim como fantasmas! &#x97; Não vi mais nada. Nem sei a razão porque um frio suor me banhou a fronte! Todo eu tremia convulso! Mas posso afiançar-lhe que não era de medo. Apoderou-se de mim um estremecimento geral! E quem estivesse próximo, só apenas ouviria o tinir dos meus sapatos ferrados de encontro aos estribos!</p>
 <p>«Puchei as rédeas e esporeei o cavallo. Senti finalmente um rumor como o de muitos cavalleiros que se batem em grande lucta! Receiando por meu amo e não por mim, o frio e o terror desappareceram! O que devia eu fazer não obstante as suas ordens? Não sei! O que não pude foi suster-me!</p>
 <p>«Esperar já era muito e resolvi tomar conhecimento do que se passava. Enristei a lança e metti a galope para o lado dos combatentes, que não era muito longe.</p>
 <p>«Mas que vi senhor! Vi que quatro maus cavalleiros atacavam de espada em punho, um outro que se defendia como um leão. As lanças já tinham saltado em pedaços, e os escudos achavam-se espalhados pelo chão. O cavalleiro que tão bruscamente era atacado bradou: </p>
@@ -196,10 +194,10 @@
 <p>«Cheio de reconhecimento disse-lhe com as lagrimas nos olhos: Mandai Senhor! Cre-de que Thiago será sempre vosso servo e de todas as pessoas que vos forem caras. </p>
 <p>«Vosso pae ao ouvir as minhas ultimas palavras, filhas da consideração e do respeito que lhe tributava, exclamou com a maior alegria. </p>
 <p>«Por Deos e peia minha boa espada de toledo! Seguido de um homem como tu, não receiava ir a Marrocos prender o próprio Kalifa. Thiago, é preciso que saibas tudo, pois ter segredos para ti, seria um peccado que o Senhor Deus me não perdoaria! </p>
-<p>«Vosso pae proseguio,  Conheces muito bem D. Leonor Pereira a mais formosa donzella, que piza o alcaçar da infanta? É um anjo de formosura e bondade. Vêl-a e amal-a foi uma e a mesma cousa. Vacillei por muito tempo, sobre a maneira de lhe fazer comprehender as minhas intenções, visto que os meus requestos sendo de todos conhecidos, não lhe podiam ser estranhos. Mas receiando ser mal soccedido, não me animava a fazer-lhe uma declaração!</p>
+<p>«Vosso pae proseguio, &#x97; Conheces muito bem D. Leonor Pereira a mais formosa donzella, que piza o alcaçar da infanta? É um anjo de formosura e bondade. Vêl-a e amal-a foi uma e a mesma cousa. Vacillei por muito tempo, sobre a maneira de lhe fazer comprehender as minhas intenções, visto que os meus requestos sendo de todos conhecidos, não lhe podiam ser estranhos. Mas receiando ser mal soccedido, não me animava a fazer-lhe uma declaração!</p>
 <p>«Ora D. Paio de Sarmento, um dos ricos homens mais poderosos do Limia, também tem pretençôes sobre a donzella; e comquanto D. Leonor lhe não preste altenção, e até o deteste, os seus requebros são apoiados pela infanta, visto ser D. Paio o mais fiel alliado do conde gallego Fernão Peres, que para vergonha d'esta terra partilha do thalamo da viuva do grande conde D. Henrique.</p>
-<p>«  Não me animava comtudo a fazer uma exposição do meu amor, quando alguns acontecimentos me levaram a procurar a occasiâo, de lhe fazer as minhas declarações! </p>
-<p>«  Eu tinha que expiar um grande peccado, para com o conde gallego. Na primeira reunião que o infante fez, para os seus amigos lhe advogarem a causa na cúria dos barões, lá estive e fui o primeiro depois do valente meu Moniz, do intrépido Gonçalo Mendes da Maia e do prudente Egas Moniz, senhor do solar da Gresconhe.</p>
+<p>« &#x97; Não me animava comtudo a fazer uma exposição do meu amor, quando alguns acontecimentos me levaram a procurar a occasiâo, de lhe fazer as minhas declarações! </p>
+<p>« &#x97; Eu tinha que expiar um grande peccado, para com o conde gallego. Na primeira reunião que o infante fez, para os seus amigos lhe advogarem a causa na cúria dos barões, lá estive e fui o primeiro depois do valente meu Moniz, do intrépido Gonçalo Mendes da Maia e do prudente Egas Moniz, senhor do solar da Gresconhe.</p>
 <p>«Ahi gritei contra o dispotismo do conde gallego e demonstrei á face de todos os direitos do infante! Mas como nunca faltam traidores nas causas mais santas, o conde Fernão Peres foi de tudo informado.</p>
 <p>«Um pequeno pagem irmão de Leonor, disse-me um dia: </p>
 <p>«Cavalleiro, não sabes que te querem roubar a dama dos teus pensamentos? </p>
@@ -209,9 +207,9 @@
 <p>«Agradeci-lhe a confidencia, e quando seguia desvairado para casa de meu tio, dei de frente com D. Paio, que de braços cruzados e rosto carregado me olhava fixamente.</p>
 <p>«A minha primeira edéa foi arrancar do punhal, que trazia na cinta e cravar-lho no coração, mas olhando-o de alto a baixo, com gesto de insultante desprezo, passei adiante.</p>
 <p>Entrei em casa de meu tio arquejando de cançasso. Ia para fallar, mas elle que estava lendo no seu breviário, fez um gesto tão significativo, que bem dava a conhecer, que não queria ser interrompido. Os momentos foram dolorosos, mais pela incertesa do que pela realidade. Desejava consultal-o sobre o meu amor, mas não podia fazel-o em quanto rezasse.</p>
-<p>« Concluio finalmente a reza, mas como padecia de gota deu alguns gemidos, com os quaes me senti mais opprimido do que estava. </p>
-<p>« Fez-me signal para fallar e contei-lhe tudo quanto o pagem me dissera, e sentia meu coração namorado. Conclui finalmente por lhe dizer, que mais depressa iria para a Palestina batalhar com os infiéis, a fim de alcançar a morte, do que ser testemunha da felicidade de D. Paio, que por todos os motivos detestava.</p>
-<p>«Meu tio ouvio-me sem pastenejar! Não contrahio as feições, nem fez o menor movimento! Ficou impassível  Passados alguns momentos disse-me. </p>
+<p>«&#x97; Concluio finalmente a reza, mas como padecia de gota deu alguns gemidos, com os quaes me senti mais opprimido do que estava. </p>
+<p>«&#x97; Fez-me signal para fallar e contei-lhe tudo quanto o pagem me dissera, e sentia meu coração namorado. Conclui finalmente por lhe dizer, que mais depressa iria para a Palestina batalhar com os infiéis, a fim de alcançar a morte, do que ser testemunha da felicidade de D. Paio, que por todos os motivos detestava.</p>
+<p>«Meu tio ouvio-me sem pastenejar! Não contrahio as feições, nem fez o menor movimento! Ficou impassível &#x97; Passados alguns momentos disse-me. </p>
 <p>Poço-te afiançar que pouco ou nada poderei fazer, em vista da resolução da infanta. No entretanto, como D. Leonor deposita em mim inteira confiança, e detesta esse cavalleiro traidor, sem fé nem religião, espero que acceitará a tua mão, caso me auctorises, offrerecer-lh'a. </p>
 <p>«Ella já é órfã e entre os filhos d'algos e cavalleiros portuguezes, não é uso a escravidão. </p>
 <p>«Cheio de alegria auctorisei-o a deliberar como entendesse, com tanto que a consequência fosse a minha ventura.</p>
@@ -224,7 +222,7 @@
 <p>«Para namorados os dias parecem horas o as horas minutos. Já seriam três horas da noite quando D. Leonor ordenou a retirada, o que fiz com bastante sacrificio. Sahi pelos aposentos de meu tio, que deitavam para o jardim, e cheio de ventura ia ter contigo, quando fui atacado. Tenciono agora roubar D. Leonor á tyrannia de uma princeza, que a pretende immolar aos interesses do amante.</p>
 <p>«Vosso pae estava restabelecido, e os acontecimentos políticos foram esquecidos. </p>
 <p>«No alcaçar proseguiam as intrigas e cabadas por tal forma, que se o defunto conde resucitasse, teria que descalçar a manopla, para fustigar sua esposa e lançar mâo de um açoite, para castigar o infame conde de Trava, que de dia para dia se tornava mais insolente; se o carrasco e uma boa corda de canave, suspensa das ameias da torre alvarran, não fossem o premio das suas villanias.</p>
-<p>«No dia 27 de abril de 1125, serião quatro horas da tarde, quando voltamos de casa de D. Gonçalo Mendes da Maia, de quem vosso pae era intimo amigo.  Thiago parto para o meu solar da Cham. Os escudeiros Bento Fernandes e Rodrigo Alves, que vão adiante com os pagens e bagagens. Que se ponham hoje mesmo na rota de Synfães e Crasto! Os escudeiros de mais confiança que fiquem.</p>
+<p>«No dia 27 de abril de 1125, serião quatro horas da tarde, quando voltamos de casa de D. Gonçalo Mendes da Maia, de quem vosso pae era intimo amigo. &#x97; Thiago parto para o meu solar da Cham. Os escudeiros Bento Fernandes e Rodrigo Alves, que vão adiante com os pagens e bagagens. Que se ponham hoje mesmo na rota de Synfães e Crasto! Os escudeiros de mais confiança que fiquem.</p>
 <p>«Cumpri as suas ordens e duas horas depois abalavam as bagagens escoltadas pelos pagens e escudeiros determinados! </p>
 <p>«Três dias decorreram. Seriam dez horas da manhã, quando vosso pae mandou apromptar os cavallos; e armados dos bicos dos pés até á cabeça, seguimos a grande galope na rota do Castello da Cham. </p>
 <p>«Era um aspecto digno de attenção! </p>
@@ -252,19 +250,19 @@
 <p>«Vosso pae era um valente! Nunca o vi tremer, mas também não se arrebatava com cousas de pouca monta! </p>
 <p>«É lá! Quem se atreve a hostihsar os que pacificamente vão ao seu caminho?! </p>
 <p>«Arreda, foi a resposta, senão manda-mos mais alalgumas frechadas! </p>
-<p>«Isto já era muito e vosso pae já impaciente exclamou  Por Christo e S. Thiago! Se a tanto vos atreveis, olhae que caro pagareis tanta audácia. </p>
+<p>«Isto já era muito e vosso pae já impaciente exclamou &#x97; Por Christo e S. Thiago! Se a tanto vos atreveis, olhae que caro pagareis tanta audácia. </p>
 <p>«São cavalleiros disseram os pastores. Pedimos perdão. </p>
 <p>«Vosso pae não respondeu. Metteu a galope, e só paramos a um tiro de besta do burgo de Guimarães. Pé em terra disse elle. Todos nos apeamos. Segui-me todos á excepção de Pedro, que íica tomando conta nos cavallos. Não te arredes d'aqui. Quanto a voz se tendes olhos, não é para ver nem ouvidos para ouvir! Aquelle que der á língua, juro pelo sangue de Christo que as linguas lhes serão arrancadas. </p>
 <p>«Acompanhou estas palavras, de um ademan tão carregado, que os pobres diabos julgaram sentir a fria lamina da sua espada sobre a garganta! </p>
 <p>«Chegamos ao castello. Um pequeno assobio foi o signal. Abriu-se uma janella. Vosso pae collocou os homens de armas nas embocaduras das ruas. Batteu as palmas mansamente e uma mulher appareceu. Vi cair uma escada de corda. E ainda bem não estava em altura conveniente, já elle subia tão lestamente como o mais hábil marinheiro pelas insarcias de uma galera. </p>
-<p>O velho creado fez uma pausa, dizendo para Vasco:  Deixai-me descançar, o que vos vou contar é notável e até mesmo surprendente; é um dos momentos mais sérios da minha vida.</p>
+<p>O velho creado fez uma pausa, dizendo para Vasco: &#x97; Deixai-me descançar, o que vos vou contar é notável e até mesmo surprendente; é um dos momentos mais sérios da minha vida.</p>
 <p>«A janella distava do chão obra de sete ou oito covados. As cordas da escada teriam apenas um dedo de grossura se tanto. Receei por todos os motivos, e segui cuidadoso a ascenção de vosso pae. Acompanhei-lhe os movimentos com a maior aciedade, até junto da dama, que fez um movimento desembaraçado para se lhe lançar nos braços! </p>
 <p>«Vosso pae ufanoso do precioso fardo que conduzia, principiou a descer lentamente. Não se ouvia uma palavra! E quem se achasse próximo, apenas sentiria a respiração agitada, dos três indivíduos que compunham este quadro. </p>
 <p>«A cada bambalear da escada estremecia. Mas a minha aflição foi desesperada, quando vosso pae, que descera menos de metade lhe faltou o pé! Ficou suspenso por um braço, tendo o outro em torno da cintura de vossa mãe. </p>
 <p>«Jesus bradei eu! Julguei-os mortos! Vi sobre elles dejar o anjo da morte! Esperei vel-os cair arrebentados sobre o lagedo! </p>
 <p>«Santo Deus! Ainda estremeço quando recordo este acontecimento! </p>
 <p>«Mas que! Vossa mae era uma heroina! Conheceu o perigo a que se achavam expostos, mas não tremeu! </p>
-<p>«Animo, bradou ella, por vós e não por mim! Segurai-vos um momento que já vos desembaraço! E sem lhe dar tempo para reflectir, lançou mão â escada e escapase tão rapidamente, que dei insensivelmente um grito! Mas quando a julgava precepitada e morta, dizia tranquila para vosso pae: Fazei uso dos dois braços e descei devagar. </p>
+<p>«Animo, bradou ella, por vós e não por mim! Segurai-vos um momento que já vos desembaraço! E sem lhe dar tempo para reflectir, lançou mão â escada e escapase tão rapidamente, que dei insensivelmente um grito! Mas quando a julgava precepitada e morta, dizia tranquila para vosso pae:&#x97; Fazei uso dos dois braços e descei devagar. </p>
 <p>Estavam salvos! </p>
 <p>«Foi então que vi bem pela primeira vez sua figura airosa, formas delicadas, e um rosto tão formoso como nunca tinha visto! </p>
 <p>«A um signal de vosso pae reuniram os homens de armas que estavam de vigia. </p>

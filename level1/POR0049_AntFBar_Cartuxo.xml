@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0049" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >O último cartuxo da Scala Caeli de Évora: edição para o ELTeC: Edição para o ELTeC</title>
-<title  level="s">Romance histórico (1808-1865)</title>
+<title>O último cartuxo da Scala Caeli de Évora: edição para o ELTeC: Edição para o ELTeC</title>
+<title level="s">Romance histórico (1808-1865)</title>
 <author>Barata, António Francisco (1836-1910)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -19,26 +22,21 @@
 <extent>
 <measure unit="words">72321</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <title>O último cartuxo da Scala Caeli de Évora</title>
 <ref target="https://archive.org/stream/oultimocartuxod00baragoog/oultimocartuxod00baragoog_djvu.txt"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>O último cartuxo da Scala Caeli de Évora: Romance histórico (1808-1865)</title>
 <author>António Francisco Barata</author>
 <publisher>José António Rodrigues</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1891</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-10-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -291,7 +289,7 @@
 <p>Espera, deixa que os acontecimentos se manifestem, e tomarás então, e só então, o caminho que houveres por melhor, e mais favorecer a teus interesses. Não luctes com sombras, não corras após o incerto : lembra-te que de milhares de victimas tragaram esses mares antes que Vasco da Gama mostrasse ao velho mundo um caminho para o oriente, e Alvares Cabral um mundo novo. </p>
 <p>-- Mas, d'esse modo... </p>
 <p>-- Sim, bem sei o que pretendes oppôr a esta doutrina fradesca, egoista, sim, porque o é ; colher alguém o fructo dos trabalho</p>
-<p><gap /></p>
+<p><gap/></p>
 <p>dia já deve seguir os usos e costumes das mais, alimentando se como convém a homens enclausurados e adstrictos a mortificação e a silicios contra as carnes, a vigilias e rezas, dissera, com intenção especial, o alferes. E accrescentou : estava capaz de te acompanhar na ceia, visto que me não deixas saír por ora. </p>
 <p>-- Pois sim, com muito boa vontade; o caso está em que tu queiras. Anda cá. </p>
 <p>E assim fallando D. Bruno tomou-o por um braço e levou-o para a primeira casa, que tinha a chaminé. </p>
@@ -941,7 +939,7 @@
 <p> Não lhe faltava invenção; pouzou o archote na extremidade do banco de espalda, acocorou-se, enfiou pernas e corpo pelo buraco, apoiado nos braços, até que sentiu e bem conheceu ter os pés ja presos a um dos nós da corda. </p>
 <p>Com a mão direita agarrou fortemente a corda e com a esquerda, estendido o braço para o archote, o tomou, dando principio á descida. </p>
 <p>Se D. Bruno, em vez de archote fumegante, empunhara uma lyra, sei ia um novo Orpheu, que descia aos Infernos em demanda da sua Eurydice : assemelhava-sc, porém, ao mythologico em procurar a amada Bemvinda atravez de tenebrosos caminhos desconhecidos ; e, se 'naquelle momento lembrara a opera de Gluck, podéra ir cantando : </p>
-<quote  xml:lang="fr">
+<quote xml:lang="fr">
 <l>Mortel silence ! </l>
 <l>Vaine espérance ! </l>
 <l>Quelle souffrance </l>
@@ -1161,7 +1159,7 @@
 <p>Que risos, que falias, que expansões de affectos ! </p>
 <p>Assentados um juncto de outro, como Adão e Eva no Paraíso, Bemvinda, terna, meiga, languida lançou os braços ao pescoço do monge, exclamando felicíssima: </p>
 <p>-- Digam agora que não sou tua! </p>
-<p>-- Minha, sim, e só minha. Porém .  . </p>
+<p>-- Minha, sim, e só minha. Porém . &#x95; . </p>
 <p>-- Porém ? perguntara Bemvinda, retirando os braços. </p>
 <p>-- Porém, aquella sombra de hontem á noite... ainda me não disseste que homem foi aquelle que... </p>
 <p>E D. Bruno erguera-se ferido pelo ciume. Bemvinda atalhou logo : </p>

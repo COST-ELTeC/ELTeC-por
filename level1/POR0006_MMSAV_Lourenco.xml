@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0006" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >O Cura de São Lourenço: Edição para o ELTeC</title>
+<title>O Cura de São Lourenço: Edição para o ELTeC</title>
 <author>Vasconcelos, M.M.S.A. e (?-1893)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -18,25 +21,20 @@
 <extent>
 <measure unit="words">51316</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <publisher>Biblioteca Nacional de Portugal</publisher>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>O Cura de São Lourenço</title> 
 <author>M.M.S.A. e Vasconcelos</author>
-<publisher></publisher>
-<pubPlace></pubPlace> 
+<publisher/>
+<pubPlace/> 
 <date>1855</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -45,14 +43,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-04-26">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>

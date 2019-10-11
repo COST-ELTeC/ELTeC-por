@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0047" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
 <titleStmt>
-<title >Infaustas Aventuras de Mestre Marçal Estouro: Edição para o ELTeC</title>
-<title  level="s">Vítima duma paixão</title>
+<title>Infaustas Aventuras de Mestre Marçal Estouro: Edição para o ELTeC</title>
+<title level="s">Vítima duma paixão</title>
 <author>Leal, José da Silva Mendes (1818-1886)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -19,34 +22,28 @@
 <extent>
 <measure unit="words">56765</measure>
 </extent>
-<publicationStmt>
-<p>  </p>
-</publicationStmt>
-<sourceDesc>
-<bibl type="digitalSource">
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--  --></publicationStmt>
+<sourceDesc><bibl type="digitalSource">
 <author>José da Silva Mendes Leal</author>
 <title>Infaustas Aventuras de Mestre Marçal Estouro</title>
 <ref target="https://archive.org/details/infaustasaventur00silv/"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <title>Infaustas Aventuras de Mestre Marçal Estouro: Vítima duma paixão</title>
 <author>José da Silva Mendes Leal</author>
-<publisher></publisher>
-<pubPlace></pubPlace>
+<publisher/>
+<pubPlace/>
 <date>1862</date>
-</bibl>
-<bibl type="printSource">
+</bibl><bibl type="printSource">
 <title>Infaustas Aventuras de Mestre Marçal Estouro: Vítima duma paixão</title>
 <author>José da Silva Mendes Leal</author>
 <publisher>Livraria de A. M. Pereira - Editor</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1871</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -55,14 +52,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-08-13">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -2276,4 +2273,3 @@
 </back>
 </text>
 </TEI>
-
