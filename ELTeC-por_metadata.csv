@@ -1,10 +1,10 @@
 	filename	xmlid	au-name	title	au-birth	au-death	au-gender	au-ids	copytext-yr	firsted-yr	title-ids	sizeCat	canonicity	time-slot	numwords	language
 0	POR0058_AlbPim_Mercedes	POR0058	Pimentel, Alberto	O Romance da Rainha Mercedes: Edição para o ELTeC	1849	1925	M	NA	NA	1879	NA	short	unmarked	T2	12953	pt-PT
-1	POR0027_MJTM_MariaDaFonte	POR0027	NA	Um conto portuguez: Edição para o ELTeC	NA	NA	M	NA	NA	1873	NA	medium	low	T2	58236	pt-PT
+1	POR0027_MJTM_MariaDaFonte	POR0027	Mascarenhas, Miguel J. T.	Um conto portuguez: Edição para o ELTeC	NA	NA	M	NA	NA	1873	NA	medium	low	T2	58236	pt-PT
 2	POR0042_TeoBra_Viriato	POR0042	Braga, Teófilo	Viriato: Edição para o ELTeC	1843	1924	M	NA	NA	1904	NA	medium	unspecified	T4	61600	pt-PT
 3	POR0022_AlbPim_Cintra	POR0022	Pimentel, Alberto	Noites de Cintra: Edição para o ELTeC	1849	1925	M	NA	NA	1892	NA	short	unspecified	T3	31778	pt-PT
 4	POR0065_MarONei_Marquesa	POR0065	O'Neill, Maria	A Marquesa de Vale Negro: Edição para o ELTeC	1873	1932	F	NA	NA	1914	NA	short	low	T4	44818	pt-PT
-5	POR0029_DiodMac_Cristao	POR0029	NA	O Christão novo: Edição para o ELTeC	NA	NA	M	NA	NA	1876	NA	short	low	T2	25603	pt-PT
+5	POR0029_DiodMac_Cristao	POR0029	Macedo, Diogo de	O Christão novo: Edição para o ELTeC	NA	NA	M	NA	NA	1876	NA	short	low	T2	25603	pt-PT
 6	POR0036_JosAVie_Divorciada	POR0036	Vieira, José Augusto	A Divorciada: Edição para o ELTeC	1856	1890	M	NA	NA	NA	NA	medium	unspecified	T4	50744	pt-PT
 7	POR0053_AbeBot_Lavos	POR0053	Botelho, Abel	O Barão de Lavos: Edição para o ELTeC	1854	1917	M	NA	NA	1891	NA	long	unmarked	T3	106373	pt-PT
 8	POR0007_JulDin_Inglesa	POR0007	Dinis, Júlio	Uma Família Inglesa: Edição para o ELTeC	1839	1871	M	NA	NA	1868	NA	long	high	T2	124359	pt-PT
@@ -21,7 +21,7 @@
 19	POR0003_AleHer_Cister	POR0003	Herculano, Alexandre	 O Monge de Cister: Edição para o ELTeC	1810	1877	M	NA	NA	1848	NA	long	high	T1	130495	pt-PT
 20	POR0068_ClaCam_Elle	POR0068	Campos, Claudia de	Elle : edição para o ELTeC	1859	1916	F	NA	NA	1899	NA	medium	unspecified	T4	50386	pt-PT
 21	POR0014_FauFon_Mindelo	POR0014	Fonseca, Faustino da	Os Bravos do Mindelo: Edição para o ELTeC	1871	1918	M	NA	NA	1906	NA	short	unspecified	T4	49151	pt-PT
-22	POR0035_MauFig_Exilado	POR0035	NA	O Exilado: Edição para o ELTeC	NA	NA	F	NA	NA	1900	NA	short	low	T4	42511	pt-PT
+22	POR0035_MauFig_Exilado	POR0035	Fonseca, Mauricia C. da	O Exilado: Edição para o ELTeC	NA	NA	F	NA	NA	1900	NA	short	low	T4	42511	pt-PT
 23	POR0011_CamCB_Caveira	POR0011	Castelo Branco, Camilo	A Caveira da Mártir: Edição para o ELTeC	1825	1890	M	NA	NA	1876	NA	long	high	T2	117069	pt-PT
 24	POR0059_AlmGar_Santana	POR0059	Almeida Garrett, João Baptista da Silva Leitão de	O Arco de Santana	1799	1854	M	NA	NA	1845-1850	NA	medium	high	T1	65871	pt-PT
 25	POR0030_FelCas_Chave	POR0030	Castilho, António Feliciano de	A chave do enigma: Edição para o ELTeC	1800	1875	M	NA	NA	1861	NA	short	unspecified	T2	47982	pt-PT
@@ -53,7 +53,7 @@
 51	POR0048_BulPat_Palida	POR0048	Bulhão Pato, Raimundo António de	A pálida estrela: Edição para o ELTeC	1828	1912	M	NA	NA	1864	NA	short	unspecified	T2	12499	pt-PT
 52	POR0060_FiaAlm_Condessa	POR0060	Almeida, Fialho de	O juramento da condessa Esther: Edição para o ELTeC	1857	1911	M	NA	NA	1914	NA	short	unmarked	T4	19420	pt-PT
 53	POR0023_AleHer_Eurico	POR0023	Herculano, Alexandre	 Eurico, o Presbítero: Edição para o ELTeC	1810	1877	M	NA	NA	1844	NA	medium	high	T1	58439	pt-PT
-54	POR0006_MMSAV_Lourenco	POR0006	NA	O Cura de São Lourenço: Edição para o ELTeC	NA	NA	F	NA	NA	1855	NA	medium	low	T1	51316	pt-PT
+54	POR0006_MMSAV_Lourenco	POR0006	Vasconcelos, M.M.S.A. e	O Cura de São Lourenço: Edição para o ELTeC	NA	NA	F	NA	NA	1855	NA	medium	low	T1	51316	pt-PT
 55	POR0061_LopSou_Lagrimas	POR0061	Plácido, Ana	Herança de lágrimas: Edição para o ELTeC	1831	1895	M	NA	NA	1871	NA	short	low	T3	48764	pt-PT
 56	POR0004_AlmGar_Viagens	POR0004	Almeida Garrett, João Baptista da Silva Leitão de	Viagens na minha terra: Edição para o ELTeC	1799	1854	M	NA	NA	1846	NA	medium	high	T1	70856	pt-PT
 57	POR0052_RauBra_Farsa	POR0052	Raul Brandão	A Farsa: Edição para o ELTeC	1867	1930	M	NA	NA	NA	NA	short	high	T4	45765	pt-PT
