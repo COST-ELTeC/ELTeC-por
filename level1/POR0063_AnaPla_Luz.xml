@@ -21,7 +21,7 @@
 <extent>
 <measure unit="words">15046</measure>
 </extent>
-<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Ana Plácido</author>
 <title>Luz coada por ferros</title>
@@ -53,7 +53,7 @@
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 </profileDesc>
-<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2019-02-07">&gt;Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>

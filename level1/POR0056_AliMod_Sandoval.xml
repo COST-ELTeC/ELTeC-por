@@ -47,7 +47,7 @@
         <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
       </textDesc>
     </profileDesc>
-    <revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
+    <revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change>
       <change when="2019-10-10">Checked by releaseChecker script</change>
       <change when="2019-01-10">Adicionado à coleção ELTeC</change>
     </revisionDesc>
