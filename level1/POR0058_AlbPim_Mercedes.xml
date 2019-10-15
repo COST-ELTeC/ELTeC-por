@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0058" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>O Romance da Rainha Mercedes: Edição para o ELTeC</title>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">12953</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook O Romance da Rainha Mercedes</title>
      <ref target="http://www.gutenberg.org/ebooks/34755"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
         <title>O Romance da Rainha Mercedes</title>
        <author>Alberto Pimentel</author>
        <publisher>Livraria Portuense Editora</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1879</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2018-11-21">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -66,7 +64,7 @@
 </div>
 </front>
 <body>
-<div>
+<div type="chapter">
 <head>I</head>
 <p>OS REIS</p>
 <p>Que secreto mobil determina as evoluções da humanidade atravez dos tempos? Que mysteriosa lei regula os destinos das sociedades no discorrer dos seculos? Eis o grande problema que ha duzentos annos preoccupa o espirito humano. É a Providencia: diz Bossuet. As nações teem uma natureza commum; a humanidade é obra de si mesma: sustenta Giambattista Vico. É a influencia do clima: propõe Montesquieu. É a fatalidade cega: proclama Voltaire. É Sua Magestade o Acaso: teima Frederico II. É a situação geographica: aventa, por sua vez, Herder, o philosopho allemão. E todavia o problema ainda não está resolvido, a grande duvida permanece não obstante os incontestaveis progressos da philosophia cada vez mais pejada de systemas...</p>
@@ -82,7 +80,7 @@
 <p>Como nos romances da idade media, o braço descarnado da morte imprimiu n'esse poema escripto em folhas de rosa o sêllo de uma fatalidade mysteriosa, extranha. O lucto da viuvez envolveu de repente o throno de Hespanha e o coração do rei amantissimo.</p>
 <p>É a historia d'esse grande amor e d'essa grande fatalidade o que nós intitulamos, aproveitando o doloroso colorido dos factos, "O romance da rainha Mercedes".</p>
 <p>ELLE</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>ELLE</p>
 <p>O rei de Hespanha faz lembrar estas plantas mimosas que, nascendo no topo de um outeiro batido dos ventos, se tornam fortes. Creado nos regalos da côrte, educado sob a influencia da tradição religiosa do seu paiz, parecia unicamente destinado a ser algum dia um simples rei catholico e constitucional, como os seus antecessores. Como elles, seguindo as praxes da primogenitura, depôz o seu vestido branco no altar da Virgem da Atocha, e vestiu um uniforme militar para cumprir o velho estylo tradicional, que, desde os primeiros annos da existencia, rouba toda a originalidade, annulla todas as disposições naturaes aos principes destinados ao throno.</p>
 <p>O sentimento poetico, que tanto dulcifica os costumes, e que prepara a alma para a concepção do bello, bebeu-o certamente com o leite da robusta camponeza das Asturias, a quem a sua amamentação foi confiada. Mas esse germen de poesia, tão necessario á alma de todos os homens, especialmente de um rei, devia aniquilar-se na atmosphera dos paços reaes, na temperatura abafadiça das pragmaticas anachronicas, longe do espectaculo da natureza, e das grandes correntes do pensamento humano. Um rei, como uma flôr muito resguardada, é um producto meio artificial, por um vicio de educação, que já seria tempo de banir. Faltam-lhe as commoções profundas, as eloquentes lições da sociedade, a aprendizagem casual que robustece o espirito e o torna apto para a lucta. Recebe a instrucção como recebe a luz, o sol, e o ar: em pequenas doses regradas, systematicamente, para que o não molestem. Podia ser um bello espirito, mas a tradição faz d'elle um espirito vulgar. É pouco mais ou menos como seu pai; seu filho será como elle.</p>
@@ -94,7 +92,7 @@
 <p>Então a Hespanha viu sobre o throno um rei profundamente hespanhol--no animo e na physionomia. Um dextro "torero", um valente caçador, um cavalleiro eximio. Figura esbelta, "salerosa", rosto moreno, cabellos pretos, bocca expressiva, dentes alvissimos. Um adolescente de "serenata", um trovador de vinte annos sobre um throno de seculos.</p>
 <p>Para completar o typo peninsular, um coração amante. Toda a vida de um hespanhol está no amor ou no ciume. O rei amava. Facto verdadeiramente extraordinario e ousado: um rei amar! Para um principe de vinte annos, uma princeza de dezesete. Mercedes, sua prima, era uma creança idealisada pela formosura. O rei amava-a em segredo, com um culto sagrado. Adorava-a.</p>
 <p>ELLA</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>ELLA</p>
 <p>A princeza Maria de las Mercedes, filha do duque de Montpensier, Antonio de Orleans, e da infanta hespanhola Maria Luiza, irmã de Izabel II, realisava, pelo nascimento, uma seductora consubstanciação, o enlace de duas fascinações. Por seu pae, francesa, por sua mãe, hespanhola, ella reunia em si as duas nacionalidades que maior relevo dão aos encantos femininos. Juntai a graça "francesa" ao salero hespanhol, a alegria da França á vivacidade da Hespanha, juntai Pariz a Madrid, e tereis uma figura encantadora: Mercedes.</p>
 <p>Ide aos "parterres" das Tulherias, que foi um jardim de principes, colhei uma rosa d'aquellas com que outr'ora a imperatriz Eugenia enflorava os seus bellos cabellos, e deponde-a sobre uma fina jarra de Triana n'um palacio de Sevilha: havereis conseguido copiar a graciosa individualidade de Mercedes.</p>
@@ -106,7 +104,7 @@
 <p>E a gentil "madame" de vestidos curtos afugentava com uma alegre risada sonora a lembrança saudosa do nobre priminho, e agitava os seus pequenos braços para suster na queda uma folha solta que vinha descendo do arvoredo, ou para cortar o vôo a uma borboleta iriada.</p>
 <p>Quando o duque de Montpensier residiu em Lisboa, Mercedes, com suas irmãs, continuou a viver na sociedade, que era a primeira de Portugal, a gozar, no meio das regalias fidalgas, a desoppressão das etiquetas cortezãs. Ao mesmo tempo ia estudando o mundo atravez da sua ventarola sevilhana. E quem sabe? quem sabe se este céo de Portugal, este bello céo que é naturalmente quem nos faz amorosos, tão amorosos que até no extrangeiro temos fama de o ser, quem sabe se elle não emprestou para os idyllios de Mercedes os seus reflexos azues e as suas aureas radiações, se elle não contribuiu para divinisar na alma da gentil princesazinha a imagem adorada de seu primo?!</p>
 <p>O AMOR</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>O AMOR</p>
 <p>A diplomacia moderna annullou o coração dos reis. Não é o amor a base das familias reaes; a diplomacia aconselha os principes reinantes a procurarem esposa segundo as conveniencias da politica internacional. Todo o homem tem o direito de escolher a mulher que mais o captivou pelos encantos ardentes da formosura ou pela serena attracção da virtude; de preparar o seu ninho conjugal com a doce phantasia de quem estivesse alfaiando um templosinho para uma divindade adorada; de antegostar pela imaginação as delicias de uma vida cheia de remanço e conforto, chilreada de palavras meigas, estrellejada com os reflexos luminosos dos sorrisos leaes e honestos; quer dizer, todos podem conquistar pela familia a immortalidade do coração, reviver pelo amor no futuro dos filhos idolatrados, todos--menos os reis. O que se exige dos monarchas não é, em primeiro logar, que constituam familia, é que constituam dynastia; em segundo logar o que se exige não é que simplesmente pensem na familia a que vão dar origem, mas que ponderem reflectidamente se a familia a que a princeza escolhida pertence reune as condições de riquesa e poderio que, segundo a politica, convém ter em vista. De modo que um rei não desposa uma mulher; casa com uma nação. Não é uma alliança individual; é uma alliança internacional. Depois que a diplomacia intendeu nos casamentos dos reis, são vulgares na historia de todos os povos os tristes romances em que as rainhas dissolutas perturbam a vida de uma nação inteira por um capricho do coração, sedento de amar. Dos casamentos diplomaticos resultam escandalos tamanhos como aquelle a que Portugal assistiu no tempo de Affonso VI. Ora os exemplos são tanto mais prejudiciaes quanto mais d'alto partem; parecem-se n'isto com as torrentes: quanto maior é o despenho, tanto maior é o impeto da agua. Os escandalos que se exhibem nos thronos teem um publico numeroso, a nação. Portanto, contaminam muita gente.</p>
 <p>No velho codigo indiano de Manú, os casamentos de inclinação são chamados da "musica celeste". N'esses casamentos de Deus, como diz ainda o nosso povo, ha com effeito uma harmonia santa, celeste. Sob a bençam da Egreja reunem-se dois corações em flôr, cheios de esperança e de alegria, de sonhos e de sorrisos. São duas primaveras que se enlaçam, e é certo que não ha primavera que não deixe vêr a Providencia por detraz do véo transparente dos seus jubilos. Aqui está, pois, explicada a expressão de Manú.</p>
@@ -124,7 +122,7 @@
 <p>Mercedes pôz o dedo sobre a bocca, e sorriu.</p>
 <p>Então o rei refreou as bridas á parelha. A carroça começou a rodar suavemente. A dama de honor agradecia provavelmente a Deus o havel-a livrado de um perigo, que as palavras mysteriosas do rei lhe fizeram de certo receiar cada vez mais. E D. Affonso tambem agradecia á Providencia o presente d'aquella carroça, d'aquelle instante de liberdade.</p>
 <p>JUBILOS</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>JUBILOS</p>
 <p>O rei D. Affonso XII soube vencer, por um trabalho lento, surdo, perseverante, as difficuldades que a politica naturalmente havia de levantar contra um casamento de inclinação, especialmente n'um paiz tão desorganisado, tão inquieto como a Hespanha. A politica, firme no seu papel, quereria decerto que o rei casasse ao sabor das paixões partidarias; cada facção desejava porventura que a nova rainha de Hespanha representasse no throno as ideias que mais lisonjeassem as suas ambições. As mulheres são como as flôres; diga-se mais uma vez. Teem muito do paiz em que nasceram: n'um sorriso feminino revela-se a cada momento uma nacionalidade. Ora a princeza extrangeira que fosse sentar-se no throno hespanhol, se pertencesse, por exemplo, a uma forte nação, profundamente monarchica, agradaria especialmente aos affonsistas, que veriam n'essa alliança uma ancora capaz de aguentar, contra os mais rebeldes temporaes, a açoitada nau da monarchia hespanhola.</p>
 <p>O rei tinha de vencer, portanto, a obstinação dos seus amigos, o que ás vezes é ainda mais difficil do que vencer a pertinacia dos inimigos. Para conseguir a victoria, era mister um grande trabalho de paciencia, de tenacidade. Apezar de muito novo, o rei soube aplanar o caminho, vencer os obstaculos, triumphar.</p>
@@ -142,7 +140,7 @@
 <p>O casamento realisou-se em janeiro de 1878; pois, não obstante a estação, fazia em toda a Hespanha um tempo de primavera.</p>
 <p>Mas no meio d'esta festa geral, profundamente hespanhola, alguem que quizesse procurar dolorosos vaticinios, havia de encontral-os atravez das alegrias nupciaes que atapetavam de flores de laranjeira o solo da cavalheiresca Hespanha.</p>
 <p>PRELUDIOS</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>PRELUDIOS</p>
 <p>De um beijo trocado entre o amor e a elegancia nasceu a ornamentação da camara nupcial do rei de Hespanha. O amor forneceu as lembranças delicadas, as apaixonadas galanterias, os objectos symbolicos; a elegancia, que é tanto maior artista quanto mais desleixada parece, distribuiu-os sorrindo, lançou-os como ao acaso, dispersou-os como se tratasse de espalhar uma nuvem de flores: brincando. D'esta allianca nasceu um idyllio em vez de uma camara, um palaciosinho feito de maravilhas dentro de um palacio feito de pedra; um ninho tecido de preciosidades para receber um par enamorado; dirieis que um poeta omnipotente conseguira realisar um sonho de riquesa e felicidade architectando aquelles aposentos com pedaços de crystal e raios de sol.</p>
 <p>As ideias mais tristes e mais terrenas tomavam alli uma encarnação phantastica. Nada mais atrozmente positivo que a lembrança de que o tempo foge com uma velocidade insensivel, de que nem com punhados de ouro se póde embargar-lhe o passo. Mas o amor, nos aposentos destinados á rainha Mercedes, até sobre os relogios soube poisar sorrisos, de modo que o tempo deixou de ser cruel alli. Era o amor quem devia avisar a rainha de Hespanha das horas que fugiam, mas com tal encanto obrigára o relogio a fallar, que certamente as horas pareceriam breves, muito breves. Sobre um pedestal de marmore branco, dois amantes enlaçados n'um beijo longuissimo, estendidas as mãos para um livro, que um Cupido de ouro abria, indicando uma phrase -- "Para sempre": esta graciosa pendula devia recordar a Mercedes, hora a hora, que o tempo fugia mas que o amor ficava. "Para sempre", em vez de ser a cruel ameaça da eternidade, tornava-se uma promessa de felicidade ininterrompida. O leve rumor da pendula pareceria, de instante a instante, o rumor de um beijo: olhando para os dois que se beijavam sobre o pedestal de marmore, a rainha de Hespanha acreditaria facilmente que o esculptor primoroso soubera animar o bronze.</p>
@@ -157,7 +155,7 @@
 <p>A bazilica da Atocha aberta de par em par para receber os dois que se amavam. Deante do portico do templo, um arco de triumpho colossal, construido pelos invalidos, formado de canhões, de armas, de tropheus de bandeiras conquistadas, um pensamento cavalheiresco a completar a festa do amor, que ia ser abençoada por Deus.</p>
 <p>Ide. Deus vos espera, noivos.</p>
 <p>A BENÇÃO</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>A BENÇÃO</p>
 <p>O cortejo nupcial era imponente, magestoso.</p>
 <p>A grandesa das velhas côrtes europêas resuscitou n'aquelle dia sob o céo da formosa Hespanha.</p>
@@ -178,7 +176,7 @@
 <p>Cantado o "Te-Deum", D. Affonso XII e a eleita do seu coração subiram á carruagem real. O magnificente cortejo atravessou as ruas de Madrid por entre nuvens de pombas, que, lançadas das janellas, n'um numero prodigioso, esvoaçavam ás doidas por sobre as carruagens.</p>
 <p>Nos labios do rei desenhava-se um fino, um doce sorriso de felicidade, cuja expressão se póde traduzir n'uma só palavra: «Emfim!»</p>
 <p>FESTAS</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>FESTAS</p>
 <p>Seguiram-se as festas. Madrid accendeu-se como um só facho phantastico, cujos largos reflexos prysmaticos e agitados faziam lembrar um enorme "bouquet" de luz, osculado pela viração da noite. O Prado affigurava-se uma montanha de estrellas; as fontes de Neptuno, de Cybele e de Apollo jorravam scentelhas. Os palacios particulares, entre os quaes avultava o do marquez de Campos, pareciam feitos de crystal illuminado. Nas ruas, a multidão fremente ondulava como a superficie de um oceano. Fallava-se, bailava-se, cantava-se ao som dolente da guitarra. Os trovadores populares recitavam epithalamios no velho estylo romantico, cheios de pomposa rhetorica: «Luz que inundas de fulgôres os horisontes da patria; arco-iris da paz, penhor de felicidade, vive feliz e cumpre a tua missão.» Na praça de la Armeria seiscentos musicos e quatrocentos cantores entoavam um côro grandioso. Na Porta do Sol tres focos de luz electrica conservavam uma claridade metallica, prateada. A transição da noite para a aurora não se sentiria, se o sol não parecesse pallido, um sol de noivado, alegremente desbotado e malicioso, a todos os que ainda tinham os olhos habituados aos esplendores das fontes luminosas do Prado.</p>
 <p>No dia seguinte, 24 de janeiro, cantou-se na capella real de Santo Izidro o "Te-Deum" que as auctoridades de Madrid e a deputação provincial tinham resolvido mandar celebrar. Este acto religioso fez despertar a côrte, recomeçar o movimento das carruagens brasonadas. O rei e a rainha faltaram a esta festa, demasiadamente matutina, mas appareceram, radiantes de felicidade, na sala do throno, á hora da recepção: o rei vestido de capitão-general, com as suas gran-cruzes traçadas sobre o peito, a rainha em "costume" de côrte, de côr de rosa, que é a côr predilecta das noivas.</p>
@@ -190,7 +188,7 @@
 <p>O "Theatro Real", n'essa noite em que se cantou o "Roger di Flor", tinha um aspecto de grandeza oriental, porque uma facha de diamantes, que scintillavam sobre o peito das damas da côrte, formava um circulo de luz verdadeiramente deslumbrante, phantastico.</p>
 <p>No dia seguinte, concerto no theatro Apollo; no dia 27, revista militar em que trinta mil homens tomaram parte; depois... um diluvio de festas ruidosas, soberbas, e, no futuro -- quem sabe? -- talvez uma sombra, uma grande dôr, o reverso d'este quadro maravilhoso...</p>
 <p>PRESAGIOS</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>PRESAGIOS</p>
 <p>Por entre o resplendor das festas atravessa não raras vezes uma sombra fugitiva, que deixa no nosso espirito uma ligeira impressão. É a desgraça que passa agitando subtilmente a sua grande aza negra; adivinhando-a, nasce em nós o presentimento.</p>
 <p>Por entre as enormes lampadas de ouro, que, no dia da benção nupcial, illuminavam a bazilica da Atocha, adejou essa terrivel ave presaga, e, demorando-se um momento sobre uma das capellas lateraes, chamou para aquelle ponto a attenção de quantos alli tinham mais fina sensibilidade. Comprehendendo, estremeceram esses que viram isto. N'essa capella, um monumento de estylo antigo, um sarcophago de ferro com embutidos de ouro, guarda os restos mortaes do general Prim. Haviam escondido o tumulo para que elle não fizesse ouvir a sua voz sinistra por entre os canticos religiosos, e os hymnos da festa. Mas, postoque escondido, o tumulo fallava, e o presentimento chamou a attenção para o que elle dizia. Era a ideia da morte, do invencivel poder que tudo derruba, que desfolha todas as grinaldas, que envenena todas as felicidades: adivinhava-se tudo isto. Involto em tapeçarias, para que se não deixasse vêr, o gigante, se não podia bracejar, deixava presentir o seu vulto; de mais a mais aquelle tumulo era o do general Prim: poisavam sobre aquelle sarcophago dois vaticinios terriveis.</p>
@@ -206,7 +204,7 @@
 <p>Então lembrava-se dos seus amigos, dos seus condiscipulos de collegio: quizera que todos elles presenciassem a sua felicidade. Estando na familia, esquecia-se de que tambem estava no throno. Por isso escrevia ao archiduque Frederico de Austria, que estava para desposar a princeza Izabel de Croy: «Prohibo-te que me trates por magestade nas tuas cartas, trata-me como no tempo do "Teresiano". Quando te casares vem a Madrid com tua mulher, a qual travará conhecimento e amisade com a minha, porque Mercedes é muito boa e amavel. Recordaremos os antigos tempos. Assim passarás uma lua de mel tão feliz como a que eu desfructei.» N'estas poucas linhas está um hymno de felicidade; é a voz de um coração francamente sincero e ditoso -- d'um coração em flôr.</p>
 <p>Que pena que elle não podesse ser completamente feliz!</p>
 <p>NOIVANDO</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>NOIVANDO</p>
 <p>No mais profundo da floresta architectam as avesinhas o seu palacio de amor: afofam-n'o de plumas soltas, e de folhas verdes. Escondem-se assim das vistas curiosas, e celebram na profundesa do bosque o idyllio da sua felicidade.</p>
 <p>Em deredor ouve-se ás vezes um cantico, uma nota perdida; é uma phrase, uma estrophe do poema do noivado. Por esse som, que o vento vai levando de arvore em arvore, comprehende-se a sublimidade do mysterio que se occulta dentro de quatro musgos entretecidos em abobada.</p>
@@ -219,7 +217,7 @@
 <p>Entretanto a aguia negra, que roçára a sua aza pelo tumulo de Prim, trouxera-a de lá impregnada de uma poeira de morte, que sacudira sobre o palacio real das Hespanhas. Essa poeira, como se fôra uma chuva de fogo, crestára lentamente, invisivelmente as flôres do "boudoir" de Mercedes. Quem sabe se a pobre rainha, ao vêr languescer a primeira flôr do seu noivado, não lêra nas pétalas desbotadas um vaticinio horrivel! Essa flôr não podia ser por modo algum um symbolo do amor do rei; que esse amor, tão profundo, tão ardente, tão raro, era indubitavelmente do amor que fica quando as flôres emmurchecem. Mas, como sempre, essa pequenina flôr era a imagem da morte: hontem sorrira ella no "bouquet" nupcial de Mercedes, hontem lançára sobre o vestido roçagante da rainha o reflexo colorido da sua formosa corolla. Hoje derramára no ar a sua alma de aroma, e passára. Porque não seria Mercedes como ella? Flor pela formosura, tambem vivera hontem, hontem principalmente, no templo, ao lado de Affonso, e aos pés de Deus. Essa grande commoção bem sentia a rainha que devia ter consumido uma parte da sua alma; porque as commoções são de fogo, queimam. Portanto, que lhe restava? Deixar-se aniquilar como a flôr. Dar o seu ultimo olhar a Affonso, a sua derradeira lagrima á Hespanha, a sua alma ao céo. Emquanto o amor e a morte se digladiavam n'um duello terrivel, sangrento, talvez Mercedes dissesse comsigo mesma: «Ha cinco mezes que ouvi nas ruas a um pobre trovador popular que me saudava: Vai, rainha, tão bella como a flôr, sua irmã pelas graças da formosura. Se é verdade o que elle disse, que Deus receba a minha alma e proteja Affonso.» Depois, olhando por ventura para o relogio da sua camara, pela primeira vez acharia uma significação horrivel, atroz, n'aquella phrase outr'ora tão doce: "Para sempre!" "Para sempre", a eternidade, a separação completa, o cerrar dos olhos nas trevas do sepulchro, o esfriar do coração para não mais aquecer.</p>
 <p>De repente, os jornaes de Hespanha annunciáram que a rainha Maria de las Mercedes havia enfermado gravemente.</p>
 <p>AGONISANDO</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>AGONISANDO</p>
 <p>Era entrado o estio. Os grandes calores iam queimar as ultimas flôres que estrellavam os campos. Uma febre terrível prostrára effectivamente a formosa rainha de Hespanha. Nem as flôres do throno escapavam ao ardor da sazão.</p>
 <p>A Europa ficou dolorosamente surprehendida, alvoroçada com essa triste noticia. Quando a vida de uma noiva corre perigo, parece que sente a gente a oppressão de um dia de inverno em plena manhã de primavera. E essa noiva era ao mesmo tempo uma rainha: tinha o triplice prestigio da sua posição, da sua formosura e da sua virtude. Pertenciam-lhe tres corôas: uma de ouro, porque era rainha; outra de larangeiras, porque era noiva; a ultima de rosas, porque era bella. Profanar tres corôas de uma só vez, affigurava-se uma impiedade, um crime. A enfermidade que prostrou a rainha Mercedes pareceu desde logo um attentado da natureza contra a natureza, um facto horrivelmente extraordinario.</p>
@@ -239,7 +237,7 @@
 <p>A doente parecia querer luctar contra a escuridão que lhe obumbrava o cerebro. Aproveitava os raros instantes de lucidez para achegar a si a cabeça do rei, para lhe beijar a mão.</p>
 <p>E todavia já não podia fallar.</p>
 <p>MORTA!</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>MORTA!</p>
 <p>Foi demorada, longa, a agonia da rainha. Os laços que a prendiam ao mundo eram tão recentes, que foi preciso um grande esforço da morte para os fazer estalar. Alem do que, não se vence facilmente o combate travado com um exercito de affectos. O amor defende-se até á ultima barricada. E os duques de Montpensier, que eram paes, estavam alli, á beira do leito, firmes como sentinellas vigilantes; e D. Affonso XII, que era esposo, estava alli tambem, immobilisado na estupefacção das grandes dôres, tendo a mão direita poisada sobre a fronte da moribunda. As irmãs do rei e da rainha faziam das suas lagrimas uma como ultima defeza. Quadro verdadeiramente grandiosa em sua melancolica e commovente sublimidade!</p>
 <p>Alvoreceu no céo de Hespanha a manhã do dia 26 de junho. Estava escripto no livro dos destinos humanos, que fosse aquelle o ultimo dia da rainha. Poucas horas poderia viver ainda, segundo o prognostico dos medicos. Então o amor teve de se confessar vencido perante a morte. A esperança na sciencia fugiu; veio substituil-a a esperança na misericordia de Deus.</p>
@@ -259,7 +257,7 @@
 <p>O senado, que reuniu pouco depois, tomára identicas resoluções.</p>
 <p>Á beira do leito funerario d'aquelle cadaver illustre não havia outros murmurios que não fossem os das orações ciciadas por todos os labios. O gigante da eloquencia parlamentar inclinára a fronte em lacrimosa mudez. A politica embainhára as armas de combate, e principiára a tecer a capella de rosas brancas que costuma engrinaldar a cabeça das noivas mortas. O throno de S. Fernando cobria-se de longos crepes. E sobre essa montanha de lucto, que a Hespanha inteira contemplava, elle, o moço rei, na solidão moral da sua dôr, seguia ainda com a vista embaciada de lagrimas a via lactea da saudade que a rainha, ao voar para regiões ignotas, deixára semeada de estrellas, como um traço luminoso das suas azas. Dil-o-ieis um velho chorando sobre ruinas. Ruinas do coração, que são as mais tristes de todas ellas.</p>
 <p>O FUNERAL</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>O FUNERAL</p>
 <p>O cadaver da rainha de Hespanha foi transportado, na manhã do dia 27, para o salão das Columnas. Depositaram-n'o sobre uma cama imperial, do tempo de Filippe V, ao meio do salão, e poseram-lhe entre as mãos um crucifixo de ambar.</p>
 <p>Só a architectura da sala podia denunciar que estava alli a noiva do rei, tão simples era a decoração d'esse quadro funebre.</p>
@@ -276,14 +274,14 @@
 <p>Tal é, no vasto e sombrio templo do Escurial, a camara mortuária da noiva do rei de Hespanha.</p>
 <p>Poucos dias transcorridos após o funeral, D. Affonso XII sahiu de Madrid. Seguiu o mesmo caminho que o feretro da rainha percorrera. Um rastro de lagrimas o guiava para o Escurial. E um discreto segredo guarda ainda hoje a confidencia das angustias do rei n'essa primeira entrevista, depois da morte, com a doce companheira do seu ninho de amor.</p>
 <p>LUCTO</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>LUCTO</p>
 <p>Episodio encantador:</p>
 <p>«Um cego, de apparencia decente, -- contáram os jornaes, -- costuma postar-se todos os dias na Porta do Sol, em Madrid, tocando flauta e permanecendo descoberto, mesmo nas estações mais rigorosas.</p>
 <p>«Assim que circulou em Madrid a noticia do fallecimento de sua magestade a rainha D. Mercedes, o pobre cego envolveu a flauta n'um pedaço de "gaze" preta, e foi collocar-se no mesmo sitio, sem tocar.</p>
 <p>«Nem por isso foi menos farta a colheita das esmolas. A caridade publica soube comprehender e recompensar aquella commovente delicadeza.»</p>
 <p>VIUVEZ</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>VIUVEZ</p>
 <p>Quando ao sol-pôr, n'uma suave tarde de primavera, nos vamos sentar, profundamente melancolicos, sobre o fraguedo que domina o horizonte, onde os longinquos resplendores do occaso fazem lembrar os reflexos de um palacio aereo illuminado para um sarau cavalheiresco, o nosso olhar tem o condão de não vêr atravez do florido scenario da natureza e do fundo auriluzente do céo mais que o ideial da sua melancolia.</p>
 <p>Assim tambem o rei Affonso, atravessando com o seu pensamento maguado as festas ante-nupciaes do archiduque Frederico de Austria, o companheiro querido de collegio, só tinha presente a imagem saudosa de Mercedes, a solidão immensa da sua viuvez inconsolavel.</p>
@@ -294,7 +292,7 @@
 <p>Dôr profunda, que uma mulher, tambem rainha, e tambem viuva, comprehendia chorando. A rainha Victoria enviava ao rei de Hespanha estas eloquentes palavras:</p>
 <p>«O meu coração está profundamente ferido pela vossa desdita, meu querido irmão. Que espantosa desgraça quiz Deus enviar-vos! Que Elle vos dê a força necessaria para supportar tão terrivel perda.»</p>
 <p>A BAZILICA</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>A BAZILICA</p>
 <p>N'uma deliciosa novella de Octavio Feuillet, que toda a gente conhece, "Le roman d'un jeunne homme pauvre", avulta, entre outras, uma nobre figura de velha fidalga, a snr.ª Porhoet, que, atravez dos gelos dos seus oitenta annos, entreve os caprichos architectonicos d'uma sonhada cathedral, em cuja edificação consumirá os fabulosos haveres a que se habilita por um antigo pleito.</p>
 <p>Ha uma doce poesia religiosa n'esta veneranda figura de mulher, em cujos sonhos se lhe entremostra a esplendida cathedral, arremessando para o azul os seus corucheos phantasticos, as suas agulhas floreadas, que se enlabyrintham n'uma aerea floresta de marmore.</p>

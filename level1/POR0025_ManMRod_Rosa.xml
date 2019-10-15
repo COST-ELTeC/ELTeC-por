@@ -21,7 +21,7 @@
 <extent>
 <measure unit="words">59170</measure>
 </extent>
-<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-10"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>A Rosa do Adro (Luso-livros)</title>
@@ -52,7 +52,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2019-10-10">Checked by releaseChecker script</change>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-09">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>

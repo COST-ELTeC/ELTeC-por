@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0053" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>O Barão de Lavos: Edição para o ELTeC</title>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">106373</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>O Barão de Lavos (Luso-livros)</title>
      <ref target="http://www.luso-livros.net/"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
        <title>O Barão de Lavos </title>
        <author>Abel Botelho</author>
-       <publisher></publisher>
-       <pubPlace></pubPlace>
+       <publisher/>
+       <pubPlace/>
        <date>1891</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2018-11-22">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -65,7 +63,7 @@
 </div>
 </front>
 <body>
-<div><head>CAPÍTULO I</head>
+<div type="chapter"><head>CAPÍTULO I</head>
 <p>Naquela noite de Março, desabrida e húmida, uma grande animação fervilhava alacremente ao fundo da Rua do Salitre. Era em 1867. Frente a frente, as Variedades e o Circo Price alinhavam os seus bicos de gás festeiros, a que as vergastadas do noroeste impunham um tremelilhar inquieto. Quinta-feira -- noite de cabriolas com sobrescrito à fina sociedade. Enchente certa no Circo. De cada lado do portal da entrada, um semicírculo compacto de gente se agitava, tendo por centro cada um seu postigo de bilheteiro, e ambos por igual colados, premidos sofregamente contra a parede verdoenga do barracão, e arredondando pela rua fora, numa irregularidade gritada e confusa, a toda a largura do macadame. Tudo queria bilhete. Havia chapéus tombados, ombros que penetravam à cunha, braços arpoando vigorosamente os alizares castanhos dos postigos, mãos retirando triunfantes, muito erguidas, com um papelinho azul ao vento.</p>
 <p>A cada minuto a agitação crescia. Pregoavam água fresca, pastelinhos, tâmaras. de um primeiro andar, com tabuinhas verdes, logo abaixo do Circo, meninas de batas brancas suplicavam: -- Psiu! Não sobes, ó catitinha? -- aos janotas que passavam. Rodopiava no ar, a cada estocada de vento, um cheiro pelintra a iscas e a refogado. A iluminação profusa dos dois teatros doirava, remoçava, erguia as caliças octogenárias das Variedades, acendia espelhamentos fulvos no basalto húmido da calçada, e fazia entrever na penumbra, pela rua acima, o renque tortuoso dos prédios que subiam. De vez em quando, uma carruagem passava; e no seu rápido passar entre os dois teatros, uma dupla fita de fogo lhe corria na fluidez do polimento.</p>
 <p>Um homem vagueava ali, contudo, que não parecia dar-se grande pressa em entrar. Ia e vinha, parava, escoldrinhava a multidão, passava automaticamente de grupo a grupo, nesta ansiedade tortuosa de quem procura com aferro alguém. No olhar, dilatado e teimoso, de uma secura inflamada e vítrea, fulgurava ardente a obstinação de um desejo; ao passo que na boca a brasa do charuto, num labirinto febril de pequeninos movimentos bruscos, denotava que os lábios e as maxilas eram sacudidos nervosamente por uma forte preocupação animal.</p>
@@ -220,7 +218,7 @@
 <p>E a baronesa, toda de alma na leitura:</p>
 <p>-- Vai indo, que eu já vou.</p>
 <p>O barão saiu pela porta do toilette, num bocejo arrastado, enquanto ela, depois de uma leve expiração de alívio, continuava interessadamente a ler.</p>
-</div><div><head>CAPÍTULO III</head>
+</div><div type="chapter"><head>CAPÍTULO III</head>
 <p>No dia seguinte, ao almoço, um constrangimento acre molestava os dois esposos, instintivamente. O que quer que era de vagamente arreliador pairava.</p>
 <p>Uma turbação rebarbativa de desgosto, de mal-estar, de disputa suspensa ensombrava aquela atmosfera conjugal, na aparência tão calma. Cada um dos dois tinha o pensamento posto num desejo antípoda do seu comensal; e daí cada um sentir que a tormenta se encastelava rápida e que, inevitavelmente, uma faísca de ódio havia de chispar ao encontro desses dois antagonismos.</p>
 <p>Ambos, contudo, se empenhavam, mais por um sentimento de decoro doméstico, do que por uma razão egoísta de prudência, em retardar quanto possível a deflagração iminente.</p>
@@ -371,7 +369,7 @@
 <p>-- Sirva-mo e trate-mo bem, veja lá!</p>
 <p>-- O menino fica ao meu cuidado; vá descansado, senhor barão.</p>
 <p>O pederasta desceu rápido a escada, leve desta alegria efémera que segue de perto a satisfação de um capricho. Mas em baixo, à porta, a luz forte do exterior cegou-o, acendeu-lhe num clarão doloroso a consciência... Então invadiu-o uma impressão de cobardia e de desgosto, caiu na fase do tédio, e foi seguindo pela rua estrangulada e suja, a que uma faixa límpida de azul fazia tampa, medroso e triste, quase arrependido, a malucar em mil preocupações funestas que o seu hipocondrismo desatara a sugerir-lhe.</p>
-</div><div><head>CAPÍTULO IV</head>
+</div><div type="chapter"><head>CAPÍTULO IV</head>
 <p>Quando os barões de Lavos entraram na sala dos seus amigos Paradelas -- Rua de S. Filipe Nery --, um silêncio de troça reprimida imobilizava os íntimos daquela noite em volta a uma pequena mesa, em que o coronel Militão se sentara a escrever. Apenas pressentiu a sua querida amiga, D. Leonor correu a abraçá-la, toda efusiva e alegre.</p>
 <p>-- Chegas na melhor ocasião! -- segredou-lhe logo que trocaram o último beijo. -- O coronel está-me escrevendo uma poesia no álbum.</p>
 <p>-- Oh! Que bom! -- comentou D. Elvira, com uma faúla escarninha a camalear-lhe o âmbar dos olhos translúcidos.</p>
@@ -611,7 +609,7 @@
 <p>Por isso, novamente dobrado sobre a baronesa, afagou-a com um segundo beijo, desta vez demorado, caricioso, firme, seguido de outros, vertidos cantadamente na cabeça, nos olhos, na face, no colo... no pescoço, e cortados por um entaramelamento de balbuciações apaixonadas.</p>
 <p>-- Deixa-me, ouviste?... Já te disse... Não estou para graças... Maçador! -- repelia ainda a baronesa, já sem azedume, sem energia, amolentada, morta, a vontade suspensa e os nervos formigantes ao contágio sensual do marido. E acrescentou, num tom de voz sumido mas ressonante, como se falasse de um ponto muito distante, à beira de um rio: -- Peço-te, vai-te deitar.</p>
 <p>E o barão deitou-se, mas ao lado dela, imperioso, trémulo... E após uma pequenina luta, os dois breve afogaram num íntimo amplexo -- longo, suspirado, elétrico -- as últimas asperezas da contenda.</p>
-</div><div><head>CAPÍTULO V</head>
+</div><div type="chapter"><head>CAPÍTULO V</head>
 <p>Depois do encontro na Rua da Rosa com o efebo, D. Sebastião sentia-se devastado, cada vez mais empolgativamente, pela sua sinistra andromania.</p>
 <p>As entrevistas continuavam-se, diárias quase, absorventes, intermináveis, doidas; ora de dia, escandalizando com as baixas alucinações da sua febre o luaceiro alvadio e calmo que o sol peneirava pela trama dos stores, corridos discretamente; ora de noite, vividas em tumulto numa epilepsia de sugestões lascivas, fomentadas e protegidas pela deformação crepuscular das coisas, que um só candeeiro com pára-luz iluminava escasso, e lubricamente ainda exacerbadas por um vago resfolgar de sensualidade que vinha frequente, através o soalho, fumegando, do primeiro andar.</p>
 <p>Muitas vezes, depois de uma demorada cena amorosa, de tarde, com o rapaz, o barão saía combalido, esgotado, trôpego, com os nervos debilitados, o olhar dorido, a alma humilhada e sombria. Mas então, por isso mesmo que caíra fraco, o vício, longe de ser para ele, como para as organizações sadias, uma simples derivação acidental de gozo na normalidade fisiológica da sua vida, dominava-o inteiro, montava-o, torcia-o, fundia-lhe o cérebro, fazia-lhe crescer no sangue uma obsessão de fogo... e o pobre pederasta lá voltava logo à noite, poucas horas decorridas, a fechar numa segunda cena de erotismo a parentesiação do seu desejo.</p>
@@ -797,7 +795,7 @@
 <p>Nestas disposições chegou à porta de casa. Fumegavam-lhe os pés; ourava- se-lhe a cabeça, extenuava. Precisava descansar, dormir... Súbito -- ia a meter o trinque na fechadura --, hesita, acode-lhe ao cerebelo uma onda escandecente... Guardou a chave, voltou costas e repelou via para a Baixa, num passo estugado, desigual, incerto. E correu a esquadrinhar os recessos das ruas, os desvãos das portas, a sombra paludosa dos becos, as quinas dos sumidouros -- abrasado, exasperado, inquieto, como um lobo faminto.</p>
 <p>Afinal, debaixo do Arco do Bandeira, deu com um garoto esfarrapado e torpe, e nele foi cevar ignobilmente, ao primeiro recanto imundo de viela, a bulimia sensual que o devorava.</p>
 <p>Amanhecia.</p>
-</div><div><head>CAPÍTULO VI</head>
+</div><div type="chapter"><head>CAPÍTULO VI</head>
 <p>Na tarde desse dia, por volta da uma hora, Eugénio, que tinha acabado o seu almoço, acendeu um charuto, levantou-se da mesa e passou à sala da frente, a abrir uma das sacadas. O dia estava limpo, sereno, primaveralmente lúcido. Parecia novo em folha o sol; o céu era de esmalte. Apetecia ir fora de portas, pelos campos adiante, às papoilas, os pulmões banhados de ar fresco, os pés enterrados na verdura. Um vendilhão subia a rua com um burro pela arreata, carregado de hortaliças; de minuto a minuto soltando o seu pregão retumbante, cabeça levantada, olhos fechados e a mão posta contra a face, de anteparo ao ouvido, espalmada, enorme. Um surdo rolar de trens tremulejava.</p>
 <p>A meio da rua, em baixo, dois galegos descarregavam trastes velhos da padiola para dentro do bric-à-brac.</p>
 <p>Eugénio recebia em cheio a luz do rosto, consoladamente, neste vagar, neste descanso voluptuoso de quem não tem cuidados. Vizinhas anémicas olhavam-no gulosas, implorantes. Ele, sem as ver, distraidamente, deixou a varanda, lançou um olhar de relance à sua pessoa diante do espelho do toucador, chegou-se à mesinha de pé-de-galo e tomou ao acaso um dos desenhos, que se pôs a examinar, para matar o tempo, com uma atenção vaga e indiferente, com uma indolência feliz.</p>
@@ -1085,7 +1083,7 @@
 <p>Como a baronesa parecesse não ter entendido, ele repetiu:</p>
 <p>-- Vem jantar, ouviste?</p>
 <p>-- Ouvi -- fez automaticamente a baronesa, que tinha ainda no ouvido o passo arrastado do homem grisalho e gordo.</p>
-</div><div><head>CAPÍTULO VII</head>
+</div><div type="chapter"><head>CAPÍTULO VII</head>
 <p>-- Então, vai-lhe parecendo bem Lisboa? -- disse para Eugénio o barão, comodamente reclinado, perna traçada, numa cadeira Luís XV, toda em pau- santo, os quatro pés figurando garras, o espaldar, alto e ligeiramente côncavo, terminando num trifólio de plumas.</p>
 <p>E Eugénio, muito bem ensaiado:</p>
 <p>-- Eu tenho gostado... mas, verdade, verdade, esperava mais.</p>
@@ -1397,7 +1395,7 @@
 <p>Fazia cauda o Florindo.</p>
 <p>Assim conseguiram, numa grande confusão de vozes e de gestos, levar o janota para longe; enquanto o barão se arrojava para a cadeira de couro, e na sua frente o marquês, em pé, de braços cruzados, murmurava amigável, bamboando a grande cabeça luminosa:</p>
 <p>-- Sempgue sem juízo!</p>
-</div><div><head>CAPÍTULO VIII</head>
+</div><div type="chapter"><head>CAPÍTULO VIII</head>
 <p>Foi crescendo, ascuando ladravazmente a paixão por Eugénio na alma doente do barão. O seu temperamento descraseava-se; dominava-o o orgasmo daquela obsessão violenta e dolorosa. Uma excitação devastadora e ácida escareava-o, fazia-o alternadamente gozar e sofrer. Ora andava luminoso e afável, leve desta alegria ruidosa e boa que marca no homem a realização de um capricho; ora se volvia desconfortado, triste, o ar inquieto e suspicaz, a face encorreada e sombria.</p>
 <p>Poder de resistência nenhum. Escravo da cacoquimia ingénita, ia trupando cegamente na cauda dos seus instintos.</p>
 <p>De princípio, antes de conhecer Eugénio, estas predileções antinaturais tinham de ordinário uma ação toda exterior e uma duração efémera. Eram exceções morais; erros, apetites de um dia. A falta de equilíbrio da sua organização dava-lhe à emotividade uma hiperestesia doente; e um histerismo da inteligência, junto com uma exageração do sentimento plástico, faziam-no sensível em extremo às várias formas de beleza. Qualquer harmoniosa ligação de cores, de linhas, por insignificante que fosse, impressionava-o. O mínimo elemento estético, para a grande maioria despercebido, feria-lhe a retina com uma intensidade despótica e veemente. Ficava o barão subjugado. -- Tal corpo esbelto de efebo, tal perna elástica de varina, uma ondulação de cinta, um quadril nervoso, um talhe de olhos, um corte de cabeça, um quadro, um móvel -- que a multidão encarava fria, indiferente --, a ele atraíam-no, prendiam-no, picavam-no de gula, torciam-no de rábidas apetências; e o barão buscava então apreender, tocar, admirar longamente, possuir por todos os sentidos o objeto que assim vinha atormentar a sua idiossincrasia artística em violências irresistíveis. Porque logo, fatalmente, por uma degradação natural, se lhe convertia esta alta emoção, toda da inteligência, num movimento sensual ou numa irritação lasciva.</p>
@@ -1613,7 +1611,7 @@
 <p>-- Tenham atenção com estas senhoras.</p>
 <p>E os longos, magros dedos do pederasta, seguro pelos pulsos, vermiculavam, estertoravam, debatiam-se em torções de raiva.</p>
 <p>Então no espaço uma girândola subiu e estralejou, festiva. Romperam simultâneas o hino real as bandas. A multidão abria alas, premia-se, alinhava- se cortesmente; e pelo meio da rua, ao longo da vasta clareira avermelhada, uma altiva e rara elegância feminina avançava, vestida de branco -- pausada, majestosamente --, ao lado de um homem baixo e louro, fardado de almirante, o ar confrangido e doce, cortejando.</p>
-</div><div><head>CAPÍTULO IX</head>
+</div><div type="chapter"><head>CAPÍTULO IX</head>
 <p>Sentada num pequeno fauteuil, de cretonne em ramos, no toilette, a baronesa considerava que Eugénio, sentado na sua frente, e adormecido, era realmente um jovem apetitoso e belo.</p>
 <p>Nunca reparara bem como ele era; nunca lhe dera para atentar nas feições do rapaz. Instintivamente, sem bem saber porquê, ela de si para si tivera como assente, desde o princípio, que aquele criançola, vindo não sabia bem donde, talvez um intrujão, talvez um vadio -- pela sua intuição feminina recebido em todo o caso com desconfiança e reserva --, era alvar e grosseiro, tinha as mãos ásperas, a epiderme torrada das intempéries, a luz dos olhos apagada e gasta na frequentação de vícios bordescos, os pés chatos, enormes... e não sabia dizer duas coisas direitas, nem tratar com senhoras. Por tudo isto lhe votava uma indiferença paredes meias do desfavor. E todavia -- era singular! -- o rapaz tinha umas feições lindas.</p>
 <p>-- Bem dizia o barão! -- Uma cabeça daquelas, assim pequena e redonda, com um emaranhamento de cabelo tão crespo e tão abundante, não era vulgar; a curva do sobrolho, solta e fácil, pincelada com firme elegância sobre umas pestanas de anjo, sedosas, longas, fazia sonhar... a boca era um cravo; e na ponta da barba, então, que covinha tentadora! -- Nunca devia deixar crescer pêra este rapaz... Mosca, bigode e mosca, simplesmente.</p>
@@ -1832,7 +1830,7 @@
 <p>-- Ó Sebastião! que ficas em terra!</p>
 <p>Era tempo. O monstro gemeu, arfou, numa sonora inspiração, a preparar- se para a caminhada; e logo a deslocar-se sobre os rails com um estrondo ferralhado e cheio. Ergue-se de ADEUS um saudoso smorzamento; palpitam acenos de mãos, de chapéus, de lenços; cruza o ar uma ou outra frase perdida.</p>
 <p>O barão debruçou-se. Num segundo, o asfalto é deserto e o grande réptil de aço vai já com o seu penacho de fogo serpentinando longe. E, já também longe, ainda o barão, debruçado sempre, a olhar, não desfita a fieira luminosa do gás da gare, que ele vê apequenando e fugindo rapidamente.</p>
-</div><div><head>CAPÍTULO X</head>
+</div><div type="chapter"><head>CAPÍTULO X</head>
 <p>Na Figueira a breve trecho entrou de sentir-se entaliscado o barão. A fútil vacuidade do viver elegante das praias causticava-lhe de tédio o espírito, a par e passo que a alma lacrimava por Eugénio as mais acres e ferventes instilações da saudade. Longe do seu ídolo, aquele temperamento de emocionista exacerbava-se.</p>
 <p>Dia sobre dia, ganhava-o a tristeza. Varrera-lhe o cérebro a amnésia de tudo quanto fosse excêntrico ao seu amor. E assim, gradualmente foi marasmando num como estado de passividade orgânica, numa inânia de imbecil ou de selvagem, numa alheação, num desdém, numa reserva, numa transcendente e muda hostilidade, que lhe davam a aparência imponderável de um sonâmbulo e quase por inteiro o separavam do conflito da vida exterior.</p>
 <p>Eram, horas e horas, parêntesis duros de meditação, de incêndio íntimo, de devastadoras regressões ao passado -- essa pátria da alma --, pela divina tortuagem de cujas volutas ele largava a escabujar doridamente a fantasia, enquanto, de olhos cerrados e mãos sobre o ventre, hipocritamente perreava o corpo numa imobilidade. Era um sistemático fugir ao convívio mundano, um vergonhoso receio da grande luz do dia, um asco mortal da sociedade. Era para com a baronesa o diálogo todo em monossílabos, e oposições de vontade, repentes de génio, ralhos. Eram pelo campo, sobre a tarde, té horas mortas da noite, solitárias, intermináveis caminhadas.</p>
@@ -1991,7 +1989,7 @@
 <p>Doíam-lhe os bicos dos peitos, tinha frio nas fontes, o coração parava-lhe... Cingida sempre por Eugénio, languidamente recumbiu sobre a causeuse... e suplicava ainda:</p>
 <p>-- Não! Não! Eugénio... Isso não!</p>
 <p>Fora, pela cidade, acendiam-se as primeiras luzes. O anónimo resfolgar da multidão ressoava mais alto e mais limpo como uma troça, na fresquidão da noite. No imenso empilhamento irregular dos prédios as ruas cavavam-se como valas -- negras, direitas, fundas. E pela enxuta limpidez do céu, no ocaso, a nuvenzita afilada e ténue avolumara, alastrando, opaca e roxa, como uma grande nódoa.</p>
-</div><div><head>CAPÍTULO XI</head>
+</div><div type="chapter"><head>CAPÍTULO XI</head>
 <p>Desde esse dia uma fase nova se abriu, de comoções e turbulências, na vida regrada e simples da baronesa. Como um golpe de luz, numa tela de Velasquez, chispa de repente a dar valor às caóticas confusões do claro- escuro, assim a ousadia máscula de Eugénio veio aquecer e tomar férteis, vibrantes as modalidades daquela alma baça de burguesita, cujos valores sensoriais e afetivos, mercê das condições de educação e convivência, se tinham té ali conservado nulos, espatinados, surdos. O efebo foi da ânsia latente de gozar dessa branca juventude, o Galvani afortunado. A sua amorosa investida foi o revelador de quanta sede de prazer bravejava ignorada na carne e no espírito da mulher do barão.</p>
 <p>Porém as primeiras horas que seguiram àquela brutalidade quente de adultério amargou-as cruelmente Elvira numa passividade de assombro, numa opressão de asco e de vergonha, num parêntesis negro de tristeza. Depois, seguidamente, nos primeiros dias, o arrependimento, a aflição e a dor preponderaram. -- Mas, Santo Deus! Como fora aquilo?... Que coisa tão vil, tão sem-razão, tão animal, tão torpe!... E agora ei-la aí estava, acorrentada à vontade daquele homem... e indigna dos seus, marcada, suja para sempre!... A sua consciência de burguesa condenava-a; as próprias solicitações, mediocremente sensuais, do seu temperamento e a equilibrada abstenção do seu passado, eram incapazes de compreender, e de absolver portanto o exoterismo implacável da paixão, nem as veemências cálidas do desejo. Por isso Elvira queria-se mal da cobardia dos seus sentidos, da sua aquiescência criminosa. Não dava com os olhos no barão de frente; flagelavam-na terrores, insónias, frios, pesadelos. E, cheia de remorso e de tédio, via a vida dos outros como do fundo de um subterrâneo moral, muito acima da sua, iluminada, longe...</p>
 <p>Porém também, a cada passo, a porção de primavera e de azul a que a sua juventude tinha direito, crescia a litigar por ela. As inclinações naturais absolviam-na. No plebiscito inflamado de todos os seus nervos o amor vencia. Mal que o efebo, a horas próprias, apontava junto da baronesa, ela atirava-se-lhe, tremendo, contra o peito apolíneo, numa como ânsia vitoriosa e exultante, e colava os lábios aos lábios, sorvia-o, cingia-o, estrangulava-o, a desforrar-se, na cachoante exultação de um magnífico instante de loucura, dessa chateza dissaborida e mesquinha do seu viver interior. Gozavam... E depois, dormente no abandono lânguido, feliz, na complacente lassidão em que os paroxismos do prazer nos amolentam, a baronesa demorava as mãos entre as mãos do efebo, sentava-se-lhe no colo, afagava-o e olhava-o longamente, numa expressão empanada e húmida, misto de gratidão e de ternura.</p>
@@ -2108,7 +2106,7 @@
 <p>-- Que quer vossemecê dizer com isso? -- interrogou o barão, intrigado.</p>
 <p>E ela, sem responder, como se não tivera ouvido, muito cortês, toda humilde, a cuia em riste sobre o ócciput, seguiu caminho da porta, apenas resmoneando velhacamente, com um compungido pendular de cabeça, numa simulação teatral de piedade:</p>
 <p>-- Mal empregado senhor!</p>
-</div><div><head>CAPÍTULO XII</head>
+</div><div type="chapter"><head>CAPÍTULO XII</head>
 <p>Deu a insinuação seu natural efeito. Destramente vertida na desabusada confiança do barão, achou fácil e ajeitado campo ao seu veneno a babugem roaz da alcoviteira. -- Mal empregado, ele?... E aquilo dito com que modo!</p>
 <p>Com uma tão compassiva expressão... como que a avisá-lo... Era singular! Mas avisá-lo de quê, no fim de contas?... -- E o barão, contrariado e frio, diligenciava cerrar ouvidos à cavilosa cantilena; e com a sua versatilidade egoísta e o seu sistemático fugir a coisas ponderosas, teimosamente lidava em afastar essa arreliativa névoa de suspeita.</p>
 <p>Mas a maligna insídia tinha caído a propósito. Minuto a minuto, mau grado o esforço em contrário, a suspeição voltava; e a sua ação corrosiva ia no ânimo do barão causticamente esfervilhando. -- Nada, seguramente ali havia alguma coisa... Só pela raiva de se ver despedida, não se punha agora a velha ali assim, que diabo! a improvisar uma calúnia qualquer. O caso era mais sério... Pensando bem, para lá da agressiva feição daquelas frases problemáticas entrevia-se pulsando uma intenção excelente. Era isto, por certo... Nem de outra forma podia decifrar-se o olhar enviesado com que ela, ao falar, trespassara Elvira. Aquilo não era ódio, era indignação... não era uma desforra, era um castigo... Claramente... Porque a mulher vergara!... -- E, já rapidamente seguindo uma outra ordem de ideias, o barão reflexionava: -- A mulher... É verdade, sim, ele afinal, ninguém diria! Mas era um homem casado... tinha lar, tinha mulher, tinha obrigações morais, tinha família... Havia uma frágil e gentil criaturita, de cujo viver se apropriara, cujo destino fizera comparte do seu, cuja alma, cujos afetos, cujo coração assimilara... criatura graciosa e frágil, desarmada, ingénua, para quem ele se constituíra no dever, perante a Igreja e perante o mundo, de ser sempre um bom companheiro desvelado, um protetor, um pai, um amante e um amigo. E contudo, ignóbil coisa! Ei-lo que aí levava a mais solta e escandalosa vida de celibatário! Uma vida descosida, infrutuosa, desprezível, porca... toda em dissipações da pior espécie, toda em canalhismos obscenos, em crapulosos desvarios, vida inconfessável, sórdida, vida de animal, vida de vadio... só em casa para comer e dormir... e isto mesmo sempre mudo, sombrio, desdenhoso e árido... cego a mimos e atenções, ingrato a carícias, surdo a galanteios, alheio a ternuras... tendo esquecido deveres, tendo abjurado promessas, tendo votado a pupila da sua alma a um desprezo humilhante... a tudo e a todos sempre antepondo os seus prazeres, odiando tudo quanto fosse às suas predileções, excêntrico... sempre ardidamente rodopiando na vertigem das suas paixões de lama, sempre tudo ferozmente imolando ao seu sibaritismo insaciável, sempre doido e fogoso a trupar na ala ardente das suas fantasias!... Ora a mulher era nova, bonita, pretendida, frívola... Que muito de admirar, então, se...</p>
@@ -2447,7 +2445,7 @@
 <p>E recaía a devorar amargamente a gravura:</p>
 <p>-- E um rico pendant, é... à minha desgraça!</p>
 <p>E as pelhancas da face pingando em bagadas de lágrimas.</p>
-</div><div><head>CAPÍTULO XIII</head>
+</div><div type="chapter"><head>CAPÍTULO XIII</head>
 <p>Serenado o alvoroto que na mudez cava da noite as detonações do revólver do barão tinham acordado, não conseguia a baronesa, desnorteada e pávida, assentar ao certo no que devia fazer.</p>
 <p>Com a explicação de um caso qualquer de ladrões conseguira-se desviar a patrulha; a criadagem reacomodara-se; e Elvira agora, só, no toilette, num desassossego de espanto, debatia-se entre a ordenança imprescritível do dever e as alucinadas visões de um pavor indominável. -- O seu dever era ficar... bem o sentia... ficar e aguardar ali, numa passividade de ré colhida em flagrante, o veredictum do seu juiz e senhor legal, a punição da sua fraqueza, o castigo da sua infâmia. E aplicava o ouvido, assustada. -- Mas assim, tão nova!... Ele matava-a! Era o mais certo... E havia de ela sujeitar-se a esse horror, sem resistência nem protesto... com a vida tão cheia de risos e de promessas... assim prematuramente? -- Vinha-lhe uma revolta. -- Era talvez excessivo! Quando mais que para a lenta gestação do seu crime havia o marido concorrido também, em grande parte. O mais ferrenho cúmplice, ele, do seu desvario!... Pois quem, senão ele, lhe metera o rapaz à cara?... porque era assim, porque era assado... Quem a aquecer-lhes a intimidade... a estimulá- los... a aproximá-los... a facilitar-lhes os manejos, a amiudar-lhes as entrevistas?... Seria bom meter tudo isto em conta!</p>
 <p>E num rebate froixo de esperança, cobrando coragem, a baronesa serenava.</p>
@@ -2618,7 +2616,7 @@
 <p>Por tudo isto, breve um denso véu de descrédito se correu sobre o famoso atelier. Chamavam-lhe a fotografia dos «quadros vivos». A gente séria retraiu- se. Demandado era só por cocottes, caixeiros, estudantes, ou então pelos vários déclassés de todas as camadas, os quais, depois de servidos, diziam mal da casa e não pagavam.</p>
 <p>Para mais, não eram de uma garantida excelência os produtos da indústria do Mendonça. O atelier, encostado a um prédio muito alto, que o superava de uns poucos de andares, não estava nas melhores condições de exposição e de luz. As provas saíam sem claro-escuro, chatas, monótonas -- os negros muito negros e as várias cambiantes do branco diluídas numa tonalidade deslavada e fria. Não conseguiam agradar.</p>
 <p>Assim, a pouco mais de um ano de intervalo, o grande plano industrial e artístico do vate derrocava. Oprimidos por um deficit monstruoso e com a casa deserta, tiveram que fechar e liquidar.</p>
-</div><div><head>CAPÍTULO XIV</head>
+</div><div type="chapter"><head>CAPÍTULO XIV</head>
 <p>Correu então boato que Eugénio, o luminoso efebo, debutava brevemente, como ator, numa operetta em ensaios no Teatro da Trindade.</p>
 <p>Tinha assumido proporções de acontecimento este episódio trivial de bastidores. Eugénio não era um desconhecido. O ruidoso descalabro moral e material da vida do barão havia aurorado de uma picante tinta de escândalo o seu perfil insidioso e cínico; e, logo de seguida, uma aventura de amor com uma opulenta e formosa crioula, separada do marido, a quem o lascarino sugara contos de réis, em prolongada viagem pelo estrangeiro, acabara de bordar-lhe em volta ao nome uma bela lenda, romanesca e terrível.</p>
 <p>Por isso na noite da sua estreia, em grossas letras no cartaz anunciada, ainda bem antes da hora de começar o espetáculo já o teatro abarrotava de gente.</p>
@@ -2682,7 +2680,7 @@
 <p>Tinha descido. Ao receber o preço do aluguer do quarto, a criada, com os seios à cara, lançou-lhe o mesmo olhar comiserativo de ainda há pouco, enquanto com a ponta do lenço alimpava do suor a caluba. Na sala ao lado, tomava a patroa o seu chá e torradas. De bruços sobre o livro, a pequena adormecera.</p>
 <p>E o barão, já na rua, tudo era ainda meditar e bordar atenuantes sobre a extraordinária revelação do rapaz. Alçava com orgulho a cabeça, sentia-se reabilitado, reavia a própria estima. -- Isto do bem e do mal, da justiça e da iniquidade, da razão e do desvario, da santidade e do crime, era tudo relativo.</p>
 <p>Estava por fixar e medir o estalão do vício... E mesmo, afinal, pensando bem, essa ácida gota de linfa que lhe jorrara aos lábios, era uma coisa pura, transcendental, sagrada... era o gérmen misterioso da vida, o líquido fecundo e nobre por excelência... era o divino plasma de todos nós.</p>
-</div><div><head>CAPÍTULO XV</head>
+</div><div type="chapter"><head>CAPÍTULO XV</head>
 <p>O subsequente descrasear desta vida latrinária, as últimas anotações da torpe monografia, hemos de deixá-las apontadas a correr, em fugacíssimas legendas, acossados nesta pressa nauseada e medrosa do viajante que se vê forçado a saltilhar a deletéria vasa de um pântano.</p>
 <p>Porque, de ora avante, a vida do barão arrasta-se, turporosa e lôbrega, pelas inconfessadas volutas da chatinagem mais sórdida; e resvala às ínfimas degradações do pulhismo, da miséria, da loucura e da infâmia... A loucura em que ele se afundara sem remédio, no momento em que deixou por completo as suas paixões dominarem-no.</p>
 <p>Tinha na alma a corrupção do século. Impulsivo e maníaco, faltara-lhe sempre no dinamismo funcional dos nervos essa grande harmonia circunfusa que caracteriza os fortes. Agora merecia todos os desprezos, porque vergava a todas as torpezas. Tendo perdido o respeito de si próprio, claro que nenhum freio moral a reprimi-lo, nenhum valoroso dique oposto à assoladora onda das tentações e das curiosidades. Solitário e egoísta, sem ocupações, sem ligações, sem família, ele fizera da vida um regalado ofício de malandrim; uma cadeia prostibular de aviltamentos, vergonhas, inépcias, tresvarios; uma coisa sinuosa e solta, imunda, esfarrapada. Seguia direito e leve como um sonâmbulo, maquinal, num acto sem vergonha. E na despejada fruição da sua ascoenta vadiagem, só o vício tinha voz, só as mais baixas paixões tinham império... só ao farpão do último apetite é que desse pleno impaludismo a sua alma acordava.</p>
@@ -2748,7 +2746,7 @@
 <p>Nessas noites, infalível, bródio largo até desoras, com a corja dos salafrés filada. Eles mesmos marcavam o itinerário. «Corriam-se as capelinhas».</p>
 <p>Aturdido, contente, o barão obedecia. De ordinário mal chegava o seu cálice aos lábios; incendiava-o a aguardente. Não obstante, sempre o primeiro a entrar no botequim ou na tasca: bondava-lhe o prazer de dessedentar os outros; gostava de vê-los beber, e pagar ele.</p>
 <p>As frascárias estações do beberete iam sabiamente intervaladas de acolhidas à Calçada do Garcia, aos becos do Forno e da Ricarda. Aí, no mistério dos antros defumados a alfazema e candeias de petróleo, o sinistro andromaníaco sofria os mais aviltadores exercícios, prestava-se às mais secretas exações, às mais infames promiscuidades. E assim, nesta vesânia circular em volta às mesmas abjeções e aos mesmos vícios, teimava esbodegando a dignidade e a vida -- amarrado agora à cancela das casas suspeitas, logo rompendo a tragar mais uma gota de vitríolo na última baiuca ainda aberta, espojado depois nas enxergas dos alcouces -- pelos ínfimos bosteiros da cidade solto e doido completando o ciclo prostibular do seu destino.</p>
-</div><div><head>CAPÍTULO XVI</head>
+</div><div type="chapter"><head>CAPÍTULO XVI</head>
 <p>Estava uma senhora a Emazita, filha dos Paradelas. Alta, delgada e débil, o seu meticuloso porte, entre reservado e ingénuo, entre orgulhoso e tímido, era um documento enternecedor de boa assistência doméstica, era toda uma bíblia de educação e de carinho. Vestia sempre de branco, assim como a sua alma. E na clara expressão dos olhos cor do sumo do tabaco, essa perturbadora e indefinida metamorfose se operara, anúncio da transformação da criança em mulher.</p>
 <p>Notável a impressão que a sua esbelta figura de noviça na alma palustre do barão despertava. -- Notável sobretudo pela inesperada extravagância, pela teimosa e grave intensidade.</p>
 <p>Conhecendo-a de pequena, longe de toda a ideia sensual, sem se aperceber das leves mudanças nela dia a dia acrescentadas, afizera-se a olhá-la como uma coisa eternamente infantil, um bibelot a mais, uma adorável miniaturita, que ele gostava de contemplar e que amava de hábito, mas a frio, porque lhe era agradável de ver, unicamente. Votando-lhe assim não mais que este fundo pagão de ternura egoísta que frivolamente nos prende à posse de um quadro, de um livro, uma joia, um artefacto raro, um móvel precioso.</p>
@@ -2779,7 +2777,7 @@
 <p>Começara então de talhar-se a Avenida, iniciando Lisboa com o corajoso rasgar da luminosa artéria o tardio movimento da sua atual renovação. Era por toda a extensão da imensa rampa uma freima que alegrava, uma pressa, uma azáfama, um resoluto camartelar de faina e de progresso, uma ânsia valente de trabalho. Numa confusão babilónica, num caos colossal, com as novas construções os destroços baralhavam-se. Por toda a parte, em montão, caliças, barrotes no ar, troncos de rojo, cascalho, entulhos, barracas, ferramentas, paredões em osso, muros com espeques, aterros, covas, florestas de vigas, casas estripadas. Nesta inteligente desordem, neste raso desmantelamento um enxame de alvanéus formiga. Da vigorosa aluição do antigo vem o fresco gérmen do novo frondejando. De dia um arsenal, de noite um acampamento.</p>
 <p>E o eco multiplica bizarramente toda a casta de sólidos ruídos: o ranger das carroças na terra mal assente, o picar dos mármores, o carpintear nas madeiras, e buzinas, deflagrações, chicotes, derrocadas.</p>
 <p>Pelo vasto escampado vinha o barão de preferência passear a sua bravia febre de noctívago. -- Era ótimo, assim... tudo confuso, disforme... tudo às escuras! -- Rodava longe dos lumes das ceias dos operários, invadia os quintais, atascava-se nas covas, trepava aos monturos, ia triste colar à alvenaria fresca dos novos canos de esgoto a cabeça escandecida. Encarquilhado e adusto, como um figo passado, apequenara e sumira-se. Tão reduzido e tão vergado, que na rua a bengala a que se arrimava parecia, a par dele, enorme, e a sua croça puída salvava-lhe muito acima da cabeça. E era como a galopante desintegração material das suas células corria parelhas com a absoluta solidão moral da sua vida.</p>
-</div><div><head>CAPÍTULO XVII</head>
+</div><div type="chapter"><head>CAPÍTULO XVII</head>
 <p>-- Não leu hoje o Notícias! -- perguntava Horácio Martins à baronesa, aquela manhã, na salinha de costura, com os olhos frios maquinalmente seguindo-lhe o giro da agulha do crochet entre os dedos.</p>
 <p>-- Não, por exceção, é verdade... Que vem lá, que valha a pena? -- acudiu ela com indiferença, sem desfitar do trabalho.</p>
 <p>-- Sempre casa hoje a Emazita.</p>

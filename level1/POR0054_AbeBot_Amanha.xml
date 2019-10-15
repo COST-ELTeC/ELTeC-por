@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0054" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>Amanhã: Edição para o ELTeC</title>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">137087</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>Amanhã de Abel Botelho</title>
      <ref target="http://www.luso-livros.net/"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
        <title>Amanhã</title>
        <author>Abel Botelho</author>
-       <publisher></publisher>
-       <pubPlace></pubPlace>
+       <publisher/>
+       <pubPlace/>
        <date>1901</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="long"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2018-12-04">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -67,7 +65,7 @@
 </front>
 <body>
 <pb/>
-<div><head>CAPÍTULO I</head>
+<div type="chapter"><head>CAPÍTULO I</head>
 <p>-- Essa ceia está pronta? -- perguntou enfastiado o Serafim, cuja figura esgalgada e curva, tendo vencido o último degrau da escada, assomava oscilando à porta da cozinha.</p>
 <p>-- Há que tempos! -- respondeu-lhe, sem o olhar, uma mulherita atarracada e bruna, que no vão da chaminé, à esquerda da porta, mesmo junto à esquina, de candeia suspensa da mão esquerda mexia um tacho de barro fumando sobre e fogareiro.</p>
 <p>-- Bem... vamos então a aviar! -- comandou o operário, numa leve impaciência, atirando o corpo descadeirado e longo para cima de um mocho de pinho, de encontro à mesa, do outro lado da porta de entrada, e projetando o chapéu com arremesso.</p>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0062" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>Diário de uma criança: Edição para o ELTeC</title>
@@ -18,27 +21,22 @@
 <extent>
 <measure unit="words">8031</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook Quatro Novelas, de Ana de Castro Osório</title>
      <ref target="http://www.gutenberg.org/ebooks/29968"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
        <title>Quatro Novelas</title>
        <author>Ana de Castro Osório</author>
        <publisher>Typographia França Amado</publisher>
        <pubPlace>Coimbra</pubPlace>
        <date>1908</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -47,14 +45,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unmarked"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2018-08-31">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -62,12 +60,12 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlePage"><head>Diario duma criança</head>
+<div type="titlepage"><head>Diario duma criança</head>
 </div>
 </front>
 <body>
 <pb/>
-<div>
+<div type="chapter">
 <head>DIARIO DUMA CRIANÇA</head>
 <p>Creio que não é bem exáto o titulo que escrevi no alto da página. Isto não é verdadeiramente o «Diario duma criança», não é, mas sim a minha vida toda recordada dia por dia, hora por hora, com uma precisão de factos e sensações de que o Chico muito se admira.</p>
 <p>Decerto não sou muito velha -- fiz em março vinte e dois anos -- mas, assim mesmo, elle acha extraordinario como os episodios da minha infancia se me fixaram na memoria tão vivamente, e os posso recordar com tanta nitidez, como se a minha alma tivesse a receptibilidade mecânica de um fonógrafo.</p>

@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://distantreading.github.io/Schema/eltec-1.rng" ?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0055" xml:lang="pt">   
-<teiHeader >
+<teiHeader>
 <fileDesc>
      <titleStmt>
         <title>O Annel Mysterioso: Edição para o ELTeC</title>
@@ -19,27 +22,22 @@
 <extent>
 <measure unit="words">55076</measure>
 </extent>
-<publicationStmt>
-<p> </p>
-</publicationStmt>
+<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!-- --></publicationStmt>
 
-  <sourceDesc>
-<bibl type="digitalSource">
+  <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook O Annel Mysterioso: Scenas da Guerra Peninsular</title>
      <ref target="http://www.gutenberg.org/ebooks/33749"/>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
         <title>O Annel Mysterioso</title>
        <author>Alberto Pimentel</author>
        <publisher>Empreza da Historia de Portugal, Sociedade Editora</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1904</date>
-       </bibl>
-</sourceDesc>
+       </bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
-<p></p>
+<p/>
 </encodingDesc>
 
 
@@ -48,14 +46,14 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"></authorGender>
-<size xmlns="http://distantreading.net/eltec/ns" key="medium"></size>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"></canonicity>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"></timeSlot>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2018-11-12">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -69,7 +67,7 @@
 </front>
 <body>
 <pb/>
-<div><head>I</head>
+<div type="chapter"><head>I</head>
 <p>O Desgráça</p>
 <p>Entre os typos populares, que pouco a pouco vão rolando a sepulturas ignoradas, deixando após si o rasto de uma vida sobremodo accidentada de peripecias quasi sempre sombrias--rasto que só um ou outro escriptor se compraz em prucurar desde a cadeia ao degredo, do albergue ao cemiterio--avulta na tradição portuense um homem que por longo tempo ahi foi o alvo das assuadas do rapazio e dos chascos dos frequentadores de botequim. Uns chamavam-lhe o "José das Desgraças", outros simplesmente o "Desgraça".</p>
 <p>Parece dever inferir-se de tão lutuosa alcunha que a população da cidade lhe conhecia a biographia exuberante de lastimosos lances. Tal não ha. Quando elle passava coxeando arrimado ao seu bordão, sobraçada a guitarra inseparavel, de velho chapéo alto amassado, sobrecasaca abotoada, pendente a medalha de prata da guerra peninsular, annel d'ouro na mão esquerda, na bocca o enorme cigarro que elle proprio manipulava com pontas de charuto, seguido do cão fiel, que se chamava "Junot", por motivos que mais tarde desvelaremos, o gentio das ruas ou sorria alvarmente da pittoresca pobresa do excentrico mendigo, ou rompia em apostrophes de "Ó Desgraça! Ó Desgraça!" que elle parecia não ouvir ou despresar em sua imperturbavel serenidade.</p>
@@ -83,7 +81,7 @@
 <p>Ria a gentalha torpe d'aquella intima convivencia de homem e cão. E todavia não saía d'entre a arraia miuda o mais desgraçado dos populares a dizer ao pensativo guitarrista: «O teu cão sente e não fala; eu falarei por elle. Soffres decerto muito e precisas consolação. Eu sou tambem muito infeliz, muito mais do que tu, porque não tenho guitarra nem cão. Deixa-me pois compartir do teu cão e da tua guitarra, que eu te darei o que tu não tens, dois ouvidos que te escutem, uma voz que te responda.»</p>
 <p>Não. A desgraça é tão infeliz, que se ri da desgraça; é ella que se desauctorisa a si mesma. Só lhe falavam para chasqueal-o, para lhe cuspir na face a zombaria que elle, absorto no seu continuo cogitar, deixava resvalar aos pés.</p>
 <p>E todavia aquelle homem era um grande desgraçado, que só tinha no mundo a sua guitarra, o seu cão, e as suas recordações. O annel, que trazia na mão esquerda, podia matar-lhe talvez um dia de fome, mas não haveria miseria que lh'o arrancasse do dedo, porque as suas recordações estavam n'aquelle annel.</p>
-</div><div><head>II</head>
+</div><div type="chapter"><head>II</head>
 <p>Na quinta das Chãs</p>
 <p>Na noite de 17 de fevereiro de 1809, a morgada viuva da quinta das Chãs conferenciava gravemente com o seu capellão n'uma das salas terreas do solar, a duas leguas de Braga, sobranceiro á aldeia de Carvalho d'Éste. A morgada, senhora de uns sessenta annos, deixava entrever nas sombras da physionomia a tempestade que lhe agitava a alma; o capellão, passeando de um para outro lado, enviesava á morgada olhares investigadores, que para logo revelariam perfidia e cupidez.</p>
 <p>--É preciso partir, padre capellão, dizia afflictivamente a morgada. Se os francezes logram atravessar o rio Minho, estarão brevemente em Braga. A mim pouco me importaria a vida se não fosse Augusta, que a esta hora está dormindo na serenidade da sua innocencia. Tomára que chegasse o Teixeira para contar o que se passou. Diga o que disser, padre capellão, é preciso pensar maduramente. Meu genro fez-me depositária de um thesouro, que eu hoje quero salvar de todos os perigos, custe o que custar, porque se me affigura que já estimo mais Augusta do que aos seus proprios paes, e a seu irmão. Recebi minha neta aos 5 annos, porque á luz da consciencia conheci que melhor poderia eu sustentar uma criança, apesar das hypothecas da minha casa, do que um pobre capitão do exercito poderia sustentar dois filhos. O padre capellão administrava as propriedades. Que me restava a mim para não morrer de aborrecimento durante o dia? Augusta, a criança que me tinha sido confiada. Era ella a minha unica distracção, o meu unico amor; ha dez annos que este tecto lhe abriga a innocencia, e ha dez annos que eu abençôo a resolução de a chamar para amparo da minha velhice. Olhe que os annos tornam a gente egoista, padre capellão; a abnegação é só apanagio da mocidade. Não pense que me bastava a unica distracção do voltarete; é sempre a mesma cousa! Quando eu "peço licença" o padre capellão "prefere", e o Teixeira dá-lhe "codilho". Tambem é boa embirração a sua de "preferir" sem jogo. Nem que tivesse vontade de fazer mal... E o dia, estes longos dias da provincia, que não teem fim! Era morrer de fastio. Augusta trouxe-me cuidados e variedade. A principio com as suas exigencias de criança; agora com as suas ingenuidades de donzella. Vi, anno a anno, desabotoar a flôr. A flôr, disse bem, porque Augusta é realmente uma rosa... de quinze annos. E é que eu a estimo como seu jardineiro que sou. Instantemente lhe pedi que se deitasse para que não ouvisse dizer ao Teixeira as proezas que os senhores francezes teem feito lá para esse rio Minho. Mas, padre capellão, o que é certo é que eu já haveria partido para o Porto, se n'esta occasião estivesse prevenida com recursos. O padre capellão bem sabe...</p>
@@ -159,7 +157,7 @@
 <p>--Estava pensando que se não puderem entrar pelo litoral, poderão entrar por Chaves, porque o castello está desmantelado, disse o capellão com a maxima impudencia ou com a maxima velhacaria.</p>
 <p>--O quê?! perguntaram todos a um tempo, incluindo Augusta, que pareceu fulminada de raio.</p>
 <p>--Ah! sim... isto é quando elles entrarem. Vamos lá fazer a partida.</p>
-</div><div><head>III</head>
+</div><div type="chapter"><head>III</head>
 <p>Pomba que presente sangue</p>
 <p>A morgada das Chãs passou agitadamente essa noite, e do inquieto cogitar na solidão do seu quarto resultou levantar-se decidida a partir n'esse dia com a neta.</p>
 <p>O padre capellão negociou as cem moedas... comsigo mesmo, dizendo que as obtivera d'um proprietario mediante o desconto dos juros d'um semestre adiantado.</p>
@@ -220,7 +218,7 @@
 <p>    [2] Chamava-se então rua "Nova", porque o celebre governador     da cidade. Francisco d'Almada e Mendonça, fallecido em 1804, tinha     transformado a antiga rua das Hortas n'esta nova rua, que tomou     o seu nome.</p>
 <p>    [3] Por decreto de 11 de dezembro de 1808 toda a nação foi     obrigada a pegar em armas.</p>
 <p>    [4] Este facto consta do relatorio do proprio barão.</p>
-</div><div><head>IV</head>
+</div><div type="chapter"><head>IV</head>
 <p>Horrores da invasão</p>
 <p>Durante a noite de 28 para 29 continuou tão rijo o fogo, que o inimigo logrou forçar a bateria da Prelada.</p>
 <p>Grande era o pavor da cidade, e maior foi quando se soube que sua excellencia o bispo generalissimo se havia retirado para a Serra do Pilar.</p>
@@ -310,7 +308,7 @@
 <p>Momentos depois foi que o brigadeiro Victoria fugiu tambem, e que o capitão Graça Strech caiu morto na rua do Bomfim.</p>
 <p>Trabalhoso e arriscado foi o abrir caminho por entre a multidão que, semelhante a um grande mar, ondulava no vertiginoso fluxo e refluxo do desespero. Algumas vezes teve de se esconder, outras de retroceder, e só pela tarde chegou á rua nova do Almada.</p>
 <p>Abroquelado pela energia da coragem, e mais feliz ou mais infeliz que seu pae, venceu todas as contrariedades, até que finalmente, escoando-se por entre os grupos desvatrados, entrou em casa no momento em que ao fundo da rua assomavam tropas francezas que, senhoras de toda a cidade, continuavam o saque, as violações e a carnificina que tristemente assignalaram esse dia memoravel nos fastos da nossa historia.</p>
-</div><div><head>V</head>
+</div><div type="chapter"><head>V</head>
 <p>O juramento de vingança</p>
 <p>As casas da rua nova do Almada estavam pela maior parte desertas.</p>
 <p>Foi esta uma das ruas que mais lutuoso espectaculo offereceram. Os habitantes fugiram deixando abertas as portas, de modo que, á hora em que começou o saque, os francezes se locupletaram tranquilamente. Poucos foram os predios que lhes deram o breve incommodo de forçar a entrada. A este numero pertenceu, porém, a casa onde se conservou, entregue aos seus pavores, a familia Strech. José Maria, ao entrar açodado pela aproximação dos invasores, appellou para o ultimo recurso de defeza que lhe restava: fechou a porta. Lembrou-se de que os francezes se domiciliariam nos predios devolutos e de que não porfiariam em forçar uma entrada encontrando abertas tantas portas. Não pôde imaginar n'esse momento de suprema preoccupação que meditassem a pilhagem e a carnificina que, passadas horas, consummaram.</p>
@@ -400,7 +398,7 @@
 <p>--Sois vós! Podeis estar tranquillos, que a esta hora não haverá um só braço que tenha a energia de vos acommetter no vosso glorioso descanço. Tudo são orphãos e viuvas, que pranteiam cadaveres. Descançae, descançae, que muita coragem vos deve ter custado o assassinio de mulheres inoffensivas como estas! como todas! Oh! mas ámanhã a vingança acordará terrivel, e então vos pedirá contas das vossas atrocidades e das vossas infamias. Sim, ámanhã, nós todos, unidos por commum desgraça, seremos um só inimigo, porque a nossa vingança é uma, mas não imagineis que tendes a derrubar um só inimigo, porque serão muitas as cabeças a decepar, muitos os portuguezes a vencer... Onde houver um portuguez, haverá um soldado, porque elle pelejará por desaffrontar a memoria dos seus parentes, dos seus amigos, d'um filho, d'uma irmã...</p>
 <p>E curvando-se carinhoso para o cadaver d'Augusta, e tirando-lhe delicadamente do dedo o annel com que ella havia morrido:</p>
 <p>--E eu vingarei a vossa memoria, minhas santas amigas, e vingarei a tua innocencia, minha querida irmã... Por este annel o juro, que será o meu fiel companheiro, talvez o unico que me seja dado conservar até a hora da morte... Beijal-o-hei antes d'entrar em combate, e elle me dará a coragem dos valentes; elle será a minha égide protectora se a morte me quizer arrebatar a minha vingança..... Que Deus me oiça, Augusta. Sobre o teu annel, que nunca te desacompanhou, faço este juramento solemne, que jámais quebrarei...</p>
-</div><div><head>VI</head>
+</div><div type="chapter"><head>VI</head>
 <p>A mariposa do acampamento</p>
 <p>Fôra demasiado esforço para tão melindroso estado.</p>
 <p>O corpo, alquebrado pela dôr physica, parecia vergar ao peso d'aquella grande alma.</p>
@@ -474,7 +472,7 @@
 <p>Ella porém não precisava de appellido paterno. Era a filha do regimento. Chamava-se simplesmente Rosina, "lá gentille vivandière".</p>
 <p>Esta era a enfermeira do nosso ferido.</p>
 <p>    [5] Referencia á proclamação de Soult.</p>
-</div><div><head>VII</head>
+</div><div type="chapter"><head>VII</head>
 <p>No hospital de sangue</p>
 <p>Oito dias transcorridos, vamos encontrar Graça Strech, sentado no catre, convalescente, se bem que muito debilitado ainda, a relêr algumas das cartas que, por piedoso interesse de Rosina, pudera guardar debaixo do travesseiro.</p>
 <p>Os successos de tão breve curso de tempo pequena chronica requerem. Rosina tem sido para o soldado portuguez carinhosa enfermeira. Chasqueam-n'a as outras mulheres, encarregadas do serviço do hospital, de extremamente compassiva para o prisioneiro, e zombeteiramente aventam que, a julgar pelos prolegomenos, lhes não parece impossivel que o exercito portuguez inteiramente se deixe desarmar pelas vivandeiras francezas.</p>
@@ -518,7 +516,7 @@
 <p>Rosina, curvada para o doente, julgava amparar nos seus braços um homem que desejava viver para vingar a morte da mulher amada. A excitação febril do prisioneiro fazia-lh'o crer. Estava longe de suppôr que essa mulher fosse apenas irmã, ou antes que a desgraça d'esse homem fosse tamanha que tivesse de vingar a morte de uma familia inteira.</p>
 <p>Como, porém, Graça Strech lentamente parecesse recobrar alento, inclinou-se-lhe ao ouvido e maviosamente repetiu:</p>
 <p>--Se algum dia precisar do auxilio da pobre vivandeira, acredite que Rosina Regnau será sempre a mesma...</p>
-</div><div><head>VIII</head>
+</div><div type="chapter"><head>VIII</head>
 <p>O anjo da liberdade</p>
 <p>Foi-se restabelecendo o doente.</p>
 <p>Meiado abril, Craça Strech julgava-se robustecido sufficientemente para encetar a sua obra de vingança. Toda a sua attenção se concentrava na idéa fixa da fuga. Rosina continuava a ser para elle a dedicada, a solicita, a meiga enfermeira dos primeiros dias. Se em tão carinhosa dedicação estava occulto o germen do amor, se era aquella a mascara da alma apaixonada que tinha de respeitar conveniencias e circumstancias, não tardará que o saibamos. Todavia os seus sorrisos, posto que doces, revelavam tristeza. O coração a attraíl-a para aquelle homem, e o destino a distancial-a! Que elle soffria, era evidente. Mas por que soffria? Porque esse homem--suppunha-o ella--amára doidamente, com o fogo dos primeiros amores, com a loucura dos primeiros annos, e vira talvez correr, na hora da invasão, o sangue innocente da mulher amada. Porque esse sangue clamava vingança, e elle esperava apenas pela hora tremenda da represalia. Porque essas cartas que relia a toda a hora eram outros tantos protestos contra a tyrannia dos que venceram. Fossem dizer ao coração d'esse homem pungido pelo que ha ahi de mais excruciante na terra: «Despe o teu luto; enflora-te. Os que te mataram eram meus irmãos, mas quem te resuscitará serei eu. Com o sangue do cadaver, que desceu á tumba commum, regaremos as flôres da tua felicidade futura.» Não podia ser. Elle tivera razão quando disse: «Supponha que um homem havia ferido mortalmente seu pae. Que esse homem viesse agora dizer-lhe, Rosina, que lançasse ao fogo essa reliquia sagrada; que matára em nome da patria...» Referia-se a uma barreira insupperavel, e falava do maço de cartas, de um annel, de uma madeixasinha talvez. E as cartas relia-as elle, e annel tinha um na mão esquerda, tinto de sangue, que era talvez da pessoa cuja morte anhelava vingar. Que esperança podia, pois, ter Rosina no seu louco amor? Mas, por outro lado, quem ha de dizer ao coração que é loucura amar? Como havia ella, allucinada pela paixão, de raciocinar comsigo mesma: «Tu és a pobre Regnau, a vivandeira franceza, que acompanhas o exercito vencedor; elle é o soldado do exercito vencido, e vencido elle mesmo. Não se póde transpôr um abysmo, muito menos dois. Tantos são os que nos separam n'esta hora: o da vingança e o da nacionalidade!» Isto ninguem o diz; ella não o podia dizer. Amava, sim, mas amava sem esperança, e, o que é mais, amava com medo. Agrestemente a tratava elle a principio. Desde o dia em que ella lhe perguntou se chorava, e em que timidamente se abeirára do catre antes como enfermeira do que como amante, pareceu todavia abrandar um pouco mais o seu odio inspirado pelo nome francez. Conheceu decerto que ella não estava ainda pervertida, e condoeu-se. Mas condoer-se não é amar. E depois que desgraçado aquelle! Que pensaria elle fazer? Talvez matar-se. Prefiriria morrer a combater contra a sua patria, contra o seu nome de portuguez, contra as suas recordações. Como ella quizera sondar-lhe a alma e arrancar-lhe o seu segredo! O que importava, primeiro que tudo, era affastal-o da morte. Por isso o espionava Rosina, e cada vez era maior a sua solicitude. Não tardou porém a hora em que Graça Strech ia levantar uma ponta do véo mysterioso que occultava os seus designios.</p>
@@ -586,7 +584,7 @@
 <p>Graça Strech e Rosina Regnau saltaram ao barco.</p>
 <p>Estremeceu o barqueiro conhecendo o uniforme francez, mas Graça Strech acudiu a serenal-o com estas palavras:</p>
 <p>--Somos portuguezes, amigo. O habito não faz o monge. Salva-nos, e não te importe o mais. Afasta-nos, o mais depressa possivel, da cidade.</p>
-</div><div><head>IX</head>
+</div><div type="chapter"><head>IX</head>
 <p>Entre a vingança e o amor</p>
 <p>Foi o barco singrando Douro acima lentamente.</p>
 <p>Graça Strech lançou mão d'um remo e auxiliou o barqueiro, não sem haver arrancado de si mesmo, com fogosa violencia, a jaqueta do uniforme francez.</p>
@@ -687,7 +685,7 @@
 <p>    [6] «Historia antiga e moderna da sempre leal e antiquissima     villa de Amarante». etc., por P. F. de A. C. de A.--1814, pag. 54.</p>
 <p>    [7] «Historia geral da invasão dos francezes em Portugal»,     por José Accurcio das Neves. Tomo I, pag. 282.</p>
 <p>    [8] Veja-se "Elogio de Silveira", pelo padre mestre dr. fr.     F. de S. T., e "Silveira", poema por J. S.</p>
-</div><div><head>X</head>
+</div><div type="chapter"><head>X</head>
 <p>A hora do resgate</p>
 <p>Quatorze dias durou, como dissémos, a heroica defeza da ponte d'Amarante.</p>
 <p>Foi aquella uma proeza que requeria desfecho condigno, o que infelizmente não aconteceu. Reforçado o inimigo ao decimo terceiro dia de combate, e animado pela presença do marechal Soult, preparou-se para uma lucta decisiva, que o nevoeiro com que amanheceu o dia seguinte viera inesperadamente coroar.</p>
@@ -771,7 +769,7 @@
 <p>Era o grito de liberdade longos dias reprimido na garganta d'um povo inteiro.</p>
 <p>Era o jubilo d'uma nação, que parece apenas occupar alguns palmos de terra no mappa da Europa, á hora em que despedaçava as gramalheiras que por sobre os Pyreneus lhe lançára o César da França, e dizia ao vencedor de Austerlitz: «Tu prostraste a Prussia em Iena, a Russia em Friedland; tu levantaste sobre as baionetas dos teus exercitos os thronos de Napoles, da Hollanda, da Westphalia, e da Hespanha, mas nós fizemos estremecer na tua mão, ó demolidor victorioso, a alavanca com que procuravas revolver nos alicerces o solio portuguez. Que o amigo leopardo da Inglaterra te contrariasse, vá, porque a Inglaterra é muito poderosa. Mas nós, pequenos como somos, fazemos suster o vôo da tua aguia e, audazes como ella, gritamos-lhe para a amplidão que avassalla: Basta! Pára!»</p>
 <p>    [9] Sua Alteza Real.</p>
-</div><div><head>XI</head>
+</div><div type="chapter"><head>XI</head>
 <p>O que a vivandeira pensava</p>
 <p>Retiraram os francezes pelo norte de Portugal, acossados pelo exercito anglo luso.</p>
 <p>No dia 17 ganharam Montalegre, no dia 18 passaram a Alhariz, e no dia 19 entraram em Orense, depois de marchas tão violentas como trabalhosas, de perdas consideraveis, e de perseguida vivamente a sua rectaguarda pelas tropas alliadas.</p>
@@ -827,7 +825,7 @@
 <p>Sentiram-se passos.</p>
 <p>--Cala-te! apostrophou Rosina. Cala-te! Rosina Regnau já aqui não está. Fica apenas a "muda allemã".</p>
 <p>    [10] A "invenção dos jardins" por Gessner; tradução do sr.     Visconde de Castilho (Antonio Feliciano).</p>
-</div><div><head>XII</head>
+</div><div type="chapter"><head>XII</head>
 <p>Amor e ciume</p>
 <p>Foram proseguindo as operações da trabalhosa campanha de 1809 contra os francezes.</p>
 <p>Depois de segundo combate na ponte d'Alcantara, a 10 de junho, poderemos, por nos furtar a minudencias fastidiosas em romance, ir direitos á decisiva batalha pelejada nas proximidades de Talavera de la Reyna, em Hespanha, dirigida pessoalmente d'um lado pelo rei José, e por lord Wellington do outro.</p>
@@ -923,7 +921,7 @@
 <p>--Então dir-me-has tudo o que pensas, tudo o que sentes?</p>
 <p>--Tudo o que penso e sinto te direi.</p>
 <p>E o segundo beijo sellou esta promessa.</p>
-</div><div><head>XIII</head>
+</div><div type="chapter"><head>XIII</head>
 <p>Como acaba a tragedia de Goethe</p>
 <p>Não morrem os gigantes ao segundo golpe.</p>
 <p>Napoleão ergueu-se no senado francez, a 4 de dezembro de 1809, e sobrepujando com a sua voz a voz da Historia, como se lhe não andasse já descontada a gloria com dois consecutivos revezes na peninsula iberica, disse: «Tanto que eu appareça alem dos Pyreneus, o leopardo recolher-se-ha amedrontado ao oceano para fugir á ignominia, á derrota e á morte. A victoria das minhas armas será a do genio do bem sobre o do mal: a victoria da moderação, da ordem e da moral sobre a guerra civil, sobre a anarchia e as paixões destruidoras.»</p>
@@ -976,7 +974,7 @@
 <p>Se ali, n'aquellas paragens onde o grave Faria e Sousa achou que era torrão azado para localisar astucias de namorados; se áquella hora, como na tragedia de Goethe, estivesse ali Mephistopheles, bradaria com alegria satanica: "Perdida!"</p>
 <p>Bem podia ser porém que alguma voz do alto respondesse: "Salva!" Só se perde a mulher que não tem coração para comprehender o que é ser mãe.</p>
 <p>    [11] Do sr. Antonio de Serpa.</p>
-</div><div><head>XIV</head>
+</div><div type="chapter"><head>XIV</head>
 <p>Quanto custa ser mãe</p>
 <p>Em fevereiro de 1810 estacionava no valle do Mondego o exercito commandado pelo general Wellington, repousando das passadas lides, se bem que já apercebido para resistir aos movimentos dos francezes que de novo ameaçavam invadir Portugal.</p>
 <p>Beresford activamente se dedicava a exercitar e disciplinar as tropas, e a providenciar pelo que tocava a provisoes que se tornavam indispensaveis para a campanha que a todo momento se esperava, e cuja duração era imprevista.</p>
@@ -1048,7 +1046,7 @@
 <p>    Ensina-me pois agora     A desfazer a meada.     São parciaes os juizes,     E a justiça demorada.     Bem sei que perdia a causa...     Que meio? Lembra-te algum?     Tu lá tens dois corações,     E eu cá não tenho nenhum.</p>
 <p>    Para que nos custe menos     A resolver a questão,     Expliquemo-nos. Ha males     Que ás vezes nos trazem bens.     Vamos fazer um ajuste:     Tu dás-me o teu coração.     E guarda o que lá me tens.     ............................</p>
 <p>O brigue navegava já. E a musica parecia adormentar aquelles dois desgraçados: um porque levava seu filho; o outro porque o deixava ficar.</p>
-</div><div><head>XV</head>
+</div><div type="chapter"><head>XV</head>
 <p>A queda do gigante</p>
 <p>A historia da terceira invasão franceza, comquanto prenda com a nossa narrativa, não lhe é essencial.</p>
 <p>Muito de leve passaremos pois pelos acontecimentos que medeiam de julho de 1810 até agosto de 1814 e que, todavia, não podemos supprimir. Limitar-nos-hemos, em conformidade com o nosso plano, a um simples bosquejo não descabido em romance.</p>
@@ -1100,7 +1098,7 @@
 <p>A este tempo havia caído Graça Strech em lethal modorra, e retiravam-se os dois soldados receiosos de que o tenente não resistisse ao ferimento.</p>
 <p>Todavia, como poderemos ver pelo capitulo seguinte, não tinha de ser aquella a ultima hora da attribulada existencia de Graça Strech.</p>
 <p>    [12] "Historia de Napoleão Bonaparte", pelo dr. Caetano     Lopes de Moura, Vol. II.</p>
-</div><div><head>XVI</head>
+</div><div type="chapter"><head>XVI</head>
 <p>Uma festa no Porto ha cincoenta e nove annos</p>
 <p>Amanheceu festivo para a cidade do Porto o dia 15 d'agosto de 1814.</p>
 <p>Ainda de noite começaram a povoar-se as janellas, e a animar-se as ruas com enorme multidão.</p>
@@ -1236,7 +1234,7 @@
 <p>Um só conviva correspondeu a esses ruidosos brindes com um movimento de labios: foi Graça Strech. E á noite, quando toda a cidade se illuminava festivamente, era profunda a escuridão na sua alma.</p>
 <p>    [13] É fiel a descripção d'estes festejos; O auctor     encontrou-a n'um opusculo da epoca.</p>
 <p>    [14] Poema heroico de Francisco Rodrigues Lobo.</p>
-</div><div><head>XVII</head>
+</div><div type="chapter"><head>XVII</head>
 <p>Como madrugam as aves e os noivos!</p>
 <p>Obtida a baixa, Graça Strech poucos dias se demorou no Porto.</p>
 <p>Sentia-se asphyxiado na atmosphera em que respirára ao nascer. Punham-lhe medo as sombras; as ruas affiguravam-se-lhe tristes como avenidas de cemiterio. Duas vezes, alta noite, depois de dolorosissima lucta comsigo mesmo, estivera, encostado á parede fronteira á casa em que viveu os primeiros annos da vida, mergulhado em profunda meditação.</p>
@@ -1318,7 +1316,7 @@
 <p>--Pudera romper acolá, estando aqui o chafariz! observou grosseira e acertadamente o menino.</p>
 <p>D. Izabel offerecia ao seu noivo um copinho da agua da fonte, panacea para muitas molestias, entre as quaes as inflammações dos olhos.</p>
 <p>Tinha bons sentimentos: não queria marido cego.</p>
-</div><div><head>XVIII</head>
+</div><div type="chapter"><head>XVIII</head>
 <p>A Lenda d'Ashaverus</p>
 <p>Comprehende-se com que anciosa impaciencia viajaria Graça Strech. A Italia era para elle o unico raio de sol que lhe doirava o horisonte fechado em torno do navio. Ia ver Rosina e seu filho; agradecer a Pietro a protecção que provavelmente a uma e outro tinha dispensado, porque Rosina devia ser mãe havia quatro annos. A carta perdida era decerto a boa nova da maternidade... Mas, logo o animo, vesado a tristes phantasias, descontava esta esperança com vagos receios. Todavia a visita ao cemiterio de Cedofeita insinuava-lhe na alma o doce calor da fé. Queria chegar a Italia, desenganar-se. Levava ao berço do filho a tranquillidade aprendida á beira do tumulo da irmã. A Italia! a Italia! a terra promettida do Moyses errante! Quando appareceu em frente do navio uma nuvem pardacenta, e a voz de "Terra"! alvoroçou a tripulação, o coração de Graça Strech doidejou desde a alegria expansiva da criança até á timidez receiosa da mulher.</p>
 <p>A Italia! O formoso sol da Italia a enxugar as lagrimas de tão longa ausencia! A alma de Rosina Regnau a animar no desconforto, a premiar na alegria! A alma e a voz! A liberdade do coração e da palavra! Um lar modesto, muito modesto, pobre até, o filho a esvoaçar d'um lado para outro, a chilriar, os cabellos loiros a brincarem-lhe em derredor da cabeça; Rosina a viver arroubada entre os sorrisos do pae e do filho; n'uma palavra, a felicidade que não escurece quando chega a noite; á porta, de cabellos alvejantes, tranquillo, sentado ao sol, Pietro, o "canta-storie", a concertar as cordas da sua harpa, e a entoar, com a sua voz já cançada, mas ainda sonora, a "Capuana"; fóra, o céu d'Italia, o azul suavissimo, o sorriso da natureza, a eterna primavera meridional!</p>
@@ -1376,7 +1374,7 @@
 <p>--Se fosse no tempo de Napoleão, ia um esquadrão de cavallaria atraz da carruagem. Napoleão mandava exercitos atraz de toda a gente.</p>
 <p>Dizia isto como um homem que se entre-lembra vagamente das coisas do mundo. Passou a carruagem do duque de Richelieu, e elle logo se esqueceu da França para se recordar da missão em que ia consumindo baldadamente a vida.</p>
 <p>--Vamos com Deus, e com a pobre guitarra! E seguiu para Pariz.</p>
-</div><div><head>XIX</head>
+</div><div type="chapter"><head>XIX</head>
 <p>A terra da promissão</p>
 <p>Graça Strech chegou a Pariz no inverno de 1816.</p>
 <p>Estavam n'essa occasião agglomeradas na capital da França as andorinhas errantes da musica das ruas, que todos os annos saem do vasto ninho da Italia, a percorrer a Europa inteira. De todos os "virtuosi" que n'essa occasião poisavam em Pariz, apenas cinco ou seis seriam francezes, e um só era portuguez, Graça Strech.</p>
@@ -1469,7 +1467,7 @@
 <p>Era que para o publico, como para Rosina, aquelle annel tinha mysterio.</p>
 <p>Graça Strech de novo colheu a filha nos braços, de novo a beijou com os olhos razos de lagrimas, mas a pequenita, soltando-se com vivacidade, disse para o homem que segurava a harpa:</p>
 <p>Vamos lá, Giovanni, vamos com meu pae, que não morreu!</p>
-</div><div><head>XX</head>
+</div><div type="chapter"><head>XX</head>
 <p>O manuscripto de Pietro</p>
 <p>Pietro morrera um anno antes, em Londres, logo depois que de Pariz passára a Inglaterra. Acamou, no miseravel albergue em que se hospedára com a pequenita, victima d'uma febre aguda. Ás primeiras horas de leito conhecera que era chegado o termo da sua vida. Antes que estivesse impossibilitado de raciocinar e falar, mandou chamar Giovanni, um antigo conhecido, em quem depositava confiança e, não sem difficuldade, porque já a cabeça começava a pesar para a sepultura e o cerebro a escurentar-se com as trevas da morte, lhe disse:</p>
 <p>--Giovanni, tu és um homem de bem e, diga-se a verdade, inimigo de trabalhar. Tens vivido sempre em companhia de musicos que te dão alguma coisa porque tu lhes carregas com as harpas e os realejos. Ora, meu amigo, é chegada a occasião de fazermos um negocio e, nota bem, o ultimo.</p>
@@ -1549,7 +1547,7 @@
 <p>Torno a repetir que escrevo este documento para que Augusta melhor comprehenda um dia como eu a amei, ou para que seu pae, se Deus o resuscitar, porque em verdade o supponho morto, veja que não trahi a confiança que depositou n'um desconhecido. Se eu morresse em Napoles, quereria ser enterrado ao pé da "signora". Não fui o seu guarda em vida? Continuaria a sel-o depois de morto. Como de certo morro aqui, porque a minha doença é grave, apenas tenho a pedir que rezem um "Padre Nosso" pela minha alma, quando abrirem este documento, que fica em poder de Giovanni.</p>
 <p>"Fechado em Londres aos 25 de novembro de 1815:"</p>
 <p>                                                                PIETRO.</p>
-</div><div><head>XXI</head>
+</div><div type="chapter"><head>XXI</head>
 <p>Epilogo</p>
 <p>Estava escripto no livro dos destinos que não houvesse felicidade completa para Graça Strech. Encontrava o coração da filha como verdejante oasis no immenso deserto que a morte de Rosina lhe estendia deante dos olhos. Era uma gota d'agua para matar uma sêde d'amor que o requeimou durante sete annos; um só raio de sol que se coava á negridão em que o destino o havia enclausurado; uma unica flôr a alegrar o caminho interposto á velhice precoce e á valla que o esperava algures.</p>
 <p>Entre lagrimas e sorrisos apertou contra o coração esphacelado o corpinho flexivel da criança; tinha a filha nos braços e sentia nas mãos a friagem da terra que cobria a campa da mãe; irradiava-lhe uma aurora contra o rosto, e os clarões cambiantes espelhavam-se no pranto que lhe sulcava as faces.</p>
