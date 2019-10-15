@@ -22,7 +22,7 @@
 <extent>
 <measure unit="words">121709</measure>
 </extent>
-<publicationStmt><distributor ref="https://zenodo.org/communities/distant-reading">Distant Reading for European Literary History (COST Action 16204)</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-10-15"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
       <title>Project Gutenberg EBook Os filhos do padre Anselmo</title>
@@ -53,7 +53,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
+<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-20">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
