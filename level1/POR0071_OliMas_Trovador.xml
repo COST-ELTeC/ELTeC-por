@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>O trovador da Infanta: Edição para o ELTeC</title>
-<title level="s"> Romance historico dos seculos 15.º e 16.º</title>
+<title level="s">Romance historico dos seculos 15.º e 16.º</title>
 <author>Oliveira Mascarenhas, Joaquim Augusto de (1847-1918)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -22,7 +22,7 @@
 <extent>
 <measure unit="words">68424</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2019-12-30"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+<publicationStmt><p>Added to ELTeC repo on <date>2020-1-12</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O trovador da Infanta</title>
 <ref target="https://archive.org/details/otrovadordainfan00olivuoft/"/>
