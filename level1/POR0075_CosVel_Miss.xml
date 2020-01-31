@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Miss Kate: Edição para o ELTeC</title>
-<author>Velho, Cosme (-)</author>
+<author>Velho, Cosme (1848-1911)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>
@@ -46,7 +46,7 @@
 </langUsage>
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
-<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
 <canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
