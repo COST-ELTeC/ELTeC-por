@@ -51,12 +51,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-2-28">Mudada a classificação de canonicidade</change>
 <change when="2019-12-30">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
