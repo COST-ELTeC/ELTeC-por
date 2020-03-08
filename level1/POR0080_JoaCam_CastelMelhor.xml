@@ -22,7 +22,8 @@
 <extent>
 <measure unit="words">196507</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>2020-2-10</date></p></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-2-10--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O Conde de Castel Melhor: romance histórico</title>
 <ref target="https://archive.org/stream/ocondedecastelme00cama/"/>
@@ -32,8 +33,7 @@
 <publisher>O Primeiro de Janeiro</publisher>
 <pubPlace>Porto</pubPlace>
 <date>1903</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
@@ -48,12 +48,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2020-03-08">Checked by checkup
+                script</change>
 <change when="2020-01-12">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>

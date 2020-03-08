@@ -22,7 +22,8 @@
 <extent>
 <measure unit="words">92171</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>7-2-2020</date></p></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 7-2-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Margarida: Scenas da vida contemporanea</title> 
 <author>Júlio Lourenço Pinto</author>
@@ -53,12 +54,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2020-03-08">Checked by checkup
+                script</change>
 <change when="2020-02-07">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -467,7 +469,7 @@
 <p>Ouvia missa com um grande livro espalmado nas mãos e parte da sua vida trabalhada dispendia-se pelas sachristias entre as pompas  das cerimonias religiosas, enfardelado nos hábitos das ordens terceiras e nas opas das  confrarias.</p>
 <p>Á politica era avesso e resistira sempre ás instancias dos partidos militantes que o sollicitavam; repugnavam á sua indole pacata  as exaltações odientas dos corrilhos, e depois concluia sempre -- tão bons são uns como outros.</p>
 <p>Nem mesmo o seu amigo Joaquim de Araujo lograra quebrar a sua abstenção politica.</p>
-<p>«Porque se os homens -- tregeitava largamente o negociante--se os homens importantes se não mettem n'estas cousas, são os pelintras que hão-de dar as cartas? Ainda ha pouco me dizia o governador civil, estavamos a conversar com alguns amigos, poucos, só os mais importantess. . . Não conhece o novo governador civil?. . Hei-de apresentai o, boa pessoa, somos amigos, em chegando ao governo civil é entrada franca no gabinete, esteja quem estiver. Elle também sabe  que emfirmeza de caracter e dedicação ao governo nem que andasse com um prego acceso, e o ministro disse-lhe ao ouvido duas palavrinhas.. . que eu e o ministro, o meu amigo sabe-o muito bem, somos unha e carne. Ainda ha dias tive uma carta. . . E não é por me gabar, mas elles também sabem que sou homem para as occasiões e quando metto a cabeça. . .</p>
+<p>«Porque se os homens -- tregeitava largamente o negociante--se os homens importantes se não mettem n'estas cousas, são os pelintras que hão-de dar as cartas? Ainda ha pouco me dizia o governador civil, estavamos a conversar com alguns amigos, poucos, só os mais importantess. . . Não conhece o novo governador civil?. . Hei-de apresentai o, boa pessoa, somos amigos, em chegando ao governo civil é entrada franca no gabinete, esteja quem estiver. Elle também sabe  que em&#x91;firmeza de caracter e dedicação ao governo nem que andasse com um prego acceso, e o ministro disse-lhe ao ouvido duas palavrinhas.. . que eu e o ministro, o meu amigo sabe-o muito bem, somos unha e carne. Ainda ha dias tive uma carta. . . E não é por me gabar, mas elles também sabem que sou homem para as occasiões e quando metto a cabeça. . .</p>
 <p>E assim ia rolando n'esta ladeira de palavras, porque o snr. Araujo, quando fallava, e  sobretudo em politica, era uma catadupa palavrosa, como uma fonte que expelle um tapume compressor, rebentando em borbotões impetuosos.</p>
 <p>Mas todas as torrentuosas investidas do influente ministerial eram impotentes para quebrar a indifferença politica do pai de Fernando, e comtudo o digno capitalista não levou a  sua isenção até ao ponto de recusar a graça de duas commendas, nem tão pouco se  recusou, depois do caso das commendas, e era perspectiva de um titulo, a concorrer para o triurapho dos candidatos ministeriaes com o poderoso auxilio da sua bolsa.</p>
 <p>-- Para isso, sim senhor, pode contar commigo, diz muito bem snr. Araujo, é preciso dar uma lição a essa sucia} ordem e credito primeiro que tudo, tem razão, é preciso dar força a um governo serio.</p>
@@ -588,7 +590,7 @@
 <p>Um rubor afogueava as faces de Adelina, e fazia protestos com risinhos ingenuos e modestos.</p>
 <p>Fernando insistia e redobrava de expressões amaveis, aduladoras. Adelina estendeu o braço para o album, a manga larga correu um pouco para traz, descobrindo a meio um braço roliço, de um contorno firme que estreitava no pulso e se alargava, bem torneado, para o cotovelo, de uma brançura baça, como a de um marfim antigo, a que tirassem o lustro, e com uma penugemsinha sedosa, muito leve.</p>
 <p>Luiz explicou que o retrato tora tirado ha muito tempo, havia physionomias difficeis.</p>
-<p>-- Elle, por exemplo, nunca conseguira tirar um retrato que o satisfizesse, era um desgraçado, todos o desfavoreciam. Só um lhe ficara soffrivel, foi quando se vestiu em costume de Mephistopheles, em Lisboa, parao baile da viscondessa de Alpedrinha. Ficava-lhe mesmo bem com a penna de galo sobre a gorra e as lantejoulas a reluzir; estava muito bem caracterisado, tinha mesmo um ar satanico... um costume de furor... todos o diziam...</p>
+<p>-- Elle, por exemplo, nunca conseguira tirar um retrato que o satisfizesse, era um desgraçado, todos o desfavoreciam. Só um lhe ficara soffrivel, foi quando se vestiu em costume de Mephistopheles, em Lisboa, para&#x91;o baile da viscondessa de Alpedrinha. Ficava-lhe mesmo bem com a penna de galo sobre a gorra e as lantejoulas a reluzir; estava muito bem caracterisado, tinha mesmo um ar satanico... um costume de furor... todos o diziam...</p>
 <p>Em quanto Luiz se extasiava revendo-se, em memoria, na sua figura mephistophelica, Adelina, um pouco curvada para Fernando, virava as folhas do album, indicando outros retratos.</p>
 <p>Os cabellos cahiam-lhe na testa em franja muito frisados, alguns fios annellados, mais  rebeldes levantavam-se vaporosamente, iam roçar com muita leveza pela testa de Fernando  e elle sentia um perfume de vaga suavidade.</p>
 <p>Fallavam de photographias, Fernando tirou do album dous retratos, um de Luiz, outro de Adelina, com promessa de permutação, fallaram de outras cousas, a intimidade estabelecia-se, como entre velhos amigos. Fernando ergueu-se, pegou do chapeu.</p>

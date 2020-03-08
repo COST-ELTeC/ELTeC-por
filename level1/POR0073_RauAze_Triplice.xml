@@ -21,7 +21,8 @@
 <extent>
 <measure unit="words">30607</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>2020-1-12</date></p></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-1-12--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Tríplice Aliança</title>
 <ref target="https://archive.org/details/tripliceallian00azevuoft"/>
@@ -31,8 +32,7 @@
 <publisher>Parceria António Maria Pereira</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1907</date>
-</bibl>
-</sourceDesc>
+</bibl></sourceDesc>
 </fileDesc>
 
 <encodingDesc n="eltec-1">
@@ -47,12 +47,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2020-03-08">Checked by checkup
+                script</change>
 <change when="2020-01-12">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -799,7 +800,7 @@
 <p>-- Sim! É por vera riqueza espalhada na minha Patria, derramada por todo este continente assombroso, que eu desejo, que eu quero, a união defensiva da America do Sul. Não é com palavras e salamaleques internacionaes que se occultam planos imperialistas... A época é de conquista, do mais forte. O fraco fatalmente cairá na luta, seja travada ás claras ou na sombra. Precisamos nos unir, estreitar os laços de fraternidade e harmonia, porque -- digamos a grande verdade, -- todos os nossos paizes são cobiçados porque são ricos, e todos nós, isolados, não podemos enfrentar o leão dominador, seja elle europeu ou americano... Ligados, saberemos nos fazer respeitar, e, no  dia decisivo que peço ao Deus supremo nunca chegue, a onda crescerá e para vencel-a será necessario muito trabalho. Sim! Nós os da America do Sul, devemos ser pela paz, pelo progresso, pela ordem! Dar ás velhas Nações o exemplo do respeito e da concordia... Mas, no momento em que o imperialismo quizer nos estender as suas azas de côrvo, então, sob um mesmo pavilhão, como um só braço, devemos cerrar fileiras em prol destas Nações ambicionadas. Brazil, Chile, Argentina, Venezuela, Bolivia, Colombia, Uruguay, Equador, Peru, Paraguay, todos, unidos e fortes, saberemos zelar  tradições guardadas com carinho e conservar immáculos os estandartes sempre gloriosos. Chamem-nos de utopista... Nem os Estados Unidos, nem as Nações conquistadoras da Europa, desejam se apossar de terras ou riquezas da America do Sul... Nada, apenas boatos infundados, calumnias que não merecem reparos! Mas, façamos sempre a grande união, e, bem armados, continuemos a troca amistosa de saudações e de visitas duma cordialidade fraternal. Ah! meus bons amigos, eu tenho um sonho que me acompanha, miragem fascinante e tentadora que me segue... -- Um dia, talvez não mui longinquo, esta America será o celleiro do mundo, prospera e feliz, forte e respeitada, armada e querida! As suas Nações, com grandes exercitos e grandes esquadras, pregarão a paz e o amôr! A agricultura e a industria prosperas, todos os campos immensos do Sul e do Norte arroteados! A fortuna e a concordia, a riqueza e a força, -- e, lá no alto, abençoada pelo Deus, generoso e bom, omnipotente e immáculo, desfraldada aos ventos bonançosos, acima o céo azul e vasto, abaixo a terra fertil e uberrima, -- a bandeira victoriosa e branca, estreitada e pura da Triplice Alliança! </p>
 <p>Rio de Janeiro, março de 1903. </p>
 <p>Manáos, março de 1904. </p>
-<p xml:lang="la">>Si vis pacem, para bellum. </p>
+<p xml:lang="la">&gt;Si vis pacem, para bellum. </p>
 </div>
 </body>
 </text>

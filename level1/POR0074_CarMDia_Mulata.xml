@@ -21,7 +21,8 @@
 <extent>
 <measure unit="words">103676</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>13-1-2020</date></p></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 13-1-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>A Mulata</title> 
 <author>Carlos Malheiro Dias</author>
@@ -29,7 +30,7 @@
 </bibl><bibl type="firstEdition">
 <title>A Mulata</title> 
 <author>Carlos Malheiro Dias</author>
-<publisher></publisher>
+<publisher/>
 <pubPlace>Rio de Janeiro</pubPlace> 
 <date>1896</date>
 </bibl><bibl type="printSource">
@@ -52,12 +53,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="high"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
+<revisionDesc><change when="2020-03-08">Checked by checkup
+                script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2020-01-13">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>

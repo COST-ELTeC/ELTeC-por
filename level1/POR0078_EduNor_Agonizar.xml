@@ -22,7 +22,8 @@
 <extent>
 <measure unit="words">70360</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>3-2-2020</date></p></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 3-2-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O agonizar de uma dinastia</title> 
 <author>Eduardo de Noronha</author>
@@ -50,12 +51,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2020-03-08">Checked by checkup
+                script</change>
 <change when="2020-02-03">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -66,7 +68,7 @@
 </div>
 </front>
 <body>
-<div>
+<div type="chapter">
 <p>PRIMEIRA PARTE </p>
 <p>AMOR DE CREANÇA </p>
 </div><div type="chapter"><head>I</head>

@@ -21,7 +21,8 @@
 <extent>
 <measure unit="words">45604</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>27-1-2020</date></p></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 27-1-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O médico do deserto</title> 
 <author>José Joaquim Rodrigues de Bastos</author>
@@ -52,12 +53,13 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
+<revisionDesc><change when="2020-03-08">Checked by checkup
+                script</change>
 <change when="2020-02-28">Adicionada informação sobre a primeira edição</change>
 <change when="2020-01-27">Adicionado à coleção ELTeC</change>
 </revisionDesc>
