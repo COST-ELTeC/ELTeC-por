@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<canonicity xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
@@ -72,8 +72,8 @@
 <body>
 <p>JOSÉ PEREIRA, O DEMOCRATA </p>
 <div type="chapter"><head>I</head>
-<p>Em 1850, vivia em Lisboa um mancebo de dezoito annos, chamado José Pereira, em companhia de seus paes, pobres anciãos desprotegidos da fortuna. O pae, que n’esta opocha contava sessenta annos, havia assistido aos combates do Bussaco, Vimeiro e Roussilhão, como simples soldado voluntario, movido unicamente pelo amor da liberdade patria, e odio ao jugo oppressor do grande contra o pequeno. </p>
-<p>A recompensa dada a este heroe, defensor da sua patria, por todos os governos, desde 1820 até 1850, foi aque teem tido muitos heroes, quer com a espada ou com a penna, o menospreço e a desprotecção. </p>
+<p>Em 1850, vivia em Lisboa um mancebo de dezoito annos, chamado José Pereira, em companhia de seus paes, pobres anciãos desprotegidos da fortuna. O pae, que n’esta epocha contava sessenta annos, havia assistido aos combates do Bussaco, Vimeiro e Roussilhão, como simples soldado voluntario, movido unicamente pelo amor da liberdade patria, e odio ao jugo oppressor do grande contra o pequeno. </p>
+<p>A recompensa dada a este heroe, defensor da sua patria, por todos os governos, desde 1820 até 1850, foi a que teem tido muitos heroes, quer com a espada ou com a penna, o menospreço e a desprotecção. </p>
 <p>O pae de José Pereira requereu uma vez um mesquinho emprego; zombaram cynicamentc com elle e disseram-lhe que fosse oppositor a um concurso. Elle assim o fez, porêm ficou preterido, como muitos outros o teemsido injustamente, por já estar dado o logar quando seprocedeu ao concurso. Desilludido e amargurado, por sevêr sem posição social, porque os serviços á patria lhe haviam obstado a que completasse a arte de relojoeiro, que começára a aprender, o pobre homem, sem soltar uma queixa contra os seus tyrannos, não pediu mais nada ao governo, e começou a trabalhar incessantemente, leccionando inslrucção primaria, para alimentar sua esposa e seu filho. </p>
 <p>José Pereira nasceu pois do seio da pobreza, e assim viveu até á idade de dezoito annos, sendo educado e instruido por seu pae, o qual não quiz mandal-o aprender um officio por se persuadir, pela viveza e intelligenciaque o filho demonstrava, que poderia sobresahir no futuro á sorte do pobre operario, que sempre vive apoquentado e mesquinhamente. O mancebo, dotado de bondoso caracter, sempre foi grato aos paes, e na epocha que descrevemos, já elle os ajudava com o pequeno producto de copias de comedias que tirava para os theatros. Porêm uma grande desgraça e desgosto o feriram repentinamente: seu pae morreu, e um mez depois falleceu tambem sua mãe. </p>
 <p>O pobre orphão, oppresso de magoa e desgraça, viu-se obrigado a pedir protecção a um tio materno, o Conselheiro M***, o qual, pela sua posição aristocratica, nunca quizera relacionar-se com os paes de José Pereira. Dirigiu pois a seguinte carta ao tio: </p>
@@ -97,11 +97,11 @@
 <p>José Pereira entrou pois em casa de seu tio, sendo ali recebido friamente, ainda que com uma bonhomia apparente e um aperto de mão do Conselheiro, o qual, analysando-o dos pés á cabeça, e vendo que ia decentemente vestido, lhe disse com um sorriso protector, levantando a voz para ser ouvido de dois amigos, o Visconde de *** e o Barão de * **, que se achavam n’essa occasião em casa do Conselheiro: </p>
 <p>-- Já hontem o esperavamos, senhor Pereira; o seu quarto está prompto, póde transportar para lá o seu bahu. </p>
 <p>E indicou ao moço de fretes, que levava o bahu de José Pereira, uma porta que dava para o interior da casa, dizendo a este, que estava immovel: </p>
-<p>    • Vá com o moço; não faça ceremonia, nem se constranja. </p>
+<p>-- Vá com o moço; não faça ceremonia, nem se constranja. </p>
 <p>Depois de José Pereira sair da sala, o Conselheiro, dirigindo-se aos dois amigos: </p>
 <p>-- É um pobre rapaz, lhes disse, orphão de pae e mãe, que recolhi por caridade em minha casa, e... quero vêr se o emprégo. </p>
 <p>-- Vossa Excellencia é demasiadamente bondoso, disse o Visconde; talvez ainda se arrependa por exercer tão bem a caridade. </p>
-<p>    • É nobre? perguntou o Barão. </p>
+<p>-- É nobre? perguntou o Barão. </p>
 <p>-- Coitado! respondeu o Conselheiro em tom de lastima; é filho d’um mestre eschola, homem de baixa esphera, que foi n’outro tempo soldado de linha. </p>
 <p>-- Oh! Conselheiro, atalhou o Visconde; lastimo deveras Vossa Excellencia, agora que sei que o rapaz é filho do povo. Presentemente os fidalgos e os nobres não podem nem devem dispensar obzequios á classe baixa, porque nos querem dar leis, os mesquinhos, e julgam-se iguaes a nós. Não acha, Barão? </p>
 <p>-- N’outro tempo ainda se podia fazer bem aos villões, quando estes nos temiam, respondeu o interrogado, porêm hoje, que não podemos castigar a sua insolencia, devemos, pelo menos, tirar a nossa desforra, não os protegendo, e odiando-os. </p>
@@ -112,10 +112,10 @@
 </div><div type="chapter"><head>III</head>
 <p>Assim decorriam os mezes, e havia perto d’um anno que José Pereira estava em casa do Conselheiro, sem ainda ter encontrado as suas fallas com D. Julia, porque esta, quando saía do seu quarto, ia, ou para a sala, local onde elle não se atrevia a entrar, por acanhamento, para a casa de jantar, onde elle tambem não entrava, pois que comia na cozinha com os criados, ou para a rua a passeiar com a mulher do Conselheiro, onde, da mesma fórma, não a podia seguir. Elle notára por mais d’uma vez que D. Julia, quando o encontrava de passagem n’alguma casa, o cortejava com benevolencia, e José Pereira ainda notou mais: que o examinára um dia rapidamente durante o comprimento, e que desde então,o que era muito lisonjeiro para José Pereira, lhe dispensára comprimentos mais affaveis e olhares mais prolongados. </p>
 <p>Era já completo um anno desde que José Pereira fôra para casa de seu tio, e uma tarde, depois de jantar, que o Conselheiro estava na sala com sua mulher, recebendo uns diplomatas inglezes, servindo-lhe esta de interprete, porque o Conselheiro M*** não sabia o inglez, entrou na cozinha D. Julia, e dirigindo-se á criada, disse-lhe: </p>
-<p>    • O João já trouxe aquella musica que eu comprei no Sasseti? </p>
+<p>-- O João já trouxe aquella musica que eu comprei no Sasseti? </p>
 <p>-- Ainda não, menina, respondeu a criada, creio que se esqueceu, mas eu logo, quando elle vier do chafariz, o obrigarei a ir buscar-lh’a. </p>
 <p>-- Quem sabe a que horas elle virá, disse D. Julia, e se o armazem já estará fechado. Precisava tanto hoje d’aquellas peças para as estudar... </p>
-<p>    • O João vem cedo, atalhou a criada, não ha hoje carreira, e então não se demora. </p>
+<p>-- O João vem cedo, atalhou a criada, não ha hoje carreira, e então não se demora. </p>
 <p>José Pereira entrou n’este momento na cozinha para perguntar á criada se o Conselheiro a encarregára d’alguma commissão para elle. Seu tio costumava encarregar os criados de lhe transmittirem as incumbencias ou darem-lhe as cartas que devia entregar. Procurava sempre evitar o contacto com o sobrinho. </p>
 <p>José Pereira entrou pois, como dissemos, na cozinha, porêm ao vêr D. Julia, parou confuso e ficou immovel e cabisbaixo, sentindo violentas e variadas commoções que o opprimiram e alegraram ao mesmo tempo. A criada, porêm, tirou-o d’este horrivel combate e embaraço. Vendo-o entrar, exclamou alegremente, dirigindo-se a D. Julia e indigitando José Pereira: </p>
 <p>-- Ora ahi tem a menina Julia quem lhe vai buscar a tal musica, é o senhor Pereira. </p>
@@ -143,7 +143,7 @@
 </div><div type="chapter"><head>IV</head>
 <p>Alguns dias depois das scenas que descrevemos, uma tarde em que José Pereira estava no seu quarto, meditando tristemente na sua vida, ouviu baterem-lhe á porta. Foi abrir, e encontrou a criada grave, que lhe disse em voz baixa e como em mysterio, que D. Julia estava na sala e lhe pedia o obzequio de ali se dirigir, não o incommodando, porque necessitava fallar-lhe. </p>
 <p>José Pereira, admirado com tal noticia, dirigiu-se immediatamente á sala e ahi encontrou D. Julia, que o esperava assentada n’um sophá, a qual, ao vêl-o entrar e ficar parado respeitosamente longe d’ella depois de a comprimentar, disse-lhe affectuosamente: </p>
-<p>– Tem a bondade de se assentar, senhor Pereira? </p>
+<p>-- Tem a bondade de se assentar, senhor Pereira? </p>
 <p>E indicou-lhe com o gesto um sophá que estava proximo ao d’ella. </p>
 <p>José Pereira, córando e empallidecendo alternativamente, respondeu-lhe perturbado: </p>
 <p>-- Oh! minha senhora, pois Vossa Excellencia quer que eu?!... Porêm, o senhor Conselheiro póde zangar-se comigo e com Vossa Excellencia, e eu não quizera que por minha causa soffresse qualquer dissabor... </p>
@@ -164,7 +164,7 @@
 <p>D. Julia, depois de o ouvir, indignada pelo procedimento de seu tutor, disse ao mancebo: </p>
 <p>-- Senhor Pereira, acredito que foi verdadeiro no que acaba de me contar, e portanto vou ser franca. Saiba que até agora sympathisava com o senhor; porêm, desde este momento, amo-o e quero fazer a sua fortuna, esposando-o, porque sou rica. </p>
 <p>-- Oh! minha senhora, redarguiu José Pereira transportado, o que eu aprecio é o seu amor! </p>
-<p>    • Acredito, respondeu D. Julia; porêm, deve tambem apreciar a minha fortuna, porque sem ella não poderiamos encetar a lucta em que vamos empenhar-nos. Oiça-me com attenção, continuou ella vendo que José Pereira se lhe apoderára d'uma das mãos e a estreitava amorosamente entre as suas sem parecer ouvil-a; oiça-me com attenção, para nos vêrmos livres brevemente do jugo de meu tutor. O senhor não póde ficar n’esta casa, depois dos insultos que tem recebido... </p>
+<p>-- Acredito, respondeu D. Julia; porêm, deve tambem apreciar a minha fortuna, porque sem ella não poderiamos encetar a lucta em que vamos empenhar-nos. Oiça-me com attenção, continuou ella vendo que José Pereira se lhe apoderára d'uma das mãos e a estreitava amorosamente entre as suas sem parecer ouvil-a; oiça-me com attenção, para nos vêrmos livres brevemente do jugo de meu tutor. O senhor não póde ficar n’esta casa, depois dos insultos que tem recebido... </p>
 <p>-- Diz muito bem! gritou o Conselheiro entrando na sala, e que ouvira as ultimas palavras da joven; a menina é quem lhe dictou a sentença. </p>
 <p>E, dirigindo-se a José Pereira, furioso, vociferou, indigitando-lhe a porta: </p>
 <p>-- Saia no mesmo instante de minha casa, infame seductor! </p>
