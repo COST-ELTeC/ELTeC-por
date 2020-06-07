@@ -27,6 +27,7 @@
 <title>O médico do deserto</title> 
 <author>José Joaquim Rodrigues de Bastos</author>
 <publisher>Wikimedia</publisher>
+<ref target="https://commons.wikimedia.org/wiki/File:BASTOS,_Jos%C3%A9_Joaquim_Rodrigues_de._O_m%C3%A9dico_do_deserto._3._ed._Porto,_Em_casa_de_Cruz_Coutinho,_1864.pdf"/>
 </bibl><bibl type="firstEdition">
 <title>O médico do deserto</title> 
 <author>José Joaquim Rodrigues de Bastos</author>
@@ -66,7 +67,15 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O médico do deserto</head>
+<div type="titlepage">
+<p>O MEDICO DO DESERTO</p>
+<p>PELO CONSELHEIRO</p>
+<p>JOSÉ JOAQUIM RODRIGUES DE BASTOS</p>
+<p>TERCEIRA EDIÇÃO</p>
+<p>PORTO</p>
+<p>EM CASA DE CRUZ COUTINHO -- EDITOR</p>
+<p>Rua dos Caldeireiros n.os 18 e 20</p>
+<p>1864</p>
 </div>
 <div type="liminal">
 <p>Fontenelle escreveu que a historia é o romance do espirito humano, e que o romance é a historia do coração, G Volney, do alto da sua cadeira na Escóla normal em Paris, disse que o romance póde ser em utilidade superior á historia.</p>

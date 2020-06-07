@@ -35,6 +35,7 @@
 <idno type="ISBN">978-1-329-94633-0</idno> 
 <pubPlace>Lisboa</pubPlace>
 <date>2016</date>
+<ref target="https://bibliotronicaportuguesa.pt/livro/inocente-virginia-de-castro-e-almeida/"/>
 </bibl><bibl type="firstEdition">
 <author>Virginia de Castro e Almeida</author>
 <title>Innocente</title>
@@ -69,7 +70,12 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head> Innocente</head>
+<div type="titlepage">
+<p>INOCENTE</p>
+<p>Virgínia de Castro e Almeida</p>
+<p>Lisboa | 2016</p>
+<p>BIBLIOTRÓNICA</p>
+<p>PORTUGUESA</p>
 </div>
 </front>
 <body>

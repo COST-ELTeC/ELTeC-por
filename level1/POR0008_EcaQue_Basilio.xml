@@ -31,6 +31,7 @@
 <author>Eça de Queirós</author>
 <title>The Project Gutenberg EBook of O Primo Bazilio</title>
 <date>2013</date>
+<ref target="http://www.gutenberg.org/ebooks/42942"/>
 </bibl><bibl type="firstEdition">
 <author>Eça de Queiroz</author>
 <title>O Primo Basílio: Episódio Doméstico</title>
@@ -70,8 +71,19 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head> O primo Basílio</head>
-<p>de Eça de Queirós</p>
+<div type="titlepage">
+<p>EÇA DE QUEIROZ</p>
+<p>O PRIMO BAZILIO</p>
+<p>EPISODIO DOMESTICO</p>
+<p>SEGUNDA EDIÇÃO, REVISTA</p>
+<p>LIVRARIA INTERNACIONAL</p>
+<p>DE</p>
+<p>ERNESTO CHARDRON</p>
+<p>Porto</p>
+<p>EUGENIO CHARDRON</p>
+<p>Braga</p>
+<p>1878</p>
+<p>Porto: 1878--Typ. do A. J. da Silva Teixeira, Cancella Velha, 62</p>
 </div>
 </front>
 
