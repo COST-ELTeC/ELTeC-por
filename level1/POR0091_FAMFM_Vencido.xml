@@ -27,6 +27,7 @@
 <title>Vencido: romance</title>
 <author>Francisco d'Athayde Machado de Faria e Maia</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36112"/>
 </bibl><bibl type="firstEdition">
 <title>Vencido: romance</title>
 <author>Francisco d'Athayde Machado de Faria e Maia</author>
@@ -59,8 +60,16 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Vencido</head>
-<p>Romance</p>
+<div type="titlepage">
+<p>COLLECÇÃO ANTONIO MARIA PEREIRA</p>
+<p>Francisco d'Athayde Machado de Faria e Maia</p>
+<p>VENCIDO</p>
+<p>ROMANCE</p>
+<p>LISBOA</p>
+<p>Parceria ANTONIO MARIA PEREIRA</p>
+<p>LIVRARIA EDITORA</p>
+<p>44 — RUA AUGUSTA — 54</p>
+<p>1914</p>
 </div>
 <div type="liminal"><head>PREFACIO DO AUCTOR </head>
 <p>Este pequeno romance ou novella fazia parte duma serie de contos, escriptos ha bastante tempo já, alguns dos quaes foram publicados em jornaes, outros ineditos estavam destinados a morrer numa pasta de papeis velhos, se, ao relê-los recentemente, não sentissemos acordar a saudade do tempo inolvidavel em que a mocidade tem pruridos litterarios, despertos pela effervescencia dalma juvenil sempre vibratil, mas as mais das vezes impotente na exteriorização do seu sentir. </p>

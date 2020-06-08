@@ -28,6 +28,7 @@
 <title>Margarida: Scenas da vida contemporanea</title> 
 <author>Júlio Lourenço Pinto</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/33632"/>
 </bibl><bibl type="firstEdition">
 <title>Margarida</title> 
 <author>Júlio Lourenço Pinto</author>
@@ -66,7 +67,20 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Margarida</head>
+<div type="titlepage">
+<p>MARGARIDA</p>
+<p>SCENAS DA VIDA CONTEMPORANA</p>
+<p>POR</p>
+<p>JULIO LOURENÇO PINTO</p>
+<p>2.a EDIÇÃO</p>
+<p xml:lang="fr">Voir, se souvenir, agrandir, trans-</p>
+<p xml:lang="fr">former, c'est à dire imaginer, telle</p>
+<p xml:lang="fr">est la loi constante de toute poésie.</p>
+<p xml:lang="fr">GUSTAVE PLANCHE.</p>
+<p>PORTO</p>
+<p>TYPOGRAPHIA DO COMMERCIO DO PORTO</p>
+<p>Rua da Ferraria, 102 a 112</p>
+<p>1880</p>
 </div>
 <div type="liminal">
 <head>PROLOGO</head>

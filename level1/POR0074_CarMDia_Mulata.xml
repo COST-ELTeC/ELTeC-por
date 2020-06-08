@@ -27,6 +27,7 @@
 <title>A Mulata</title> 
 <author>Carlos Malheiro Dias</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/33628"/>
 </bibl><bibl type="firstEdition">
 <title>A Mulata</title> 
 <author>Carlos Malheiro Dias</author>
@@ -66,12 +67,22 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head>A MULATA</head>
+<div type="titlepage">
+<p>CARLOS MALHEIRO DIAS</p>
+<p>A MULATA</p>
+<p>Edição comemorativa do centenário</p>
+<p>do nascimento do autor</p> 
+<p>com um prefácio de</p>
+<p>Alexandre Pinheiro Torres</p>
+<p>Primeira publicação em Portugal</p>
+<p>arcádia</p><p>A MULATA</p>
+</div><div type="liminal">
+<p>A MULATA</p>
 <p>A Laurinda da S.</p>
 <p>EIS A COLHEITA DA TUA MÁ SEMENTE</p>
 <p><foreign xml:lang="fr">« -- C'est bien là le délire de l'amour: -- il se frappe lui-même dans sa violence -- et entraîne la volonté à des entreprises désespérées --plus souvent qu'au- cune des passions qui, sous le ciei -- accablent notre nature.»</foreign></p>
 <p>SHAKESPEARE, Hamlet. Cena VI</p>
-</div><div type="liminal">
+
 <p>PREFÁCIO</p> 
 <p><foreign xml:lang="fr">«Ayant été atteint, jeune encore, d'une maladie morale abominable, je raconte ce qui m'est arrivè pendant trois ans. Si j'ètais seul malade, je n'endirais rien; mais, comme il y en a beaucoup d'autres que moi qui suffrent du méme mal, j'écris pour ceux-la, sans trop savoir s'ils y feront attention; car dans le cas ou personne n'y prendrait gard, j'aurai encore retiré ce fruit de mes paroles, de n'être mieux guéri moi-même, et, comme le renard pris au piège, j'aurai rongè mon pied captif.»</foreign></p>
 <p><foreign xml:lang="fr">(Confession d'un Enfant du Siècle).</foreign></p>

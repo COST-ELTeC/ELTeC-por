@@ -27,6 +27,7 @@
 <title>Os miseraveis da aristocracia : romance social contemporaneo</title>
 <author>A. J. Pereira Varela</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36110"/>
 </bibl><bibl type="firstEdition">
 <title>Os miseraveis da aristocracia : romance social contemporaneo</title> 
 <author>A. Varela</author>
@@ -59,14 +60,19 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Os miseraveis da aristocracia</head>
-<p>ROMANCE SOCIAL CONTEMPORANEO </p>
-<p>POR </p>
-<p>A. VARELA </p>
-<p>VOLUME I </p>
-<p>LISBOA </p>
-<p>Escriptorio da Sociedade Editora </p>
-<p>38, rua dos Gallegos, 38 </p>
+<div type="titlepage">
+<p>OS MISERAVEIS</p>
+<p>DA</p>
+<p>ARISTOCRACIA</p>
+<p>ROMANCE SOCIAL CONTEMPORANEO</p>
+<p>POR</p>
+<p>A. VARELA</p>
+<p>G. &amp; G. </p>
+<p>VOLUME I</p>
+<p>LISBOA</p>
+<p>Escriptorio da Sociedade Editora</p>
+<p>38, rua dos Gallegos, 38</p>
+<p>1864</p>
 </div>
 </front>
 <body>

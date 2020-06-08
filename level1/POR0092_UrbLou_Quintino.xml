@@ -27,6 +27,7 @@
 <title>A infâmia de Frei Quintino : romance duma família</title>
 <author>Urbano Loureiro</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36111"/>
 </bibl><bibl type="firstEdition">
 <title>A infâmia de Frei Quintino : romance duma família</title> 
 <author>U.  Loureiro</author>
@@ -57,9 +58,15 @@
 <change when="2020-03-29">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
+
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A infâmia de Frei Quintino</head>
+<div type="titlepage">
+<p>URBANO LOUREIRO</p>
+<p>A Infâmia de Frei Quintino</p>
+<p>(ROMANCE DUMA FAMÍLIA)</p>
+<p>LIVARIA CHARDRON, DE LÉLO &amp; IRMÃO,</p>
+<p>EDITORES. E. DAS CARMELITAS, 144. PORTO</p>
 </div>
 </front>
 <body>

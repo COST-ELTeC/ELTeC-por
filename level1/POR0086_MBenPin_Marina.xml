@@ -27,6 +27,7 @@
 <title>Marina: romance passional</title> 
 <author>Maria Benedicta Mousinho de Albuquerque Pinho</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36118"/>
 </bibl><bibl type="firstEdition">
 <title>Marina: romance passional</title> 
 <author>Maria Benedicta Mousinho de Albuquerque Pinho</author>
@@ -59,7 +60,13 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Marina</head>
+<div type="titlepage">
+<p>MARIA BENEDICTA MOUSINHO DE ALBUQUERQUE PINHO</p>
+<p>ROMANCE PASSIONAL</p>
+<p>LISBOA</p>
+<p>COMPOSTO E IMPRESSO NA IMPRENSA LUCAS</p>
+<p>93 — Rua do Diário de Notícias -- 93</p>
+<p>1912</p>
 </div>
 <div type="liminal">
 <p>A meu primo D. Antonio de Chatillon </p>

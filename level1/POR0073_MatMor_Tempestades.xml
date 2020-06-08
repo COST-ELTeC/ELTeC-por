@@ -27,6 +27,7 @@
 <title>Tempestades do coração: romance contemporâneo</title> 
 <author>João Baptista de Mattos Moreira</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36301"/>
 </bibl><bibl type="firstEdition">
 <title>Tempestades do coração: romance contemporaneo</title> 
 <author>J. B. de Mattos Moreira</author>
@@ -59,7 +60,18 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Marina</head>
+<div type="titlepage">
+<p>JARDIM DO POVO</p>
+<p>BIBLIOTHECA ECONOMICA</p>
+<p>TEMPESTADES DO CORAÇÃO</p>
+<p>ROMANCE CONTEMPORÂNEO</p>
+<p>POR</p>
+<p>J. B. DE MATTOS MOREIRA</p>
+<p>VOLUME I</p>
+<p>LISBOA</p>
+<p>TYPOGRAPHIA PORTUGUEZA</p>
+<p>35, Travessa da Queimada, 35</p>
+<p>1868</p>
 </div>
 </front>
 <body>

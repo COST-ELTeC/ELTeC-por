@@ -26,6 +26,7 @@
 <title>Mathilde</title> 
 <author>Anna Maria Ribeiro de Sá</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="http://purl.pt/36109/2/"/>
 </bibl><bibl type="firstEdition">
 <title>Mathilde</title> 
 <author>D. Anna Maria Ribeiro de Sá</author>
@@ -58,7 +59,21 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Mathilde</head>
+<div type="titlepage">
+<p>BIBLIOTHECA UNIVERSAL</p>
+<p>Dedicada ao visconde de Castilho</p>
+<p>N.°9</p>
+<p>D.ANNA MARIA RIBEIRO DE SÁ</p>
+<p>MATHILDE</p>
+<p>ROMANCE ORIGINAL</p>
+<p>COM UM PROLOGO</p>
+<p>DO</p>
+<p>ILL.MO E EX.MO SR. M. PINHEIRO CHAGAS</p>
+<p>LISBOA</p>
+<p>LUCAS &amp; FILHO - EDITORES</p>
+<p>Rua dos Calafates, 93</p>
+<p>1874</p>
+<p>A empresa reserva-se o direito de reproducção e traducção</p>
 </div>
 </front>
 <body>
