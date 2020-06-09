@@ -32,7 +32,13 @@
      <title>Project Gutenberg EBook A casa dos fantasmas</title>
      <ref target="http://www.gutenberg.org/ebooks/25330"/>
 </bibl><bibl type="firstEdition">
-       <title>A casa dos fantasmas</title>
+       <title>A casa dos fantasmas: Episodio do tempo dos francezes</title>
+       <author>Luís Augusto Rebelo da Silva</author>
+       <publisher></publisher>
+       <pubPlace>Lisboa</pubPlace>
+       <date>1865</date>
+</bibl><bibl type="printEdition">
+       <title>A casa dos fantasmas: Episodio do tempo dos francezes, 2.a edição</title>
        <author>Luís Augusto Rebelo da Silva</author>
        <publisher>Livraria Editora Viuva Tavares Cardoso</publisher>
        <pubPlace>Lisboa</pubPlace>
@@ -67,8 +73,21 @@
 
 
 
-<div type="titlepage"><head>A casa dos fantasmas</head>
+<div type="titlepage">
+<p>OBRAS COMPLETAS DE LUIZ AUGUSTO REBELLO DA SILVA</p>
+<p>REVISTAS E METHODICAMENTE COORDENADAS</p>
+<p>XI</p>
+<p>ROMANCES E NOVELLAS--V</p>
+<p>A CASA DOS FANTASMAS</p>
+<p>EPISODIO DO TEMPO DOS FRANCEZES</p>
+<p>2.a EDIÇÃO</p>
 <p>VOLUME I</p>
+<p>LISBOA</p>
+<p>Empreza da Historia de Portugal</p>
+<p>Sociedade editora</p>
+<p>LIVRARIA MODERNA | TYPOGRAPHIA</p>
+<p>R. Augusta, 95 | 45, R. Ivens, 47</p>
+<p>1908</p>
 </div>
 </front>
 <body>

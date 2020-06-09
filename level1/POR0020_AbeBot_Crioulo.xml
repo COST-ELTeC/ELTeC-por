@@ -7,8 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Amor crioulo: Edição para o ELTeC</title>
-        <author>Botelho, Abel (1854-1917)</author>
+<title>Amor crioulo: Edição para o ELTeC</title>
+<title level="s">Vida argentina</title>
+      <author>Botelho, Abel (1854-1917)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Rita Farinha</name>
@@ -31,8 +32,14 @@
         <title>Amor crioulo</title>
        <author>Abel Botelho</author>
        <publisher>Livraria Chardron de Lélo e Irmão</publisher>
-       <pubPlace/>
+       <pubPlace>Porto</pubPlace>
        <date>1917</date>
+</bibl><bibl type="printEdition">
+        <title>Amor crioulo, 2.a edição</title>
+       <author>Abel Botelho</author>
+       <publisher>Livraria Aillaud e Bertrand</publisher>
+       <pubPlace>Lisboa-Paris</pubPlace>
+       <date>1921</date>
        </bibl></sourceDesc>
 </fileDesc>
 
@@ -62,7 +69,21 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Amor Crioulo</head>
+<div type="titlepage">
+<p>ABEL BOTELHO</p>
+<p>Amor crioulo</p>
+<p>(VIDA ARGENTINA)</p>
+<p>NOVELA</p>
+<p xml:lang="es">Ahi està, si, magnifica, opulenta,</p>
+<p xml:lang="es">La codiciada tierra...</p>
+<p>GUIDO Y SPANO.</p>
+<p>SEGUNDA EDIÇÃO</p>
+<p>PORTO</p>
+<p>LIVRARIA CHARDRON</p>
+<p>DE LÉLO &amp; IRMÃO, L.da--EDITORES</p>
+<p>RUA DAS CARMELITAS, 144</p>
+<p>Livraria Aillaud e Bertrand, Lisboa-Paris</p>
+<p>1921</p>
 </div>
 </front>
 <body>

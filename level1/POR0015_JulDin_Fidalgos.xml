@@ -30,7 +30,7 @@
 <sourceDesc><bibl type="digitalSource">
 <author>Júlio Dinis</author>
 <title>The Project Gutenberg EBook of Os fidalgos da Casa Mourisca</title>
-<ref target="http://www.gutenberg.org/ebooks/29120"/>
+<ref target="http://www.gutenberg.org/ebooks/16428"/>
 </bibl><bibl type="firstEdition">
 <author>Júlio Dinis</author>
 <title>Os Fidalgos da Casa Mourisca: Crónica da Aldeia</title>
@@ -69,8 +69,18 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Os Fidalgos da Casa Mourisca</head>
-<p>de Júlio Dinis</p>
+<div type="titlepage">
+<p>OS FIDALGOS</p>
+<p>DA</p>
+<p>CASA MOURISCA</p>
+<p>CHRONICA DA ALDEIA</p>
+<p>POR</p>
+<p>JULIO DINIZ</p>
+<p>VOLUME I</p>
+<p>PORTO</p>
+<p>TYPOGRAPHIA DO JORNAL DO PORTO</p>
+<p>Rua Ferreira Borges, 31</p>
+<p>1871</p>
 </div>
 </front>
 <body>

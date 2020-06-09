@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>A Lenda da Meia-Noite: Edição para o ELTeC</title>
-        <author>Chagas, Manuel Joaquim Pinheiro (1842-1895)</author>
+        <author>Pinheiro Chagas, Manuel Joaquim (1842-1895)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
@@ -66,6 +66,16 @@
 </revisionDesc>
 </teiHeader>
 <text xml:lang="pt-PT">
+<div type="titlepage">
+<p>COLLECÇÃO ANTONIO MARIA PEREIRA</p>
+<p>M. PINHEIRO CHAGAS</p>
+<p>A LENDA DA MEIA-NOITE</p>
+<p>2.a edição</p>
+<p>LISBOA</p>
+<p>Parceria A. M. PEREIRA--Livraria editora</p>
+<p>Rua Augusta, 50, 52 e 54</p>
+<p>1906</p>
+</div>
 <body>
 <div type="chapter"><head>A LENDA DA MEIA-NOITE</head>
 <p>N'um dos sitios mais pittorescos da Beira-Baixa, n'essa montanha vestida de verdura, onde se recosta Alpedrinha, e que domina o verdejante valle do Fundão, ergue-se uma casa ampla e antiga, de cuja varanda, extensa varanda de madeira, em cujos beiraes vem as andorinhas fazer os seus ninhos, se descortina a extensa paisagem, onde alvejam Val de Prazeres e outras villas e aldeias que matizam, com as suas casas brancas, o verde do arvoredo, e que tem como panno de fundo a imponente massa da serra da Estrella, coroada com as suas neves eternas.</p>
