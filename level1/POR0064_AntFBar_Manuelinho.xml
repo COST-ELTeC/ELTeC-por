@@ -28,7 +28,7 @@
 <sourceDesc><bibl type="digitalSource">
 <title>O Manuelinho de Évora: romance histórico (1637)</title> 
 <author>António Francisco Barata</author>
-<ref target="https://archive.org/stream/omanuelinhodeevo00bara/"/>
+<ref target="https://archive.org/stream/omanuelinhodeevo00bara"/>
 </bibl><bibl type="firstEdition">
 <title>O Manuelinho de Évora: romance histórico (1637)</title>
 <author>António Francisco Barata</author>
@@ -61,7 +61,16 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O Manuelinho de Évora</head>
+<div type="titlepage">
+<p>O</p>
+<p>MANUELINHO DE EVORA</p>
+<p>ROMANCE HISTORICO</p>
+<p>(1637)</p>
+<p>POR</p>
+<p>António Francisco Barata</p>
+<p>COIMBRA</p>
+<p>IMPRENSA LITTERARIA</p>
+<p>1873</p>
 </div>
 <div type="liminal">
 <p>«...não ha maior gosto que tratar cõ Philosophos, &amp; cõ homês doutos; porq estes sabe disculpar a eleição da materia, a brevidade dos discursos, a pobreza dos conceitos, o estilo comu, os erros da pena, os erros da impressão». </p>

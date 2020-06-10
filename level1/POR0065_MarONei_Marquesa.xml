@@ -28,10 +28,10 @@
 <author>Maria O'Neill</author>
 <title>Biblioteca Nacional de Portugal</title>
 </bibl><bibl type="firstEdition">
-<title>A Marquesa de Vale Negro</title> 
-<author>Maria O'Neill</author>
-<publisher>Parceria António Maria Pereira, Livaria Editora</publisher>
-<pubPlace/> 
+<title>A Marqueza de Valle Negro</title> 
+<author>Maria ONeill</author>
+<publisher>Parceria António Maria Pereira, Livraria Editora</publisher>
+<pubPlace>Lisboa</pubPlace> 
 <date>1914</date>
 </bibl></sourceDesc>
 </fileDesc>
@@ -61,14 +61,15 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head>Autores Célebres</head>
-<p>Maria O'Neill</p>
-<p>A Marquesa de Vale Negro</p>
+<div type="titlepage"><head>AUTORES CELEBRES</head>
+<p>MARIA ONEILL</p>
+<p>A Marqueza de Valle Negro</p>
+<p>ROMANCE</p>
 <p>1914</p>
-<p>Parceria António Maria Pereira</p>
-<p>Livraria Editora</p>
+<p>PARCERIA ANTONIO MARIA PEREIRA</p>
+<p>LIVRARIA EDITORA</p>
 <p>Rua Augusta -- 44 a 54</p>
-<p>Lisboa</p>
+<p>LISBOA</p>
 </div>
 </front>
 <body>

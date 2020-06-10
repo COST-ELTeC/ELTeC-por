@@ -27,8 +27,7 @@
 <author>Lopo de Souza</author>
 <title>Herança de lágrimas</title>
 <publisher>Biblioteca Nacional de Portugal</publisher>
-<pubPlace/>
-<date>2018</date>
+<ref target="http://purl.pt/14769"/>
 </bibl><bibl type="firstEdition">
 <title>Herança de lágrimas</title>
 <author>Lopo de Souza</author>
@@ -63,20 +62,21 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head>Herança de lágrimas</head>
-<p>Romance original</p>
-<p>por</p>
-<p>Lopo de Souza</p>
-<p>Guimarães</p>
-<p>Redacção do Vimaranense - Editora Typ. do Vimaranense </p>
+<div type="titlepage">
+<p>HERANÇA DE LAGRIMAS</p>
+<p>ROMANCE ORIGINAL</p>
+<p>POR</p>
+<p>LOPO DE SOUZA</p>
+<p xml:lang="fr"> «Les femmes s’imaginent être des anges et avoir reçu du ciel la mission et la puissance de sauver tous ces don Juan; mais comme l’ange de la légende, elles ne les convertissent pas, et elles se perdent avec eux».</p>
+<p>George Sand—Lélia</p>
+<p>GUIMARÃES</p>
+<p>REDACÇÃO DO VIMARANENSE -- EDITORA</p>
+<p>TYP. DO VIMARANENSE</p>
+<p>1871</p>
 </div>
 </front>
 <body>
-<div type="liminal"><head>Herança de lágrimas</head>
-
-<p><foreign xml:lang="fr"> «Les femmes s’imaginent être des anges et avoir reçu du ciel la mission et la puissance de sauver tous ces don Juan; mais comme l’ange de la légende, elles ne les convertissent pas, et elles se perdent avec eux».</foreign> </p>
-<p>George Sand—Lélia</p>
-</div><div type="chapter"><head>I</head>
+<div type="chapter"><head>I</head>
 <p>DIANNA DE SEPULVEDA A HENRIQUETA D’AGUIAR</p>
 <p>Eis-me, pois, caminho de Lisboa, minha querida Henriqueta. Pediste-me uma descripção minuciosa dos pequenos incidentes d’uma jornada de trinta e tantas legoas, e dos abalos, enlevos, ou fastios do meu coração. D’este coração de que a tua graciosa e feliz bacharelice diz coisas tão feias, até descrer da sua individualidade, excepto quando o sentes pulsar junto do teu seio. Sou eu responsavel, mereço as accusações que me diriges, se algumas das fibras da minha alma se conservam fechadas no seu involtorio de gelo ? O que eu não sei ainda bem, minha amiga, é se isto é um mal que me faz padecer, ou um bem que me poupa a grandes magoas. Todavia, forçoso é confessal-o, a minha alma tem anceios de curiosas experiencias. Deus negou-me um dos attributos felizes da humanidade: as alegrias infinitas da paixão reciproca, os arrobos mysteriosos do amor exaltado, dizes tu, e com razão. Concordo comtigo, e quizera sentil-o; sentil-o, como eu o comprehendo.</p>
 <p>D’aqui nascem estes secretos enfados que me atormentam a existencia, estes desesperos tantas vezes disfarçados n’um sorriso d'amarga ironia ao meu destino. Crêr que existe para todas as creaturas um mundo de luz embriagadora, e viver nas minhas trevas!...  Aqui, ao lado d’este homem que me chama sua desde os dezoito annos, e a quem o mundo denomina meu ! Meu ! Pertence-me como o aleijão pertence ao rachitico de nascença, que debalde tenta lançar fóra de si a carga pezada e odiosa.</p>
