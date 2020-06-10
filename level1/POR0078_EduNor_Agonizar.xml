@@ -9,7 +9,7 @@
 <titleStmt>
 <title>O agonizar de uma dinastia: Edição para o ELTeC</title>
 <title level="s">O calvário de uma mãe</title>
-<author>Noronha, Eduardo (1859-1948)</author>
+<author>Noronha, Eduardo de (1859-1948)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Balté</name>
@@ -63,8 +63,15 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O AGONIZAR D'UMA DYNASTIA </head>
+<div type="titlepage">
+<p>Eduardo de Noronha</p>
+<p>O agonizar d'uma Dynastia</p>
 <p>(O CALVARIO D'UMA MÃE)</p>
+<p>ROMANCE HISTORICO ILLUSTRADO COM 15 GRAVURAS</p>
+<p>EDITORES</p>
+<p>MAGALHÃES &amp; MONIZ, L.da | FRANCISCO ALVES &amp; C.a</p>
+<p>12, Largo dos Loyos, 14 | 134, Rua do Ouvidor, 134</p>
+<p>PORTO | RIO DE JANEIRO</p>
 </div>
 </front>
 <body>
