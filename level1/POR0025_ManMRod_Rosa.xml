@@ -26,7 +26,7 @@
 
   <sourceDesc><bibl type="digitalSource">
      <title>A Rosa do Adro (Luso-livros)</title>
-     <ref target="http://www.luso-livros.net/"/>
+     <ref target="http://www.luso-livros.net/Livro/a-rosa-do-adro/"/>
 </bibl><bibl type="firstEdition">
         <title>A Rosa do Adro</title>
        <author>Manuel Maria Rodrigues</author>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
@@ -62,7 +62,7 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A Rosa do Adro</head>
+<div type="titlepage"><p>A Rosa do Adro</p>
 <p>Manuel Maria Rodrigues</p>
 </div>
 </front>

@@ -27,7 +27,7 @@
 
   <sourceDesc><bibl type="digitalSource">
       <title>O Salústio Nogueira</title>
-     <ref target="http://www.gutenberg.org/ebooks/23400"/>
+<ref target="https://archive.org/details/osallustionoguei00teixuoft"/>
 </bibl><bibl type="printSource">
        <title>O Salústio Nogueira, 2.a edição</title>
        <author>Teixeira de Queirós</author>
@@ -67,8 +67,21 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>COMEDIA BURGUEZA</head>
+<div type="titlepage">
+<p>COMEDIA BURGUEZA</p>
 <p>O SALLUSTIO NOGUEIRA</p>
+<p>ESTUDO DE POLITICA CONTEMPORANEA</p>
+<p>POR</p>
+<p>TEIXEIRA DE QUEIROZ</p>
+<p>Nova edição, completamente refundida, e com uma nota</p>
+<p>de CAMILLO CASTELLO BRANCO</p>
+<p>ácerca d'este romance</p>
+<p>PRIMEIRA PARTE</p>
+<p>1909</p>
+<p>PARCERIA ANTONIO MARIA PEREIRA</p>
+<p>LIVRARIA EDITORA</p>
+<p>Rua Augusta, 44 a 54</p>
+<p>LISBOA</p>
 </div>
 </front>
 <body>
