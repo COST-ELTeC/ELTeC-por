@@ -29,7 +29,7 @@
         </bibl><bibl type="firstEdition">
           <title>O Dr. Luiz Sandoval</title>
           <author>Alice Moderno</author>
-          <publisher>Typo-Litographia Minerva</publisher>
+          <publisher>Typo-Lythographia Minerva</publisher>
           <pubPlace>Ponta Delgada</pubPlace>
           <date>1892</date>
         </bibl></sourceDesc>
@@ -57,7 +57,11 @@
   <text xml:lang="pt-PT">
     <front>
       <div type="titlepage">
-        <head>O Dr. Luiz Sandoval</head>
+<p>ALICE MODERNO</p>
+<p>O DR. LUIZ SANDOVAL</p>
+<p>PONTA-DELGADA</p>
+<p>TYPO-LYTH. MINERVA</p>
+<p>1892</p>
       </div>
       <div type="liminal">
         <p>AO PUBLICO</p>

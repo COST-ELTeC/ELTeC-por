@@ -26,7 +26,7 @@
 
   <sourceDesc><bibl type="digitalSource">
      <title>A ruiva e outras histórias</title>
-     <ref target="http://www.luso-livros.net/"/>
+     <ref target="http://www.luso-livros.net/Livro/a-ruiva-e-outras-historias/"/>
 </bibl><bibl type="firstEdition">
        <title>A ruiva e outras histórias</title>
        <author>Fialho de Almeida</author>
@@ -62,7 +62,11 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A ruiva</head>
+<div type="titlepage">
+<p>Fialho de Almeida</p>
+<p>A Ruiva</p>
+<p>e outras histórias</p>
+<p>Volume de contos</p>
 </div>
 <div type="liminal">
 <p>Dedicado a Camilo Castelo Branco, Acabo de reler toda a sua obra. Quanto, no artista e no escritor, o talento tem de maleável, de voluntarioso e de grande — a ironia na sua expansão facetada e cortante, o estilo na elástica elegância nervosa dos seus moldes plásticos, e a observação no seu processo tenaz de análise e de crítica —, tudo nos seus livros se encontra, a mãos plenas, com uma opulência que deslumbra.</p>

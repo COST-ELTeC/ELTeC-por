@@ -28,7 +28,7 @@
 
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook Aves Migradoras</title>
-     <ref target="http://www.gutenberg.org/ebooks/22622/"/>
+     <ref target="http://www.gutenberg.org/ebooks/22622"/>
 </bibl><bibl type="firstEdition">
         <title>Aves migradoras</title>
        <author>Fialho de Almeida</author>
@@ -68,7 +68,15 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O juramento da condessa Esther</head>
+<div type="titlepage">
+<p>FIALHO D'ALMEIDA</p>
+<p>AVES MIGRADORAS</p>
+<p>4.o Milhar</p>
+<p>LISBOA</p>
+<p>LIVRARIA CLÁSSICA EDITORA</p>
+<p>DE A. M. TEIXEIRA &amp; C.a (FILHOS)</p>
+<p>Praça dos Restauradores, 17</p>
+<p>1922</p>
 </div>
 </front>
 <body>

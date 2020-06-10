@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Um duelo nas sombras: Edição para o ELTeC</title>
-<title level="s">ou D. Francisco Manoel de Mello (1630) </title>
+<title level="s">ou D. Francisco Manuel de Melo (1630) </title>
 <author>Barata, António Francisco (1836-1910)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -24,15 +24,15 @@
 </extent>
 <publicationStmt><p>Added to ELTeC repo on <date>6-4-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
-<title>Um duelo nas sombras, ou D. Francisco Manoel de Mello (1630)</title> 
+<title>Um duello nas sombras, ou D. Francisco Manoel de Mello (1630)</title> 
 <author>António Francisco Barata</author>
-<ref target="https://archive.org/details/umduellonassomb00baragoog/"/>
+<ref target="https://archive.org/details/umduellonassomb00baragoog"/>
 </bibl><bibl type="firstEdition">
 <title>Um duelo nas sombras, ou D. Francisco Manoel de Mello (1630)</title> 
 <author>António Francisco Barata</author>
 <date>1875</date>
 </bibl><bibl type="printSource">
-<title>Um duelo nas sombras, ou D. Francisco Manoel de Mello (1630), 2.a edição</title> 
+<title>Um duello nas sombras, ou D. Francisco Manoel de Mello, 2.a edição</title> 
 <author>António Francisco Barata</author>
 <publisher>Empreza da História de Portugal, sociedade editora</publisher>
 <pubPlace>Lisboa</pubPlace>
@@ -63,7 +63,20 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>D. Francisco Manuel de Mello</head>
+<div type="titlepage">
+<p>BIBLIOTHECA PORTUGUEZA ILUSTRADA</p>
+<p>XI</p>
+<p>ANTONIO FRANCISCO BARATA</p>
+<p>UM DUELLO NAS SOMBRAS</p>
+<p>OU</p>
+<p>D. FRANCISCO MANUEL DE MELLO</p>
+<p>SEGUNDA EDIÇÃO</p>
+<p>LISBOA</p>
+<p>EMPREZA DA HISTORIA DE PORTUGAL</p>
+<p>Sociedade editora</p>
+<p>LIVRARIA MODERNA | TYPOGRAPHIA</p>
+<p>Rua Augusta, 95 | 45, Rua Ivens 47</p>
+<p>1903</p>
 </div>
 </front>
 <body>

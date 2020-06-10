@@ -28,12 +28,18 @@
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook O Annel Mysterioso: Scenas da Guerra Peninsular</title>
      <ref target="http://www.gutenberg.org/ebooks/33749"/>
-</bibl><bibl type="firstEdition">
-        <title>O Annel Mysterioso</title>
+</bibl><bibl type="printSource">
+        <title>O Annel Mysterioso, Scenas da Guerra Peninsular, 3.a edição</title>
        <author>Alberto Pimentel</author>
        <publisher>Empreza da Historia de Portugal, Sociedade Editora</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1904</date>
+</bibl><bibl type="firstEdition">
+        <title>O Annel Mysterioso, Scenas da Guerra Peninsular</title>
+       <author>Alberto Pimentel</author>
+<publisher>Editores da Bibliotheca Universal</publisher>
+       <pubPlace>Lisboa</pubPlace>
+<date>1873</date>
        </bibl></sourceDesc>
 </fileDesc>
 
@@ -50,7 +56,7 @@
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 
 </profileDesc>
@@ -61,10 +67,22 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O Annel Mysterioso</head>
-<p>Scenas da Guerra Peninsular</p>
-<p>Romance original de</p>
-<p>Alberto Pimentel</p>
+<div type="titlepage">
+<p>NOVA COLLECÇÃO PORTUGUEZA</p>
+<p>II</p>
+<p>O ANEL MYSTERIOSO</p>
+<p>SCENAS DA GUERRA PENINSULAR</p>
+<p>ROMANCE ORIGINAL DE</p>
+<p>ALBERTO PIMENTEL</p>
+<p>3.ª EDIÇÃO, ILLUSTRADA, REVISTA PELO AUCTOR</p>
+<p>LISBOA</p>
+<p>EMPREZA DA HISTORIA DE PORTUGAL</p>
+<p>Sociedade Editora</p>
+<p>LIVRARIA MODERNA</p>
+<p>Rua Augusta, 95</p>
+<p>TYPOGRAPHIA</p>
+<p>45, Rua Ivens, 47</p>
+<p>1904</p>
 </div>
 </front>
 <body>

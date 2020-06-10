@@ -26,7 +26,7 @@
 
   <sourceDesc><bibl type="digitalSource">
      <title>Amanhã de Abel Botelho</title>
-     <ref target="http://www.luso-livros.net/"/>
+     <ref target="http://www.luso-livros.net/Livro/amanha/"/>
 </bibl><bibl type="firstEdition">
        <title>Amanhã</title>
        <author>Abel Botelho</author>
@@ -62,7 +62,9 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Amanhã</head>
+<div type="titlepage">
+<p>ABEL BOTELHO</p>
+<p>AMANHÃ</p>
 </div>
 </front>
 <body>

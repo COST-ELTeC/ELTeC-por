@@ -57,8 +57,12 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A Farsa</head>
+<div type="titlepage">
+<p>A Farsa</p>
 <p>de Raul Brandão </p>
+</div>
+
+<div type="liminal">
 <p>AO GRANDE POETA </p>
 <p>GUERRA JUNQUEIRO </p>
 </div>
