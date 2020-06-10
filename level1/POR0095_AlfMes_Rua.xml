@@ -26,7 +26,7 @@
 <sourceDesc><bibl type="digitalSource">
 <title>A rua do oiro: romance lisboeta</title> 
 <author>Alfredo de Mesquita</author>
-<ref target="https://archive.org/details/ruadooiroromance00mesq/"/>
+<ref target="https://archive.org/details/ruadooiroromance00mesq"/>
 </bibl><bibl type="firstEdition">
 <title>A rua do oiro: romance lisboeta</title> 
 <author>Alfredo Mesquita</author>
@@ -59,7 +59,15 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A rua do oiro</head>
+<div type="titlepage">
+<p>ALFREDO MESQUITA</p>
+<p>A RUA</p>
+<p>DO OIRO</p>
+<p>ROMANCE LISBOETA</p>
+<p>LISBOA</p>
+<p>LIVRARIA EDITORA VIUVA TAVARES CARDOSO</p>
+<p>Largo de Camões, 5 e 6</p>
+<p>1905</p>
 </div>
 </front>
 <body>

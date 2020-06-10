@@ -23,12 +23,12 @@
 </extent>
 <publicationStmt><p>Added to ELTeC repo on <date>15-4-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
-<title>Dramas da Corte</title> 
-<author>Alberto Osório de Castro</author>
-<ref target="https://archive.org/stream/dramasdacrte00osor/"/>
+<title>Dramas da Côrte</title> 
+<author>Alberto de Castro</author>
+<ref target="https://archive.org/stream/dramasdacrte00osor"/>
 </bibl><bibl type="firstEdition">
-<title>Dramas da Corte</title> 
-<author>Alberto Osório de Castro</author>
+<title>Dramas da Côrte</title> 
+<author>Alberto de Castro</author>
 <publisher>Parceria Antonio Maria Pereira - Livraria Editora</publisher>
 <pubPlace>Lisboa</pubPlace> 
 <date>1905</date>
@@ -58,7 +58,16 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Dramas da Corte</head>
+<div type="titlepage">
+<p>COLECÇÃO ANTONIO MARIA PEREIRA</p>
+<p>DRAMAS DA CÔRTE</p>
+<p>POR</p>
+<p>ALBERTO DE CASTRO</p>
+<p>LISBOA</p>
+<p>PARECERIA ANTONIO MARIA PEREIRA</p>
+<p>LIVRARIA EDITORA</p>
+<p>Rua Augusta, 50, 52 e 54</p>
+<p>1905</p>
 </div>
 <div type="liminal">
 <p>PREFACIO</p>

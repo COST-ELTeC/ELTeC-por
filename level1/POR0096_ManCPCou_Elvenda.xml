@@ -26,7 +26,7 @@
 <sourceDesc><bibl type="digitalSource">
 <title>Elvenda, ou Conquista de Coimbra por Fernando Magno: romance histórico e moral elaborado sobre factos do século XI</title> 
 <author>Manoel da Cruz Pereira Coutinho</author>
-<ref target="https://archive.org/details/elvendaouconqui00coutgoog/"/>
+<ref target="https://archive.org/details/elvendaouconqui00coutgoog"/>
 </bibl><bibl type="firstEdition">
 <title>Elvenda, ou Conquista de Coimbra por Fernando Magno: romance histórico e moral elaborado sobre factos do século XI</title> 
 <author>Manoel da Cruz Pereira Coutinho</author>
@@ -59,7 +59,19 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Elvenda, ou, Conquista de Coimbra por Fernando Magno</head>
+<div type="titlepage">
+<p>ELVENDA</p>
+<p>OU</p>
+<p>CONQUISTA DE COIMBRA</p>
+<p>POR</p>
+<p>FERNANDO MAGNO</p>
+<p>ROMANCE HISTORICO E MORAL </p>
+<p>ELABORADO SOBRE FACTOS DO SECULO XI</p>
+<p>POR</p>
+<p>MANOEL DA CRUZ PEREIRA COUTINHO</p>
+<p>COIMBRA</p>
+<p>IMPRENSA DA UNIVERSIDADE</p>
+<p>1858.</p>
 </div>
 <div type="liminal">
 <p>ADVERTENCIA. </p>

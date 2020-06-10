@@ -26,7 +26,7 @@
 <sourceDesc><bibl type="digitalSource">
 <title>Arzilla: romance do século XV</title> 
 <author>Bernardino Pereira Pinheiro</author>
-<ref target="https://archive.org/details/arzillaromanced00pinhgoog/"/>
+<ref target="https://archive.org/details/arzillaromanced00pinhgoog"/>
 </bibl><bibl type="firstEdition">
 <title>Arzilla: romance do século XV</title> 
 <author>Bernardino Pinheiro</author>
@@ -59,7 +59,14 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Arzilla</head>
+<div type="titlepage">
+<p>ARZILLA</p>
+<p>Romance do seculo XV</p>
+<p>POR</p>
+<p>BERNARDINO PINHEIRO</p>
+<p>COIMBRA</p>
+<p>IMPRENSA DA UNIVERSIDADE</p>
+<p>1862</p>
 </div>
 </front>
 <body>

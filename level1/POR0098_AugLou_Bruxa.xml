@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A bruxa : Edição para o ELTeC</title>
-<title level="s">scenas açorianas </title>
+<title level="s">cenas açorianas </title>
 <author>Loureiro, Augusto (1840-?)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
@@ -26,7 +26,7 @@
 <sourceDesc><bibl type="digitalSource">
 <title>A bruxa: scenas açorianas</title> 
 <author>Augusto Loureiro</author>
-<ref target="https://archive.org/details/bruxascenasacori00lour/"/>
+<ref target="https://archive.org/details/bruxascenasacori00lour"/>
 </bibl><bibl type="firstEdition">
 <title>A bruxa: scenas açorianas</title> 
 <author>Augusto Loureiro</author>
@@ -59,8 +59,15 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A Bruxa</head>
-<p>Scenas da vida açoriana</p>
+<div type="titlepage">
+<p>AUGUSTO LOUREIRO</p>
+<p>A BRUXA</p>
+<p>SCENAS AÇORIANAS</p>
+<p>Com um prefacio de Armando da Silva</p>
+<p>1901</p>
+<p>Antiga Casa Bertrand -- JOSÉ BASTOS</p>
+<p>73, Rua Garrett, 75</p>
+<p>LISBOA</p>
 </div>
 </front>
 <body>
