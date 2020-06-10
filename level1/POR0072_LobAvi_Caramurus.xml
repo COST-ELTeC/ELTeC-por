@@ -26,7 +26,7 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-1-12--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Os Caramurús</title>
-<ref target="https://archive.org/details/oscaramursroman01davgoog/"/>
+<ref target="https://archive.org/details/oscaramursroman01davgoog"/>
 </bibl><bibl type="firstEdition">
 <title>Os Caramurús: romance histórico da descoberta e independência do Brasil</title>
 <author>Artur Lobo de Ávila</author>
@@ -61,19 +61,26 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Os caramurús</head>
+<div type="titlepage">
+<p>ARTHUR LOBO D'AVILA</p>
+<p>OS</p>
+<p>CARAMURÚS</p>
 <p>ROMANCE HISTÓRICO</p>
 <p>DA</p>
-<p>DESCOBERTA E INDEPENDÊNCIA DO BRÀZIL</p>
+<p>DESCOBERTA E INDEPENDÊNCIA DO BRAZIL</p>
+<quote xml:lang="it">
+<l>«Cosi a l’egro fanciul porgiamo aspersi»</l>
+<l>«Di soave licor gli orli del vaso»</l>
+<l>«Succhi amari, ingannato intanto ei beve»</l>
+<l>«E da l'inganno suo vita riceve». </l>
+</quote>
+<p>Torquato Tasso -- Jeruaalemme Liberata.</p>
+<p>LISBOA</p>
+<p>JOÃO ROMANO TORRES -- EDITOR</p>
+<p>Rua D. Pedro V, 84 a 88</p>
+<p>1900</p>
 </div>
 <div type="liminal">
-<quote>
-<l><foreign xml:lang="it">«Cosi a l’egro fanciul porgiamo aspersi» </foreign> </l>
-<l><foreign xml:lang="it">«Di soave licor gli orli del vaso» </foreign> </l>
-<l><foreign xml:lang="it">«Succhi amari, ingannato intanto ei beve» </foreign> </l>
-<l><foreign xml:lang="it">«E da l'inganno suo vita riceve». </foreign> </l>
-<l><foreign xml:lang="it">Torquato Tasso -- Jeruaalemme Liberata. </foreign> </l>
-</quote>
 <p>AO LEITOR</p>
 <p>Causará, talvez, uma certa extranheza que n'esta obra conjugassemos o descobrimento do Brazil com a sua emancipação; porque aquelle facto histórico, é, pela grande maioria, considerado como uma gloria, e este, como um revez, na historia portugueza. </p>
 <p>Fizemol-o, porém, muito propositadamente, e precisamente porque entendemos ser conveniente destruir no espirito popular essa errada theoria, e pareceu-nos ser momento azado, para o fazer, esta celebração festiva do quarto centenario da gloriosa descoberta da Terra de Santa Cruz por Pedro Alvares Cabral. </p>

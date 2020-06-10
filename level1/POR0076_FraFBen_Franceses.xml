@@ -26,7 +26,7 @@
 <sourceDesc><bibl type="digitalSource">
 <title>No tempo dos francezes</title> 
 <author>Francisco da Fonseca Benevides</author>
-<publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="https://archive.org/details/notempodosfrance00fons"/>
 </bibl><bibl type="firstEdition">
 <title>No tempo dos francezes</title> 
 <author>Francisco da Fonseca Benevides</author>
@@ -65,9 +65,15 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>No tempo dos francezes</head>
-<p>ROMANCE HISTORICO </p>
-<p>FRANCISCO DA FONSECA BENEVIDES </p>
+<div type="titlepage">
+<p>FRANCISCO DA FONSECA BENEVIDES</p>
+<p>No tempo dos francezes</p>
+<p>ROMANCE HISTORICO</p>
+<p>TERCEIRA EDIÇÃO</p>
+<p>LISBOA</p>
+<p>Typographia «A EDITORA»</p>
+<p>Largo do Conde Barão, 50</p>
+<p>1908</p>
 </div>
 </front>
 <body>

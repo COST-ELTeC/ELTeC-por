@@ -27,6 +27,7 @@
 <title>O agitador: romance</title> 
 <author>Fortunato Correia Pinto</author>
 <publisher>Biblioteca Nacional de Portugal</publisher>
+
 </bibl><bibl type="firstEdition">
 <title>O agitador: romance</title> 
 <author>Fortunato Correia Pinto</author>
@@ -59,7 +60,14 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O agitador</head>
+<div type="titlepage">
+<p>FORTUNATO CORREIA PINTO</p>
+<p>O Agitador</p>
+<p>(ROMANCE)</p>
+<p>LISBOA</p>
+<p>LIVRARIA CENTRAL de Gomes de Carvalho, editor</p>
+<p>158, Rua da Prata, 160</p>
+<p>1906</p>
 </div>
 <div type="liminal"><head>A QUEM LER</head>
 <p>Algumas das scenas que n'este livro pretendi descrever talvez a muitos pareçam inverosimeis,e sejam julgadas apenas um producto da minha pouca fertil imaginação. Mas não é assim. Nada difficil me seria provar que da maioria d'ellasnão passo de simples e desataviado chronista.</p>

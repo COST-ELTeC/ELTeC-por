@@ -26,13 +26,19 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-2-10--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O Conde de Castel Melhor: romance histórico</title>
-<ref target="https://archive.org/stream/ocondedecastelme00cama/"/>
-</bibl><bibl type="firstEdition">
-<title>O Conde de Castel Melhor: romance histórico (2.a edição)</title>
+<ref target="https://archive.org/stream/ocondedecastelme00cama"/>
+</bibl><bibl type="printSource">
+<title>O Conde de Castel Melhor: romance historico (2.a edição)</title>
 <author>D. João da Câmara</author>
 <publisher>O Primeiro de Janeiro</publisher>
 <pubPlace>Porto</pubPlace>
 <date>1903</date>
+</bibl><bibl type="firstEdition">
+<title>O Conde de Castel Melhor: romance historico </title>
+<author>D. João da Câmara</author>
+<publisher>O Primeiro de Janeiro</publisher>
+<pubPlace>Porto</pubPlace>
+<date/>
 </bibl></sourceDesc>
 </fileDesc>
 
@@ -61,19 +67,21 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O Conde de Castel Melhor </head>
+<div type="titlepage">
+<p>D. JOÃO DA CAMARA</p>
+<p>O CONDE</p>
+<p>DE</p>
+<p>CASTEL MELHOR</p>
 <p>ROMANCE HISTORICO</p>
 <p>(ILLUSTRADO)</p>
-</div><div type="liminal">
+<p>VOLUME I</p>
+<p>Segunda edição</p>
 <p>PORTO </p>
-<p>Edição e propriedade d'O PRIMEIRO DE JANEIRO</p>
+<p>Edição d'O PRIMEIRO DE JANEIRO</p>
 <p>199, Rua de Santa Catharina, 201 </p>
-<p>o Rua Formosa, 232 </p>
+<p>e Rua Formosa, 232</p>
+<p>1903</p>
 <p>Todos os direitos reservados </p>
-<p>Pertence no Brazil o direito de propriedade d'esta obra ao cidadão Francisco Alves, livreiro editor no Rio de Janeiro, que, para a garantia que lhe oferece a lei nº 496 de 1 d'agosto de 1898, fez o competente deposito na Biblioteca Nacional, segundo a determinação do artigo 13º da mesma lei.</p>
-<p>PORTO </p>
-<p>TYPOGRAPHIA PROGRESSO de Domingos Augusto da Silva, em Commandita </p>
-<p>15, Largo de S. Domingos, 15 </p>
 </div>
 </front>
 <body>

@@ -26,7 +26,7 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-1-12--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O trovador da Infanta</title>
-<ref target="https://archive.org/details/otrovadordainfan00olivuoft/"/>
+<ref target="https://archive.org/details/otrovadordainfan00olivuoft"/>
 </bibl><bibl type="firstEdition">
 <title>O Trovador da Infanta</title>
 <author>J. A. d'Oliveira Mascarenhas</author>
@@ -61,14 +61,16 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O trovador da infanta</head>
+<div type="titlepage">
+<p>O trovador da infanta</p>
 <p>Romance historico dos seculos 15.º e 16.º </p>
 <p>por</p>
 <p>J. A. D'OLIVEIRA MASCARENHAS </p>
 <p>LISBOA </p>
 <p>LIVRARIA EDITORA </p>
 <p>VIUVA TAVARES CARDOSO </p>
-<p>5, Largo de Camôes, 6</p>
+<p>5, Largo de Camões, 6</p>
+<p>1906</p>
 </div>
 <div type="liminal"><p>PRELIMINARES</p>
 <p>Diversos e abalisados escriptores se têem dado em varias epochas, ao difficil e fatigante trabalho de tirar a limpo a genealogia do grande bucólico Bernardim Ribeiro; a qual -- graças ás indefessas investigações do benemérito visconde de Sanches de Baena -- parece assentar hoje n'uma base indestructivel.</p>
