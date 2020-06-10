@@ -26,10 +26,10 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O último cartuxo da Scala Caeli de Évora</title>
-<ref target="https://archive.org/stream/oultimocartuxod00baragoog/oultimocartuxod00baragoog_djvu.txt"/>
+<ref target="https://archive.org/stream/oultimocartuxod00baragoog"/>
 </bibl><bibl type="firstEdition">
-<title>O último cartuxo da Scala Caeli de Évora: Romance histórico (1808-1865)</title>
-<author>António Francisco Barata</author>
+<title>O último cartuxo da Scala Caeli de Évora: Romance historico (1808-1865)</title>
+<author>D. Bruno da Silva</author>
 <publisher>José António Rodrigues</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1891</date>
@@ -60,7 +60,19 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O último cartuxo da Scala Caeli de Évora: Romance histórico (1808-1865)</head>
+<div type="titlepage">
+<p>D. BRUNO DA SILVA</p>
+<p>O Ultimo Cartuxo </p>
+<p>DA </p>
+<p>SCALA CAELI</p>
+<p>DE</p>
+<p>EVORA </p>
+<p>ROMANCE HISTORICO </p>
+<p>(1808-1865)</p>
+<p>LISBOA</p>
+<p>EDITOR -- JOSÉ ANTONIO RODRIGUES</p>
+<p>186 -- Rua Aurea -- 188</p>
+<p>1891</p>
 </div>
 <div type="liminal">
 <quote>

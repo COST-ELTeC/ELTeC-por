@@ -27,7 +27,7 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Project Gutenberg EBook A morte vence</title>
-<ref target="http://www.gutenberg.org/ebooks/23687/"/>
+<ref target="http://www.gutenberg.org/ebooks/23687"/>
 </bibl><bibl type="firstEdition">
 	 <author>João José Grave</author>
 	 <title>A morte vence</title>
@@ -64,7 +64,19 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A morte vence</head>
+<div type="titlepage">
+<p>JOÃO GRAVE</p>
+<p>DA ACADEMIA DAS SCIÊNCIAS DE LISBOA</p>
+<p>A MORTE VENCE</p>
+<p>ROMANCE</p>
+<p>«_Sê leal a ti mesmo_...»</p>
+<p>SHAKESPEARE.</p>
+<p>SEGUNDA EDIÇÃO, EMENDADA</p>
+<p>PORTO</p>
+<p>Livraria Chardron, de Lélo &amp; Irmão, L.da</p>
+<p>editores--Rua das Carmelitas, 144</p>
+<p>Aillaud e Bertrand--Lisboa-Paris</p>
+<p>1922</p>
 </div>
 </front>
 <body>

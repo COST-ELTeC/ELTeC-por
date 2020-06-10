@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A ermida de Castromino: Edição para o ELTeC</title>
-<author>Vasconcellos, Antonio Augusto Teixeira de (1816-1878)</author>
+<author>Vasconcelos, Antonio Augusto Teixeira de (1816-1878)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>
@@ -30,15 +30,15 @@
 </bibl><bibl type="firstEdition">
 <title>A ermida de Castromino</title>
 <author>Antonio Augusto Teixeira de Vasconcellos</author>
-<publisher> Typographia Portuguesa</publisher>
-<pubPlace>Lisboa</pubPlace>
+<publisher/>
+<pubPlace/>
 <date>1870</date>
 </bibl><bibl type="printSource">
 <title>A ermida de Castromino, 2.a edição</title>
-<author>Antonio Augusto Teixeira de Vasconcellos</author>
-<publisher> Typographia Portuguesa</publisher>
+<author>A. A. Teixeira de Vasconcellos</author>
+<publisher>Typographia Portugueza</publisher>
 <pubPlace>Lisboa</pubPlace>
-<date>1875)</date>
+<date>1875</date>
 </bibl></sourceDesc>
 </fileDesc>
 
@@ -67,12 +67,25 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head>A ermida de Castromino</head>
-<p>Romance</p>
+<div type="titlepage">
+<p>A ERMIDA</p>
+<p>DE</p>
+<p>CASTROMINO</p>
+<p>ROMANCE</p>
+<p>POR </p>
+<p>A. A. TEIXEIRA DE VASCONCELLOS</p>
+<p>Socio effectivo da Academia Real das Sciencias de Lisboa</p>
+<p>2.a EDIÇÃO</p>
+<p>Com o retrato do auctor e revista por elle</p>
+<p>LISBOA</p>
+<p>TYPOGRAPHIA PORTUGUEZA</p>
+<p>Rua da Paz, 7</p>
+<p>1875</p>
 </div>
-</front>
-<body>
 <div type="liminal">
+<p>Ao insigne poeta e esmerado prosador Visconde de Castilho</p> 
+<p>Incomparável tradutor de Ovídio e Virgílio</p>
+<p>Em testemunho da veneração e respeito devidos às suas incessantes fadigas litterarias, á inquebrantavel assiduidade com que promoveu sempre o melhoramento do ensino popular, e ao desvellado carinho e leal amizade com que distingue e favorece os homens estudiosos e honrados, offerece O seu maior devedor, amigo e criado, A. A. Teixeira de Vasconcellos.</p>
 <p>Foi principiado este romance em Pariz, na rua de Moscow n.o 11, a 2 de julho de 1861, publicado logo na Revista Contemporânea até á pagina 242, que era a 159 da 1.a edição, e depois reproduzido na Gazeta de Portugal em que não chegou a sair completo. </p>
 <p>Não pôde o auctor concluil-o senão a 17 de novembro de 1870 em Lisboa, na travessa da Queimada n.o 35, e n'esse anno foi posto em livro. </p>
 <p>Esgotou-se a 1.a edição em menos de três mezes por grande favor do público, e fraternal benevolência da imprensa. E porque já não havia desde muito tempo exemplares á venda nas lojas de livros, se fez agora na typographia do Jornal da Noite esta 2.a edição no formato de outros livros do mesmo auctor, em papel excellente, e com typos inteiramente novos, formando avultado volume de mais de 450 paginas, novamente revisto e correcto. </p>
@@ -87,7 +100,10 @@
 <l>Tuas aras banhar em sangue humano. </l>
 <l>Luziadas. C. III. Est. CXIX. </l>
 </quote>
-</div><div type="chapter"><head>I</head>
+</div>
+</front>
+<body>
+<div type="chapter"><head>I</head>
 <p>Em píncaro dos mais elevados, na cordilheira que os antigos denominavam Montes Hermínios e que nós hoje intitulamos Serra da Estreita, divisava-se, haverá talvez vinte annos, uma pequena capella. O povo de Valezim que ficava próximo na raiz da montanha, chamava-lhe mui naturalmente a Ermida da Serra. </p>
 <p>Alguns homens discretos, moradores de S. Romão e de Longa e entendidos em tradicções históricas, sustentavam que se devia dizer Ermida de Castromino. Segundo a opinião d'estes doutos archeologos, Castromino era derivação e corruptela da expressão romana Castram Herminii, e affirmavam que tal fora sempre o nome do pico alcantilado em cujo cimo surgira inesperadamente a ermida. </p>
 <p>Consinta o leitor que para não desprazer aos sábios, nem desgostar o povo que tantas vezes sabe mais e diz melhor do que elles na candura e singeleza da expressão, eu use, ora duma, ora d'outra, d'estas duas denominações. </p>

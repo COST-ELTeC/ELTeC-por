@@ -26,7 +26,7 @@
 <sourceDesc><bibl type="digitalSource">
 <author>Carlos Pinto de Almeida</author>
 <title>A conquista de Lisboa: romance original</title>
-<ref target="https://archive.org/details/conquistadelisbo00almeuoft/"/>
+<ref target="https://archive.org/details/conquistadelisbo00almeuoft"/>
 </bibl><bibl type="firstEdition">
 <title>A conquista de Lisboa: romance original</title>
 <author>Carlos Pinto de Almeida</author>
@@ -61,8 +61,13 @@
 <text xml:lang="pt-PT">
 
 <front>
-<div type="titlepage"><head>A conquista de Lisboa</head>
-<p>romance original</p>
+<div type="titlepage">
+<p>A CONQUISTA DE LISBOA</p>
+<p>ROMANCE HISTORICO</p>
+<p>POR CARLOS PINTO d'ALMEIDA</p>
+<p>LISBOA</p>
+<p>TYP. DO PANORAMA. -- Rua do Arco do Bandeira, 112.</p>
+<p>1866.</p>
 </div>
 </front>
 <body>

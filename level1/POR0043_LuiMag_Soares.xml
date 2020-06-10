@@ -28,8 +28,6 @@ Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/comm
 <title>O Brasileiro Soares</title>
 <publisher>Biblioteca Nacional de Portugal</publisher>
 <ref target="http://purl.pt/33630"/>
-<pubPlace>Lisboa</pubPlace>
-<date>2019</date>
 </bibl><bibl type="firstEdition">
 <title>O Brasileiro Soares</title>
 <author>Luís de Magalhães</author>
@@ -83,7 +81,6 @@ script</change>
 </front>
 <body>
 <div type="chapter">
-
 <head>I</head>
 <p>A Eça de Queirós, meu mestre e meu amigo</p>
 <p>Joaquim Soares fora para o Brasil aos quinze anos. Seu pai,
