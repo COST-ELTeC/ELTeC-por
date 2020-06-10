@@ -24,8 +24,8 @@
 <publicationStmt><p>Added to ELTeC repo on <date>2020-3-25</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Gomes Freire</title>
-<ref target="https://archive.org/stream/gomesfreireroman01mart/"/>
-<ref target="https://archive.org/stream/gomesfreireroman02mart/"/>
+<ref target="https://archive.org/stream/gomesfreireroman01mart"/>
+<ref target="https://archive.org/stream/gomesfreireroman02mart"/>
 </bibl><bibl type="firstEdition">
 <title>Gomes Freire</title>
 <author>Rocha Martins</author>
@@ -61,7 +61,12 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>GOMES FREIRE</head>
+<div type="titlepage">
+<p>GOMES FREIRE</p>
+<p>ROMANCE HISTORICO</p>
+<p>DE</p>
+<p>ROCHA MARTINS</p>
+<p>JOÃO ROMANO TORRES &amp; C.A -- EDITORES</p>
 </div>
 </front>
 <body>

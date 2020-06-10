@@ -24,12 +24,12 @@
 </extent>
 <publicationStmt><p>Added to ELTeC repo on <date>25-3-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
-<title>Os quatro reis impostores (romance da história)</title> 
-<author>Marcelino Mesquita</author>
-<ref target=" https://archive.org/stream//osquatroreisimpo00mesquoft/"/>
+<title>Os quatro reis impostôres (romance da historia)</title> 
+<author>Marcellino Mesquita</author>
+<ref target="https://archive.org/stream//osquatroreisimpo00mesquoft"/>
 </bibl><bibl type="firstEdition">
-<title>Os quatro reis impostores (romance da história)</title>
-<author>Marcelino Mesquita</author>
+<title>Os quatro reis impostôres (romance da historia)</title>
+<author>Marcellino Mesquita</author>
 <publisher>Antiga casa Bertrand</publisher>
 <pubPlace>Lisboa</pubPlace> 
 <date>1908</date>
@@ -59,7 +59,16 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>OS QUATRO REIS IMPOSTÔRES</head>
+<div type="titlepage">
+<p>Marcellino Mesquita</p>
+<p>Os quatro Reis </p>
+<p>impostôres </p>
+<p>(Romance da historia)</p>
+<p>1908</p>
+<p>Antiga Casa Bertrand</p>
+<p>JOSÉ BASTOS &amp; C.A</p>
+<p>73, RUA GARRETT, 75</p>
+<p>LISBOA</p>
 </div>
 </front>
 <body>

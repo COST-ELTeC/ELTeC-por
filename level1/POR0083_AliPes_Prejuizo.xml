@@ -25,7 +25,7 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-3-4--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Retalhos de verdade</title>
-<ref target="https://archive.org/stream/retalhosdeverdad00pestuoft/"/>
+<ref target="https://archive.org/stream/retalhosdeverdad00pestuoft"/>
 </bibl><bibl type="firstEdition">
 <title>Retalhos de verdade</title>
 <author>Caïel</author>
@@ -61,7 +61,18 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A Vida por um Prejuizo </head>
+<div type="titlepage">
+<p>COLECÇÃO ANTONIO MARIA PEREIRA</p>
+<p>CAÏEL</p>
+<p>RETALHOS</p>
+<p>DE</p>
+<p>VERDADE</p>
+<p>1908</p>
+<p>PARCERIA ANTONIO MARIA PEREIRA</p>
+<p>Livraria Editora e Officinas Typographica e de Encadernação</p>
+<p>Movidas a eletricidade</p>
+<p>Rua Augusta -- 44 a 54</p>
+<p>LISBOA</p>
 </div>
 </front>
 <body>

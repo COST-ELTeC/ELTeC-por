@@ -26,7 +26,7 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-2-22--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Da parte d'el-rei: romance histórico do século XIV</title>
-<ref target="https://archive.org/stream/dapartedelreiro00sgoog/"/>
+<ref target="https://archive.org/stream/dapartedelreiro00sgoog"/>
 </bibl><bibl type="firstEdition">
 <title>Da parte d'el-rei: romance histórico do século XIV e Da parte da rainha: romance histórico do século XIV</title>
 <author>A.M. da Cunha e Sá</author>
@@ -62,17 +62,15 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Da parte d'el-rei</head>
+<div type="titlepage">
+<p>A. M. DA CUNHA E SÁ</p>
 <p>DA PARTE D'EL-REI </p>
 <p>ROMANCE HISTORICO DO SECULO XIV</p>
-<p>A. M. DA CUNHA E SÁ </p>
 <p>Todo aquelle que jouver com manceba que viver com seu senhor, qne moira porem. E esto se entenda assy nos fidalgos como nos villãos. </p>
-<p>(Lei de D. Dinis.) </p>
+<p>(Lei de D. Diniz.) </p>
 <p>LISBOA </p>
 <p>HORAS ROMANTICAS</p>
-<p>102 - Rua dos Calagates - 102</p>
-<p>LOAN STACK</p>
-<p>Typ. Portugueza - Rua da Paz, 7 (aos Poyaes de S. Bento)</p>
+<p>102 - Rua dos Calafates - 102</p>
 </div>
 <div type="liminal">
 <head>ADVERTENCIA </head>

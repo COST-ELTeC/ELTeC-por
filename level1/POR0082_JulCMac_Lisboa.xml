@@ -26,8 +26,8 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-2-26--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>A vida em Lisboa: romance contemporâneo</title>
-<ref target="https://archive.org/details/avidaemlisboaro00machgoog/"/>
-<ref target="https://archive.org/details/avidaemlisboaro01machgoog/"/>
+<ref target="https://archive.org/details/avidaemlisboaro00machgoog"/>
+<ref target="https://archive.org/details/avidaemlisboaro01machgoog"/>
 </bibl><bibl type="firstEdition">
 <title>A vida em Lisboa: romance contemporâneo</title>
 <author>Júlio César Machado</author>
@@ -67,7 +67,7 @@
 
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A vida em Lisboa</head>
+<div type="titlepage">
 <p>COLLECÇÃO ANTONIO MARIA PEREIRA </p>
 <p>JULIO CESAR MACHADO </p>
 <p>A VIDA EM LISBOA </p>
@@ -77,7 +77,8 @@
 <p>LISBOA </p>
 <p>Parceria ANTONIO MARIA PEREIRA </p>
 <p>(LIVRARIA EDITORA) </p>
-<p>Rua Augusta-- 50, 52, 54 </p>
+<p>Rua Augusta-- 50, 52, 54</p>
+<p>1901</p>
 </div>
 <div type="liminal">
 <head>A CRITICA </head>

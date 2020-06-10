@@ -61,7 +61,11 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>Os canibais</head>
+<div type="titlepage">
+<p>OS</p>
+<p>CANIBAIS</p>
+<p>Álvaro do Carvalhal</p>
+<p>PROJECTO ADAMASTOR</p>
 </div>
 </front>
 <body>
