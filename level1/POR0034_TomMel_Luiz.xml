@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>O Conde de S. Luiz: Edição para o ELTeC</title>
-        <author>Melo, Tomaz de (1836-1905)</author>
+        <author>Melo, Tomás de (1836-1905)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Júlio Reis</name>
@@ -30,15 +30,16 @@
   <sourceDesc><bibl type="digitalSource">
       <title>Project Gutenberg EBook O Conde de S. Luiz</title>
      <ref target="http://www.gutenberg.org/ebooks/28928"/>
-</bibl><bibl type="firstEdition">
-       <title>O Conde de S. Luiz</title>
-       <author>Tomaz de Melo</author>
+</bibl><bibl type="printSource">
+       <title>O Conde de S. Luiz, 2.a edição</title>
+       <author>D. Tomaz de Melo</author>
        <publisher>Empreza da História de Portugal</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1903</date>
        </bibl><bibl type="firstEdition">
        <title>O Conde de S. Luiz</title>
-       <author>Tomaz de Melo</author>
+       <author>D. Tomaz de Melo</author>
+<pubPlace/>
        <date>1874</date>
 </bibl></sourceDesc>
 </fileDesc>
@@ -67,7 +68,19 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>O Conde de S. Luiz</head>
+<div type="titlepage">
+<p>BIBLIOTHECA PORTUGUEZA ILLUSTRADA</p>
+<p>X</p>
+<p>D. THOMAZ DE MELLO</p>
+<p>O CONDE DE S. LUIZ</p>
+<p>ROMANCE ORIGINAL</p>
+<p>SEGUNDA EDIÇÂO</p>
+<p>LISBOA</p>
+<p>EMPREZA DA HISTORIA DE PORTUGAL</p>
+<p>Sociedade editora</p>
+<p>LIVRARIA MODERNA | TYPOGRAPHIA</p>
+<p>R. Augusta, 95 | 45, R. Ivens, 47</p>
+<p>1903</p>
 </div>
 </front>
 <body>

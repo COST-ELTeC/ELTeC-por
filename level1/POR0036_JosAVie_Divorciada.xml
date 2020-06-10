@@ -36,6 +36,7 @@
 </bibl><bibl type="firstEdition">
 	 <author>José Augusto Vieira</author>
 	 <title>A Divorciada</title>
+<date>1881</date>
 </bibl></sourceDesc>
 </fileDesc>
 
@@ -51,7 +52,7 @@
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
-<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 
 </profileDesc>
@@ -62,7 +63,25 @@
 </teiHeader>
 <text xml:lang="pt-PT">
 <front>
-<div type="titlepage"><head>A DIVORCIADA</head>
+<div type="titlepage">
+<p>COLLECÇAO ANTONIO MARIA PEREIRA</p>
+<p>A</p>
+<p>DIVORCIADA</p>
+<p>POR</p>
+<p>JOSÉ AUGUSTO VIEIRA</p>
+<p>2.ª EDIÇÃO</p>
+<p>1906</p>
+<p>Parceria Antonio Maria Pereira</p>
+<p>LIVRARIA EDITORA E OFFICINAS TYPOGRAPHICA E DE ENCADERNAÇÃO</p>
+<p>Movidas a electricidade</p>
+<p>Rua Augusta--44 a 54</p>
+<p>LISBOA</p>
+</div>
+<div type="liminal">
+<p>Ao Ex.mo Sr.
+Elyseu Xavier de Souza e Serpa
+Offerece e dedica
+O Auctor.</p>
 </div>
 </front>
 <body>
