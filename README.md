@@ -6,3 +6,5 @@ The users of the material should thus be aware that most texts still need a fine
 
 In addition, and due to the different sources of the material, the collection includes texts in different original ortographies, and in at least two different more modern ones, in the case of books obtained from (more) modern editions. This means that there are widely differing ortographies in the collection.
 
+# Licence
+All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
