@@ -2,6 +2,10 @@
 
 This is the Portuguese novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net).
 
+## Contributors
+The main responsibility for ELTeC-por lies with Diana Santos, who centralized the process and took care of the ELTeC encoding. Raquel Amaro established contact with the National Library of Portugal which secured OCR of so far undigitized works for ELTeC. Raquel Amaro also procured and got funding from Gulbenkian for the correction of OCR errors for the works, and hired Adeliana Silva for the revision. Isabel Araújo Branco hired Inês Lucas and Alina Balté for the revision. Diana
+Santos hired Vanda Morgado and Madalena Rato for the revision. Paulo Silva Pereira suggested several authors to be included and managed to get some hard to find works by woman writers.
+
 ## Release notes
 When we started work in ELTeC, we had no idea there existed so few books in Portuguese from the period 1840-1920 in electronic form. To our dismay, we discovered that most digitization projects for Portuguese either concentrated on a limited number of canonical authors, or stopped digitization at the pdf level, or both. For non-canonical works, many texts had not even been scanned. We were assisted in this latter task by National Library of Portugal, but only until the pdf stage. For the vast majority of the works, the (Portuguese) COST team had to perform optical character recognition (OCR), which, due to the typographical and ortographical properties of the books in question and the lack of specific OCR software for Portuguese of that period, led to a huge amount of manual revision work.
 
