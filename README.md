@@ -8,7 +8,7 @@ General information about ELTeC releases is available at https://github.com/COST
 
 The users of the material should be aware that some texts still need a finer-grained revision, and that not all metadata has been reliably checked. 
 
-In addition, due to the different sources of the material, the collection includes texts in different original ortographies, and in at least two different more modern ones, in the case of books obtained from (more) modern editions. This means that there are widely differing ortographies in the collection.
+In addition, due to the different sources of the material, the collection includes texts in different original ortographies, and in at least two different more modern ones, in the case of books obtained from (more) modern editions. 
 
 ## Contributors
 
