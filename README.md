@@ -12,11 +12,13 @@ In addition, due to the different sources of the material, the collection includ
 
 ## Contributors
 
-The main responsibility for ELTeC-por lies with Diana Santos, who centralized the process and took care of the ELTeC encoding. Raquel Amaro established contact with the National Library of Portugal which secured OCR of so far undigitized works for ELTeC. Raquel Amaro also procured and got funding from Gulbenkian for the correction of OCR errors for the works, and hired Adeliana Silva for the revision. Isabel Araújo Branco hired Inês Lucas and Alina Balté for the revision. Diana
-Santos hired Vanda Morgado and Madalena Rato for the revision. Paulo Silva Pereira suggested several authors to be included and managed to get some hard to find works by woman writers.
+The main responsibility for ELTeC-por lies with Diana Santos, who centralized the process and took care of the ELTeC encoding. Raquel Amaro established contact with the National Library of Portugal which secured OCR of so far undigitized works for ELTeC. Raquel Amaro also procured and got funding from Centro de Linguística da Universidade NOVA de Lisboa for the correction of OCR errors for the works, and hired Adeliana Silva for the revision. Isabel Araújo Branco hired Inês Lucas and Alina Balté for the revision. Diana Santos hired Vanda Morgado and Madalena Rato for the revision. Paulo Silva Pereira suggested several authors to be included and managed to get some hard to find works by woman writers.
 
 * Sources: Gutenberg project, archive.org, Biblioteca Nacional de Portugal, Luso-livros, Bibliotrónica, Projecto Adamastor, Câmara Municipal de Sines.
 
 
 ## Licence
 All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
+
+## Acknowledgements
+We acknowledge a 3 months scholarship from Centro de Linguística da Universidade NOVA de Lisboa, BI - FCSH/CLUNL/UID/LIN/03213/2013, as well as the support of teh National Library of Portugal, which digitized more than 20 works at our request.
