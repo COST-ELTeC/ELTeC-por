@@ -21,4 +21,4 @@ The main responsibility for ELTeC-por lies with Diana Santos, who centralized th
 All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
 
 ## Acknowledgements
-We acknowledge a 3 months scholarship from Centro de Linguística da Universidade NOVA de Lisboa, BI - FCSH/CLUNL/UID/LIN/03213/2013, as well as the support of teh National Library of Portugal, which digitized more than 20 works at our request.
+We acknowledge a 3 months scholarship from Centro de Linguística da Universidade NOVA de Lisboa, BI - FCSH/CLUNL/UID/LIN/03213/2013, as well as the support of the National Library of Portugal, which digitized more than 20 works at our request.
