@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Herança de lágrimas: Edição para o ELTeC</title>
-<author>Plácido, Ana (1831-1895)</author>
+<author ref="viaf:51767078">Plácido, Ana (1831-1895)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Adeliana Silva</name>
@@ -47,7 +47,7 @@
 <language ident="pt-PT">português de Portugal</language>
 </langUsage>
 <textDesc>
-<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
 <reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
