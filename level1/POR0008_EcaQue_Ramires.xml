@@ -8,7 +8,6 @@
 <fileDesc>
 <titleStmt>
 <title>A ilustre casa de Ramires: Edição para o ELTeC</title>
-<title level="s">Cenas da Vida Devota</title>
 <author ref="viaf:88719234">Eça de Queirós, José Maria de (1845-1900)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
@@ -21,26 +20,21 @@
 </respStmt>
 </titleStmt>
 <extent>
-<measure unit="words">142413</measure>
+<measure unit="words">107647</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>1 de maio de 2020</date>. </p>
+<p>Adicionado à coleção ELTeC <date>15 de julho de 2020</date>. </p>
 </publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Eça de Queirós</author>
-<title>Project Gutenberg's O crime do padre Amaro</title>
-<ref target="http://www.gutenberg.org/ebooks/31971"/>
-<date>2010</date>
-</bibl><bibl type="printSource">
-<author>Eça de Queiroz</author> 
-<title>O Crime do Padre Amaro: Cenas da Vida Devota, 3.a edição. Inteiramente refundida, recomposta, e differente na fórma e na acção da edição primitiva </title>
-<publisher>Livraria Internacional de Ernesto Chardron. Casa editora: Lugan &amp; Gemelioux, Successores</publisher>
-<pubPlace>Porto</pubPlace>
-<date>1889</date>
+<title>Project Gutenberg's A Illustre Casa de Ramires</title>
+<ref target="http://www.gutenberg.org/ebooks/23145"/>
 </bibl><bibl type="firstEdition">
 <author>Eça de Queiroz</author> 
-<title>O Crime do Padre Amaro: Cenas da Vida Devota</title>
-<date>1875</date>
+<title>A Illustre Casa de Ramires</title>
+<publisher>Livraria Chardron. De Lello &amp; Irmão, editores</publisher>
+<pubPlace>Porto</pubPlace>
+<date>1900</date>
 </bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
@@ -60,11 +54,9 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
-<change when="2020-05-01">Adicionado à coleção ElTeC</change>
+<change when="2020-07-15">Adicionado à coleção ElTeC</change>
 </revisionDesc>
 </teiHeader>
-
-
 
 <text xml:lang="pt-PT">
 <front>
