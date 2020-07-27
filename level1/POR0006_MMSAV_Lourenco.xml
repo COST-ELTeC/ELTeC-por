@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>O Cura de São Lourenço: Edição para o ELTeC</title>
-<author>Vasconcelos, M.M.S.A. e (?-1893)</author>
+<author>Vasconcelos, Maria do Monte de Santana e (1809-1884)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Adeliana Silva</name>
@@ -25,9 +25,10 @@
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <publisher>Biblioteca Nacional de Portugal</publisher>
+<ref target="purl.pt/37537"/>
 </bibl><bibl type="firstEdition">
 <title>O Cura de São Lourenço</title> 
-<author>M.M.S.A. e Vasconcelos</author>
+<author ref="99468828">M.M.S.A. e Vasconcelos</author>
 <publisher/>
 <pubPlace/> 
 <date>1855</date>

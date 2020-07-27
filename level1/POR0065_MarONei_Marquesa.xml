@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A Marquesa de Vale Negro: Edição para o ELTeC</title>
-<author>O'Neill, Maria (1873-1932)</author>
+<author>O'Neil, Maria (1873-1932)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Adeliana Silva</name>
@@ -27,6 +27,7 @@
 <title>A Marquesa de Vale Negro</title> 
 <author>Maria O'Neill</author>
 <title>Biblioteca Nacional de Portugal</title>
+<ref target="purl.pt/37535"/>
 </bibl><bibl type="firstEdition">
 <title>A Marqueza de Valle Negro</title> 
 <author>Maria ONeill</author>
