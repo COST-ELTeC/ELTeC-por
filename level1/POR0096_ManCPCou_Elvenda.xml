@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Elvenda, ou Conquista de Coimbra por Fernando Magno: Edição para o ELTeC</title>
 <title level="s">Romance histórico e moral elaborado sobre factos do século XI</title>
-<author>Coutinho, Manoel da Cruz Pereira (1808-1880)</author>
+<author ref="viaf:100053391">Coutinho, Manuel da Cruz Pereira (1808-1880)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Madalena Rato</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 

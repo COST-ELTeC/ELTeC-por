@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>A Ala dos Namorados: Edição para o ELTeC</title>
-        <author>Campos Junior, António (1850-1917)</author>
+        <author ref="viaf:51255962">Campos Junior, António (1850-1917)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Luso-Livros</name>
@@ -26,7 +26,7 @@
 
   <sourceDesc><bibl type="digitalSource">
      <title>A Ala dos Namorados (Luso-livros)</title>
-     <ref target="http://www.luso-livros.net/"/>
+     <ref target="http://www.luso-livros.net/Livro/ala-dos-namorados/"/>
 </bibl><bibl type="firstEdition">
        <title>A Ala dos Namorados</title>
        <author>António Campos Junior</author>

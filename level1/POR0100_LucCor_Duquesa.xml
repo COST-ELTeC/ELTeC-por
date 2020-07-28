@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A senhora duquesa: Edição para o ELTeC</title>
-<author>Cordeiro, Luciano (1844-1900)</author>
+<author ref="viaf:4959274">Cordeiro, Luciano (1844-1900)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Madalena Rato</name>
@@ -26,10 +26,10 @@
 </publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Luciano Cordeiro</author>
-<title>A senhora duquesa</title>
+<title>A senhora duqueza</title>
 <ref target="https://archive.org/details/senhoraduqueza00cord/"/>
 </bibl><bibl type="firstEdition">
-<title>A senhora duquesa</title>
+<title>A senhora duqueza</title>
 <author>Luciano Cordeiro</author>
 <publisher>Livraria Ferin</publisher>
 <date>1889</date>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 </profileDesc>

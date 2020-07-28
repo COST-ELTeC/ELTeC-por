@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0018" xml:lang="pt">   
+<teiHeader>
+<fileDesc>
+     <titleStmt>
+        <title>O marquês de Pombal: Edição para o ELTeC</title>
+<title level="s">romance histórico</title>
+        <author>Campos Júnior, António de (1850-1917)</author>
+        <respStmt>
+           <resp>Criação do HTML original</resp>
+       <name>Vanda Morgado</name>
+       </respStmt>
+       <respStmt>
+         <resp>Codificação segundo as normas do ELTeC</resp>
+         <name>Diana Santos</name>
+      </respStmt>
+   </titleStmt>
+<extent>
+<measure unit="words">500000</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>30 de junho de 2020</date>. </p>
+</publicationStmt>
+
+  <sourceDesc><bibl type="digitalSource">
+      <title>O marquez de Pombal</title>
+       <author>Antonio de Campos Junior</author>
+<ref target="https://archive.org/details/omarquezdepombal01campuoft"/>
+<ref target="https://archive.org/details/omarquezdepombal02campuoft"/>
+</bibl><bibl type="firstEdition">
+
+      <title>O marquez de Pombal</title>
+       <author>Antonio de Campos Junior</author>
+       <publisher>Empreza do Jornal «O Século»</publisher>
+       <pubPlace>Lisboa</pubPlace>
+       <date>1899</date>
+       </bibl></sourceDesc>
+</fileDesc>
+
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="long"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
+</textDesc>
+
+</profileDesc>
+<revisionDesc>
+<change when="2020-06-30">Adicionado à coleção ELTeC</change> 
+</revisionDesc>
+</teiHeader>
+
+
+<text xml:lang="pt-PT">
+<front>
+<div type="titlepage">
+<p>O MARQUEZ DE POMBAL</p>
+<p>ROMANCE HISTORICO</p>
+<p>POR</p>
+<p>ANTONIO DE CAMPOS JUNIOR</p>
+<p>VOL. I</p>
+<p>EMPREZA DO JORNAL «O SECULO»</p>
+<p>LISBOA</p>
+</div>
+<div type="liminal">
+<p>A J. J. da Silva Graça,</p>
+<p>Meu prezado amigo :</p>
+<p>À larguíssima publicidade do teu jornal, extraordinaria força de propaganda que tu criaste a poder de talento e de energia, devo eu, incontestavelmente, uma grande parte do bom exito qte teem tido os meus dois romances publicados em folhetins do «Seculo»: o «Guerreiro e Monge» e este, que te offereço como testemunho de duma velha amisade e de uma sincera admiração. </p>
+
+<p>Assim creio eu possível ensinar ao povo a grande e consoladora lição de uma historia que elle não tem querido ou não tem podido ler.</p>
+<p>Por mim supponho que estará n'isto a attenuante maior da minha audácia.</p>
+<p>Para dar a impressão de uma paizagem algumas vezes bastará o esboço feito por um artista medíocre, e para reproduzir a physionomia e a estatura das immortaes figuras modela-as em barro quem não pode escultural-as n'um bloco de mármore.</p>
+<p>Sabes bem, meu caro Graça, que tem sido este o pensamento fundamental dos meus dois romances, e será, provavelmente, o de outros que eu venha a escrever. </p>
+
+</div>
+</front>
+<body>
+<div type="chapter">

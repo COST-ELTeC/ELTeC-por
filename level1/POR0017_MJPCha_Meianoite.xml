@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>A Lenda da Meia-Noite: Edição para o ELTeC</title>
-        <author>Pinheiro Chagas, Manuel Joaquim (1842-1895)</author>
+        <author ref="viaf:12303053">Pinheiro Chagas, Manuel Joaquim (1842-1895)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
@@ -55,7 +55,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

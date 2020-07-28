@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Dramas da Corte: Edição para o ELTeC</title>
-<author>Castro, Alberto Osório de (1868-1946)</author>
+<author ref="viaf:1742919">Castro, Alberto Osório de (1868-1946)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Inês Lucas</name>
@@ -47,7 +47,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

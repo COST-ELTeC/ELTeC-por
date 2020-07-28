@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Christão novo: Edição para o ELTeC</title>
+        <title>O cristão novo: Edição para o ELTeC</title>
         <title level="s">romance histórico do século XVI</title>
-        <author>Macedo, Diogo de (?)</author>
+        <author ref="viaf:99906308">Macedo, Diogo de (1844-1938)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>

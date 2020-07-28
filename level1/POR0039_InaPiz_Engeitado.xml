@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0039" xml:lang="pt">   
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title> O Engeitado : Edição para o ELTeC</title>
+<title level="s">Romance cristão</title>
+<author ref="viaf:87349884">Sarmento, Inácio Pizarro de Morais (1807-1870)</author>
+<respStmt>
+<resp>Criação do HTML original</resp>
+<name>Vanda Morgado</name>
+</respStmt>
+<respStmt>
+<resp>Codificação segundo as normas do ELTeC</resp>
+<name>Diana Santos</name>
+</respStmt>
+</titleStmt>
+<extent>
+<measure unit="words">40723</measure>
+</extent>
+<publicationStmt>
+<p>Adicionado à coleção ELTeC <date>29 de julho de 2020</date>. </p>
+</publicationStmt>
+<sourceDesc><bibl type="digitalSource">
+<title>O Engeitado: romance christão</title>
+<ref target="https://play.google.com/books/reader?id=4RgTAQAAMAAJ"/>
+</bibl><bibl type="firstEdition">
+<title>O Engeitado: romance christão</title>
+<author>Ignacio Pizarro de M. Sarmento</author>
+<publisher>Typographia Commercial</publisher>
+<date>1846</date>
+</bibl></sourceDesc>
+</fileDesc>
+<encodingDesc n="eltec-1">
+<p/>
+</encodingDesc>
+
+
+<profileDesc>
+<langUsage>
+<language ident="pt-PT">português de Portugal</language>
+</langUsage>
+<textDesc>
+<authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
+<size xmlns="http://distantreading.net/eltec/ns" key="short"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
+<timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
+</textDesc>
+</profileDesc>
+<revisionDesc>
+<change when="2020-07-29">Adicionado à coleção ELTeC</change>
+</revisionDesc>
+</teiHeader>
+
+<text xml:lang="pt-PT">
+
+<front> 
+<div type="titlepage">
+<p>O ENGEITADO</p>
+<p>ROMANCE CHRISTÃO;</p>
+<p>COMPOSTO</p>
+<p>POR</p>
+<p>IGNACIO PIZARRO DE M. SARMENTO</p>
+<p>Fidalgo Cavalleiro da Casa de S. M. F.,</p>
+<p>Commendador de Santa Marinha de Lis-</p>
+<p>boa, da Ordem de Christo, Morgado de</p>
+<p>Bóbeda, etc. etc.</p>
+<p>I.</p>
+<p>-1846-</p>
+<p>PORTO</p>
+<p>Typographia Commercial</p>
+</div>
+</front>

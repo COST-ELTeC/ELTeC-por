@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>Os filhos do padre Anselmo: Edição para o ELTeC</title>
-        <author>Albergaria, António da Costa Couto Sá de (1850-1921)</author>
+        <author ref="viaf:99372166">Albergaria, António da Costa Couto Sá de (1850-1921)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

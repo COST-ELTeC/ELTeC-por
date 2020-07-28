@@ -9,7 +9,7 @@
      <titleStmt>
         <title>Os tripeiros: Edição para o ELTeC</title>
 	<title level="s">Crónica do século XIV</title>
-        <author>Lousada, António José Coelho (1828-1859)</author>
+        <author ref="viaf:99088245">Lousada, António José Coelho (1828-1859)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
            <name>Luso-Livros</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 

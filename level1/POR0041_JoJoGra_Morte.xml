@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A morte vence: Edição para o ELTeC</title>
-<author>Grave, João José (1872-1934)</author>
+<author ref="viaf:29789361">Grave, João José (1872-1934)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
@@ -52,7 +52,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

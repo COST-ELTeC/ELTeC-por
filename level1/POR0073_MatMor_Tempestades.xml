@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Tempestades do coração: Edição para o ELTeC</title>
 <title level="s">Romance contemporâneo </title>
-<author>Moreira, João Baptista de Mattos (1845-1899)</author>
+<author ref="viaf:100139864">Moreira, João Baptista de Matos (1845-1899)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Madalena Rato</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

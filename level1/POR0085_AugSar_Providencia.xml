@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Providência: Edição para o ELTeC</title>
-<author>Sarmento, Augusto (1835-?) </author>
+<author ref="viaf:99738093">Sarmento, Augusto (1835-?) </author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Inês Lucas</name>
@@ -24,7 +24,7 @@
 <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-3-6--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
-<title>Gomes Freire</title>
+<title>Providência</title>
 <ref target="https://archive.org/stream/providencia00rodr"/>
 </bibl><bibl type="firstEdition">
 <title>Providência</title>

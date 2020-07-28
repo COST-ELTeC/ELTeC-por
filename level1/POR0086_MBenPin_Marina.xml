@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Marina: Edição para o ELTeC</title>
 <title level="s">Romance passional </title>
-<author>Pinho, Maria Benedicta Mousinho de Albuquerque (1865-1939)</author>
+<author ref="viaf:99357484">Pinho, Maria Benedicta Mousinho de Albuquerque (1865-1939)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Madalena Rato</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Os quatro reis impostores: Edição para o ELTeC</title>
 <title level="s">Romance da história </title>
-<author>Mesquita, Marcelino (1856-1919)</author>
+<author ref="viaf:62652518">Mesquita, Marcelino (1856-1919)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 
@@ -123,7 +123,7 @@
 <p>Os que cá estavam ou eram fidalgos inervados pelo luxo, transformados em côrtezãos, ou pobres que esmolavam a caridade, nos pateos dos fidalgos ou nas portarias dos conv^entos. O trabalho faziam-no milhares de escravos. </p>
 <p>Sobre este povo miseravel cahira a Inquisição prohibindo-lhe a liberdade do pensamento; emquanto, surdamente minado, o altivo espirito publico, que </p>
 <p>tão nobre e tão grande fôra, morria ás mãos perversas dos Jesuitas, num ensino atrofiador, assassino! </p>
-<p>Não havia tempo para cborar! </p>
+<p>Não havia tempo para chorar! </p>
 <p>Uma afflicção intima, um mal estar geral, prenuncio de futuros e mais crueis desastres, oprimia grandes e pequenos. </p>
 <p>D. Maria, filha de João III levara a Filippe II, casando-se com elle, o direito á corôa portugueza, na falta de herdeiro portuguez. Um só havia. </p>
 <p>Esse tinha tres annos, era o unico neto do rei morto, filho do principe D. João, que morrera dezoito dias antes d'elle nascer, -- era D. Sebastião. </p>
@@ -227,8 +227,7 @@
 <p>pela prece, pelo conselho, pela auctoridade. </p>
 <p>D. Sebastião sorria de uns, zombava de outros, não ligava importancia a nenhum. </p>
 <p>Filippe II não se cansava de lhe escrever; escreveu-lhe o duque d'Alba: os embaixadores andaram n'uma roda viva a trazer recados. Escreveu lhe Jeronymo Osorio; o papa Pio V aconselhou-o. Tudo debalde. </p>
-<p>Dizia-se até que, como D. Sebastião fazia sempre o contrario do que lhe aconselhavam, Filippe II lhe aconselhava a que não fosse na expedição se a </p>
-<p>fizesse, com a certeza de que assim mais o resolvia a fazel-a e a ir. </p>
+<p>Dizia-se até que, como D. Sebastião fazia sempre o contrario do que lhe aconselhavam, Filippe II lhe aconselhava a que não fosse na expedição se a fizesse, com a certeza de que assim mais o resolvia a fazel-a e a ir. </p>
 <p>O que é certo é que já cansado de teimas e dos arrufos do rei dissera um dia: </p>
 <p>-- Pois que vá; se vencer terei um bom genro; se fôr vencido terei um reino ainda melhor. </p>
 <p>A expedição estava pois resolvida. </p>

@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A ermida de Castromino: Edição para o ELTeC</title>
-<author>Vasconcelos, Antonio Augusto Teixeira de (1816-1878)</author>
+<author ref="viaf:44308677">Vasconcelos, Antonio Augusto Teixeira de (1816-1878)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>
@@ -54,7 +54,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

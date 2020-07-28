@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>A chave do enigma: Edição para o ELTeC</title>
-        <author>Castilho, António Feliciano de (1800-1875)</author>
+        <author ref="viaf:135007">Castilho, António Feliciano de (1800-1875)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
@@ -52,7 +52,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

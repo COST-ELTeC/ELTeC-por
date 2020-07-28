@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Ele : edição para o ELTeC</title>
-<author>Campos, Claudia de (1859-1916)</author>
+<author ref="viaf:1160148390823010830009">Campos, Claudia de (1859-1916)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Adeliana Silva</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 

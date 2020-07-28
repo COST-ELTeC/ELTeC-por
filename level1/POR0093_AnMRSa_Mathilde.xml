@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Mathilde: Edição para o ELTeC</title>
-<author>Sá, Anna Maria Ribeiro de (?-?)</author>
+<author ref="viaf:98850225">Sá, Ana Maria Ribeiro de (?-?)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

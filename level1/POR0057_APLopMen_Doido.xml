@@ -9,7 +9,7 @@
      <titleStmt>
         <title>Memórias de um doido: Edição para o ELTeC</title>
 <title level="s">romance contemporâneo</title>
-        <author>Mendonça, António Pedro Lopes de (1857-1911)</author>
+        <author ref="viaf:27059459">Mendonça, António Pedro Lopes de (1826-1865)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Vanda Morgado</name>
@@ -57,7 +57,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>A pálida estrela: Edição para o ELTeC</title>
-<author>Bulhão Pato, Raimundo António de (1828-1912)</author>
+<author ref="viaf:50072721">Bulhão Pato, Raimundo António de (1828-1912)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Diana Santos</name>
@@ -24,12 +24,12 @@
 <publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
                 Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
-<author>Raimundo António de Bulhão Pato</author>
+<author>Bulhão Pato</author>
 <title>Digressões e novelas</title>
 <ref target="https://literaturabrasileira.ufsc.br/documentos/?id=223096"/>
 </bibl><bibl type="firstEdition">
-<title>Digressões e novelas</title>
-<author>Raimundo António de Bulhão Pato</author>
+<title>Digressões e novellas</title>
+<author>Bulhão Pato</author>
 <publisher>Typographia universal</publisher>
 <pubPlace>Lisboa</pubPlace>
 <date>1864</date>

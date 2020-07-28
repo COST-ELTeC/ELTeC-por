@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Os miseráveis da aristocracia: Edição para o ELTeC</title>
 <title level="s">Romance social contemporâneo </title>
-<author>Varela, A.J. Pereira (?-1878)</author>
+<author ref="viaf:63838316">Varela, A.J. Pereira (?-1878)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Inês Lucas</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="long"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

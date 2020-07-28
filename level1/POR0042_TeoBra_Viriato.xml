@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Viriato: Edição para o ELTeC</title>
 <title level="s">Narrativa epo-histórica</title>
-<author>Braga, Teófilo (1843 — 1924)</author>
+<author ref="viaf:54161310">Braga, Teófilo (1843 - 1924)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Pedro Saborano</name>
@@ -51,7 +51,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 </profileDesc>

@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Febo Moniz: Edição para o ELTeC</title>
-<author>Oliveira Martins, Joaquim Pedro de (1845-1894)</author>
+<author ref="viaf:59092504">Oliveira Martins, Joaquim Pedro de (1845-1894)</author>
 <respStmt>
 <resp>Criação do HTML original</resp>
 <name>Vanda Morgado</name>
@@ -52,7 +52,7 @@ Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/comm
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="high"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

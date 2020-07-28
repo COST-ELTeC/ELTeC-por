@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>Pero da Covilhan: Edição para o ELTeC</title>
+        <title>Pero da Covilhã: Edição para o ELTeC</title>
 <title level="s">Episódio Romântico do Século XV</title>
-        <author>Brandão, Zeferino Norberto Gonçalves (1842-1910)</author>
+        <author ref="viaf:99344619">Brandão, Zeferino Norberto Gonçalves (1842-1910)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 

@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>Noites de Cintra: Edição para o ELTeC</title>
-        <author>Pimentel, Alberto (1849-1925)</author>
+        <author ref="viaf:64047987">Pimentel, Alberto (1849-1925)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
@@ -55,7 +55,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 

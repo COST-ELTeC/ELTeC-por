@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>Inocente: Edição para o ELTeC</title>
-<author>Castro e Almeida, Virgínia de (1874-1945)</author>
+<author ref="viaf:74000809">Castro e Almeida, Virgínia de (1874-1945)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
        <name>André Rodrigues</name>
@@ -57,7 +57,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="F"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

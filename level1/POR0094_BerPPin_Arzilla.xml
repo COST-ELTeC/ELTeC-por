@@ -7,9 +7,9 @@
 <teiHeader>
 <fileDesc>
 <titleStmt>
-<title>Arzilla: Edição para o ELTeC</title>
+<title>Arzila: Edição para o ELTeC</title>
 <title level="s">Romance do século XV </title>
-<author>Pinheiro, Bernardino Pereira (1837-1896)</author>
+<author ref="viaf:98582867">Pinheiro, Bernardino Pereira (1837-1896)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

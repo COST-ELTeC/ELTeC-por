@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>Os Bravos do Mindelo: Edição para o ELTeC</title>
-        <author>Fonseca, Faustino da (1871-1918)</author>
+        <author ref="viaf:86910399">Fonseca, Faustino da (1871-1918)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
@@ -50,7 +50,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

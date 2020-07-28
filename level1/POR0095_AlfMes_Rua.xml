@@ -9,7 +9,7 @@
 <titleStmt>
 <title>A rua do oiro: Edição para o ELTeC</title>
 <title level="s">Romance lisboeta </title>
-<author>Mesquita, Alfredo de (1871-1931)</author>
+<author ref="viaf:75465963">Mesquita, Alfredo de (1871-1931)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Inês Lucas</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

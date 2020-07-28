@@ -9,7 +9,7 @@
      <titleStmt>
         <title>A casa dos fantasmas: Edição para o ELTeC</title>
 	<title level="s"> Episódio do tempo dos franceses</title>
-        <author>Silva, Luís Augusto Rebelo da (1822-1871)</author>
+        <author ref="viaf:65062129">Silva, Luís Augusto Rebelo da (1822-1871)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Ricardo F. Diogo</name>
@@ -33,13 +33,13 @@
      <ref target="http://www.gutenberg.org/ebooks/25330"/>
 </bibl><bibl type="firstEdition">
        <title>A casa dos fantasmas: Episodio do tempo dos francezes</title>
-       <author>Luís Augusto Rebelo da Silva</author>
+       <author>Luiz Augusto Rebello da Silva</author>
        <publisher></publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1865</date>
 </bibl><bibl type="printEdition">
        <title>A casa dos fantasmas: Episodio do tempo dos francezes, 2.a edição</title>
-       <author>Luís Augusto Rebelo da Silva</author>
+       <author>Luiz Augusto Rebello da Silva</author>
        <publisher>Livraria Editora Viuva Tavares Cardoso</publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1908</date>
@@ -58,7 +58,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

@@ -9,7 +9,7 @@
 <titleStmt>
 <title>O agitador: Edição para o ELTeC</title>
 <title level="s">Romance </title>
-<author>Pinto, Fortunato Correia (18??-19??)</author>
+<author ref="viaf:99791256">Pinto, Fortunato Correia (18??-19??)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Alina Baldé</name>
@@ -49,7 +49,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

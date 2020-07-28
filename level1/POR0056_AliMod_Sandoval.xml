@@ -7,8 +7,8 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>O Dr. Luiz Sandoval: Edição para o ELTeC</title>
-        <author>Moderno, Alice (1867-1946)</author>
+        <title>O Dr. Luís Sandoval: Edição para o ELTeC</title>
+        <author ref="viaf:8943849">Moderno, Alice (1867-1946)</author>
         <respStmt>
           <resp>Criação do HTML original</resp>
           <name>Diana Santos</name>

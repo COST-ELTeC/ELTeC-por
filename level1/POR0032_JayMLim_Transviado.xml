@@ -8,7 +8,7 @@
 <fileDesc>
      <titleStmt>
         <title>Transviado: Edição para o ELTeC</title>
-        <author>Lima, Jayme de Magalhães (1859-1936)</author>
+        <author ref="viaf:6967932">Lima, Jaime de Magalhães (1859-1936)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Pedro Saborano</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T3"/>
 </textDesc>
 

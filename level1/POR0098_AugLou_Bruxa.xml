@@ -8,8 +8,8 @@
 <fileDesc>
 <titleStmt>
 <title>A bruxa : Edição para o ELTeC</title>
-<title level="s">cenas açorianas </title>
-<author>Loureiro, Augusto (1840-?)</author>
+<title level="s">Cenas açorianas </title>
+<author ref="viaf:201044294">Loureiro, Augusto (1840-?)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>
@@ -48,7 +48,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T4"/>
 </textDesc>
 

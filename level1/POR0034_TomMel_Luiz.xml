@@ -7,8 +7,8 @@
 <teiHeader>
 <fileDesc>
      <titleStmt>
-        <title>O Conde de S. Luiz: Edição para o ELTeC</title>
-        <author>Melo, Tomás de (1836-1905)</author>
+        <title>O Conde de S. Luís: Edição para o ELTeC</title>
+        <author ref="viaf:99963991">Melo, Tomás de (1836-1905)</author>
         <respStmt>
            <resp>Criação do HTML original</resp>
        <name>Júlio Reis</name>
@@ -56,7 +56,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

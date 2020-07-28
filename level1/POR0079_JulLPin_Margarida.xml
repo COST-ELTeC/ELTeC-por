@@ -9,7 +9,7 @@
 <titleStmt>
 <title>Margarida: Edição para o ELTeC</title>
 <title level="s">Scenas da vida contemporanea </title>
-<author>Pinto, Júlio Lourenço (1842-1907)</author>
+<author ref="viaf:302032361">Pinto, Júlio Lourenço (1842-1907)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>
@@ -55,7 +55,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="medium"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T2"/>
 </textDesc>
 

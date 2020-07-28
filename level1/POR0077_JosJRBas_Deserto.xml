@@ -8,7 +8,7 @@
 <fileDesc>
 <titleStmt>
 <title>O médico do deserto: Edição para o ELTeC</title>
-<author>Bastos, José Joaquim Rodrigues de  (1777-1862)</author>
+<author ref="viaf:89396752">Bastos, José Joaquim Rodrigues de (1777-1862)</author>
 <respStmt>
   <resp>Criação do HTML original</resp>
   <name>Vanda Morgado</name>
@@ -54,7 +54,7 @@
 <textDesc>
 <authorGender xmlns="http://distantreading.net/eltec/ns" key="M"/>
 <size xmlns="http://distantreading.net/eltec/ns" key="short"/>
-<reprintCount xmlns="http://distantreading.net/eltec/ns" key="unspecified"/>
+<reprintCount xmlns="http://distantreading.net/eltec/ns" key="low"/>
 <timeSlot xmlns="http://distantreading.net/eltec/ns" key="T1"/>
 </textDesc>
 
@@ -119,7 +119,7 @@
 </div><div type="chapter"><head>II</head>
 <p>A minha idade era de dezeseis annos. Os meus conhecimentos scientificos eram mui limitados; mas os meus progressos nas linguas não o eram. Eu sabia o Grego e o Latim, como as linguas mortas se podem saber; e fallava perfeitamente o Inglez, o Francez, o Italiano, o Allemão, e o Arabe, comprehendido o dos Beduinos.</p>
 <p>O viajante, a quem o Arabe não era familiar, não queria fallar outra lingua, para melhor n'ella se exercitar; e eu lhe corrigia os erros, lhe explicava a significação e a força de alguns termos e pbrases, e lhe fazia conhecer muitas bellezas que elle ignorava. Elle, da sua parte, me fazia as mais exactas descripções das terras que percorrera, do seu culto, das suas leis, dos seus costumes, nada deixando a desejar. Era um commercio reciproco de idéas e de apreciações, em que ambos interessávamos.</p>
-<p>Sua filha, Elisa, que com elle sempre viajava, e que possuia diversas Iinguas, mas que não tinha predilecção senão pela Italiana, não gostava de fallar outra commigo, nem mesmo a Franceza, e com frequencia interrompia graciosamente nossos longos entretenimentos, não podendo supportal-os.</p>
+<p>Sua filha, Elisa, que com elle sempre viajava, e que possuia diversas linguas, mas que não tinha predilecção senão pela Italiana, não gostava de fallar outra commigo, nem mesmo a Franceza, e com frequencia interrompia graciosamente nossos longos entretenimentos, não podendo supportal-os.</p>
 <p>Uma viagem, como a nossa, é monótona e quasi sempre triste. Um dia e outro dia, uma semana e outra semana, não se ouvindo senão o sussurro das ondas, e não se vendo, ao perto e ao longe, senão mar: porém a nossa, se foi monótona como outras, não foi como ellas triste.</p>
 <p>As horas se deslisavam insensivelmente, pela amenidade do trato dos passageiros, pelo  animado das conversações, e pelo canto, em que eram mui fortes e mui condescendentes duas  estimaveis Francezas que, depois de alguns annos de ausência, regressavam á patria.</p>
 <p>Uma d'ellas tinha um lindo filho de seis annos, que por Um fatal descuido cahiu ao mar. Ouviu-se logo um grande grito, mas ninguém acudiu em seu soccorro. Eu fui o unico que, sem perda de um instante, me lancei ás ondas para o salvar, e, salvando-o, tive um dos maiores prazeres da minha vida, entregando-o a soa mãe, a qual, no navio mesmo, fez um beilo quadro que me offeTeceu, representando-me com seu filho n'um dos braços, e com o outro luctando com as vagas furiosas, que pareciam disputar-me a prêsa.</p>
@@ -127,7 +127,7 @@
 <p>Eu sabia que a experiencia é o passado, que falia ao presente, e se faz ouvir do futuro; que a razão tem precisão d'ella, para se não extraviar e perder; que a religião è um thesoiro de immenso valor, que nenhum outro póde substituir. Taes eram as minhas idéas, as minhas convicções d'esse tempo; porém o espirito de novidade podia tanto em mim, e o meu enthusiasmo era tal, que nada d'aquillo me lembrava.</p>
 <p>Depois fiz uma tardia e profunda reflexão e me senti pela primeira vez atacado do remorso. Em toda a viagem, eu não havia soltado um suspiro, nem vertido uma lagrima; e quantos suspiros teriam exhalado, quantas lagrimas teriam vertido, por mim, meus saudosos paes?</p>
 <p>Oh! quanto differe o amor d'aquelles, que nos deram a vida, do nosso tíbio e fraco amor? Que comparação tem os sacrifícios, que os filhos fazem pelos paes, com os que os paes fazem pelos filhos?</p>
-<p>O piedoso extremo da íilba de um criminoso, condemnado a morrer de fome, indo disfarçadamente á prisão alimental-o com o proprio leite, teve logar ba muitos séculos em Roma, e não consta que se repetisse.</p>
+<p>O piedoso extremo da filha de um criminoso, condemnado a morrer de fome, indo disfarçadamente á prisão alimental-o com o proprio leite, teve logar ha muitos séculos em Roma, e não consta que se repetisse.</p>
 </div><div type="chapter"><head>III</head>
 <p>Entrando era Paris, eu estive oito dias hospedado em casa do viajante. Elle foi procurado por grande numero de pessoas; o que, se por uma parte o lisongeava, por outra o contrariava. No fim de doze ou mais horas de trabalho, a receber visitas, eu fico cansado, dizia elle: porém, quem ignora as extravagancias da nossa natureza? Estes obsequios importunam-me, enfadam-me, e a sua falta feriria o meu amor proprio. Assim é o mundo. Tenho ahi immensos apontamentos das minhas viagens, que preciso de pôr em ordem, e não tenho tempo, nem socego, nem paciencia para o fazer.</p>
 <p>Sua filha e eu estavamos quasi sempre com elle, para lhe minorarmos a fadiga. Para isso, ella tinha em si grandes recursos, eu poucos tinha; mas esses poucos não eram inteiramente inuteis.</p>
@@ -183,8 +183,8 @@
 <p>Ella nunca o manifestou; e um acaso o veio revelar. Era a agradecida mãe, a quem eu tinha salvado o filho. Quiz-lhe pagar, logo que as minhas circumstancias m'o permittiram; mas ella negou sempre o ter feito desembolso algum em meu beneficio. Aos moralistas pertence decidir, se a sua negação foi um peccado, se um novo quilate que deu maior valor á sua virtude.</p>
 <p>Como o methodo suavisa o trabalho, economisa o tempo, e sem elle quem mais se apressa, menos avança, tratei de o introduzir nos meus estudos, em que antes nenhum havia.</p>
 <p>Eu tinha horas determinadas para tudo; e estas horas não se alteravam nunca. Cada sciencia tinha em mim um cultor, nenhuma um cultor exclusivo; persuadido do mutuo  auxilio que ellas se prestavam, entendi que nenhuma me devia ser estranha. Encontrava n'ellas um grande deleite, menos em duas: na Theologia, porque o meu espirito estava, a um tal ponto, pervertido, que nem queria conhecer as suas verdades, nem acatar os seus mysterios; e pa politica, pela incessante contradicção que via, entre a sua theoria e a sua práctica.</p>
-<p>Uma das maiores celebridades da época procurou attrahir-me ao seu salão, e eu determinei-me a ir lá, não sena muita repugnancia, receoso de que isso prejudicasse o meu systema, e obstasse aos meus progressos; mas em breve me convenci do contrario.</p>
-<p>A sua conversação era um modello de gosto; e as idéas, passando pela sua bôea graciosa, iam docemente gravar-se no espirito. Eu nunca vi pessoa, que discorresse e fallasse copio ella: porém a altura, a que o seu mérito a elevava, era, tanta, que, sem amortecer, os. desejos, e diminuir o encanto, afastava as pretenções.</p>
+<p>Uma das maiores celebridades da época procurou attrahir-me ao seu salão, e eu determinei-me a ir lá, não sem muita repugnancia, receoso de que isso prejudicasse o meu systema, e obstasse aos meus progressos; mas em breve me convenci do contrario.</p>
+<p>A sua conversação era um modello de gosto; e as idéas, passando pela sua bôea graciosa, iam docemente gravar-se no espirito. Eu nunca vi pessoa, que discorresse e fallasse como ella: porém a altura, a que o seu mérito a elevava, era, tanta, que, sem amortecer, os desejos, e diminuir o encanto, afastava as pretenções.</p>
 <p>Alguns homens de reconhecida probidade e talento, e algumas senhoras de diversas idades o estados, concorriam para tornar interessantíssima esta sociedade. Foi frequentando-a tanto, quanto as minhas occupações e o meu adoptado systema o permittiam, que eu acabei de persuadir-me, quanto a associação de mancebos uns com outros é mais perigosa, que a de diversos sexos, quando è preparada pelos princípios da verdadeira moral. N'uma vê-se quasi sempre a linguagem grosseira e revoltante do vicio, na outra a da decencia, da delicadeza, quando mesmo não seja a de uma extrema virtude.</p>
 </div><div type="chapter"><head>VI</head>
 <p>Póde-se ter uma vida regular, sempre que ella. se procura com uma vontade forte e constante, mas nenhuma mais regular que a que eu tive, desde os meus merecidos infortunios, até o meu o doutoramento em Medicina, que era o termo dos desejos e das rccommendações de meu pae.</p>
