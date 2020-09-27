@@ -3,7 +3,7 @@
             schematypens="http://relaxng.org/ns/structure/1.0"?>
     <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
             schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR050" xml:lang="pt">   
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0050" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -100,7 +100,7 @@
 <p>Deixemos esta epocha por ser alguns annos mais antiga, da que nos vamos occupar. Egas Moniz conservou-se tranquilamente no seu solar e quinta da Gresconhe e nós passamos ao solar da Cham, habitação da nobre família dos Pintos, de que a historia bastante se occupa. </p>
 </div><div type="chapter"><head>CAPITULO I</head>
 <p>A DECLARAÇÃO </p>
-<p>A dez legoas da cidade do Porlo polo rio Douro acima, e a quatro léguas abaixo de Lamego, a naturesa caprichosa levantou sobre a margem d'aquelle rio um monte bastante elevado, e que ainda é boje reconhecido pelos povos convisinhos, pelo Monte-de Muro <ref target="#POR050-nota-1"/>. </p>
+<p>A dez legoas da cidade do Porlo polo rio Douro acima, e a quatro léguas abaixo de Lamego, a naturesa caprichosa levantou sobre a margem d'aquelle rio um monte bastante elevado, e que ainda é boje reconhecido pelos povos convisinhos, pelo Monte-de Muro <ref target="#POR0050-nota-1"/>. </p>
 <p>Entre os Soutos do Crasto e Arouca, na parte mais elevada, chamada o Peneval, do lado do norte, tem origem um regato, que denominam Bestança. Este rio, ou regato, correndo por espaço de duas legoas de sul ao norte, entro os Concelhos de Ferreiros, Tendães e Sinfães, vae confundir-se com as aguas do Douro, que altivas e imponentes se vão perder no Oceano.</p>
 <p>Na margem direita d'este regato, e a uma legoa abaixo da sua origem, ainda se vê a torre ou castello da Cham, antigo solar da familia dos Sousas Pintos, uma das mais nobres e antigas de Portugal. </p>
 <p>A torre que ainda se diííerença, c que altiva tem resistido á natural acção dos séculos, é uma fortalesa quadrangular, apresentando todas as condições deffensaveis, exigidas no tempo da sua origem. </p>
@@ -3703,7 +3703,7 @@
 </body>
 <back>
 <div type="notes">
-<note xml:id="POR050-nota-1"><p>Rezende nas suas antiguidades Livro 2.º, assim o designa. </p></note>
+<note xml:id="POR0050-nota-1"><p>Rezende nas suas antiguidades Livro 2.º, assim o designa. </p></note>
 </div>
 </back>
 </text>
