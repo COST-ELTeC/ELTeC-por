@@ -6,7 +6,7 @@ This is the Portuguese novel collection for the ELTeC, the European Literary Tex
 
 ## Release notes
 
-* v0.9.0, November 2020: 100 novels, DOI: https://doi.org/10.5281/zenodo.4271644]. 
+* v0.9.0, November 2020: 100 novels, DOI: https://doi.org/10.5281/zenodo.4271644. 
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
