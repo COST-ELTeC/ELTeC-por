@@ -1,8 +1,12 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3492067.svg)](https://doi.org/10.5281/zenodo.3492067)
+
 # ELTeC-por
 
 This is the Portuguese novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net).
 
 ## Release notes
+
+* v0.9.0, November 2020: 100 novels, DOI: [https://doi.org/10.5281/10.5281/zenodo.4271644](10.5281/zenodo.4271644). 
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
@@ -18,7 +22,9 @@ The main responsibility for ELTeC-por lies with Diana Santos, who centralized th
 
 
 ## Licence
+
 All texts included in this collection are in the public domain. The textual markup is provided with a Creative Commons Attribution International 4.0 licence (CC BY, https://creativecommons.org/licenses/by/4.0/).
 
 ## Acknowledgements
+
 We acknowledge a 3 months scholarship from Centro de Linguística da Universidade NOVA de Lisboa, BI - FCSH/CLUNL/UID/LIN/03213/2013, as well as the support of the National Library of Portugal, which digitized more than 20 works at our request.
