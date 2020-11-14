@@ -22,7 +22,15 @@
 <extent>
 <measure unit="words">49815</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>6-4-2020</date></p></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Added to ELTeC repo on 6-4-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Um duello nas sombras, ou D. Francisco Manoel de Mello (1630)</title> 
 <author>António Francisco Barata</author>
@@ -58,6 +66,7 @@
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-04-06">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -1680,7 +1689,7 @@
 <p>Salve! Atalaia da barra! </p>
 <p>Sentinella do Restello </p>
 <p>Padrão glorioso e bello</p>
-<p>Da nossa gloria maior! <ref target="#POR0059-nota-1"/> </p>
+<p>Da nossa gloria maior! <ref target="#POR0059-nota-1"/><ref target="#POR0059-nota-1"/> </p>
 <p>Desculpe o leitor esta saudação, que não posso eu esquivar me a dar-lh'a. Não posso, nem devo mesmo peneirar n'aquella formosa torre sem a saudar reverente, como outr'ora os galeões das Indias, como em volvidos tempos de nacional explendor os capitães portuguezes, que levavam o nosso nome às ignotas regiões; e traziam de lá para este occidental rincão do mundo as pareas de mil povos, a submissão de regalos, o dominio de terras não conhecidas. </p>
 <p>Não posso. Dão devemos nem podemos deixar de respeitar n'aquelle monumento, o valor provado nas privações, a coragem nas lutas, a civica virtude de nossos maiores em todos os feitos preclaros, que no mundo obraram. Salvé! Symbolo da nossa gloria! Salve livro aberto em rendadas pedras das proesas de mil indigites, da nossa historia immortal!</p>
 <p>Entremos agora. Melhor e mais condigna habitação tem n'ella D. Francisco Manuel. Alli lhe traz a brisa do mar alentos de vida ao peito opprimido; alli vê passar as naus portuguezas, que escurecem a fama da rainha do Adriatico; d'allí póde sandar a cada momento o pendão das quinas, pelo qual já combatera em terra e mar e alli continuar, melhormente inspirado, os seus trabalhos de historia, de moral e de litteratura. </p>

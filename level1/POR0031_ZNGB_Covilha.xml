@@ -22,8 +22,15 @@
 <extent>
 <measure unit="words">51406</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+</publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
       <title>Project Gutenberg EBook Pero da Covilhan: Episódio Romântico do Século XV</title>
@@ -54,7 +61,8 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2020-03-08">Checked by checkup
+<revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-19">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -155,7 +163,7 @@
 <l><foreign xml:lang="es">"Con dos cuidados guerreo"  </foreign>   </l>
 <l><foreign xml:lang="es">"que me dan pena y sospiro;"  </foreign>     </l>
 <l><foreign xml:lang="es">"el uno quando no os veo,"  </foreign>     </l>
-<l><foreign xml:lang="es">"el otro quando vos miro." </foreign> <ref target="#POR0031-nota-1"/></l>
+<l><foreign xml:lang="es">"el otro quando vos miro." </foreign> <ref target="#POR0031-nota-1"/><ref target="#POR0031-nota-1"/></l>
 </quote>
 <p>-- Bellissimo, Perico!... -- bradaram as donzellas com viva demonstração de alegria.</p>
 <p>-- Que gracioso sois! -- accrescentou Beatriz e perguntou: mas porque esquecestes a guitarra, que é mais maneira, e vos lembrastes do corpulento alaúde, como lhe chamava o arcipreste de Hita?</p>
@@ -190,7 +198,7 @@
 <l><foreign xml:lang="es">quando vos tuve em mis braços,</foreign></l>
 <l><foreign xml:lang="es">no vos supe servir, no,</foreign></l>
 <l><foreign xml:lang="es">y agora que os serviria</foreign></l>
-<l><foreign xml:lang="es">no vos puedo aver no.</foreign> <ref target="#POR0031-nota-2"/> </l>
+<l><foreign xml:lang="es">no vos puedo aver no.</foreign> <ref target="#POR0031-nota-2"/><ref target="#POR0031-nota-2"/> </l>
 </quote>
 
 </div><div type="chapter"><head>II</head>
@@ -340,7 +348,7 @@
 <p>-- De tudo são elles capazes, meu Senhor, que os não ha mais voluveis. Mas superiores em poder e em numero são-lhes os mais avisados e prudentes, tendo ao seu lado o povo, que unanimemente acclamou D. Isabel por sua rainha. E uma acclamação, como esta, é vantagem muito grande no começo dos reinados, servindo até de justificar as pretensões mais duvidosas.</p>
 <p>-- Não ignoro quanto o poder de Castella excede o de Portugal; mas conto não só com os homens do meu reino, que são muito valentes, senão com outros tantos castelhanos, como de mais nações, que de boa vontade engrossarão o meu exercito.</p>
 <p>-- E a D. Isabel não virão soccorros da Secilia, tanto em dinheiro, como em armas, navios de guerra, cavallos e provisões? Aragão dar-lhos-ha decerto; e até a Italia, pois são senhores d'ella, e primos dos reis da Secilia, o rei de Napoles D. Fernando, e o duque da Calabria, seu filho.</p>
-<p>-- Sim, estão os meus adversarios bem aparentados; mas não os temo apesar d'isso, e eu tambem "não nasci das pedras".<ref target="#POR0031-nota-3"/> Conto igualmente com amigos e parentes; tambem me não falta dinheiro, "que é mais fiel que todos os parentes e amigos", e tenho sobretudo a Deus em meu auxilio.</p>
+<p>-- Sim, estão os meus adversarios bem aparentados; mas não os temo apesar d'isso, e eu tambem "não nasci das pedras".<ref target="#POR0031-nota-3"/><ref target="#POR0031-nota-3"/> Conto igualmente com amigos e parentes; tambem me não falta dinheiro, "que é mais fiel que todos os parentes e amigos", e tenho sobretudo a Deus em meu auxilio.</p>
 <p>-- Não pretendo demover voss'alteza do proposito, em que está; permitti, porem, que vos lembre ainda a reciproca aversão de Castella e Portugal, filha de um odio inveterado entre os dois povos; e o perigo de expôr a felicidade e a paz do vosso reino á inconstancia e capricho dos grandes de Castella. Não olvide tambem voss'alteza, que, durante a vida de seu cunhado, não queria ouvir fallar do casamento de voss'alteza com sua sobrinha, e que, acceitando-o agora, obriga o mundo, sempre prompto a desacreditar as acções dos principes, a murmurar e attribuir esta guerra a algum odio reservado...</p>
 <p>-- Sem embargo d'isso, estou resolvido a entrar em Castella.</p>
 <p>-- Acato a deliberação de voss'alteza, e peço-lhe me conceda licença, para ter em alguns lugares d'esse reino póstas prestes a salvar a real pessoa de voss'alteza e a minha, se necessario for.</p>
@@ -363,7 +371,7 @@
 <l>«tocado de ambição     </l>
 <l>E gloria de mandar amara e bella,     </l>
 <l>Sai cometter Fernando de Aragão,     </l>
-<l>Sobre o potente reino de Castella.»<ref target="#POR0031-nota-4"/></l>
+<l>Sobre o potente reino de Castella.»<ref target="#POR0031-nota-4"/><ref target="#POR0031-nota-4"/></l>
 </quote>
 <p>Lá foram ajuntar-se com elle o duque de Guimarães, o conde de Marialva, Ruy Pereira e outros fidalgos, os quaes, atalhando pela Beira, chegaram a Piedra Buena, onde acampou todo o exercito, composto de cinco mil e seiscentos cavallos, e quatorze mil infantes. Alli mandou D. Affonso V, que tomou então o supremo commando, chamar á sua tenda o condestavel, o marechal, o ouvidor da hoste e o meirinho, bem como todos os fidalgos, cavalleiros e capitães, a quem recommendou obediencia em tudo aos quatro primeiros; verificou o numero da gente que havia, e deu as necessarias providencias no tocante á ordenança, que as tropas deviam conservar durante a marcha.</p>
 <p>Na frente saíu o "adail-mór" com um troço de ginetes, formando a guarda avançada; após elle o marechal, que era o aposentador e assentador do arraial; immediatamente o capitão de ginetes, seguido pelo capitão da vanguarda real, e logo a carriagem; na rectaguarda o rei, e, cobrindo-a, o condestavel, cujo cargo exercia em parte o duque de Guimarães. Formava as alas a fina flor da cavallaria portugueza, e entre a vanguarda e a rectaguarda não mediava mais de um tiro de bésta, a fim de poderem mutuamente soccorrer-se.</p>
@@ -463,7 +471,7 @@
 <l>Breve foi, logo outra vez.»</l>
 </quote>
 <p>Assim descreve Ignacio Pizarro os dois gloriosos feitos. O de Duarte de Almeida é sublime de heroismo! Com feridas tão rasgadas, que cada uma era larga porta para sair a vida, e sobrada para entrar a morte, o honrado cavalleiro resiste sempre! Cáe emfim; mas não quer a Providencia, que por aquellas feridas se esgote sangue tão generoso, e sirvam antes de bôcas, para affirmar esforço tão desusado.</p>
-<p>A bravura de Gonçalo Pires foi igualmente inexcedivel, pois "per força e como homem de bom coraçam a tomou a hun Souto-Mayor Castelhano que a levava" (a bandeira), "e o prendeo sobre sua menagem",<ref target="#POR0031-nota-5"/> abrindo a golpes de espada caminho por entre os cavalleiros, que já iam correndo na companhia d'aquelle em direcção a Zamora.</p>
+<p>A bravura de Gonçalo Pires foi igualmente inexcedivel, pois "per força e como homem de bom coraçam a tomou a hun Souto-Mayor Castelhano que a levava" (a bandeira), "e o prendeo sobre sua menagem",<ref target="#POR0031-nota-5"/><ref target="#POR0031-nota-5"/> abrindo a golpes de espada caminho por entre os cavalleiros, que já iam correndo na companhia d'aquelle em direcção a Zamora.</p>
 <p>Tinha o principe resolvido não levantar o arraial, senão passados tres dias, ou aguardar a manhã para de novo accommetter o inimigo, por isso mandou accender fogueiras, e tocar trombetas e atabales.</p>
 <p>O duque de Alva estava indeciso, e todavia era mister tomar uma deliberação.</p>
 <p>Entretanto um pequeno grupo de biscainhos, pertencentes á peonagem mercenaria do exercito de Fernando de Aragão, conversava sentado sobre umas pedras, descançando ao mesmo tempo das fadigas do dia.</p>
@@ -518,7 +526,7 @@
 <p>A meio de uma sala avistaram-se os dois soberanos. O rei de França «vinha com um só barrete na cabeça, tendo já d'ella tirado um chapéo e duas grandes carapuças, e trazia solto um saio curto de mau panno, e á cinta uma espada d'armas muito comprida, e umas botas calçadas, e nos pés as esporas do mesmo jaez da espada, e ao pescoço uma béca de chamalóte amarello, forrada de cordeiras brancas muito grosseiras, e suas calças brancas entretalhadas de muitas côres.</p>
 <p>«E ambos os reis com barretes nas mãos se abraçaram, inclinados os joelhos muito baixos.</p>
 <p>«E tendo o rei de França assim abraçado o monarcha portuguez, com os olhos no Céo disse, que dava muitas graças a Nossa Senhora e a S. Martinho, porque a um tão pobre homem, como elle era, fizeram tanta mercê, que a seu reino e casa o viesse vêr e visitar um tamanho rei, que elle sempre desejava tanto vêr, e ter por irmão e amigo, e que porém elle não crêsse, que era vindo em reino estranho, mas como proprio seu, porque assim se faria n'elle todo seu prazer e serviço, como nos de Portugal.</p>
-<p>«E com isto acabado se recolheram á camara, á entrada da qual, sobre quem se cobriria primeiro, houve entre ambos grandes e louvados debates.»<ref target="#POR0031-nota-6"/></p>
+<p>«E com isto acabado se recolheram á camara, á entrada da qual, sobre quem se cobriria primeiro, houve entre ambos grandes e louvados debates.»<ref target="#POR0031-nota-6"/><ref target="#POR0031-nota-6"/></p>
 <p>Que farçante este senhor Luiz XI! Fez-se esperado, para afinal apresentar-se humilde até á repugnancia!</p>
 <p>Depois de conferenciar com esse frascario, D. Affonso V partiu de Tours para Paris, tendo sido antes enviados a Roma embaixadores de ambos os monarchas, com o fim de solicitarem dispensas para o de Portugal poder casar com sua sobrinha, a princeza D. Joanna.</p>
 <p>Pouco se demorou em Paris. Aconselhado por Luiz XI, dirigiu-se, no coração do inverno, á baixa Allemanha, a fim de se avistar com o duque de Borgonha, então empenhado na tomada de Nancy ao duque de Lorena, com quem estava em guerra. Sobre um rio coberto de gêlo abraçaram-se os dois soberanos, e alli mesmo disse D. Affonso a Carlos o Temerario, que o seu proposito era congraça-lo com o duque de Lorena, pois da paz entre ambos resultaria, que Luiz XI, por se vêr desobrigado de mandar vigiar a fronteira franceza, mais facilmente apoiaria a justa causa de D. Joanna, e poderia uma boa parte das tropas borgonhezas concorrer tambem para o bom exito da empreza de Castella.</p>
@@ -829,7 +837,7 @@
 <l>pois vossa mercê m'a dá.</l>
 <l>E meu bem nunca fará     </l>
 <l>mudança, nem a vereis,     </l>
-<l>até que não me acabeis.»<ref target="#POR0031-nota-7"/></l>
+<l>até que não me acabeis.»<ref target="#POR0031-nota-7"/><ref target="#POR0031-nota-7"/></l>
 </quote>
 <p>-- Bello villancete, primo!...</p>
 <p>-- Não me pertence. Exprime, porém, com tanta verdade o que sinto, que me lembrei de recita-lo...</p>
@@ -903,7 +911,7 @@
 <l>«que ficara por memoria.     </l>
 <l>Real em tanta maneira,     </l>
 <l>de perfeição tão inteira,     </l>
-<l>de tanta mundana gloria».<ref target="#POR0031-nota-8"/></l>
+<l>de tanta mundana gloria».<ref target="#POR0031-nota-8"/><ref target="#POR0031-nota-8"/></l>
 </quote>
 <p>Um dos franciscanos, exprimindo os sentimentos da communidade, maguada do seu captiveiro e da liberdade alheia em cortar pelo convento, exclamou um dia em tom prophetico: «Quem viver verá, que os mortos, que isto deram a S. Francisco, hão de clamar e pedir justiça a Deus. Agora vão fazer-se festas, que se hão de tornar em pranto!...»</p>
 <p>E, como se fôra acho de si mesmo, repetiu o franciscano: -- «Quem viver verá!...»</p>
@@ -1170,14 +1178,14 @@
 <p>No meio das variadas e constantes distracções da côrte, a excelsa rainha não olvidava, um só instante, o desempenho da missão civilisadora, que a si propria impozéra. E, conhecendo as aptidões de Maria Thereza, teve sempre em vista eleva-la pela cultura do espirito, e aproveitar-lhe os recursos intellectuaes, para associa-la na execução das obras meritorias, que projectava.</p>
 <p>Havia já fundado, ainda em vida de seu marido, um hospital, e junto d'elle uma povoação, que tomou o nome de Caldas da Rainha, para perpetua memoria da sua origem; mas não só mandou provêr aquelle estabelecimento do necessario para a sua sustentação, como obteve do páe de Lucrecia Borgia, o papa Alexandre VI, indulgencia plenaria para os enfermos, que lá fallecessem, muito embóra não houvessem contemplado o hospital em seus testamentos.</p>
 <p>Não faltava assim a esmola do remedio para o corpo e para a alma, aos que fossem procurar allivio ás enfermarias da caridosa fundadora.</p>
-<p>Maria Thereza partira effectivamente na companhia de seu tio para Lisboa, antes das festas de Evora, e foi frequentar a Universidade,<ref target="#POR0031-nota-9"/> a qual occupava as casas, de que lhe havia feito doação o infante D. Henrique, situadas acima da egreja de S. Thomé, contra o muro velho da cidade.</p>
+<p>Maria Thereza partira effectivamente na companhia de seu tio para Lisboa, antes das festas de Evora, e foi frequentar a Universidade,<ref target="#POR0031-nota-9"/><ref target="#POR0031-nota-9"/> a qual occupava as casas, de que lhe havia feito doação o infante D. Henrique, situadas acima da egreja de S. Thomé, contra o muro velho da cidade.</p>
 <p>O novo estudante, com o seu habito talar mais curto do que o dos lentes, conforme prescrevia o Estatuto, a sua formosa cabeça, que ninguem suppunha fosse de mulher, o desembaraço de suas maneiras, e a gentileza do seu pórte, era alvo da sympathia publica no bairro das Escolas Geraes. As raparigas do sitio sabiam já a hora, a que "elle" passava para as aulas, ou saía a passeio, por isso esperavam-n'o á janella, e, ao vê-lo, iam-se-lhe os olhos no galante "moço". Maria Thereza ignorava, que era objecto d'essa curiosidade feminina, a qual começava a despertar ciumes na visinhança; mas o tio, que nunca deixava de acompanhar a sobrinha, percebeu, que a requestavam, e uma ou outra vez sorria-se maliciosamente para as admiradoras d'ella, o bom do velho.</p>
 <p>Na convivencia com seus condiscipulos e collegas, os mais vaidosos davam a Maria Thereza, sem querer escarnece-la, a primazia no talento, no saber, e até na graça da palestra.</p>
 <p>Nas conclusões, que defendeu, para tomar o grau de bacharel, bem como no acto para licenciado, causou assombro aos mestres.</p>
 <p>Aproveitou tanto emfim, que saíu doutissima em theologia e direito canonico.</p>
-<p>Quando ella tinha concluido os seus estudos, falleceu o tio. O corpo docente foi logo convida-la, para reger a cadeira,<ref target="#POR0031-nota-10"/> que ficou vaga. Maria Thereza agradecendo o convite, respondeu: «Sem approvação de sua alteza a rainha, minha senhora, não pósso acceitar encargo algum, nem este que tão honroso é, e tenho a certeza de que a não alcançarei, sejam quaes forem as instancias, que junto de sua alteza se façam».</p>
+<p>Quando ella tinha concluido os seus estudos, falleceu o tio. O corpo docente foi logo convida-la, para reger a cadeira,<ref target="#POR0031-nota-10"/><ref target="#POR0031-nota-10"/> que ficou vaga. Maria Thereza agradecendo o convite, respondeu: «Sem approvação de sua alteza a rainha, minha senhora, não pósso acceitar encargo algum, nem este que tão honroso é, e tenho a certeza de que a não alcançarei, sejam quaes forem as instancias, que junto de sua alteza se façam».</p>
 <p>Os lentes não insistiram em presença de tão cathegorica resposta, e Maria Thereza, sem que pessoa alguma tivesse dado pelo disfarce, com que, durante quatro annos lectivos, cursou as aulas da Universidade, saíu de Lisboa, e no dia 29 de setembro de 1495, chegou ás Alcaçovas, onde residia então sua real ama.</p>
-<p>D. João II tinha recebido as cartas, que Pero da Covilhan lhe enviára da Abyssinia por creados seus;<ref target="#POR0031-nota-11"/> como, porém, estivesse em preparativos de passar ao Algarve, a fim de procurar allivio aos seus padecimentos nas caldas de Monchique, ficaram para depois da sua saída, as novas, que D. Leonor queria dar a Maria Thereza.</p>
+<p>D. João II tinha recebido as cartas, que Pero da Covilhan lhe enviára da Abyssinia por creados seus;<ref target="#POR0031-nota-11"/><ref target="#POR0031-nota-11"/> como, porém, estivesse em preparativos de passar ao Algarve, a fim de procurar allivio aos seus padecimentos nas caldas de Monchique, ficaram para depois da sua saída, as novas, que D. Leonor queria dar a Maria Thereza.</p>
 <p>Na entrada do mez de outubro partiu o rei para as caldas, deixando á rainha o escrinio, onde guardava aquellas cartas.</p>
 <p>Depois de haver tomado quatro banhos, aggravou-se de tal modo a sua doença, que por conselho dos physicos se mudou para Alvor. Achando-se cada vez peor, desejou ver a rainha e o duque de Beja, fazendo ao mesmo tempo tenção de communicar a este, que em testamento o declarava por só e legitimo herdeiro do throno, e lhe deixava encommendado, como vassallo seu, D. Jorge de Alencastro -- que era o filho D. João II e de D. Anna de Mendoça.</p>
 <p>Estava a rainha com o duque seu irmão em Alcacer do Sal, por se haver assentado esperar alli o rei na volta do Algarve, e partirem depois para Santarem. D. Leonor iria embarcada até Setubal, d'aqui atravessaria por terra para Alcochete, e seguiria logo pelo Tejo acima até á velha e pittoresca rainha do Riba-Tejo. Este itinerario, differente do que para si traçára o monarcha, pareceu o mais commodo, por estar D. Leonor ainda convalescente da grave doença, que a pozéra ás portas da morte.</p>
@@ -1274,7 +1282,7 @@
 <p>D'esse heróico filho de Vasco da Gama diz um historiador nosso: «era o primeiro, que tomava o fato ás costas, e com esta fragueirice e vontade acrescentava a dos outros soldados, para que trabalhassem dobrado sem o sentir.»</p>
 <p>Foi desbaratado e morto pelos adversarios do Préste; mas os valentes portuguezes, que escaparam, tiveram pouco depois a gloria de vingar a morte do seu illustre capitão, derrotando completamente o inimigo.</p>
 <p>Aureos tempos!...</p>
-<p>Maria Thereza revelou a sua vasta illustração, publicando algumas obras em latim,<ref target="#POR0031-nota-12"/> e sendo por isso aurora brilhantissima da renascença das lettras em Portugal.</p>
+<p>Maria Thereza revelou a sua vasta illustração, publicando algumas obras em latim,<ref target="#POR0031-nota-12"/><ref target="#POR0031-nota-12"/> e sendo por isso aurora brilhantissima da renascença das lettras em Portugal.</p>
 <p>Todas as tardes ia sentar-se a uma das janellas do mosteiro, e de lá contemplava o Tejo...</p>
 <p>Quando voltavam as náus da India, perguntava talvez ao formoso rio, se com ellas teria vindo alguma saudade de Pero da Covilhan!...</p>
 <p>E depois da morte de D. Leonor, quando retirava da janella, ia ajoelhar sobre a sepultura da rainha, orava alli, durante algum tempo, no maior recolhimento, e deixava a lapide orvalhada de lagrimas!...</p>

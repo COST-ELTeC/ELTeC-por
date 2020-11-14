@@ -24,8 +24,14 @@
 <measure unit="words">70406</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>5 de novembro de 2020</date>. </p>
-</publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Adicionado à coleção ELTeC 5 de novembro de 2020. --></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook A guerrilha de Frei Simão</title>
@@ -57,6 +63,7 @@
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-11-05">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -1235,7 +1242,7 @@
 <p>-- Vi, sim, respondeu Neves Carneiro. Vive muito atormentada por tua causa. E encarregou-me, a occultas de teu pae, de te dar um abraço, quando estivessemos sós.</p>
 <p>José Maximo abriu os braços, e apertou Neves Carneiro contra o coração.</p>
 <p>N'esse momento, chorava copiosamente. Parecia-lhe que tinha sentido palpitar, na dôr e na desolação, o coração de sua mãe.</p>
-<p>O governo mandára uma alçada a Coimbra para syndicar dos acontecimentos de fevereiro, que, segundo a phrase de um chronista consciencioso <ref target="#POR0058-nota-1"/> , os odios e malevolencia do partido absolutista adrede exageravam para se vingar dos seus adversarios.</p>
+<p>O governo mandára uma alçada a Coimbra para syndicar dos acontecimentos de fevereiro, que, segundo a phrase de um chronista consciencioso <ref target="#POR0058-nota-1"/><ref target="#POR0058-nota-1"/> , os odios e malevolencia do partido absolutista adrede exageravam para se vingar dos seus adversarios.</p>
 <p>Sabia-se, apesar do segredo da alçada, que José Maximo da Fonseca e Jayme Henrique de Carvalho tinham sido compromettidos pelo depoimento de Manuel Rodado e outras testemunhas absolutistas.</p>
 <p>Foram horriveis de anciedade os dias que para aquelles dois estudantes decorreram, desde que chegou a alçada e morosamente funccionou para que não ficasse por averiguar o menor delicto, até que em 30 de abril se mallogrou em Lisboa o novo movimento promovido pelo infante e pela rainha, recolhendo-se D. João VI a bordo da nau ingleza Windsor Castle e sendo D. Miguel obrigado a retirar-se para o extrangeiro.</p>
 <p>O mallogro da abrilada pela intervenção da diplomacia causára dolorosa impressão a todos os absolutistas, incluindo os de Coimbra, que tinham julgado aberto o caminho da reacção sanguinaria pelo assassinato do marquez de Loulé em Salvaterra.</p>
@@ -1632,7 +1639,7 @@
 <p>-- Se algum dia a liberdade me puder abrir as portas d'este mosteiro, correrei a Aveiro para ir dizer a Joaquim Maria, sobre a lage da sua sepultura, que o amo na morte com a mesma dedicação e lealdade com que o amei em vida.</p>
 <p>Frei Simão leu isto, e commoveu-se.</p>
 <p>-- Pois esteja Margarida Candida certa, exclamou elle, de que ha de cumprir a sua vontade, porque eu mesmo lhe abrirei as portas do mosteiro. Assim o prometti a Joaquim Maria; assim o farei.</p>
-<p>José Bernardo mandou o filho Antonio acompanhar ao Porto D. Maria Henriqueta, que, para completar a sua educação, entrou no convento de Santa Clara <ref target="#POR0058-nota-2"/> .</p>
+<p>José Bernardo mandou o filho Antonio acompanhar ao Porto D. Maria Henriqueta, que, para completar a sua educação, entrou no convento de Santa Clara <ref target="#POR0058-nota-2"/><ref target="#POR0058-nota-2"/> .</p>
 <p>Ignacio da Fonseca replicou ao corregedor:</p>
 <p>-- O que se faz em Arouca importa-me menos do que o que se passa em Cezár, onde vivo e tenho propriedades, e onde, portanto, a minha vida e haveres correm grande risco, vista a impunidade de que frei Simão de Vasconcellos está gozando com verdadeiro escandalo de todos os fieis vassalos d'el-rei nosso senhor.</p>
 <p>-- Pois vá Vossa Mercê socegado, disse Mourão Guedes, que eu mesmo me encarregarei da prisão do frade.</p>
@@ -1727,7 +1734,7 @@
 <p>A cadea da Villa da Feira subsiste ainda hoje tal como era no tempo em que ali esteve preso frei Simão de Vasconcellos.</p>
 <p>Fica na Praça, a meio da qual se levantava então o pelourinho, agora substituido pelo chafariz, que pertencêra ao convento dos Loyos.</p>
 <p>A cadea, certamente construida no seculo passado, é um casarão de dois andares, não contando as janellas lateraes á dupla escada de pedra, que dá accesso ao edificio.</p>
-<p>Em cada andar, quatro janellas por banda, gradeadas de ferro. O ultimo tem a meio o sino, e nivela-se com o predio contiguo, de que era então proprietario o irmão do conde das Antas <ref target="#POR0058-nota-3"/> .</p>
+<p>Em cada andar, quatro janellas por banda, gradeadas de ferro. O ultimo tem a meio o sino, e nivela-se com o predio contiguo, de que era então proprietario o irmão do conde das Antas <ref target="#POR0058-nota-3"/><ref target="#POR0058-nota-3"/> .</p>
 <p>A cellula que frei Simão occupou era a do ultimo andar, encostada ao predio visinho. Tinha, como as outras, um forte tecto de castanho, e solidas paredes.</p>
 <p>No dia da chegada do frade, toda a população da Villa da Feira se alvoroçou e reuniu na Praça para o vêr. Comquanto fosse rara a semana em que não entrasse na cadeia um preso absolutista, a lenda que se fizera em torno do nome de frei Simão de Vasconcellos excitava vivamente a curiosidade, dando ao facto da sua prisão um interesse excepcional.</p>
 <p>Toda a gente desejava vêr esse destemido frade, que tanto custára a cahir no laço, e do qual se contavam proezas de extraordinario valor.</p>
@@ -1895,7 +1902,7 @@
 <p>Resolveu-se a fuga, mas reconheceu-se que não poderia realisar-se pela porta do edificio, sob qualquer disfarce, porque as sentinellas tinham instrucções muito severas.</p>
 <p>Foi frei Simão quem se lembrou de que a evasão só poderia effectuar-se pelo telhado, saltando os fugitivos para cima do predio contiguo. Esta operação seria facil, mas o abrir passagem pelo grosso tecto de castanho, seria difficil. Era precisa a intervenção de um carpinteiro.</p>
 <p>Adoptou-se o expediente de requisitar os serviços de um carpinteiro de confiança, com o pretexto de que se tornava urgente construir um armario na cellula do frade.</p>
-<p>O carcereiro, sob sua responsabilidade, chamou um carpinteiro de Milheirós da Feira <ref target="#POR0058-nota-4"/> , de quem era amigo intimo.</p>
+<p>O carcereiro, sob sua responsabilidade, chamou um carpinteiro de Milheirós da Feira <ref target="#POR0058-nota-4"/><ref target="#POR0058-nota-4"/> , de quem era amigo intimo.</p>
 <p>Em vez de se fazer o armario, fez-se uma abertura no tecto.</p>
 <p>Frei Simão, cuja franqueza de caracter chegava ás vezes a ser imprudencia, foi visitado na cadeia, no dia destinado á evasão, por um visinho de Cezár, Manoel Francisco Relva, miguelista moderado, e excellente homem, muito respeitoso para com a familia do Outeiro.</p>
 <p>Á despedida, o frade disse-lhe sacudidamente:</p>
@@ -1983,7 +1990,7 @@
 <p>-- E não se enganarão n'este ultimo caso, porque Vossa Reverencia, se deixou o convento, não deixou a Deus. Eu o sei.</p>
 <p>Frei Simão não conseguiu, mais uma vez, evitar que padre Antonio Pinheiro o acompanhasse.</p>
 <p>Sahiram ambos da abbadia, alta noite, caminhando em silencio. A distancia é pequena: os dois edificios, o Passal e o Outeiro, avistam-se um ao outro.</p>
-<p>A familia de frei Simão estava prevenida. Foi Francisco Marques quem veiu abrir, discretamente, a Porta Vermelha. E logo após elle correram pressurosas D. Maria Albina e D. Antonia <ref target="#POR0058-nota-5"/> . As lagrimas d'estas duas senhoras diziam mais do que as palavras, n'aquelle lance solemne.</p>
+<p>A familia de frei Simão estava prevenida. Foi Francisco Marques quem veiu abrir, discretamente, a Porta Vermelha. E logo após elle correram pressurosas D. Maria Albina e D. Antonia <ref target="#POR0058-nota-5"/><ref target="#POR0058-nota-5"/> . As lagrimas d'estas duas senhoras diziam mais do que as palavras, n'aquelle lance solemne.</p>
 <p>Padre Antonio assistia, como em extasi, a esse commovente drama intimo, em que uma familia estreitava, no infortunio, os seus laços de extremoso affecto. E mais uma vez, depois que conhecia de perto frei Simão, o coadjuctor de Cezár lastimava a cegueira das paixões politicas, que fazem com que os adversarios se apreciem uns aos outros com revoltante injustiça. Ali estava elle no meio de uma familia de malhados, e não poderia encontrar outra mais respeitavel, nem mais exemplar na resignação christã.</p>
 <p>O frade encaminhou-se, seguido pelas irmãs, ao quarto de D. Anna.</p>
 <p>Padre Antonio quedou-se no corredor com delicado proposito; mas frei Simão, voltando-se, e vendo-o parado, disse-lhe amoravelmente:</p>
@@ -2322,7 +2329,7 @@
 <p>D. Maria II parecia uma fadasinha, branca e loira, destinada a povoar harmoniosamente aquelle bosque encantado, onde os castanheiros e os carvalhos deixavam cahir a doce sombra dos dias calmosos do estio.</p>
 <p>Tinha então apenas onze annos, mas era um formoso esboceto de mulher: carnação feita de leite e rosas, olhos castanhos e vivos, cabeça altiva, bôca a que o beiço grosso dos Braganças não prejudicava a graça nem a firmesa.</p>
 <p>Apezar de creança, havia na sua plastica a redondez de formas que desabrocham correctas, e no seu porte um cunho de reflexiva e consciente nobresa, que ia bem a uma princesa desthronada em plena infancia.</p>
-<p>José Maximo, sempre solitario, galgava de proposito a estrada de Meudon para vêr a jovem rainha de Portugal. Algumas vezes encontrou no caminho, á ida ou á volta, o cura Dupanloup, um padre de cerca de trinta annos, novo mas virtuoso e illustrado, que D. Pedro havia escolhido para director espiritual de sua filha <ref target="#POR0058-nota-6"/> . E José Maximo ia pensando comsigo mesmo:</p>
+<p>José Maximo, sempre solitario, galgava de proposito a estrada de Meudon para vêr a jovem rainha de Portugal. Algumas vezes encontrou no caminho, á ida ou á volta, o cura Dupanloup, um padre de cerca de trinta annos, novo mas virtuoso e illustrado, que D. Pedro havia escolhido para director espiritual de sua filha <ref target="#POR0058-nota-6"/><ref target="#POR0058-nota-6"/> . E José Maximo ia pensando comsigo mesmo:</p>
 <p>-- Que este padre consiga firmar no coração da pequenina rainha as raizes da fé christã, porque ella, que parece ter nascido para soffrer, precisa encontrar no naufragio da sua mallograda realesa alguma tabua de salvação, -- a melhor.</p>
 <p>José Maximo sabia já as horas a que a rainha de Portugal costumava passeiar de carruagem em Meudon, quasi sempre acompanhada pela sua preceptora D. Leonor da Camara.</p>
 <p>Um dia, em pleno outomno, a receita do caldeireiro ambulante excedeu o orçamento ordinario: ganhou mais alguns sous do que o costume. Correu a comprar um ramo de margaritas, atou-o com uma pequena fita azul, e caminhou para Meudon.</p>
@@ -2514,7 +2521,7 @@
 <p>Debaixo de uma chuva de balas, dirigiu-se para a serra da Freita, onde queria tomar posição.</p>
 <p>Mas as ordenanças perseguiram-n'o em tanto numero e com tanto desespero, que a guerrilha se desconcertou: uns fugiram para a banda de Alvarenga; outros, com frei Simão, foram correndo sobre S. Pedro do Sul pela serra de Bustello e Cabreiros.</p>
 <p>Sempre perseguido, cada vez com maior encarniçamento, frei Simão julgou que poderia desnortear as ordenanças escondendo-se para deixal-as passar.</p>
-<p>Diz Soriano que o frade se metteu n'um côrrego da ribeira de Raques. <ref target="#POR0058-nota-7"/>  Era, diz a devassa, um barrôco da ribeira de Adaufe.</p>
+<p>Diz Soriano que o frade se metteu n'um côrrego da ribeira de Raques. <ref target="#POR0058-nota-7"/><ref target="#POR0058-nota-7"/>  Era, diz a devassa, um barrôco da ribeira de Adaufe.</p>
 <p>O ardil não dera o resultado que frei Simão esperava. As ordenanças descobriram o escondrijo e atacaram-n'o.</p>
 <p>O frade conhecia toda a desvantagem da sua posição, logo que o ardil falhasse.</p>
 <p>Mas não desanimou. Estimulou, com energicas palavras, a coragem dos guerrilheiros, e organisou de prompto a defesa.</p>
@@ -2541,7 +2548,7 @@
 <p>Em Vizeu estava funccionando o tribunal de terror, a commissão mixta, composta de trez magistrados civis e de quatro vogaes militares, que os ia julgar e que, fatalmente, os condemnaria.</p>
 <p>Este sanguinario tribunal já havia mostrado o seu implacavel rigor na sentença que, em agosto, pronunciára contra trez sacerdotes liberaes.</p>
 <p>Eram elles os padres Lauriano Antonio Pinto de Noronha, Caetano José Pinheiro e Antonio Alberto Pereira Pinto Monte-Roio, que foram presos quando navegavam Douro abaixo com o proposito de reunir-se á expedição libertadora no Porto.</p>
-<p>Ia tambem com elles frei Joaquim dos Santos Pereira, mas esse, por haver sido ferido gravemente no peito com uma bala, não foi logo julgado, e assim logrou salvar a vida, porque o tratamento não tinha ainda acabado quando a liberdade triumphou <ref target="#POR0058-nota-8"/> .</p>
+<p>Ia tambem com elles frei Joaquim dos Santos Pereira, mas esse, por haver sido ferido gravemente no peito com uma bala, não foi logo julgado, e assim logrou salvar a vida, porque o tratamento não tinha ainda acabado quando a liberdade triumphou <ref target="#POR0058-nota-8"/><ref target="#POR0058-nota-8"/> .</p>
 <p>Menos felizes, os seus trez companheiros foram arcabusados no Campo da Ribeira em Vizeu, no dia 23 de agosto.</p>
 <p>Só em dezembro, a Chronica constitucional do Porto tinha noticia relativa ás primeiras victimas d'aquelle tribunal de terror.</p>
 <p>No numero do dia 3 dizia o orgão official do governo de D. Pedro:</p>

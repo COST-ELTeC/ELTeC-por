@@ -21,8 +21,15 @@
 <extent>
 <measure unit="words">79722</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+</publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Carlos Pinto de Almeida</author>
 <title>A conquista de Lisboa: romance original</title>
@@ -53,7 +60,8 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2020-03-08">Checked by checkup
+<revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-10-10">Adicionado à coleção ELTeC</change>
 </revisionDesc>
@@ -100,7 +108,7 @@
 <p>Deixemos esta epocha por ser alguns annos mais antiga, da que nos vamos occupar. Egas Moniz conservou-se tranquilamente no seu solar e quinta da Gresconhe e nós passamos ao solar da Cham, habitação da nobre família dos Pintos, de que a historia bastante se occupa. </p>
 </div><div type="chapter"><head>CAPITULO I</head>
 <p>A DECLARAÇÃO </p>
-<p>A dez legoas da cidade do Porlo polo rio Douro acima, e a quatro léguas abaixo de Lamego, a naturesa caprichosa levantou sobre a margem d'aquelle rio um monte bastante elevado, e que ainda é boje reconhecido pelos povos convisinhos, pelo Monte-de Muro <ref target="#POR0050-nota-1"/>. </p>
+<p>A dez legoas da cidade do Porlo polo rio Douro acima, e a quatro léguas abaixo de Lamego, a naturesa caprichosa levantou sobre a margem d'aquelle rio um monte bastante elevado, e que ainda é boje reconhecido pelos povos convisinhos, pelo Monte-de Muro <ref target="#POR0050-nota-1"/><ref target="#POR0050-nota-1"/>. </p>
 <p>Entre os Soutos do Crasto e Arouca, na parte mais elevada, chamada o Peneval, do lado do norte, tem origem um regato, que denominam Bestança. Este rio, ou regato, correndo por espaço de duas legoas de sul ao norte, entro os Concelhos de Ferreiros, Tendães e Sinfães, vae confundir-se com as aguas do Douro, que altivas e imponentes se vão perder no Oceano.</p>
 <p>Na margem direita d'este regato, e a uma legoa abaixo da sua origem, ainda se vê a torre ou castello da Cham, antigo solar da familia dos Sousas Pintos, uma das mais nobres e antigas de Portugal. </p>
 <p>A torre que ainda se diííerença, c que altiva tem resistido á natural acção dos séculos, é uma fortalesa quadrangular, apresentando todas as condições deffensaveis, exigidas no tempo da sua origem. </p>

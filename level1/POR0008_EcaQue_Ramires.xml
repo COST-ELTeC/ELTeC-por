@@ -23,8 +23,14 @@
 <measure unit="words">107647</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>15 de julho de 2020</date>. </p>
-</publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Adicionado à coleção ELTeC 15 de julho de 2020. --></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Eça de Queirós</author>
 <title>Project Gutenberg's A Illustre Casa de Ramires</title>
@@ -54,6 +60,7 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-07-15">Adicionado à coleção ElTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -902,7 +909,7 @@
 <p>O Bento, com um trémulo suspiro da emoção atravessada, enchera. a bacia, estendia as toalhas. Depois, gravemente:</p>
 <p>-- Pois, Sr. Doutor, temos esse andaço nos sítios! Foi o mesmo que sucedeu ao Sr. Sanches Lucena, na Feitosa...</p>
 <p>-- Como, ao Sr. Sanches Lucena?</p>
-<p>O Bento desenrolou então uma tremenda história trazida à Torre, durante a estada do Sr. Doutor em Oliveira, pelo cunhado da Crispola, o Rui carpinteiro, que trabalhava nas obras da Feitosa. O Sr. Sanches Lucena descera uma tarde, ao lusco-fusco, à porta do mirante, quando passam na estrada dois jornaleiros, bêbedos ou facínoras, que implicam com o excelente senhor. E chufas, risinhos, momices... O Sr. Sanches, com paciência, aconselhou os homens que seguissem, não se desmandassem. De repente um deles, um rapazola, sacode a jaqueta do ombro, ergue o cajado! Felizmente o companheiro, que se afirmara, ainda gritou: -- «Ai! rapaz, que ele é o nosso deputado!>, O rapazola abalou, espavorido. O outro até se atirou de joelhos diante do Sr. Sanches Lucena... Mas o pobre senhor, com o abalo, recolheu à cama!</p>
+<p>O Bento desenrolou então uma tremenda história trazida à Torre, durante a estada do Sr. Doutor em Oliveira, pelo cunhado da Crispola, o Rui carpinteiro, que trabalhava nas obras da Feitosa. O Sr. Sanches Lucena descera uma tarde, ao lusco-fusco, à porta do mirante, quando passam na estrada dois jornaleiros, bêbedos ou facínoras, que implicam com o excelente senhor. E chufas, risinhos, momices... O Sr. Sanches, com paciência, aconselhou os homens que seguissem, não se desmandassem. De repente um deles, um rapazola, sacode a jaqueta do ombro, ergue o cajado! Felizmente o companheiro, que se afirmara, ainda gritou: -- «Ai! rapaz, que ele é o nosso deputado!&gt;, O rapazola abalou, espavorido. O outro até se atirou de joelhos diante do Sr. Sanches Lucena... Mas o pobre senhor, com o abalo, recolheu à cama!</p>
 <p>Gonçalo acompanhara a história, secando vagarosamente as mãos à toalha, impressionado:</p>
 <p>-- Quando foi isso?</p>
 <p>-- Pois disse ao Sr. Doutor... Quando o Sr. Doutor estava em Oliveira. Um dia antes ou um dia depois dos anos da Sr a D. Graça.</p>
@@ -1088,7 +1095,7 @@
 <p>-- Pois se o Sr. Doutor lhe não custa... E como é para dar uma boa nova... Sempre consola a pobre mulherzinha!...</p>
 <p>-- Lá vou, homem, lá vou! Não me maces também... Impossível trabalhar nesta casa! Outra noite perdida!</p>
 <p>Enfiou violentamente para o quarto, atirando as portas -- com a ideia de meter na algibeira do roupão duas notas de dez tostões que consolariam os pequenos. Mas, diante da gaveta, recuou, vexado. Que brutalidade, compensar com dinheiro criancinhas -- a quem ele arrancara o pai, algemado, para o trancar numa enxovia! Agarrou simplesmente numa boceta de alperces secos -- dos famosos alperces do Convento de Santa Brígida de Oliveira, que na véspera lhe mandara Gracinha. E, cerrando lentamente o quarto, já se arrependia da sua severidade, tão estouvada, que assim desmanchava a quietação de um casal. Depois no corredor, ante a chuva clamorosa que dos telhados se despenhava nas lajes do pátio, ainda mais doridamente se impressionou, com a imagem da pobre mulher, tresloucada pela negra estrada, puxando os filhinhos encharcados, moídos, contra a tormenta solta. E ao penetrar no corredor da cozinha -- tremia como um culpado.</p>
-<p>Através da porta envidraçada sentiu logo a Rosa e o Bento consolando a mulher, com palradora confiança, quase risonhos. Mas os «ais>, dela, os ruidosos lamentos pelo «seu rico homem», ressoavam, mais agudos, como a rebater e a abafar toda a consolação. E apenas Gonçalo empurrou timidamente a porta -- quase acuou no espanto e medo daquela aflição estridente que se arremessava para ele e para a sua misericórdia! De rojos nas lajes, torcendo as magras mãos sobre a cabeça, toda de negro, parecendo mais negra e dolorosa contra a vermelhidão do lençol estendido que secava ao lume forte da lareira -- a criatura estalara num tumulto de súplicas e gritos:</p>
+<p>Através da porta envidraçada sentiu logo a Rosa e o Bento consolando a mulher, com palradora confiança, quase risonhos. Mas os «ais&gt;, dela, os ruidosos lamentos pelo «seu rico homem», ressoavam, mais agudos, como a rebater e a abafar toda a consolação. E apenas Gonçalo empurrou timidamente a porta -- quase acuou no espanto e medo daquela aflição estridente que se arremessava para ele e para a sua misericórdia! De rojos nas lajes, torcendo as magras mãos sobre a cabeça, toda de negro, parecendo mais negra e dolorosa contra a vermelhidão do lençol estendido que secava ao lume forte da lareira -- a criatura estalara num tumulto de súplicas e gritos:</p>
 <p>-- Ai, meu rico senhor, tenha compaixão! Ai, que me prenderam o meu homem, que mo vão mandar para a África degredado! Jesus, meus filhinhos da minha alma que ficam sem pai! Ai, pelas suas almas meu senhor, e por toda a sua felicidade!... Eu sei que ele teve culpa! Aquilo foi perdição que lhe deu! Mas tenha piedade destas criancinhas! Ai, o meu pobre homem que está a ferros! Ai, meu rico senhor, por quem é!</p>
 <p>Com as pálpebras humedecidas, agarrando desesperadamente a boceta de alperces, Gonçalo balbuciava, através da emoção que o estrangulara:</p>
 <p>-Oh mulher, sossegue, já o vão soltar! Sossegue! já dei ordem! já o vão soltar!</p>

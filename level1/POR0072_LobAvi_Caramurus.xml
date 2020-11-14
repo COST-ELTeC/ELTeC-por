@@ -22,8 +22,15 @@
 <extent>
 <measure unit="words">67549</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/><!--Added to ELTeC repo on 2020-1-12--></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+</publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Os Caramurús</title>
 <ref target="https://archive.org/details/oscaramursroman01davgoog"/>
@@ -53,7 +60,8 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2020-03-08">Checked by checkup
+<revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
                 script</change>
 <change when="2020-01-12">Adicionado à coleção ELTeC</change>
 </revisionDesc>
@@ -741,7 +749,7 @@
 <p>Comprehendeu Carijó, n'um relance, a situação e o que diziam, e approximando-se rapidamente de Diogo Alvares, prostrando-se a seus pés, como se elle fôra um semi-deus, entregou-lhe o seu mosquete, dizendo: </p>
 <p>-- Estamos salvos! Disparae outro tiro! Já! Já! </p>
 <p>Anteviu rapidamente o cavalleiro o que se passava, e apontou o mosquete a um grande albatroz que ia voando, ferindo-o de morte. </p>
-<p>-- Caramurú!! Caramurú!! -- clamaram novamente os selvagens, com mais accentuado terror supersticioso; e emquanto a multidão não cessava de assim bradar, os indigenas que tinham seguido Carijó, approximavam-se d'este, e imitando os seus movimentos, prostravam-se aos pés do cavalleiro! <ref target="#POR0072-nota-1"/> </p>
+<p>-- Caramurú!! Caramurú!! -- clamaram novamente os selvagens, com mais accentuado terror supersticioso; e emquanto a multidão não cessava de assim bradar, os indigenas que tinham seguido Carijó, approximavam-se d'este, e imitando os seus movimentos, prostravam-se aos pés do cavalleiro! <ref target="#POR0072-nota-1"/><ref target="#POR0072-nota-1"/> </p>
 <p>-- Para estas gentes, sois um ente sobrenatural -- disse o indio, ajoelhado, ao mancebo; -- fareis d'elles quanto vos approuver! </p>
 </div><div type="chapter"><head>IX</head>
 <p>A favorita do rei </p>
@@ -826,7 +834,7 @@
 <p>São passados dois annos sobre os acontecimentos que acabamos de descrever. </p>
 <p>O Caramurú, assim denominaremos d' aqui por deante o nosso heroe, tem consolidado o seu poder de chefe dos goyanazes, havendo delegado em Carijó o governo da tribu tapuya, assente em dominios distantes d'aquelles em que o fidalgo minhoto se estabeleceu, no sitio denominado Villa Velha, que mais tarde se tornou a séde d'uma importante capitania portugueza, e o germen da futura cidade da Bahia. </p>
 <p>N'estes dois annos, a existencia do Caramurú não deixou de ser a de lucta moral, constante, dos seus sentimentos elevados e das suas aspirações de cavalleiro, com os factos positivos da vida, lucta que a sorte parecia ter-lhe destinado em partilha n'este mundo, a par da propicios successos. </p>
-<p>No seu coração, disposto pela natureza para se entregar ao amor apaixonado, as recordações ainda vivas de D. Anna luctam umas vezes, outras parecem irmanar-se e fundir-se no encanto maior da sua vida: o affecto que lhe merece Paraguaçú. Da parte d'esta mulher excepcional, mais captivante ainda pela elevação das suas qualidades, incomprehensiveis n'uma filha de selvagens, do que pela sua formosura, ha muito sabe o cavalieiro que existe a seu respeito a mais funda paixão. E não obstante, elle, a quem as exigencias da situação, pela necessidade de não ferir as superstições dos chefes indios, teem obrigado a acceitar por mulheres as suas filhas, dando o ser a uma prole numerosa como as dos patriarchas antigos <ref target="#POR0072-nota-2"/> , a Paraguaçú, que todos consideram a sua primeira favorita, só o ligam laços moraes. Assim o velho cacique Itagybe, pae da bella Rio Grande, morrendo, pedira ao Céo que abençoasse aquella união, até ali esteril, com o nascimento de filhos. </p>
+<p>No seu coração, disposto pela natureza para se entregar ao amor apaixonado, as recordações ainda vivas de D. Anna luctam umas vezes, outras parecem irmanar-se e fundir-se no encanto maior da sua vida: o affecto que lhe merece Paraguaçú. Da parte d'esta mulher excepcional, mais captivante ainda pela elevação das suas qualidades, incomprehensiveis n'uma filha de selvagens, do que pela sua formosura, ha muito sabe o cavalieiro que existe a seu respeito a mais funda paixão. E não obstante, elle, a quem as exigencias da situação, pela necessidade de não ferir as superstições dos chefes indios, teem obrigado a acceitar por mulheres as suas filhas, dando o ser a uma prole numerosa como as dos patriarchas antigos <ref target="#POR0072-nota-2"/><ref target="#POR0072-nota-2"/> , a Paraguaçú, que todos consideram a sua primeira favorita, só o ligam laços moraes. Assim o velho cacique Itagybe, pae da bella Rio Grande, morrendo, pedira ao Céo que abençoasse aquella união, até ali esteril, com o nascimento de filhos. </p>
 <p>A razão d'este verdadeiro phenomeno entre as mulheres goyanazes, tão ferteis na maternidade, era um mysterio só conhecido pelo cavalieiro e pela sua favorita. Provinha d'essa confissão, que deixára attonito o Caramurú, em que lhe disséra ser christã. Era com effeito christã Paraguaçú, christã peio principio mais respeitavel para os sentimentos religiosos de todo o portuguez d'aquelles tempos: christã, pela fé! </p>
 <p>Logo que o Caramurú conheceu bastante o dialecto goyanaz para a sós conversar com a formosa creatura, indagou a razão do que lhe dissera, e como viera ter ás suas mãos o crucifixo que sempre trazia ao pescoço, e ao qual implorara a salvação contra o attentado do feroz Mouy. </p>
 <p>-- Fraca memoria tendes, -- lhe respondeu Paraguaçú; -- esqueceis um facto que devia lembrar-vos toda a vida! </p>
@@ -839,7 +847,7 @@
 <p>-- Sim. Agora me recordo de ter ouvido contar a Nicolau Coelho, em Lisboa, que aos indios de Santa Cruz tinha dado todo o resto d'essas imagens sagradas que levára na viagem da descoberta da India. </p>
 <p>-- Isso mesmo. </p>
 <p>-- Mas, tenho ideia de que só indios presencearam esse acto...</p>
-<p>-- Enganaes-vos! Uma só mulher <ref target="#POR0072-nota-3"/>  assistiu, a quem para esse fim deram fatos que lhe incobrissem a nudez. Foi a que me creou, porque, como já sabeis, não cheguei a conhecer minha mãe, -- acerescentou Paraguaçú, com a expressão de tristeza que frequentemente havia nas suas palavras. </p>
+<p>-- Enganaes-vos! Uma só mulher <ref target="#POR0072-nota-3"/><ref target="#POR0072-nota-3"/>  assistiu, a quem para esse fim deram fatos que lhe incobrissem a nudez. Foi a que me creou, porque, como já sabeis, não cheguei a conhecer minha mãe, -- acerescentou Paraguaçú, com a expressão de tristeza que frequentemente havia nas suas palavras. </p>
 <p>-- N'isso ainda, a sorte nos fez irmãos. </p>
 <p>-- Irmãos! Irmãos! -- exclamou arrebatadamente a india, acordando n'ella a paixão e o ardor dos sentimentos da sua raça. -- Sempre essa palavra! a tornar impossivel a nossa união, que eu tenho por decretada por Deus! Por esse Deus que é vosso, que este crucifixo representa, e que eu respeito... </p>
 <p>-- E' que ainda não estás bem ao facto dos preceitos da sua religião. És christã, Paraguaçú! pela fé com que acreditas no Todo Poderoso, que ahi está representado, e pela confiança com que a Elle tens recorrido nos lances mais difficeis da tua vida. Mas emquanto não receberes o sacramento do baptismo, e um sacerdote não realisar a nossa união perante Deus, seria offensa á sua lei tomar-te por mulher...</p>
@@ -986,7 +994,7 @@
 <p>Por muitos dias, emquanto o carregamento dos navios avançava, andou o cavalleiro luctando comsigo mesmo sobre o que deveria fazer. Não lhe passava pela mente que as palavras de Paraguaçú representassem mais do que uma ameaça para o intimidar, forçando-o a leval-a comsigo, e teria cedido, se agora não comprehendesse realmente que ia correr grande perigo de não ser restituido aos seus estados. Não duvidava da boa fé do capitão francez, mas sabia que uma vez chegado a França o seu destino não lhe pertencia, mas á vontade do monarcha, ou melhor ao sabor dos interesses da politica, para os quaes a vida, e mais ainda as conveniencias, d'um homem, nada são. </p>
 <p>Resolveu pois, de accôrdo com o navegador francez, partir sem Paraguaçú dar por isso, dando a Carijó as devidas instrucções para a socegar e fazer conformar-se com o facto consummado. Tratou como capitão indemnisal-o do resto do carregamento indo tomar páo Brazil na costa em que demoravam os tapuyas, a quem dera Carijó por cacique, e assim tudo combinado, certa noite em que se levantára máo tempo, afastando qualquer ideia de que os navios pudessem partir, ergueu-se por horas mortas, e dirigindo-se a uma pequena enseada onde tudo estava preparado para a fugida, embarcou em uma almadia ou piroga, que os remadores indigenas logo fizeram vogar em direcção ao pharol da náo, que brilhava a distancia, entre as trevas nocturnas. </p>
 <p>Logo ás primeiras remadas, ouvira o Caramurú, sentado á pôpa da embarcação, e acabrunhado com uma especie de remorso d'aquelle passo com que correspondia á dedicação de Paraguaçú, o choque como de um corpo cahindo na agua. Mas não deu maior attenção, julgando ser um jacaré. Passados instantes, porém, sentia gelar-se-lhe o sangue nas veias, reconhecendo a voz de Paraguaçú, pedindo soccorro..</p>
-<p>O instincto da conservação levára a desgraçada, luctando com a morte, a denunciar a loucura que commettera lançando-se ao mar para seguir a embarcação. <ref target="#POR0072-nota-4"/> </p>
+<p>O instincto da conservação levára a desgraçada, luctando com a morte, a denunciar a loucura que commettera lançando-se ao mar para seguir a embarcação. <ref target="#POR0072-nota-4"/><ref target="#POR0072-nota-4"/> </p>
 <p>Por ordem do cavalleiro alguns remadores se atiraram ao mar, e a custo, apesar da sua dextreza de nadadores, conseguiram salvar a bella e apaixonada india, que já se debatia com a morte. </p>
 <p>Teve o Caramurú este tragico successo por um castigo e um aviso do céo, contra o seu procedimento, resolvendo seguir o destino que lhe indicava a Providencia, e trazer Paraguaçú a França e recebel-a ahi por esposa. </p>
 </div><div type="chapter"><head>XI</head>
@@ -1079,7 +1087,7 @@
 <p>-- Não percebo... </p>
 <p>-- Vaes perceber. Ouve-me, porque ha dias ando em um verdadeiro martyrio, com receio que descobrisses o que tenho feito e o interpretasses mal, e ao mesmo tempo hesitando em te dar conhecimento da empreza que tentei, sem ter o seu exito assegurado... Custou-me a convencer o abbade, desconfiado e teimoso como teu patricio que é!... </p>
 <p>-- Meu patricio?! </p>
-<p>-- Sim. Hoje á noite, quando tiver passado a ronda dos suissos, e os sinos tiverem tocado o couvre feu <ref target="#POR0072-nota-5"/> , receberemos a visita d'um joven portuguez chamado Pedro Fernandes Sardinha, que em breve terminará os seus estudos de theologia, voltando a Lisboa. Toda a semana tenho levado a contar-lhe a tua vida, a pôl-o ao facto do que é a nossa terra, e a convencel-o de que se incumba da missão que secretamente lhe deres para el-rei de Portugal e para a rainha D. Leonor... </p>
+<p>-- Sim. Hoje á noite, quando tiver passado a ronda dos suissos, e os sinos tiverem tocado o couvre feu <ref target="#POR0072-nota-5"/><ref target="#POR0072-nota-5"/> , receberemos a visita d'um joven portuguez chamado Pedro Fernandes Sardinha, que em breve terminará os seus estudos de theologia, voltando a Lisboa. Toda a semana tenho levado a contar-lhe a tua vida, a pôl-o ao facto do que é a nossa terra, e a convencel-o de que se incumba da missão que secretamente lhe deres para el-rei de Portugal e para a rainha D. Leonor... </p>
 <p>Cahiu o cavalleiro de joelhos ante a esposa, beijando-lhe as mãos reconhecido, no auge da alegria, reconhecendo a causa da infame denuncia, e não se atrevendo a confessar-lhe que um instante a desconfiança entrára no seu espirito. </p>
 <p>-- Oh! vale tamanho agradecimento tão pequeno serviço? </p>
 <p>-- Não é pequeno, é enorme! Conheces como anceio por fazer saber a D. Leonor que sou vivo, e ao rei D. João, seu sobrinho, que deve quanto antes occupar effectivamente os seus dominios de Santa Cruz... </p>

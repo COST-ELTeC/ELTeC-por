@@ -23,8 +23,14 @@
 <measure unit="words">71843</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>1 de maio de 2020</date>. </p>
-</publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Adicionado à coleção ELTeC 1 de maio de 2020. --></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Almeida Garrett</author>
 <title>The Project Gutenberg EBook of Viagens na Minha Terra</title>
@@ -55,6 +61,7 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-05-01">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -405,7 +412,7 @@
 <p>Ora d'onde veio este nome da Asseca? Algures aqui perto deve de haver sitio, logar ou coisa que o valha, com o nome de Meca; e d'ahi talvez o admiravel rifão portuguez que ainda não foi bem examinado como devia ser, e que decerto incerra algum grande dictame de moral primitiva: 'andou por Secca (Asseca?) e Meca e olivaes de Santarem.' -- Os taes olivaes ficam logo adiante. É uma ethymologia como qualquer outra.</p>
 <p>A ponte da Asseca corta uma varzea immensa que hade ser um vasto pahul de hynverno: ainda agora está a desangrar-se em agua por toda a parte.</p>
 <p>É notavel na historia moderna este sítio. Aqui n'um recontro com os nossos, foi Junot gravemente ferido, ferido na cara. 'Il ne sera plus beau garçon' disse o parlamentario francez que veio, depois da acção, tractar, creio eu, de troca de prisioneiros ou de coisa similhante. Mas inganou-se o parlamentario; Junot ainda ficou muito guapo e gentil homem depois d'isso.</p>
-<p>Tenho pena de nunca ter visto o Junot nem o Maneta, <ref target="#POR0004-nota-1"/>as duas primeiras notabilidades que ouvi aclamar como taes e cujos nomes conhecí... Ingano-me: conheci primeiro o nome de Bonaparte. E lembra-me muito bem que nunca me persuadi que elle fossa o monstro disforme e horroroso que nos pintavam frades e velhas n'aquelle tempo. Imaginei sempre que, para excitar tantos odios e malquerenças, era necessario que fosse um bem grande homem.</p>
+<p>Tenho pena de nunca ter visto o Junot nem o Maneta, <ref target="#POR0004-nota-1"/><ref target="#POR0004-nota-1"/>as duas primeiras notabilidades que ouvi aclamar como taes e cujos nomes conhecí... Ingano-me: conheci primeiro o nome de Bonaparte. E lembra-me muito bem que nunca me persuadi que elle fossa o monstro disforme e horroroso que nos pintavam frades e velhas n'aquelle tempo. Imaginei sempre que, para excitar tantos odios e malquerenças, era necessario que fosse um bem grande homem.</p>
 <p>Desde pequeno que fui jacobino; ja se ve: e de pequeno me custou caro. Levei bons puchões de orelhas de meu pae por comprar na feira de San'Lazaro, no Porto, em vez das gaitinhas ou dos registos de sanctos, ou das outras bogigangas que os mais rapazes compravam... não imaginam o quê... um retrato de Bonaparte.</p>
 <p>Foi 'inguiço' -- diria uma senhora do meu conhecimento que accredita n'elles: foi inguiço que aínda se não desfez e que toda a vida me tem perseguido.</p>
 <p>Quem me diria quando, por esse primeiro peccado politico da minha infancia, por esse primeiro tractamento duro, e -- perdoe-me a respeitada memoria de meu sancto pae! -- injustissimo, que me trouxe o mero instincto das ideas liberaes, quem me diria que eu havia de ser perseguido por ellas toda a vida! que apenas sahido da puberdade havia de ir a essa mesma França, á patria d'esses homens e d'essas ideas com quem a minha natureza sympathysava sem saber porquê, buscar asylo e guarida?</p>
@@ -574,7 +581,7 @@
 <p>Menos na graça...</p>
 <p>Porque o barão é o mais desgracioso e estupido animal da creação.</p>
 <p>Sem exceptuar a familia asinina que se illustra com individualidades tam distinctas como o Ruço do nosso amigo Sancho, o asno da Poncella de Orleans e outros.</p>
-<p>O barão (onagros-baronius de Linn., l'ânne-baron de Buf.) é uma variedade monstruosa ingendrada na burra de Balaham, pela parte essencialmente judaica e usuraria de sua natureza, em coito damnado com o urso Martinho do Jardim das Plantas <ref target="#POR0004-nota-2"/>, pela parte franchinotica e sordidamente revolucionaria de seu character.</p>
+<p>O barão (onagros-baronius de Linn., l'ânne-baron de Buf.) é uma variedade monstruosa ingendrada na burra de Balaham, pela parte essencialmente judaica e usuraria de sua natureza, em coito damnado com o urso Martinho do Jardim das Plantas <ref target="#POR0004-nota-2"/><ref target="#POR0004-nota-2"/>, pela parte franchinotica e sordidamente revolucionaria de seu character.</p>
 <p>O barão é pois usurariamente revolucionario, e revolucionariamente usurario.</p>
 <p>Por isso é zebrado de riscas monarchico-democraticas por todo o pêllo.</p>
 <p>Este é o barão verdadeiro e puro-sangue: o que não tem estes characteres é especie differente, de que aqui se não tracta.</p>
@@ -620,7 +627,7 @@
 <p>E aqui tenho eu ás costas nada menos de quinze frades e quarto.</p>
 <p>Com este Frei Diniz é um convento inteiro.</p>
 <p>Pois, senhores, não sei que lhes faça: a culpa não é minha. Desde mil cento e tantos que começou Portugal, até mil oitocentos trinta e tantos que uns dizem que elle se restaurou, outros que o levou a breca, não sei que se passasse ou podesse passar n'esta terra coisa alguma pública ou particular, em que frade não entrasse.</p>
-<p>Para evitar isto não ha senão usar da receita que vem formulada no capitulo V<ref target="#POR0004-nota-3"/> d'esta obra.</p>
+<p>Para evitar isto não ha senão usar da receita que vem formulada no capitulo V<ref target="#POR0004-nota-3"/><ref target="#POR0004-nota-3"/> d'esta obra.</p>
 <p>Faça-o quem gostar; eu não, que não quero nem sei.</p>
 </div><div type="chapter"><head>CAPITULO XIV</head>
 <p>Emendado emfim de suas distracções e divagações, prosegue o A. direitamente com a historia promettida. -- De como Fr. Diniz deu a manga a beijar á avó e á neta, e do mais que entre elles se passou. -- Ralha o frade com a velha, e começa a descobrir-se onde a historia vai ter.</p>

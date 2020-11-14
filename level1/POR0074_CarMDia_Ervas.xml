@@ -21,8 +21,15 @@
 <extent>
 <measure unit="words">101018</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>17-7-2020</date></p>
-</publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Added to ELTeC repo on 17-7-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>A Mulata</title> 
 <author>Carlos Malheiro Dias</author>
@@ -55,6 +62,7 @@
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-07-16">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -478,7 +486,7 @@
 <p>-- Doe-te muito ? Dize... Muito ? </p>
 <p>Pensava em como. seria doloroso e cruel estremecer aquella querida existência delicada. </p>
 <p>-- Isto passa; è d'este tempo assim -- não cessa de chover ! </p>
-<p>-- Vem sentar-te na cadeira de balanço -- descai> ças a cabeça. </p>
+<p>-- Vem sentar-te na cadeira de balanço -- descai&gt; ças a cabeça. </p>
 <p>Tinha-se erguido, beijando-a nos olhos, -- e foi arrastar-lhe a cadeira para perto do fogão. </p>
 <p>A chuva cahia em grossas contas, pesada e basta. </p>
 <p>Um tramway de Cascaes, que passava, berrou entre o aguaceiro. Na casa ao lado alguém tocava a valsa da Bohemia e o odor das cascas de laranja embalsamava a sala suavemente. </p>

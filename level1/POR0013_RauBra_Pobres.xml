@@ -22,15 +22,20 @@
 <measure unit="words">40352</measure>
 </extent>
 <publicationStmt>
-<p>Adicionado à coleção ELTeC <date>1 de maio de 2020</date>. </p>
-</publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Adicionado à coleção ELTeC 1 de maio de 2020. --></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Raul Brandão</author>
 <title>The Project Gutenberg EBook of Os Pobres</title>
 <ref target="http://www.gutenberg.org/ebooks/20841"/>
 <date>2007</date>
-</bibl>
-<bibl type="firstEdition">
+</bibl><bibl type="firstEdition">
 <author>Raul Brandão</author>
 <title>Os Pobres</title>
 <date>1906</date>
@@ -53,6 +58,7 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2018-05-01">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -374,7 +380,7 @@
 <p>-- Coitado! Eu agora é que trago entre mãos um negocio...</p>
 <p>Porque é que elles não trabalham? Porque a quebra, as afflicções, a ruina, tolheram-nos para sempre. Perderam a energia e só sonham em se tornar ricos. Vivem illudidos e tombam no sepulchro gastos e com a scisma em maravilhosos lucros. E não têm porventura razão? Não vão amanhã quinhoar d'essa larga e mysteriosa empreza -- a Morte?</p>
 </div><div type="chapter"><head>VI</head>
-<p>PHILOSOPHIA DO GABIRU <ref target="#POR0013-nota-1"/> </p>
+<p>PHILOSOPHIA DO GABIRU <ref target="#POR0013-nota-1"/><ref target="#POR0013-nota-1"/> </p>
 <p>E que tu acreditas na immortalidade da alma? Bem fundo, bem arreigado?</p>
 <p>Tenho horas em que creio: é uma esperança, um raio de luz entrando n'um tumulo vasio pela juncta abalada d'uma pedra. Porque crêr? porque não crêr? Theorias, palavras... No intimo, porém, sou materialista como toda a gente. Dormir na terra funda e gorda é bom -- dormir para sempre. Ir ser arvore, luz, detricto, correr nas veias da terra, é quasi consolador -- excellente somno sem sonhos, depois da lide canceirosa d'um dia.</p>
 <p>Na primavera quasi sempre sou materialista, no inverno idealista e com a mesma sinceridade, quasi com ferocidade.</p>

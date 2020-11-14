@@ -22,7 +22,15 @@
 <extent>
 <measure unit="words">60120</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>29-3-2020</date></p></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+<!--Added to ELTeC repo on 29-3-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>A infâmia de Frei Quintino : romance duma família</title>
 <author>Urbano Loureiro</author>
@@ -55,6 +63,7 @@
 
 </profileDesc>
 <revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-03-29">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -1146,7 +1155,7 @@
 
 <l>Serás Pai, serás Rei de mansa gente</l> 
 <l>Sem que mais ouças revoltoso estouro.</l>
-<l>Obra dos filhos de infernal serpente.»<ref target ="#POR0092-nota-1"/></l>
+<l>Obra dos filhos de infernal serpente.»<ref target="#POR0092-nota-1"/><ref target="#POR0092-nota-1"/></l>
 
 <p>Durante a leitura desta composição-poética, frei Quintino, passeando a vista pelos circunstantes, com um leve sorriso de intima satisfação, natural num padrinho extremoso, especialmente quando êsse padrinho é um eclesiástico, marcava o ritmo com a cabeça.</p>
 <p>-- Hein ? que me diz aos versos ? -- interrogou êle voltando-se para Luís Maria, antes mesmo do poeta haver concluído.</p>
@@ -2454,4 +2463,3 @@
 </back>
 </text>
 </TEI>
-

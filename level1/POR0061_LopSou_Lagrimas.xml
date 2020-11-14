@@ -21,8 +21,15 @@
 <extent>
 <measure unit="words">48764</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
-                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
+</publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Lopo de Souza</author>
 <title>Herança de lágrimas</title>
@@ -54,7 +61,8 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2020-03-08">Checked by checkup
+<revisionDesc>
+<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-02-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
@@ -881,7 +889,7 @@
 <p>-- Pois não te sentes bem aqui?</p>
 <p>-- Ainda não -- tornou Branca -- mas posso conseguil-o. Ora ouve. Eu nunca te perguntei os meios de que dispunhas, porque contava comigo. Sabes que possuo algumas prendas; e estou resolvida a aproveitar-me d’ellas para te não ser pesada.</p>
 <p>-- Tu!  -- bradou Rodrigo -- E como?</p>
-<p>-- Leccionando ahi em qualquer collegio --  respondeu serenamente -- Collegios no Porto ! <ref target="#POR0061-nota-1"/> Cuidas que isto é Lisboa ? Louquinha! E pensas tambem, que eu consentiria em semelhante coisa? Tu, a filha e irmã dos condes d’Alvarães!...  Que diria teu marido, sabendo-o ?!</p>
+<p>-- Leccionando ahi em qualquer collegio --  respondeu serenamente -- Collegios no Porto ! <ref target="#POR0061-nota-1"/><ref target="#POR0061-nota-1"/> Cuidas que isto é Lisboa ? Louquinha! E pensas tambem, que eu consentiria em semelhante coisa? Tu, a filha e irmã dos condes d’Alvarães!...  Que diria teu marido, sabendo-o ?!</p>
 <p>-- E que me importa a mim saber o que elle diz ou pensa, Rodrigo? O que me dá cuidado, é a nossa sorte futura. Somos mais do que amantes me disseste. Recordas-te? Por tanto, deixemos as falsas modestias, é necessario assentar bem a nossa situação. Eu sei que a mesada que recebes de tua casa é avultada para ti, mas insuficiente para cubrir os gastos d'uma pequena familia. Tu, vejamos: para que te sentes habilitado? Para muito, talvez, em espirito e intelligencia; mas o descostume havia de exercer um grande imperio na tua indole inquieta, e inhabilitar-te de coisa alguma. Alem d’isso, a idéa de que fui eu a causa innocente de te prender a obrigações, fazia-me de certo mal a mim, e eu, quando mais não seja, quero gozar um lugar distincto na tua amizade.</p>
 
 <p>-- Que sonhos! Que peripecias engendra a tua imaginação -- disse Rodrigo.</p>
