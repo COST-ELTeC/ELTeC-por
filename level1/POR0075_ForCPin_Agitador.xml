@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0075" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0075" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -1394,7 +1391,7 @@
 <l>vi carnagens, prisões, vi nas pedras das praças</l>
 <l>as mil degotlações dos tribus e das Raças,</l>
 <l>e ao ver vossos tições, potros, polés eternas,</l>
-<l>gritei: -- és um cordeiro hyena das cavernas. <ref target="#POR0075-nota-1"/><ref target="#POR0075-nota-1"/></l>
+<l>gritei: -- és um cordeiro hyena das cavernas. <ref target="#POR0075-nota-1"/></l>
 <p>E continuou com voz vibrante e irónica até á apostrophe aos deuses.</p>
 <p>Depois sorriu e sem dar tempo a que lhe respondesse continuou:</p>
 <p>-- Parece me que a seita, ou seitas, que teem a bagagem historica tão soberbamente pintada n'estes versos admiraveis, não podem classificar de monstros ferozes nem os Neros, os Heliogabalos, os Dioclecianos, os Tiberios, os Dyonisios, quanto mais os astros de primeira grandeza que projectaram sobre a humanidade inteira a luz radiosa da Liberdade.</p>

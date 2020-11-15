@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0037" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0037" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -95,14 +92,14 @@
 <p>Em todas as torres de Lisboa bateram lugubremente as badaladas das alvorada. Parecia que nunca os sinos da cidade tinham tido uma voz assim dolente! Badaladas como trágicos soluços daquele bronze que parecia ter dentro em si a alma angustiosa da cidade.</p>
 <p>E não era deles afinal aquela tristeza imensa; era do coração de quem os ouvia.</p>
 <p>A voz dos sinos era a mesma dos dias jubilosos; no coração dos atormentados, dos famintos, dos que traziam consigo a dor e o luto, é que a repercussão mudara como se viesse timbrada pelas amarguras da Pátria e pelas tristezas de cada lar.</p>
-<p>-- Jesus! -- soluçara uma velha a quem o marido e o filho tinham morrido, dias antes, numa sortida às portas de Santa Catarina, contra os Castelhanos que cercavam Lisboa<ref target="#POR0037-nota-1"/><ref target="#POR0037-nota-1"/>.</p>
+<p>-- Jesus! -- soluçara uma velha a quem o marido e o filho tinham morrido, dias antes, numa sortida às portas de Santa Catarina, contra os Castelhanos que cercavam Lisboa<ref target="#POR0037-nota-1"/>.</p>
 <p>Estão a dar aquelas badaladas como se fosse para lembrar os tantos que a morte levou e os muitos que hão de acabar, se o nosso Senhor não tiver dó desta pobre cidade e desta infortunada Nação!</p>
 <p>E para maior agouro e mais doloroso contraste, as sinetas de bordo das cinquenta e três naus e galés que El-rei de Castela tinha no Tejo também tocaram na alvorada, mas essas numas vibrações agudas, ligeiras, como se tivessem um timbre de riso de escárnio pela aflição da cidade.</p>
 <p>Ouviam-se bem na trágica melodia daquele crepúsculo. A armada potente de Castela estava atracada desde Santos até para lá de Cacilhas, muito próxima da praia, a cerrar estreitamente o cerco.</p>
 <p>Mas do acampamento castelhano, a rodear Lisboa das alturas de Santa Clara ao Monte da Graça e à Penha, das extremidades de Valverde (o valezito da atual Avenida da Liberdade), daqueles hortejos às lombas de Campolide e do monte de Santa Catarina às praias de Santos; dali vinham ainda mais opressoras repercussões naquele anoitecer de Junho. Vinham do estridor arrogante das trombetas no soberbo alarde das Trindades.</p>
-<p>-- Estão a uivar os lobos de Castela! Má peste os ponha em fuga! -- comentara um besteiro<ref target="#POR0037-nota-2"/><ref target="#POR0037-nota-2"/> de cabelos grisalhos.</p>
+<p>-- Estão a uivar os lobos de Castela! Má peste os ponha em fuga! -- comentara um besteiro<ref target="#POR0037-nota-2"/> de cabelos grisalhos.</p>
 <p>Já pela noite dentro, as procissões de penitência cruzavam-se nas ruas, gemendo o seu “miserere”, e as igrejas atulhavam-se de gente angustiada, que fazia preces pela boa fortuna da cidade. Para que Deus protegesse o jovem Nuno Álvares Pereira, já vencedor dos Castelhanos na batalha dos Atoleiros, e para que a nossa Senhora trouxesse rapidamente e a salvamento a esquadra que esperavam do Porto com o socorro de que tanto carecia a capital.</p>
-<p>Depois passaram silenciosas, num passo pesado e lento, de piques e bestas ao ombro, as quadrilhas de peonagem<ref target="#POR0037-nota-3"/><ref target="#POR0037-nota-3"/> de reforço para as setenta e sete torres e trinta e oito portas que tinham as muralhas de Lisboa e para as trincheiras de estacaria dobrada, que reforçavam as defesas até à praia de Santos, e seguiam ao longo da Ribeira e dos Fornos da Cal até ao mosteiro de Santa Clara.</p>
+<p>Depois passaram silenciosas, num passo pesado e lento, de piques e bestas ao ombro, as quadrilhas de peonagem<ref target="#POR0037-nota-3"/> de reforço para as setenta e sete torres e trinta e oito portas que tinham as muralhas de Lisboa e para as trincheiras de estacaria dobrada, que reforçavam as defesas até à praia de Santos, e seguiam ao longo da Ribeira e dos Fornos da Cal até ao mosteiro de Santa Clara.</p>
 <p>Para os lados das Portas de Santa Catarina e da Torre de Álvaro Pais (na moderna rua de S. Roque), trotava um grupo de cavaleiros, de bacinetes emplumados, cotas e braçais. Iam para onde o perigo era maior e mais frequentes as escaramuças com os sitiantes.</p>
 <p>Depois o soluçar das preces emudeceu, as velas dos altares apagaram-se, as grandes portas das igrejas cerraram-se. Esmoreciam pelas esquinas e sobre as portas de casas abastadas os lampiões e as candeias dos nichos, à míngua de umas gotas de azeite, porque até nisto se manifestava a miséria daquela encantadora Lisboa, à qual os mouros tinham chamado a Sultana do Mar Azul do Ocidente.</p>
 <p>Foi correndo a noite e a cidade parecia adormecida num sono de pesadelos.</p>
@@ -135,7 +132,7 @@
 <p>-- Que notícias são? -- inquiriram os estremunhados, assomando às portas com as candeias de luz na mão.</p>
 <p>-- São notícias de Nuno Álvares, o jovem campeão? -- perguntavam.</p>
 <p>-- Quereis ver que deu nova arremetida contra os castelãos e venceu outra batalha?</p>
-<p>-- Eu já sonhei com ele três noites a fio, a entrar por Castela adentro, ao lado do senhor S. Jorge, com o seu bacinete de ouro e a sua lança de prata! E que tinha levado à escalada os muros de Badalhouce<ref target="#POR0037-nota-4"/><ref target="#POR0037-nota-4"/>.</p>
+<p>-- Eu já sonhei com ele três noites a fio, a entrar por Castela adentro, ao lado do senhor S. Jorge, com o seu bacinete de ouro e a sua lança de prata! E que tinha levado à escalada os muros de Badalhouce<ref target="#POR0037-nota-4"/>.</p>
 <p>-- Não vos deiteis a adivinhar, gente endrominada, que o caso foi outro.</p>
 <p>-- Dizei qual.</p>
 <p>-- Contai o que houve. Falai depressa. Dizei -- insistiram muitas vozes.</p>
@@ -147,7 +144,7 @@
 <p>-- Um homem bom do Porto, mercador rico, de rijas febras e destemida gana para o mar, que pelo escuro da noite fugiu de Cascais num batelzito e, por entre a armada inimiga, se atreveu a cá vir trazer-nos a boa notícia!</p>
 <p>-- Já esteve a falar com o Mestre -- informou outro dos avisadores, referindo-se ao Mestre da Ordem Militar de Avis, filho bastardo de el-rei D.</p>
 <p>Pedro.</p>
-<p>-- E com ele veio também aquele destemido fidalgo jovem de Riba- Douro, que foi o mais belo pajem da rainha comborça<ref target="#POR0037-nota-5"/><ref target="#POR0037-nota-5"/> e o mais animoso na guerra do ano passado.</p>
+<p>-- E com ele veio também aquele destemido fidalgo jovem de Riba- Douro, que foi o mais belo pajem da rainha comborça<ref target="#POR0037-nota-5"/> e o mais animoso na guerra do ano passado.</p>
 <p>-- Não sei quem seja!</p>
 <p>-- Ora! Nem Lisboa conhece outro mais afoito de alma. É aquele jovem de vinte anos que mandou desafiar o Condestabre de Castela.</p>
 <p>-- Ah! Esse então todos nós sabemos quem é.</p>
@@ -158,7 +155,7 @@
 <p>A multidão podia lá ouvi-la! Ninguém reparara naquela mulher nova, enrodilhada em farrapos de brocado, endoidecida no drama da maior dor humana, toda mirrada na sombra enorme da igreja.</p>
 <p>E ela também absolutamente alheia a todo aquele alvoroço, como se ali a tivessem cegado as suas próprias lágrimas e de tudo tivesse ensurdecido no estonteamento daquela mágoa inexcedível e sem remédio!</p>
 <p>-- Gentes, aí vem o Mestre, o Defensor, o que um dia será rei! -- gritou à frente da multidão, numa voz dominadora, que se sobrepunha a todas as outras, um homem alto, espadaúdo, exemplar admirável dessa raça de plebeus que havia então, de consciência lavada e ânimo intemerato, para falarem alto fosse a quem fosse, e para morrerem a peito descoberto pelo seu crer e pela sua coragem.</p>
-<p>Era o tanoeiro<ref target="#POR0037-nota-6"/><ref target="#POR0037-nota-6"/> Afonso Eanes, o chamado "Juiz do Povo", um revolucionário dos dias turbulentos que seguiram à morte do rei D. Fernando.</p>
+<p>Era o tanoeiro<ref target="#POR0037-nota-6"/> Afonso Eanes, o chamado "Juiz do Povo", um revolucionário dos dias turbulentos que seguiram à morte do rei D. Fernando.</p>
 <p>Tinha sido o tribuno e o comandante da populaça, para que a Nação se defendesse das pretensões de el-rei de Castela e não lhe deixasse levar a coroa do monarca falecido, na herança da infanta portuguesa D. Beatriz, esposa do rei invasor, mais a bandeira e a história da terra portuguesa. E o caso foi que, sem a intervenção daquele mestre tanoeiro, talvez a Nação não tivesse por chefe o jovem Mestre de Avis, e tivesse esmorecido na defesa da sua independência.</p>
 <p>Entre os homens de ação preponderante que apoiaram o bastardo de el-rei D.</p>
 <p>Pedro e da plebeia Teresa Lourenço à subida do trono, três havia de incontestável grandeza -- Nuno Álvares Pereira, fidalgo e guerreiro juvenil; Álvaro Pais, o velho chanceler dos tempos de el-rei D. Fernando, e aquele valente mesteiral (mestre artesão), que se chamava Afonso Eanes Penedo.</p>
@@ -173,16 +170,16 @@
 <p>Lourenço, com o seu estado-maior de cónegos e a sua hoste de frades e clérigos seculares. Os trabalhos e os sacrifícios eram para todos.</p>
 <p>O arcebispo, um homem intrépido, não admitia isenções de privilégio para ninguém naquela conjuntura angustiosa. Para ele era também serviço de Deus defender a Nação à mão armada, e a sua hoste de tonsurados não era das menos fervorosas nem das menos destemidas na defesa das trincheiras e no arranque das sortidas. Fora ele até o principal organizador na defesa do lado do rio, passando indiferentemente da sua tarefa de dirigente aos mais rudes trabalhos de construção, para estímulo da peonagem e dos seus clérigos.</p>
 <p>Pela noite adiante chegara o batel em que vinha o comerciante do Porto, João Ramalho, com a notícia de ter atracado em Cascais a esquadra de socorro. O Mestre combinou então com o Ramalho o plano a seguir, não só quanto à entrada dos navios, mas também a respeito do apoio que poderiam dar-lhe os defensores da cidade.</p>
-<p>Assente o que devia fazer-se para que a empresa, realmente grave, tivesse bom êxito, Ramalho voltou para Cascais com o mesmo risco e destemor, e o Mestre regressava agora ao paço para ali discutir com os seus cavalheiros e caudilhos<ref target="#POR0037-nota-7"/><ref target="#POR0037-nota-7"/> do povo, entre os quais tinham lugar proeminente os homens de ofícios da "Casa dos Vinte e Quatro"<ref target="#POR0037-nota-8"/><ref target="#POR0037-nota-8"/> do povo, com todas as minúcias e disposições da parte do plano que pertencia à cidade.</p>
+<p>Assente o que devia fazer-se para que a empresa, realmente grave, tivesse bom êxito, Ramalho voltou para Cascais com o mesmo risco e destemor, e o Mestre regressava agora ao paço para ali discutir com os seus cavalheiros e caudilhos do povo, entre os quais tinham lugar proeminente os homens de ofícios da "Casa dos Vinte e Quatro"<ref target="#POR0037-nota-8"/> do povo, com todas as minúcias e disposições da parte do plano que pertencia à cidade.</p>
 <p>E era neste assunto gravíssimo que o Mestre vinha a conversar com aquele velho alquebrado, que fora o cérebro dirigente da revolução e trazia em si, no seu arcaboiço de septuagenário, uma das maiores almas de Portugal.</p>
 <p>A multidão olhava para aqueles os dois esperançada como se aquele homem de gorra negra e cabelos de neve fosse o símbolo imaculado da Pátria, que os de Castela pretendiam matar, e o outro, um bastardo real, monge-cavaleiro de vinte e seis anos, representasse a maior promessa e a mais rútila esperança de um Portugal remoçado, mais forte, mais brilhante, de mais pura e altiva alma, emergido dos Iodos daquela decadência pelos milagres de esforço de uma revolução.</p>
 <p>-- Viva o nosso Messias! -- gritaram algumas mulheres comovidamente.</p>
-<p>E envolveram, num olhar de sonho, aquele homem jovem, de amplas costas, trigueiro e rubro como os galeotes da Ribeira e os picos das montanhas; de rosto largo numa forte expressão de energia; naquela cabeça de pensador o bacinete<ref target="#POR0037-nota-9"/><ref target="#POR0037-nota-9"/> emplumado dos campeadores fidalgos, nos ombros largos o manto branco dos Cavaleiros de Avis e sobre a cota de armas o estreito escapulário com a esguia cruz verde do mestrado da Ordem, estampada naquela brancura do hábito, a lembrar as toalhas dos altares e a bandeira da Nação.</p>
+<p>E envolveram, num olhar de sonho, aquele homem jovem, de amplas costas, trigueiro e rubro como os galeotes da Ribeira e os picos das montanhas; de rosto largo numa forte expressão de energia; naquela cabeça de pensador o bacinete<ref target="#POR0037-nota-9"/> emplumado dos campeadores fidalgos, nos ombros largos o manto branco dos Cavaleiros de Avis e sobre a cota de armas o estreito escapulário com a esguia cruz verde do mestrado da Ordem, estampada naquela brancura do hábito, a lembrar as toalhas dos altares e a bandeira da Nação.</p>
 <p>Messias da Pátria para a redimir, filho de um rei para ascender ao trono, se a Nação vencesse, filho de uma mulher do povo, como o aclamavam febrilmente.</p>
-<p>-- Que Deus vos guarde, Senhor! -- clamava a ralé num voto fervoroso, de braços erguidos como para o abraçar, e a trapagem de burel<ref target="#POR0037-nota-10"/><ref target="#POR0037-nota-10"/> agitava-se- lhe sobre o peito arquejante.</p>
+<p>-- Que Deus vos guarde, Senhor! -- clamava a ralé num voto fervoroso, de braços erguidos como para o abraçar, e a trapagem de burel<ref target="#POR0037-nota-10"/> agitava-se- lhe sobre o peito arquejante.</p>
 <p>-- Deus vos ouça, gente leal, e a todos nos mantenha na santa defesa de Portugal -- volveu-lhes o Mestre, pondo neles, afetuosamente, os seus olhos negros, penetrantes, e esboçando nos lábios rubros um sorriso de familiaridade, que lhe modificava as linhas duras do longo rosto, quase quadrangular, de queijo proeminente e barba escanhoada, conforme o preceito imposto aos monges cavaleiros.</p>
 <p>-- Amanhã haveremos de ter dura luta. A armada que veio do Porto entrará e nós de cá lhe daremos uma mão -- disse o Mestre.</p>
-<p>-- Grande armada, Senhor? -- perguntou um mesteiral,<ref target="#POR0037-nota-11"/><ref target="#POR0037-nota-11"/> de barrete na mão.</p>
+<p>-- Grande armada, Senhor? -- perguntou um mesteiral,<ref target="#POR0037-nota-11"/> de barrete na mão.</p>
 <p>-- Dezassete naus e outras tantas galés.</p>
 <p>-- Mestre e Defensor nosso, bom socorro será, mas a outra de Castela tem mais do dobro! Respondeu-lhe.</p>
 <p>-- Deus estará connosco, e pela nossa causa a alma e o sangue de nós todos. Ficai prevenidos. Ao romper da manhã, estaremos todos onde for preciso. Conto convosco; contai comigo. El-rei de Castela não levará a herança que vem aqui buscar. Só Lisboa lha poderia entregar, e nem vós nem eu deixaremos que a tome.</p>
@@ -219,7 +216,7 @@
 <p>-- Talvez lho tivessem dado de esmola! -- lembrou uma tecedeira da Corredoura.</p>
 <p>-- Hum -- objetou a tia Lourença -- A pele branca e assim fina, que nem as toalhas dos altares, condiz bem com esta esfarrapada rica. Esta nunca andou como nós à torreira do sol nem ao vento frio das madrugadas.</p>
 <p>-- Quem será, tia Lourença?</p>
-<p>-- Eu sei lá, mulher! Talvez mal casada com algum desses tredos que se foram para os cães gadelhudos de Castela. Nestes ruins tempos tudo pode ser, mulheres de Deus! Mas aqui a falar é que a gente não a acode. Vamos levá-la daqui. Dou-lhe eu uma cama no meu casinhoto, e ainda lá tenho um naco de pão de bagaço para lhe matar a fome. Talvez tivesse ficado por aí escondida, como outras que eu sei, abandonadas pelos pais e pelos maridos, que foram ao faro dos favores do rei castelão<ref target="#POR0037-nota-12"/><ref target="#POR0037-nota-12"/>.</p>
+<p>-- Eu sei lá, mulher! Talvez mal casada com algum desses tredos que se foram para os cães gadelhudos de Castela. Nestes ruins tempos tudo pode ser, mulheres de Deus! Mas aqui a falar é que a gente não a acode. Vamos levá-la daqui. Dou-lhe eu uma cama no meu casinhoto, e ainda lá tenho um naco de pão de bagaço para lhe matar a fome. Talvez tivesse ficado por aí escondida, como outras que eu sei, abandonadas pelos pais e pelos maridos, que foram ao faro dos favores do rei castelão<ref target="#POR0037-nota-12"/>.</p>
 <p>-- Também eu sei de algumas e bem conheço a toca onde estão metidas!</p>
 <p>-- Aqui, bem perto, sei eu de mãe e filha que vivem escondidas, e essas, minhas queridas, não passam fome! -- disse a tia Lourença, aconchegando para si e friccionando com as suas mãos encortiçadas a testa de neve da pobre mãe desmaiada.</p>
 <p>-- Essas conheço eu bem! -- disse uma velha mendiga -- Olhai, uns passos ali para baixo, além, naquela grande casa, onde ninguém apareceu nem se ergueram as cortinas quando o Mestre passou! Vivem na farturinha e querem lá saber do resto! Ali não entra a fome!</p>
@@ -256,7 +253,7 @@
 <p>-- Mas explicai-me, criaturas, que mulher é esta, e porquê este seu desvario aflitivo?! -- interrogou com estranheza o juvenil companheiro do monge.</p>
 <p>-- Senhor cavaleiro, desculpai-a. Morreu-lhe a filha -- explicou umas das mulheres -- e a pobrezinha tresvariou!</p>
 <p>-- Pois que Deus, Senhor nosso, tenha piedade da sua dor e lhe dê resignação -- disse humildemente o velho peregrino.</p>
-<p>-- Vejo que sois de pobre condição -- acrescentou o cavaleiro, metendo a mão na escarcela<ref target="#POR0037-nota-13"/><ref target="#POR0037-nota-13"/> -- Aqui tendes para ajudarem a pobre mulher.</p>
+<p>-- Vejo que sois de pobre condição -- acrescentou o cavaleiro, metendo a mão na escarcela<ref target="#POR0037-nota-13"/> -- Aqui tendes para ajudarem a pobre mulher.</p>
 <p>E estendeu a mão para uma das que a seguravam. Dava-lhe uma pequena moeda de ouro.</p>
 <p>-- Seja pelo amor de Deus! -- agradeceu a mulher -- e que a nossa Senhora vos dê boa fortuna.</p>
 <p>-- E vo-la conceda também -- respondeu-lhe, seguindo para cima com o peregrino.</p>
@@ -362,10 +359,10 @@
 <p>-- As outras que se lhe seguiram foram cem vezes piores!</p>
 <p>-- Daquela só veio um grande mal, porque de além Minho trouxe el-rei, como seu parcial, a esse cão Galego que se chamava João Fernandes Andeiro.</p>
 <p>-- Que foi a sua e a nossa vergonha por aqueles amores de infâmia...</p>
-<p>-- Com a loba real de cabelos fulvos e olhai enfeitiçador, que era Leonor Teles. Quando eu parti, estava el-rei já com a intenção de quebrar o ajuste do seu casamento com a infanta de Castela, pois já o tinha avassalado a formosa esposa de João Lourenço da Cunha<ref target="#POR0037-nota-14"/><ref target="#POR0037-nota-14"/>.</p>
+<p>-- Com a loba real de cabelos fulvos e olhai enfeitiçador, que era Leonor Teles. Quando eu parti, estava el-rei já com a intenção de quebrar o ajuste do seu casamento com a infanta de Castela, pois já o tinha avassalado a formosa esposa de João Lourenço da Cunha<ref target="#POR0037-nota-14"/>.</p>
 <p>-- Dali veio então a causa de todas as guerras que nos têm afligido! El-rei queria à força casar com ela, sem lhe importar que fosse casada e tivesse o marido vivo. O povo soube do desvario e amotinou-se. Foi então que el-rei fugiu com ela e lá se foi casar para os lados do Porto, em Leça do Bailio; pouco depois do vosso tamanho infortúnio. Mulher de dois maridos! Mas os reis podem muito, e o Santo Padre lá deu por desfeito o casamento com o outro, que fugiu para Castela. Ouvi dizer que por lá andava na corte, com tal descaramento e escárnio da sua própria afronta, que trazia na gorra, em guisa de plumas, duas pontas de ouro.</p>
 <p>-- Que abjeto homem e que pervertidos tempos estes nossos!</p>
-<p>-- O povo sentiu pelo rei a vergonha que ele não sentia! Alvorotou-se Lisboa; mas o que podia o pobre povo, se tantas pessoas da nobreza e tantos prelados se conformavam com aquela rainha sem vergonha? Os mais audazes foram esganados pelas justiças de el-rei e, na cabeça de todos eles, um tal Fernão Vasques, alfaiate que valia tanto como se fosse um destemido cavaleiro! A esse o vi eu a espernear na forca, depois de lhe terem decepado as mãos.<ref target="#POR0037-nota-15"/><ref target="#POR0037-nota-15"/></p>
+<p>-- O povo sentiu pelo rei a vergonha que ele não sentia! Alvorotou-se Lisboa; mas o que podia o pobre povo, se tantas pessoas da nobreza e tantos prelados se conformavam com aquela rainha sem vergonha? Os mais audazes foram esganados pelas justiças de el-rei e, na cabeça de todos eles, um tal Fernão Vasques, alfaiate que valia tanto como se fosse um destemido cavaleiro! A esse o vi eu a espernear na forca, depois de lhe terem decepado as mãos.<ref target="#POR0037-nota-15"/></p>
 <p>-- Ouvi em Inglaterra que o rei Henrique de Castela muito se ofendera pela quebra do ajuste de casamento com a infanta sua filha, que o senhor rei D. Fernando trocara por Leonor Teles...</p>
 <p>-- A Flor de Altura como por cá lhe chamavam na corte, meu senhor.</p>
 <p>-- Flor de perdição para tantos homens e para esta terra é que ela o foi!</p>
@@ -398,7 +395,7 @@
 <p>-- Armou-lhe a intriga, teve quem fosse meter a calúnia nos ouvidos do marido de D. Maria Teles, e D. João lá foi a Coimbra matá-la como um animal!</p>
 <p>Ouvi que lhe retalhara a golpes de adaga aquele seu corpo de neve!</p>
 <p>-- Tempos torpes estes nossos! Da morte do Conde Andeiro soube eu na cidade de Londres.</p>
-<p>-- Tinha de ser, meu senhor. Aquilo era vergonha de fazer corar um judeu! E a cadela coroada cada vez com menos vergonha! Não seria injúria nenhuma se lhe prendessem na coroa o véu açafroado daquelas que não podem viver entre gente honesta<ref target="#POR0037-nota-1"/><ref target="#POR0037-nota-1"/>.</p>
+<p>-- Tinha de ser, meu senhor. Aquilo era vergonha de fazer corar um judeu! E a cadela coroada cada vez com menos vergonha! Não seria injúria nenhuma se lhe prendessem na coroa o véu açafroado daquelas que não podem viver entre gente honesta<ref target="#POR0037-nota-1"/>.</p>
 
 <p>-- O Mestre de Avis matou o Galego com um golpe de adaga. Foi o que eu ouvi em Inglaterra e depois no Porto.</p>
 <p>-- Deu-lhe o golpe depois de o ter levado para o vão de uma janela do paço. Mas quem acabou de matar o Andeiro foi um fidalgo de nome Ruy Pereira, homem de ânimo destemido.</p>
@@ -414,7 +411,7 @@
 <p>-- Fala-se dele em Inglaterra, e muito hoje a ele se referiu o teu amo Ruy.</p>
 <p>-- Vale esse mais, todos o dizem, que três dobros dos outros que são pela rainha criança, esposa do rei castelhano. Senhor Mendo Rodrigues, perdoai- me o desafogo, mas até esses dois, o Mestre e Nuno Álvares, são como se fossem do povo, e o Mestre do povo descende também.</p>
 <p>-- O Mestre por ser filho de Teresa Lourenço; bem sei.</p>
-<p>-- E Nuno Álvares, bastardo como ele, porque a sua mãe Iria Gonçalves, ao que me contaram, se não é bem da gente humilde, muito mais está chegada ao povo que à ilustre nobreza destes reinos. Iria Gonçalves foi cuvilheira<ref target="#POR0037-nota-17"/><ref target="#POR0037-nota-17"/> da senhora infanta, rainha de Castela, ainda esta era pequenina.</p>
+<p>-- E Nuno Álvares, bastardo como ele, porque a sua mãe Iria Gonçalves, ao que me contaram, se não é bem da gente humilde, muito mais está chegada ao povo que à ilustre nobreza destes reinos. Iria Gonçalves foi cuvilheira<ref target="#POR0037-nota-17"/> da senhora infanta, rainha de Castela, ainda esta era pequenina.</p>
 <p>-- Senhor, perdoai! Dais-me confiança de amigo e eu falo-vos com o coração nas mãos. Regala-me ver que os da minha semelhança também servem para opor os embargos do seu sangue a essa herança, que seria a morte de Portugal.</p>
 <p>-- Dizes bem, Gonçalo Vasques. Honrado esse teu orgulho, meu velho!</p>
 <p>-- volveu-lhe o fidalgo, abraçando aquele septuagenário, que o apertava a si numa tremura de comoção.</p>
@@ -457,7 +454,7 @@
 <p>-- Tio, a vossa bênção -- pediu-lhe, beijando-lhe a mão.</p>
 <p>-- Que o Deus dos oprimidos e da suprema justiça te ampare e seja pela sua glória, cavaleiro fidalgo, que tanto esforço deve ao teu nome e tanto tens de pagar à tua terra pelo teu foro de homem leal e para resgate das tamanhas desgraças que outros causaram.</p>
 <p>Abençoou-o com uma grande solenidade religiosa e depois abraçou-o.</p>
-<p>-- Ruy, eu sei que tens sido dos mais esforçados como és dos mais jovens entre quantos são a derradeira esperança de Portugal, homens de prole<ref target="#POR0037-nota-18"/><ref target="#POR0037-nota-18"/> ou homens da plebe, que de uns e outros, da alma e do sangue de todos, carece agora Portugal. Bem hajas, cavaleiro. Bendita seja a tua espada; bendito seja o teu sangue!</p>
+<p>-- Ruy, eu sei que tens sido dos mais esforçados como és dos mais jovens entre quantos são a derradeira esperança de Portugal, homens de prole<ref target="#POR0037-nota-18"/> ou homens da plebe, que de uns e outros, da alma e do sangue de todos, carece agora Portugal. Bem hajas, cavaleiro. Bendita seja a tua espada; bendito seja o teu sangue!</p>
 <p>Numa comoção profunda, Ruy tomou-lhe as mãos febrilmente e beijou-lhas.</p>
 <p>-- Ama e senhora minha -- disse Gonçalo Vasques para D. Dulce, dobrando-se a tremer -- glorioso dia seja este que vai começar, para todos os vossos, para todos os nossos.</p>
 <p>-- Deus vos escute, Gonçalo Vasques.</p>
@@ -477,7 +474,7 @@
 <p>-- Um honrado tanoeiro, de quem certamente já te esqueceste. Aqui veio muitas vezes, e dois anos depois de saíres do reino casou-se e fui eu madrinha da noiva, uma honesta rapariga que se criara em casa da nossa tia D. Úrsula, que Deus tenha consigo.</p>
 <p>-- Não me recordo. É ele então o Juiz do Povo?</p>
 <p>-- É. E o mais que ele tem sido dizei-o vós, Gonçalo Vasques.</p>
-<p>-- Homem de espada, aquele mestre tanoeiro, homem para saber falar ao Povo e ir adiante dele! -- informou o velho com o seu adorável desvanecimento de plebeu -- Quando foi a reunião do povo e de alguns fidalgos no alpendre de S. Domingos, para se decidir se o senhor Mestre de Avis havia de ser ou não nomeado Regedor e Defensor do Reino, isto em Dezembro do ano passado, alguns houve que lhes puseram dúvidas; mas Afonso Eanes falou-lhes claro e forte, de mão na sua espada de mesteiral, e venceu o que ele disse e quis, e o Mestre foi nomeado. Desgostoso pelos poucos fidalgos que estavam com ele e pelos fracos meios que tinham para defender Lisboa, o Mestre chegou a querer ir para Inglaterra, ou fingiu que tal era o seu intento; mas Afonso Eanes tomou-lhe as rédeas do cavalo e disse-lhe resoluto que tal não fazia, porque o povo não queria ser de Castela e só ele devia ser o guia e o chefe do povo. Aquele é bem o Condestável <ref target="#POR0037-nota-21"/><ref target="#POR0037-nota-21"/>do povo.</p>
+<p>-- Homem de espada, aquele mestre tanoeiro, homem para saber falar ao Povo e ir adiante dele! -- informou o velho com o seu adorável desvanecimento de plebeu -- Quando foi a reunião do povo e de alguns fidalgos no alpendre de S. Domingos, para se decidir se o senhor Mestre de Avis havia de ser ou não nomeado Regedor e Defensor do Reino, isto em Dezembro do ano passado, alguns houve que lhes puseram dúvidas; mas Afonso Eanes falou-lhes claro e forte, de mão na sua espada de mesteiral, e venceu o que ele disse e quis, e o Mestre foi nomeado. Desgostoso pelos poucos fidalgos que estavam com ele e pelos fracos meios que tinham para defender Lisboa, o Mestre chegou a querer ir para Inglaterra, ou fingiu que tal era o seu intento; mas Afonso Eanes tomou-lhe as rédeas do cavalo e disse-lhe resoluto que tal não fazia, porque o povo não queria ser de Castela e só ele devia ser o guia e o chefe do povo. Aquele é bem o Condestável <ref target="#POR0037-nota-21"/>do povo.</p>
 <p>-- Entrai, mestre Afonso Eanes -- disse da porta Ruy de Vasconcelos.</p>
 <p>-- Santa madrugada -- disse o Juiz do Povo, entrando enleado, ele que nas praças, à frente das turbas, ou nos alpendres de S. Domingos, falando à sua gente e aos nobres, era homem de resolução desenvolta e sem papas na língua.</p>
 <p>Foi direito a D. Dulce e saudou-a, dobrando-se, a ponteira da sua larga espada a arranhar o ladrilho da sala.</p>
@@ -490,16 +487,16 @@
 <p>-- Senhora, talvez daqui a poucas horas.</p>
 <p>-- Deus seja por nós! -- murmurou D. Dulce, num confrangimento do coração.</p>
 <p>-- Senhor Afonso Eanes, vou pôr a cota e os braçais. Será demora de instantes, e aqui voltarei depressa para ir falar ao Mestre.</p>
-<p>Saiu. Mendo Rodrigues falava baixo com Gonçalo Vasques ao pé de um grande troféu de armas, que tinham sido glorificadas na batalha do Salado<ref target="#POR0037-nota-19"/><ref target="#POR0037-nota-19"/>.</p>
+<p>Saiu. Mendo Rodrigues falava baixo com Gonçalo Vasques ao pé de um grande troféu de armas, que tinham sido glorificadas na batalha do Salado<ref target="#POR0037-nota-19"/>.</p>
 <p>-- Afilhado -- dizia D. Dulce a meia voz para o famoso caudilho da plebe -- o meu dever de mulher Portuguesa, devoção e dever, não me consente mágoas e receios diante daquele filho, que é toda a minha vida; pertence à Nação o seu braço e o seu sangue; mas o meu pobre coração de mãe todo mortifica-se em temores de morte, cada vez que esse jovem temerário se afasta de mim!</p>
 <p>-- Senhora, que remédio! Matar-nos-iam Portugal, se já não houvesse quem por ele desse a vida!</p>
 <p>-- Eu sei, afilhado. Esse é o dever, maior em mim do que em outras mães, a quem não couberam os encargos de família que eu tenho. O avô de Ruy morreu no Salado; o pai, bem o sabeis, há três anos o mataram os Castelhanos na desastrosa batalha naval de Saltes. Mas os meus receios de mãe nunca diante dele os disse. Andam comigo emudecidos. Quando daqui saiu á armada para socorrer o Porto e voltar de lá mais forte de gente e de navios, Ruy ofereceu-se para ir nela, como também sabeis, no intuito de trazer de lá a gente armada da nossa casa e terras de Riba-Douro. Muito louvei o fidalgo- cavaleiro por tal resolução, mas Deus me livre que ele saiba as muitas lágrimas que pela sua causa chorei.</p>
-<p>-- Madrinha e senhora, como não havíeis vós de proceder assim pelo vosso ilustre nome e pelo vosso sangue nobre e leal, se até as mães sem apelidos, esfarrapadas da arraia-miúda,<ref target="#POR0037-nota-20"/><ref target="#POR0037-nota-20"/> têm feito o sacrifício dos seus filhos nesta contenda contra quem nos quer levar a coroa que era dos nossos reis e a bandeira que é de nós todos? Senhora, algumas há que têm perdido todos os seus filhos e vão com os filhos das outras para os muros e torres em guisa de peonagem, para se baterem com os de Castela!</p>
+<p>-- Madrinha e senhora, como não havíeis vós de proceder assim pelo vosso ilustre nome e pelo vosso sangue nobre e leal, se até as mães sem apelidos, esfarrapadas da arraia-miúda,<ref target="#POR0037-nota-20"/> têm feito o sacrifício dos seus filhos nesta contenda contra quem nos quer levar a coroa que era dos nossos reis e a bandeira que é de nós todos? Senhora, algumas há que têm perdido todos os seus filhos e vão com os filhos das outras para os muros e torres em guisa de peonagem, para se baterem com os de Castela!</p>
 <p>-- Podem fazê-lo.</p>
 <p>-- Eu sei, senhora minha. Nas suas condições, os trabalhos endureceram- lhe o ânimo. Ferro que a má sorte malhou a fogo, tomou a rijeza do aço.</p>
 <p>Parece que se lhes mudam em sangue as lágrimas que tinham o direito de chorar! Há três semanas, senhora minha, morreu ao pé de mim, às Portas de Santa Catarina, com o coração trespassado por uma lança castelhana, uma pobre mãe coberta de luto. No começo do cerco mataram-lhe o marido; dois filhos morreram-lhe um mês depois a defender a torre de Álvaro Pais! Andava ralada de mágoas, roída de fome, e ainda teve ânimo para ir combater! Vós, senhora, fazeis sacrifício diferente; mas a verdade é que o fazeis em proveito da nossa causa, ocultando do vosso filho choros e receios que podiam quebrar-lhe o ânimo, e ele é dos mais valorosos e dos que mais valem entre quantos ficaram leais a Portugal.</p>
 <p>-- Muito dado a proezas e sonhos de cavalarias novelescas. Olhai o seu louco desafio ao Condestável de Castela, muito empenho em imitar o jovem Nuno Álvares, e aqui tendes porque eu sinto receios maiores do que outras mães.</p>
-<p>-- Mestre Afonso Eanes, podemos sair -- disse o jovem cavaleiro, entrando de bacinete<ref target="#POR0037-nota-22"/><ref target="#POR0037-nota-22"/> emplumado, cota e braçais.</p>
+<p>-- Mestre Afonso Eanes, podemos sair -- disse o jovem cavaleiro, entrando de bacinete<ref target="#POR0037-nota-22"/> emplumado, cota e braçais.</p>
 <p>Não trazia armadura completa porque só era possível o combate a pé.</p>
 <p>Na cidade tinham morrido de fome, tinham sido abandonados à voracidade dos mendigos, ou posto fora por falta de rações, quase todos os cavalos de luta existentes no princípio do cerco. Lançados para fora dos muros quase todos, logo depois de terem expulsado como bocas inúteis os judeus e as aventureiras de véu açafroado.</p>
 <p>-- Tendes-me à vossa disposição, senhor Ruy de Vasconcelos.</p>
@@ -646,7 +643,7 @@
 <p>Estrondearam gargalhadas com o chiste de farronca e toda a turbamulta começou a descer, cantando.</p>
 <p>-- Vamos lá então -- disse o Juiz do Povo para Ruy de Vasconcelos.</p>
 <p>Subiram à torre. Havia já muitos feridos. Formados, em hoste, os Castelhanos não seriam menos de cinco mil. Choviam os virotes e as pedras. Em carreiras vertiginosas, fantásticas, duzentos cavaleiros de Andaluzia, mouros convertidos e mouros cativos, volteavam como figuras de sonho por diante das muralhas, soltando gritos de desafio e de insulto para os sitiados.</p>
-<p>De um e outro lado, mulheres. Na linha dos postos inimigos, por detrás da hoste, grupos de mulheres, de trajos espaventosos, em cantares e bailados; eram as aventureiras do arraial castelhano, bonejas garridas de Espanha, que acompanhavam o exército e já andavam habituadas à carniçaria dos combates<ref target="#POR0037-nota-23"/><ref target="#POR0037-nota-23"/>.</p>
+<p>De um e outro lado, mulheres. Na linha dos postos inimigos, por detrás da hoste, grupos de mulheres, de trajos espaventosos, em cantares e bailados; eram as aventureiras do arraial castelhano, bonejas garridas de Espanha, que acompanhavam o exército e já andavam habituadas à carniçaria dos combates<ref target="#POR0037-nota-23"/>.</p>
 <p>De cá, nas torres e nas muralhas, mulheres esfarrapadas, velhas e novas na mesma palidez amargurada de famintas, com arregaçadas de pedras que arremessavam febrilmente contra os de Castela, não a cantarem as trovas sensuais das outras de Espanha, fartas de vinho e de viandas; mas entoando as grosseiras canções da revolta, numa rouquidão de fraqueza e num timbre em que se percebiam vibrações de dor.</p>
 <p>-- Está visto que é um ataque de fingimento -- disse Ruy para o Juiz do Povo -- Reparai. Daqui se distinguem bem. Naquela hoste que é já numerosa à vista da escassa gente de guerra que nós cá temos, apenas dois: ou três pendões da nobreza e um da ordem de Calatrava. O mais, peonagem para ir entretendo a escaramuça com os virotes e a sua algazarra. Fora intento de el- rei de Castela dar investida formal por este lado, e certo veríamos ali a flor da sua cavalaria da velha Castela, de Leão e Navarra com os campeadores aventureiros de Gasconha e do Bearne. Mas não nos enganamos. Isto não passa de algazarra para nos sobressaltar os ânimos e dividir as forças.</p>
 <p>De repente, um grande rumor de vozes na torre e o ruído de muita gente que subia.</p>
@@ -657,7 +654,7 @@
 <p>Fizeram-lhe uma ovação as outras mulheres que já estavam na torre, umas oito ou dez.</p>
 <p>-- Viva a tia Lourença!</p>
 <p>-- A marechala das mulheres!</p>
-<p>-- Santo dia, comadres, e boa gana nos dê Deus contra aqueles cães gadelhudos<ref target="#POR0037-nota-23"/><ref target="#POR0037-nota-23"/>.</p>
+<p>-- Santo dia, comadres, e boa gana nos dê Deus contra aqueles cães gadelhudos<ref target="#POR0037-nota-23"/>.</p>
 <p>E acercando-se das ameias com a mão na testa em guisa de pala:</p>
 <p>-- O quê! Só aquilo! Oh, criaturas de Deus, aqueles esbarrondamos nós à pedrada, e podem mandar os homens embora. Que vão ter com o Mestre.</p>
 <p>Apesar da chuva de virotes que vinha das primeiras Filas dos Castelhanos e dos gemidos de dois besteiros que tinham caído varados, os homens de armas riam daquele dizer farronqueiro da tia Lourença.</p>
@@ -670,7 +667,7 @@
 <p>Avançou então mais para os muros a peonagem com os besteiros na frente, como os atiradores modernos.</p>
 <p>E berravam chufas e afrontas para as mulheres.</p>
 <p>-- Ah! Sim! Vá, mulheres, por cada palavrão castelhano um calhau português!</p>
-<p>-- Rameronas chamorras!<ref target="#POR0037-nota-24"/><ref target="#POR0037-nota-24"/> -- gritaram os de lá.</p>
+<p>-- Rameronas chamorras!<ref target="#POR0037-nota-24"/> -- gritaram os de lá.</p>
 <p>-- Aí, vaganaus gadelhudos. Má peste vos mate, que nem os lobos vos queiram roer. Vá vivo, para cima deles! Aí vão as pedras da coroa que vindes buscar.</p>
 <p>Veio então sobre os muros uma chuva de virotes.</p>
 <p>-- Cantai, raparigas! -- gritou a tia Lourença a incitar-lhes o ânimo.</p>
@@ -727,7 +724,7 @@
 <p>-- Vamos.</p>
 <p>Desceram. A multidão das mulheres seguiu atrás deles gritando:</p>
 <p>-- À Ribeira a ter com o Mestre!</p>
-<p>-- Viva o nosso Messias!<ref target="#POR0037-nota-25"/><ref target="#POR0037-nota-25"/></p>
+<p>-- Viva o nosso Messias!<ref target="#POR0037-nota-25"/></p>
 <p>Eram quase 9 horas quando chegaram à Ribeira. A maré enchia. A armada portuguesa vinha já na altura do Rasteio velho.</p>
 <p>Estava a entrar gente de armas nas barcas preparadas para combater; nas galés velhas, que ainda na véspera estavam varadas na praia, e em três ou quatro naus pequenas. A maior e a melhor era uma nau mercante genovesa, que viera ao Tejo carregada de panos ricos e fora embargada para se aproveitar na defensa do rio.</p>
 <p>Destacava-se da grande massa de gente armada a figura singular do Arcebispo D. Lourenço; a espada cingida à batina, aberta até baixo, o roquete por cima da cota de armas, o rútilo bacinete, encimado pela imagem doirada da Virgem.</p>
@@ -787,7 +784,7 @@
 <p>Efetivamente, reconhecida a impossibilidade de navegar no rumo do Rasteio, com o vento forte de revés, o Mestre mandara que a nau fosse posta em árvore seca e com todos os ferros no fundo e que a gente de armas desembarcasse.</p>
 <p>Levou tempo o desembarque. Para dentro da nau, onde duzentas pessoas iriam constrangidas, tinham entrado quatrocentos homens de guerra. Mas é de justiça explicar que não iam no intento de dar batalha a bordo, onde mal poderiam manejar as lanças e as espadas, mas para atracar a algumas naus da armada de socorro e reforçar-lhes as guarnições que vinham incompletas.</p>
 <p>Era uma temeridade de trágico desenlace, à qual o vento providencialmente se opôs. As quarenta naus e dezasseis galés da esquadra castelhana facilmente tornariam desastrosa aquela tentativa planeada com mais arrojo que reflexão.</p>
-<p>-- Uma triste má fortuna! -- dizia baixo o Mestre ao Arcebispo num grupo em que estavam o Juiz do Povo e Ruy de Vasconcelos -- E assim deixamos sem ajudas as nossas dezassete naus contra as quarenta que aí tem el-rei de Castela!<ref target="#POR0037-nota-26"/><ref target="#POR0037-nota-26"/></p>
+<p>-- Uma triste má fortuna! -- dizia baixo o Mestre ao Arcebispo num grupo em que estavam o Juiz do Povo e Ruy de Vasconcelos -- E assim deixamos sem ajudas as nossas dezassete naus contra as quarenta que aí tem el-rei de Castela!<ref target="#POR0037-nota-26"/></p>
 <p>-- E mais as treze galés nossas contra as dezassete dos Castelhanos -- ampliou o Arcebispo.</p>
 <p>-- E o pior será que esmoreçam os dos nossos navios, sem saberem a razão porque lhes falta o auxílio que lhes foi prometido! -- lamentou o Mestre, sacudindo os ombros e avincando o rosto num gesto de desespero.</p>
 <p>-- Mestre e senhor! -- disse Ruy de Vasconcelos -- A remos também se lá pode chegar em qualquer ligeira galeaça. Se me dais licença, buscarei aí oito ou dez galeotes e vou eu dizer à nossa armada por qual motivo lhe falta o auxílio prometido.</p>
@@ -1080,7 +1077,7 @@
 <p>-- Escutai, senhor cavaleiro! -- gritaram de baixo -- Por vossa intenção, o povo perdoará às mulheres do traidor, porém às judias enfeitiçadoras, não.</p>
 <p>-- Não! Não!</p>
 <p>-- Quem perdoa ou deixa de perdoar não sois vós; são as justiças do Mestre e defensor nosso. E quem as defende agora sou eu. Vede se entendeis bem, gente tumultuosa. Eu!</p>
-<p>-- Não as podereis defender sempre -- retorquiu-lhe a padeira, que era a parlamentária da multidão -- Elas pagarão seus malefícios. Assim o há de querer Deus, Senhor Nosso. Esta escrava moura, que fugiu dessa casa sabe bem o que elas fazem, e conta que há aí um caminho debaixo do chão. Vai dar a Vila Nova de Gibraltar e à praia. Por ele poderão entrar os de Castela, guiados pelo tredo rabilongo de D. Judas! <ref target="#POR0037-nota-27"/><ref target="#POR0037-nota-27"/>. Vede o que fazeis, senhor cavaleiro, que nós tudo isto iremos contar ao Mestre!</p>
+<p>-- Não as podereis defender sempre -- retorquiu-lhe a padeira, que era a parlamentária da multidão -- Elas pagarão seus malefícios. Assim o há de querer Deus, Senhor Nosso. Esta escrava moura, que fugiu dessa casa sabe bem o que elas fazem, e conta que há aí um caminho debaixo do chão. Vai dar a Vila Nova de Gibraltar e à praia. Por ele poderão entrar os de Castela, guiados pelo tredo rabilongo de D. Judas! <ref target="#POR0037-nota-27"/>. Vede o que fazeis, senhor cavaleiro, que nós tudo isto iremos contar ao Mestre!</p>
 <p>-- Ide, mas aqui não entrareis. Ide, que também eu direi ao Mestre o vosso intento, e a ele e a vós hei de mostrar que, se não falto aos meus encargos de cavaleiro para defender damas, também sou incapaz de quebrar os meus deveres de Português leal, protegendo traidores. Ide, ou irei eu ensinar-vos o caminho!</p>
 <p>-- Não vos assomeis assim, gavião branco, dentro desse pombal! -- gritou uma regatona.</p>
 <p>-- Senhor, tende cautela! -- pediu-lhe D. Maria de Mendonça.</p>
@@ -1103,7 +1100,7 @@
 <p>-- Percebi que essa escrava era incitadora dos ódios daquela gente. Foi ela quem denunciou que havia nesta casa um caminho oculto.</p>
 <p>-- Há, senhor; nisso não mentiu ela.</p>
 <p>-- Onde vai ter? -- interrogou, sombriamente apreensivo.</p>
-<p>-- Por mim vos não sei dizer, mas ouvi uma vez ao meu marido que ia dar à sinagoga maior de Vila Nova de Gibraltar<ref target="#POR0037-nota-28"/><ref target="#POR0037-nota-28"/>.</p>
+<p>-- Por mim vos não sei dizer, mas ouvi uma vez ao meu marido que ia dar à sinagoga maior de Vila Nova de Gibraltar<ref target="#POR0037-nota-28"/>.</p>
 <p>-- Só aí? Dizei-o francamente, senhora.</p>
 <p>-- Estou a entender que também vós de alguma coisa suspeitais e pareceis arrependido da piedade que tivestes de nós!</p>
 <p>-- Nunca me arrependi de um dever cumprido, e este me não esquecerá nunca -- volveu-lhe, relanceando um olhar acariciador para Madalena -- Mas que este meu auxílio não fique afrontado com a mácula de alguma suspeita, que valeria a maior amargura que eu pudesse ter na minha vida, muito vos rogo me informeis com desassombrada franqueza.</p>
@@ -1484,14 +1481,14 @@
 <p>-- Aqui tendes um jovem de provado ânimo e boa linhagem, que em gentilezas de esforço promete resgatar do seu apelido a má sombra que nele pôs certo parente seu, muito chegado, que por ter errado caminho se afastou da nossa causa. Este se chama Antão Gonçalves de Mendonça.</p>
 <p>Ruy encarou nele duramente e baixou a cabeça com singular frieza. O outro correspondeu-lhe de torvo aspeto, empalidecendo.</p>
 <p>A seguir, o filho de D. Dulce foi falar afetuosamente, a todos os outros, seus conhecidos ou seus amigos.</p>
-<p>-- Assentai-vos, senhores meus -- instou, indicando a todos os escabelos de espalda alta, cobertos de couro cordovês com relevos e pregaria amarela, que estavam em volta de uma longa mesa de cedro -- Não é a mesa, a távola redonda do rei Artur -- acrescentou, sorrindo -- mas estou em crer que sereis vós como os companheiros do cavaleiro do cisne branco<ref target="#POR0037-nota-29"/><ref target="#POR0037-nota-29"/>.</p>
+<p>-- Assentai-vos, senhores meus -- instou, indicando a todos os escabelos de espalda alta, cobertos de couro cordovês com relevos e pregaria amarela, que estavam em volta de uma longa mesa de cedro -- Não é a mesa, a távola redonda do rei Artur -- acrescentou, sorrindo -- mas estou em crer que sereis vós como os companheiros do cavaleiro do cisne branco<ref target="#POR0037-nota-29"/>.</p>
 <p>-- Mas com intentos algo diversos -- acudiu Magriço, muito prazenteiro, sentando-se.</p>
 <p>-- E vós -- volveu-lhe Ruy de Vasconcelos -- valereis por D. Galaaz, embora nenhum profeta e nenhum feiticeiro Merlim vos houvesse anunciado.</p>
 <p>-- Nem ando cercado de anjos como D. Galaaz -- advertiu o Magriço em tom faceto -- certamente parque até destes meus ossos esburgados e áspera cabeladura teriam medo os próprios meninos da celestial família.</p>
 <p>Riram todos do gracejo; todos, não; Antão de Mendonça ficara taciturno.</p>
 <p>-- Mas já estou a adivinhar que esse voto de cavalaria -- disse-lhe Ruy afetuosamente -- será para a conquista de algum santo lugar...</p>
 <p>-- Os santos lugares da nossa terra de Portugal -- interrompeu o Magriço calorosamente.</p>
-<p>-- E em vez do santo e glorioso Graal<ref target="#POR0037-nota-30"/><ref target="#POR0037-nota-30"/>, que D. Galaaz buscava, ele o mais destemido e puro dos cento e cinquenta da Távola Redonda...</p>
+<p>-- E em vez do santo e glorioso Graal<ref target="#POR0037-nota-30"/>, que D. Galaaz buscava, ele o mais destemido e puro dos cento e cinquenta da Távola Redonda...</p>
 <p>-- A nossa bandeira com o seu escudo de castelos, as divinas chagas de Jesus e a grande cruz vermelha da Ordem de Cristo. Para chegar à conta dos cento e cinquenta do rei Artur muitos nos faltam ainda; mas espero em Deus que ainda mais havemos de ter. E agora vos darei informação do nosso voto.</p>
 <p>-- Com grande interesse vos ouvirei.</p>
 <p>-- Ontem nos juntámos os presentes, e, com licença do cabido, perante o altar de S. Jorge, em Santa Maria Maior, ali acordámos em formar uma hoste de cavaleiros jovens que, pela sua fé, pela sua Pátria e pelas suas damas, se obrigassem a lutar na dianteira de todos, para os mais arrojados feitos e para as mais singulares façanhas.</p>
@@ -1499,7 +1496,7 @@
 <p>-- Agora é de nós todos -- respondeu-lhe o Magriço modestamente -- De nós todos porque na alma e no coração de cada um foi o voto acolhido fervorosamente e um por um, sobre a cruz das nossas espadas, devotadamente o jurámos cumpri. Nós tornaremos realidade os rimances de cavalaria, que as nossas mães nos contaram e os troveiros peregrinos andam a exalçar pelo Mundo nos seus cantares. Será Nuno Álvares o nosso Galaaz de sonho e o Mestre de Avis o nosso rei Artur. Não se dirá que só em Inglaterra há grande e gloriosa cavalaria. Aqui a teremos também em prole da nossa gente leal, dos nossos amores pelas damas que nos quiserem, pelas que. Nós sonharmos nossas e até pelas que nos são ou foram esquivas.</p>
 <p>-- Por uma dessas, em mal-aventurados amores, lutarei eu a par dos que mais ousados forem -- interveio Antão Gonçalves de Mendonça, arrebatadamente e talvez com algum clandestino propósito.</p>
 <p>Ruy olhou-o com turbado sobressalto; mas logo se aquietou numa delícia íntima de orgulho. O próprio mal sucedido requestador de Madalena por aquele modo solene confirmava a revelação, momentos antes feita pela filha de Gil de Mendonça.</p>
-<p>-- Dizem que a boa e aventurosa cavalaria está para acabar -- continuou o Magriço -- Estará lá fora, onde começou e teve brilho maior; mas aqui agora começará para outros audaciosos cometimentos. Teremos também o nosso tribunal que decida pleitos de amor e a nossa corte de amores com a rainha da beleza, que por maioria de votos elegermos<ref target="#POR0037-nota-31"/><ref target="#POR0037-nota-31"/>.</p>
+<p>-- Dizem que a boa e aventurosa cavalaria está para acabar -- continuou o Magriço -- Estará lá fora, onde começou e teve brilho maior; mas aqui agora começará para outros audaciosos cometimentos. Teremos também o nosso tribunal que decida pleitos de amor e a nossa corte de amores com a rainha da beleza, que por maioria de votos elegermos<ref target="#POR0037-nota-31"/>.</p>
 <p>-- A rainha das mais lindas -- interveio outra vez Antão de Mendonça -- a conheço eu e, apesar das fundas mágoas que me tem causado, por ela darei meu voto, e mentirá como um cão judeu ou mouro refece quem disser que tal não é.</p>
 <p>Ruy fez um gesto de impaciência, bem que as palavras do primo de Madalena lhe lisonjeassem as vaidades de galã preferido.</p>
 <p>-- Isso não é para agora, Antão de Mendonça! -- observou-lhe o Magriço -- O tribunal de amor que houvermos de formar, recolherá os votos pela rainha das beldades, e das mãos de quem o for, receberemos o pendão com que havemos de combater, pendão verde, como já acordámos; estandarte de jovens enamorados naquela cor em que a esperança de sonhadores suavemente se representa.</p>
@@ -1644,7 +1641,7 @@
 <p>-- Eu velarei pela rainha.</p>
 </div><div type="chapter"><head>CAPÍTULO VII</head>
 <p>UM COMBATE SINGULAR </p>
-<p>O encontro fora aprazado para o alvorecer do dia seguinte, nas terras ermas de Santo Antão, um pouco para os lados da Porta do Jogo da Péla, com a espada de batalha e adaga, até que um dos campeadores ficasse mortalmente ferido. Por armas defensivas somente o bacinete sem viseira descida e sem gorjeira, o loudel<ref target="#POR0037-nota-32"/><ref target="#POR0037-nota-32"/> e os braçais.</p>
+<p>O encontro fora aprazado para o alvorecer do dia seguinte, nas terras ermas de Santo Antão, um pouco para os lados da Porta do Jogo da Péla, com a espada de batalha e adaga, até que um dos campeadores ficasse mortalmente ferido. Por armas defensivas somente o bacinete sem viseira descida e sem gorjeira, o loudel<ref target="#POR0037-nota-32"/> e os braçais.</p>
 <p>Fora isto combinado de tarde no adro da Sé, entre Álvaro Coutinho e outro do grupo dos Namorados, testemunhas e mantenedores por parte de Ruy de Vasconcelos, e dois cavaleiros de prole, escolhidos por Antão de Mendonça para seus apadrinhadores.</p>
 <p>Ruy e as suas testemunhas juntar-se-iam ao pé das hortas de Valverde, logo que fossem duas horas da madrugada.</p>
 <p>Madalena passara o dia numa tortura de alma horrorosa, agravada ainda pelo propósito mortificador de ocultar a D. Dulce o perigo de morte em que estava o filho.</p>
@@ -2099,7 +2096,7 @@
 <p>-- O vosso ânimo o ganhou; agradecereis a quem vos fez valer.</p>
 <p>-- Vós.</p>
 <p>-- Eu quase entrei nisso como Pilatos no Credo.</p>
-<p>-- Estou a perceber como as coisas se passaram. Falastes vós da paga com pedidos de quem pede um alto favor para si. Não nego que o Mestre se inclinasse benevolamente ao meu respeito; mas o que eu sei é que não podia esquecer-se de quem era o homem que lhe fazia o pedido. Quem pôs o Mestre à frente do povo fostes vós e quem levou o povo para uma cega e devota obediência ao Mestre foram as vossas palavras e a resolução do vosso ânimo naquelas cortes do alpendre de S. Domingos, em que houve um só brado poderoso -- o do povo, movido por vós<ref target="#POR0037-nota-33"/><ref target="#POR0037-nota-33"/>.</p>
+<p>-- Estou a perceber como as coisas se passaram. Falastes vós da paga com pedidos de quem pede um alto favor para si. Não nego que o Mestre se inclinasse benevolamente ao meu respeito; mas o que eu sei é que não podia esquecer-se de quem era o homem que lhe fazia o pedido. Quem pôs o Mestre à frente do povo fostes vós e quem levou o povo para uma cega e devota obediência ao Mestre foram as vossas palavras e a resolução do vosso ânimo naquelas cortes do alpendre de S. Domingos, em que houve um só brado poderoso -- o do povo, movido por vós<ref target="#POR0037-nota-33"/>.</p>
 <p>-- Não posso, nem desejo passar de mestre tanoeiro que não quis nem quer ser vassalo de el-rei de Castela. O mais é favor vosso de amigo, que muito vos agradeço.</p>
 <p>-- A revolução fizeste-la vós, condestável do povo, como ele próprio vos chama.</p>
 <p>-- Dizeres de pessoas da minha condição -- volveu-lhe modestamente -- O que importa agora, senhor Ruy de Vasconcelos, é que me digais quando essas damas saem, pois desejo-as acompanhar e dispor as coisas para que fiquem lá defendidas de qualquer arremesso da arraia-miúda.</p>
@@ -2117,7 +2114,7 @@
 <p>-- Como quiserdes, e cada vez mais vossa esta casa.</p>
 <p>-- Senhora, é honra e favor para se não esquecer nunca! Agora, senhor Ruy de Vasconcelos, se fordes ter com o Mestre...</p>
 <p>-- Lá irei dentro em pouco.</p>
-<p>-- Então com ele nos encontraremos e lá me direis a hora a que vão, para eu vos esperar no palácio das Portas da Cruz<ref target="#POR0037-nota-34"/><ref target="#POR0037-nota-34"/>.</p>
+<p>-- Então com ele nos encontraremos e lá me direis a hora a que vão, para eu vos esperar no palácio das Portas da Cruz<ref target="#POR0037-nota-34"/>.</p>
 <p>-- Mãe e senhora, o vosso afilhado tinha tido a intenção de nos acompanhar, mas agora, como sabe que vós ides também...</p>
 <p>-- Pois por eu ir lhe peço que nos acompanhe. Homem assim leal e honrado, será bom que o veja o povo com essas damas e muito me apraz tê-lo ao meu lado. Não tendes porque me agradecer -- disse, voltando-se para ele -- De sangue real é o Mestre e não tem amigo maior do que vós nem quem mais o honre. Demorai-vos um instante, afilhado. Ruy, vai dar-lhe a notícia, e vem cá dizer ao senhor Juiz do Povo a que hora havemos de sair.</p>
 <p>Ruy foi logo para os aposentos de D. Maria de Mendonça. D. Dulce ficou falando com o glorioso mecânico.</p>
@@ -2225,7 +2222,7 @@
 <p>-- Decerto que não -- respondeu Álvaro Coutinho, sorrindo -- Reparai.</p>
 <p>Éramos há quinze dias menos de vinte e já somos quarenta e cinco! E porque as há lindas em todas as comarcas do reino e nós, Portugueses, somos do nosso natural amorosos, aqui tendes, meu querido Ruy, a razão deste meu vaticínio. Daqui a umas semanas teremos o dobro de homens e não haverá sala no paço da nossa rainha em que possamos caber juntos. Vamos lá -- concluiu, pondo-lhe o braço pelo ombro.</p>
 <p>Ruy bateu ao portão do palácio. Vieram logo abrir. Eram esperados. Ao topo da grande escada antiga os águardava D. Maria de Mendonça e lhes deu gentil acolhimento. Ao lado dela Madalena, num enleio adorável, muito afogueada.</p>
-<p>Foram conduzidos para a vasta sala de armas dos Mendonças, antigo salão mouro de janelas estreitas com colunelos floreados, e de silhares altos de preciosos azulejos. Com os rendilhados de pedra amarelecida, em puro estilo árabe, e com os silhares a representarem trechos de Meca de Bagdade, lances da vida de Maomé e combates dos califas gloriosos, contrastavam os troféus de pendões com a cruz de Cristo ou com umas ingénuas imagens de Jesus e da Virgem, e as panóplias de espadas largas e retilíneas, a sobrepujarem altos escudos com grandes cruzes vermelhas e verdes, floreteadas, de antigos freires de Tomar e de Avis<ref target="#POR0037-nota-35"/><ref target="#POR0037-nota-35"/>.</p>
+<p>Foram conduzidos para a vasta sala de armas dos Mendonças, antigo salão mouro de janelas estreitas com colunelos floreados, e de silhares altos de preciosos azulejos. Com os rendilhados de pedra amarelecida, em puro estilo árabe, e com os silhares a representarem trechos de Meca de Bagdade, lances da vida de Maomé e combates dos califas gloriosos, contrastavam os troféus de pendões com a cruz de Cristo ou com umas ingénuas imagens de Jesus e da Virgem, e as panóplias de espadas largas e retilíneas, a sobrepujarem altos escudos com grandes cruzes vermelhas e verdes, floreteadas, de antigos freires de Tomar e de Avis<ref target="#POR0037-nota-35"/>.</p>
 <p>A meio da sala cadeiras largas e altas de cedro com grosseiras esculturas, e a um e a outro lado tamboretes de madeira dourada e estofo desmerecido, de veneranda longevidade.</p>
 <p>D. Maria honrava-os com inexcedível delicadeza.</p>
 <p>Ficaram de pé, apesar de todas os pedidos da dona da casa.</p>
@@ -2245,7 +2242,7 @@
 <p>-- Pois seja a bandeira outra promessa vossa. Fazei de conta que é para outro altar, por outro milagre, e pela santa causa da nossa terra, para voar alto como as nossas almas. E, com os olhos nela, no maior fragor das batalhas, um de nós lerá nas letras que vós lhe bordardes o mais belo e orgulhoso sonho do seu noivado.</p>
 <p>Volveram todos um olhar em busca de Ruy de Vasconcelos, a quem Vasco Eanes chamara a atenção para qualquer rumor estranho por detrás do velho pano marroquino.</p>
 <p>-- Senhor, sim -- respondeu Madalena.</p>
-<p>-- Pois bendita e gloriosa promessa seja então a vossa. Por todos nós, fervorosamente vos agradeço -- disse, beijando-lhe a mão -- Poucas palavras bastam, senhora minha, à volta de certa imagem pequenina da Virgem<ref target="#POR0037-nota-36"/><ref target="#POR0037-nota-36"/>, em pintura de Itália, que eu hei de ter a honra de vos trazer. Estas palavras: Pela nossa terra e pelas nossas damas.</p>
+<p>-- Pois bendita e gloriosa promessa seja então a vossa. Por todos nós, fervorosamente vos agradeço -- disse, beijando-lhe a mão -- Poucas palavras bastam, senhora minha, à volta de certa imagem pequenina da Virgem<ref target="#POR0037-nota-36"/>, em pintura de Itália, que eu hei de ter a honra de vos trazer. Estas palavras: Pela nossa terra e pelas nossas damas.</p>
 <p>-- Em duas semanas, vo-la terei bordada, pois que só essas palavras lhe quereis.</p>
 <p>-- Senhora, Deus vos pague, e que seja para o melhor serviço de Portugal e para a nossa maior glória essa bandeira, que das vossas mãos hemos de receber.</p>
 <p>E todos, entusiasticamente, lhe foram agradecer a gentileza.</p>
@@ -2295,7 +2292,7 @@
 <p>-- Uma horrorosa miséria, que nos vencerá primeiro que a hoste de Castela, se Deus não tiver dó de nós!</p>
 <p>-- Talvez não tenha, que ainda temos cá ciganagem de má consciência e pior coração! Mas o que o frade soube vem de má fonte empeçonhada e seria uma imprudência entender as coisas à letra e tomar já à conta de verdades seguras umas suspeitas que saíram daquela boca sem escrúpulos É dever estar acautelado contra os mais estranhos casos, sem divulgar pela gente miúda, que em tudo crê, boatos que podem ser calúnias. Um deles, não -- acudiu com turbada veemência -- Nesse acredito eu piamente, que tudo posso e devo acreditar de mais perverso e de mais torpe ambição, por parte dessa que foi rainha e boneja, vergonha de todas as esposas.</p>
 <p>-- Leonor Teles.</p>
-<p>-- Não tinhas que errar. Sei agora quanto ela tem feito depois que daqui me afastei. Chamou o genro no seu auxílio contra a revolução do povo, chamou-o para invadirem Portugal, a terra onde a loba nasceu, mas logo se desaveio com ele e com a filha, como era de esperar; procurou então parciais com as suas torpes blandícias de Messalina e conspirou contra Castela como conspirou contra Portugal. Cansou-se de tanta perfídia o real invasor, seu genro, e afinal a mandou prender e levar para Castela<ref target="#POR0037-nota-37"/><ref target="#POR0037-nota-37"/>.</p>
+<p>-- Não tinhas que errar. Sei agora quanto ela tem feito depois que daqui me afastei. Chamou o genro no seu auxílio contra a revolução do povo, chamou-o para invadirem Portugal, a terra onde a loba nasceu, mas logo se desaveio com ele e com a filha, como era de esperar; procurou então parciais com as suas torpes blandícias de Messalina e conspirou contra Castela como conspirou contra Portugal. Cansou-se de tanta perfídia o real invasor, seu genro, e afinal a mandou prender e levar para Castela<ref target="#POR0037-nota-37"/>.</p>
 <p>Está lá encerrada em não sei que mosteiro de monjas, e de lá mesmo irá tramando a ocultas. É o primeiro marido quem o diz, o primeiro e o mais digno dela! Se puder, fugirá para vir entregar-se ao primeiro aventureiro que se ponha ao serviço das suas ambições. Virá para tentar o Mestre, que foi um dos iludidos que ela ia enfeitiçando.</p>
 <p>-- Como quis enfeitiçar Nuno Álvares, pajem e escudeiro seu de austera honestidade.</p>
 <p>-- Como enfeitiçou outros -- acudiu Mendo Rodrigues amargamente -- outros que tinham obrigação de conhecer o Mundo e por ela se perderam!</p>
@@ -2313,12 +2310,12 @@
 <p>-- Pessoa muito chegada ao Mestre, e a quem eu possa falar abertamente em tal assunto, só de uma sei.</p>
 <p>-- Qual?</p>
 <p>-- Afonso Eanes.</p>
-<p>-- O Juiz do Povo, o glorioso tanoeiro, como tu dizes?! Está bem. Seja esse. Mas repara então. Eu não quero sobre mim nem a sombra de uma suspeita de denunciante. Não se fala em João Lourenço da Cunha. Desconfia- se, há rumores de que alguma traição se esteja urdindo dentro da cidade. Mais nada. O Mestre que esteja precavido e ponha em gente de provada lealdade o encargo das roídas e sobre-roldas<ref target="#POR0037-nota-38"/><ref target="#POR0037-nota-38"/>. E vós, os rapazes da companhia dos Namorados, começai a cumprir o vosso voto, vigiando de dia e de noite os muros e as portas da cidade, como coisa vossa de segredo.</p>
+<p>-- O Juiz do Povo, o glorioso tanoeiro, como tu dizes?! Está bem. Seja esse. Mas repara então. Eu não quero sobre mim nem a sombra de uma suspeita de denunciante. Não se fala em João Lourenço da Cunha. Desconfia- se, há rumores de que alguma traição se esteja urdindo dentro da cidade. Mais nada. O Mestre que esteja precavido e ponha em gente de provada lealdade o encargo das roídas e sobre-roldas<ref target="#POR0037-nota-38"/>. E vós, os rapazes da companhia dos Namorados, começai a cumprir o vosso voto, vigiando de dia e de noite os muros e as portas da cidade, como coisa vossa de segredo.</p>
 <p>-- Tio e senhor, isso hemos de fazer devotadamente.</p>
 <p>-- Entretanto, eu levarei o carmelita, meu amigo, a sondar bem João Lourenço da Cunha e a instigá-lo a ir declarar abertamente ao Mestre quanto sabe de perigo para Lisboa e para a causa de Portugal. Vai falar quanto antes a Afonso Eanes.</p>
 <p>-- Sem nenhuma demora, pois daqui vou já a casa dele.</p>
 <p>O Mestre foi avisado pelo tanoeiro, naqueles termos vagos que já conhecemos.</p>
-<p>Quase duas semanas depois, um jovem cavaleiro, Ruy Freire, pôde saber alguns pormenores do trama traiçoeiro e foi dizê-los ao Mestre, de quem era dileto, por ser filho de D. Nuno Freire, que teve o mestrado da Ordem de Cristo e fora aio daquele bastardo de D. Pedro I e de Teresa Lourenço, ao tempo em que ele era criança.<ref target="#POR0037-nota-39"/><ref target="#POR0037-nota-39"/></p>
+<p>Quase duas semanas depois, um jovem cavaleiro, Ruy Freire, pôde saber alguns pormenores do trama traiçoeiro e foi dizê-los ao Mestre, de quem era dileto, por ser filho de D. Nuno Freire, que teve o mestrado da Ordem de Cristo e fora aio daquele bastardo de D. Pedro I e de Teresa Lourenço, ao tempo em que ele era criança.<ref target="#POR0037-nota-39"/></p>
 <p>***</p>
 <p>No dia 14 de Agosto de manhã, Ruy de Vasconcelos avisou Álvaro Coutinho de que a bandeira dos Namorados tinha já concluídos os seus dizeres em letras de fio de ouro.</p>
 <p>Foi uma notícia de grande alvoroço para os rapazes, e logo se combinaram para irem receber a bandeira, todos reunidos solenemente por volta da tarde.</p>
@@ -2702,7 +2699,7 @@
 <p>-- Deus vá contigo -- disse sumidamente.</p>
 <p>Não chegou a durar oito minutos o ofuscamento da luz solar, mas a penumbra, que para os olhos dos espavoridos parecia ter negrumes de noite caliginosa, essa durou um pouco mais, por causa do fenómeno a que os modernos astrónomos dão o nome de sombras ondulantes.</p>
 <p>O Mestre começou a sua tarefa de apaziguador de ânimos, mal que transpôs a porta do palácio de D. Dulce.</p>
-<p>-- Gentes, escutai! -- ia gritando à turbamulta -- Castigo de Deus será esta escuridade, não para nós, mas para os cercadores de Castela, católicos cismáticos do antipapa de Avinhão<ref target="#POR0037-nota-40"/><ref target="#POR0037-nota-40"/>.</p>
+<p>-- Gentes, escutai! -- ia gritando à turbamulta -- Castigo de Deus será esta escuridade, não para nós, mas para os cercadores de Castela, católicos cismáticos do antipapa de Avinhão<ref target="#POR0037-nota-40"/>.</p>
 <p>E assim, como astuto político, ia aproveitando a oportunidade de robustecer a coragem e o sentimento patriótico do povo, deixando-lhe entrever que a proteção divina favorecia a causa de Portugal.</p>
 <p>-- Senhor, o sol foge-nos como os tredos têm fugido! -- volveu-lhe chorosa uma esfarrapada com o filhito ao colo, louco de medo.</p>
 <p>-- Mulher, também lhes fugiu a eles, também se enegreceu para eles com dobrado castigo, pois que, vai em dois meses, lá têm a peste negra a matar- lhes a melhor gente.</p>
@@ -2720,7 +2717,7 @@
 <p>Lembrara-lhe que dos Castelhanos alguns de mais ousadia e menos crendice poderiam aproveitar a consternação da cidade para uma investida de surpresa.</p>
 <p>As suas arremetidas eram mais frequentes por aquele lado da linha de fortificações.</p>
 <p>Entretanto, o astrólogo, de guedelhas sobre os ombros, contra o uso em Portugal, e garnacha preta cingida ao seu corpo alquebrado de velho, explicava com largos gestos qual sentido devia dar-se àquele anúncio do céu.</p>
-<p>-- Este sol que está no signo de Léo e foi criz<ref target="#POR0037-nota-41"/><ref target="#POR0037-nota-41"/> ao pino do meio-dia, perdendo a sua clara luz vem a significar grande mortandade no povo de Castela.</p>
+<p>-- Este sol que está no signo de Léo e foi criz<ref target="#POR0037-nota-41"/> ao pino do meio-dia, perdendo a sua clara luz vem a significar grande mortandade no povo de Castela.</p>
 <p>Desta vez ouviu bem o povo. O sol reaparecia numa aleluia de ouro.</p>
 <p>-- Pois que Deus mande o castigo para esses que aí estão a cercar-nos com o fito de nos roubar a terra que é nossa -- gritou a tia Lourença -- Portugal dos Portugueses, e nunca do rei castelão!</p>
 <p>-- Por Deus, nunca! -- bradaram milhares de vozes na vibração de uma só alma.</p>
@@ -2833,7 +2830,7 @@
 <p>-- Depois? Vamos!</p>
 <p>-- Senti uns passos vagarosos, assim como de quem não tinha medo, e umas vozes que vinham daquela grande sala onde estão armaduras!</p>
 <p>-- A sala de armas. E as senhoras?</p>
-<p>-- Aquela sala faz pavor, fugi então pelo corredor fora, a apalpar as paredes, a gritar, numa loucura de medo, e foi então que de todo me perdi das senhoras!<ref target="#POR0037-nota-42"/><ref target="#POR0037-nota-42"/>.</p>
+<p>-- Aquela sala faz pavor, fugi então pelo corredor fora, a apalpar as paredes, a gritar, numa loucura de medo, e foi então que de todo me perdi das senhoras!<ref target="#POR0037-nota-42"/>.</p>
 <p>Mas António Mendes -- disse, apontando o criado antigo -- contou que ouviu aqui um grito abafado, que lhe pareceu ser da Menina, e logo uma restolhada de passos na dita sala.</p>
 <p>-- É verdade isto? -- perguntou o Vasconcelos ao velho criado.</p>
 <p>-- É, meu senhor!</p>
@@ -2971,7 +2968,7 @@
 <p>-- Era de Madalena. Trazia-o sempre. Muitas vezes lho vi. Mas podia ter caído e quebrar-se casualmente.</p>
 <p>-- Dizeis bem, senhora, e assim teria sido, se outros indícios se não houvessem encontrado.</p>
 <p>-- Quais?!</p>
-<p>-- Bordaduras esfrangalhadas de um vestido de dama, bordaduras<ref target="#POR0037-nota-43"/><ref target="#POR0037-nota-43"/> com umas nódoas de sangue, bem vivas ainda, e no chão fundas pegadas de uns chapins pequeninos de senhora, sem dúvida nenhuma, mas a indicarem que procurara resistir para que dali não a levassem. E em frente das pegadas dos chapins outras grandes de homens, que se houvessem firmado bem no chão para arrastar alguém consigo.</p>
+<p>-- Bordaduras esfrangalhadas de um vestido de dama, bordaduras<ref target="#POR0037-nota-43"/> com umas nódoas de sangue, bem vivas ainda, e no chão fundas pegadas de uns chapins pequeninos de senhora, sem dúvida nenhuma, mas a indicarem que procurara resistir para que dali não a levassem. E em frente das pegadas dos chapins outras grandes de homens, que se houvessem firmado bem no chão para arrastar alguém consigo.</p>
 <p>-- E chegaram à boca desse caminho escondido, sem ninguém ter dado por eles?!</p>
 <p>-- Três ou quatro homens facilmente se disfarçavam e metiam num batel, talvez já ontem à noite. O sítio é ermo e não estava guardado. Só muito para cá é que estão as nossas galés, e essas varadas na praia.</p>
 <p>-- Suposições, somente suposições! Só o que não é suposição, Deus da minha alma, é que me desvairaram o filho e agora mo perderam!</p>
@@ -3155,7 +3152,7 @@
 <p>-- Mestre Afonso Eanes -- chamou Ruy.</p>
 <p>-- Dizei.</p>
 <p>-- Dai a essa benfazeja criatura -- segredou-lhe -- estas moedas para quanto ela carecer e for possível comprar nesta pobre cidade faminta.</p>
-<p>E pôs-lhe na mão três dobras pé-terra<ref target="#POR0037-nota-44"/><ref target="#POR0037-nota-44"/> e alguns reais brancos.<ref target="#POR0037-nota-45"/><ref target="#POR0037-nota-45"/></p>
+<p>E pôs-lhe na mão três dobras pé-terra e alguns reais brancos.<ref target="#POR0037-nota-45"/></p>
 <p>-- De minha casa lhe mandarei tudo o que for possível e, entretanto, procuraremos nós, para ela e para a sua protetora, outro melhor abrigo.</p>
 <p>-- Está encontrado -- volveu-lhe o tanoeiro consoladoramente -- Na minha casa será, se quiserdes.</p>
 <p>-- Grande coração o vosso, meu honrado amigo! -- disse-lhe, abraçando- o.</p>
@@ -3198,7 +3195,7 @@
 <p>-- Em minha casa ninguém lhe falará em tal.</p>
 <p>-- E fez-me muitas perguntas a respeito... Daquele jovem cavaleiro que veio aqui.</p>
 <p>-- E olhai cá, já está erguida?</p>
-<p>-- Vestida com os seus trapos de seda e a dormitar em cima do almadraque<ref target="#POR0037-nota-46"/><ref target="#POR0037-nota-46"/> de estopa, que foi a coisa melhor que eu tive para lhe dar.</p>
+<p>-- Vestida com os seus trapos de seda e a dormitar em cima do almadraque<ref target="#POR0037-nota-46"/> de estopa, que foi a coisa melhor que eu tive para lhe dar.</p>
 <p>-- Pois vamos então lá dentro buscá-la.</p>
 <p>Mas não foi, porque o surpreendeu a gritaria dos mareantes e galeotes da Ribeira.</p>
 <p>E logo na ruazita próxima uns alvissareiros correndo, nuns clamores de alarme:</p>
@@ -3467,7 +3464,7 @@
 <p>Encontraram alguns pães duros e celhas de peixe salgado. Mas outra coisa acharam, que foi de jubilosa surpresa. Em ferros, no fundo do porão, foram dar com alguns portugueses, prisioneiros do combate de Sortelha e entre os papéis dos Castelhanos se lhes depararam várias cartas de Sevilha para alguns dos tripulantes.</p>
 <p>Leu-as um frade dominicano que entrara com elas. Em Castela contava-se com a tomada de Lisboa como coisa segura e até se faziam encomendas e pedidos aos supostos triunfadores.</p>
 <p>Um desses pedidos levantou clamores de indignação e protestos frementes.</p>
-<p>Pediam algumas pessoas de Sevilha que lhes levassem “jovens chamorras que eram boas servidoras” <ref target="#POR0037-nota-48"/><ref target="#POR0037-nota-48"/>.</p>
+<p>Pediam algumas pessoas de Sevilha que lhes levassem “jovens chamorras que eram boas servidoras” <ref target="#POR0037-nota-48"/>.</p>
 <p>Assim como quem dissesse raparigas da terra dos chamorros para serem lá criadas e serviçais, como cativas, como escravas brancas de baixo preço.</p>
 <p>-- Ora os farfantões! -- comentava uma das mais loquazes -- Pois deixai estar, que nós, as chamorras, vos iremos servindo de avença, a sacudir o pó aos vossos namorados e aos vossos maridos. Até essas delambidas de lá queriam servas de Lisboa! Pois lá tereis notícia da barreia que nós demos hoje à vossa gente. E há de querer Deus que não seja a última, pois que têm bom pulso os servidores de cá!</p>
 <p>Riram as outras do gracejo e o frade, já filado a um soberbo naco de presunto andaluz, o melhor troféu dos despojos inimigos, sorria das indignações daquelas filhas de Eva, que por momentos tinham esquecido a fome para ouvir o que as cartas diziam.</p>
@@ -3925,11 +3922,11 @@
 <p>Mas foi preciso parar porque Madalena desmaiara.</p>
 <p>Pelo caminho, atravancado de liteiras, os cavaleiros só podiam avançar a um de fundo.</p>
 <p>Os dois da frente, Gascões de soberbo aspeto, gritaram uma bravata atroadora, e logo o primeiro enrista a lança contra Vasco Eanes. O outro procurava ladear por entre duas liteiras para investir de flanco ou pelas costas o possante guerreiro que lhes fazia rosto.</p>
-<p>-- Eh! Bragantão<ref target="#POR0037-nota-49"/><ref target="#POR0037-nota-49"/> de Gasconha, que tens homem para ti! -- clamou-lhe Vasco Eanes, opondo ao golpe da lança o arnês que lhe defendia o arcaboiço de atleta.</p>
+<p>-- Eh! Bragantão<ref target="#POR0037-nota-49"/> de Gasconha, que tens homem para ti! -- clamou-lhe Vasco Eanes, opondo ao golpe da lança o arnês que lhe defendia o arcaboiço de atleta.</p>
 <p>Contava com a sua força excecional e com aqueles músculos de ferro, que eram o assombro de todos os seus companheiros.</p>
 <p>A haste da lança do Gascão quebrou-se com a violência do choque. Vasco Eanes aguentara-se, com a perna direita retesada para trás como a servir-lhe de espeque.</p>
 <p>E logo, enquanto o Gascão oscilava na sela, deu um salto para a frente e cravou nos peitos do cavalo a adaga que empunhava na mão esquerda.</p>
-<p>O animal foi a terra arquejante, tocando com a testeira de ferro<ref target="#POR0037-nota-50"/><ref target="#POR0037-nota-50"/> no peito de Vasco Eanes.</p>
+<p>O animal foi a terra arquejante, tocando com a testeira de ferro<ref target="#POR0037-nota-50"/> no peito de Vasco Eanes.</p>
 <p>-- Gascão, a pé como eu!</p>
 <p>Ladeou pela esquerda e foi para o cavaleiro derrubado. Na precipitação de se destribar, por tal modo o Gascão se desequilibrou, que foi abaixo para o mesmo lado em que o cavalo caiu, ficando debaixo dele, numa agonia lancinante.</p>
 <p>-- Agora outro! -- gritou o jovem algarvio.</p>
@@ -3997,7 +3994,7 @@
 <p>-- Para o hospital -- disse Vasco Eanes -- ou para casa da mãe é que nós o devemos levar!</p>
 <p>E logo muito baixo:</p>
 <p>-- Cuidado quando ele voltar a si. Não lhe digais de chofre que levaram Madalena. Avisai em segredo esses que o trazem. Pudesse eu ter visto que as levavam, e de bom grado as defenderia, ainda que a vida me ficasse lá.</p>
-<p>-- Meu Deus! -- disse baixo para o outro, Gil Eanes da Costa, indicando o Vasconcelos -- Se o virote que o feriu estaria ervado?!<ref target="#POR0037-nota-51"/><ref target="#POR0037-nota-51"/></p>
+<p>-- Meu Deus! -- disse baixo para o outro, Gil Eanes da Costa, indicando o Vasconcelos -- Se o virote que o feriu estaria ervado?!<ref target="#POR0037-nota-51"/></p>
 <p>Ruy deu sinal de si, descerrou os olhos lentamente, e murmurou um nome, que por duas vezes foi truncado por golfadas de sangue.</p>
 <p>-- Madalena! -- disse a dizer mais claramente.</p>
 <p>-- Ide tranquilo disse-lhe, carinhosamente, um deles -- Aqui vos levam os vossos companheiros, como irmãos vossos.</p>
@@ -4006,7 +4003,7 @@
 <p>Tardia precaução; ninguém tinham encontrado.</p>
 <p>Era lenta a marcha. Na frente, o préstito de Castela maiores vagares impunha naquela retirada.</p>
 <p>O sol, já por cima das montanhas, tinha fulgores de apoteose que se espelhavam nas armadura magníficas dos grandes de Castela e dos fidalgos de aventura da Gasconha e do Bearne.</p>
-<p>Iam acabrunhados os soberbos invasores e, mais talvez do que nenhum, porque era um doente, aquele poderoso rei das Espanhas<ref target="#POR0037-nota-52"/><ref target="#POR0037-nota-52"/>.</p>
+<p>Iam acabrunhados os soberbos invasores e, mais talvez do que nenhum, porque era um doente, aquele poderoso rei das Espanhas<ref target="#POR0037-nota-52"/>.</p>
 <p>E quando, num alteamento da estrada a colear o dorso de uma colina, mal se viam já as torres da cidade a esfumar-se no horizonte, el-rei sofreou o seu soberbo alazão de jaezes rutilantes e, voltando-se para o lado da insubmissa capital do país que julgava seu, disse num gesto teatral, erguida no ar a destra ameaçadora, os olhos rasos de lágrimas:</p>
 <p>-- Lisboa, tanta graça me faça Deus, que ainda te eu veja lavrada do ferro dos arados!</p>
 </div><div type="chapter"><head>CAPÍTULO XVII</head>
@@ -4191,7 +4188,7 @@
 <p>-- E mais do lado do pai, que não podia ser casado.</p>
 <p>-- Deixai lá, que temos aí um par de bastardos, que valem a olhos fechados metade de Portugal. O senhor Mestre e o senhor Nuno Álvares! E as mães de um e de outro muito pendem cá para a nossa condição -- disse uma padeira, batendo com as mãos espalmadas no peito, orgulhosamente.</p>
 <p>-- Mas deixai lá contar o resto -- interrompeu um mesteiral.</p>
-<p>-- Dizei o resto -- pediu um alfageme velho.<ref target="#POR0037-nota-53"/><ref target="#POR0037-nota-53"/></p>
+<p>-- Dizei o resto -- pediu um alfageme velho.<ref target="#POR0037-nota-53"/></p>
 <p>-- O mais foi que, nem eu sei porquê, toda aquela fidalgaria se encolheu, a fingir que não entendia o desafio! -- continuou o narrador -- Ficaram todos de pé, assim a modos pasmados daquele ousio. A pobre Iria Gonçalves deu um grito de pavor no receio de que logo ali lhe matassem o filho; e o Mestre, que lá estava também, ainda chegou a dizer numa tremura de voz: Nuno Álvares! Mas ele ia já a sair e então se voltou de arremesso para os fidalgos jovens de Castela: «Quem do meu feito se haja por ofendido, a mim me encontrará daqui fora, e quem eu sou o sabeis todos vós». E saiu. El-rei estava enfiado; a real comborça parecia de cera, mas os seus olhos deitavam lume. Só a infanta menina que ia ser rainha parecia estar num sonho, alheia a tudo aquilo, com o choro a luzir-lhe nos olhos, tristes como a noite. Foi o rei castelão quem primeiro deu desculpa a Nuno Álvares, considerando aquele feito como sinal de desvairo ou ciúme do jovem cavaleiro por alguns dos de Castela.</p>
 <p>-- Boas engolideiras tem o rei castelão -- comentou um dos ouvintes -- que de tal guisa desculpou o caso!</p>
 <p>-- E o banquete lá foi por diante, ledo e farto, bem falazado, e bem comido.</p>
@@ -4323,7 +4320,7 @@
 <p>-- Sim, sim... Águas passadas, mestre Afonso Eanes. Ide-me vós lá para S.</p>
 <p>Domingos a receber o povo como seu juiz e dizei-lhe agora que sou eu quem o vai visitar e lhe quer dizer quanto lhe deve o Regedor do Reino e o mais que ainda será preciso fazer para ver se, com a ajuda de Deus, podemos salvar Portugal. Ide, que lá naquele alpendre onde as mores causas se têm decidido, sois vós o maior.</p>
 <p>E, voltado para Nuno Álvares, acrescentou, sorrindo:</p>
-<p>-- Já o povo lhe tem chamado o seu condestabre<ref target="#POR0037-nota-55"/><ref target="#POR0037-nota-55"/>.</p>
+<p>-- Já o povo lhe tem chamado o seu condestabre<ref target="#POR0037-nota-55"/>.</p>
 <p>Um dia, que não tardará, haveremos outro novo Condestável para o Reino, jovem glorioso que todos conhecem. Ia jurar que o nosso Juiz do Povo certo adivinhou já quem há de ser.</p>
 <p>-- Mestre e senhor, nem é preciso adivinhar. Está no vosso e no coração de todos. Para o mando, abaixo de vós -- disse calorosamente -- a Nação não vê outro que não seja o senhor D. Nuno Álvares Pereira, Conde de Ourém.</p>
 <p>O tanoeiro dissera isto solenemente, tratando o jovem campeador por um título que o povo ainda se não costumara a dar-lhe. Era título recente. O Mestre agraciara-o com ele em 1 de Julho, daquele ano, em prémio dos seus assinalados feitos nas longas e porfiadas campanhas do Alentejo e com o título lhe dera os bens que tinham sido do amante e valido de D. Leonor Teles, o famoso Galego João Fernandes Andeiro, assassinado no desvão de uma janela daquele mesmo paço do Limoeiro.</p>
@@ -4338,7 +4335,7 @@
 <p>-- ia o tanoeiro dizendo de si para si a caminho do Rossio grande, o olhar num imenso fulgor de júbilo -- Que pesar por aquele desventurado Ruy não poder assistir! O seu coração entenderia o meu.</p>
 <p>Assim que chegou ao Rossio, tomou logo apressadamente para o edifício próprio que tinham os seus colegas da Casa dos Vinte e Quatro.</p>
 <p>A casa daqueles deputados, artífices eleitos pelos seus pares, era de modestíssimo aspeto e ficava do lado oriental do Rossio, a uma dúzia de passos, a bem dizer, do convento de S. Domingos.</p>
-<p>A mediania da casa contrastava profundamente com a alta preponderância social da corporação<ref target="#POR0037-nota-56"/><ref target="#POR0037-nota-56"/>.</p>
+<p>A mediania da casa contrastava profundamente com a alta preponderância social da corporação<ref target="#POR0037-nota-56"/>.</p>
 <p>Afonso Eanes entrou e subiu para a casa maior, a sala do conselho. Estavam reunidos os mecânicos; esperavam-no evidentemente.</p>
 <p>-- E daí, mestre Afonso Eanes? -- perguntou o mais idoso, calafate da Ribeira -- Vamos lá ao Mestre?</p>
 <p>-- Não; vem ele cá.</p>
@@ -4352,7 +4349,7 @@
 <p>-- Pois assim será -- apoiou o mestre Leonardo.</p>
 <p>-- Homens, olhai que o povo tem subido! Já não vai atrás de prelados e ricos-homens como rebanhos de borregos, nem é já pertença de gente privilegiada, dentro do seu pedaço de chão cativo, como foi no tempo dos nossos primeiros reis. Em tudo alguém. Outro poder com o qual há duzentos anos certo se não contava. Ganhou-se à custa de resignação, de sacrifícios, de amarguras, de contendas, de sangue; mas foram os nossos maiores que ajudaram também a formar a Nação e obtiveram dos reis os forais dos concelhos e, pela sua valia, a entrada dos seus procuradores em cortes.</p>
 <p>Estavam os mesteirais a ouvi-lo numa tremura de comoção. Sentiam na alma as palavras calorosas de sugestivo orgulho e de justiceira verdade, daquele mesteiral glorioso de Lisboa.</p>
-<p>-- Já a gente sabe de quem vem -- continuou Afonso Eanes -- Também somos filhos de algo. O meu terceiro avô, tanoeiro como eu, foi da peonagem de Portugal que pelejou contra a mourama das Espanhas e de Marrocos em certa grande batalha, que se chamou das Navas de Tolosa<ref target="#POR0037-nota-57"/><ref target="#POR0037-nota-57"/>.</p>
+<p>-- Já a gente sabe de quem vem -- continuou Afonso Eanes -- Também somos filhos de algo. O meu terceiro avô, tanoeiro como eu, foi da peonagem de Portugal que pelejou contra a mourama das Espanhas e de Marrocos em certa grande batalha, que se chamou das Navas de Tolosa<ref target="#POR0037-nota-57"/>.</p>
 <p>-- Em socorro de Castela, ouvi eu contar a um frade antigo -- acudiu mestre Leonardo.</p>
 <p>-- De toda a cristandade das Espanhas e de França é que foi, consoante certa velha crónica existente no convento de S. Francisco. Leu-ma um tio meu, que é frade daquela casa. E sabei que, se os fidalgos com razão se ufanam da batalha do Salado, em que os cavaleiros de Portugal se assinalaram, nós, os do povo, muito nos podemos orgulhar da outra de Navas, em que a peonagem portuguesa fez coisas de assombro! Assim o diz a tal crónica velha que eu ouvi ler.</p>
 <p>-- Bem falado, mestre Eanes!</p>
@@ -4501,7 +4498,7 @@
 <p>-- Assim é. Para a vida e para a morte!</p>
 <p>-- É a menagem dos nossos corações!</p>
 <p>-- Mais segura que a outra dos castelos!</p>
-<p>-- Senhor, aqui tendes menagem -- disse o tanoeiro -- como os reis de coroa herdada raras vezes teriam recebido outra igual<ref target="#POR0037-nota-60"/><ref target="#POR0037-nota-60"/>. Para o povo, de hoje em diante, o rei sois vós. Se as cortes outra coisa pudessem votar, o povo seria por vós contra elas.</p>
+<p>-- Senhor, aqui tendes menagem -- disse o tanoeiro -- como os reis de coroa herdada raras vezes teriam recebido outra igual<ref target="#POR0037-nota-60"/>. Para o povo, de hoje em diante, o rei sois vós. Se as cortes outra coisa pudessem votar, o povo seria por vós contra elas.</p>
 <p>-- Quem vos chamou Messias de Lisboa -- gritou alguém -- agora vos chamará rei de Portugal.</p>
 <p>Foi a tia Lourença quem isto clamou e todo o mulherio lhe foi repetindo o dizer freneticamente.</p>
 <p>-- Real, real, pelo Mestre de Avis nosso rei! -- clamaram por ali fora em vibrações atroadoras.</p>
@@ -4583,7 +4580,7 @@
 <p>Tinha sido aquele o dia aprazado para o juramento solene de preito e menagem ao Mestre.</p>
 <p>Quando Mendo Rodrigues, com o seu hábito de monge peregrino, entrou no terreiro do paço de Apar de S. Martinho ou do Limoeiro, estavam já pelo corredores que davam para a antiga sala do trono todos os fidalgos cavaleiros e escudeiros de prole, que lealmente eram pela Nação e tinham residência em Lisboa e o seu termo.</p>
 <p>Todas as províncias ali tinham representantes; uns que antes do cerco tinham acorrido à cidade, outros que tinham vindo da armada do Porto, sendo a maioria destes dos senhores solarengos nas terras de Entre Douro e Minho. E da sua hoste aquartelada em Palmeia mandara vir Nuno Álvares alguns dos principais cavaleiros.</p>
-<p>No topo da escadaria grande tinham ficado os homens bons da cidade, como ainda se dizia. Os da câmara, os da Casa dos Vinte e Quatro e, com as suas altas prerrogativas, o Juiz do Povo, a lembrar um pouco o lord-mayor de Londres, figura primacial do povo, o alto representante da City, quase como um soberano dentro do vetusto paço municipal de Guildhall<ref target="#POR0037-nota-61"/><ref target="#POR0037-nota-61"/>.</p>
+<p>No topo da escadaria grande tinham ficado os homens bons da cidade, como ainda se dizia. Os da câmara, os da Casa dos Vinte e Quatro e, com as suas altas prerrogativas, o Juiz do Povo, a lembrar um pouco o lord-mayor de Londres, figura primacial do povo, o alto representante da City, quase como um soberano dentro do vetusto paço municipal de Guildhall<ref target="#POR0037-nota-61"/>.</p>
 <p>O Paço não estava defeso a ninguém. Mendo Rodrigues subiu e ficou por instantes a falar com Afonso Eanes.</p>
 <p>-- O Mestre já está recebendo as menagens?</p>
 <p>-- Ainda não, venerando monge.</p>
@@ -4622,7 +4619,7 @@
 <p>Pedro, mestre da cavalaria da Ordem de Avis, Defensor e Regedor dos reinos de Portugal e do Algarve. Considerando como a muito nobre cidade de Lisboa é a maior e a mais principal de todos os ditos reinos, e como os moradores dela a defenderam contra el-rei D. Henrique e el-rei D. João de Castela, ao tempo em que as suas frotas e homens de armas vieram sobre ela, e quando D. Leonor, mulher que se dizia de el-rei D. Fernando, a quis sujeitar ao jugo de Castela, assim como a estes reinos; e considerando mais que tudo isto fizeram à custa do seu sangue e haveres e muitos serviços nos têm prestado e prestaram aos reis de quem provimos...».</p>
 <p>Não fatigaremos o leitor com a longa lista dos privilégios e isenções enumerados neste diploma oficial, naquela forma pesada e cheia de fastidiosas repetições, que foram sempre as características desta espécie de documentos.</p>
 <p>Bastará uma breve indicação para se fazer ideia da rede de arrastar que era já o sistema tributário daqueles tempos.</p>
-<p>Ficaram os habitantes de Lisboa, dentro do seu município e em todo o País, com privilégio de isenção dos tributos denominados portagem, usagem, costumagem, alcavala, mealharia, açougagem, relego, jugadas do pão e o vinho, salaio (imposto sobre o pão cozido), lombo (tributo de um lombo por cada porco exposto à venda), Anadava e outros cuja origem e espécie se não podem hoje determinar<ref target="#POR0037-nota-1"/><ref target="#POR0037-nota-1"/>.</p>
+<p>Ficaram os habitantes de Lisboa, dentro do seu município e em todo o País, com privilégio de isenção dos tributos denominados portagem, usagem, costumagem, alcavala, mealharia, açougagem, relego, jugadas do pão e o vinho, salaio (imposto sobre o pão cozido), lombo (tributo de um lombo por cada porco exposto à venda), Anadava e outros cuja origem e espécie se não podem hoje determinar<ref target="#POR0037-nota-1"/>.</p>
 <p>Uma variedade estonteadora com que o pobre povo andava acabrunhado!</p>
 <p>E com estes privilégios de isenção tributária, ainda outros concedia o Mestre à cidade de Lisboa como ampliação dos seus foros e regalias.</p>
 <p>Quando o letrado acabou de ler a carta régia, estavam os mesteirais da Casa dos Vinte e Quatro do povo e o seu Juiz com os olhos rasos de água.</p>
@@ -4641,7 +4638,7 @@
 <p>Dava deste modo uma solução conciliadora e guardava para si o direito e a latitude da execução, conforme a oportunidade das circunstâncias. O homem político superintenderia nas concessões do rei popular, durante os mais belos e gloriosos tempos da democracia que ainda teve Portugal.</p>
 <p>Os mesteirais beijaram-lhe a mão e saíram nuns arrebatamentos de alegria e de legítima vaidade, que mal podiam disfarçar.</p>
 <p>O povo de Portugal levara mais de dois séculos para conquistar, dia a dia, numa lentidão resignada e numa tenacidade inquebrantável, os seus foros municipais e a sua representação em cortes. Embora algumas vezes violenta e de carácter local, esta conquista fora principalmente pacífica, a poder de firmeza e de sagacidade, com uma estratégia admirável dentro de cada concelho, de cada comarca ou no Reino todo, espiando as horas de desfalecimento de qualquer dos três poderes que o avassalavam -- o da coroa, o do clero e o da nobreza -- pondo a sua força como a espada de Brenno na balança das cobiças, das rivalidades e dos ódios que por tantas vezes trouxeram desavindos e em luta esses poderes; comprando a troco de abnegações e de sacrifícios de sangue a concessão de mais algumas linhas nos seus forais e de mais alguns dizeres nos seus privilégios. Assim foi criando o seu direito escrito, as suas imunidades locais e a categoria de terceiro poder do Estado, abaixo do poder real.</p>
-<p>Ninguém hoje pode avaliar bem o drama de desespero e de sofrimentos, de heroicidades e de constância, que simbolizam os brasões das nossas vilas concelhias e os pedaços de pergaminho dos seus remotos forais<ref target="#POR0037-nota-63"/><ref target="#POR0037-nota-63"/>.</p>
+<p>Ninguém hoje pode avaliar bem o drama de desespero e de sofrimentos, de heroicidades e de constância, que simbolizam os brasões das nossas vilas concelhias e os pedaços de pergaminho dos seus remotos forais<ref target="#POR0037-nota-63"/>.</p>
 <p>Pois aquele povo de Lisboa, ao mesmo tempo que defendia a cidade com glória sua e da Pátria, conquistava em meses uma preponderância política e social como nunca tivera e talvez se possa afirmar que nunca mais voltou a ter!</p>
 <p>Mendo Rodrigues entrou na sala mal que os mesteirais saíram. Fez impressão a sua extraordinária figura, que naquele meio parecia antiga.</p>
 <p>-- Mestre e senhor! -- disse gravemente diante de D. João.</p>
@@ -4688,7 +4685,7 @@
 <p>-- Só eu sei quantas vezes maior!</p>
 <p>Já noite cerrada apareceu a tia Lourença para falar ao Gonçalo Yasques. Trazia consigo uma pobre monja daquelas que em certos conventos não tinham votos nem sequer noviciado, porque eram como serventuárias das outras e às vezes saíam da clausura para esmolar por casas honestas, como sucedia, especialmente, nas ordens que tinham voto de pobreza e se denominavam mendicantes.</p>
 <p>Consentiam-lhes o hábito da Ordem, mas não traziam toalha em volta do rosto como as freiras, nem escapulário nas confrarias que o tinham. Algumas, por voto seu de penitência ou por maior recato, usavam uma espécie de bloco da mesma fazenda do hábito, de modo que lhes cingia a cabeça e de tal maneira lhes emoldurava o rosto, que dele apenas se via uma parte entre as sobrancelhas e a boca.</p>
-<p>Para algumas era esta condição de serventuária uma espécie de penitência votiva das muitas que havia naqueles tempos, entre as quais a mais horrorosamente desumana e trágica, sendo ao mesmo tempo a mais imunda, era a das emparedadas<ref target="#POR0037-nota-64"/><ref target="#POR0037-nota-64"/>.</p>
+<p>Para algumas era esta condição de serventuária uma espécie de penitência votiva das muitas que havia naqueles tempos, entre as quais a mais horrorosamente desumana e trágica, sendo ao mesmo tempo a mais imunda, era a das emparedadas<ref target="#POR0037-nota-64"/>.</p>
 <p>O velho Vasques veio à casa de entrada falar com a Lourença. A monja ficou- se afastada deles, timidamente, no recanto de uma janela.</p>
 <p>-- Arranjei o que vós me pedistes.</p>
 <p>-- Sim? Ainda bem!</p>
@@ -4776,7 +4773,7 @@
 <p>-- Mil e duzentos homens.</p>
 <p>-- Bem pouca gente, ainda que todos se pudessem parecer convosco e tivessem bravezas de leões.</p>
 <p>-- Pois sim, mas o Mestre iria também com a sua hoste. O pior será que daqui a dias já seja tarde para uma arrancada bem sucedida.</p>
-<p>-- A mim me disseram que el-rei de Castela teria ainda consigo não menos de três mil lanças, soberbos ginetes e uns doze mil homens de peonagem<ref target="#POR0037-nota-65"/><ref target="#POR0037-nota-65"/>.</p>
+<p>-- A mim me disseram que el-rei de Castela teria ainda consigo não menos de três mil lanças, soberbos ginetes e uns doze mil homens de peonagem<ref target="#POR0037-nota-65"/>.</p>
 <p>-- Bem; seja -- disse Nuno Álvares, erguendo-se -- Quinze mil homens.</p>
 <p>Aí está.</p>
 <p>-- E o Mestre e vós juntamente, quantos podereis levar?</p>
@@ -5117,7 +5114,7 @@
 <p>A 14 de outubro, el-rei de Castela passara a fronteira, entre aquele tresmalhado exército que não pudera tomar Lisboa.</p>
 <p>Com o seu admirável poder evocador, Fernão Lopes dá-nos numa dúzia de linhas, de singelo e dramático esboço, todo o quadro sugestivo daquela retirada.</p>
 <p>Referindo-se à vanguarda dos mortos naquele préstito funerário, escreveu:</p>
-<p>Eles iam todos diante sem mistura de outra gente de armas e cada um levava o seu senhor no seu ataúde coberto de dó, posto em cima de uma azêmola, e ao redor dela todos de pé, vestidos de grande luto, e detrás os de cavalo, que o acompanhavam na vida, com a bandeira das suas armas. Logo outros acerca dele, e assim, iam todos juntos um perante outro, por grande espaço de caminho, a qual procissão era triste e dorida de ver. El-Rei de Castela ia detrás com as suas companhas assaz de bem anojado...» Para lá da fronteira afastaram-se as mesnadas<ref target="#POR0037-nota-66"/><ref target="#POR0037-nota-66"/> e os ataúdes cada uma para as suas terras e cada um para as jazidas das suas capelas solarengas ou das catedrais da sua terra natal.</p>
+<p>Eles iam todos diante sem mistura de outra gente de armas e cada um levava o seu senhor no seu ataúde coberto de dó, posto em cima de uma azêmola, e ao redor dela todos de pé, vestidos de grande luto, e detrás os de cavalo, que o acompanhavam na vida, com a bandeira das suas armas. Logo outros acerca dele, e assim, iam todos juntos um perante outro, por grande espaço de caminho, a qual procissão era triste e dorida de ver. El-Rei de Castela ia detrás com as suas companhas assaz de bem anojado...» Para lá da fronteira afastaram-se as mesnadas<ref target="#POR0037-nota-66"/> e os ataúdes cada uma para as suas terras e cada um para as jazidas das suas capelas solarengas ou das catedrais da sua terra natal.</p>
 <p>De Ciudad Rodrigo, em fins de outubro, escreveu el-rei de Castela uma carta à cidade de Leão, dando-lhe conta do apertado cerco em que tivera Lisboa e das razões porque se vira forçado a levanta-lo.</p>
 <p>Indica-lhe o grande número de vilas e castelos que tem por si em Portugal (nada menos de 71) e pormenoriza que naqueles lugares deixou guarnições castelhanas. Mais de nove mil homens de Castela, afora os parciais portugueses da rainha D. Beatriz.</p>
 <p>Notava-lhe el-rei que, no espaço de oito ou dez léguas em volta de Lisboa, não havia castelo nem vila importante que não fosse por ele, e prometia-lhe que, depois de trocadas as suas tropas e reunidas outras, voltaria a Portugal no próximo verão, para acabar aquela demanda que tinha começado. E com este orgulho otimista se referia à famosa demanda, en la cual, con la merced de Dios, hai muito poco de acabar segun el estado en que queda...</p>
@@ -5126,7 +5123,7 @@
 <p>Lá foram para “rendir gracias à nuestra Senora de haberles librado de la epidemia, y à implorar su protecion para la siguiente conipana.” A 24 o Mestre de Avis fora de arrancada contra a guarnição castelhana do castelo de Sintra; mas a fortaleza, empoleirada em abrutas penedias, não se tomava de arremesso, e o empreendimento malogrou-se.</p>
 <p>Quatro dias depois a esquadra castelhana levantava o bloqueio e desaparecia do Tejo. Era oportunidade favorável para atacar os castelhanos que guarneciam a vila e o castelo de Almada. E com tão boa vontade o aproveitou o Mestre, que a guarnição capitulou.</p>
 <p>Para limpar de invasores as terras vizinhas de Lisboa, partiu o Mestre com outra expedição sobre Alenquer, que também capitulou.</p>
-<p>Veio uma revés parcial ensombra estes cometimentos bem sucedidos. Pondo cerco aos castelhanos que guarneciam Torres Vedras, o mestre da ordem de cristo e o prior da ordem do Hospital<ref target="#POR0037-nota-67"/><ref target="#POR0037-nota-67"/> foram vencidos numa impetuosa sortida dos sitiados e ficaram prisioneiros.</p>
+<p>Veio uma revés parcial ensombra estes cometimentos bem sucedidos. Pondo cerco aos castelhanos que guarneciam Torres Vedras, o mestre da ordem de cristo e o prior da ordem do Hospital<ref target="#POR0037-nota-67"/> foram vencidos numa impetuosa sortida dos sitiados e ficaram prisioneiros.</p>
 <p>Foi então cerca-la D. João I com as maiores forças de que podia dispor.</p>
 <p>Entretanto, passado já a oportunidade de pôr em prática o seu temerário plano de ir ao encontro do exército castelhano em retirada, Nuno Álvares cansara-se de esperar em Palmela que o Mestre chegasse com a gente de armas de Lisboa, e partira com a sua hoste para uma nova campanha no Alentejo. Apoderou-se de Portei e foi cercar Vila Viçosa, que se lhe não rendeu.</p>
 <p>Entrara o ano de 1385. Nuno Álvares viera a Lisboa e fora com um troço de homens de armas ajudar o Mestre no cerco de Torres.</p>
@@ -5164,28 +5161,28 @@
 <p>Foram levar-lhe a notícia oficial da decisão e nesse lance apresentou D. João admiravelmente o seu papel de homem político. Esquivava-se modestamente àquela investidura de tão alto encargo. Com igual dedicação e fervor continuaria a empenhar-se na defesa do reino, simples cavaleiro como até ali -- prometia; pois que, se como chefe tivesse de ficar vencido nalguma decisiva batalha, menor desdouro seria para a nação e de menos alarde para Castela que o fosse na sua qualidade de Mestre de Avis do que levando consigo a coroa de Portugal..</p>
 <p>Alegou os seus votos de cavaleiro professo a impedirem-no de contrair matrimónio como cumpria a um monarca, e aconselhou os delegados das cortes a que pusessem de parte a questão da coroa e deliberassem com urgência no tocante aos recursos extraordinários para manter a guerra.</p>
 <p>Pois tiveram as cortes de lhe vencer os escrúpulos e de instar com ele para aceitar a coroa! Era sem dúvida nenhuma aquele batalhador de vinte sete anos um hábil diplomata e um grande ator de alta comédia política, tão necessária ás vezes nas conjunturas mais trágicas de uma nacionalidade.</p>
-<p>A aclamação fez-se a 6 de abril nos paços da Alcáçova de Coimbra. As cortes votaram o alteamento das sisas para fazer face aos encargos da guerra, e o novo rei atendeu e deu validade aos capítulos<ref target="#POR0037-nota-68"/><ref target="#POR0037-nota-68"/> apresentados pelos procuradores do povo.</p>
+<p>A aclamação fez-se a 6 de abril nos paços da Alcáçova de Coimbra. As cortes votaram o alteamento das sisas para fazer face aos encargos da guerra, e o novo rei atendeu e deu validade aos capítulos<ref target="#POR0037-nota-68"/> apresentados pelos procuradores do povo.</p>
 <p>Os de Lisboa, esses então obtiveram quase tudo quanto pediram, assinalando uma alta preponderância como o terceiro estado nunca até ali tivera.</p>
 <p>Os procuradores da cidade bem sabiam já o muito que podiam esperar da grata e amorável dedicação do novo monarca.</p>
 <p>Logo em 10 de abril se tornara pública uma carta régia, que é bem o mais soberbo e glorioso atestado dos heroicos serviços prestados pela capital e do galardão magnânimo, com que o rei os premiou.</p>
 <p>El-Rei, ouvidas as cortes, da sua própria autoridade, liberdade, livre vontade e poder absoluto, lhe dá, aprova, outorga e confirmo todos os privilégios, liberdades, bons usos, foros e costumes que os seus antecessores lhe tinham concedido e mais as graças, prémios, doações, liberdades e privilégios que os seus procuradores tinham pedido nos capítulos propostos ás cortes.</p>
 <p>Era uma larguíssima ampliação das concessões e doações que tinha feito aos habitantes de Lisboa e o seu termo em 6 de outubro do ano anterior, já por nós resumidas.</p>
 <p>Apontaremos apenas as novas concessões que temos por mais altiva afirmação da soberania popular e das imunidades municipais.</p>
-<p>Dava à cidade, pelas suas autoridades próprias, jurisdição em certos casos, até ali exclusivamente sujeitos à autoridade do almirante ou de capitão-mor das galés. Jurisdição perpétua nos conda dos de Alverca o, Barcarena e nos reguengos.<ref target="#POR0037-nota-58"/><ref target="#POR0037-nota-58"/> Aplicava as isenções e privilégios dos lisbonenses àqueles que tivessem vindo para defesa da cidade e nela fixaram moradia. Para eles e os seus descendentes.</p>
+<p>Dava à cidade, pelas suas autoridades próprias, jurisdição em certos casos, até ali exclusivamente sujeitos à autoridade do almirante ou de capitão-mor das galés. Jurisdição perpétua nos conda dos de Alverca o, Barcarena e nos reguengos.<ref target="#POR0037-nota-58"/> Aplicava as isenções e privilégios dos lisbonenses àqueles que tivessem vindo para defesa da cidade e nela fixaram moradia. Para eles e os seus descendentes.</p>
 <p>Aceitava que os selos públicos estivessem sempre confiados a pessoa da escolha do rei, mas que fosse natural de Lisboa.</p>
 <p>Assegurava à cidade o direito consuetudinário de eleger anualmente os juízes do seu foro, pois que este costume fora postergado no reinado anterior.</p>
 <p>Concedia aos moradores de Lisboa, que fossem portugueses, o uso das suas armas em qualquer lugar do país, e defendia que em qualquer parte do reino lhas tomassem as justiças.</p>
-<p>Deferiu que as chaves das portas da cidade fossem confiadas aos representantes do município, dispondo que dois homens bons à escolha dos munícipes as tivessem sob sua guarda numa arca da casa da câmara.<ref target="#POR0037-nota-59"/><ref target="#POR0037-nota-59"/></p>
+<p>Deferiu que as chaves das portas da cidade fossem confiadas aos representantes do município, dispondo que dois homens bons à escolha dos munícipes as tivessem sob sua guarda numa arca da casa da câmara.<ref target="#POR0037-nota-59"/></p>
 <p>Prometia que os serventuários da rainha D. Leonor Teles não seriam reintegrados nos empregos da cidade, que em outro tempo tivessem exercido.</p>
 <p>Que não haveria couteiros nem proibição de caça no termo de Lisboa.</p>
 <p>Que nada resolveria quanto ás coisas da guerra em que o reino estava empenhado, sem ouvir conselho e tomar acordo com os representantes da cidade, pois que neste empenho tinha sido ela a primeira.</p>
 <p>Que poria cobro aos abusos dos fidalgos e cavaleiros no to cante à sua hospedagem na capital, pois que alguns arbitrariamente dispunham, como de propriedade sua, das casas, roupas e mantimentos dos moradores a quem tocava dar-lhes pousada; mas que o município se obrigaria a preparar albergues para os que viessem a Lisboa receber os seus dinheiros.</p>
 <p>Mantinha à cidade o direito de escolher os procuradores e advogados que lhe cumpria eleger, ficando a escolha subordinada à confirmação régia.</p>
 <p>Anularia o privilégio concedido por el-rei D. Fernando aos estrangeiros residentes, para terem cônsules com o cargo de juízes seus privativos, afrontando assim a jurisdição e os direitos da cidade.</p>
-<p>Dava privilégio aos oficiais da coroa, que fossem ou tivessem sido juízes, almotacés, corregedores ou vereadores do concelho, e aos seus filhos e netos, para que não fossem postos a tormento por castigo, senão nos casos em que o deviam ser os fidalgos, visto que pelo foro antigo de Lisboa os cavaleiros da cidade tinham honras iguais aos infanções.<ref target="#POR0037-nota-69"/><ref target="#POR0037-nota-69"/> O Rei juraria manter ao povo os seus direitos, fazer-lhe justiça, guardar-lhe os foros e costumes, e conservar-lhe todas estas graças, direitos e prerrogativas.</p>
+<p>Dava privilégio aos oficiais da coroa, que fossem ou tivessem sido juízes, almotacés, corregedores ou vereadores do concelho, e aos seus filhos e netos, para que não fossem postos a tormento por castigo, senão nos casos em que o deviam ser os fidalgos, visto que pelo foro antigo de Lisboa os cavaleiros da cidade tinham honras iguais aos infanções.<ref target="#POR0037-nota-69"/> O Rei juraria manter ao povo os seus direitos, fazer-lhe justiça, guardar-lhe os foros e costumes, e conservar-lhe todas estas graças, direitos e prerrogativas.</p>
 <p>E depois destas concessões, que representavam outras tantas conquistas do terceiro estado, ainda D. João I alargou consideravelmente o termo de Lisboa, incluindo nele as vilas de Sintra, Alenquer e Torres Vedras.</p>
 <p>Também se não esqueceu da leal e valorosa cooperação do Porto e das heroicas provações de Almada, e a uma e outra deu graças de honroso galardão.</p>
-<p>D. João I nomeou Condestável e o seu Mordomo-mor<ref target="#POR0037-nota-70"/><ref target="#POR0037-nota-70"/> ao jovem vencedor dos Atoleiros e deu provimento definitivo a outros cargos do estado.</p>
+<p>D. João I nomeou Condestável e o seu Mordomo-mor<ref target="#POR0037-nota-70"/> ao jovem vencedor dos Atoleiros e deu provimento definitivo a outros cargos do estado.</p>
 <p>João das Regras continuaria a ser chanceler-mor do reino, em substituição de Lourenço Anes Fogaça, que fora numa embaixada a Inglaterra, para lá tratar de obter socorros militares e o estreitamento da aliança entre os dois estados.</p>
 <p>Agora esse que fora Mestre de Avis tinha de ir defender nos campos de batalha, com a bandeira de Portugal, a coroa que as multidões e as cortes lhe tinham dado.</p>
 <p>Dias depois, por meados de abril, o rei de Castela, já em Córdova, depois da longa enfermidade que o retivera em Sevilha, ordenava que a armada voltasse a bloquear Lisboa e que a hoste do arcebispo de Toledo invadisse a Beira, ao mesmo passo que a hoste real ia contra Elvas para a cercar.</p>
@@ -5299,7 +5296,7 @@
 <p>-- Dizei-nos agora como foi a batalha, de que há pouco ainda ouvi falar muito por alto.</p>
 <p>-- Em busca deles saimos de Trancoso, e numa veiga, cerca de certa ermida da invocação de S. Marcos, os esperámos. Ao cabo de pouco tempo os descobrimos com as suas récuas de setecentas azémolas, ajoujadas de despojos das grandes povoações e aldeias roubadas. Percebia-se bem que não estavam com grande vontade de vir sobre nós, e muito cozidos de um lado à ribeira que chamavam das Frechas e do outro à lomba de um monte, se nos queriam escapar manhosamente.</p>
 <p>-- Estavam com receio de perder as récuas de azémolas -- observou Ruy.</p>
-<p>-- Por isso era, e não por falta de ânimo, que se nos queriam escapar, pois bem sabíamos nós que vinham ali homens de armas com larga experiencia de guerra e fidalgos cavaleiros de boa fama. A nossa gente tinha-se formado em cerrado<ref target="#POR0037-nota-71"/><ref target="#POR0037-nota-71"/> para melhor resistir à excelente cavalaria que eles traziam, e as três centenas de cavaleiros que tínhamos, ali se apearam para que todos lutassem de pé em terra, com as lanças de conto fincado no chão. Dizem que assim foi nos Atoleiros e assim era preciso que fosse ali, para opor aquele sedeiro de lanças e chuças ás arrancadas da sua poderosa cavalaria.</p>
+<p>-- Por isso era, e não por falta de ânimo, que se nos queriam escapar, pois bem sabíamos nós que vinham ali homens de armas com larga experiencia de guerra e fidalgos cavaleiros de boa fama. A nossa gente tinha-se formado em cerrado<ref target="#POR0037-nota-71"/> para melhor resistir à excelente cavalaria que eles traziam, e as três centenas de cavaleiros que tínhamos, ali se apearam para que todos lutassem de pé em terra, com as lanças de conto fincado no chão. Dizem que assim foi nos Atoleiros e assim era preciso que fosse ali, para opor aquele sedeiro de lanças e chuças ás arrancadas da sua poderosa cavalaria.</p>
 <p>E para os esforçarmos a combater ou a fugir vergonhosamente para as suas terras de Castela, nos fomos acercando mais da ermida no intento de lhes tomar o passo. Enfim se decidiram. E vendo que os nossos estavam todos apeados, os seus quatrocentos cavaleiros de lanças se apearam também. Mas ainda lhes ficaram para as maiores arremetidas os duzentos da cavalaria dos ginetes. E foram destes as primeiras arrancadas de fúria bravia, não contra os que pelas suas armaduras se via bem que eram homens de armas, mas contra aqueles que, de barretes e saios de burel, sem peitoral de ferro e sem braçais, chuças e foices em vez de lanças, lhes pareceram arraia bisonha dos campos.</p>
 <p>E era. Coitados dos pobres lavradores e ganhões de jorna, que nunca tinham visto um combate! Em alaridos e apupos, as trombetas a darem o sinal da arrancada, os pendões a esvoaçarem no ar, os bacinetes de plumas e os arneses polidos a reluzirem ao sol, os duzentos ginetes com tal soberbia largaram à desfilada sobre os rústicos das chuças e foices, que logo os tresmalharam espavoridos e foram chacinando na fuga. Ficou o cerrado roto!</p>
 <p>Assim como se um lanço de muro se tivesse esbarrondado naquela quadrela feita dos nossos peitos.</p>
@@ -5337,7 +5334,7 @@
 <p>A regra do mosteiro tinha excecionais severidades e os segredos e mistérios daquela clausura eram afincadamente guardados e com inquebrantável tenacidade defendidos da gente profana.</p>
 <p>Chegara notícia de que o rei de Castela retirara do cerco de Elvas. Com as suas hostes e em Ciudad Rodrigo estava concentrando todas as forças de Castela para uma nova e maior invasão de Portugal.</p>
 <p>E até se afirmava que o príncipe herdeiro de Navarra ajudaria o cometimento com a sua hoste, e que de Gasconha e do Bearne esperava el rei de Castela avultados reforços de fidalgos campeadores, de insigne estirpe, com os seus cavaleiros vassalos e escudeiros excelentemente armados.</p>
-<p>Entretanto, para Portugal o socorro que os seus aliados ingleses lhe tinham mandado com destino à nova campanha era em verdade muito pequeno, certamente por causa das disseções internas e da guerra que, há largos anos, a Inglaterra mantinha com a França.<ref target="#POR0037-nota-72"/><ref target="#POR0037-nota-72"/> Pela Páscoa tinham chegado ao Tejo, apesar do bloqueio, uma nau e uma barca de Inglaterra com duzentos daqueles famosos frecheiros ingleses que traziam consigo a tradição altiva das batalhas de Crécy e de Poiters (1346 1356) em que os franceses tinham sido vencidos pelas hostes britânicas de Eduardo III e do seu filho o Príncipe de Gales, conhecido na história pelo Príncipe Negro por ser preta a sua armadura de batalhador.</p>
+<p>Entretanto, para Portugal o socorro que os seus aliados ingleses lhe tinham mandado com destino à nova campanha era em verdade muito pequeno, certamente por causa das disseções internas e da guerra que, há largos anos, a Inglaterra mantinha com a França.<ref target="#POR0037-nota-72"/> Pela Páscoa tinham chegado ao Tejo, apesar do bloqueio, uma nau e uma barca de Inglaterra com duzentos daqueles famosos frecheiros ingleses que traziam consigo a tradição altiva das batalhas de Crécy e de Poiters (1346 1356) em que os franceses tinham sido vencidos pelas hostes britânicas de Eduardo III e do seu filho o Príncipe de Gales, conhecido na história pelo Príncipe Negro por ser preta a sua armadura de batalhador.</p>
 <p>E com aquele diminuto reforço de homens viera também uma importante carregação de víveres e de algum armamento, lanças principalmente.</p>
 <p>Dez galés castelhanas tentaram opor-se à entrada dos navios ingleses, mas foram repelidas depois de um breve combate.</p>
 <p>Entretanto, no Minho, o Mestre e o Condestável supuseram que el-rei de Castela estaria no propósito de empreender a invasão pelo Alentejo, e apressadamente vieram com as suas hostes pelo caminho do Porto a Coimbra.</p>
@@ -5724,7 +5721,7 @@
 <p>Entre a peonagem comentava-se o caso um pouco de chistes em dizeres pitorescos, muito no uso do povo; mas sem uma sombra sequer de má fé, antes com um certo enternecimento fraternal!</p>
 <p>-- Vamos ter uma ala de franganotes de crista emproada -- dizia um besteiro já durázio. Pois bom poleiro lhes dará El-Rei e nós todos, se diante dos grande poder dos castelões eles cantarem como cantaram agora.</p>
 <p>-- Que alguns deles nem sequer ainda são franganotes, pois não passam de franganitos.</p>
-<p>-- Não; olhai que vão ali alguns que são já “frangos de souto”.<ref target="#POR0037-nota-73"/><ref target="#POR0037-nota-73"/></p>
+<p>-- Não; olhai que vão ali alguns que são já “frangos de souto”.<ref target="#POR0037-nota-73"/></p>
 <p>-- E daí -- acudiu um homem de armas ainda novo -- lá diz o ditado:</p>
 <p>«Mais vale um cavalo de três anos que um burro de vinte».</p>
 <p>-- Pois sim, sim -- replicou o besteiro velho -- mas largassem lhes de Castela as damas do paço, as mais bonitas e as mais novas, e lá se nos iria de aza de rojo a linda Ala dos Namorados.</p>
@@ -5739,7 +5736,7 @@
 <p>-- Que gente vem convosco ao todo? -- perguntou-lhe D. João I.</p>
 <p>-- Senhor, bem pouca, se contarmos só os que veem suficientemente armados. Cem lanças de cavaleiros e trezentos besteiros e homens de boa peonagem.</p>
 <p>-- Bem pouca, sem dúvida!</p>
-<p>-- Ameaçada pela gente castelhana de Sintra e de Santarém e com uma armada inimiga na barra e dentro do rio,<ref target="#POR0037-nota-74"/><ref target="#POR0037-nota-74"/> Lisboa e todo ao seu termo precisavam de ficar com muito mais gente de armas, e lá lhe deixei o tresdobro de peonagem bem provida e experimentada -- respondeu o Sequeira.</p>
+<p>-- Ameaçada pela gente castelhana de Sintra e de Santarém e com uma armada inimiga na barra e dentro do rio,<ref target="#POR0037-nota-74"/> Lisboa e todo ao seu termo precisavam de ficar com muito mais gente de armas, e lá lhe deixei o tresdobro de peonagem bem provida e experimentada -- respondeu o Sequeira.</p>
 <p>Mas, senhor, atrás desses com quem muito podeis contar para empreendimentos de guerra, veem mais umas centenas da arraia-miúda, sem bacinetes, sem laudéis, porém gente de chuças e de rijos punhos, que de alguma coisa valerá ajudando os outros.</p>
 <p>-- Está bem, carairo-mor de Lisboa. Amanhã nos hemos de pôr em marcha para irmos saber por qual passo nos virá surdir a hoste real de Castela.</p>
 <p>-- A um galeote de Galiza, que há dois dias fugiu da sua galé para a cidade, ouvi eu, ainda ontem, que até da armada vão desembarcar homens de armas para virem aumentar o poder com que está para entrar ou já entrou el-rei de Castela. Conta o galeote que é voz constante a bordo que o soberano de Castela trará para cima de quarenta mil da melhor gente das Espanhas, da Gasconha e do Bearnês, e mais não sei que engenhos novos de guerra de que o galego ouviu falar aos capitães das naus.</p>
@@ -5763,7 +5760,7 @@
 <p>-- E proveitoso saber-se isso, e boa lembrança tivestes, João de Montferrat. Mem de Vasconcelos, -- disse alto, sorrindo -- os vossos Namorados que se incumbam de contar pelo arraial isto que ouviram ao ilustre e assinalado cavaleiro João de Montferrat. Que o contem e como rapazes que são, ao mesmo tempo se não esqueçam de mofar dos trons de Castela. E vós lá que dizeis, Ruy de Vasconcelos?</p>
 <p>-- Eu digo, senhor, que a ala os irá tomar onde quer que eles apareçam, se vós lho consentirdes.</p>
 <p>-- Consinto e fica a promessa feita. Quanto mais depressa fizerem calar os tais roncadores, tanto maior proveito para nós, por causa da peonagem miúda, que é quem mais se pode assustar com a ronca.</p>
-<p>Ouviu-se uma enorme algazarra. Era dos besteiros trocistas a vitoriarem de brincadeira a multidão auxiliar da arraia-miúda, que não trazia bacinetes nem laudéis,<ref target="#POR0037-nota-75"/><ref target="#POR0037-nota-75"/> porque não os havia em Lisboa que chegassem para esses legionários pelintras com o seu uniforme de trapos.</p>
+<p>Ouviu-se uma enorme algazarra. Era dos besteiros trocistas a vitoriarem de brincadeira a multidão auxiliar da arraia-miúda, que não trazia bacinetes nem laudéis,<ref target="#POR0037-nota-75"/> porque não os havia em Lisboa que chegassem para esses legionários pelintras com o seu uniforme de trapos.</p>
 <p>Se até entre os mais favorecidos a variedade e a velharia dos armamentos eram curiosas! Capelinas ou capelos de ferro comidos da ferrugem de oitenta ou cem anos, solhas esfrangalhadas que tinham ido ao Salado, ascumas remotíssimas que tinham estado em Navas de Tolosa.</p>
 <p>-- Viva a Ala dos rôtos! -- clamavam os trocistas.</p>
 <p>-- Os guerreiros de ventres ao sol!</p>
@@ -5787,7 +5784,7 @@
 <p>Os que não traziam armamento regular e, quando muito, uma antiga coura de sola sobre a trapagem, e estes eram, ainda assim os mais distintos, vinham na cauda do pequenino exército, na reguarda como se dizia na tecnologia militar daquela época. E atrás deles o mulherio de aventura, apesar de todas as proibições e de todas as severidades, principalmente quando estava presente o austero Condestável. Em Portugal como em Castela e em outros países, e ainda, com muito maior desaforo, nas campanhas dos primeiros anos do século passado.</p>
 <p>Mas ali não vinham só aventureiras, senão também mães para acompanhar de perto os filhos juvenis e esposas de mais ânimo para acudir aos maridos, pois que os exércitos daquele tempo não tinham organizados os serviços de socorro aos feridos. E entre elas, algumas que tinham sido da hoste da tia Lourença no último cerco de Lisboa.</p>
 <p>E quem animava o diálogo, dando-lhe o relevo dos seus chistes, era o Bernardo Pingueiro, aquele sapateiro tunante, já muito nosso conhecido.</p>
-<p>Vinha delicioso. Um saio constelado de remendos, umas calças de bifa<ref target="#POR0037-nota-76"/><ref target="#POR0037-nota-76"/> a esfiamparem-se-lhe; à cinta um longo espeto, a que ele chamava o seu estoque, e na cabeça, muito caído para a nuca, um capelo ferrugento, que tinha apanhado em Lisboa na “feira das ladras”.<ref target="#POR0037-nota-77"/><ref target="#POR0037-nota-77"/>.</p>
+<p>Vinha delicioso. Um saio constelado de remendos, umas calças de bifa a esfiamparem-se-lhe; à cinta um longo espeto, a que ele chamava o seu estoque, e na cabeça, muito caído para a nuca, um capelo ferrugento, que tinha apanhado em Lisboa na “feira das ladras”.<ref target="#POR0037-nota-77"/>.</p>
 <p>E os seus olhos, cada vez mais piscos, a enviesarem-se-lhe para o nariz, cada vez mais rubro.</p>
 <p>Tinha uns rijos cinquenta anos, apesar de batidos por trinta e cinco de formidáveis bebedeiras.</p>
 <p>Era a mais extraordinária figura da Ala dos rotos.</p>
@@ -5901,8 +5898,8 @@
 <p>Logo no dia imediato aquele em que as tropas reais se juntaram em tomar com as do Condestável determinou sua real senhoria que nas várzeas se fizesse alardo de todas as forças da hoste. Era uma espécie de revista ou parada geral, como hoje se diria.</p>
 <p>D. João e Nuno Álvares queriam avaliar por si próprios as forças totais com que podiam contar e agrupar as grandes unidades de batalha, coisa embaraçosa e demorada com a tática rudimentar daqueles tempos e com a frouxa coesão e difícil mobilidade de tropas coletícias, reunidas à pressa aos primeiros rebates da guerra.</p>
 <p>Foram-se juntando as tropas longamente por aquelas ridentes várzeas que tem o valezito do Nabão. O Condestável, o Marechal, o próprio Rei as iam guiando na formatura e na marcha daqueles tempos, que hoje nos havia de parecer tumultuária e de esmorecedora irregularidade.</p>
-<p>Meteu-se em ordem a primeira linha de batalha ou primeiro que devia constituir a vanguarda. Eram seiscentos homens de lanças, a cavalo, tendo por armas defensivas bacinetes de camal, nem iodos eles com viseira ou cara, cotas e loudéis, arneses de pernas, braçais e manoplas.<ref target="#POR0037-nota-78"/><ref target="#POR0037-nota-78"/> Alguns ainda traziam as antigas solhas (lâminas de ferro), e os fraldões de malha de aço que de fendiam o ventre e as coxas.</p>
-<p>As suas armas ofensivas; além da lança e da espada de folha estreita e retilínea como um estoque, eram a hacha<ref target="#POR0037-nota-79"/><ref target="#POR0037-nota-79"/> e o machado com que decepavam a peonagem ou golpeavam os cavaleiros pelas junturas das diferentes peças da armadura.</p>
+<p>Meteu-se em ordem a primeira linha de batalha ou primeiro que devia constituir a vanguarda. Eram seiscentos homens de lanças, a cavalo, tendo por armas defensivas bacinetes de camal, nem iodos eles com viseira ou cara, cotas e loudéis, arneses de pernas, braçais e manoplas.<ref target="#POR0037-nota-78"/> Alguns ainda traziam as antigas solhas (lâminas de ferro), e os fraldões de malha de aço que de fendiam o ventre e as coxas.</p>
+<p>As suas armas ofensivas; além da lança e da espada de folha estreita e retilínea como um estoque, eram a hacha<ref target="#POR0037-nota-79"/> e o machado com que decepavam a peonagem ou golpeavam os cavaleiros pelas junturas das diferentes peças da armadura.</p>
 <p>Nesta primeira linha se enfileiravam, distanciados dos lanceiros de plebeia origem, os fidalgos e os escudeiros nobres com os seus balsões e signas heráldicas.</p>
 <p>Atrás deles, em fileiras, numa coluna irregular, os pajens e simples escudeiros dos cavaleiros nobres e a peonagem com os besteiros e frecheiros na frente.</p>
 <p>Era a infantaria daquela época com as suas ligeiras armas defensivas, o bacinete sem camal, a solha e a espaldeira, que nem todos tinham.</p>
@@ -5976,7 +5973,7 @@
 <p>-- De França quantos supondes?</p>
 <p>-- Dois mil de Gasgonha e do Bearnês, ouvi que eram.</p>
 <p>-- E uns engenhos de fogo que dizem trazer el-rei; pudestes vê-los?</p>
-<p>-- Senhor, vi. São dezasseis bisarmas de ferro, de boca escancarada como os balseiros do Alentejo. As zorras, em que vem cada trom<ref target="#POR0037-nota-80"/><ref target="#POR0037-nota-80"/> com o seu estrado, estafam três juntas de bois, as rodas abrem regos fundos nos caminhos, e só a quatro juntas se arrancam das ladeiras!</p>
+<p>-- Senhor, vi. São dezasseis bisarmas de ferro, de boca escancarada como os balseiros do Alentejo. As zorras, em que vem cada trom<ref target="#POR0037-nota-80"/> com o seu estrado, estafam três juntas de bois, as rodas abrem regos fundos nos caminhos, e só a quatro juntas se arrancam das ladeiras!</p>
 <p>-- Melhor, melhor assim! Fico sabendo. São aventesmas de grande ronca e pequeno dano. Sejam, porém, como forem, sob pena de morte vos proíbo que de tal faleis com alguém ou digais o número dos nossos inimigos que estão em Leiria. Vede bem: sois um prisioneiro; tenho sobre vós direito de vida ou de morte e, além do mais, porque em rapinas de povoados foi que vos prenderam, por tal vos posso mandar decepar as mãos.</p>
 <p>-- Senhor, o que vós mandardes que eu diga -- respondeu enfiado e num grande quebramento de ânimo. Do que fiz estou arrependido e contrito.</p>
 <p>-- Pois boa paga vos darei, em vez da morte por ladrão de povoados, se em presença da sua real senhoria, o senhor rei de Portugal, e de todos os seus cavaleiros fidalgos e conselheiros disserdes o contrário do que a mim me contastes.</p>
@@ -6168,7 +6165,7 @@
 </div><div type="chapter"><head>CAPÍTULO VIII</head>
 <p>NOITE DE SONHO </p>
 <p>Entretanto chegara ao acampamento um aventureiro singular, que perguntava por Álvaro Coutinho no seu português de contrabando.</p>
-<p>Era uma estranha figura de idealista e de boémio. Gorra de plumas a desfazerem se de velhas, donairosamente posto um manto que fora branco e vinha a esfiampar-se, arrabil<ref target="#POR0037-nota-81"/><ref target="#POR0037-nota-81"/> a tiracolo, um cão grande, magro e triste, por companheiro. Tinha já alguns cabelos brancos na barba loura e fina.</p>
+<p>Era uma estranha figura de idealista e de boémio. Gorra de plumas a desfazerem se de velhas, donairosamente posto um manto que fora branco e vinha a esfiampar-se, arrabil<ref target="#POR0037-nota-81"/> a tiracolo, um cão grande, magro e triste, por companheiro. Tinha já alguns cabelos brancos na barba loura e fina.</p>
 <p>Correram a chamar o Magriço, e foi espanto para todos o desafogo com que o gigantesco batalhador o recebeu de braços abertos. Era o trovador provençal de que Álvaro Coutinho já tinha falado a Ruy de Vasconcelos e ao gascão Montferrat; aquele que ficara no Porto enamorado, a idear esperanças loucas e a cantar amores de sonho por certa damazinha, a quem os pais tinham encerrado num mosteiro. Era Frederico Marival.</p>
 <p>-- E cá deitastes de tão longe, meu querido troveiro! -- disse-lhe o Magriço no escasso idioma de Provença que aprendera com ele.</p>
 <p>-- Com estes meus amores até à morte! -- volveu-lhe Marival no seu mau português de ouvido, indicando o arrabil -- e mais este escudeiro fiel.</p>
@@ -6190,7 +6187,7 @@
 <p>Um corvo tresnoitado corcou lugubremente em baixo, dos lados do pinhal.</p>
 <p>-- Pois sim -- acudiu o Magriço. Dorme lá, compadre corvo, e se andas à cata de festim, não te fiques aí nessa tua cantiga quizilenta. Dorme e vem amanhã connosco. Daqui te faço testamento desta ratinhada carne que trazem os meus ossos. Frederico Marival, para não ouvirmos aquele negregado corvo, contai-nos aqui novelas de amor ou algum rimance de cavaleiros errantes.</p>
 <p>-- Melhor seria -- volveu-lhe o provençal -- que vós, os Namorados, alguma batalha dos vossos me contásseis, para eu vo-la pôr amanhã numa trova.</p>
-<p>-- Pois boa lembrança tivestes. Contar-vos-emos então a mais bela batalha campal deste nosso tempo, a do nosso cavaleiro Galaaz.<ref target="#POR0037-nota-82"/><ref target="#POR0037-nota-82"/> Mem de Sá, vós que estivestes no feito dos Atoleiros, contai-o lá para que o fique sabendo e ponha nos seus cantares este honrado troveiro de Provença.</p>
+<p>-- Pois boa lembrança tivestes. Contar-vos-emos então a mais bela batalha campal deste nosso tempo, a do nosso cavaleiro Galaaz.<ref target="#POR0037-nota-82"/> Mem de Sá, vós que estivestes no feito dos Atoleiros, contai-o lá para que o fique sabendo e ponha nos seus cantares este honrado troveiro de Provença.</p>
 <p>O Sá não se fez rogado. Era um rapaz de vinte anos, expansivo. Caloroso, a alma no olhar e no gesto.</p>
 <p>-- Foi a batalha a uma quarta-feira, 6 de abril do ano passado; quarta-feira de trevas por sinal. Dias antes tínhamos nós chegado à vila de Extremoz e quem nos mandava era Nuno Álvares, esse que é hoje Conde e Condestável.</p>
 <p>Dos lados de uma povoação chamada Crato estava uma hoste de castelhanos e portugueses, parciais da rainha de Castela. Mil lanças de gente fidalga, corcéis e ginetes possantes, e mais de quatro mil homens de boa peonagem.</p>
@@ -6214,7 +6211,7 @@
 <p>-- Sim, daqui a dezasseis anos. Quem sabe lá?</p>
 <p>-- Será Portugal, sempre assim, a pequena terra de poucos homens que é hoje?</p>
 <p>-- Não tem para onde alargar as voadeiras. De um lado Castela, de tal poder, que já não é pequena maravilha aguentar-lhe a gente as arremetidas; e do outro lado, o mar. Só se qualquer deusa dos gentios, e pela Ala dos Namorados devia de ser Vénus, deusa do amor, só se cila nos protegesse e levasse a descobrir alguma grande ilha, das muitas que os antigos diziam encantadas nesse mar distante, que eles chamavam da noite.</p>
-<p>-- Quem sabe? Olhai que são atrevidos os nossos galeotes e pilotos. Vede como eles vão dar consigo lá para os mares de Inglaterra! E de alguns se fala que encontraram certas ilhas, a que chamavam Afortunadas.<ref target="#POR0037-nota-83"/><ref target="#POR0037-nota-83"/></p> 
+<p>-- Quem sabe? Olhai que são atrevidos os nossos galeotes e pilotos. Vede como eles vão dar consigo lá para os mares de Inglaterra! E de alguns se fala que encontraram certas ilhas, a que chamavam Afortunadas.<ref target="#POR0037-nota-83"/></p> 
 <p>-- Ai, ai, que estamos a sonhar acordados! -- disse-lhe o Magriço gracejando. Há de ser encantamento dessa feiticeira lua, que se nos vai sumindo por aqueles pinhais dalém. Aquela é comadre dos namorados e entende que deve apagar agora a lampadário para ver se nós adormecemos.</p>
 <p>Isto já deve de ir para a meia noite -- disse bocejando. Olhai como tantos dos nossos adormeceram já, regaladamente, com os ossos em cima deste chão pedregoso, que nem criancinhas em almadraquinho de penugem de aves! Não chegará a madrugada sem que algum deles sonhe que el-rei de Castela já vai derrotado pelo seu reino dentro, com os seus pavões de Gasconha todos desazados e o leão castelhano de cauda de rojo e pêlo arrepiado, a rosnar contra nós.</p>
 <p>Riu bocejando, os olhos a fecharem-se-lhe lentamente.</p>
@@ -6305,7 +6302,7 @@
 <p>-- Jovens, -- veio avisar um escudeiro dos Namorados -- sabei que El- Rei está armando cavaleiros os escudeiros de armas que lhe propõem esses que, pela sua qualidade e bons serviços, os vão apadrinhar.</p>
 <p>-- Pois vamos nós la também com alguns escudeiros da nossa ala -- disse Ruy de Vasconcelos. A vós, Afonso Rodrigues, vos proponho eu, -- disse para o Baticela, aquele escudeiro beirão que levou a Lisboa a notícia da batalha de Trancoso e o Vasconcelos teve em casa como seu hóspede.</p>
 <p>-- Grande e honrado favor me fazeis e por ela vos beijo as mãos.</p>
-<p>-- E eu vou apadrinhar o nosso beijocador -- disse o Magriço. Além de não ter nada de peco, é da ala o que furta beijos com mais denodo e os da mais bem cantados. Jovem, não vos turbeis como se vos levantassem algum falso testemunho. Eu ouvi aquele beijo que deu honra à ala, e notei depois que a rapariga roubada tinha um palminho de cara de fazer apetite a um franciscano. Beijos assim quebram o jejum; mas tal não direi eu a El-Rei, mormente se com ele estiver o senhor Arcebispo de Braga, o mais glorioso homem que tem dado a Lourinhã.<ref target="#POR0037-nota-84"/><ref target="#POR0037-nota-84"/></p>
+<p>-- E eu vou apadrinhar o nosso beijocador -- disse o Magriço. Além de não ter nada de peco, é da ala o que furta beijos com mais denodo e os da mais bem cantados. Jovem, não vos turbeis como se vos levantassem algum falso testemunho. Eu ouvi aquele beijo que deu honra à ala, e notei depois que a rapariga roubada tinha um palminho de cara de fazer apetite a um franciscano. Beijos assim quebram o jejum; mas tal não direi eu a El-Rei, mormente se com ele estiver o senhor Arcebispo de Braga, o mais glorioso homem que tem dado a Lourinhã.<ref target="#POR0037-nota-84"/></p>
 <p>-- E pior seria -- respondeu lhe o brejeiro com uns ares de ingenuidade agarotada se o dissésseis era presença do senhor Condestável!</p>
 <p>-- Esse então, se o soubesse, nem para escudeiro vos queria!</p>
 <p>Riram do caso, e lá foram uns poucos apadrinhar os escudeiros de melhores antecedentes que havia na ala.</p>
@@ -6447,12 +6444,12 @@
 <p>-- Cada boi duas lanças -- acudiu o Bernardo Pingueiro. Mas fazem mal esses asnos castelãos neste alardo à nossa reveria. Com a fome com que a gente está, depressa nos vamos esquecer de tanta cavalaria, e somos capazes de vencer a batalha só para nos atirarmos aos bois. Um boi pra cada um e ainda podíamos levar carne pra Lisboa! Eu não matava o meu; escarranchava- me nele e assim entraria na cidade, a levar-lhe a nova da vitória.</p>
 <p>-- Olhai! Aquelas bisarmas em cima de carros!</p>
 <p>-- Serão os trons?</p>
-<p>-- Isso sim! Daqui se está a perceber que são caldeirões -- explicou o sapateiro. Ali é que eles fazem a batelada, o bazulaque<ref target="#POR0037-nota-85"/><ref target="#POR0037-nota-85"/> para aquela canzoada toda.</p>
+<p>-- Isso sim! Daqui se está a perceber que são caldeirões -- explicou o sapateiro. Ali é que eles fazem a batelada, o bazulaque<ref target="#POR0037-nota-85"/> para aquela canzoada toda.</p>
 <p>-- Mas os tais trons é que a gente ainda não viu!</p>
 <p>-- Vi-os eu. Já lá vão pra diante. Cada zorra a quatro juntas de bois com os trons em riba! Mas não se viam bem por causa do pó e dos muitos de acavalo que iam em volta deles.</p>
 <p>-- E aquela capelinha que já lá vai adiante!</p>
 <p>-- Capelinha?!</p>
-<p>-- Sim. Em cima de um carro de mulas. Talvez seja do rei deles para as suas devoções. E foi ao pé da capelinha que divisei umas poucas de andas. <ref target="#POR0037-nota-86"/><ref target="#POR0037-nota-86"/></p>
+<p>-- Sim. Em cima de um carro de mulas. Talvez seja do rei deles para as suas devoções. E foi ao pé da capelinha que divisei umas poucas de andas. <ref target="#POR0037-nota-86"/></p>
 <p>-- A essas as vi eu. Talvez levem damas.</p>
 <p>-- Reparai agora, lá adiante, naquelas tantas plumas da fidalgaria deles!</p>
 <p>Parecem bandos de pássaros de muitas cores, a voar!</p>
@@ -6721,7 +6718,7 @@
 <p>E todos eles, noventa apenas dos cento e oitenta que tinham sido, noventa que ainda podiam combater, deitaram à desfilada, repetindo alto, entusiasticamente, o mote da bandeira.</p>
 <p>-- Gloriosa juventude! -- exclamou o Rei, seguindo os num olhar humedecido de lágrimas.</p>
 <p>Atrás deles foram-se a galope cerca de novecentos cavaleiros, e atrás destes, correndo, cem arqueiros ingleses, trezentos besteiros portugueses e pouco depois a peonagem de ínfima condição, a Ala dos rôtos.</p>
-<p>-- Senhor, -- veio dizer o Condestável a El-Rei -- outra vez foram repelidos os ginetes mouriscos e os freires do Mestre de Alcântara.<ref target="#POR0037-nota-87"/><ref target="#POR0037-nota-87"/>  Cruzaram se os olhares daqueles dois irmãos de armas, ligados desde crianças por uma amizade que de muito valera nos destinos de Portugal.</p>
+<p>-- Senhor, -- veio dizer o Condestável a El-Rei -- outra vez foram repelidos os ginetes mouriscos e os freires do Mestre de Alcântara.<ref target="#POR0037-nota-87"/>  Cruzaram se os olhares daqueles dois irmãos de armas, ligados desde crianças por uma amizade que de muito valera nos destinos de Portugal.</p>
 <p>O Rei abraçou-o ferverosamente.</p>
 <p>-- Nuno! -- disse-lhe baixo -- que tamanha tarde e que soberba hora esta!</p>
 <p>-- Tamanha como os dois séculos que Portugal tem de vida entre as nações!</p>
@@ -6857,7 +6854,7 @@
 <p>D. João disse a Ayala:</p>
 <p>-- Bem que o meu inimigo sejais, sei o que valeis e muito me apraz honrar-vos pela lealdade com que defendestes a bandeira do vosso rei e da vossa terra.</p>
 <p>-- Era o meu dever -- respondeu em castelhano. A minha má fortuna fez que não pudesse morrer por ela, como na batalha de Najera me não foi dado acabar defendendo-a, e agora me vejo prisioneiro dos vossos, como naquela derrota me vi prisioneiro dos ingleses.</p>
-<p>-- Agora talvez com mais alguma diferença, porque se vos há de tomar em conta o que sois.<ref target="#POR0037-nota-88"/><ref target="#POR0037-nota-88"/> Vasco Eanes. Podeis levar o vosso prisioneiro, e por muito recomendado vos dou. Mandai que lhe prestem honroso gasalhado. E vós cá, Álvaro Cominho, contai-me essa arrancada que me trouxe tão preciosos trofeus.</p>
+<p>-- Agora talvez com mais alguma diferença, porque se vos há de tomar em conta o que sois.<ref target="#POR0037-nota-88"/> Vasco Eanes. Podeis levar o vosso prisioneiro, e por muito recomendado vos dou. Mandai que lhe prestem honroso gasalhado. E vós cá, Álvaro Cominho, contai-me essa arrancada que me trouxe tão preciosos trofeus.</p>
 <p>O Magriço resumiu-lhe calorosamente o combate contra os que tinham ficado para morrer.</p>
 <p>-- Grandes homens sois, apesar de tão jovens! Mas Ruy de Vasconcelos, o que foi feito dele?! Morreu?!</p>
 <p>-- Senhor, até há coisa de um quarto de hora, não. Ficou-se atrás, dizendo-nos que viria depressa. E agora em verdade vos digo que me parece tardar, pois que já na vinda para aqui algum tanto nos demorámos!</p>
@@ -6874,7 +6871,7 @@
 <p>Não se tinha enganado. Instantes depois chegava o jovem paladino Vasconcelos, trazendo enrolado na mão esquerda um largo cabeção. Atrás dele a tia Lourença com um braçado de pendões.</p>
 <p>Ruy apresentou a ao Rei, lembrando os atos de intrepidez que ela praticara no último cerco de Lisboa e a intenção com que viera da capital.</p>
 <p>-- Pois estava a pensar que teríeis vindo ao faro dos despojos -- disse o Rei a sorrir.</p>
-<p>-- Senhor, por aí tenho visto que muita gentiaga se está enchendo. Eu não, meu Senhor. Eu e mais quatro que ficaram ali em baixo com o mulherio de Aljubarrota, esperando por mim; eu e essas quatro não fizemos outra coisa senão andar na apanha deste braçado de pendões, que os de Castela deixaram semeados aí pela charneca fora. Só não levantámos os muitos que íamos topando emporcalhados de sangue e esfrangalhados nas urzes e nos tojeiros.<ref target="#POR0037-nota-89"/><ref target="#POR0037-nota-89"/> Foi para os vir trazer a vossa real senhoria que nós os apanhámos. Muito vos deve o povo e a nação e certo não houve ainda em Portugal rei como vós sois.</p>
+<p>-- Senhor, por aí tenho visto que muita gentiaga se está enchendo. Eu não, meu Senhor. Eu e mais quatro que ficaram ali em baixo com o mulherio de Aljubarrota, esperando por mim; eu e essas quatro não fizemos outra coisa senão andar na apanha deste braçado de pendões, que os de Castela deixaram semeados aí pela charneca fora. Só não levantámos os muitos que íamos topando emporcalhados de sangue e esfrangalhados nas urzes e nos tojeiros.<ref target="#POR0037-nota-89"/> Foi para os vir trazer a vossa real senhoria que nós os apanhámos. Muito vos deve o povo e a nação e certo não houve ainda em Portugal rei como vós sois.</p>
 <p>D. João I disse-lhe umas palavras de agradecimento, sorrindo. Voltando-se para Ruy de Vasconcelos, perguntou-lhe de gracejo:</p>
 <p>-- E vós que me trazeis?</p>
 <p>-- Senhor, alguma coisa que não valerá para vós muito menos do que essa bandeira real.</p>
@@ -7171,7 +7168,7 @@
 <p>-- Quarenta e cinco são os que aí temos.</p>
 <p>-- Convida-te então a ires com eles para a sua hoste e depois, se Deus quiser, para as terras de Castela? E tu que lhe respondes?</p>
 <p>-- Que aceito o convite. Ainda esta tarde hei de ouvir o voto dos meus companheiros e com eles tenho a certeza de contar. E amanhã de madrugada partirá o mensageiro com a resposta, e nós no dia seguinte iremos a caminho de Santarém. Lá lhe lembrarei o honroso feito que seria ir bater a hoste do infante de Navarra, se acaso ainda não saiu da Beira.</p>
-<p>-- E assim te irias aproximando do velho reino de Leão, e de salto, ao modo dos fossados <ref target="#POR0037-nota-90"/><ref target="#POR0037-nota-90"/> do tempo do nosso primeiro rei, darias contigo e com os teus a tomar Tordesilhas para de lá tirares a tua noiva. Vede, meu prezado Frederico Marival -- disse para o trovador, esboçando um sorriso -- vede se o rei Artur teve nos seus da Távola Redonda cavaleiros que mais sonhassem do que estes meus patrícios da Ala dos Namorados!</p>
+<p>-- E assim te irias aproximando do velho reino de Leão, e de salto, ao modo dos fossados <ref target="#POR0037-nota-90"/> do tempo do nosso primeiro rei, darias contigo e com os teus a tomar Tordesilhas para de lá tirares a tua noiva. Vede, meu prezado Frederico Marival -- disse para o trovador, esboçando um sorriso -- vede se o rei Artur teve nos seus da Távola Redonda cavaleiros que mais sonhassem do que estes meus patrícios da Ala dos Namorados!</p>
 <p>-- Eu é que nem os podia sonhar assim nestes nossos tempos! -- respondeu Marival.</p>
 <p>-- Nem eu, que saí daqui há doze anos, julgando isto uma nação moribunda, que ainda há um mês me parecia a dois passos de se perder!</p>
 <p>Agora, não. O que eu vi em Aljubarrota pareceu-me a ressurreição de uma grande raça e eu próprio, amargurado e descrido, como que subitamente mudei e sinto-me menos acabrunhado de mágoas! Tão outro, que até me apraz meter-me em aventuras por conta deste nosso querido Namorado! Pois, meu Ruy, a mim me quer parecer que se vão dispondo as coisas bem, e aqui, neste nosso engenhoso troveiro e em mim, terás os esculcas que te hão de ir observar a terra inimiga.</p>
@@ -7773,7 +7770,7 @@
 <p>-- Ruy queria vir fazer-vos o pedido; fui eu quem não consentiu que ele viesse. As nossas promessas cumprem-se sem ser preciso que nos venham pedir o seu cumprimento, em guisa de favor.</p>
 <p>-- Assim é! Assim há de ser! -- confirmaram todos em plena unanimidade.</p>
 <p>-- Ficai então precavidos. Ao primeiro aviso, abafamos.</p>
-<p>-- Ainda que seja para as ilhas encantadas do Mar da Noite<ref target="#POR0037-nota-91"/><ref target="#POR0037-nota-91"/> ou para o cabo do Mundo -- disse o Lobeira, sorrindo.</p>
+<p>-- Ainda que seja para as ilhas encantadas do Mar da Noite<ref target="#POR0037-nota-91"/> ou para o cabo do Mundo -- disse o Lobeira, sorrindo.</p>
 <p>-- Ou para ir tomar Ceuta ao Mouro escuro de Marrocos -- acudiu outro de gracejo.</p>
 <p>-- Está bem -- disse o Magriço, pondo ponto aos devaneios -- Vou confirmar a Ruy de Vasconcelos o que há pouco lhe afiancei, e ele que vá então pedir ao Condestável a permissão para nos metermos a caminho. E que lha peça em nome de nós todos.</p>
 <p>-- De todos! -- repetiram.</p>
@@ -8701,7 +8698,7 @@
 <p>-- Senhora, até amanhã.</p>
 <p>D. Dulce disse-lhe ainda umas palavras de carinhosa piedade e afastou-se a tremer, numa grande emoção de dó. A abadessa esperava-a. Foram as duas para a casa do cartório.</p>
 <p>Naquele mesmo dia se obteriam umas licenças indispensáveis e na manhã seguinte voltaria D. Dulce para assistir ao desemparedamento de Leonor, trazendo consigo a escritura dos donativos para os consertos do mosteiro e para o dote da reclusa.</p>
-<p>Despediu-se, pedindo encarecidamente que, sem delongas, mandassem algum alimento à pobre emparedada<ref target="#POR0037-nota-92"/><ref target="#POR0037-nota-92"/>.</p>
+<p>Despediu-se, pedindo encarecidamente que, sem delongas, mandassem algum alimento à pobre emparedada<ref target="#POR0037-nota-92"/>.</p>
 <p>***</p>
 <p>No dia seguinte, voltou D. Dulce ao mosteiro com a escritura, o seu primeiro donativo em dobras de ouro e o coração num alvoroço de caridade por aquela assombrosa desventurada, que fora o primeiro amor do seu filho.</p>
 <p>Logo a abadessa lhe veio falar, mas com tal entristecido parecer, que se lhe confrangeu o coração.</p>
@@ -8860,7 +8857,7 @@
 <p>O SONHO DE UMA ODISSEIA </p>
 <p>Escutai agora uma nova que me fez voltar mais cedo a Portugal. Ides talvez cair das nuvens.</p>
 <p>-- Pois aqui nos tendes à espera da surpresa, meu querido Álvaro Goutinho -- disse-lhe Ruy.</p>
-<p>-- Estive com o nosso Vasco Eanes na cidade de Veneza, maior, mais poderosa, mais rica do que Génova. Uma bela e opulenta cidade de marinheiros e de mercantes! Muito me admirou o seu poder e as suas riquezas, bem que por várias vezes ouvisse falar aos tantos Genoveses que vivem em Lisboa.<ref target="#POR0037-nota-93"/><ref target="#POR0037-nota-93"/> Fizeram-me inveja pela nossa terra, as potentes armadas de galés que o povo de Veneza trazem nos mares! Por elas se tem feito opulenta e temida, pois na terra italiana pouco mais é do que uma cidade! Se esta nossa Lisboa pudesse imitá-la... Se um dia Portugal tivesse também poder semelhante no mar! Mas isto não passa de sonho, bem que algum feito grande esteja na mente de El-rei e do seus conselheiros.</p>
+<p>-- Estive com o nosso Vasco Eanes na cidade de Veneza, maior, mais poderosa, mais rica do que Génova. Uma bela e opulenta cidade de marinheiros e de mercantes! Muito me admirou o seu poder e as suas riquezas, bem que por várias vezes ouvisse falar aos tantos Genoveses que vivem em Lisboa.<ref target="#POR0037-nota-93"/> Fizeram-me inveja pela nossa terra, as potentes armadas de galés que o povo de Veneza trazem nos mares! Por elas se tem feito opulenta e temida, pois na terra italiana pouco mais é do que uma cidade! Se esta nossa Lisboa pudesse imitá-la... Se um dia Portugal tivesse também poder semelhante no mar! Mas isto não passa de sonho, bem que algum feito grande esteja na mente de El-rei e do seus conselheiros.</p>
 <p>-- Não adivinho qual! -- acudiu Ruy com estranheza.</p>
 <p>-- Pois em Veneza se desconfia que El-rei está no propósito de algum assinalado cometimento por mar!</p>
 <p>-- Por tal se não deu ainda! -- objetou-lhe o Vasconcelos.</p>
@@ -8875,7 +8872,7 @@
 <p>-- Isso é que eles ainda lá não sabem e pelo não saberem se deitam a adivinhar. Uns dizem que intentará El-rei a conquista do reino mouro de Granada, outros, que será propósito seu ir tomar a Sicília, e ainda outros que talvez seja para ir contra o Condado de Holanda.</p>
 <p>Pois se até alguns, de mais desvairada imaginação, chegaram a desconfiar que tais aprestos navais seriam para ir contra Veneza, em razão das muitas riquezas que lhe chegam dos lados do Oriente e de lá do cabo do Mundo!</p>
 <p>-- Talvez todas essas coisas não passem de castelos no ar, mas o certo é que nos julgam seguros contra Castela e capazes de tornar agora Portugal maior para o lado dos mares! -- disse-lhe Ruy calorosamente -- Aí tendes o milagre que fez Aljubarrota!</p>
-<p>-- E olhai que não é tudo. Por muitas vezes conversei com certo judeu mercador que viveu alguns anos em Lisboa e é agora o mais rico de Veneza. É homem de muito saber; fez longas viagens por terras de Mauritânia e do Oriente; e não sonhais sequer as maravilhas que ele viu e me contou! Um dia me esteve mostrando um grande pergaminho em que tinha o Mundo pintado, segundo um tal Marco Polo, viajante de Veneza que há longos anos faleceu.<ref target="#POR0037-nota-94"/><ref target="#POR0037-nota-94"/> Eu pouco logrei entendê-lo, e só me ficou de memória que a tal pintura do Mundo dava ideia de metade de uma lua cheia e que pouco abaixo de Marrocos estava o mar pintado de preto e lhe chamava o judeu o Mar da Noite. Pois foi ele quem me disse que já em tempo antigo certos mouros de Lisboa tinham navegado em busca daquele mar, e que cerca dele ficavam as ilhas Afortunadas que os nossos encontraram nos tempos do senhor rei D.</p>
+<p>-- E olhai que não é tudo. Por muitas vezes conversei com certo judeu mercador que viveu alguns anos em Lisboa e é agora o mais rico de Veneza. É homem de muito saber; fez longas viagens por terras de Mauritânia e do Oriente; e não sonhais sequer as maravilhas que ele viu e me contou! Um dia me esteve mostrando um grande pergaminho em que tinha o Mundo pintado, segundo um tal Marco Polo, viajante de Veneza que há longos anos faleceu.<ref target="#POR0037-nota-94"/> Eu pouco logrei entendê-lo, e só me ficou de memória que a tal pintura do Mundo dava ideia de metade de uma lua cheia e que pouco abaixo de Marrocos estava o mar pintado de preto e lhe chamava o judeu o Mar da Noite. Pois foi ele quem me disse que já em tempo antigo certos mouros de Lisboa tinham navegado em busca daquele mar, e que cerca dele ficavam as ilhas Afortunadas que os nossos encontraram nos tempos do senhor rei D.</p>
 <p>Afonso IV. -- Em vez de ir sobre Granada ou sobre Veneza -- me observou o judeu -- melhor faria o vosso rei se fosse contra Marrocos, que lá tem ao pé da porta com as riquezas de Ceuta e o tal Mar da Noite, que eu não acredito impossível de navegar». E com os olhos esgazeados para mim e os dedos recurvados sobre a pintura do tal mar, que parecia uma nuvem negra a cobrir metade de uma grande lua, terminou assim: -- Cavaleiro, quem sabe a que outro cabo do Mundo irá ter este mar?». Meteu-me outro sonho no coração o velho judeu e senti-me namorado de outro moto!</p>
 <p>-- Cavaleiro não já andante, mas navegador para a cruzada do Mar da Noite? -- disse o Vasconcelos com um sorriso, a fingir que a sua própria alma não estava também já tocada pela irradiação daquele sonho.</p>
 <p>-- Seja para o que for, porém de mais grandeza que andar a escaramuçar com quem já não quer dar-nos batalha. Aqui tendes porque vim, trazendo na alma a metade do moto do tempo em que éramos jovens. Hei de ir envelhecendo a sonhar!</p>
@@ -8913,7 +8910,7 @@
 <p>Mas um vento de sonho, de maior poder que o aquilão favorecedor, levava para longe as almas guiadoras da Nação remoçada, e naquele lance de aventura já não havia dor que chegasse para trajar de luto a página em branco de uma nova História.</p>
 <p>Despiram-se os trajes de dó, cingiu-se ao peito o ferro brunido dos arneses e, como numa aleluia, após um dia de paixão, as bandeiras e os pendões subiram aos topes dos mastros da armada que atravancava o Tejo.</p>
 <p>Embarcar, partir, transmudar em voadeiras as velas dos navios, em constelações de eterno fulgor, para uma civilização mais alta num Mundo maior, os faróis das armadas, era a sina e o destino histórico daquela Raça.</p>
-<p>A peste uivava nas ruas estreitas e nos bairros em que havia maior enxame de gente, o sol sumira-se num eclipse igual ao de 1384, mas o estado de alma era outro e ninguém acreditou no vaticínio lúgubre daquele ofuscamento de luz<ref target="#POR0037-nota-95"/><ref target="#POR0037-nota-95"/>.</p>
+<p>A peste uivava nas ruas estreitas e nos bairros em que havia maior enxame de gente, o sol sumira-se num eclipse igual ao de 1384, mas o estado de alma era outro e ninguém acreditou no vaticínio lúgubre daquele ofuscamento de luz<ref target="#POR0037-nota-95"/>.</p>
 <p>Da extinta Ala dos Namorados quantos haveria para embarcar naquela armada?</p>
 <p>Ruy de Vasconcelos, o Magriço e Vasco Eanes tiveram o cuidado de o indagar. Eram ainda vinte e três, metade deles já com os cabelos brancos a denunciarem a passagem do seu meio século de vida.</p>
 <p>Na praia do Rasteio se fizeram as últimas despedidas. Estava coberta de gente.</p>
@@ -8974,7 +8971,7 @@
 <p>Para os vencedores uma vibração de gritos triunfais; mas para os vencidos, a caminho dos aduares distantes, num esmorecimento de alma, era uma voz de amarguras, como se aquele bronze dos nazarenos pudesse soluçar as mágoas e as saudades que eles levavam!</p>
 <p>Estavam agora imensamente mais fáceis para a Espanha a expulsão do mouro dos rochedos de Gibraltar e a conquista da terra paradisíaca de Granada.</p>
 <p>E o que a Europa nem sequer ainda podia sonhar era que por aquela parte da África misteriosa se abrira o caminho prodigioso de uma nova civilização.</p>
-<p>Naquele feito de um dia apenas, fazia-se a génese de uma Renascença que a cronologia ligou a outro facto histórico,<ref target="#POR0037-nota-96"/><ref target="#POR0037-nota-96"/> mas que ali realmente alvoreceu.</p>
+<p>Naquele feito de um dia apenas, fazia-se a génese de uma Renascença que a cronologia ligou a outro facto histórico,<ref target="#POR0037-nota-96"/> mas que ali realmente alvoreceu.</p>
 </div><div type="chapter"><head>CAPÍTULO XVI</head>
 <p>OS DERRADEIROS DA ALA </p>
 <p>Nos últimos dias de Agosto começava o reembarque do exército para voltar para Portugal. Em Ceuta ficava uma forte guarnição.</p>
@@ -9045,7 +9042,7 @@
 <p>Estavam já descobertos os arquipélagos da Madeira e dos Açores, trechos preciosos de um novo Portugal.</p>
 <p>Fr. Gonçalo Velho, cavaleiro professo de preclara estirpe, comendador do castelo de Almourol, o maior navegador daquele ciclo inicial, já tinha avistado a Terra Alta da costa africana do Ocidente, para além da qual a velha geografia fizera uma noite misteriosa de três mil anos de lendas.</p>
 <p>Álvaro de Vasconcelos navegara com ele. Davam em navegadores os filhos dos Namorados. Não tardaria muitos anos que o sonho entrasse também na alma do povo, para que fossem embarcadiços, pilotos, cartógrafos os netos da peonagem esfarrapada de 1385.</p>
-<p>No dia de Todos-os-Santos de 1421, um carmelita velhinho, corpo mirrado de asceta, de amarelecida alvura como um santo antigo de marfim, agonizava numa cela do mosteiro da nossa Senhora do Vencimento do Carmo. Fora poderoso e imensamente rico; repartira os bens, alheara-se dos seus títulos de nobreza, trocara a cota de armas por um escapulário, a lança por um bordão professara. Chamava-se agora Fr. Nuno de Santa Maria aquele que fora Condestável, Conde de Ourém, de Barcelos, e de Arraiolos, o mais prodigioso herói da guerra da independência, a mais extraordinária figura que tinha dado a nossa Raça<ref target="#POR0037-nota-97"/><ref target="#POR0037-nota-97"/>.</p>
+<p>No dia de Todos-os-Santos de 1421, um carmelita velhinho, corpo mirrado de asceta, de amarelecida alvura como um santo antigo de marfim, agonizava numa cela do mosteiro da nossa Senhora do Vencimento do Carmo. Fora poderoso e imensamente rico; repartira os bens, alheara-se dos seus títulos de nobreza, trocara a cota de armas por um escapulário, a lança por um bordão professara. Chamava-se agora Fr. Nuno de Santa Maria aquele que fora Condestável, Conde de Ourém, de Barcelos, e de Arraiolos, o mais prodigioso herói da guerra da independência, a mais extraordinária figura que tinha dado a nossa Raça<ref target="#POR0037-nota-97"/>.</p>
 <p>Ainda chegaram a horas de ver como ele morria alguns velhos gloriosos do seu tempo. El-rei e dois Namorados de cabelos de neve: Ruy de Vasconcelos e o Magriço, já numa decrepitude que os avizinhava do túmulo.</p>
 <p>Aquela morte pôs de luto a Nação unânime.</p>
 <p>O povo já o tinha canonizado e chamava-lhe o Santo Condestabre. Pudera.</p>

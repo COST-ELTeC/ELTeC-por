@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0007" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0007" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -2144,7 +2141,7 @@
 <p>-- Se me não engana a memoria -- dizia Jenny -- é a traducção de uma lenda popular da Bretanha que se intitula... -- Tendo encontrado justamente a pagina que procurava, concluiu: -- Amel e Pennor.</p>
 <p>-- Não tenho já a menor ideia do que seja.</p>
 <p>-- Ora ouve então.</p>
-<p>E Jenny principiou a ler, com suavidade e graça inexprimivel, a seguinte lenda, verdadeira ou falsamente attribuida por um moderno escriptor francez á musa popular da Bretanha. <ref target="#POR0007-nota-1"/><ref target="#POR0007-nota-1"/> </p>
+<p>E Jenny principiou a ler, com suavidade e graça inexprimivel, a seguinte lenda, verdadeira ou falsamente attribuida por um moderno escriptor francez á musa popular da Bretanha. <ref target="#POR0007-nota-1"/> </p>
 <p>  -- Longe, longe d'aqui, nas costas da Bretanha,</p>
 <p> Poetico paiz, que um mar sinistro banha,</p>
 <p> Vivia, ha muito tempo, um pobre pescador,</p>

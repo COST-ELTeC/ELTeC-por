@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0061" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0061" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -889,7 +886,7 @@
 <p>-- Pois não te sentes bem aqui?</p>
 <p>-- Ainda não -- tornou Branca -- mas posso conseguil-o. Ora ouve. Eu nunca te perguntei os meios de que dispunhas, porque contava comigo. Sabes que possuo algumas prendas; e estou resolvida a aproveitar-me d’ellas para te não ser pesada.</p>
 <p>-- Tu!  -- bradou Rodrigo -- E como?</p>
-<p>-- Leccionando ahi em qualquer collegio --  respondeu serenamente -- Collegios no Porto ! <ref target="#POR0061-nota-1"/><ref target="#POR0061-nota-1"/> Cuidas que isto é Lisboa ? Louquinha! E pensas tambem, que eu consentiria em semelhante coisa? Tu, a filha e irmã dos condes d’Alvarães!...  Que diria teu marido, sabendo-o ?!</p>
+<p>-- Leccionando ahi em qualquer collegio --  respondeu serenamente -- Collegios no Porto ! <ref target="#POR0061-nota-1"/> Cuidas que isto é Lisboa ? Louquinha! E pensas tambem, que eu consentiria em semelhante coisa? Tu, a filha e irmã dos condes d’Alvarães!...  Que diria teu marido, sabendo-o ?!</p>
 <p>-- E que me importa a mim saber o que elle diz ou pensa, Rodrigo? O que me dá cuidado, é a nossa sorte futura. Somos mais do que amantes me disseste. Recordas-te? Por tanto, deixemos as falsas modestias, é necessario assentar bem a nossa situação. Eu sei que a mesada que recebes de tua casa é avultada para ti, mas insuficiente para cubrir os gastos d'uma pequena familia. Tu, vejamos: para que te sentes habilitado? Para muito, talvez, em espirito e intelligencia; mas o descostume havia de exercer um grande imperio na tua indole inquieta, e inhabilitar-te de coisa alguma. Alem d’isso, a idéa de que fui eu a causa innocente de te prender a obrigações, fazia-me de certo mal a mim, e eu, quando mais não seja, quero gozar um lugar distincto na tua amizade.</p>
 
 <p>-- Que sonhos! Que peripecias engendra a tua imaginação -- disse Rodrigo.</p>

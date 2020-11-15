@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0011" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0011" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -150,7 +147,7 @@
 <p>«O sol, que te seccou, morra nos olhos de quem te trouxe aqui!</p>
 <p>«As mãos que te enrolaram, charuto infame, sequem-se e mirrem-se como as das mumias de Memphis.</p>
 <p>«E para vós, contractadores, caixas, comarqueiros, e estanqueiros do contracto do tabaco, para vós o inferno illimitado, a região tenebrosa dos condemnados, onde ha o ranger dos dentes, e o sempiterno horror!</p>
-<p>«Para vós, Borgias, para vós, raça de Locusta, e de Brinvilliers, para vós, envenenadores impunes, o patibulo n'este mundo, d'onde fugiu espavorida a vergonha e a justiça; e as caudaes de sulphur em combustão eterna nas furnas tartareas, onde é de fé que dá urros medonhos um condemnado chamado Nicot, que trouxe para a Europa o tabaco, e teve a impudencia de o trazer a Portugal em 1560, onde viera com embaixada de França. <ref target="#POR0011-nota-1"/><ref target="#POR0011-nota-1"/> </p>
+<p>«Para vós, Borgias, para vós, raça de Locusta, e de Brinvilliers, para vós, envenenadores impunes, o patibulo n'este mundo, d'onde fugiu espavorida a vergonha e a justiça; e as caudaes de sulphur em combustão eterna nas furnas tartareas, onde é de fé que dá urros medonhos um condemnado chamado Nicot, que trouxe para a Europa o tabaco, e teve a impudencia de o trazer a Portugal em 1560, onde viera com embaixada de França. <ref target="#POR0011-nota-1"/> </p>
 <p>«Porque os vossos charutos, propinadores de venenos, ennegrecem as substancias organicas, como o acido sulphurico.</p>
 <p>«São amargos e causticos como o acido nitrico.</p>
 <p>«Calcinam os beiços como o acido hydrochlorico.</p>
@@ -180,7 +177,7 @@
 <p>«Chamae a juizo os vampiros que sugaram o soro d'esse sangue aguado que o faz tolhiço para tudo.</p>
 <p>«Fazei a autopsia de um charuto como este -- proseguia Francisco Nunes, parando e contemplando as nervuras negras do rôlo de folha, que semelhava uma rolha de cortiça queimada -- e vereis que ha aqui dentro um talo de couve lombarda, uma carocha secca, uma folha de leituga, uma casca de bolota, e tres grãositos excrementicios de rato ou coelho.</p>
 <p>«Horrivel, e sujamente infernal!</p>
-<p>«Senhores deputados! não se mata assim impunemente um povo! <ref target="#POR0011-nota-2"/><ref target="#POR0011-nota-2"/> </p>
+<p>«Senhores deputados! não se mata assim impunemente um povo! <ref target="#POR0011-nota-2"/> </p>
 <p>«As nações tyrannisadas, quando a oppressão requinta, erguem-se como um só homem, e fogem para o Aventino.</p>
 <p>«Os envenenadores congregaram-se em conciliabulo de abutres, e crearam o charuto de vintem, a pitada do meio grosso, e o cigarro onde cresce o musgo como em parede velha. Cadafalso para os envenenadores!</p>
 <p>«O conselho de saude, bandeado n'este tripudio de canibaes, forma o cortejo scientifico das parcas que nos arrebanham para a região dos suicidas. Morte ao conselho!</p>
@@ -197,7 +194,7 @@
 <p>«Ora essa, mãe! E se eu antipathisar com elle?</p>
 <p>-- Deves casar, como se sympathisasses.</p>
 <p>«Bravo!... e depois?</p>
-<p>-- E depois, virá a sympathia. Imaginas lá com que repugnancia eu casei? Casaram-me, deixei-me levar porque era uma creança, vivia na aldeia, e sonhava com os vestidos e os bailes, e os theatros do Porto. Depois, teu pae... teu pae adorava-me, dava-me mais do que eu ambicionava, e sem saber como, nem porque, contentei-me tanto com a minha sorte, que não invejava a de ninguem. Tinha vaidade em ser bonita, vestir com gosto, e chegar onde as mais ricas não podiam chegar. Via homens elegantes, reconhecia a differença que os fazia superiores a teu pae, e, comtudo, nunca me passou pela cabeça a loucura, a ingratidão, o crime da infidelidade. <ref target="#POR0011-nota-3"/><ref target="#POR0011-nota-3"/>  Posso dizer que principiei a amar meu marido, quando as outras mulheres se enfastiam. Aqui tens o que nunca te disse. Não ha homem nenhum que seja indigno da estima de uma mulher.</p>
+<p>-- E depois, virá a sympathia. Imaginas lá com que repugnancia eu casei? Casaram-me, deixei-me levar porque era uma creança, vivia na aldeia, e sonhava com os vestidos e os bailes, e os theatros do Porto. Depois, teu pae... teu pae adorava-me, dava-me mais do que eu ambicionava, e sem saber como, nem porque, contentei-me tanto com a minha sorte, que não invejava a de ninguem. Tinha vaidade em ser bonita, vestir com gosto, e chegar onde as mais ricas não podiam chegar. Via homens elegantes, reconhecia a differença que os fazia superiores a teu pae, e, comtudo, nunca me passou pela cabeça a loucura, a ingratidão, o crime da infidelidade. <ref target="#POR0011-nota-3"/>  Posso dizer que principiei a amar meu marido, quando as outras mulheres se enfastiam. Aqui tens o que nunca te disse. Não ha homem nenhum que seja indigno da estima de uma mulher.</p>
 <p>«Mas a mãe sabe que eu... amo outro homem.</p>
 <p>-- Eu não sei se amas outro homem... Sei que namoras outro homem, e entre namorar e amar está o reflectir, menina. Esse rapaz que te manda romances e cartas entre as paginas... (não te inquietes, que sei tudo, e tudo pouco vale...) esse rapaz quem é? Um filho-familia, sem posição, sem modo de vida, que te ama, que será teu marido, se tu quizeres; que viverá das tuas sopas, se as tiveres para ti, que se envergonhará da sua dependencia, quando o amor obedecer á razão; que se enfastiará dos teus carinhos, se quizeres prende'-lo com elles a ti, ou ao berço de teu filho. Se quizesses exemplos, dava'-tos. Tens ouvido censurar duas ou tres amigas, que tens, casadas com homens ricos de cabellos brancos?</p>
 <p>«Ainda hontem li um folhetim contra as mulheres que se deixam seduzir pela «fortuna» de estupidas creaturas...</p>
@@ -855,7 +852,7 @@
 <p>Eu tenho visto a suprema felicidade dos minotauros.</p>
 <p>Havia dois que espiritavam a galhofa de Melchior Pimenta; um, que repudiando, timbroso e austero, a esposa tentada pela cobra d'este paraizo terreal, onde as cobras inçam como em matagal bravio, recebe uma carta de dama d'alta estirpe, onde se lhe censura o burguez despique de peccadilho tão corrente em gente fina. O marido acceitára a correcção e a mulher incorrigivel. Melchior ria até caír.</p>
 <p>Outro, amante da paz caseira e fricassés acirrantes, conhece no aspecto carrancudo da mulher, e no aguado dos molhos, os desvios do amante: inventa pretextos para aproxima'-los e ameiga os arrufos com um jantar campestre.</p>
-<p>Outro... Melchior conhecia outro, e eu conheço-o a elle, e mais dez exemplares que Brantome não archivou, <ref target="#POR0011-nota-4"/><ref target="#POR0011-nota-4"/>  todos aporfiando em delicias sublunares.</p>
+<p>Outro... Melchior conhecia outro, e eu conheço-o a elle, e mais dez exemplares que Brantome não archivou, <ref target="#POR0011-nota-4"/>  todos aporfiando em delicias sublunares.</p>
 <p>Mas o ditosissimo, o que vive e morre sem sentir na consciencia o toque despertador, o momento da predestinação cumprida, esse é um só no meu catalogo.</p>
 <p>Melchior Pimenta, se quizeres um dia erigir estatuas aos deuses tutelares da tua prosperidade, lembra-te de Ludwig que farejou no opio a morphina; de Seguin que a descreveu; e de Sertuerner que aperfeiçoou o processo da extracção.</p>
 <p>Sem a morphina, não serias mais feliz que Octavio, que Cicero, que Domiciano, e tantos grandes e sabios do paganismo que podem, sem vergonha, apparecer diante de outros não menos sabios, e grandes senhores da christandade.</p>

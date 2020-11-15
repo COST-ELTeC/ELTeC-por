@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0013" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0013" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -380,7 +377,7 @@
 <p>-- Coitado! Eu agora é que trago entre mãos um negocio...</p>
 <p>Porque é que elles não trabalham? Porque a quebra, as afflicções, a ruina, tolheram-nos para sempre. Perderam a energia e só sonham em se tornar ricos. Vivem illudidos e tombam no sepulchro gastos e com a scisma em maravilhosos lucros. E não têm porventura razão? Não vão amanhã quinhoar d'essa larga e mysteriosa empreza -- a Morte?</p>
 </div><div type="chapter"><head>VI</head>
-<p>PHILOSOPHIA DO GABIRU <ref target="#POR0013-nota-1"/><ref target="#POR0013-nota-1"/> </p>
+<p>PHILOSOPHIA DO GABIRU <ref target="#POR0013-nota-1"/> </p>
 <p>E que tu acreditas na immortalidade da alma? Bem fundo, bem arreigado?</p>
 <p>Tenho horas em que creio: é uma esperança, um raio de luz entrando n'um tumulo vasio pela juncta abalada d'uma pedra. Porque crêr? porque não crêr? Theorias, palavras... No intimo, porém, sou materialista como toda a gente. Dormir na terra funda e gorda é bom -- dormir para sempre. Ir ser arvore, luz, detricto, correr nas veias da terra, é quasi consolador -- excellente somno sem sonhos, depois da lide canceirosa d'um dia.</p>
 <p>Na primavera quasi sempre sou materialista, no inverno idealista e com a mesma sinceridade, quasi com ferocidade.</p>

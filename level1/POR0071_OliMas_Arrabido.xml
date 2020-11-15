@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0071" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0071" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -313,7 +310,7 @@
 <p>Hora e meia depois do que fica relatado, estacionava elle junto ás portas dos aposentos de El-Rei.</p>
 <p>N'esse dia havia recepção no paço.</p>
 <p>Os cortezãos appareciam com profusão dentro das suas burlescas liteiras e enormes carruagens.</p>
-<p>Depois, apeavam-se e desappareciam ao longo do amplo pateo do velho paço da Ajuda, que um terrivel incendio mais tarde devorou <ref target="#POR0071-nota-1"/><ref target="#POR0071-nota-1"/> .</p>
+<p>Depois, apeavam-se e desappareciam ao longo do amplo pateo do velho paço da Ajuda, que um terrivel incendio mais tarde devorou <ref target="#POR0071-nota-1"/> .</p>
 <p>Do interior d'um dos custosos mas grotescos vehiculos, sahiu um fidalgo ainda moço, brilhantemente vestido, em cuja face se lia como que a anciedade pela realisação d'uma idéa concebida.</p>
 <p>Com a testa franzida, turba a vista, o labio inferior calcado pelos dentes, interrompendo por vezes a marcha grave e cadencial, -- aproximou-se da porta do palacio onde estacionava Samuel.</p>
 <p>O filho do Barbeita, reconhecendo-o a despeito d'aquella perturbação do animo que lhe transtornava a face, aventurou-se a dar um passo para elle e a dirigir-lhe a palavra:</p>
@@ -394,7 +391,7 @@
 <p>Alfim o mancebo, abraçando sua irmã ternamente, relatou-lhe tudo que se havia passado desde que partiu para os paços de Belem, até que se encontrou com o sombrio cortezão.</p>
 </div><div type="chapter"><head>VII</head>
 <p>Ás nove horas da noute do dia dous de setembro de mil setecentos e cincoenta e oito, caminhava apressadamente pela rua Direita de Belem um individuo alto e ainda joven, embuçado n'um amplo capote negro; e parava de quando a quando como que para certificar-se se seria ou não seguido.</p>
-<p>Depois de muito caminhar, pois que sahira d'uma pequena casa sita ao Alto da Pampulha, parou em frente d'um palacio esplendido cêrca dos Jeronymos, o qual mais tarde a justiça dos homens fez desmoronar <ref target="#POR0071-nota-2"/><ref target="#POR0071-nota-2"/> .</p>
+<p>Depois de muito caminhar, pois que sahira d'uma pequena casa sita ao Alto da Pampulha, parou em frente d'um palacio esplendido cêrca dos Jeronymos, o qual mais tarde a justiça dos homens fez desmoronar <ref target="#POR0071-nota-2"/> .</p>
 <p>Pelas ruas, nem viva alma.</p>
 <p>N'esses tempos Lisboa vivia vida patriarchal.</p>
 <p>Só negocios de summa urgencia ou questões de compromisso, conseguiam arrancar os moradores de suas casas, pelo receio que tinham de transitar cá por fóra.</p>
@@ -704,7 +701,7 @@
 <p>A noute com o seu manto de trévas completava esta tragedia d'Eschylo.</p>
 <p>A' medida que os noctivagos se aproximavam dos seus palacios, entravam n'elles mediante precedentes precauções, para não serem vistos por pessoa alguma.</p>
 <p>D. Leonor de Tavora, chegada que foi á primeira sala da sua vasta residencia, arremeçou o bacamarte e começou a expandir-se n'uma série d'imprecações.</p>
-<p>A não larga distancia, escondidos n'um quarto contiguo, escutavam-a uma serva da casa e seu amante... <ref target="#POR0071-nota-3"/><ref target="#POR0071-nota-3"/> </p>
+<p>A não larga distancia, escondidos n'um quarto contiguo, escutavam-a uma serva da casa e seu amante... <ref target="#POR0071-nota-3"/> </p>
 <p>Realisava-se n'este momento aquelle velho aphorismo: Demonio faz e Deus desfaz.</p>
 <p>A marqueza de Tavora foi eloquente de cholera durante o pouco tempo que se conservara alli.</p>
 <p>Depois, ergueu-se, empunhou uma lanterna e dirigiu-se á sua alcova.</p>
@@ -748,16 +745,16 @@
 <p>-- Oh! falla !.. falla!., por Deus t'o peço.</p>
 <p>-- Olha: Embrulha os poucos trapos que possuimos e fujamos de Lisboa. Esse ouro com que o duque quiz comprar o fructo d'uma torpeza chegar-nos-ha para a jornada.</p>
 <p>-- Graças! (bradou a orphã erguendo as mãos ao ceu). Fujamos, sim... fujamos já, que Deus ha de proteger-nos.</p>
-<p>Pouco tempo depois, quando os dois jovens se dispunham a partir, foram surprehendidos por dous irmãos negros <ref target="#POR0071-nota-4"/><ref target="#POR0071-nota-4"/> , que, em nome do Santo Officio, intimaram Samuel a acompanhal-os á inquisição.</p>
+<p>Pouco tempo depois, quando os dois jovens se dispunham a partir, foram surprehendidos por dous irmãos negros <ref target="#POR0071-nota-4"/> , que, em nome do Santo Officio, intimaram Samuel a acompanhal-os á inquisição.</p>
 <p>O infeliz ficou petrificado.</p>
 <p>Branca, quando o mancebo sahiu, soltou um grito agudo e cahiu desalentada.</p>
 </div><div type="chapter"><head>XV</head>
-<p>A inquisição, horrivel tribunal que se intitulava do Santo Officio, onde milhares de desgraçados soffreram tratos do inferno em nome de Jesus -- modelo de amor e paz --, foi introduzida em Portugal poucos annos depois do primeiro quartel do século XVI, a rogos do Soberano mais cruel, estupido e impostor, que Portugal tem produzido <ref target="#POR0071-nota-5"/><ref target="#POR0071-nota-5"/> .</p>
+<p>A inquisição, horrivel tribunal que se intitulava do Santo Officio, onde milhares de desgraçados soffreram tratos do inferno em nome de Jesus -- modelo de amor e paz --, foi introduzida em Portugal poucos annos depois do primeiro quartel do século XVI, a rogos do Soberano mais cruel, estupido e impostor, que Portugal tem produzido <ref target="#POR0071-nota-5"/> .</p>
 <p>Este monstro coroado, esta fera, que os zoologos não saberiam classificar, era tillio do venturoso D. Manoel, monarcha um pouco injusto e até ingrato, mas não tão estolido nem tão feroz.</p>
 <p>Chamava se aquella hydra D. João III, a quem os velhos chronistas baptisaram de piedoso!</p>
 <p>Estupenda mentira, se não foi supino escarneo!...</p>
 <p>Dez annos apoz a sua acclamação (1521), impetrou elle de Roma o estabelecimento d'aquella monstruosidade, n'estes reinos, admittindo n'elles ao mesmo tempo a nefanda companhia de Jesus, de medonha recordação.</p>
-<p>Instalou-se a primeira inquisição n'uns velhos cazarões do Rocio denominados Paços dos Estáos <ref target="#POR0071-nota-6"/><ref target="#POR0071-nota-6"/> , mandados construir em mil quatrocentos e quarenta e oito pelo infante D. Pedro, quando regente e defensor de Portugal, afim de facilitar pousada aos embaixadores estrangeiros e fidalgos das provincias, que se encontrassem na côrte.</p>
+<p>Instalou-se a primeira inquisição n'uns velhos cazarões do Rocio denominados Paços dos Estáos <ref target="#POR0071-nota-6"/> , mandados construir em mil quatrocentos e quarenta e oito pelo infante D. Pedro, quando regente e defensor de Portugal, afim de facilitar pousada aos embaixadores estrangeiros e fidalgos das provincias, que se encontrassem na côrte.</p>
 <p>D. João III, levou tão longe as provas da sua inexorabilidade, que, abandonando os paços da Ribeira, fez habitação ordinaria no palacio do Santo Officio, não o incommodando nem dolorosos clamores, nem o som baço e horrivel dos torniquetes applicados por mãos brutaes contra os corpos dos desgraçados!</p>
 <p>Não o incommodavam, não.</p>
 <p>Cada grito que soava, e que traduzia como que um mundo de soffrimento, transformava-se em seus ouvidos n'um bello hymno de gloria pelos serviços que prestava á igreja a despeito da impiedade!</p>
@@ -924,7 +921,7 @@
 <p>Uma cruz alçada, ladeada por dous frades, abria o cortejo maldito. Seguiam depois duas alas tambem de frades, resmungando monotonamente o quer que fosse em latim. Ao centro, erguiam-se alguns paineis de santos e santas. Logo depois appareciam as pobres victimas vestindo sambenitos (especie de tunicas brancas cuidadosamente guarnecidas de demonios de papel de côr); e fazia o couce d'esta infernal palhaçada um grosso numero de alabardeiros (policia da inquisição), ostentando um arreganho de soldados pretorianos.</p>
 <p>Percorridas as ruas do programma, recolhia a procissão infame e selvagem ao palacio do Santo Officio, -- levando por alvo das mil imprecações e maus tratos da ralé estupida e fanatisada, os infelizes coudemnados pelo monstruoso tribunal!!!...</p>
 <p>Depois, já quando no logar do supplicio estava tudo a postos, abriam-se de novo as portas do Santo Officio e sahia o séquito já descripto, sem que d'esta vez viessem outros infelizes, que não fossem unicamente os condemnados á fogueira!!!...</p>
-<p>A turba-multa, que franjára as ruas do transito da procissão, corria agora vertiginosamente para junto dos postes alcatroados, e empenhava-se por poder vasar um olho ou remetter um trato mais feroz <ref target="#POR0071-nota-7"/><ref target="#POR0071-nota-7"/>  aos desgraçados, que se encaminhavam lividos e atterrados para a fogueira que os aguardava!!!...</p>
+<p>A turba-multa, que franjára as ruas do transito da procissão, corria agora vertiginosamente para junto dos postes alcatroados, e empenhava-se por poder vasar um olho ou remetter um trato mais feroz <ref target="#POR0071-nota-7"/>  aos desgraçados, que se encaminhavam lividos e atterrados para a fogueira que os aguardava!!!...</p>
 <p>Ponhamos ponto aqui.</p>
 <p>Se o leitor quizer melhor conhecimento do similhantes canibalismos, continue indifferente aos manejos da reacção, que tenta erguer o colo, e pouco tardará que as fogueiras da inquisição se não accendam para proveito da seita, introducção do fanatismo e da treva, e desmoronamento da civilisação.</p>
 <p>Por emquanto os indifferentes vão soffrendo apenas os raptos das filhas e a fanatisação das esposas: Pouco é...</p>
@@ -977,14 +974,14 @@
 <p>D'entre todos os que figuraram na emboscada de Belem, só José Polycarpo d'Azevedo poude evadir-se; por cuja cabeça davam depois as justiças grossas sommas, que orçavam por uns vinte mil cruzados.</p>
 <p>O marquez de Tavora, D. Francisco d'Assis, foi preso nos proprios paços reaes, á voz de Sebastião de Carvalho, indo queixar-se alli, ao sahir d'um baile, da desconsideração que se lhe fizera, desde que se poz em movimento, sem sua ordem, a cavallaria de que era inspector.</p>
 <p>A's oito horas da manhã do mencionado dia, já todos os criminosos (e innocentes) se encontravam reclusos, se exceptuarmos D. José de Mascarenhas e seus creados.</p>
-<p>Os fidalgos deram entrada no pateo dos Bixos <ref target="#POR0071-nota-8"/><ref target="#POR0071-nota-8"/>  em Belem; os serviçaes implicados, ficaram custodiados nas prisões ordinarias, e as familias d'aquelles foram distribuidas pelos differentes conventos da capital, onde permaneceram até depois do encerramento do processo.</p>
+<p>Os fidalgos deram entrada no pateo dos Bixos <ref target="#POR0071-nota-8"/>  em Belem; os serviçaes implicados, ficaram custodiados nas prisões ordinarias, e as familias d'aquelles foram distribuidas pelos differentes conventos da capital, onde permaneceram até depois do encerramento do processo.</p>
 <p>Pouco tempo depois, o duque d'Aveiro e D. Leonor de Tavora eram tambem remettidos ás pavorosas prisões do pateo dos Bixos, a que acima nos referimos.</p>
 <p>Deixemos correr o processo á feição de Sebastião de Carvalho, aguardemos o resultado e occupemo-nos dos jesuitas.</p>
 <p>Os seraphicos filhos de Loyolla maldisseram da emboscada, quando souberam do succedido.</p>
 <p>Não lhes valeram as suas preces ao Altissimo, pelo feliz exito da traição premeditada.</p>
 <p>E' que Deus não protege o crime, nem tão pouco podia attender aos mais perversos de seus filhos.</p>
 <p>Cain e Judas foram dous entes virtuosos, comparados com estes impios.</p>
-<p>No collegio de Santo Antão <ref target="#POR0071-nota-9"/><ref target="#POR0071-nota-9"/>  (antiga residencia dos jesuitas, e actualmente hospital da Misericordia sob a invocação de hospital de S. José) bem como no palacio da inquisição, tocou-se a capitulo no dia immediato á noute do delicto.</p>
+<p>No collegio de Santo Antão <ref target="#POR0071-nota-9"/>  (antiga residencia dos jesuitas, e actualmente hospital da Misericordia sob a invocação de hospital de S. José) bem como no palacio da inquisição, tocou-se a capitulo no dia immediato á noute do delicto.</p>
 <p>N'uma e n'outra casa, que de sobra se entendiam, era geral o desanimo.</p>
 <p>A mão potente de Sebastião de Carvalho, que já tantas vezes as havia espancado, estava de novo suspensa como a espada de Democles, e d'um momento para o outro as poderia esmagar.</p>
 <p>Esta idéa incutia-lhes mais terror do que o leão de Neméa que lhes surgisse de subito.</p>
@@ -1022,7 +1019,7 @@
 <p>Branca, já sem forças, não empregava um único movimento de resistencia, e limitava-se apenas a emittir uns tenuesinhos gemidos, cujos sons a mordaça interceptava.</p>
 <p>Pouco depois o arruido deixou de ouvir-se.</p>
 <p>Então, os bandoleiros, cobrando animo, proseguiram na sua marcha.</p>
-<p>Quando penetravam no largo do Corpo Santo, na intenção de se internarem na praia <ref target="#POR0071-nota-10"/><ref target="#POR0071-nota-10"/> , deram de frente com alguns familiares do Santo Officio (vestindo negros farricocos), os quaes conduziam á inquisição um miseravel cigano, que encontraram durante a ronda.</p>
+<p>Quando penetravam no largo do Corpo Santo, na intenção de se internarem na praia <ref target="#POR0071-nota-10"/> , deram de frente com alguns familiares do Santo Officio (vestindo negros farricocos), os quaes conduziam á inquisição um miseravel cigano, que encontraram durante a ronda.</p>
 <p>Bandidos e irmão negros pararam por seu turno.</p>
 <p>Eram os tigres e as pantheras, que se miravam desconfiadas.</p>
 <p>Branca, percebeu o encontro, e envidou um esforço desesperado para sahir das garras que a prendiam.</p>
@@ -1061,7 +1058,7 @@
 <p>O frade não lhe podia ler no espirito similhante resolução; e cada vez que ella lhe dirigia uma palavra, ou lhe remettia um olhar dos seus grandes olhos negros, sentia-se como que transportado a um mundo de delicias.</p>
 <p>Pouco a pouco chegaram ao Rocio.</p>
 <p>Em derredor d'elles reinava o silencio dos sepulchros.</p>
-<p>Nem no palacio da Inquisição, nem no hospital de Todos os Santos <ref target="#POR0071-nota-11"/><ref target="#POR0071-nota-11"/> , que n'essa epocha demorava a um dos lados do terreiro, se ouvia o menor rumor.</p>
+<p>Nem no palacio da Inquisição, nem no hospital de Todos os Santos <ref target="#POR0071-nota-11"/> , que n'essa epocha demorava a um dos lados do terreiro, se ouvia o menor rumor.</p>
 <p>Então o inquisidor, ardendo em lascivia, abriu-se francamente com a donzella.</p>
 <p>Não era ainda ensejo para Branca o repellir.</p>
 <p>Nesta conjunctura relevou ella que o monstro lhe babasse a mão de jaspe, não sem lhe fazer um nojo indescriptivel.</p>
@@ -1082,18 +1079,18 @@
 <p>Curtos instantes depois, encontrava-se sob o chão uma mulher desmaiada, junto ao cadaver do um frade.</p>
 </div><div type="chapter"><head>XX</head>
 <p>Estamos no mez de janeiro do anno de mil setecentos e cincoenta e nove.</p>
-<p>No dia 11 proferia-se a primeira sentença, que degredava os conjurados de todas as honras, grandezas, regalias e privilegios que até ali lhes competiam;-- no dia 12 lavrava-se outra, condemnando-os á morte <ref target="#POR0071-nota-12"/><ref target="#POR0071-nota-12"/> ; -- e no dia 13, (hora e meia da madrugada), assignava-se a ultima, desnaturalisando-os.</p>
+<p>No dia 11 proferia-se a primeira sentença, que degredava os conjurados de todas as honras, grandezas, regalias e privilegios que até ali lhes competiam;-- no dia 12 lavrava-se outra, condemnando-os á morte <ref target="#POR0071-nota-12"/> ; -- e no dia 13, (hora e meia da madrugada), assignava-se a ultima, desnaturalisando-os.</p>
 <p>Já poucas horas lhes restavam de existencia.</p>
 <p>No largo de Belem avultava sobre o solo, como medonho phantasma em noute de procella, um enorme cadafalso com dezoito palmos d'alto, trinta e seis de comprimento e vinte e oito de largura.</p>
 <p>Nas quatro faces do feroz patibulo divisavam-se oito rodas para collocação dos cadaveres dos justiçados, bem como differentes utensilios de tortura.</p>
 <p>Alguns corpos de infanteria e cavallaria circulavam o local do supplicio, de modo a obstruirem as extremidades das ruas que dão sahida para o largo.</p>
 <p>Esbirros e outra gente de justiça, rigorosamente uniformisada, rondava as ruas de Lisboa e Belem, e tomava todas as precauções para evitar qualquer tumulto.</p>
 <p>As restantes tropas achavam-se de prevenção nos quarteis.</p>
-<p>Rompe o dia treze, sombrio e triste <ref target="#POR0071-nota-13"/><ref target="#POR0071-nota-13"/> .</p>
+<p>Rompe o dia treze, sombrio e triste <ref target="#POR0071-nota-13"/> .</p>
 <p>Dir-se-hia que o rei dos astros se escondera horrorisado do tremendo espectaculo, que ia prestes começar.</p>
 <p>O famoso reinado de D. José celebrisou-se mais por este feito hediondo, do que por todos os rasgos d'excelsitude que caracterisam aquelle periodo de prosperidade nacional.</p>
 <p>Em toda a parte onde a civilisação tinha um templo, e até onde chegára a nova do incrivel facto, todos á porfia soltaram interjeições de admiração e horror.</p>
-<p>A terrivel execução de Roberto Damiens <ref target="#POR0071-nota-14"/><ref target="#POR0071-nota-14"/> , -- grande escarro cuspio á face da humanidade -- some-se nas sombras da pequenez perante a incommensurabilidade dos supplicios de Belem.</p>
+<p>A terrivel execução de Roberto Damiens <ref target="#POR0071-nota-14"/> , -- grande escarro cuspio á face da humanidade -- some-se nas sombras da pequenez perante a incommensurabilidade dos supplicios de Belem.</p>
 <p>Não obstante, constitue ella um dos traços mais pronunciados da horrenda tela onde a historia desenhou as supremas monstruosidades d'uma besta coroada que se chamou Luiz XV.</p>
 <p>Vejamos:</p>
 <p>São seis horas e meia da manhã, aproximadamente.</p>
@@ -1121,7 +1118,7 @@
 <p>A verdadeira historia ahi anda por sob o pó das estantes.</p>
 <p>Pouco custa procural-a e vêl-a.</p>
 <p>Alguns momentos depois estava traçada a segunda estrophe d'este poema de sangue.</p>
-<p>José Maria de Tavora soffrêra garrote vil, ao mesmo tempo que n'uma aspa <ref target="#POR0071-nota-15"/><ref target="#POR0071-nota-15"/> , lhe quebravam inexoravelmente os ossos!!!...</p>
+<p>José Maria de Tavora soffrêra garrote vil, ao mesmo tempo que n'uma aspa <ref target="#POR0071-nota-15"/> , lhe quebravam inexoravelmente os ossos!!!...</p>
 <p>Terceira vez appareceu a infernal cadeirinha, conduzindo um outro joven.</p>
 <p>Era Luiz Bernardo de Tavora, também marquez d'este titulo, e filho primogenito de D. Francisco e sua esposa.</p>
 <p>Vestia fato de veludo preto e meias da mesma côr.</p>
@@ -1133,7 +1130,7 @@
 <p>Houve alguns minutos de demora.</p>
 <p>E' que os algozes já vergavam physicamente á fadiga d'esta tarefa selvagem.</p>
 <p>Precisavam refazer-se de novas forças para recomeçarem n'este espectaculo feroz.</p>
-<p>O corregedor concedeu-lhes o tomarem algum vinho e alguns outros alimentos <ref target="#POR0071-nota-16"/><ref target="#POR0071-nota-16"/> .</p>
+<p>O corregedor concedeu-lhes o tomarem algum vinho e alguns outros alimentos <ref target="#POR0071-nota-16"/> .</p>
 <p>Concluida a refeição, chegaram por seu turno ao patibulo os plebeus Manoel Alvares Ferreira e Braz José Romeiro.</p>
 <p>Vinham de calções, descalços e em mangas de camisa!</p>
 <p>Em seguimento foram torturados como os miseros precedentes.</p>
@@ -1305,7 +1302,7 @@
 <p>Depois, partiram em busca d'uma outra habitação, que facilmente encontraram.</p>
 <p>As moedas d'ouro offerecidas pelo duque, existiam ainda intactas.</p>
 </div><div type="chapter"><head>XXIII</head>
-<p>O caso da evasão de José Polycarpo d'Azevedo (um dos conjurados,) foi a origem de não poucas perseguições, e de torturas enormissimas <ref target="#POR0071-nota-17"/><ref target="#POR0071-nota-17"/> .</p>
+<p>O caso da evasão de José Polycarpo d'Azevedo (um dos conjurados,) foi a origem de não poucas perseguições, e de torturas enormissimas <ref target="#POR0071-nota-17"/> .</p>
 <p>Antes e depois do supplicio de Belem, as prisões de Lisboa atulharam-se d'individuos suspeitos de serem o fugitivo.</p>
 <p>A mira nos premios offerecidos por edital regio a quem o capturasse, levou bastantes miseraveis a arrastarem aos carceres um bom numero de innocentes.</p>
 <p>Foi uma época de terror.</p>
@@ -1323,10 +1320,10 @@
 <p>E' comtudo urgente asseverar-se que o famoso breve «Dominus Redemptor» que dissolveu a Companhia, não fôra promovido apenas pelo conde d'Oeiras: A França, Hespanha e Napoles repetiram com energia os rogos e exigencias de Portugal junto á Santa Sé: e o Pontifice, em face das relações politicas d'estas potencias que se iam anuviando , foi forçado a dar o golpe desejado na congregação jesuitica.</p>
 <p>Antes d'isto porém, e para que a perseguição se ajustasse o mais possivel com os erros e malignidades dos filhos de Loyolla, já de França os havia enxotado o duque de Choiseul; e a Hespanha e Napoles os tinha feito escoar pelas raias como cousa que empestava.</p>
 <p>A questão dos jesuitas, levantou pois ao apogeo da gloria o energico conde d'Oeiras.</p>
-<p>Pena foi que elle se conspurcasse no sangue de Belem, e mais tarde no do misero Malagrida, ancião e demente, que, se não fôra padre da Companhia, deixaria decerto de ser immolado á vingança do ministro <ref target="#POR0071-nota-18"/><ref target="#POR0071-nota-18"/> .</p>
+<p>Pena foi que elle se conspurcasse no sangue de Belem, e mais tarde no do misero Malagrida, ancião e demente, que, se não fôra padre da Companhia, deixaria decerto de ser immolado á vingança do ministro <ref target="#POR0071-nota-18"/> .</p>
 <p>Tamanhos canibalismos, nunca lh'os perdoará a historia e a humanidade.</p>
 <p>Samuel, como o dissémos, vivia encarcerado na propria casa.</p>
-<p>Os miseraveis, ávidos dos premios promettidos, denunciavam e prendiam ás cégas, desejosos d'acertar com o celebre foragido <ref target="#POR0071-nota-19"/><ref target="#POR0071-nota-19"/> .</p>
+<p>Os miseraveis, ávidos dos premios promettidos, denunciavam e prendiam ás cégas, desejosos d'acertar com o celebre foragido <ref target="#POR0071-nota-19"/> .</p>
 <p>Como a ambição tranforma o homem em féra!</p>
 <p>O encarceramento voluntario do mancebo, já tinha dado nas vistas d'um dos infames pretendentes do regio premio.</p>
 <p>Por este facto rondava elle com frequencia a porta dos dois orphãos.</p>

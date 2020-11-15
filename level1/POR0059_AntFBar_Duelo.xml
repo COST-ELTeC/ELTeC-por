@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0059" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0059" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -1689,7 +1686,7 @@
 <p>Salve! Atalaia da barra! </p>
 <p>Sentinella do Restello </p>
 <p>Padrão glorioso e bello</p>
-<p>Da nossa gloria maior! <ref target="#POR0059-nota-1"/><ref target="#POR0059-nota-1"/> </p>
+<p>Da nossa gloria maior! <ref target="#POR0059-nota-1"/> </p>
 <p>Desculpe o leitor esta saudação, que não posso eu esquivar me a dar-lh'a. Não posso, nem devo mesmo peneirar n'aquella formosa torre sem a saudar reverente, como outr'ora os galeões das Indias, como em volvidos tempos de nacional explendor os capitães portuguezes, que levavam o nosso nome às ignotas regiões; e traziam de lá para este occidental rincão do mundo as pareas de mil povos, a submissão de regalos, o dominio de terras não conhecidas. </p>
 <p>Não posso. Dão devemos nem podemos deixar de respeitar n'aquelle monumento, o valor provado nas privações, a coragem nas lutas, a civica virtude de nossos maiores em todos os feitos preclaros, que no mundo obraram. Salvé! Symbolo da nossa gloria! Salve livro aberto em rendadas pedras das proesas de mil indigites, da nossa historia immortal!</p>
 <p>Entremos agora. Melhor e mais condigna habitação tem n'ella D. Francisco Manuel. Alli lhe traz a brisa do mar alentos de vida ao peito opprimido; alli vê passar as naus portuguezas, que escurecem a fama da rainha do Adriatico; d'allí póde sandar a cada momento o pendão das quinas, pelo qual já combatera em terra e mar e alli continuar, melhormente inspirado, os seus trabalhos de historia, de moral e de litteratura. </p>

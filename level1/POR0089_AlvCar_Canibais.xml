@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0089" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0089" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -80,7 +77,7 @@
 <body>
 <div type="chapter"><head>I</head>
 <p>Disse a crítica pela boca de Boileau:</p>
-<p>Rien n'est beau que le vrai <ref target="#POR0089-nota-1"/><ref target="#POR0089-nota-1"/> ,</p>
+<p>Rien n'est beau que le vrai <ref target="#POR0089-nota-1"/> ,</p>
 <p>e não tardou que as fábulas, arabescos exóticos e exageros, oriundos principalmente dos tempos heróicos, perdessem toda a soberania dantes exercida na ampla esfera das boas letras. Os Prometeus, os Hércules, os Teseus e as Esfinges, se não desapareceram em pó, lançados aos quatro ventos, é porque era necessário que se conservassem os padrões que deviam guiar o filósofo através dos labirintos do passado. Por isso lá estão firmes ainda em seus pedestais de pedrarias, mas ofuscados pela luz brilhante que só vem da verdade.</p>
 <p>Todavia não deixarei eu de confessar o amor, que sempre tive por contos de fadas, para que se não estranhem algumas murmurações, acaso fugitivas, no acto de me sacrificar às exigências desta geração pretensiosa.</p>
 <p>Sacrifico-me. Mas, como não sou dado a transcendências, pois abomino tanto a incógnita dos matemáticos, como a Dulcineia dos Quixotes, abro sobre os joelhos uma crónica, que casualmente me veio à mão, e, aproveitando os cabedais da minha escolha, deixarei deste modo de ser constrangido a inventar, no que iria grande perigo de volver costas à verdade.</p>
@@ -89,7 +86,7 @@
 <p>Quem não sabe o que é um baile? E todavia sinto-me tentado a descrevê-lo, sem desconhecer que nisso irá falta de modéstia, e trabalho verdadeiramente ocioso. Mil poetas, no exagero de aprimorados versos, têm sabido pintá-lo, sem omissão de algum dos matizes, que o abrilhantam. Melhor será, portanto, que o leitor veja a descrição do meu baile em qualquer poema artisticamente fantasioso, porque nisto de descrições não há sair do mesmo terreno. Senão, aqui lhe dou os traços de um aligeirado esboço!</p>
 <p>Flores das mais odorantes em gigantescos jarrões de esmaltada porcelana; a arte a revelar-se por toda a parte, na moldura dos espelhos, nos painéis, nos tectos dourados; emanações balsâmicas a exalarem-se por esses recintos encantados; ao longe uma música voluptuosa, não sei de que maestro inspirado; e, sobressaindo a tudo, pares animados de muita vida e muito amor, abandonando-se à efervescência das danças, correndo agora numa iriada mistura de cores, para ligeiros se separarem logo debaixo dos olhos curiosos dos que se contentam em ver, esteados com certo ar estudado ao mármore das colunatas, ou recostados nas voluptuosas otomanas.</p>
 <p>O sol majestoso dum formoso dia de Verão não se projecta mais radiante sobre as asas e sobre as pétalas, ricamente variegadas de mil borboletas e de mil flores, do que aqueles centenares de sóis artificiais, dardejados dos cristais reluzentes, sobre as vestes sumptuosas, que as damas arrastavam pelos aveludados tapetes.</p>
-<p>Como nas libações em honra do esperto Baco, em que sacerdotes e sacerdotisas entram mornos, ou mesmo arrefecidos, para depois, ao empunharem a vigésima taça do licor fervente, deixarem rebrilhar os olhos e desgrenhar os cabelos no «evohé!» <ref target="#POR0089-nota-2"/><ref target="#POR0089-nota-2"/>  do entusiasmo, assim no baile tinha a ebriedade dos prazeres despertado adormecidos sentimentos.</p>
+<p>Como nas libações em honra do esperto Baco, em que sacerdotes e sacerdotisas entram mornos, ou mesmo arrefecidos, para depois, ao empunharem a vigésima taça do licor fervente, deixarem rebrilhar os olhos e desgrenhar os cabelos no «evohé!» <ref target="#POR0089-nota-2"/>  do entusiasmo, assim no baile tinha a ebriedade dos prazeres despertado adormecidos sentimentos.</p>
 <p>Avultava contudo ali uma vista desassossegada e inquieta, que, sobretudo, feria alguns observadores, que nem curavam de ocultar o frenesi, que os assoberbava.</p>
 <p>Histórias do coração por certo.</p>
 <p>Margarida é uma das mulheres fatais, que atraem irresistivelmente. Solteira, homem, que por desgraça a fitou, quer ser um Romeu; casada, não faltariam Werthers, que rebentassem o crânio para lhe merecer uma saudade.</p>

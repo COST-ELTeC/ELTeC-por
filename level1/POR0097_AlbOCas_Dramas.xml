@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0097" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0097" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -90,12 +87,12 @@
 <p>No horisonte já não scintillava a estrella dos guerreiros de Ceuta, de Arzilla e de Tanger. </p>
 <p>Um negrume espesso offuscava-lhe o brilho, envolvendo-a nos rolos de fumo, que se elevavam das fetidas e sinistras fogueiras, com que a Inquisição ladeava o altar do Crucificado, do adoravel Jesus de Nazareth. </p>
 <p>Não é nas trevas que se tempera o animo de um povo. </p>
-<p>A preoccupação unica dos moços fidalgos era attrahir a vista do seu soberano; arruinavam as suas casas para, cobertos de brocados, telas de oiro e de prata, tecidos de seda e pedrarias preciosas, acompanharem aquelle louco fanatico, que os arrastava a uma lucta desigual e fatal, como se fossem para um torneio, ou para uma montaria de javalis na coutada de Pancas. <ref target="#POR0097-nota-1"/><ref target="#POR0097-nota-1"/> </p>
+<p>A preoccupação unica dos moços fidalgos era attrahir a vista do seu soberano; arruinavam as suas casas para, cobertos de brocados, telas de oiro e de prata, tecidos de seda e pedrarias preciosas, acompanharem aquelle louco fanatico, que os arrastava a uma lucta desigual e fatal, como se fossem para um torneio, ou para uma montaria de javalis na coutada de Pancas. <ref target="#POR0097-nota-1"/> </p>
 <p>Felizes os que cabiram, feridos de morte, logo ao primeiro golpe, esses, ao menos, não tiveram de chorar no desterro as suas illusões perdidas, não viram a patria captiva, não tiveram de dobrar vergonhosamente o joelho perante o orgulhoso e astuto castelhano, que soube calar todas as resistencias mais pelo toque do oiro do que pela violencia. </p>
 <p>A corrupção acabou por dominar as forças e a vida do paiz, já enfraquecido pelas imprudencias de D. Sebastião, que tudo sacrificou ao seu louco devaneio. A gangrena lavrava profundamente; a Companhia de Jesus, que predominava sobre o espirito de el-rei, e que lhe preparou a queda, avassalava todas as consciencias e precipitava os acontecimentos, que não se fizeram esperar. </p>
 <p>A desvairada velleidade de D. Sebastião de fundar um grande imperio, á custa do territorio marroquino, levou-o á tristemente celebre derrota de Alcacer-Kibir. </p>
 <p>O resultado do conflicto só podia ser duvidoso para aquelle rei moço e inexperiente, mas cavalheirosamente valoroso, de que uma sociedade religiosa, que ambicionava o imperio do mundo, fizera apenas um monge guerreiro e ascetico. </p>
-<p>No coração e no cerebro d'aquelle desditoso mancebo, dirigido pelos jesuitas, que tudo governavam em Portugal, <ref target="#POR0097-nota-2"/><ref target="#POR0097-nota-2"/>  só havia de humano o fanatismo, o orgulho e a sede de conquistas. Foi isto que o perdeu. </p>
+<p>No coração e no cerebro d'aquelle desditoso mancebo, dirigido pelos jesuitas, que tudo governavam em Portugal, <ref target="#POR0097-nota-2"/>  só havia de humano o fanatismo, o orgulho e a sede de conquistas. Foi isto que o perdeu. </p>
 <p>Houve quem asseverasse que Filippe II exclamara, ao ver o sobrinho inabalavel em realizar a jornada d'Africa: -- Vaya en ora buena, que si venciere buen yenro tendremos, y si fuere vencido buen reyno nos vendrá. </p>
 <p>Foi vencido e morto! </p>
 <p>As galas tinham-se transformado em luto, no reino a consternação era geral. O cardeal D. Henrique, unico filho que restava do segundo matrimonio d'el-rei D. Manuel, fraco, irresoluto, inclinado á politica de Castella e jesuita de corpo e alma, não podia acudir ás desgraças da patria. O seu curto reinado só serviu para entregar á dynastia filippina o sceptro, que as suas mãos debeis e tremulas mal podiam segurar. </p>
@@ -414,7 +411,7 @@
 <p>-- Lá isso tanto vale a alta como a baixa -- continuou o barbeiro, -- ambas se compõem de homens recrutados entre os facinorosos. Já mais de uma vez esses escandalos lhe iam custando a vida, mas não tem emenda. Uma tarde em que el-rei voltava de Palhavã, desviou-se dos que o acompanhavam, e foi atacar dois homens que avistou. Um d'elles tel-o-hia morto, se não ouvisse o Monteiro Mór gritar: Senhor, não é razão que vossa magestade mate os seus proprios vassallos. Foi a ouvir a palavra magestade que os homens cheios de medo se metteram atraz de um muro, livrando-se assim da colera d'el-rei. Pois logo dias depois, ao passar pelo Noviciado dos jesuitas, encontrou tres homens e deu sobre elles com a espada em punho, mas como ia de botas, embaraçou-se de maneira, que, aos primeiros golpes que lhe deram, cahiu por terra e ficou ferido n'uma verilha. Por um triz que não dão cabo d'elle. </p>
 <p>-- E o escandalo em S. Roque, na procissão dos Passos -- atalhou o soldado, -- em que elle atacou um homem que ia com duas mulheres, e investiu depois o pateo da casa do marquez de Niza. </p>
 <p>-- Pois sim, mas isso foi antes de ser casado -- ponderou a senhora Angelica. </p>
-<p>-- Ora! bem se importa el rei com a brichota <ref target="#POR0097-nota-3"/><ref target="#POR0097-nota-3"/> , o seu gosto é andar com os seus valentes -- exclamou mestre Aniceto. </p>
+<p>-- Ora! bem se importa el rei com a brichota <ref target="#POR0097-nota-3"/> , o seu gosto é andar com os seus valentes -- exclamou mestre Aniceto. </p>
 <p>-- Mas a rainha é muito formosa -- disse ainda a senhora Angelica. </p>
 <p>-- El-rei não é homem! -- tornou o barbeiro. </p>
 <p>-- Não é homem! -- disse a doceira abrindo muito os olhos. </p>

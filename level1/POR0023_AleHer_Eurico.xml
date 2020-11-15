@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0023" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0023" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -632,7 +629,7 @@
 <p>«Nem as promessas, nem os tormentos poderam tirar de suas bocas o teu nome e a tua jerarchia. Mas jura-me que és a irman de Pelagio, e elle poderá esquivar, se quizeres, o seu tremendo destino.»</p>
 <p>«Fora inutil negar o que eu propria confessei. O meu nome é Hermengarda: o duque de Cantabria, Favila, foi meu pae, e Pelagio é o filho e successor de Favila.»</p>
 <p>O amir ficou alguns momentos calado com o braço d'Hermengarda preso na mão robusta, que ella sentia tremula com o tumultuar dos affectos que agitavam o coração do arabe. Este, por fim, exclamou:</p>
-<p>«Pelo precursor do sancto propheta; por Issa <ref target="#POR0023-nota-1"/><ref target="#POR0023-nota-1"/> , Hermengarda, que, se amas teu irmão, me digas: -- eu serei tua. Estas palavras o farão senhor da mais rica provincia do Andalús, daquella que elle escolher para reinar como amir: os guerreiros que o seguem serão os walis das suas cidades, os kaiyds dos seus castellos: dos meus thesouros metade será delle. As escravas que muito hei amado não mais verão sorrir-lhes o rosto de seu senhor. Tu serás rainha do meu coração; rainha sem rival; senhora de tudo sobre quanto se estende o poder de Abdulaziz, do filho querido do invencivel Musa. Profere só essas palavras, e a sorte de Pelagio será invejada pelos nossos mais illustres guerreiros!...»</p>
+<p>«Pelo precursor do sancto propheta; por Issa <ref target="#POR0023-nota-1"/> , Hermengarda, que, se amas teu irmão, me digas: -- eu serei tua. Estas palavras o farão senhor da mais rica provincia do Andalús, daquella que elle escolher para reinar como amir: os guerreiros que o seguem serão os walis das suas cidades, os kaiyds dos seus castellos: dos meus thesouros metade será delle. As escravas que muito hei amado não mais verão sorrir-lhes o rosto de seu senhor. Tu serás rainha do meu coração; rainha sem rival; senhora de tudo sobre quanto se estende o poder de Abdulaziz, do filho querido do invencivel Musa. Profere só essas palavras, e a sorte de Pelagio será invejada pelos nossos mais illustres guerreiros!...»</p>
 <p>No gesto do agareno todos os vestigios da colera tinham desapparecido: só nelle se lia a anciedade de um amor immenso, que precisa, mais que do goso brutal, de um sentimento accorde com os proprios sentimentos.</p>
 <p>Mas Hermengarda só vira affronta e opprobrio nas palavras do amir, e o odio a este homem, cuja natural fereza e orgulho o amor convertera em brandura e, talvez, em submissão, tornou-se ainda maior ao ouvi-lo. Recobrando toda a energia da sua alma, que por um momento vacillara, respondeu, olhando para Abdulaziz com ar de desprezo:</p>
 <p>«Nem sempre os valentes conquistadores da Hespanha podem achar traidores que vendam por ouro e honras infames os sepulchros de seus paes e os altares do Senhor. Não! Pelagio não acceitará nunca um logar entre os filhos de Witiza e o conde de Septum; porque Deus o guarda para vingador de seus trahidos irmãos. Infiel, grande era o preço que davas por uma filha da serva raça dos godos: guarda-o para o empregares melhor; para comprares as nobres e livres donzellas do teu paiz. Tudo o que me offereces é vil; porque vem de ti, maldicto. Só uma offerta te acceito; ha muito que t'a pedi: a morte... a morte, e que seja breve. Abomino-te, destruidor da Hespanha... Não! Enganei-me! Desprezo-te, salteador do deserto.»</p>

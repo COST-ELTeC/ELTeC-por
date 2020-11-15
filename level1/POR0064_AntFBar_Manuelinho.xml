@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0064" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0064" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -465,7 +462,7 @@
 <p>O fidalgo portuguez agitou uma campainha com violencia nervosa, bradando conjunctamente: olá, criadagem! </p>
 <p>Appareceu á porta o vulto do velho Lopo. </p>
 <p>-- Ordeno a todos os meus creados que me não procurem e que digam a estranhos que lhes não posso falar. </p>
-<p>Lopo voltou-se e partiu a transmittir aos demais domesticos aquella ordem estranha, dada com tão mau modo. O velho ia triste: que lhe adivinharia o coração? Transmittiu a todos a ordem com tão repulsivo semblante que, involuntariamente, aquelles se deixaram tomar do aspecto do velho Lopo. Era elle o mais antigo criado da casa: o vel-o triste significava transmissão de cuidados dos senhores do castello. N'este caso, havia causa para a tristeza do velho; mas, como explicar a que de nós se apodera, sem motivo algum conhecido, e que só mais tarde se explica n'um ou noutro acontecimento, que nos prejudica? Como explicar o subito e dolorido pulsar mais forte do coração, prenuncio certo de uma desgraça que nos fere? Como o esvoaçar teimoso de um besouro desmedido e feio em volta de um irmão, quando áquella mesma hora outro irmão se lhe suicida? <ref target="#POR0064-nota-1"/><ref target="#POR0064-nota-1"/>  </p>
+<p>Lopo voltou-se e partiu a transmittir aos demais domesticos aquella ordem estranha, dada com tão mau modo. O velho ia triste: que lhe adivinharia o coração? Transmittiu a todos a ordem com tão repulsivo semblante que, involuntariamente, aquelles se deixaram tomar do aspecto do velho Lopo. Era elle o mais antigo criado da casa: o vel-o triste significava transmissão de cuidados dos senhores do castello. N'este caso, havia causa para a tristeza do velho; mas, como explicar a que de nós se apodera, sem motivo algum conhecido, e que só mais tarde se explica n'um ou noutro acontecimento, que nos prejudica? Como explicar o subito e dolorido pulsar mais forte do coração, prenuncio certo de uma desgraça que nos fere? Como o esvoaçar teimoso de um besouro desmedido e feio em volta de um irmão, quando áquella mesma hora outro irmão se lhe suicida? <ref target="#POR0064-nota-1"/>  </p>
 <p>Tudo isto serão crenças, acaso, superstição? </p>
 <p>A sciencia humana ignora muita cousa. </p>
 </div><div type="chapter"><head>VII</head>

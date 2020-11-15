@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0063" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0063" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -2187,7 +2184,7 @@
 <p>Não sei como saí.</p>
 <p>Fora da porta vi ao longe, no começo da rua, uma luz caminhar! caminhava, crescia! Havia alguém, vestido de vermelho, que a trazia! Parecia-me ser sangue! A luz crescia. Esperei, a tremer. Aquilo caminhava para mim.</p>
 <p>Aproximava-se! Eu estava encostada á porta, na sombra, fria de pedra. A luzchegou: vi-a. Era um padre, era outro homem com uma opa vermelha e uma lanterna. Iam levar a alguém a extrema unção...</p>
-<p>Amparei-me no braço de Bety, e comecei a andar, sem saber para onde, como louca.<ref target="#POR0063-nota-1"/><ref target="#POR0063-nota-1"/>  </p>
+<p>Amparei-me no braço de Bety, e comecei a andar, sem saber para onde, como louca.<ref target="#POR0063-nota-1"/>  </p>
 <p>SÉTIMA PARTE </p>
 <p>CONCLUEM AS REVELAÇÕES DE A. M. C.</p>
 </div><div type="chapter"><head>CAPÍTULO I</head>

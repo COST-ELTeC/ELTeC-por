@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0092" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0092" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -1155,7 +1152,7 @@
 
 <l>Serás Pai, serás Rei de mansa gente</l> 
 <l>Sem que mais ouças revoltoso estouro.</l>
-<l>Obra dos filhos de infernal serpente.»<ref target="#POR0092-nota-1"/><ref target="#POR0092-nota-1"/></l>
+<l>Obra dos filhos de infernal serpente.»<ref target="#POR0092-nota-1"/></l>
 
 <p>Durante a leitura desta composição-poética, frei Quintino, passeando a vista pelos circunstantes, com um leve sorriso de intima satisfação, natural num padrinho extremoso, especialmente quando êsse padrinho é um eclesiástico, marcava o ritmo com a cabeça.</p>
 <p>-- Hein ? que me diz aos versos ? -- interrogou êle voltando-se para Luís Maria, antes mesmo do poeta haver concluído.</p>

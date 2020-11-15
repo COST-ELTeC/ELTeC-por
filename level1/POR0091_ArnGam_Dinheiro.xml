@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0091" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0091" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -440,7 +437,7 @@
 <quote>
 <l>.... uma flor... um bichinho,</l>
 <l>Um ninho de pardal, um gafanhoto,</l>
-<l>Da historia natural suados fructos -- <ref target="#POR0091-nota-1"/><ref target="#POR0091-nota-1"/> </l>
+<l>Da historia natural suados fructos -- <ref target="#POR0091-nota-1"/> </l>
 </quote>
 <p>hoje , digo, que em logar de versos faço prosa chata e desenramalhetada, e que desenganado pelos Horacios cá da terra , troquei a poesia pelo officio de politico , reduzo-me a dizer tambem chatamente -- nunca em dias de vida pude comprehender, nem comprehenderei d'aqui por diante, o senso commum da realidade de um baile .</p>
 <p>O baile tinha chegado a este ponto . A turba dos convidados, para mais de seiscentos em numero , baloiçava-se, vagueando em mil meandros pelos salões e salas contiguas, alumiadas por mil lumes fulgurantes, perfumadas pelas essencias e adornadas por milhares de rosas, cujas folhas amarellecidas causavam compaixão , e faziam maldizer o capricho impio que as condemnara a morrer asfixiadas entre os miasmas odoriferos de Maugenat e de Coudray.</p>

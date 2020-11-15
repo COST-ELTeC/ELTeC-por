@@ -1,9 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?>
-    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0088" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0088" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -678,7 +675,7 @@
 <p>-- Ora qual! respondeu o Commendador levantando-se e arranjando-se para sair. Rapazeadas, meu caro! rapazeadas... Todos nós fizemos o que podémos. </p>
 <p>E despediu-se da companhia, chamando sua filha, que adormecêra com o pezo do alcohol que lhe subira á cabeça. </p>
 <p>SEGUNDA PARTE</p>
-<p>A JUSTIÇA D’ESTE MUNDO <ref target="#POR0088-nota-1"/><ref target="#POR0088-nota-1"/> </p>
+<p>A JUSTIÇA D’ESTE MUNDO <ref target="#POR0088-nota-1"/> </p>
 </div><div type="chapter"><head>CAPITULO I</head>
 <p>As prizões em Portugal</p>
 <p>Os leitores hão de estar lembrados de que deixámos no prologo d’esta obra o infeliz José Pereira desmaiado nos braços de D. Julia, e entre as garras da policia. </p>
@@ -1494,7 +1491,7 @@
 <p>Foi no pinhal d’Azambuja que elle aprendeu com um companheiro do crime a abrir cunhos, e com outro a engenharia pratica, tanto militar como civil. </p>
 <p>Fez, em guerrilha, a campanha contra a invasão franceza e a pró da mesma, segundo as conveniencias do saque; e na guerra civil de 1832 a 1834, combateu sempre em guerrilha a favor dos legitimistas. </p>
 <p>Depois, conhecendo a impossibilidade de vencer, largou o partido a que dedicára o seu braço, emigrando para o Porto, onde, pelas suas proezas, ou antes barbaridades, ganhou o posto de coronel. </p>
-<p>Acabada a triste <ref target="#POR0088-nota-2"/><ref target="#POR0088-nota-2"/>  campanha, sempre bem visto pelo partido liberal, o nosso heroe pouco tempo esteve sem receber as dragonas de brigadeiro, posto em que o vamos encontrar em 1853, quando o apresentámos aos leitores como director e proprietario da officina de moeda falsa nas proximidades do Poço do Borratem. </p>
+<p>Acabada a triste <ref target="#POR0088-nota-2"/>  campanha, sempre bem visto pelo partido liberal, o nosso heroe pouco tempo esteve sem receber as dragonas de brigadeiro, posto em que o vamos encontrar em 1853, quando o apresentámos aos leitores como director e proprietario da officina de moeda falsa nas proximidades do Poço do Borratem. </p>
 </div><div type="chapter"><head>CAPITULO VII</head>
 <p>Mais um para o gremio</p>
 <p>Uma manhã em que o Conde de *** estava encerrado no seu gabinete, verificando algarismos relativos á quantidade de moeda que tinham fabricado no mez findo, o criado particular do fidalgo veio, pé ante pé, até á porta do gabinete para não estorvar seu amo na tarefa em que estava occupado, e, aproveitando uma occasião em que o Conde accendeu um charuto, distrahindo-se por um momento do trabalho que estava fazendo, o perspicaz servo, que se conservára sempre com o olho applicado á fechadura, bateu uma pequena e significativa pancada que denotava urgencia em fallar ao aristocrata. </p>
@@ -2355,7 +2352,7 @@
 <p>O mancebo saiu desesperado e só, não esperando que seus tios o acompanhassem. </p>
 <p>Como doido, correndo pelas ruas até chegar á redacção do liberal periodico Portuguez, contou aos redactores a tenebrosa historia de sua infeliz irmã, a vêr se por este modo poderia ainda salvar a pobre e entorpecida menina das garras dos jesuitas. </p>
 <p>Os redactores, depois de o ouvirem e acreditarem a veracidade das palavras do afflicto mancebo, encarregaram-se de lhe advogar a causa, começando no dia seguinte a combater, n’um bem elaborado artigo, a propaganda dos lazaristas. </p>
-<p>A este artigo responderam alguns jornaes liberaes, porêm foi tudo baldado para salvar a donzella, porque esta, com o cerebro obscurecido pelas tremendas trovas das maximas jesuiticas, depreciava já totalmente as luzes da liberdade, e nada a obrigou a renunciar aos seus deploraveis votos de irmã de caridade, persistindo em acompanhar a sua directora espiritual <ref target="#POR0088-nota-3"/><ref target="#POR0088-nota-3"/>  .</p>
+<p>A este artigo responderam alguns jornaes liberaes, porêm foi tudo baldado para salvar a donzella, porque esta, com o cerebro obscurecido pelas tremendas trovas das maximas jesuiticas, depreciava já totalmente as luzes da liberdade, e nada a obrigou a renunciar aos seus deploraveis votos de irmã de caridade, persistindo em acompanhar a sua directora espiritual <ref target="#POR0088-nota-3"/>  .</p>
 </div><div type="chapter"><head>CAPITULO VII</head>
 <p>Legados á força</p>
 <p>A presidente da associação alliviadora das desgraças populares, recebeu um dia uma carta, na qual lhe diziam que uma desgraçada filha do povo se achava gravemente enferma. </p>
@@ -2772,7 +2769,7 @@
 <p>O rapaz, que tinha a compleição da mãe, pouco sentiu a separação do que elle não ignorava ser seu pae. </p>
 <p>A filha do negociante portuguez, viu um dia o filho do marinheiro e ficou logo apaixonada por elle, porque o rapaz tinha então, n’aquelle tempo, os seus dezeseis annos; era rosado, claro e loução; alem d’isto estava gordo, o que tudo fazia com que, aos olhos d’uma calida mulatinha, elle parecesse encantador. </p>
 <p>O rapaz, vendo-a, nada sympathisou com ella. </p>
-<p>A mulata, porêm, conhecendo, ou antes não conhecendo a indifferença do caixeirinho de seu pae pela sua pissoa, cada vez sentia mais amor pelo sinhor moço. <ref target="#POR0088-nota-4"/><ref target="#POR0088-nota-4"/> </p>
+<p>A mulata, porêm, conhecendo, ou antes não conhecendo a indifferença do caixeirinho de seu pae pela sua pissoa, cada vez sentia mais amor pelo sinhor moço. <ref target="#POR0088-nota-4"/> </p>
 <p>Um dia pois, era um domingo, esperou a occasião em que o caixeiro ia passeiar, para o mandar chamar por uma escrava. </p>
 <p>O rapaz ficou admirado de ser mandado chamar pela filha do patrão. Todavia seguiu a escrava, a qual se encaminhou para uma igreja, e, chegando ao largo da mesma, disse ao caixeiro: </p>
 <p>-- Espere agora um pouquinho o sinhor moço. </p>
