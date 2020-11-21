@@ -46,4 +46,4 @@ Or in Portuguese:
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-por/},
   doi= {https://doi.org/10.5281/zenodo.4271644},
-´´´
+
