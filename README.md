@@ -2,7 +2,7 @@
 
 # ELTeC-por
 
-This is the Portuguese novel collection for the ELTeC, the European Literary Text Collection, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net).
+This is the Portuguese novel collection for the ELTeC, the *European Literary Text Collection*, produced by the COST Action Distant Reading for European Literary History (CA16204, https://distant-reading.net).
 
 ## Release notes
 
@@ -31,9 +31,9 @@ We acknowledge a 3 months scholarship from Centro de Linguística da Universidad
 
 ## Citation suggestion
 If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source. In English:
-* Portuguese Novel Collection (ELTeC-por), edited by Diana Santos. Version 0.9.0, November 2020. In European Literary Text Collection (ELTeC). COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4271644. 
+* Portuguese Novel Collection (ELTeC-por), edited by Diana Santos. Version 0.9.0, November 2020. In *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4271644. 
 Or in Portuguese:
-* Coleção de romances e novelas portugueses (ELTeC-por), editada por Diana Santos. Versão 0.9.0, novembro de 2020. In Coleção de textos literários europeus (ELTeC). Ação COST "Distant Reading for European Literary History". DOI: https://doi.org/10.5281/zenodo.4271644.
+* Coleção de romances e novelas portugueses (ELTeC-por), editada por Diana Santos. Versão 0.9.0, novembro de 2020. In *Coleção de textos literários europeus (ELTeC)*. Ação COST "Distant Reading for European Literary History". DOI: https://doi.org/10.5281/zenodo.4271644.
 
 ```
 @collection{ELTeCpor-2020,
