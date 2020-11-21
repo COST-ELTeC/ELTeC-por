@@ -28,3 +28,22 @@ All texts included in this collection are in the public domain. The textual mark
 ## Acknowledgements
 
 We acknowledge a 3 months scholarship from Centro de Linguística da Universidade NOVA de Lisboa, BI - FCSH/CLUNL/UID/LIN/03213/2013, as well as the support of the National Library of Portugal, which digitized more than 20 works at our request.
+
+## Citation suggestion
+If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source. In English:
+* Portuguese Novel Collection (ELTeC-por), edited by Diana Santos. Version 0.9.0, November 2020. In European Literary Text Collection (ELTeC). COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4271644. 
+Or in Portuguese:
+* Coleção de romances e novelas portugueses (ELTeC-por), editada por Diana Santos. Versão 0.9.0, novembro de 2020. In Coleção de textos literários europeus (ELTeC). Ação COST "Distant Reading for European Literary History". DOI: https://doi.org/10.5281/zenodo.4271644.
+
+```
+@collection{ELTeCpor-2020,
+  title = {Portuguese Novel Collection (ELTeC-por)},
+  maintitle = {European Literary Text Collection (ELTeC)},
+  editor = {Diana Santos},
+  version = {v0.9.0},
+  year = {2020},
+  month = {11},
+  publisher = {COST Action Distant Reading for European Literary History},
+  url = {https://github.com/COST-ELTeC/ELTeC-por/},
+  doi= {https://doi.org/10.5281/zenodo.4271644},
+´´´
