@@ -10,7 +10,7 @@ This is the Portuguese novel collection for the ELTeC, the *European Literary Te
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
 
-The users of the material should be aware that some texts still need a finer-grained revision, and that not all metadata has been reliably checked. 
+The users of the material should be aware that some texts still need a finer-grained revision, and that not all metadata has been extensively checked. 
 
 In addition, due to the different sources of the material, the collection includes texts in different original ortographies, and in at least two different more modern ones, in the case of books obtained from (more) modern editions. 
 
