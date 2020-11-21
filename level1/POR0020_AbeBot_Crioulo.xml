@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0020" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0020" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -19,7 +22,8 @@
 <extent>
 <measure unit="words">80661</measure>
 </extent>
-<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-12"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.https://doi.org/10.5281/zenodo.3462435">ELTeC</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-pt</ref><ref type="doi" target="https://doi.org/10.5281/zenodo.">ELTeC-pt release </ref></publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
       <title>Project Gutenberg EBook Amor crioulo de Abel Botelho</title>
@@ -56,7 +60,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc><change when="2020-11-12">Checked by checkup script</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-04">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
