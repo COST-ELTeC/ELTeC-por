@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0010" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0010" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -21,14 +24,8 @@
 <measure unit="words">50213</measure>
 </extent>
 <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-<!--Adicionado à coleção ELTeC 1 de maio de 2020. --></publicationStmt>
+<p>Adicionado à coleção ELTeC <date>1 de maio de 2020</date>. </p>
+</publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Camilo Castelo Branco</author>
 <title>The Project Gutenberg EBook of Amor de Perdição</title>
@@ -59,7 +56,6 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2018-05-01">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -114,7 +110,7 @@
 </div><div type="chapter"><head>I</head>
 <p>Domingos José Correia Botelho de Mesquita e Menezes, fidalgo de linhagem, e um dos mais antigos solarengos de Villa Real de Traz-os-Montes, era, em 1779, juiz de fóra de Cascaes, e n'esse mesmo anno casara com uma dama do paço, D. Rita Thereza Margarida Preciosa da Veiga Caldeirão Castello-Branco, filha d'um capitão de cavallos, e neta de outro, Antonio de Azevedo Castello-Branco Pereira da Silva, tão notavel por sua jerarchia, como por um, n'aquelle tempo, precioso livro ácerca da Arte da Guerra.</p>
 <p>Dez annos de enamorado mal succedido consumira em Lisboa o bacharel provinciano. Para se fazer amar da formosa dama de D. Maria I minguavam-lhe dotes physicos: Domingos Botelho era extremamente feio. Para se inculcar como partido conveniente a uma filha segunda, faltavam-lhe bens de fortuna: os haveres d'elle não excediam a trinta mil cruzados em propriedades no Douro. Os dotes de espirito não o recommendavam tambem: era alcançadissimo de intelligencia, e grangeara entre os seus condiscipulos da universidade o epitheto de «brocas» com que ainda hoje os seus descendentes em Villa Real são conhecidos. Bem ou mal derivado, o epitheto brocas vem de brôa. Entenderam os academicos que a rudeza do seu condiscipulo procedia do muito pão de milho que elle digeria na sua terra.</p>
-<p>Domingos Botelho devia ter uma vocação qualquer; e tinha: era excellenle flautista; foi a primeira flauta do seu tempo; e a tocar flauta se sustentou dois annos em Coimbra, durante os quaes seu pae lhe suspendeu as mesadas, porque os rendimentos da casa não bastavam a livrar outro filho de um crime de morte[1].</p>
+<p>Domingos Botelho devia ter uma vocação qualquer; e tinha: era excellente flautista; foi a primeira flauta do seu tempo; e a tocar flauta se sustentou dois annos em Coimbra, durante os quaes seu pae lhe suspendeu as mesadas, porque os rendimentos da casa não bastavam a livrar outro filho de um crime de morte <ref target="#POR0010-nota-1"/>.</p>
 <p>Formara-se Domingos Botelho em 1767, e fôra para Lisboa lêr no desembargo do paço, iniciação banal dos que aspiravam á carreira da magistratura. Já Fernão Botelho, pae do bacharel, fôra bem acceite em Lisboa, e mórmente ao duque de Aveiro, cuja estima lhe teve a cabeça em risco, na tentativa regicida de 1758. O provinciano sahiu das masmorras da Junqueira illibado da infamante nodoa, e bem-quisto mesmo do conde de Oeiras, porque tomara parte na prova que este fizera do primor de sua genealogia sobre a dos Pintos Coelhos do Bomjardim do Porto: pleito ridiculo, mas estrondoso, movido pela recusa que o fidalgo portuense fizera de sua filha ao filho de Sebastião José de Carvalho.</p>
 <p>As artes com que o bacharel flautista vingou insinuar-se na estima de D. Maria I e Pedro III não as sei eu. É tradição que o homem fazia rir a rainha com as suas facecias, e por ventura com os tregeitos de que tirava o melhor do seu espirito. O certo é que Domingos Botelho frequentava o paço, e recebia do bolsinho da soberana uma farta pensão, com a qual o aspirante a juiz de fóra se esqueceu de si, do futuro, e do ministro da justiça, que muito rogado fiara das suas letras o encargo de juiz de fóra de Cascaes.</p>
 <p>Já está dito que elle se atreveu aos amores do paço, não poetando como Luiz de Camões ou Bernardim Ribeiro; mas namorando na sua prosa provinciana, e captando a bem-querença da rainha para amollecer as durezas da dama. Devia de ser, a final, feliz o «doutor bexiga» -- que assim era na côrte conhecido -- para se não desconcertar a discordia em que andam rixados o talento e a felicidade. Domingos Botelho casou com D. Rita Preciosa. Rita era uma formosura que ainda aos cincoenta annos se podia presar de o ser. E não tinha outro dote, se não é dote uma serie de avoengos, uns bispos, outros generaes, e entre estes o que morrêra frigido em caldeirão de não sei que terra da mourisma; gloria, na verdade, um pouco ardente; mas de tal monta que os descendentes do general frito se assignaram Caldeirões.</p>
@@ -133,7 +129,7 @@
 <p>Apearam á porta da velha casa de Fernão Botelho. A aia do paço relanceou os olhos pela fachada do edificio, e disse de si para si: «É uma bonita vivenda para quem foi criada em Mafra e Cintra, na Bemposta e Queluz.»</p>
 <p>Decorridos alguns dias, D. Rita disse ao marido que tinha mêdo de ser devorada das ratasanas; que aquella casa era um covil de feras; que os tectos estavam a desabar; que as paredes não resistiriam ao inverno; que os preceitos de uniformidade conjugal não obrigavam a morrer de frio uma esposa delicada e affeita ás almofadas do palacio dos reis.</p>
 <p>Domingos Botelho conformou-se com a estremecida consorte, e começou a fabrica de um palacete. Escassamente lhe chegavam os recursos para os alicerces: escreveu á rainha, e obteve generoso subsidio com que ultimou a casa. As varandas das janellas foram a ultima dadiva que a real viuva fez á sua dama. Quer-nos parecer que a dadiva é um testemunho até agora inedito da demencia de D. Maria I.</p>
-<p>Domingos Botelho mandara esculpir em Lisboa a pedra de armas; D. Rita, porém, teimara que no escudo se abrisse um emblema das suas; mas era tarde, porque já a obra tinha vindo do esculptor, e o magistrado não podia com segunda despeza, nem queria desgostar seu pae, orgulhoso de seu brasão. Resultou d'aqui ficar a casa sem armas, e D. Rita victoriosa[2].</p>
+<p>Domingos Botelho mandara esculpir em Lisboa a pedra de armas; D. Rita, porém, teimara que no escudo se abrisse um emblema das suas; mas era tarde, porque já a obra tinha vindo do esculptor, e o magistrado não podia com segunda despeza, nem queria desgostar seu pae, orgulhoso de seu brasão. Resultou d'aqui ficar a casa sem armas, e D. Rita victoriosa <ref target="#POR0010-nota-2"/> .</p>
 <p>O juiz de fóra tinha alli parentella illustre. O aprumo da fidalga dobrou-se até aos grandes da provincia, ou antes houve por bem levantal-os até ella. D. Rita tinha uma côrte de primos, uns que se contentavam de serem primos, outros que invejavam a sorte do marido. O mais audacioso não ousava fital-a de rosto, quando o ella remirava com a luneta em geito de tanta altivez e zombaria, que não será estranha figura dizer que a luneta de Rita Preciosa era a mais vigilante sentinella da sua virtude.</p>
 <p>Domingos Botelho desconfiava da efficacia dos merecimentos proprios para cabalmente encher o coração de sua mulher. Inquietava-o o ciume; mas suffocava os suspiros, receando que Rita se désse por injuriada da suspeita. E razão era que se offendesse. A neta do general frigido no caldeirão sarraceno ria dos primos, que, por amor d'ella, arriçavam e empoavam as cabelleiras com um desgracioso esmero, ou cavalleavam estrepitosamente na calçada os seus ginetes, fingindo que os picadores da provincia não desconheciam as graças hippicas do marquez de Marialva.</p>
 <p>Não o cuidava assim, porém, o juiz de fóra. O intriguista que lhe trazia o espirito em ancias era o seu espelho. Via-se sinceramente feio, e conhecia Rita cada vez mais em flôr, e mais enfadada no trato intimo. Nenhum exemplo da historia antiga, exemplo de amor sem quebra entre o esposo deforme e a esposa linda, lhe occorria. Um só lhe mortificava a memoria, e esse, com quanto fosse da fabula, era-lhe avêsso, e vinha a ser o casamento de Venus e Vulcano. Lembravam-lhe as rêdes que o ferreiro coixo fabricára para apanhar os deuses adulteros, e assombrava-se da paciencia d'aquelle marido. Entre si, dizia elle, que, erguido o véo da perfidia, nem se queixaria a Jupiter, nem armaria ratoeiras aos primos. A par do bacamarte de Luiz Botelho, que varára em terra o alferes, estava uma fileira de bacamartes em que o juiz de fóra era entendido com muito superior intelligencia á que revelava na comprehensão do Digesto e das Ordenações do Reino.</p>
@@ -991,7 +987,7 @@
 <p>«Desgraçado, que estás perdido!</p>
 <p>Eu não te posso valer, porque teu pae está inexoravel. A occultas d'elle é que te mando o almoço, e não sei se poderei mandar-te o jantar!</p>
 <p>Que destino o teu! Oxalá que tivesses morrido ao nascer!</p>
-<p>Morto me disseram que tinhas nascido; mas o teu fatal destino não quiz largar a victima [3].</p>
+<p>Morto me disseram que tinhas nascido; mas o teu fatal destino não quiz largar a victima <ref target="#POR0010-nota-3"/> .</p>
 <p>Para que sahiste de Coimbra? a que vieste, infeliz? Agora sei que tens vivido fóra de Coimbra ha quinze dias, e nunca tiveste uma palavra que dissesses a tua mãe!...»</p>
 <p>Simão suspendeu a leitura, e disse entre si:</p>
 <p>-- Como se intende isto?! Pois minha mãe não mandou chamar João da Cruz!</p>
@@ -1051,12 +1047,8 @@
 <p>Passados sete mezes, soubemos que Simão tinha sido condemnado a morrer na forca, levantada no local onde fizera a morte. Fecharam-se as janellas por oito dias; vestimos todas de lucto, e minha mãe cahiu doente.</p>
 <p>Quando se isto soube em Villa Real, todas as pessoas illustres da terra foram a Montezellos, a fim de obrigarem brandamente o pae a empregar o seu valimento na salvação do filho condemnado. De Lisboa vieram alguns parentes protestar contra a infamia que tamanha ignominia faria recahir sobre a familia. Meu pae a todos respondia com estas palavras: «A forca não foi inventada somente para os que não sabem o nome do seu avô. A ignominia das familias são as más acções. A justiça não infama senão aquelle que castiga.»</p>
 <p>Tinhamos nós um tio-avô muito velho e venerando, chamado Antonio da Veiga. Foi este quem fez o milagre, e foi assim. Apresentou-se a meu pae e disse-lhe: Guardou-me Deus a vida até aos oitenta e tres annos. Poderei viver mais dous ou tres? Isto nem já é vida; mas foi-o, e honrada, e sem mancha até agora, e já agora ha de assim acabar; meus olhos não hão de vêr a deshonra de sua familia. Domingos Botelho, ou tu me promettes aqui de salvar teu filho da forca, ou eu na tua presença me mato. -- E dizendo isto, apontava ao pescoço uma navalha de barba. Meu pae teve-lhe mão do braço, e disse que Simão não seria enforcado.</p>
-<p>No dia seguinte, foi meu pae para o Porto, onde tinha muitos amigos na</p>
-<p>Relação, e de lá para Lisboa[4].</p>
-<p>Em principio de Março de 1805 soube minha mãe com grande prazer que</p>
-<p>Simão fôra removido para as cadêas da Relação do Porto, vencendo os</p>
-<p>grandes obstaculos que oppozera a essa mudança dos queixosos, que eram</p>
-<p>Thadeu de Albuquerque, e as irmãs do morto.</p>
+<p>No dia seguinte, foi meu pae para o Porto, onde tinha muitos amigos na Relação, e de lá para Lisboa <ref target="#POR0010-nota-4"/> .</p>
+<p>Em principio de Março de 1805 soube minha mãe com grande prazer que Simão fôra removido para as cadêas da Relação do Porto, vencendo os grandes obstaculos que oppozera a essa mudança dos queixosos, que eram Thadeu de Albuquerque, e as irmãs do morto.</p>
 <p>Depois......»</p>
 <p>Suspendemos aqui o extracto da carta, para não anticiparmos a narrativa de successos, que importa, em respeito á arte, atar no fio cortado.</p>
 <p>Simão Botelho vira imperturbavel chegar o dia do julgamento. Sentou-se no banco dos homicidas sem patrono, nem testemunhas de defeza. Ás perguntas respondeu com o mesmo animo frio d'aquellas respostas ao interrogatorio do juiz. Obrigado a explicar a causa do crime, deu-a com toda a lealdade sem articular o nome de Thereza Clementina de Albuquerque. Quando o advogado da accusação proferiu aquelle nome, Simão Botelho ergueu-se de golpe, e exclamou:</p>
@@ -1734,5 +1726,15 @@
 <p>[6] Hoje então!... Vou-lhes contar um lance memorando d'um philosopho da actualidade, lance unico pelo qual eu fiquei conhecendo a pessoa. Hoje (21 de Setembro de 1861) estava eu no escriptorio do illustre advogado Joaquim Marcellino de Mattos, e um cliente entrou contando o seguinte: -- «Senhor doutor, eu sou um lojista da rua de ***; e fui roubado em oitocentos mil reis por minha mulher, que fugiu com um amante para Vianna. Venho saber se posso querelar, e receber o meu dinheiro.»  -- Póde querelar, respondeu o advogado, se tiver testemunhas. O senhor quer querelar por adulterio? -- Responde o queixoso: «O que eu quero é o meu dinheiro.» -- Mas, redargue o consultor, o senhor póde querelar de ambos, d'ella por adultera, e d'elle como receptador do furto. -- «E receberei o meu dinheiro?» -- Conforme. Eu sei cá se elle tem o seu dinheiro?! O que sei é que não póde pronuncial-a a ella como ladra. -- «Mas os meus oitocentos mil reis?!» -- Ah! o senhor não se lhe dá que sua mulher fuja e não volte? -- «Não, senhor doutor, que a leve o diabo; o que eu quero é o meu dinheiro.» -- Pois querele d'ambos, o veremos depois. -- «Mas não é certo receber eu o meu dinheiro?!» -- Certo não é; veremos se depois de pronunciado as authoridades administrativas capturam o ladrão com o seu dinheiro. -- «E, se elle o não tiver já? -- redargue o marido consternado.» -- Se o não tiver já, o senhor vinga-se na querela por adulterio. -- «E gasta-se alguma coisa?» -- Gasta, sim; mas vinga-se. -- «O que eu queria era o meu dinheiro, senhor doutor: a mulher deixal-a ir, que tem cincoenta annos.» -- Cincoenta annos! -- acudiu o doutor -- o senhor está vingado do amante. Vá para casa, deixe-se de querelas, que o mais desgraçado é elle.</p>
 </div>
 </body>
+<back>
+<div type="notes">
+<note xml:id="POR0010-nota-1"> <p> Ha vinte annos que eu ouvi d'um coevo do facto a historia do assassinio assim contada: Era em quinta Feira santa. Marcos Botelho, irmão de Domingos, estava na festa de endoenças, em S. Francisco, defrontando com uma dama, namorada sua, e desleal dama que ella era. N'outro ponto da igreja estava, apontado em olhos e coração á mesma mulher, um alferes de infanteria. Marcos enfreou o seu ciume até ao final do officio da paixão. Á sahida do templo encarou no militar, e provocou-o. O alferes tirou da espada, e o fidalgo do espadim. Terçaram as armas longo tempo sem desaire nem sangue. Amigos de ambos tinham conseguido aplacal-os, quando Luiz Botelho, outro irmão de Marcos, desfechou uma clavina no peito do alferes, e alli á entrada da «rua do Jogo da Bola» o derribou morto. O homicida foi livre por graça regia.</p> </note> 
+<note xml:id="POR0010-nota-2"> <p> É a casa-palacete da «rua da Piedade», hoje pertencente ao doutor Antonio Girardo Monteiro.</p> </note> 
+<note xml:id="POR0010-nota-3"> <p> Esclarece este dizer de D. Rita a certidão de idade de Simão, a qual tenho presente, e é extrahida por Herculano Henrique Garcia Camillo Galhardo, reitor da real Igreja da Senhora da Ajuda, do livro 14, a folhas 159 v. Reza assim:</p>
+<p>«Aos dois dias do mez de maio de 1784, pôz os santos oleos o reverendo padre cura João Domingues Chaves a Simão, o qual foi baptisado em casa em perigo de vida pelo Reverendo Frei Antonio de S. Pelagio, etc.»</p> </note> 
+<note xml:id="POR0010-nota-4"> <p> N'alguns papeis que possuimos do corregedor de Vizeu achamos esta carta: «Meu amigo, collega e senhor. Entregará, ao portador d'esta, que é o senhor padre Manoel de Oliveira, as cincoenta moedas em que lhe fallei na sua passagem para Lisboa. A appellação de seu filho está a meu cuidado, e está segura, apesar das grandes forças contrarias. Seu amigo -- O desembargador Antonio José Dias Mourão Mosqueira. Porto 11 de fevereiro de 1805. -- Sobrescripto: Ill.^mo Snr. D.^or Domingos José Correia Botelho de Mesquita e Menezes. -- Lisboa.»</p> </note>  
+</div>
+</back>
+
 </text>
 </TEI>
