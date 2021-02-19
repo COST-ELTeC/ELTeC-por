@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0022" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0022" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -18,15 +21,8 @@
 <extent>
 <measure unit="words">31778</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook Noites de Cintra, de Alberto Pimentel</title>
@@ -64,8 +60,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-06">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -97,26 +92,26 @@
 <p>Ainda assim, como prova involuntaria de que o melhor da nossa vida era já então o passado, não foi approvado o projecto sem uma correcção prosaica. Sim, iriamos ouvir os rouxinoes a Cintra, visto que elles não costumavam fazer-se ouvir nas ruas de Lisboa, mas temperariamos esse devaneio romantico com as queijadas da Sapa, as laranjas do visconde da Arriaga, e o "Collares" do conselheiro Francisco Costa.</p>
 <p>Como o mais novo de todos era o Gonçallinho Jervis, em cujo espirito bailavam ainda pagens e castellãs n'uma chorea medieval, e em cujo coração ardiam fogos de poetico platonismo, mettemol-o á galhofa convidando-o a procurar na serra de Cintra um cabello da barba que Bernardim Ribeiro haveria arrepellado ao vêr partir a frota com a infanta D. Beatriz.</p>
 <p>Para falar verdade, nenhum de nós tinha grande confiança na realisação de tão extravagante projecto, mas sobejou-nos motivo para o applaudir, porque durante mais de dois mezes nos forneceu alegrissimo assumpto sempre que nos juntavamos todos ou pelo menos alguns.</p>
-<p>Deviamos partir em abril, segundo o programma primitivamente approvado em assembléa geral. Não fomos, e acreditavamos já que não iriamos, quando uma noite, no "Martinho_, resolvemos partir a 20 de maio.</p>
-<p>O Vasconcellos, muito habituado a viajatas, ficou encarregado de alugar o "char-à-bancs_, e elle proprio me disse á puridade que tal não faria senão á ultima hora, porque duvidava que se realisasse uma excursão dependente do accordo de dez pessoas, todas ellas mais ou menos atarefadas.</p>
-<p>Como se tratava, porém, de um divertimento, de uma "partie de plaisir_, como lhe chamava o Leotte, aconteceu que, á hora marcada, apenas faltou um, o Callixto, cuja falta, aliás, foi tida como de bom agouro, visto chamar-se elle Callixto.</p>
-<p>Tivemos que esperar á porta do Passeio Publico, que era o ponto de reunião, "rendes-vous" dizia o Leotte, que o Vasconcellos fosse alugar o "char-à-bancs_, sendo entretanto votada uma moção de censura a este nosso amigo pela falta de confiança que a communidade lhe inspirava. Eu, por estar na posse do segredo, abstive-me de votar. Um Catão!</p>
+<p>Deviamos partir em abril, segundo o programma primitivamente approvado em assembléa geral. Não fomos, e acreditavamos já que não iriamos, quando uma noite, no "Martinho", resolvemos partir a 20 de maio.</p>
+<p>O Vasconcellos, muito habituado a viajatas, ficou encarregado de alugar o "char-à-bancs", e elle proprio me disse á puridade que tal não faria senão á ultima hora, porque duvidava que se realisasse uma excursão dependente do accordo de dez pessoas, todas ellas mais ou menos atarefadas.</p>
+<p>Como se tratava, porém, de um divertimento, de uma "partie de plaisir", como lhe chamava o Leotte, aconteceu que, á hora marcada, apenas faltou um, o Callixto, cuja falta, aliás, foi tida como de bom agouro, visto chamar-se elle Callixto.</p>
+<p>Tivemos que esperar á porta do Passeio Publico, que era o ponto de reunião, "rendes-vous" dizia o Leotte, que o Vasconcellos fosse alugar o "char-à-bancs", sendo entretanto votada uma moção de censura a este nosso amigo pela falta de confiança que a communidade lhe inspirava. Eu, por estar na posse do segredo, abstive-me de votar. Um Catão!</p>
 <p>Partimos. Aquillo foi como se todos atirassemos canseiras e trabalhos para traz das costas. Os palacios do Passeio Publico estremeceram nos alicerces, sacudidos por um tufão de alegria. A passarinhada fugiu das arvores precipitadamente, como se ouvisse troar uma peça de campanha. A policia não estava accordada ainda; se fosse um pouco mais tarde, deitava-nos a mão. E affirmava o Vasconcellos que tinha visto as figuras do Tejo e Douro dizerem-nos adeus de dentro do Passeio, muito rapioqueiras.</p>
 <p>-- Nunca, dizia o Leotte, nunca se fez uma "partie de plaisir" tão honesta. Nove homens... apenas!</p>
 <p>-- Querias mais! replicava o Vasconcellos fazendo-se desentendido. Não cabiam cá. Olha o pobre Gonçallinho, o nosso doce pagem, que teve de ir na almofada ao pé do cocheiro. Onde querias tu metter mais gente, ó Gonçallinho?!</p>
 <p>-- Que é lá? respondia elle do alto da almofada.</p>
 <p>-- Vaes a fazer versos?</p>
-<p>-- Ainda não. Mas já planeei um conto. Este ar de primavera é deliciosamente suggestivo. Vocês verão que a minha ideia não é de todo má. Chamar-se-ha "A primeira entrevista_.</p>
+<p>-- Ainda não. Mas já planeei um conto. Este ar de primavera é deliciosamente suggestivo. Vocês verão que a minha ideia não é de todo má. Chamar-se-ha "A primeira entrevista".</p>
 <p>-- Has de contal-a em Cintra, gritei eu.</p>
 <p>-- Pois sim, respondeu o Gonçallinho, morto, como todos os novatos, por divulgar as suas composições.</p>
 <p>-- Em Cintra, alvitrou o Vasconcellos, sempre o mais auctoritario de todos, cada um de nós ha de contar á noite uma historia. Vá feito?</p>
-<p>-- Menos eu, protestou o Athayde, que era empregado na Junta de Credito Publico. Eu só estou habituado a contar... "contos de réis_.</p>
+<p>-- Menos eu, protestou o Athayde, que era empregado na Junta de Credito Publico. Eu só estou habituado a contar... "contos de réis".</p>
 <p>-- Isso é modestia. Não péga.</p>
 <p>-- Has de contar, intimou o Leotte, aquelle caso do principe das Caldas de Vizella, que uma noite te ouvi no Gremio.</p>
 <p>-- Ah! esse era o principe Piratinino.</p>
-<p>-- Não é um conto... "de réis_; mas é um conto de principe. Bem, já temos dois contos, disse eu.</p>
+<p>-- Não é um conto... "de réis"; mas é um conto de principe. Bem, já temos dois contos, disse eu.</p>
 <p>-- E tu, propoz o Athayde, dirigindo-se a mim, tu, que andas sempre com as mãos na massa, é que has de abrir o torneio.</p>
-<p>-- Pois seja, com a condição de que onde se lê "massa" se leia "maçada_.</p>
+<p>-- Pois seja, com a condição de que onde se lê "massa" se leia "maçada".</p>
 <p>-- Leia-se lá o que tu quizeres. Mas olhem vocês, observou o Vasconcellos, que é preciso matar de algum modo as noites de Cintra, que são tão grandes como as de Lamego. Em Cintra só devia haver dia. As noites são frias e humidas. Vocês o sentirão.</p>
 <p>-- Queres então ouvir rouxinoes ao meio dia?</p>
 <p>-- Os rouxinoes são o menos...</p>
@@ -139,8 +134,8 @@
 <p>-- É melhor ás sete.</p>
 <p>-- Tratem vocês de fazer as noites pequenas. Olhem que são o peor que ha em Cintra.</p>
 <p>-- Jantaremos então ás sete.</p>
-<p>-- Isso é melhor. E de dia ou á noite, sentados em Collares, em Seteais ou nas cadeiras do "Victor" iremos contando o nosso "Decameron_, respirando um bom ar, e um pouco de alegria, pelo menos...</p>
-<p>O "Decameron_! exclamou o Leotte. Sabem acaso vocês que os fugitivos da "peste negra" de Florença eram sete mulheres e tres homens? Isso comprehende-se.</p>
+<p>-- Isso é melhor. E de dia ou á noite, sentados em Collares, em Seteais ou nas cadeiras do "Victor" iremos contando o nosso "Decameron", respirando um bom ar, e um pouco de alegria, pelo menos...</p>
+<p>O "Decameron"! exclamou o Leotte. Sabem acaso vocês que os fugitivos da "peste negra" de Florença eram sete mulheres e tres homens? Isso comprehende-se.</p>
 <p>-- Ó diabo! cala-te lá com essa chorata pelas mulheres! replicou o Vasconcellos. Póde ser que o acaso te depare em Cintra alguma boa fortuna.</p>
 <p>-- N'este tempo! objectou, desconsolado, o Leotte. Se fosse no verão!</p>
 <p>-- O verão tambem tem seus inconvenientes. Ha mais espiões, mais fiscaes da moralidade publica. Leve o diabo tristezas. Toca a divertir, rapazes.</p>
@@ -148,10 +143,10 @@
 <p>-- Que é?</p>
 <p>-- Parece-me que já architectei outro conto.</p>
 <p>-- O que é então?</p>
-<p>-- _A morte do bibliophilo._</p>
+<p>-- "A morte do bibliophilo."</p>
 <p>-- Vejam vocês, disse o Vasconcellos, o que são os poetas portuguezes. Vae aqui um rapaz, na flôr dos annos, cheio de imaginação, em caminho de Cintra, a pensar na morte da bezerra ou do bibliophilo, que o leve!</p>
 <p>Rimos todos. E o proprio Gonçallinho, que ouviu o reparo, desatou a rir na almofada.</p>
-<p>Quando apeamos á porta do "Victor_, estavamos mais ou menos acabrunhados pela fome.</p>
+<p>Quando apeamos á porta do "Victor", estavamos mais ou menos acabrunhados pela fome.</p>
 <p>-- Por S. Thiago, e aos bifes! berrou o Vasconcellos.</p>
 <p>E o Victor, muito mesureiro, muito amavel:</p>
 <p>-- Elles hão de estar menos maus.</p>
@@ -163,18 +158,18 @@
 <p>-- Ó meu tolo! replicou com vivacidade o Vasconcellos. Querias talvez fazer versos com o estomago cheio de biffes! A burro e á Pena! insistiu.</p>
 <p>Os burriqueiros, que nos tinham feito um verdadeiro cêrco, largaram a correr para ir buscar os burros.</p>
 <p>Emquanto esperavamos, dizia-me em tom de confidencia o Leotte:</p>
-<p>-- Já perguntei no "Victor_, e não ha lá hospeda nenhuma. Mas ha criadas, ao menos.</p>
+<p>-- Já perguntei no "Victor", e não ha lá hospeda nenhuma. Mas ha criadas, ao menos.</p>
 <p>E d'ahi a pouco dizia-me o Gonçallinho, tambem em tom de confidencia, muito contemplativo, olhando para o castello da Pena e para o arvoredo da encosta:</p>
 <p>-- Como isto é bello!</p>
 <p>A burricada á Pena foi, como sempre acontece, uma esturdia hilariante, cheia de episodios comicos. Quando o burro não caía, caía o cavalleiro; e as mais das vezes caíam ambos.</p>
-<p>N'essa folia, que teve muito de carnavalesca, o tempo fugiu despercebido, as horas voaram. Ao fim da tarde, mergulhados n'um verdadeiro banho de aromas primaveris, estavamos nós sentados junto ao "Chalet de Madame_, quando o Vasconcellos alvitrou auctoritariamente:</p>
-<p>-- Agora, sim senhor. Agora é occasião propicia de darmos principio ao nosso "Decameron_. Tem a palavra o sr. Fulano, como se combinou.</p>
+<p>N'essa folia, que teve muito de carnavalesca, o tempo fugiu despercebido, as horas voaram. Ao fim da tarde, mergulhados n'um verdadeiro banho de aromas primaveris, estavamos nós sentados junto ao "Chalet de Madame", quando o Vasconcellos alvitrou auctoritariamente:</p>
+<p>-- Agora, sim senhor. Agora é occasião propicia de darmos principio ao nosso "Decameron". Tem a palavra o sr. Fulano, como se combinou.</p>
 <p>Era eu. Pois não houve meio de resistir.</p>
 <p>-- Ora então, senhores e...</p>
 <p>-- Senhoras não ha infelizmente! exclamou o Leotte.</p>
 <p>-- Peço attenção, que eu principio.</p>
 <p>E principiei.</p>
-<p>-- O morgado de Muxagata, ou simplesmente o "Muxagata_, como elle era conhecido ha vinte annos no Porto, tinha solar a onze leguas de Lamego, na aldea d'aquelle nome.</p>
+<p>-- O morgado de Muxagata, ou simplesmente o "Muxagata", como elle era conhecido ha vinte annos no Porto, tinha solar a onze leguas de Lamego, na aldea d'aquelle nome.</p>
 <p>Por setembro apparecia na Foz do Douro com uma coudelaria inteira, que lhe permittia variar de cavallo seis vezes por dia. Gostava d'isso, e lisonjeava-se de que as mulheres viessem á janella alarmadas pelo tinido aspero das ferraduras nos burgaus da rua Direita e de Cima-de-Villa.</p>
 <p>Era, de resto, um typo de classe, porque nas praias de Portugal não se perdeu ainda o molde do morgado de provincia com manhas de picador e boleeiro.</p>
 <p>Ha sempre um para amostra.</p>
@@ -193,25 +188,25 @@
 <p>Passou assim uma semana.</p>
 <p>Na segunda-feira seguinte sentiu-se ruido á porta do Muxagata. Foi muita gente ás janellas. Não era elle, mas um novo cavallo que chegava. Uma belleza de estampa, que os criados estavam admirando em circulo á porta da cocheira. Soube-se a historia do animal. Muxagata já estava no Porto, e havia comprado aquelle bello exemplar "pur sang" ao Côrte Real de Traz da Sé por tresentas libras.</p>
 <p>Finalmente, á noite, chegou o Muxagata com o Henrique da Perzigueda e outros amigos. Vinham a pé, todos de esporas e chicote. E antes de subir, foram á cocheira examinar os cavallos.</p>
-<p>Vi o Muxagata. Era alto, forte, moreno: farto bigode preto, e pera. Foram jantar. O Ricardo Brown, o Côrte-Real e outros "sportmen" caíram logo lá. Depois do jantar, houve jogo. Sentia-se tinir dinheiro. Era o "monte_. Muxagata, depois das libações do jantar, gostava de fazer o seu berlote.</p>
+<p>Vi o Muxagata. Era alto, forte, moreno: farto bigode preto, e pera. Foram jantar. O Ricardo Brown, o Côrte-Real e outros "sportmen" caíram logo lá. Depois do jantar, houve jogo. Sentia-se tinir dinheiro. Era o "monte". Muxagata, depois das libações do jantar, gostava de fazer o seu berlote.</p>
 <p>Aquillo devia ter acabado noite velha. No dia seguinte, ás 7 horas, já o Muxagata estava na praia dos Inglezes a dar banho aos cavallos.</p>
 <p>Varias pessoas foram vêr. Outras deixaram-se ficar na praia do Caneiro á espera dos dois melhores espectaculos que os "mirones" apanhavam: o banho do fidalgo Padilha, que entrava no mar preso por uma corda, e o banho da Cacilda, filha do banheiro Leão, que nadava para o mar largo.</p>
 <p>Foi pelo Henrique da Perzigueda, o qual eu vi morrer annos depois n'um sótão da rua de S. João Novo, que travei relações com o Muxagata.</p>
 <p>Eu tinha os meus dezoito, e lisonjeava-me de que o Muxagata, a flôr dos "sportmen" da Foz, me tratasse mano a mano.</p>
-<p>Quando elle descia a cavallo a explanada do Castello, sendo admirado no seu garbo de cavalleiro pelos hospedes do "Hotel da Boa Vista_, dizia-me adeus com o chicote, e eu parava muito ancho, dando-me ares de entendedor, até o vêr exhibir-se no Passeio Alegre, em frente da casa acastellada dos Maias da rua das Flores, porque ahi era certo passar ás upas.</p>
+<p>Quando elle descia a cavallo a explanada do Castello, sendo admirado no seu garbo de cavalleiro pelos hospedes do "Hotel da Boa Vista", dizia-me adeus com o chicote, e eu parava muito ancho, dando-me ares de entendedor, até o vêr exhibir-se no Passeio Alegre, em frente da casa acastellada dos Maias da rua das Flores, porque ahi era certo passar ás upas.</p>
 <p>Havia sempre senhoras no balcão de pedra, que tinha um toldo listrado de branco e escarlate.</p>
 <p>Mezes depois correu fama de que o Muxagata havia raptado uma menina de Lamego. Falava-se que os irmãos d'ella o queriam matar. Mas não morreu ninguem. Em todo o caso o Muxagata deixara o seu solar e viera estabelecer residencia no Porto, na rua das Fontainhas, com a sua bella raptada. A historia do rapto augmentára-lhe a nomeada de fidalgo extravagante. Algumas vezes vi o Muxagata a cavallo ao lado da famosa lamecense, vestida de amazona. Iam ordinariamente á Foz por Lordello do Ouro; voltavam por Miragaia.</p>
 <p>Quando recolhiam ao cair da noite pela rua das Flores, os lojistas, sentindo o tropel dos cavallos, vinham á porta. O escandalo d'aquella mancebia publica indignava-os; não obstante, cumprimentavam risonhamente o Muxagata, que era bom freguez dos ourives e dos mercadores de pannos.</p>
 <p>Na casa das Fontainhas havia batota todas as noites. Criados de casaca e lenço branco serviam o chá. D. Christina, a bella de Lamego, jogava como um homem entre os homens.</p>
-<p>_Saltava" nos valetes, e "fazia cerco" ás quinas.</p>
+<p>"Saltava" nos valetes, e "fazia cerco" ás quinas.</p>
 <p>Ella odiava os valetes, dizia. Na sua confiança nas quinas mostrava-se uma boa portuguesa de Lamego.</p>
 <p>Vestia bem: rendas, flores e joias. As joias explicavam os cumprimentos dos ourives da rua das Flores ao Muxagata.</p>
-<p>Usava o cabello apartado ao lado, com duas "bellezas_. Chamava-se "bellezas" aos anneis de cabello empastados sobre a fronte. Coisa tentadora, que desappareceu da circulação.</p>
+<p>Usava o cabello apartado ao lado, com duas "bellezas". Chamava-se "bellezas" aos anneis de cabello empastados sobre a fronte. Coisa tentadora, que desappareceu da circulação.</p>
 <p>-- É verdade! obtemperou o Leotte.</p>
 <p>Prohibiram-lhe que interrompesse.</p>
-<p>O pó de arroz, continuei eu, era ainda considerado como um "deboche" de "toillette_. D. Christina punha muito pó de arroz na face, no collo e nas mãos, especialmente nas mãos.</p>
-<p>Tinha predilecção pela essencia de violeta. Ora os perfumes eram n'aquelle tempo outro "deboche" de "toilette_. As mulheres não cheiravam a nada ou cheiravam mal.</p>
-<p>Podem vocês admirar-se de que uma mulher de Lamego se avantajasse dez annos ás outras portuguezas em "mise-en-scène" de "coquettismo_. D. Christina tinha pendor natural para a vida espectaculosa. Estas aberrações não são das terras; são dos temperamentos. Uma patricia dos presuntos de Lamego póde nascer tão "coquette" a dois passos da serra da Gralheira, quanto uma creatura nascida entre os jardins de Harlem póde sair brutalmente apresuntada por fóra e por dentro.</p>
+<p>O pó de arroz, continuei eu, era ainda considerado como um "deboche" de "toillette". D. Christina punha muito pó de arroz na face, no collo e nas mãos, especialmente nas mãos.</p>
+<p>Tinha predilecção pela essencia de violeta. Ora os perfumes eram n'aquelle tempo outro "deboche" de "toilette". As mulheres não cheiravam a nada ou cheiravam mal.</p>
+<p>Podem vocês admirar-se de que uma mulher de Lamego se avantajasse dez annos ás outras portuguezas em "mise-en-scène" de "coquettismo". D. Christina tinha pendor natural para a vida espectaculosa. Estas aberrações não são das terras; são dos temperamentos. Uma patricia dos presuntos de Lamego póde nascer tão "coquette" a dois passos da serra da Gralheira, quanto uma creatura nascida entre os jardins de Harlem póde sair brutalmente apresuntada por fóra e por dentro.</p>
 <p>De mais a mais o Muxagata, tendo-lhe conhecido a bossa, desenvolvera-lh'a. Educára-a como amante. O idillio de contrabando precisa ganhar em aperitivos acirrantes o que naturalmente lhe falta em tranquillidade sincera. As amantes são actrizes de um palco em que se representa a comedia do amor; as esposas são as sacerdotisas de um culto domestico, que se faz valer por si mesmo. A differença é grande. D. Christina tomava a sério o seu papel de actriz, e esforçava-se por que nos applausos do publico entendido reconhecesse o empresario a conveniencia das aptidões theatraes da artista.</p>
 <p>Rodaram mais dois annos.</p>
 <p>A casa da rua das Fontainhas continuava a ser o "rendez-vous" dos estroinas do Porto. Falava-se de perdas e lucros fabulosos na batota do Muxagata, que fazia concorrencia á do D. Marcos. Muxagata galeava ainda o mesmo luxo de cavallos, em competencia com o Ferreirinha; e a mesma pompa de fatos exoticos á porfia com o Ricardo Brown, porque ambos appareciam ás vezes de collete vermelho com botões de ouro.</p>
@@ -234,7 +229,7 @@
 <p>-- Ó filho! pelo amor de Deus! deixa os rouxinoes para ámanhã, dizia o Vasconcellos, depois de jantar, ao Gonçallinho Jervis.</p>
 <p>-- Aqui da janella não se ouve nenhum! Já estive á escuta.</p>
 <p>-- Pudera! Imaginavas então que uma tão poetica ave principiava a amar logo depois das ave-marias, como um caixeiro que fecha a loja e vae metter-se n'uma escada a gargarejar para defronte! Tem juizo, Gonçallinho. Para irmos a Collares ouvir os rouxinoes, precisavamos ter prevenido os trens. Deixa isso para ámanhã, e vamos á historia do Muxagata.</p>
-<p>Assim foi resolvido por unanimidade... menos um. Era o Leotte, que foi á cozinha recommendar que lhe puzessem lamparina no quarto: pretexto para ver as criadas do "Victor_.</p>
+<p>Assim foi resolvido por unanimidade... menos um. Era o Leotte, que foi á cozinha recommendar que lhe puzessem lamparina no quarto: pretexto para ver as criadas do "Victor".</p>
 <p>-- Vamos lá ao conto, ordenou o Vasconcellos: o Muxagata estava na feira.</p>
 <p>-- Estava effectivamente na feira, continuei, jogatinando com outros morgados e alguns lavradores ricos de Castello de Paiva e Arouca, n'uma casa humilde do Escamarão, que não as ha lá melhores.</p>
 <p>Como o jogo nivella todas as condições, os nobres e os ricaços abancavam em familiar camaradagem, como se a uns valesse o direito do nascimento, e a outros o do ouro. As mãos de todos elles eram grandes e queimadas do sol ou do cigarro. Lembrei-me, de repente, das mãos finas e brancas de D. Christina, polvilhadas de pó de arroz. Que falta que ellas faziam ali, as mãos de Christina, para brilharem pelo contraste no meio d'aquelle enorme conflicto de manapulas de granadeiros, que ora se estendiam semeando dinheiro, ora se retraíam recolhendo-o!</p>
@@ -279,9 +274,9 @@
 <p>-- Perdão! repliquei com certa rudeza. A sr.ª D. Christina vae escrever isso mesmo n'um bocado de papel, que eu mandarei ao morgado.</p>
 <p>-- Sim... farei isso. Mas primeiro acompanhe-nos a cear.</p>
 <p>Agradeci, rejeitando. Então D. Christina disse ao Miguel que lhe trouxesse papel e lapis. E escreveu em lettra de collegial:</p>
-<p>_Recebi as quarenta libras._</p>
-<p>_Tua do coração_</p>
-<p>_Christina._</p>
+<p>"Recebi as quarenta libras."</p>
+<p>"Tua do coração"</p>
+<p>"Christina."</p>
 <p>Mais nada.</p>
 <p>Saí, e respirei com soffreguidão a brisa fresca do Douro, que soprava do Passeio das Fontainhas. Uma tenue nebrina emplumava as arvores que ladeiam a rua. E eu, de mãos nas algibeiras, entregava-me dolorosamente, calçada acima, a esta cruel philosophia: «Onde hei de ir arranjar os quatro mil réis que perdi?!»</p>
 <p>Soube pela manhã que os outros tinham continuado a jogar, e ganharam.</p>
@@ -290,7 +285,7 @@
 <p>A lei de 1863 extinguiu os vinculos em Portugal, mas os ultimos exemplares da raça privilegiada dos morgados ainda hoje florecem, entre as Christinas indigenas, nas praias de Portugal, em proesas tradicionaes de batota, de femeaço e de gineta.</p>
 <p>No inverno os mais d'elles desapparecem no fundo dos seus solares cultivando as batatas, que no verão seguinte hão de resuscital-os. O morgado nacional, depois que a phylloxera lhe comeu as vinhas, ficou reduzido ás batotas.</p>
 <p>Mas o Muxagata foi a phylloxera de si mesmo: comeu logo de uma vez as vinhas e as batatas. Como todo o bom morgado, conservou, ainda na pobreza, o seu enthusiasmo pela equitação. E não tendo já cavallos para montar, cavalgava, ao longo dos vastos corredores no ruinoso solar de Muxagata, n'um cabo de vassoura. Um bello dia morreu, e não foi por desastre do seu ultimo cavallo... de pau.</p>
-<p>_Finis, laus Deo_, perorei.</p>
+<p>"Finis, laus Deo", perorei.</p>
 <p>O Leotte, que tinha voltado á sala e ouvido o final da historia, perguntou:</p>
 <p>-- Da D. Christina nunca mais soubeste!</p>
 <p>Expludiu uma gargalhada geral.</p>
@@ -305,9 +300,9 @@
 <p>-- Então, se não vamos ainda hoje ouvir os rouxinoes, tambem eu quero contar o meu conto, disse o Gonçallinho Jervis.</p>
 <p>-- Sim, senhor, concordou o Vasconcellos.</p>
 <p>-- Mas qual dos dois contos que nos annunciaste pelo caminho? perguntou o Athayde.</p>
-<p>-- _A Primeira entrevista." Tenho porém a prevenir o respeitavel publico, para evitar uma pateada, que o meu conto, ao contrario da historia do Muxagata, não aconteceu nunca. É uma phantasia que só poderia ter-se dado no paiz azul dos sonhos...</p>
+<p>-- "A Primeira entrevista." Tenho porém a prevenir o respeitavel publico, para evitar uma pateada, que o meu conto, ao contrario da historia do Muxagata, não aconteceu nunca. É uma phantasia que só poderia ter-se dado no paiz azul dos sonhos...</p>
 <p>-- Ditosa idade em que se pensam essas tolices! exclamou o Vasconcellos.</p>
-<p>-- Mau! protestou o Gonçallinho. "Se ralhas, não conto._</p>
+<p>-- Mau! protestou o Gonçallinho. "Se ralhas, não conto."</p>
 <p>-- Tem a palavra o poeta, que poderá sonhar á vontade sem que ninguem o interrompa.</p>
 <p>Fez-se silencio. E o Gonçallinho, romanescamente, depois de ter mettido os dedos pelo cabello para levantar a gaforina, usou da palavra:</p>
 <p>-- Custou muito -- disse, elle -- a planear a primeira entrevista. Era preciso illudir a vigilancia de tanta gente, inventar tantas mentiras, saltar por cima de tantos embaraços! Mas, finalmente, o programma, laboriosamente organisado, tinha sido acceito pela credulidade das pessoas que se lhe poderiam oppôr. Ainda assim, Fanny não ficou inteiramente tranquilla. Durante os dias que medearam entre o da elaboração do programma e o da entrevista, andava desconfiada, escutava pelos corredores receosa de que falassem d'ella, parecia-lhe ouvir dizer o seu nome e cochichar depois em segredo... O olhar das pessoas de familia incommodava-a, como se todas essas boas pessoas tivessem realmente a intenção de observal-a por desconfiança, de lêr-lhe nos olhos esse audacioso plano de uma entrevista no campo.</p>
@@ -322,15 +317,15 @@
 <p>Primeiro dia de liberdade no amor! tu és tão saboroso como a guloseima que o collegial devora em segredo na sombra de um corredor ou n'um recanto da cêrca. Tu és o fructo prohibido em que podemos finalmente saciar a nossa voracidade de Tantalos famintos.</p>
 <p>A carruagem chegára a horas, a familia, já disposta de ante-mão, não oppuzera obstaculos. Fanny descera unicamente acompanhada de uma antiga criada, que fôra sua ama de leite, e quando entrou na carruagem nem sequer fez reparo n'esse pequenino "groom" de cabello louro, faces rosadas, que com os olhos postos no chão, n'uma attitude reverente e humilde, se não era hypocrita, lhe abrira a portinhola do trem.</p>
 <p>Fôra elle, o pequenino "groom" louro e rosado, que lhe acommodára a orla do vestido dentro do "coupé" e que, fechando-o cuidadosamente, esperára, sempre de olhos postos no chão, ouvir a ordem da partida.</p>
-<p>O coração de Fanny batia como o de um canario agarrado na mão de uma creança. Ella não via, não ouvia, disse ao "groom_, sem fazer reparo n'elle, uma palavra. O "groom" saltou para a almofada com a ligeireza que só as azas podem dar, e a carruagem partiu n'um trote largo, rasgado, batido.</p>
+<p>O coração de Fanny batia como o de um canario agarrado na mão de uma creança. Ella não via, não ouvia, disse ao "groom", sem fazer reparo n'elle, uma palavra. O "groom" saltou para a almofada com a ligeireza que só as azas podem dar, e a carruagem partiu n'um trote largo, rasgado, batido.</p>
 <p>As arvores da estrada principiavam correndo aos lados do trem, fazendo os seus cumprimentos n'uma alacridade funambulesca. As arvores pareciam alegres, trocistas, ironicas, como se estivessem de posse d'aquelle doce segredo. Fanny, vendo-as passar rapidamente, cuidava ouvir-lhes dizer:</p>
 <p>-- Mil felicidades, excellencia...</p>
 <p>E córava de pejo, engolfada em maviosos pensamentos, sem haver trocado com a sua velha ama uma unica palavra sequer.</p>
 <p>Os passaros cantavam n'uma estridula folia matutina, e toda essa onda de alegria musical parecia inundar o coração feliz de Fanny, enchendo-o de canticos festivos, que resoavam como n'um ecco interior.</p>
 <p>Ao cabo de hora e meia de caminho a carruagem parára, não á porta da quinta onde a amiga de Fanny agonisava, como ella por disfarce dissera ao "groom" ao sair de casa, mas á porta de um velho castello desmantelado, a que se seguia um parque extenso, coberto de grandes arvores sombrias, onde os passaros cantavam em liberdade a sua canção de estio.</p>
 <p>Era o logar da entrevista.</p>
-<p>E Fanny, vendo parar ahi a carruagem, e apear-se o "groom_, sempre com a ligeireza de um genio alado, rosado e louro, com os olhos postos no chão, teve uma vaga suspeita de que esse "groom_, que ella só agora vira, fosse um confidente encarregado expressamente por Edmundo de desempenhar tão alta missão de confiança.</p>
-<p>E, emquanto ella descera, o "groom_, n'uma attitude sempre reverente e humilde, com a mão na portinhola do trem, ajudara-lhe a desprender do estribo a orla do vestido branco e fresco, ligeiramente mosqueado de pequeninas flores de myosote, azues e microscopicas.</p>
+<p>E Fanny, vendo parar ahi a carruagem, e apear-se o "groom", sempre com a ligeireza de um genio alado, rosado e louro, com os olhos postos no chão, teve uma vaga suspeita de que esse "groom", que ella só agora vira, fosse um confidente encarregado expressamente por Edmundo de desempenhar tão alta missão de confiança.</p>
+<p>E, emquanto ella descera, o "groom", n'uma attitude sempre reverente e humilde, com a mão na portinhola do trem, ajudara-lhe a desprender do estribo a orla do vestido branco e fresco, ligeiramente mosqueado de pequeninas flores de myosote, azues e microscopicas.</p>
 <p>Uma deliciosa serenidade alegre alastrava-se por todo o parque n'uma solidão encantadora. Dir-se-ia que o fim do mundo era ali e que, dados mais alguns passos, por detraz das ultimas arvores do parque, deveria o ceu pousar na terra.</p>
 <p>Edmundo lá estava no seu posto, fazendo sentinella á sua propria felicidade e, quando Fanny chegou, a arvore que o abrigava como que distendeu os seus longos braços verdes para envolver tambem na mesma sombra o corpo de Fanny.</p>
 <p>A velha criada afastou-se, moendo o tempo na contemplação das flores campestres e da larga cóma das arvores, ora dobrando-se, ora olhando para cima, e de vez em quando um melro velhaco -- era decerto um melro -- zombava da ignara situação moral d'aquella mulher desfeiteando-lhe o asseio do seu antigo chapeu de palha de Italia.</p>
@@ -338,9 +333,9 @@
 <p>Á sombra da grande arvore, que tinham escolhido, Fanny e Edmundo, enleiados pela cintura, bebiam a pequenos goles de liberdade a sua primeira taça de amor e, quando erguiam a taça aos labios, estalava-lhes na bocca um beijo demorado.</p>
 <p>As horas passaram rapidamente, a velha criada já não tinha mais hervas que reconhecer, mais arvores que observar, e os proprios melros estavam aborrecidos de troçal-a.</p>
 <p>Era preciso partir, o sol declinava, a tarde fugia. Mais um gole colhido nos labios, mais um beijo que se arrastava n'uma extensa melodia amorosa.</p>
-<p>Finalmente, Fanny pôz o pé no estribo da carruagem e o "groom_, rosado e louro, com um olhar altivo, triumphante, abriu-lhe, de cabeça erguida, a portinhola do "coupé" e, quando a fechou, antes de subir para a almofada, pousou o dedo pollegar da mão direita sobre a ponta do nariz e espalmou a mão no ar, agitando os dedos.</p>
-<p>Era o Amor, disfarçado em "groom_, que celebrava a sua victoria como um gaiato de collegio.</p>
-<p>-- _C'est gentil!" exclamou o Leotte.</p>
+<p>Finalmente, Fanny pôz o pé no estribo da carruagem e o "groom", rosado e louro, com um olhar altivo, triumphante, abriu-lhe, de cabeça erguida, a portinhola do "coupé" e, quando a fechou, antes de subir para a almofada, pousou o dedo pollegar da mão direita sobre a ponta do nariz e espalmou a mão no ar, agitando os dedos.</p>
+<p>Era o Amor, disfarçado em "groom", que celebrava a sua victoria como um gaiato de collegio.</p>
+<p>-- "C'est gentil!" exclamou o Leotte.</p>
 <p>-- Bravo! mavioso Gonçallinho! conclamaram sete vozes.</p>
 <p>E o Vasconcellos, logo reposto nas suas funcções austeras de dirigente, advertiu a assembléa de que onze horas e cinco minutos eram tempo muito conveniente para que em Cintra cada um pensasse em dormir.</p>
 <p>-- Onde estará o "groom" da tua ballada, ó Gonçallinho? perguntou o Leotte.</p>
@@ -371,29 +366,29 @@
 <p>-- Como assim?!</p>
 <p>-- Chama se Maria de Alarcão, está aparentada com muitas familias nobres do paiz, e viu-se reduzida, pela pobreza que herdou de seu pae, um tal D. Alvaro, a ser criada de todas as suas primas e primos, que venham hospedar-se no Victor.</p>
 <p>-- Mas quem é então esse D. Alvaro?</p>
-<p>-- Morreu. Perguntei-lhe se sabia os nomes dos avós, e ella respondeu-me que os seus avós tinham sido "gentis guerreiros_.</p>
+<p>-- Morreu. Perguntei-lhe se sabia os nomes dos avós, e ella respondeu-me que os seus avós tinham sido "gentis guerreiros".</p>
 <p>-- E ella respeita as cinzas de seus avós?</p>
 <p>-- Ella estava-me contando a sua triste historia, quando outra criada a veiu chamar, gritando: ó Rosa! ó Rosa!</p>
 <p>-- Então é Maria, e chama-se Rosa?</p>
 <p>-- Essa pergunta fiz eu a mim proprio. Mas ella, de relance, percebendo a minha surprêsa, explicou que Rosa era o seu nome de guerra, e D. Maria de Alarcão o seu nome de familia.</p>
 <p>-- Eis o que tu apuraste em todo o dia!</p>
-<p>-- E já não foi pouco. Talvez que vocês tenham achado muitas criadas cujos avós fossem "gentis guerreiros_!...</p>
+<p>-- E já não foi pouco. Talvez que vocês tenham achado muitas criadas cujos avós fossem "gentis guerreiros"!...</p>
 <p>-- Para isto, exclamou o Vasconcellos, deixou este tolo de ir passear a Collares!</p>
 <p>-- Estou vendo, disse eu, que a tua Rosa é tanto Alarcão como era principe aquelle heroe, da historia que sabe o Athayde, que appareceu nas Caldas de Vizella.</p>
-<p>-- É verdade! quero ouvir a historia do Athayde, observou imperativamente o Vasconcellos. Meus senhores, está aberto o "Decameron_.</p>
+<p>-- É verdade! quero ouvir a historia do Athayde, observou imperativamente o Vasconcellos. Meus senhores, está aberto o "Decameron".</p>
 <p>O Athayde fez-se algum tanto rogado, mas contou:</p>
-<p>-- Era um domingo calmoso de agosto. Todos os hospedes do "Hotel do Padre_, nas Caldas de Vizella, estavam sentados á sombra do parque do "hotel_, conversando, lendo, jogando, "flirtando_. Nenhum d'elles ousára ir á estação esperar o comboio. Os passarinhos, se não pudessem encontrar um doce refugio nas arvores marginaes do rio Vizella, cairiam do ceu assados e depennados. Com uma soalheira d'aquellas, não havia nada que apetecesse tanto como o descanso e a sombra.</p>
-<p>De repente ouviu-se o silvo da locomotiva. -- Lá chegou o comboio! -- Pois deixal-o chegar! -- Quem vier, cá virá ter. Vinte minutos depois, paravam á porta do "hotel" duas "americanas_, poeirentas e escanceladas. E um sujeito de fato de flanella branca, chapeu branco, acompanhado por uma senhora da sua idade -- vinte e quatro a vinte e cinco annos -- , atravessou olympicamente o parque do "hotel" sem cumprimentar ninguem. Da segunda carruagem apearam-se duas criadas e dois criados, com pequenas malas na mão.</p>
-<p>Este acontecimento causou certa sensação entre os hospedes do "Hotel do Padre_, visto não haver acontecimentos de maior polpa.</p>
+<p>-- Era um domingo calmoso de agosto. Todos os hospedes do "Hotel do Padre", nas Caldas de Vizella, estavam sentados á sombra do parque do "hotel", conversando, lendo, jogando, "flirtando". Nenhum d'elles ousára ir á estação esperar o comboio. Os passarinhos, se não pudessem encontrar um doce refugio nas arvores marginaes do rio Vizella, cairiam do ceu assados e depennados. Com uma soalheira d'aquellas, não havia nada que apetecesse tanto como o descanso e a sombra.</p>
+<p>De repente ouviu-se o silvo da locomotiva. -- Lá chegou o comboio! -- Pois deixal-o chegar! -- Quem vier, cá virá ter. Vinte minutos depois, paravam á porta do "hotel" duas "americanas", poeirentas e escanceladas. E um sujeito de fato de flanella branca, chapeu branco, acompanhado por uma senhora da sua idade -- vinte e quatro a vinte e cinco annos -- , atravessou olympicamente o parque do "hotel" sem cumprimentar ninguem. Da segunda carruagem apearam-se duas criadas e dois criados, com pequenas malas na mão.</p>
+<p>Este acontecimento causou certa sensação entre os hospedes do "Hotel do Padre", visto não haver acontecimentos de maior polpa.</p>
 <p>-- Quem será isto? perguntava-se.</p>
 <p>-- É um principe! dizia ironicamente um janota de Guimarães.</p>
 <p>-- Um principe e uma princeza, acrescentava do lado um banqueiro portuense.</p>
-<p>-- Com os respectivos veadores e damas, observou bonacheironamente o padre José Maria, que possuia uma graça simples, quasi patriarchal, e que era um dos hospedes mais estimados no "hotel_.</p>
-<p>Depois, emquanto a sombra caía das arvores, todos continuaram conversando, lendo, jogando, "flirtando_.</p>
-<p>Á hora do jantar, a princeza e o principe foram vistos já sentados á cabeceira da mesa, silenciosos e graves. Os seus dois criados, de casaca, postados por detrás da cadeira do "principe" e da "princeza_, conservavam-se immoveis como estatuas.</p>
+<p>-- Com os respectivos veadores e damas, observou bonacheironamente o padre José Maria, que possuia uma graça simples, quasi patriarchal, e que era um dos hospedes mais estimados no "hotel".</p>
+<p>Depois, emquanto a sombra caía das arvores, todos continuaram conversando, lendo, jogando, "flirtando".</p>
+<p>Á hora do jantar, a princeza e o principe foram vistos já sentados á cabeceira da mesa, silenciosos e graves. Os seus dois criados, de casaca, postados por detrás da cadeira do "principe" e da "princeza", conservavam-se immoveis como estatuas.</p>
 <p>Todos os outros hospedes, que iam chegando, trocavam entre si sorrisos, olhares de intelligencia. Padre José Maria arregalou os olhos, franziu o beiço, sentou-se. As senhoras diziam segredos umas ás outras. Os homens, de vez em quando, arriscavam em voz alta uma allusão disfarçada.</p>
 <p>Findo o jantar, o "principe" e a "princeza" levantaram-se; os seus dois criados, muito direitos, arrastaram-lhes as cadeiras. Não cumprimentaram ninguem.</p>
-<p>Então a galhofa expludiu, os epigrammas estalaram. Padre José Maria teve pilhas de graça. Um hospede aventou a idéa de que se pedisse o registo do "hotel" para saber-se o nome do recem-chegado. Veio o registo. Dizia simplesmente isto: "Commendador Piratinino e sua esposa._</p>
+<p>Então a galhofa expludiu, os epigrammas estalaram. Padre José Maria teve pilhas de graça. Um hospede aventou a idéa de que se pedisse o registo do "hotel" para saber-se o nome do recem-chegado. Veio o registo. Dizia simplesmente isto: "Commendador Piratinino e sua esposa."</p>
 <p>-- Pois, srs., observou padre José Maria, é mais a salsa que o peixe!</p>
 <p>Riram todos, e novos epigrammas rebentaram n'uma grande hilaridade desenfadada.</p>
 <p>Mas o janota de Guimarães teve uma lembrança feliz: que em tom de confidencia se dissesse aos criados do hotel que o commendador Piratinino era nada mais e nada menos que um principe disfarçado.</p>
@@ -406,32 +401,32 @@
 <p>-- A Ribária ficará na peninsula dos Balkans, entre a Rumélia e a Bulgária, se quizerem. Nas Caldas de Vizella pode haver tudo, menos um mappa da Europa. Ninguem irá verificar; soceguem.</p>
 <p>-- Magnifico!</p>
 <p>-- Maravilhoso!</p>
-<p>Ficou tratado que Piratinino era o principe da Ribária, e que a Ribária ficava nos Balkans. Dois minutos depois, fazia-se a revelação aos criados, pedindo-lhes a maxima reserva, para não comprometter o "incognito" do principe. Quatro minutos depois os criados tinham revelado o segredo ás criadas do "hotel" e, passada uma hora, constava em toda Vizella que no "Hotel do Padre" estava hospedado um principe estrangeiro muito rico. Á noite, em todos os circulos de conversação, acrescentava-se: Fabulosamente rico. E sabia-se já em toda a villa que, depois do principe, havia chegado uma carroça com bagagens, suspeitando-se que a maior parte das malas traziam joias da princeza, porque um terceiro criado as vinha guardando como o dragão de cem cabeças guardava os pomos de ouro do jardim das Hespérides. Diziam alguns, com uma certeza convicta, que na Ribária havia minas de metaes preciosos, e outros, por inculcarem sciencia ou por espirito de hyperbole, acrescentavam que no principado da Ribária jámais houvera "deficit_.</p>
+<p>Ficou tratado que Piratinino era o principe da Ribária, e que a Ribária ficava nos Balkans. Dois minutos depois, fazia-se a revelação aos criados, pedindo-lhes a maxima reserva, para não comprometter o "incognito" do principe. Quatro minutos depois os criados tinham revelado o segredo ás criadas do "hotel" e, passada uma hora, constava em toda Vizella que no "Hotel do Padre" estava hospedado um principe estrangeiro muito rico. Á noite, em todos os circulos de conversação, acrescentava-se: Fabulosamente rico. E sabia-se já em toda a villa que, depois do principe, havia chegado uma carroça com bagagens, suspeitando-se que a maior parte das malas traziam joias da princeza, porque um terceiro criado as vinha guardando como o dragão de cem cabeças guardava os pomos de ouro do jardim das Hespérides. Diziam alguns, com uma certeza convicta, que na Ribária havia minas de metaes preciosos, e outros, por inculcarem sciencia ou por espirito de hyperbole, acrescentavam que no principado da Ribária jámais houvera "deficit".</p>
 <p>Corria tudo ás mil maravilhas.</p>
-<p>N'essa tarde, os principes não saíram a passeio, e d'este modo lográram inconscientemente a justa curiosidade do povo de Vizella, que se tinha agglomerado nas vizinhanças do "hotel_. Mas no dia seguinte pela manhã suas altezas foram tomar o seu banho á Lameira, o povo pôde vêl-os, contemplal-os, os pobres filaram-n'os, os curiosos seguiram-n'os, e o principe, voltando-se para trás, disse a um dos criados que désse esmolas aos pobres e ás creanças. O criado distribuiu para cima de dezoito vintens em cobre. Por um tris que o principe e o criado não apanharam "vivas_. Mas desde aquella hora, toda a gente, incluindo os hospedes que tinham inventado a "blague_, ficou capacitada de que Piratinino era realmente um principe.</p>
+<p>N'essa tarde, os principes não saíram a passeio, e d'este modo lográram inconscientemente a justa curiosidade do povo de Vizella, que se tinha agglomerado nas vizinhanças do "hotel". Mas no dia seguinte pela manhã suas altezas foram tomar o seu banho á Lameira, o povo pôde vêl-os, contemplal-os, os pobres filaram-n'os, os curiosos seguiram-n'os, e o principe, voltando-se para trás, disse a um dos criados que désse esmolas aos pobres e ás creanças. O criado distribuiu para cima de dezoito vintens em cobre. Por um tris que o principe e o criado não apanharam "vivas". Mas desde aquella hora, toda a gente, incluindo os hospedes que tinham inventado a "blague", ficou capacitada de que Piratinino era realmente um principe.</p>
 <p>Suas altezas saíram de tarde a passeio. Os hospedes do "Hotel do Padre" esforçavam-se a explicar que na Ribária a etiqueta era muito rigorosa, e que o principe não podia saudar senão os fidalgos do seu paiz. Foi preciso inventar isto, porque o povo de Vizella, que tinha visto uma vez em Guimarães el-rei D. Luiz cumprimentar toda a gente, estranhava o facto. Em compensação, todos os populares cumprimentavam suas altezas, e eu pendo a acreditar que o proprio Piratinino se ia sentindo principe... cada vez mais.</p>
-<p>A coisa constou. Vieram pobres de Guimarães, de Negrellos, de Santo Thyrso, de modo que foi preciso, no "hotel_, prohibir-lhes a entrada no parque. Mas elles, illudindo a ordem, penduravam-se das arvores, para serem os primeiros a lobrigar e a assaltar sua alteza o principe da Ribária. De cada vez que saía, o excelso principe tinha uma despêsa obrigada, de dezoito vintens pelo menos. E os hospedes do "hotel" saboreavam em segredo, n'uma risota permanente, o bom exito da sua invenção.</p>
+<p>A coisa constou. Vieram pobres de Guimarães, de Negrellos, de Santo Thyrso, de modo que foi preciso, no "hotel", prohibir-lhes a entrada no parque. Mas elles, illudindo a ordem, penduravam-se das arvores, para serem os primeiros a lobrigar e a assaltar sua alteza o principe da Ribária. De cada vez que saía, o excelso principe tinha uma despêsa obrigada, de dezoito vintens pelo menos. E os hospedes do "hotel" saboreavam em segredo, n'uma risota permanente, o bom exito da sua invenção.</p>
 <p>Um dia o criado do principe pediu informações aos criados do "hotel" sobre a navegabilidade do rio Vizella. Aquelle a quem a pergunta fôra feita veio, com a melhor boa fé d'este mundo, dizer aos hospedes que sua alteza ia n'aquella tarde para o rio.</p>
 <p>-- Para o rio! exclamaram os hospedes. E padre José Maria observou do lado:</p>
 <p>-- Para o Rio... de Janeiro, talvez. O principe sente-se arruinado pela mendicidade das Caldas de Vizella e seus arredores. Vai talvez restaurar a fortuna.</p>
 <p>Mas o criado explicou: Que não. Que o principe tinha dinheiro como milho. Que ia mas era para o meio do Vizella divertir-se com um barco que trouxera.</p>
 <p>-- Onde está o barco? perguntaram.</p>
 <p>-- Está dentro de uma grande mala, que veio na carroça.</p>
-<p>Com effeito, um dos criados do principe chamou um homem, que foi ao hotel buscar a mala grande, e dirigiu-se com elle para a beira do Vizella. Pouco depois saiu o principe, todo vestido de branco, sua "toilette" favorita, pelo que já algumas pessoas lhe chamavam -- _o principe branco_.</p>
-<p>Deu-se rebate no "hotel_, e todos os hospedes, repartidos em diversos grupos, se encaminharam para as margens do Vizella, seguindo uns pela Lameira, outros pelo Mourisco.</p>
+<p>Com effeito, um dos criados do principe chamou um homem, que foi ao hotel buscar a mala grande, e dirigiu-se com elle para a beira do Vizella. Pouco depois saiu o principe, todo vestido de branco, sua "toilette" favorita, pelo que já algumas pessoas lhe chamavam -- "o principe branco".</p>
+<p>Deu-se rebate no "hotel", e todos os hospedes, repartidos em diversos grupos, se encaminharam para as margens do Vizella, seguindo uns pela Lameira, outros pelo Mourisco.</p>
 <p>O boato saíra verdadeiro. O principe estava effectivamente no meio do Vizella, pescando á linha dentro de um barco de lona, um pouco similhante áquelle, se bem que mais pequeno, em que o general Caula atravessou o Tejo n'uma experiencia feita em agosto de 1874. Na margem ficára o criado, e a mala cuja tampa estava levantada, aberta. Comprehende-se que um principe não permittisse ao criado a honra de tomar assento a seu lado dentro do mesmo barco. Já sabemos que na Ribária a etiqueta é muito rigorosa.</p>
 <p>Toda a população de Vizella, a fluctuante e a permanente, pôde saciar seus olhos curiosos na contemplação d'esse quadro inteiramente novo ali: um principe estrangeiro pescando á linha dentro de um barco de lona. Só os hospedes do "Hotel do Padre" se riam, porque os do Cruzeiro do Sul, que não estavam na confidencia, e os bons populares ingenuos tomavam o caso muito a serio, e contemplavam encantados o "principe branco" pescando.</p>
 <p>Escusado será dizer que sua alteza não pescou coisa nenhuma. Quem pesca são os pescadores, porque teem obrigação d'isso. Os principes divertem-se, e enfadam-se.</p>
 <p>Foi o que aconteceu a sua alteza, porque, naturalmente enfastiado, quiz abicar a terra. Mas o barco começou a rodopiar, a oscillar, e o principe, já um pouco impaciente, redobrava de esforços, de pressão.</p>
 <p>Toda a gente sabe com que facilidade, n'estas condições, se volta um barco. Foi o que aconteceu ao do principe. Sua alteza fizera um movimento menos cauteloso, e o barco tombou. Era um vez um principe n'um charco.</p>
 <p>Grande grita se levantou de entre os populares. Os hospedes do "Hotel do Padre" riam a bandeiras despregadas. Um rapazito atirou-se ao rio, para ir salvar sua alteza, que barafustava na agua. Cheirava-lhe a grande gorgeta, ao rapazito; nadava como um desesperado.</p>
-<p>Foi-lhe facil trazer para terra o principe, e o barco. Mas o principe, que estava de fato branco, precisava mudar de "toilette_. A decencia reclamava-o. E emquanto o criado corria ao "hotel_, a pedir outro fato para sua alteza, o desgraçado principe da Ribária, mettido dentro da mala, só com a cabeça de fóra, evitando olhar para qualquer parte, esperava humilhado...</p>
+<p>Foi-lhe facil trazer para terra o principe, e o barco. Mas o principe, que estava de fato branco, precisava mudar de "toilette". A decencia reclamava-o. E emquanto o criado corria ao "hotel", a pedir outro fato para sua alteza, o desgraçado principe da Ribária, mettido dentro da mala, só com a cabeça de fóra, evitando olhar para qualquer parte, esperava humilhado...</p>
 </div><div type="chapter"><head>VI</head>
 <p>-- E eu que sei quem elle é! apostrophou o Maldonado, que era o mais silencioso de todos nós.</p>
 <p>Achámos graça á observação, espicaçámos o Maldonado.</p>
 <p>Elle explicou que tinha estado n'aquelle anno no Porto e que tambem lá tinha apparecido o commendador Piratinino, de fato branco, o qual seguiu d'ali para as Caldas de Vizella.</p>
 <p>Era... disse-nos o nome, que não vem para o caso.</p>
-<p>Mas como o Maldonado houvesse quebrado o seu silencio habitual, o Vasconcellos intimou-o a dar qualquer pequeno contingente para o nosso "Decameron_.</p>
+<p>Mas como o Maldonado houvesse quebrado o seu silencio habitual, o Vasconcellos intimou-o a dar qualquer pequeno contingente para o nosso "Decameron".</p>
 <p>Que não; que não sabia historia nenhuma. Que não tinha geito para contar.</p>
 <p>E a assemblea insubordinada:</p>
 <p>-- Que contasse alguma coisa, senão que o levaria o diabo.</p>
@@ -450,7 +445,7 @@
 <p>Sempre muito dissimulados, toda a gente os tinha por impeccaveis. Mas elles, a sós, um com o outro, riam-se de toda a gente. Eram solidarios: e confidentes nas suas rapaziadas inverniças, e fechavam a sete chaves o segredo das suas funcçanatas serodias.</p>
 <p>Um tivera uma filha, que casou; o outro tivera um filho, que tambem casou. Mas a filha do primeiro não casou com o filho do segundo, por accôrdo dos dois velhos.</p>
 <p>-- Não quero o teu filho para a minha filha, disse o primeiro ao segundo, em segredo, porque receio que elle saia ao pae, e largue a fazer infidelidades como tu.</p>
-<p>E riram os dois, dando-se pansadinhas, -- _eh! -- eh!_ -- como se estivessem em plena verdura da mocidade. Mas em casa, deante do genro e deante da nora, não ousavam falar em Theócrito, a não ser para reproduzir algum verso casto do bucolico grego, como por exemplo aquelle em que a pastora diz a Daphne: «O casamento não tem penas nem dôres; mas sómente alegria e danças.»</p>
+<p>E riram os dois, dando-se pansadinhas, -- "eh! -- eh!" -- como se estivessem em plena verdura da mocidade. Mas em casa, deante do genro e deante da nora, não ousavam falar em Theócrito, a não ser para reproduzir algum verso casto do bucolico grego, como por exemplo aquelle em que a pastora diz a Daphne: «O casamento não tem penas nem dôres; mas sómente alegria e danças.»</p>
 <p>Secretamente, no fundo da sua consciencia, elles estavam de accôrdo quanto ás "danças" do casamento, porque varias vezes se tinham visto mettidos n'ellas por causa da sua libertinagem, receosos das consequencias de alguma conquista aventurosa.</p>
 <p>Intimamente, rezavam pela cartilha de Theócrito, não quando elle preconisava as alegrias do casamento, mas quando, por exemplo, fazia o elogio do beijo roubado a uma pastora sem a responsabilidade do matrimonio.</p>
 <p>Cada um dos dois velhos teve um neto. Agradeceram muito á Providencia o favor de lhes dar netos do sexo masculino, porque os lisonjeava a ideia de que os netos lhes honrariam, por hereditariedade, a tradição patusca.</p>
@@ -479,12 +474,12 @@
 <p>-- Já o sabes?</p>
 <p>-- Suspeito-o, pelo que vejo. Mas tenho aqui um bilhete de apresentação para nós ambos.</p>
 <p>-- Bravo! excellente! Lá iremos...</p>
-<p>E á noite, das nove para as dez horas, os dois velhinhos passaram por entre filas de lojas illuminadas, desceram honestamente o Chiado sem olhar para as "estrellas cadentes_, que lhes davam encontrões, tão honestamente como se fossem á "Baixa" comprar bolos moles para as esposas desdentadas.</p>
-<p>Muita gente os cumprimentava, e elles correspondiam ao cumprimento com a gravidade austera de duas pessoas idosas que fossem caminhando para um "lausperenne_.</p>
-<p>Mas, lá por dentro, no que elles pensavam era no alto da Penha: uma casinha de um andar, menos mal alfaiada, com rotulas verdes no "rez-de-chaussée_.</p>
-<p>E n'um passinho curto, mas rendoso, atravessaram a Baixa, passando honestamente por entre filas de lojas illuminadas, foram andando, andando, ganhando o largo do Intendente, galgando para Arroyos, sempre a rir lá por dentro -- _eh! eh!_ -- até que começaram a marinhar lentamente pelo Caracol da Penha, aonde o perfume do prazer lhes parecia chegar já, como o bom cheiro de uma cozinha, que se sente ao longe. Chegaram ao alto da Penha.</p>
+<p>E á noite, das nove para as dez horas, os dois velhinhos passaram por entre filas de lojas illuminadas, desceram honestamente o Chiado sem olhar para as "estrellas cadentes", que lhes davam encontrões, tão honestamente como se fossem á "Baixa" comprar bolos moles para as esposas desdentadas.</p>
+<p>Muita gente os cumprimentava, e elles correspondiam ao cumprimento com a gravidade austera de duas pessoas idosas que fossem caminhando para um "lausperenne".</p>
+<p>Mas, lá por dentro, no que elles pensavam era no alto da Penha: uma casinha de um andar, menos mal alfaiada, com rotulas verdes no "rez-de-chaussée".</p>
+<p>E n'um passinho curto, mas rendoso, atravessaram a Baixa, passando honestamente por entre filas de lojas illuminadas, foram andando, andando, ganhando o largo do Intendente, galgando para Arroyos, sempre a rir lá por dentro -- "eh! eh!" -- até que começaram a marinhar lentamente pelo Caracol da Penha, aonde o perfume do prazer lhes parecia chegar já, como o bom cheiro de uma cozinha, que se sente ao longe. Chegaram ao alto da Penha.</p>
 <p>-- É ali, disse um.</p>
-<p>-- Ha luz no "rez-de-chaussée_, observou o outro.</p>
+<p>-- Ha luz no "rez-de-chaussée", observou o outro.</p>
 <p>E espionaram, que não fosse alguem suspeital-os. Depois, cautelosamente, aproximaram-se das janellas de rotulas verdes. Ouviram conversar, rir. Na Penha de França, ás dez horas da noite, o vicio tem confiança na solidão: não é preciso fechar as portas das janellas.</p>
 <p>-- Espreitemos e ouçamos.</p>
 <p>-- Sim... ouçamos e espreitemos.</p>
@@ -504,7 +499,7 @@
 <p>O Gonçallinho Jervis disse-me que ia para o seu quarto escrever.</p>
 <p>-- O que vaes tu escrever, meu lyrico?</p>
 <p>-- Vou, antes que me esqueça, dar forma ao outro conto que pensei pelo caminho.</p>
-<p>-- Ah! "A morte do bibliophilo_? Pois vae, e ámanhã o lerás.</p>
+<p>-- Ah! "A morte do bibliophilo"? Pois vae, e ámanhã o lerás.</p>
 <p>Ia eu para deitar-me, quando o Leotte, muito intrigado ainda com a historia de D. Maria de Alarcão, entrou no meu quarto, procurando certificar-me de que, para desenvencilhar mysterios de mulheres, tinha elle faro como ninguem. Que eu veria; que ou a rapariga tinha falado com sinceridade ou que elle era um grande tolo, do que não estava convencido.</p>
 <p>Depois pegou a contar casos do seu tempo de Coimbra, memorias de condiscipulos e já eu tinha perdido o somno quando elle abordou a historia do seu condiscipulo Barcellos.</p>
 <p>-- Quem era esse? perguntei.</p>
@@ -521,13 +516,13 @@
 <p>E, de cocoras, elle representava, como um actor consummado, a sua narrativa.</p>
 <p>-- Encontro effectivamente um cão, um pequeno cão vadio, um desherdado da fortuna, com uma perna partida. Pobre animal! Levanto-o cautelosamente, chego-me a um candeeiro, examino a fractura. Sinto na minha alma esse generoso impulso de caridade que todo o racional completo sente pelo irracional incompleto. A gente ri-se ás vezes de um homem coxo: mas sente-se abalado perante um cão que anda de perna no ar. São segredos da nossa incomprehensivel natureza, que difficultam o principio theorico da fraternidade universal. Entro em casa, deponho delicadamente o canito sobre a minha cama. Vou á estante. Tiro o primeiro livro encadernado em que puz os dedos. Era um Michelet. Deixal-o ser. Tanto melhor! Um philosopho humanitario estava a calhar para uma acção meritoria. Rasgo a encadernação. Corto-a em tiras, e applico as talas á perna quebrada. Ligo-a. Ponho o cão sobre uma cadeira, cubro-o com a minha capa de estudante. Deito-me. Adormeço.</p>
 <p>O grande Barcellos accendeu outro charuto, afastou do pescoço o seu alto collarinho engommado, e proseguiu:</p>
-<p>-- Ao cabo de vinte dias de tratamento, a fractura tinha solidificado. Tiro ao cão o apparelho cirurgico, e elle, sem lamber a mão que o havia beneficiado, rompe pela porta fóra, desce a escada, safa-se pela rua abaixo de rabo caído. A ingratidão dos cães! meditei eu. Nem um olhar, nem uma caricia, uma demonstração qualquer de agradecimento! Fosse um homem, e abraçar-me-ia. Fosse uma mulher, e beijar-me-ia. Era um cão: safou-se como quem era. Ah! meus amigos, que errado juizo este! Cerca de dez dias depois, estava eu, de papo para o ar, lendo uma d'aquellas coisas que a gente só lê em Coimbra: um doutor. Um doutor que tem escripto é a praga maior que se conhece. Sinto arranhar na porta do quarto: primeira vez, segunda vez, terceira vez. É um gato! disse eu. Atirei fóra o doutor, saltei da cama, pego no meu bastão da noite e abro a porta disposto a enxotar o gato impertinente. Sabem os srs. quem era? Era o "meu" cão da perna partida, são como um pêro. Mas trazia outro, trazia outro cão, que tambem quebrára uma perna. Achei-lhe graça. «Com que então, disse eu voltando-me para o ingrato canito de que tão cuidadosamente havia tratado, tu pensas que isto aqui é casa de algebista? Achas mais barato do que ir ao "endireita_? Abriste conta corrente comigo? Mas quando pagas tu, refinadissimo tratante? Safaste-te á franceza: nem uma, nem duas! e trazes-me agora um amigalhote coxo para que eu o concerte?» E o "meu" cão crivava o seu vivacissimo olhar em mim, como a perguntar-me se eu entendia o sentido da sua visita. O outro, de perna no ar e focinho no chão, esperava pela consulta. «Mas no fim de contas, disse eu, tu tens ao menos uma qualidade nobre: és amigo do teu amigo. Elle quebrou uma perna, é teu parceiro na bohemia, sabes que eu concerto pernas, e vieste cá. Pois vamos lá a isso, meu ingrato de uma figa.» Tiro outro livro da estante, e ponho duas talas de papelão na fractura do canito. Deito-o sobre uma cadeira, mando-lhe dar de comer, mas emquanto espero que a servente traga umas sopas, o introductor safa-se pela escada abaixo. Não está má esta! reflexiono. Com que então isto é chegar, vêr e vencer! Mas... mas pensei que talvez um sentimento de delicadeza obrigasse o "meu" cão a retirar-se: quereria porventura poupar-me ao sacrificio de sustentar dois hospedes. Seria ou não seria. No dia seguinte vejo-o entrar de repente. Põe-se do chão a olhar para o outro, que estava na cadeira, certifica-se de que elle tem as talas, de que está em tratamento, de que eu sou um "endireita" acabado e um philantropo inexgotavel. Sái. Durante oito dias ninguem o vê mais, talvez para me significar que confiava plenamente na minha cirurgia. Ao nono dia volta a visitar o amigo. Olha para elle, parece dizer-lhe com os olhos -- _Isso vae bem_ -- e raspa-se. O curativo chegou a seu termo, e o "meu" cão nunca mais voltou. Levantei o apparelho com a mestria que dá a pratica. Lembrei-me até de abrir um consultorio para cães; mas tive receio de que a faculdade de medicina me fizesse instaurar processo, visto que eu só podia abrir consultorio para demandistas. O cão safou-se como o outro, sem um olhar, uma caricia, uma qualquer manifestação de agradecimento.</p>
+<p>-- Ao cabo de vinte dias de tratamento, a fractura tinha solidificado. Tiro ao cão o apparelho cirurgico, e elle, sem lamber a mão que o havia beneficiado, rompe pela porta fóra, desce a escada, safa-se pela rua abaixo de rabo caído. A ingratidão dos cães! meditei eu. Nem um olhar, nem uma caricia, uma demonstração qualquer de agradecimento! Fosse um homem, e abraçar-me-ia. Fosse uma mulher, e beijar-me-ia. Era um cão: safou-se como quem era. Ah! meus amigos, que errado juizo este! Cerca de dez dias depois, estava eu, de papo para o ar, lendo uma d'aquellas coisas que a gente só lê em Coimbra: um doutor. Um doutor que tem escripto é a praga maior que se conhece. Sinto arranhar na porta do quarto: primeira vez, segunda vez, terceira vez. É um gato! disse eu. Atirei fóra o doutor, saltei da cama, pego no meu bastão da noite e abro a porta disposto a enxotar o gato impertinente. Sabem os srs. quem era? Era o "meu" cão da perna partida, são como um pêro. Mas trazia outro, trazia outro cão, que tambem quebrára uma perna. Achei-lhe graça. «Com que então, disse eu voltando-me para o ingrato canito de que tão cuidadosamente havia tratado, tu pensas que isto aqui é casa de algebista? Achas mais barato do que ir ao "endireita"? Abriste conta corrente comigo? Mas quando pagas tu, refinadissimo tratante? Safaste-te á franceza: nem uma, nem duas! e trazes-me agora um amigalhote coxo para que eu o concerte?» E o "meu" cão crivava o seu vivacissimo olhar em mim, como a perguntar-me se eu entendia o sentido da sua visita. O outro, de perna no ar e focinho no chão, esperava pela consulta. «Mas no fim de contas, disse eu, tu tens ao menos uma qualidade nobre: és amigo do teu amigo. Elle quebrou uma perna, é teu parceiro na bohemia, sabes que eu concerto pernas, e vieste cá. Pois vamos lá a isso, meu ingrato de uma figa.» Tiro outro livro da estante, e ponho duas talas de papelão na fractura do canito. Deito-o sobre uma cadeira, mando-lhe dar de comer, mas emquanto espero que a servente traga umas sopas, o introductor safa-se pela escada abaixo. Não está má esta! reflexiono. Com que então isto é chegar, vêr e vencer! Mas... mas pensei que talvez um sentimento de delicadeza obrigasse o "meu" cão a retirar-se: quereria porventura poupar-me ao sacrificio de sustentar dois hospedes. Seria ou não seria. No dia seguinte vejo-o entrar de repente. Põe-se do chão a olhar para o outro, que estava na cadeira, certifica-se de que elle tem as talas, de que está em tratamento, de que eu sou um "endireita" acabado e um philantropo inexgotavel. Sái. Durante oito dias ninguem o vê mais, talvez para me significar que confiava plenamente na minha cirurgia. Ao nono dia volta a visitar o amigo. Olha para elle, parece dizer-lhe com os olhos -- "Isso vae bem" -- e raspa-se. O curativo chegou a seu termo, e o "meu" cão nunca mais voltou. Levantei o apparelho com a mestria que dá a pratica. Lembrei-me até de abrir um consultorio para cães; mas tive receio de que a faculdade de medicina me fizesse instaurar processo, visto que eu só podia abrir consultorio para demandistas. O cão safou-se como o outro, sem um olhar, uma caricia, uma qualquer manifestação de agradecimento.</p>
 <p>-- E nunca mais os viu? perguntaram ao grande Barcellos.</p>
 <p>-- Lá vamos, respondeu elle. Fiz exame de licenciado, defendi theses, tomei capello. Dia cheio na Universidade, o do capello. Puz na cabeça uma borla doutoral, e recebi auctorisação solemne para acrescentar ao meu nome mais seis lettras. A Universidade confirmou o tratamento que a minha servente me dava desde o primeiro anno. Abraços dos lentes e de toda a mais doutorança; abraços dos estudantes, abraços dos archeiros. A propria "Cabra" parecia dizer-me: Se eu pudesse descer, mettia-te os tampos dentro. Vou a casa para descansar do capello, emquanto n'um "hotel" da baixa se prepara o jantar do doutoramento. Desço até á Sé Velha, entro na rua do Correio, aproximo-me de casa e vejo á minha porta, cada um de seu lado, os dois cães que eu concertei, e que me iam dar os parabens! Aqui teem os senhores o que é a intelligencia do cão.</p>
 <p>Tal foi -- exclamava o Leotte enthusiasmado -- a improvisação do grande, do immortal Barcellos n'uma noite da botica. E todas as outras noites eram assim.</p>
 <p>-- Ó homem! atalhei eu. Vae deitar-te e deixa-me dormir, que são duas horas da noite!</p>
 </div><div type="chapter"><head>VII</head>
-<p>Depois de um terceiro dia passado no mais delicioso pantheismo vadio de que ha memoria, e em que o Leotte, sempre intrigado com a historia da criada, houve por bem, "malgrê lui_, acompanhar-nos, reunimo-nos, depois de jantar, no salão do Victor para continuarmos os nossos serões litterarios, a que, seja dito de passagem, já todos mais ou menos iamos tomando gosto.</p>
+<p>Depois de um terceiro dia passado no mais delicioso pantheismo vadio de que ha memoria, e em que o Leotte, sempre intrigado com a historia da criada, houve por bem, "malgrê lui", acompanhar-nos, reunimo-nos, depois de jantar, no salão do Victor para continuarmos os nossos serões litterarios, a que, seja dito de passagem, já todos mais ou menos iamos tomando gosto.</p>
 <p>As reluctancias que alguns, a principio, manifestavam, quando o presidente Vasconcellos e o "sabio congresso" os intimavam a falar, iam desapparecendo. Com mais um mez de Cintra, saía d'ali um enxame de oradores. Que desgraça, se tal acontecesse!</p>
 <p>Durante o dia, mettemos á bulha o Leotte por causa do seu supposto achado de uma fidalga na cozinha do Victor. Elle estava um pouco azoinado com a nossa troça. E, por orgulho ou convicção, promettia, protestava tirar o caso a limpo.</p>
 <p>Já n'aquelle mesmo dia, pela manhã, apesar de se ter deitado tarde como eu, havia trocado com a rapariga algumas palavras, poucas: e ella asseverara-lhe, dizia elle, que havia falado verdade na vespera.</p>
@@ -535,13 +530,13 @@
 <p>-- Contou-te o seu romance, como todas, exclamou o Vasconcellos. Parece que não conheces o genero! Muito tolo és!</p>
 <p>-- Conheço o genero, conheço, mas, por isso mesmo, acho que ella fala mais verdade do que todas as outras que costumam impingir-nos o "seu" romance. Emfim, veremos. Deixem-me vocês em paz.</p>
 <p>Á noite, no Victor, não houve duvidas sobre quem primeiro falaria. Pois que o Gonçallinho Jervis havia escripto já o seu segundo conto, como de manhã confessára, foi-lhe concedida a palavra, e, em verdade, outra coisa não desejava elle.</p>
-<p>Ouvimos pois, no meio do silencio regulamentar, que o Vasconcellos não deixava interromper, a narrativa que o nosso bom Gonçallinho planeara na almofada do "char-á-bancs" ao lado do cocheiro. O que é o poder da imaginação juvenil! Foi ao lado de um cocheiro de praça, que naturalmente cheirava a aguardente e suor, que elle phantasiou essa em verdade joiasinha litteraria, por elle proprio denominada "A morte do bibliophilo_.</p>
+<p>Ouvimos pois, no meio do silencio regulamentar, que o Vasconcellos não deixava interromper, a narrativa que o nosso bom Gonçallinho planeara na almofada do "char-á-bancs" ao lado do cocheiro. O que é o poder da imaginação juvenil! Foi ao lado de um cocheiro de praça, que naturalmente cheirava a aguardente e suor, que elle phantasiou essa em verdade joiasinha litteraria, por elle proprio denominada "A morte do bibliophilo".</p>
 <p>-- O bibliophilo Joseph, contou, era uma alma antiga, um espirito classico, que vivia no pó dos livros e no pó das ruinas.</p>
 <p>Todo o mundo da sua actividade intellectual, concentrada e profunda, havia passado já, mas elle resuscitava-o, nas suas cogitações luminosas, tão vivo e tão perfeito, como se a idade-média, que de preferencia amava, fosse um ramo de flôres, de que pudesse sentir ainda o perfume longinquo.</p>
 <p>Barbaros que invadiam a Europa, cavalleiros e trovadores, castellãs e pagens, guelfos e gibelinos, cruzados que partiam para a Terra Santa, burguezes que levantavam o grito da insurreição communal contra os senhores feudaes, exercitos que se despedaçavam n'uma guerra de cem annos ergendo os pendões da França e da Inglaterra, o imperio succumbindo perante o papado no parque do castello de Canossa, para resurgir depois triumphante na batalha de Volksheim; Roma desabando na sua grandeza moribunda, ao passo que as monarchias modernas palpitavam na primeira vibração da sua vitalidade autónoma, mares tenebrosos que se estavam offerecendo á quilha das primeiras naus descobridoras, como um terreno inculto ao dente fecundador da charrua, vagas revoltas de uma grande epopêa maritima, que espumavam anciosas da apparição de um Gama dominador, tudo isso rolava no seu espirito, como no sonho de uma febre permanente, passando, agitando-se, baralhando-se tumultuariamente sobre a tela historica de dez seculos de civilisação medieval.</p>
 <p>Em torno da sua alta cadeira de braços, a que estava sempre preso como Prometheu ao rochedo, longas filas silenciosas de canções de gesta e de novellas de cavallaria, in-folios de capas de pergaminho levemente rugoso, grossos volumes de encadernação tão dura como um arnez, formavam disciplinarmente, á espera que elle, com um simples volver de olhos, os chamasse á refrega de todos os dias, lhes désse a voz de commando, o grito de alarma.</p>
-<p>Sorriam-lhe do alto da estante, como que constituindo a ala dos namorados n'aquelle exercito de livros, os poemas carlovingeos, cheios da poesia dos combates, como na "Canção de Rolando_, cheios de ingenuidade heroica, como na "Canção do Figueiral_; os poemas da "Tavola-redonda" em que o espirito cavalheiresco pairava, como a borboleta na indecisão de dois nectarios, entre a lenda do rei Arthur e a tradição do Santo Graal.</p>
-<p>Depois galopavam para elle, mal que os chamasse com os olhos, os esquadrões interminaveis dos cavalleiros andantes, fazendo flammejar no ar a espada nua, desembainhada em honra de uma dama, que á noite, nas côrtes de amor, emquanto dois trovadores se digladiassem improvisando "tensões_, lhes havia de dar n'um sorriso, feito de rosas e perolas, o premio da victoria.</p>
+<p>Sorriam-lhe do alto da estante, como que constituindo a ala dos namorados n'aquelle exercito de livros, os poemas carlovingeos, cheios da poesia dos combates, como na "Canção de Rolando", cheios de ingenuidade heroica, como na "Canção do Figueiral"; os poemas da "Tavola-redonda" em que o espirito cavalheiresco pairava, como a borboleta na indecisão de dois nectarios, entre a lenda do rei Arthur e a tradição do Santo Graal.</p>
+<p>Depois galopavam para elle, mal que os chamasse com os olhos, os esquadrões interminaveis dos cavalleiros andantes, fazendo flammejar no ar a espada nua, desembainhada em honra de uma dama, que á noite, nas côrtes de amor, emquanto dois trovadores se digladiassem improvisando "tensões", lhes havia de dar n'um sorriso, feito de rosas e perolas, o premio da victoria.</p>
 <p>Ah! como o bibliophilo Joseph amava tão de dentro, tanto do imo peito, esse galante mundo aventuroso que divinisava a mulher a ponto de que, derrubado o altar por Cervantes, toda a realidade da belleza parecia tão pallida como o reflexo do sol agonisante resvalando nas vidraças coloridas d'uma janella gothica.</p>
 <p>Foi por isso que bibliophilo Joseph passára toda a sua vida sendo um celibatario sem familia, longe do calor absorvente das fundas affeições domesticas, na solidão sepulcral que só os livros povoavam.</p>
 <p>Herdára de um velho tio todas as preciosidades bibliographicas que completavam o thesouro da sua bibiotheca. Abrira, por desfastio, o primeiro livro, como um operario insciente que experimenta a medo a engrenagem de uma machina. Impellido por uma especie de dever sagrado, que lhe era imposto pela posse de um legado querido e precioso, foi voltando pagina sobre pagina, mas, a meio da leitura, como o viajante que fica encantado de encontrar um bello paiz desconhecido, sentiu-se preso pelo interesse e pela curiosidade e, chegando á ultima pagina, reconheceu que, tendo penetrado n'um palacio maravilhoso, o seu espirito exigia d'elle que não parasse no vestibulo.</p>
@@ -557,7 +552,7 @@
 <p>O mais que Leão se permittia fazer, depois de ter deixado ficar a bandeja, era espreitar pela fechadura da porta, receoso de que o amo se houvesse esquecido de estender o braço para aproximar a refeição.</p>
 <p>Leão tinha uma grande dedicação antiga por aquelle homem cheio de sciencia e de virtude, que atravessava a existencia sem se contagiar das paixões mundanas, conservando intacto um coração de ouro e um espirito de luz.</p>
 <p>Se via o amo ingerir á pressa a refeição, tranquillisava-se, e só voltava tempo depois a espreitar pela fechadura da porta para o vêr dar um pequeno passeio hygienico, enrijecendo as pernas, em roda da bibliotheca, como se andasse passeando n'um jardim, batendo os pés deante dos canteiros, parando a observar as etiquetas latinas das plantas.</p>
-<p>O que bibliophilo Joseph examinava era a sua collecção preciosa de rosas bibliographicas, de raras tulipas litterarias. Demorava-se olhando a lombada dos quatro in-folios da "Vita Christi_; tirava da estante, para acarinhal-a, a "Historia do mui nobre Vespasiano_; fazia uma rapida visita ao "Pentateuco hebraico" e ao "Almanach perpetuus_, que eram proximos vizinhos; folheava, envolvendo-o n'um olhar em que gorgeavam beijos paternaes, o seu querido "Boosco deleytuoso_, que lhe exhalava nas mãos, como um lirio aberto, todo o perfume da antiguidade quinhentista.</p>
+<p>O que bibliophilo Joseph examinava era a sua collecção preciosa de rosas bibliographicas, de raras tulipas litterarias. Demorava-se olhando a lombada dos quatro in-folios da "Vita Christi"; tirava da estante, para acarinhal-a, a "Historia do mui nobre Vespasiano"; fazia uma rapida visita ao "Pentateuco hebraico" e ao "Almanach perpetuus", que eram proximos vizinhos; folheava, envolvendo-o n'um olhar em que gorgeavam beijos paternaes, o seu querido "Boosco deleytuoso", que lhe exhalava nas mãos, como um lirio aberto, todo o perfume da antiguidade quinhentista.</p>
 <p>Leão via o bibliophilo entregue a esse bom passeio hygienico, que tanto lhe deleitava o espirito, e acabava de tranquillisar-se pela saude de seu amo, que, muitas vezes, quando não alternava com a leitura o menor exercicio muscular, tinha tido, ao levantar-se da cadeira, depois de longas horas de vida sedentaria, vertigens gastricas.</p>
 <p>Quando a noite principiava a cair, Leão entrava com o enorme candieiro de tres bicos, cuja luz uma larga pantalha de latão afrouxava. Poisava-o sobre a escrivaninha, com o leve ruido de uma mosca que passasse, e ia accender, ao fundo da bibliotheca, o fogão de sala, fortemente chapeado de ferro, para não communicar calor ás paredes.</p>
 <p>Cá fóra, na rua, principiavam, d'ahi a pouco, a rodar as carruagens que batiam para os theatros, para as festas frivolas da noite. Umas vezes por outras passavam fanfarras, folias populares, que iam para os clubs operarios improvisados ao ar livre. Outras vezes sentia-se o estrondo de bombas de incendio, que passavam, arrastadas vertiginosamente; e os sinos da cidade, alvoroçados, ouviam-se badalar, pedindo soccorro.</p>
@@ -579,21 +574,21 @@
 <p>Um cansaço extremo parecia aniquilar o bibliophilo, ao passo que Leão sentia rijos os seus braços como se fôssem de ferro.</p>
 <p>Com doloroso esforço, bibliophilo Joseph disse ao velho escudeiro, indicando-lhe uma estante:</p>
 <p>-- Traze d'ali o "D. Quichote" de Miguel Cervantes. Abre-o, e lê onde entenderes melhor.</p>
-<p>Leão correu á estante, tirou o "D. Quichote de la Mancha_, e, aproximando-se da cadeira do amo, caiu de joelhos, com o livro aberto.</p>
+<p>Leão correu á estante, tirou o "D. Quichote de la Mancha", e, aproximando-se da cadeira do amo, caiu de joelhos, com o livro aberto.</p>
 <p>Lentamente, a voz embargada pelos soluços, começou a ler, e emquanto elle lia, o bibliophilo, cerrados os olhos, escutava cada vez mais anciado...</p>
 <p>Foi assim que aquella alma cristallina, para quem a idade-média tinha sido uma delicia, exhalou o derradeiro suspiro, emquanto o velho Leão, sempre de joelhos, lia o "D. Quichote" de Cervantes, -- o epitaphio eterno da idade-média.</p>
 <p>Os applausos foram unanimes, postoque nem todos os ouvintes gostassem sinceramente d'esta especie de contos, a que o Vasconcellos, com maior ou menor propriedade, chamava phantasticos. Elle, por exemplo, preferia a escola realista: estava mais no seu genio, aliás pouco propenso a idealisações romanescas. Mas a verdade era que, afastada a questão de assumpto, o Gonçallinho Jervis lográra dar á sua narrativa uma forma litteraria, que revelava um escriptor.</p>
 <p>Do Leotte sabia o Vasconcellos que não viriam phantasias, fabulações romanticas; que, pelo contrario, quando o Leotte falasse, seriam assumpto obrigado as mulheres. Ora no conto do Gonçallinho, segundo a expressão do Vasconcellos, nem meia mulher apparecia.</p>
 </div><div type="chapter"><head>VIII</head>
 <p>Foi pois o Vasconcellos, que n'essa noite excedia o seu bom humor habitual, quem lembrou que, para contrapor ao Gonçallinho, só havia um homem entre nós, e que esse homem era o Leotte.</p>
-<p>Estavamos n'isto, quando o Victor, dono do "hotel_, appareceu á porta da sala, pedindo-nos licença para entrar.</p>
+<p>Estavamos n'isto, quando o Victor, dono do "hotel", appareceu á porta da sala, pedindo-nos licença para entrar.</p>
 <p>-- Era negocio urgente, dizia elle.</p>
 <p>Convidámol-o a entrar, sentar-se, e dizer.</p>
 <p>No fim de contas, o negocio era simples.</p>
-<p>Do proprietario do "Hotel Braganza_, de Lisboa, recebera elle um telegramma pedindo-lhe que na manhã seguinte tivesse promptos, pelo menos, um quarto e uma sala, contigua ao quarto, para um brazileiro e sua esposa.</p>
+<p>Do proprietario do "Hotel Braganza", de Lisboa, recebera elle um telegramma pedindo-lhe que na manhã seguinte tivesse promptos, pelo menos, um quarto e uma sala, contigua ao quarto, para um brazileiro e sua esposa.</p>
 <p>Precisava portanto que um de nós, o Maldonado, mudasse de aposento, porque occupava justamente o que preenchia aquellas condições.</p>
 <p>Despachado favoravelmente o requerimento, logo. A uns alegrou -- e foi d'este numero o Leotte -- a chegada de novos hospedes, especialmente de uma mulher; a outros, que estavam saboreando a liberdade da solidão, contrariou a noticia. Eu pertencia a estes ultimos.</p>
-<p>Apanhando o Victor a geito, falámos-lhe na "criada fidalga_, como nós diziamos. Pedimos informações.</p>
+<p>Apanhando o Victor a geito, falámos-lhe na "criada fidalga", como nós diziamos. Pedimos informações.</p>
 <p>-- Ella conta sempre essa historia, acho eu, disse-nos o Victor, mas isso tem-me interessado pouco. São lá coisas dos criados uns com os outros. O que eu posso dizer é que a Rosa tem, effectivamente, algum ar de não ser tão grosseira como as outras criadas. Mas, se v. exas. o desejam, perguntem-lhe a ella mesma por isso, quando quizerem, menos hoje, porque ella está engommando roupa. Póde ser ámanhã ou quando v. exas. quizerem, se fazem tenção de se demorar.</p>
 <p>Agradecemos a concessão que o Victor nos fizera, naturalmente para equilibrar a concessão que nós lhe fizemos do quarto do Maldonado.</p>
 <p>O Leotte estava triumphante: que não se tinha enganado; que já iamos vendo que quem tinha razão era elle, porque o proprio Victor confessára que a Rosa não era tão grosseira como as outras criadas.</p>
@@ -601,18 +596,18 @@
 <p>-- Vou-vos dizer um caso engraçado e verdadeiro, annunciou o Leotte.</p>
 <p>-- Isso é que se quer, approvou o Vasconcellos.</p>
 <p>-- -Com mulher? perguntou o Maldonado.</p>
-<p>-- É dos autos... respondeu o Leotte. "Toujours la femme._</p>
+<p>-- É dos autos... respondeu o Leotte. <foreign xml:lang="fra">"Toujours la femme."</foreign></p>
 <p>-- A historia do conde? perguntei eu.</p>
 <p>-- Não; essa fica para outra vez. É uma que me lembrou agora.</p>
 <p>Ouvimos.</p>
 <p>-- Voltavam de uma praia, não muito distante de Lisboa, tres amigos que na melhor das intimidades tinham feito juntos a sua estação de banhos.</p>
 <p>Vocês de certo os conhecem pessoalmente, mas a mim corre-me o dever de lhes occultar a individualidade sob a mascara do pseudonymo.</p>
-<p>Poderia, é certo, chamar-lhes os amigos "Tres estrellas_, mas as estrellas sempre tiveram fama de romanticas, e o conto é seu tanto ou quanto realista. Uma coisa brigaria com a outra. Prefiro pois inventar tres nomes de guerra e charmar-lhes:</p>
+<p>Poderia, é certo, chamar-lhes os amigos "Tres estrellas", mas as estrellas sempre tiveram fama de romanticas, e o conto é seu tanto ou quanto realista. Uma coisa brigaria com a outra. Prefiro pois inventar tres nomes de guerra e charmar-lhes:</p>
 <p>Arthur Reinaldo.</p>
 <p>Leopoldo Ambrosio.</p>
 <p>Jacinto Procopio.</p>
 <p>E, declarados os nomes, a ninguem será licito duvidar dos recursos da minha imaginação.</p>
-<p>Os nossos tres heroes pagaram a sua conta de "hotel_, fecharam as suas malas, e dirigiram-se para a proxima estação do caminho de ferro.</p>
+<p>Os nossos tres heroes pagaram a sua conta de "hotel", fecharam as suas malas, e dirigiram-se para a proxima estação do caminho de ferro.</p>
 <p>Chegando ahi, encontraram na sala de espera uma senhora distinctamente elegante, vestida de preto, coberto o rosto com um espesso véu.</p>
 <p>Todos tres arderam em curiosidade de vêr-lhe a face, e de saber quem fosse.</p>
 <p>Mas o véu era impenetravel á perspicacia de seus olhos.</p>
@@ -667,24 +662,24 @@
 <p>Imaginem vocês que é o proprio conde que está falando.</p>
 <p>Eu lhe conto, disse-me o conde.</p>
 <p>E, accendendo vagarosamente o seu charuto, cruzando a perna direita sobre o fémur da esquerda, contou, com o seu habitual sorriso, levemente malicioso:</p>
-<p>-- Estava eu em Pariz, onde tinha ido mais uma vez com o pretexto de assistir ás festas de 14 de julho. Oito dias depois, como os jornaes me avisassem de que todo o Pariz -- o Pariz doente e o Pariz são -- havia desertado para os Pyrineus, resolvi partir tambem, para fazer alguma coisa, e para não ficar... só! Tomei o primeiro "expresso_, e, ao cabo de 19 horas de viagem, apeava-me na estação de Pierrefite.</p>
+<p>-- Estava eu em Pariz, onde tinha ido mais uma vez com o pretexto de assistir ás festas de 14 de julho. Oito dias depois, como os jornaes me avisassem de que todo o Pariz -- o Pariz doente e o Pariz são -- havia desertado para os Pyrineus, resolvi partir tambem, para fazer alguma coisa, e para não ficar... só! Tomei o primeiro "expresso", e, ao cabo de 19 horas de viagem, apeava-me na estação de Pierrefite.</p>
 <p>Achei-me, mal puz o pé em terra, em plena vida: a grande vida dos Pyrineus no estio.</p>
 <p>Bastas massas de verdura engrinaldavam pittorescamente os rochedos, e a paisagem formosissima do valle de Argelès, contrastando com as aguas revoltas do Gave, seria capaz de me inspirar uma écloga, se eu tivesse a bossa de poeta bucolico.</p>
 <p>Na estação havia uma espessa agglomeração de gente, um borborinho estridulo, que me fez acreditar que todos os doentes que se sobrescriptavam para Cauterets iam de perfeita saude, a começar por mim...</p>
-<p>Os "omnibus dos hoteis" solicitavam-me, na razão de 2 francos e 50 centimos, por duas horas de caminho; os cocheiros das "caléches" disputavam-me a cabeça por dez francos. Preferi os "omnibus_, por nada menos de tres razões:</p>
-<p>1.ª Eu detesto a solidão, e os "omnibus_, como o seu nome indica, garantiam-me duas horas de viagem alegre, em companhia da gente que mais fala no mundo: os francezes.</p>
+<p>Os "omnibus dos hoteis" solicitavam-me, na razão de 2 francos e 50 centimos, por duas horas de caminho; os cocheiros das "caléches" disputavam-me a cabeça por dez francos. Preferi os "omnibus", por nada menos de tres razões:</p>
+<p>1.ª Eu detesto a solidão, e os "omnibus", como o seu nome indica, garantiam-me duas horas de viagem alegre, em companhia da gente que mais fala no mundo: os francezes.</p>
 <p>2.ª Eu relacionara-me no "expresso" com tres francezes e quatro francezas, a duas das quaes, alternadamente, e ás vezes simultaneamente, principiei a fazer um pequenino pé de alferes, como nós cá dizemos.</p>
 <p>3.ª Esta razão é futil: era mais barato.</p>
-<p>As minhas duas francezas saltaram para dentro de um "omnibus_, e eu parodiei os carneiros de Panurge, saltando para onde ellas saltaram.</p>
+<p>As minhas duas francezas saltaram para dentro de um "omnibus", e eu parodiei os carneiros de Panurge, saltando para onde ellas saltaram.</p>
 <p>Duas horas deliciosas!</p>
 <p>As francezas eram amigas de collegio: uma d'ellas, cunhada de mr. Bourgoin, um burguez rico, viajava para se divertir acompanhando a irmã casada; a outra viajava, tambem para se divertir, acompanhando a sua amiga, cunhada... do cunhado.</p>
 <p>Apenas o burguez precisava das aguas de Cauterets por causa do rheumatismo, que é uma doença de todos os burguezes. Se não fosse isso, como elles seriam felizes, especialmente... os ricos!</p>
 <p>Só elle, pois, tomava tudo aquillo a sério, falando-me da composição das aguas, das differentes "sources" de Cauterets, em que predominava o elemento alcalino.</p>
-<p>As duas amigas, por sua vez, encareciam-me a belleza dos passeios de Cauterets, citavam-me "la Promenade des Oeufs_, vasta explanada onde todas as tardes toca no kiosque a musica do Casino e onde a variedade dos divertimentos -- bailes infantis, jogos, tiro ao alvo -- e os "chalets" dos vendedores põem em todo o recinto uma nota de animação movimentada, gárrula, que a enorme concorrencia da "station" completa; da montanha de "Cambasque_, ao fundo da "Promenade des Oeufs_, á qual se sóbe em zig-zags, para descobrir um ponto de vista encantador; do "Marmelon Vert_, a dois kilometros de Cauterets, o "rendez-vous" do "sport_; do "Parque_, sombreado de bellas arvores seculares; da "Grange de la Reine Hortense_, d'onde se avistam os valles de Argelès e Lourdes; e da "Glacière_, a estreita garganta nunca visitada por um raio de sol...</p>
-<p>Planeavam "parties de plaisir_, "repas champêtres_, que nós desdoiramos com o vocabulo plebeu de merendolas, mas que, na graça delicada da lingua franceza, principiavam a ter sabor antes da realidade.</p>
+<p>As duas amigas, por sua vez, encareciam-me a belleza dos passeios de Cauterets, citavam-me "la Promenade des Oeufs", vasta explanada onde todas as tardes toca no kiosque a musica do Casino e onde a variedade dos divertimentos -- bailes infantis, jogos, tiro ao alvo -- e os "chalets" dos vendedores põem em todo o recinto uma nota de animação movimentada, gárrula, que a enorme concorrencia da "station" completa; da montanha de "Cambasque", ao fundo da "Promenade des Oeufs", á qual se sóbe em zig-zags, para descobrir um ponto de vista encantador; do "Marmelon Vert", a dois kilometros de Cauterets, o "rendez-vous" do "sport"; do "Parque", sombreado de bellas arvores seculares; da "Grange de la Reine Hortense", d'onde se avistam os valles de Argelès e Lourdes; e da "Glacière", a estreita garganta nunca visitada por um raio de sol...</p>
+<p>Planeavam "parties de plaisir", "repas champêtres", que nós desdoiramos com o vocabulo plebeu de merendolas, mas que, na graça delicada da lingua franceza, principiavam a ter sabor antes da realidade.</p>
 <p>Se fôsse em Portugal, dizia eu com os meus botões, estas duas meninas, ambas de uma mocidade estonteadora, viriam aqui esmagadas pela auctoridade dictatorial do unico homem que as acompanha; não diriam palavra ou responderiam com simples monosyllabos, muito acanhadas e muito hesitantes, ás minhas perguntas.</p>
 <p>Mr. Bourgoin, a ser portuguez, encarregar-se-ia, algum tanto constrangido, de fazer todas as despesas da conversação, visto ter a infelicidade de haver encontrado, contra os estilos do nosso paiz, um companheiro de viagem tagarella.</p>
-<p>Madame Bourgoin tão depressa estimulava as esperanças do marido na cura radical do seu rheumatismo, adiada de anno para anno, como se intromettia na conversação da irmã, e da outra, lembrando a belleza do "Lac Bleu_, espelhado de aguas limpidas, e contornado de ruinas, dando assim a entender que, superior á prosa do rheumatismo conjugal, pairava no seu espirito a poesia dos lagos...</p>
+<p>Madame Bourgoin tão depressa estimulava as esperanças do marido na cura radical do seu rheumatismo, adiada de anno para anno, como se intromettia na conversação da irmã, e da outra, lembrando a belleza do "Lac Bleu", espelhado de aguas limpidas, e contornado de ruinas, dando assim a entender que, superior á prosa do rheumatismo conjugal, pairava no seu espirito a poesia dos lagos...</p>
 <p>Perguntaram-me as duas amigas se eu me demoraria muito em Cauterets.</p>
 <p>Respondi que não havia nada tão incerto para um homem de boa saude como saber quando a sua doença o abandonaria.</p>
 <p>As duas francezas riram longo tempo, comprehendendo, com a sua fina intuição gauleza, que eu principiava a estar indeciso, no meu pé de alferes, entre uma e outra.</p>
@@ -705,7 +700,7 @@
 <p>Fiz-lhe namoro durante mez e meio, até ao fim de setembro. Depois, vesti a minha casaca, puz a minha gravata branca, e fui pedil-a á mãe, que teria quarenta annos, e uma carnação sadia, que não conseguira perder, sem embargo de tomar as aguas de Cauterets todos os annos. Parece incrivel!</p>
 <p>O conde descruzou as pernas, accendeu de novo o charuto, e, batendo uma palmada com a mão esquerda sobre a perna, disse-me:</p>
 <p>-- Fui muito feliz aquelle anno em Cauterets. Imagine que de uma vez combinei com dois portuguezes, que lá estavam, com oito francezes, um allemão e uma ingleza velha, fazermos uma excursão ao Pico de Balaïtous. Partimos de madrugada. Na vespera á noite a nossa excursão annunciara-se no Casino, fizera sensação; a noticia correra todos os grupos.</p>
-<p>Ao nascer do sol -- uma manhã deliciosa dos Pyrineus -- quando cheguei á porta do "hotel_, fiquei encantado de encontrar á janella, esperando por mim, para me verem partir, todos os meus namoros de Cauterets. Tinham madrugado sobreposse para me enviar, nas azas d'um sorriso, o seu adeus. Eu sentia-me feliz, ufano. Imagine que só n'uma das janellas estavam duas mulheres, impulsionadas pelo mesmo pensamento: o de me verem partir! Uma d'essas mulheres foi d'ahi a tres mezes minha noiva.</p>
+<p>Ao nascer do sol -- uma manhã deliciosa dos Pyrineus -- quando cheguei á porta do "hotel", fiquei encantado de encontrar á janella, esperando por mim, para me verem partir, todos os meus namoros de Cauterets. Tinham madrugado sobreposse para me enviar, nas azas d'um sorriso, o seu adeus. Eu sentia-me feliz, ufano. Imagine que só n'uma das janellas estavam duas mulheres, impulsionadas pelo mesmo pensamento: o de me verem partir! Uma d'essas mulheres foi d'ahi a tres mezes minha noiva.</p>
 <p>-- E a outra? perguntei eu.</p>
 <p>-- A outra? repetiu o conde com o seu habitual sorriso levemente malicioso. A outra era minha sogra.</p>
 <p>Todos nós conheciamos o conde, o seu genio alegre, o seu viver mundano, os seus ditos de espirito, a que muitas vezes sacrificava as conveniencias sociaes, as suas proprias conveniencias até; de modo que nos foi muito agradavel ouvir mais uma vez a historia do seu casamento com o sabor picante que elle proprio lhe dava, quando, sem poupar a sogra, não punha duvida em contal-a.</p>
@@ -727,17 +722,17 @@
 <p>Na idade do Gonçallinho Jervis, toda a alma é pouco mais ou menos como o rouxinol da novella: esgota-se cantando.</p>
 <p>Eu não sei se seriam rouxinoes as aves que na cêrca do convento de Bemfica provocaram a desafio os homens, chegando uma d'ellas a morrer extenuada.</p>
 <p>«Assim nos tempos que a natureza esperta as linguas das aves, a louvar com mais harmonia o Creador, é quasi morada continua (a cêrca) das que por mais musicas são conhecidas. E é tradição, que juntando-se n'ella uns seculares de boas vozes, e começando a cantar ao som de instrumentos bem accordados, acudiram as que se tinham por senhoras do sitio, a desafiar a melodia humana, e artificial, com a sua natural. E isto com tamanha porfia, que vencidas as vozes dos homens não cansaram as pobres avesinhas de seguir as violas que ficaram supprindo por ellas; e uma se deixou levar tanto do impeto, e affecto de cantar, que veio a desfallecer, e á vista de todos cahiu em terra sem alento, como dizendo, que antes queria perder o bem da vida, que a honra de perseverar cantando.»</p>
-<p>Deviam, effectivamente, ser rouxinoes, porque frei Luiz de Sousa se refere "ás que por mais musicas são conhecidas_, e o rouxinol é, no mundo alado da Europa, o cantor por excellencia.</p>
+<p>Deviam, effectivamente, ser rouxinoes, porque frei Luiz de Sousa se refere "ás que por mais musicas são conhecidas", e o rouxinol é, no mundo alado da Europa, o cantor por excellencia.</p>
 <p>Na idade do Gonçallinho Jervis, se uma alma responde á nossa n'um "duetto" de encantador lyrismo, pouco se nos dá de perder a vida comtanto que possamos morrer exhalando a alma n'um cantico.</p>
 <p>Eu proprio já havia prestado tambem o meu culto aos rouxinoes, principalmente ao de Bernardim Ribeiro. Aos dezoito annos -- Deus me perdoe! -- compuz um poema cuja heroina</p>
 <p> Acabára, cantando, o captiveiro Tal como é fama ter acontecido Ao rouxinol de Bernardim Ribeiro!</p>
 <p>Mas, no anno em que fômos a Cintra, já propendia a estimar mais as perdizes do que os rouxinoes, sobretudo se as perdizes eram temperadas com molho de villão.</p>
 <p>Um bom petisco!</p>
 <p>O Gonçallinho Jervis, felizmente para elle, amava tanto os rouxinoes como poeta que era, que até sabia a lenda mythologica d'aquella princeza que por suas desventuras fôra convertida em philomela, nome que os antigos deram ao rouxinol.</p>
-<p>Eu tinha só uma vaga ideia d'essa lenda pagã por a haver lido na "Arte da caça da altenaria_, composta por Diogo Fernandes Ferreira.</p>
+<p>Eu tinha só uma vaga ideia d'essa lenda pagã por a haver lido na "Arte da caça da altenaria", composta por Diogo Fernandes Ferreira.</p>
 <p>«Contam as fabulas que Tereo, filho de Marte e de Bistonida, sendo rei de Thracia, casou com Progne, filha d'el-rei d'Athenas, e a trouxe para o seu reino. N'ella houve um filho lindissimo, a que chamavam Itêns, tão desejado no reino, que o dia que nasceu se festejava como festa solemne. Teve a rainha Progne saudade de vêr a sua irmã Filomena: pediu ao marido licença para a ir vêr, ou fôsse elle em pessoa para a trazer, que seu pae e mãe lhe concederiam licença para a irmã vir. Tereo aprestou naus, partiu, chegou a salvamento, foi bem recebido dos sogros, rei e rainha e da cunhada Filomena, a qual, em Tereo a vendo, se incendeu de amores por sua formosura. Então com mais efficazes palavras pediu aos paes lhe dessem a licença que pretendia. Fez-se-lhe a vontade. Embarcados, vieram a salvamento, e, chegados a um porto do reino de Tereo, sahiram em terra elle e a cunhada, dizendo elle que o fazia para n'aquella floresta descansar do trabalho do mar. E sendo longe das naus e gente, não tanto como o elle estava da virtude, trabalhou por persuadir a cunhada áquelle intento que desejava; e vendo que nenhumas promessas nem palavras bastavam para ella consentir em seu desejo, acolheu-se á força e com ella, muito contra vontade da afflicta princeza, de donzella a tornou dona. Queixando-se ella a Deus e ao mundo de tão grande maldade, que havia de ser pregoeira de tamanha villeza e traição, e se havia de tomar vingança de tal aleivosia, ordenou elle outra maior maldade arrancando-lhe a lingua, e assim a levou a casa de um criado seu e vassallo, não lhe declarando o caso. Aos das naus disse que as feras a mataram, e chegando a sua casa se fizeram muitas mostras de tristeza pela morte fingida da cunhada, a qual, estando em poder do vassallo de Tereo, pediu por acenos lhe dessem hollanda e seda de côres, que queria entreter-se. Trazida, em letras gregas conta á irmã o caso, e por acenos rogou a uma mulher levasse aquella toalha assim lavrada á rainha Progne, que lhe havia de ser bem pago o trabalho que n'isso tomasse. Dada a toalha á rainha, sabida a historia, dissimulou. N'aquelle tempo se faziam umas festas que de tres annos se celebravam n'aquelle reino. Disse Progne ao marido que desejava ir a ellas. Ida, foi aonde a irmã estava, a qual achou privada da lingua e falla, e assim a trouxe para sua casa em trajo demudado. Ambas determinaram a vingança do marido bem extraordinaria, e foi que tomaram Itêns, o principe filho de entre ambos, e lhe cortaram a cabeça, pés e mãos, e do corpo mandaram fazer manjares differentes. E tendo isto ordenado, pediu Progne ao marido lhe concedesse jantarem ambos, ao modo dos reis de sua terra, que era comerem sós. Foi-lhe feita a vontade. Partiu Tereo os manjares e guizados feitos do corpo do filho; depois de comer d'elles, pediu á mulher lhe mandasse vir o principe Itêns, seu filho, que elle muito amava. Então sahiu Filomena de uma camara com a cabeça, as mãos e os pés do filho, desejando ter lingua para mostrar a ira que contra elle tinha. Tereo, vendo o caso, deu com a mesa em terra, e lançou mão á espada. Ellas fugiram, Progne convertida em andorinha, e Filomena em rouxinol; Itêns em avião, e Tereo em poupa.»</p>
 <p>Esta fabula, copiada dos poetas pagãos, fazia trasbordar de poesia a alma do Gonçallinho Jervis, que julgava ouvir na voz do rouxinol toda a colera tragica da princeza Filomena, a qual princeza, convertida em ave canora, parecia vingar-se eternamente da falta que no seu tempo lhe fizera a lingua, cortada pelo cunhado.</p>
-<p>Gonçallinho ia na esteira de Camões, que dizia nos "Lusiadas_:</p>
+<p>Gonçallinho ia na esteira de Camões, que dizia nos "Lusiadas":</p>
 <p> Ao longo da agua o niveo cysne canta, Responde-lhe do ramo philomela.</p>
 <p>Na varzea de Collares não faltavam agua, verdura, rouxinoes. Por isso elle tanto desejava que, soltando a sua voz de cysne de "frak" (certamente mais melodiosa do que aquella de que os cysnes podem dispôr) lhe respondesse de um ramo a princeza atheniense, convertida em rouxinol.</p>
 <p>Diogo Fernandes Ferreira explica a razão por que as quatro personagens da lenda foram metamorphoseadas n'aquellas aves.</p>
@@ -758,13 +753,13 @@
 <p>E a proposito da dama... Cinco minutos depois d'ella se ter sentado á mesa, começou-me a impressionar a sua physionomia, na qual me parecia encontrar feições de uma mulher que eu já vira não sabia quando nem onde.</p>
 <p>Por mais que evocasse as minhas recordações, por mais que folheasse esse volumoso livro de biographias que cada pessoa tem archivado no espirito para o consultar de quando em quando, não me era possivel encontrar um nome que correspondesse áquella physionomia: todavia, eu iria jurar que já tinha visto algures a mulher do brasileiro, que a havia encontrado, conversado talvez, mas não sabia, não podia dizer quando isso fosse.</p>
 <p>Seria em Lisboa? Não, decerto. Visivelmente haviam decorrido muitos annos, porque, de contrario, a minha memoria não seria tão rebelde.</p>
-<p>Na provincia? Aonde? Eis a questão. Vel-a-ia eu no Porto? Tel-a-ia visto em Braga, onde tantas vezes fui passar as férias? No Bom Jesus do Monte, onde, no verão, abundavam os brazileiros em "villegiatura_? Nas Caldas das Taipas ou de Vizella, que um anno por outro visitei de passagem?</p>
+<p>Na provincia? Aonde? Eis a questão. Vel-a-ia eu no Porto? Tel-a-ia visto em Braga, onde tantas vezes fui passar as férias? No Bom Jesus do Monte, onde, no verão, abundavam os brazileiros em "villegiatura"? Nas Caldas das Taipas ou de Vizella, que um anno por outro visitei de passagem?</p>
 <p>Deus meu! Era certo que eu tinha visto aquella mulher, mas não podia lembrar-me onde nem quando.</p>
 <p>Dominado por esta preoccupação, passei todo o jantar. Procurava observar a brasileira sem comtudo offender a susceptibilidade do marido. Elle não repelliu a conversação em que principalmente o Leotte o queria envolver. Disse alguma coisa da sua vida, pouco. Estava doente. Ella falou muito menos do que o marido, mas a sua voz, que conservava ainda vestigios da accentuação das provincias do norte, augmentou a minha preoccupação. Decididamente, eu já tinha ouvido falar aquella mulher.</p>
 <p>Sem termos sido mutuamente apresentados, estabeleceu-se para o fim do jantar, graças aos esforços empregados pelo Leotte, um certo convivio de expansiva camaradagem. Leotte, rindo sempre, contou ao que tinhamos ido a Cintra: ouvir os rouxinoes.</p>
 <p>O brazileiro e a mulher acharam muito graça a esta excentricidade collectiva.</p>
 <p>-- Ouvir os rouxinoes! exclamou elle. Na minha terra, por este tempo, os rouxinoes são aos cardumes!</p>
-<p>O Gonçallinho Jervis sublinhou com um olhar, que me enviesou, os "cardumes de rouxinoes_, que tinham saído da bocca do brazileiro.</p>
+<p>O Gonçallinho Jervis sublinhou com um olhar, que me enviesou, os "cardumes de rouxinoes", que tinham saído da bocca do brazileiro.</p>
 <p>Mas o Leotte aproveitou logo a occasião para perguntar:</p>
 <p>-- Então v. ex.ª é portuguez?</p>
 <p>-- Nado e creado na freguezia de Santa Maria de Bouro, concelho de Amares, comarca de Villa Verde, districto de Braga, respondeu elle.</p>
@@ -777,7 +772,7 @@
 <p>-- Isso agora é que eu não sei, meu caro sr. Lá que elle o diz, diz, porque eu, sendo caixeiro e andando a cobrança, ouvi muitas vezes cantar o curiangú. Punha-se á frente do meu cavallo e, quando o sentia perto, tornava a voar, e esperava-o dizendo: curiangú.</p>
 <p>-- Então não diz sempre a mesma coisa?</p>
 <p>-- Não, sr. De noite diz -- curiangú; e de madrugada -- João, corta pau.</p>
-<p>-- É curioso! Pois nós viemos para ouvir os rouxinoes, e a verdade é que ainda os não ouvimos, com grande magua do nosso amigo Jervis, que tomou muito a sério o pretexto d'esta digressão. Mas temos passado as noites tão entretidos no "hotel_, que nos tem faltado tempo para irmos ouvir os rouxinoes.</p>
+<p>-- É curioso! Pois nós viemos para ouvir os rouxinoes, e a verdade é que ainda os não ouvimos, com grande magua do nosso amigo Jervis, que tomou muito a sério o pretexto d'esta digressão. Mas temos passado as noites tão entretidos no "hotel", que nos tem faltado tempo para irmos ouvir os rouxinoes.</p>
 <p>-- Entretidos! Aqui? perguntou ironicamente a mulher do brazileiro.</p>
 <p>-- Sim, minha senhora, respondeu o Leotte, muito agraciado do semblante. Entretidos a contar historias.</p>
 <p>-- Da carochinha? perguntou ella com o mesmo tom de ironia.</p>
@@ -796,7 +791,7 @@
 <p>-- Até logo, disse a mulher do brazileiro saindo da sala de jantar, seguida pelo marido.</p>
 <p>Saímos tambem, accendemos as nossas cigarrilhas e fomos dar um passeio até á Praça para fazer o chilo, como sempre dizia o Maldonado.</p>
 <p>É claro que o assumpto do passeio, insensivelmente prolongado pela estrada de Villa Estephania, se circumscreveu ao brazileiro e á sua mulher.</p>
-<p>Todos eram de opinião, quanto á mulher, que ella representava umas ruinas muito menos antigas que as do convento do Carmo, mas não menos pittorescas. O Leotte -- já era de esperar -- exagerava a belleza da brazileira, como todos lhe chamavamos, e acrescentava que, quem quer que ella fosse, vinha da escóla da experiencia, da escóla pratica do mundo. Era "abelha-mestra_, concluia elle.</p>
+<p>Todos eram de opinião, quanto á mulher, que ella representava umas ruinas muito menos antigas que as do convento do Carmo, mas não menos pittorescas. O Leotte -- já era de esperar -- exagerava a belleza da brazileira, como todos lhe chamavamos, e acrescentava que, quem quer que ella fosse, vinha da escóla da experiencia, da escóla pratica do mundo. Era "abelha-mestra", concluia elle.</p>
 <p>Todas as phrases que ella disséra suscitavam-nos commentarios mais ou menos maliciosos.</p>
 <p>Notava-se a facilidade com que acceitára o nosso convite, não sem disfarçar habilmente o seu espirito mundano com a allegação de que o marido precisava distrair-se. O seu horror pela extensão das noites de Cintra revelava que ella, todavia, amava mais o mundo que o marido.</p>
 <p>Eu insisti na minha preoccupação de a ter já visto algures. Alguns dos meus amigos, o Vasconcellos por exemplo, riram-se d'isto.</p>
@@ -812,17 +807,17 @@
 <p>-- Mas é que o Pessanha tem casa em Villa Verde.</p>
 <p>-- N'esse caso já deve dinheiro ao Araujo e dirá só o que lhe fizer conta.</p>
 <p>-- Qual historia! Se lhe deve dinheiro, diz tudo.</p>
-<p>O Gonçallinho Jervis lembrou a phrase -- cardumes de rouxinoes. Outro, não sei qual, recordou-se do "tico, tico_. O caso do passaro -- já nenhum de nós lhe atinava com o nome -- que cosstuma dizer «João, corta pau», despertou grande galhofa.</p>
+<p>O Gonçallinho Jervis lembrou a phrase -- cardumes de rouxinoes. Outro, não sei qual, recordou-se do "tico, tico". O caso do passaro -- já nenhum de nós lhe atinava com o nome -- que cosstuma dizer «João, corta pau», despertou grande galhofa.</p>
 <p>-- Mas é que os brazileiros, disse o Athayde, têem a mania de que todos os passaros dizem alguma coisa.</p>
 <p>Gargalhada geral.</p>
-<p>-- É isto, insistiu elle. O Rodrigues, que vae muito á "Havanesa_, já uma vez me contou que ha no Brazil uma especie de rôla, que diz sempre: «Fogo pagou.»</p>
+<p>-- É isto, insistiu elle. O Rodrigues, que vae muito á "Havanesa", já uma vez me contou que ha no Brazil uma especie de rôla, que diz sempre: «Fogo pagou.»</p>
 <p>-- Pegou, é que ha de ser.</p>
 <p>-- Elle disse «Fogo pagou».</p>
 <p>-- E ha de ser assim. Julgavas então que no Brazil eram as rôlas que davam o signal de incendio!</p>
 <p>Novas gargalhadas.</p>
-<p>O Leotte lembrou que já passava das oito horas. Se não havia de ser elle que o lembrasse! Desandamos para o "Victor_, porque havia chegado o momento de começar o nosso sarau litterario -- com a assistencia do brazileiro e de sua esposa.</p>
-<p>Devia ter-se sentido em todo o "hotel_, quasi solitario, o ruido da nossa chegada. Installamo-nos na sala de visitas, como era costume. D'ahi a pouco, o brazileiro e a mulher entravam na sala.</p>
-<p>Madame Araujo tinha feito "toilette" para o sarau, uma "toilette" que envergonhava, pelo esplendor elegante, a nossa humilde academia de "touristes_. Mas um certo excesso de anneis de preço, enfiados nos dedos tambem excessivamente jaspeados de pós de arroz, prejudicava um pouco o bom gosto da "toilette_.</p>
+<p>O Leotte lembrou que já passava das oito horas. Se não havia de ser elle que o lembrasse! Desandamos para o "Victor", porque havia chegado o momento de começar o nosso sarau litterario -- com a assistencia do brazileiro e de sua esposa.</p>
+<p>Devia ter-se sentido em todo o "hotel", quasi solitario, o ruido da nossa chegada. Installamo-nos na sala de visitas, como era costume. D'ahi a pouco, o brazileiro e a mulher entravam na sala.</p>
+<p>Madame Araujo tinha feito "toilette" para o sarau, uma "toilette" que envergonhava, pelo esplendor elegante, a nossa humilde academia de "touristes". Mas um certo excesso de anneis de preço, enfiados nos dedos tambem excessivamente jaspeados de pós de arroz, prejudicava um pouco o bom gosto da "toilette".</p>
 <p>De mim para comigo dizia eu: «Já vi estas mãos e estes anneis, não sei onde!»</p>
 <p>A mulher do brazileiro mostrava-se encantada com a surpresa de um sarau, que a nossa excentricidade, como ella disséra, lhe havia preparado.</p>
 <p>O Araujo, muito resignado, parecia dizer com os olhos, explicando a sua presença ali: «Sim, filha, o que tu quizeres».</p>
@@ -831,7 +826,7 @@
 <p>O Saavedra tinha certa graça natural, era um espirito observador, mas a sua modestia orçava ás vezes pela timidez. Felizmente pudemos convencel-o a contar uma das suas anecdotas.</p>
 <p>-- Imaginem v. exas., disse elle, que uma respeitavel dona de casa, uma exemplar mãe de familia, o que quer que seja de Cornelia romana, tem um marido cujo orçamento domestico é em grande parte absorvido pelas immensas publicações, principalmente jornaes, de que o fazem assignante, ás vezes sem elle proprio o saber.</p>
 <p>É sempre com uma certa contrariedade que a esposa d'esse cavalheiro vê todos os dias entrar pela porta dentro mais um novo jornal.</p>
-<p>Ella, que para os seus Gracchos quereria amealhar todas as economias do "ménage_, observa ao marido que já vae sendo excessivo o numero de jornaes que recebem.</p>
+<p>Ella, que para os seus Gracchos quereria amealhar todas as economias do "ménage", observa ao marido que já vae sendo excessivo o numero de jornaes que recebem.</p>
 <p>Ordinariamente elle responde:</p>
 <p>-- Que queres, filha? Pediu-me o meu amigo Fulano; não póde deixar de ser. Mas como tudo n'este mundo tem compensações, é mais um que podes mandar vender no fim do mez.</p>
 <p>E, accendendo o seu charuto, nunca mais pensa no jornal novo que lhe mandaram, senão quando o cobrador vem receber a importancia da assignatura.</p>
@@ -842,7 +837,7 @@
 <p>D'ahi por diante, isto é, da mercearia por diante, é o toicinho que desbanca o artigo de fundo, é a manteiga que supplanta o folhetim. "Ceci tuera cela." A gordura afoga a poesia. Nos tempos modernos o trapo é a mortalha do tropo.</p>
 <p>Mas, como eu vinha contando, de tempos a tempos o criado da casa ia vender á tenda vizinha grandes porções de jornaes antigos.</p>
 <p>Succedeu porém que nos ultimos tempos, tendo-se despedido o criado, o moço de padeiro, que servia a casa, recommendou outro.</p>
-<p>-- Era da sua terra, da Galliza, dizia o padeiro, e vinha para fugir ás "sortes_. Não estava costumado a servir; faltava-lhe experiencia. Mas era muito bom rapaz, honradissimo, filho de uns pequenos lavradores de Compostella.</p>
+<p>-- Era da sua terra, da Galliza, dizia o padeiro, e vinha para fugir ás "sortes". Não estava costumado a servir; faltava-lhe experiencia. Mas era muito bom rapaz, honradissimo, filho de uns pequenos lavradores de Compostella.</p>
 <p>Affiançava-o. Quanto a pratica de serviço, não tinha -- repetia o padeiro -- ; mas como era esperto e tinha boa vontade de aprender, desembaraçar-se-ia depressa.</p>
 <p>Foi admittido o recommendado do padeiro.</p>
 <p>Tipo montezinho; intellecto impenetravel, duro como o silex. Não percebendo nada, parecia porém vivamente animado do desejo de perceber tudo. Tinha sempre boas palavras, falas mansas, muito respeitosas. Mas, sem embargo, todos estes predicados não chegavam a compensar a estupidez desastrosa com que tudo fazia.</p>
@@ -912,7 +907,7 @@
 <p>-- Aqui, na palma da mão, tenho este.</p>
 <p>-- São setenta réis. Dá cá.</p>
 <p>-- Isso agora é que eu não dou, não, senhor, porque este dinheiro é para entregar á sr.ª Rosa.</p>
-<p>-- Dá cá o dinheiro, e anda lá "p'ra diente_.</p>
+<p>-- Dá cá o dinheiro, e anda lá "p'ra diente".</p>
 <p>Quando o policia estava n'este ponto da narrativa, subia a escada o dono da casa, que voltava da repartição.</p>
 <p>Muito espantado de ver um policia, perguntou o que tudo aquillo significava.</p>
 <p>Então sua esposa contou o que se passara: o marido riu, o policia riu, a criada riu. Só o Domingos, com os olhos cravados no chão, não ria.</p>
@@ -938,11 +933,11 @@
 <p>-- Vamos a ouvir a historia, disse madame Araujo.</p>
 <p>-- Sim, filha, obedeceu o brazileiro, submisso como sempre.</p>
 </div><div type="chapter"><head>XIV</head>
-<p>A "festa dos taboleiros" tinha reunido em Thomar muita gente de fóra. A companhia dos caminhos de ferro estabelecêra comboios directos a preços reduzidos. A pittoresca cidadesinha do Nabão, com o seu bello convento de Christo no topo, tinha um movimento extraordinario, anormal, que a vitalisava desde o castello dos templarios até á graciosa planicie da "Varzea grande_, habitualmente só frequentada por alguns soldados de infantaria 11.</p>
-<p>Todas as familias gradas da localidade tratavam de engalanar os taboleiros com muitas flôres e fogaças, alguns d'elles cogulados até á altura hiperbolica de dois metros. São estes taboleiros que as raparigas mais bonitas da cidade, entrajadas ao garrido, conduzem á igreja de Santa Maria, onde a fogaça é benzida por um sacerdote. D'ali seguem por entre alas de povo, que as applaude, até á igreja da Misericordia. Á noite, a cidade, que é atravessada por uma ponte, illuminava-se com balões venezianos, que se espelhavam nas aguas do rio. Havia um bazar, e toirada. Era por tal signal cavalleiro um "amador_, Alfredo Marreca.</p>
-<p>Algumas familias das minhas relações haviam planeado um passeio através da Estremadura. Pretexto, a "festa dos taboleiros" em Thomar. Eu, que não gosto nada de viajar com o concurso de uma multidão festiva, combati o projecto, propuz um adiamento para depois da romaria. Procedeu-se á votação, e a maioria esmagou-me: tal qual como em S. Bento. Para me não demittir, submetti-me. Fomos por Santarem, onde nos demoramos dois dias. Depois seguimos para a estação de Paialvo, onde nos apeamos, e entramos em "char-à-bancs" que nos conduziram a Thomar. Estação e estrada abarrotavam de gente. Irritado dos nervos, o meu desejo era mandar parar o sol ou... aquella gente toda. Fomos na incerteza de obter "hotel_, e essa incerteza sorria-me. Mas quiz o acaso que ainda encontrassemos alojamento no "Hotel Cotrim_, á beira do Nabão. Tudo aquillo seria delicioso, se não estivessemos em plena romaria. Uma barafunda de todos os diabos.</p>
+<p>A "festa dos taboleiros" tinha reunido em Thomar muita gente de fóra. A companhia dos caminhos de ferro estabelecêra comboios directos a preços reduzidos. A pittoresca cidadesinha do Nabão, com o seu bello convento de Christo no topo, tinha um movimento extraordinario, anormal, que a vitalisava desde o castello dos templarios até á graciosa planicie da "Varzea grande", habitualmente só frequentada por alguns soldados de infantaria 11.</p>
+<p>Todas as familias gradas da localidade tratavam de engalanar os taboleiros com muitas flôres e fogaças, alguns d'elles cogulados até á altura hiperbolica de dois metros. São estes taboleiros que as raparigas mais bonitas da cidade, entrajadas ao garrido, conduzem á igreja de Santa Maria, onde a fogaça é benzida por um sacerdote. D'ali seguem por entre alas de povo, que as applaude, até á igreja da Misericordia. Á noite, a cidade, que é atravessada por uma ponte, illuminava-se com balões venezianos, que se espelhavam nas aguas do rio. Havia um bazar, e toirada. Era por tal signal cavalleiro um "amador", Alfredo Marreca.</p>
+<p>Algumas familias das minhas relações haviam planeado um passeio através da Estremadura. Pretexto, a "festa dos taboleiros" em Thomar. Eu, que não gosto nada de viajar com o concurso de uma multidão festiva, combati o projecto, propuz um adiamento para depois da romaria. Procedeu-se á votação, e a maioria esmagou-me: tal qual como em S. Bento. Para me não demittir, submetti-me. Fomos por Santarem, onde nos demoramos dois dias. Depois seguimos para a estação de Paialvo, onde nos apeamos, e entramos em "char-à-bancs" que nos conduziram a Thomar. Estação e estrada abarrotavam de gente. Irritado dos nervos, o meu desejo era mandar parar o sol ou... aquella gente toda. Fomos na incerteza de obter "hotel", e essa incerteza sorria-me. Mas quiz o acaso que ainda encontrassemos alojamento no "Hotel Cotrim", á beira do Nabão. Tudo aquillo seria delicioso, se não estivessemos em plena romaria. Uma barafunda de todos os diabos.</p>
 <p>Almoçamos, e saímos. Andamos aos encontrões de um lado para o outro. Começamos por visitar o convento. Na varanda de pedra o conservador do monumento dissera-nos: «A rainha D. Maria II, quando visitou o conde de Thomar, gostava de vir bordar para esta janella.» Que tinha bom gosto, concordaram as senhoras.</p>
-<p>A cidade, cortada pelo rio, muito arruada e muito varrida, estendia-se ao sopé do castello. E os forasteiros enxameavam cruzando-se em direcções oppostas. Vistos do alto, pareciam lilliputianos. Depois do castello, fomos visitar a fabrica de fiação, e as fabricas de papel do Prado e de Mariamaia. O dia estava calmosissimo: um julho abrasador. Os passaros, se não lograssem abrigar-se no secular arvoredo do "Padrão_, teriam morrido de calma.</p>
+<p>A cidade, cortada pelo rio, muito arruada e muito varrida, estendia-se ao sopé do castello. E os forasteiros enxameavam cruzando-se em direcções oppostas. Vistos do alto, pareciam lilliputianos. Depois do castello, fomos visitar a fabrica de fiação, e as fabricas de papel do Prado e de Mariamaia. O dia estava calmosissimo: um julho abrasador. Os passaros, se não lograssem abrigar-se no secular arvoredo do "Padrão", teriam morrido de calma.</p>
 <p>Á volta das fabricas, uma das senhoras do nosso rancho sentiu-se subitamente indisposta. Pediu-se um copo de agua. E, como a estação telegraphica estava proxima, recorremos ao telegraphista.</p>
 <p>Encontrei-o sentado ao apparelho -- que não era ainda o Morse -- trabalhando. Representava um homem de quarenta e cinco a quarenta e sete annos de idade: moreno e magro, estatura regular, bigode levemente grisalho. Muito grave de maneiras, e visivelmente melancolico. A sua figura impressionou-me e, digo-o francamente, sem querer encarecer o meu faro de observador, suspeitei n'aquelle homem um romance. Acreditem: suspeitei. Logo que lhe eu disse ao que ia, chamou para dentro a pedir um copo de agua. Veiu trazel-o uma rapariguita de dezeseis annos, picada das bexigas, e descalça. Mas eu percebi que alguem estava espreitando pela porta entreaberta.</p>
 <p>Arranquei o copo das mãos da rapariga, e saí com elle. A indisposição não tinha passado ainda. Uma mulher offerecera uma cadeira de pinho, em que sentaram a doente, que, muito pallida, coberta de um suor frio, bebeu um gole, e afastou o copo.</p>
@@ -964,12 +959,12 @@
 <p>Elle sorriu-se e respondeu:</p>
 <p>-- Eu nem dou pela festa. Detesto isto, não saio nunca de casa, não passeio, não ando.</p>
 <p>Instantes depois dizia-me ao ouvido um dos nossos companheiros de viagem:</p>
-<p>-- Pois, sr., tem bom gosto o homem! Prefere estar em casa a contemplar o monstrosinho das "bellezas_!</p>
+<p>-- Pois, sr., tem bom gosto o homem! Prefere estar em casa a contemplar o monstrosinho das "bellezas"!</p>
 <p>E eu respondia-lhe no mesmo tom discreto:</p>
 <p>-- Aqui ha romance, se ha!</p>
 <p>O meu amigo sorriu-se e respondeu:</p>
 <p>-- O que ha por força é tolice.</p>
-<p>Ao cabo de tres quartos de hora, a doente deu-se como restabelecida. Amparou-se ao braço de um parente seu, e recolhemos ao "hotel_, depois de termos agradecido ao telegraphista e a sua esposa os bons serviços que nos haviam dispensado.</p>
+<p>Ao cabo de tres quartos de hora, a doente deu-se como restabelecida. Amparou-se ao braço de um parente seu, e recolhemos ao "hotel", depois de termos agradecido ao telegraphista e a sua esposa os bons serviços que nos haviam dispensado.</p>
 <p>Elle disse-nos o seu nome todo, offereceu-nos attenciosamente a sua casa, pobre e humilde como era.</p>
 <p>A mulher, erguida nos bicos dos pés, dava beijos ás senhoras e apertou a mão aos homens, sacudindo-a á ingleza.</p>
 <p>-- Mas que figura de mulher! diziam as senhoras. Que lá bem educada parece ser.</p>
@@ -985,7 +980,7 @@
 <p>Mostrou-se surprehendido o maritimo. Parecia-lhe impossivel aquella boa fortuna para uma filha anã. Disse-lhe que teria muito gosto em acceital-o como genro, tanto mais que sua filha, como elle acabava de dizer, estava de accordo no casamento.</p>
 <p>E, por cautela, dispensou-se de chamar a filha á conferencia.</p>
 <p>Tres dias depois era o telegraphista admittido na intimidade da familia. Foi então que viu pela primeira vez sua mulher tal qual ella era, sem o supplemento da cadeira alta. Um tremor de frio percorreu-lhe a espinha dorsal, mas, homem de principios honestos, presando acima de tudo a sua reputação, casou. Outro fosse elle, e teria fugido de Sines n'essa mesma noite, mandando a noiva e o telegrapho ao diabo. Todas as pessoas de regular estatura o haveriam desculpado.</p>
-<p>Sabida a historia, ficou perfeitamente explicado o melancolico recolhimento em que o telegraphista vivia, o seu desdem pela festa dos "taboleiros_, e o seu apêgo ao apparelho Bréguet, bem mais suave para elle que o do Hymeneu.</p>
+<p>Sabida a historia, ficou perfeitamente explicado o melancolico recolhimento em que o telegraphista vivia, o seu desdem pela festa dos "taboleiros", e o seu apêgo ao apparelho Bréguet, bem mais suave para elle que o do Hymeneu.</p>
 <p>Na infelicidade d'este logro conjugal, uma consolação unica poderia sorrir ao pobre telegraphista: não tinha filhos, nem esperava tel-os.</p>
 <p>-- Muito bem sacado logro! exclamou o brazileiro com a despreoccupação de espirito de quem não suspeita ter caído em algum logro... mais ou menos bem sacado.</p>
 <p>Madame Araujo commentava o caso, ria, falava, estava expansiva, o que lisonjeava sobremodo o Leotte.</p>
@@ -998,7 +993,7 @@
 <p>Os relogios do Victor deram meia noite.</p>
 <p>-- E que tal! já meia noite! disse o brazileiro.</p>
 <p>Se você concorda, Christina, vamos tratar de recolher-nos, hein?</p>
-<p>Ouvindo pronunciar a palavra "Christina_, foi como se eu proprio tivesse pronunciado "eureka!" como se houvesse encontrado a solução de um problema transcendente.</p>
+<p>Ouvindo pronunciar a palavra "Christina", foi como se eu proprio tivesse pronunciado "eureka!" como se houvesse encontrado a solução de um problema transcendente.</p>
 <p>Despedi-me do brazileiro e da mulher, authomaticamente. Mal que elles voltaram costas, fiz signal aos outros para que me seguissem. Chegando ao meu quarto, fechei a porta, e disse-lhes cuidadosamente, como se se tratasse de um segredo de estado n'um club de conspiradores:</p>
 <p>-- Já sei quem esta mulher é!</p>
 <p>-- Quem é?</p>
@@ -1006,7 +1001,7 @@
 <p>-- A Christina da historia que nos contaste?!</p>
 <p>-- Acreditem, meus amigos, é a Christina do Muxagata.</p>
 </div><div type="chapter"><head>XV</head>
-<p>A minha revelação causou tanta surpresa e interesse aos meus companheiros de "villegiature_, como a mim proprio.</p>
+<p>A minha revelação causou tanta surpresa e interesse aos meus companheiros de "villegiature", como a mim proprio.</p>
 <p>Ir eu encontrar, ao cabo de tantos annos, a mesma Christina da rua das Fontainhas, a quem fôra entregar o dinheiro do Muxagata, na occasião em que ella estava ceando com o Falcão do Marco!</p>
 <p>Que singular coincidencia a de ter eu começado por contar, nos nossos improvisados serões de Cintra, a historia do Muxagata e de ter vindo ao nosso encontro, no "hotel" do Victor, essa famosa Christina, que eu nunca mais tinha visto, e de que nunca mais ouvira falar!</p>
 <p>Como, arruinando talvez o Falcão do Marco, chegára ella a desposar o brazileiro Araujo, se é que em verdade o havia desposado mais canonicamente do que ao Muxagata e ao Falcão do Marco?</p>
@@ -1024,7 +1019,7 @@
 <p>Era porém preciso proceder com boa tactica, não começar logo por falar no jogo.</p>
 <p>Assim se fez. No dia seguinte, madame Araujo, que ia readquirindo entre nós o seu velho habito de conviver com homens, estava quasi familiarisada comnosco, interessava-se pelos nossos passeios, pelos nossos paradoxos, e, sobretudo, mostrava-se deliciada pelos nossos serões, cheios de novidade para ella.</p>
 <p>Á noite, como se realmente não tivessemos nenhuma intenção reservada, principiámos por dar a palavra ao Taveira, que ainda não tinha falado. Contasse elle alguma "partida" do seu amigo Luiz de Lemos, com que tantas vezes nos tinha matado o bicho do ouvido.</p>
-<p>-- A historia da "claque_, por exemplo.</p>
+<p>-- A historia da "claque", por exemplo.</p>
 <p>-- Vocês estão fartos de ouvil-a! disse elle.</p>
 <p>-- Mas nem madame Araujo nem seu esposo a conhecem de certo.</p>
 <p>-- Luiz de Lemos! Eu nunca ouvi falar sequer d'esse nome! disse madame Araujo.</p>
@@ -1034,8 +1029,8 @@
 <p>Tinha chegado de Boaças dias antes, apenas com o seu fato de verão e alguma roupa branca na mala. Não contava passar do Porto. Mas, de subito, n'aquella noite, lembraram-lhe os primos Ozorios de Braga, dois pandegos, e, ao recolher do theatro, fez a mala e disse ao criado da "Aguia d'ouro" que o chamasse ao romper da manhã.</p>
 <p>-- V. ex.ª retira-se já para Boaças? perguntou o criado, admirado de que, d'esta vez, o rega-bofes durasse tão pouco tempo.</p>
 <p>-- Não. Eu vou a Braga, visitar os primos Ozorios. Ainda hei de ir estar na Foz alguns dias. Mas por ora é cedo. Vou a Braga.</p>
-<p>Ao romper da manhã, Luiz de Lemos foi á rua Formosa, á alquilaria do "Raymundo_, alugar um "coupé" que o levasse a Braga.</p>
-<p>Elle tinha um grande horror instinctivo pela diligencia de Entre-Paredes em especial, e por todas as diligencias em geral. Dizia elle que a diligencia era a "valla dos vivos_. Uma philosophia como qualquer outra.</p>
+<p>Ao romper da manhã, Luiz de Lemos foi á rua Formosa, á alquilaria do "Raymundo", alugar um "coupé" que o levasse a Braga.</p>
+<p>Elle tinha um grande horror instinctivo pela diligencia de Entre-Paredes em especial, e por todas as diligencias em geral. Dizia elle que a diligencia era a "valla dos vivos". Uma philosophia como qualquer outra.</p>
 <p>A manhã estava deliciosa, fresca e lucida, excellente para jornada. Almoçou na Carriça, tornou a almoçar em Villa Nova de Famalicão, e almoçaria terceira vez em Braga, se não preferisse jantar.</p>
 <p>Os primos Ozorios do Campo Novo, encantados com a visita do morgado de Boaças, disseram-lhe que iam para a mesa.</p>
 <p>-- Vocês ainda jantam? perguntou o morgado.</p>
@@ -1067,7 +1062,7 @@
 <p>-- Manda pedir o cavallo emprestado ao Longuinhos do Bom Jesus do Monte.</p>
 <p>-- Ou isso. Mas vamos a resolver o caso do chapeu.</p>
 <p>-- Está resolvido, disse o Ozorio mais velho. Eu tenho uma "claque" e um chapeu alto. Tu levas a "claque" e eu o chapeu alto.</p>
-<p>-- Para encheres de pasteis é melhor do que a "claque_. Tu não te perdes, maganão!</p>
+<p>-- Para encheres de pasteis é melhor do que a "claque". Tu não te perdes, maganão!</p>
 <p>Jantaram pantagruelicamente, comendo bem e bebendo melhor.</p>
 <p>Ás 9 horas davam os tres primos entrada nos salões do commendador Raio, que estavam deslumbrantes de bellezas bracarenses.</p>
 <p>Luiz de Lemos valsou, polkou, namorou, com o prestigio que lhe dava a sua lenda de morgado rico de Boaças.</p>
@@ -1079,7 +1074,7 @@
 <p>O primo riu-se.</p>
 <p>Luiz de Lemos entrou na pequena sala, onde muitos cavalheiros de Braga estavam fumando, incluindo o escrivão de fazenda.</p>
 <p>Accendeu o seu charuto, pousou a "claque" sobre a mesa, conversou com os conhecidos e os desconhecidos, riu, falou de cavallos e de mulheres, mas como ouvisse annunciar uma valsa, levantou-se, pegou na "claque" e dispunha-se a passar ao salão de baile.</p>
-<p>Quando elle já tinha sobraçado a "claque_, o escrivão de fazenda, que estava de pé, reparando na outra "claque" que tinha ficado sobre a mesa, dirigiu-se ao morgado de Boaças:</p>
+<p>Quando elle já tinha sobraçado a "claque", o escrivão de fazenda, que estava de pé, reparando na outra "claque" que tinha ficado sobre a mesa, dirigiu-se ao morgado de Boaças:</p>
 <p>-- V. ex.ª enganou-se...</p>
 <p>-- Enganei-me! Como?</p>
 <p>-- Essa "claque" não é de v. ex.ª.</p>
@@ -1097,7 +1092,7 @@
 <p>-- Porque?</p>
 <p>-- Porque não és capaz de guardar um segredo.</p>
 <p>-- Que segredo?</p>
-<p>-- O da "claque_.</p>
+<p>-- O da "claque".</p>
 <p>-- Mas que dizes tu?!</p>
 <p>-- E o da casaca tambem...</p>
 <p>-- Mas a quem diabo fui eu contar que te emprestei a "claque" e a casaca?</p>
@@ -1130,7 +1125,7 @@
 </div><div type="chapter"><head>XVI</head>
 <p>Todas as baterias da nossa curiosidade se assestaram contra um alvo unico: descobrir a historia do supposto casamento da Christina do Muxagata com o brazileiro Araujo.</p>
 <p>Felizmente para nós, o bloqueio não durou muito. Foi a propria praça que se rendeu voluntariamente.</p>
-<p>Emquanto D. Christina fazia a sua "toilette" para o jantar, o brazileiro contava-me no terraço do "hotel_, com toda a sua ingenuidade bondosa, a historia do seu casamento -- revelação a que eu o conduzi mais ou menos habilmente.</p>
+<p>Emquanto D. Christina fazia a sua "toilette" para o jantar, o brazileiro contava-me no terraço do "hotel", com toda a sua ingenuidade bondosa, a historia do seu casamento -- revelação a que eu o conduzi mais ou menos habilmente.</p>
 <p>Tinha vindo a Portugal havia seis annos para matar saudades da patria e visitar os parentes que viviam em Amares.</p>
 <p>Aproveitára a occasião, e fizera algumas excursões tanto no norte do paiz como na Extremadura.</p>
 <p>Foi por essa occasião que encontrára D. Christina no Bom Jesus do Monte. Tinha ella enviuvado pela segunda vez recentemente e achava-se entregue a um profundo abatimento moral...</p>
@@ -1158,7 +1153,7 @@
 <p>-- Ora adeus! respondeu o brazileiro rindo. Se fôr preciso, deite um véosinho por cima da historia, e conte sempre. Nós já não somos nenhumas creanças innocentes.</p>
 <p>-- Pois n'esse caso, ahi vae a historia:</p>
 <p>Eu estava á janella, de manhã cedo -- seis horas talvez -- a comer um bello cacho de uvas brancas. Encostado ao peitoril, ia debicando bago a bago, com um certo prazer de gastronomo, que só me fazem sentir as uvas brancas e doces. Ás vezes alongava os olhos pelo horizonte, que as torres de Mafra recortavam ao longe, esfumando-se como no fundo de um quadro. Em torno de mim havia uma placidez profunda: as arvores e as pedras, companheiras unicas do casal, pareciam adormecidas ainda na frescura cristalina da manhã. A estrada de Mafra, que passava sob as janellas, estirava-se tão solitaria, que as andorinhas saltitavam no macadame, bicando o pó. O caseiro tinha saído com o filho n'uma carroça; a mulher do caseiro accendêra o lume para o almoço, como indicava o fumo que rompia da chaminé.</p>
-<p>N'isto, sinto o tilintar longinquo de guizos na estrada. É o tenente Silverio, que vem dar o seu passeio matutino, disse eu com os meus botões. Já lhe conhecia o trotar da egua, que puxava a "charrette_.</p>
+<p>N'isto, sinto o tilintar longinquo de guizos na estrada. É o tenente Silverio, que vem dar o seu passeio matutino, disse eu com os meus botões. Já lhe conhecia o trotar da egua, que puxava a "charrette".</p>
 <p>Nas terras pequenas sabe-se tudo: o tenente Silverio andava apaixonado pela Libania, da Murgeira, uma saloia muito animal, de seios turgidos, que pareciam despenhar-se no tanque, quando ella se curvava para lavar.</p>
 <p>Era elle, o tenente.</p>
 <p>Fez parar a "charrette" debaixo da minha janella.</p>
@@ -1179,7 +1174,7 @@
 <p>O tenente riu-se.</p>
 <p>Tinhamos saído da estrada de Mafra, e iamos subindo, a passo, para a Murgeira.</p>
 <p>Avistava-se o mar, de um azul lacteo, esbranquiçado e sereno.</p>
-<p>Fomos subindo: a egua, de cabeça baixa, mettia o largo peito á estrada, puxando a "charrette_. Já conhecia o caminho, e acho que até já conhecia a Libania.</p>
+<p>Fomos subindo: a egua, de cabeça baixa, mettia o largo peito á estrada, puxando a "charrette". Já conhecia o caminho, e acho que até já conhecia a Libania.</p>
 <p>Chegámos. As creancitas choravam como se tivesse acontecido uma desgraça. Havia algum caso na Murgeira.</p>
 <p>-- Ora esta! exclamava o tenente. É a primeira vez que vejo chorar n'esta terra!</p>
 <p>-- Ainda que tarde, as lagrimas chegam sempre, observei eu.</p>
@@ -1188,7 +1183,7 @@
 <p>Soubemos então o que se tinha passado; morrera o Zé Ratinho.</p>
 <p>-- Quem era? perguntei.</p>
 <p>Deram-nos informações. Zé Ratinho era um rapaz da Murgeira, que se fizera cocheiro dos Gatos. Andára doze annos em Lisboa, batendo, e aprendêra lá a tocar guitarra. Por esta prenda foi que elle se tornou celebre desde Lisboa até Mafra, desde Mafra até á Murgeira. Nas esperas de toiros, nas patuscadas de Friellas e nas noitadas do Dáfundo, Zé Ratinho fazia as delicias dos marialvas e das hespanholas: era um artista para a guitarra.</p>
-<p>Fôra em Lisboa que elle ganhára "queixa de peito_, disseram-nos. Viera muito doente para a Murgeira, tomar ares patrios. Apesar de doente, entretinha-se á noite com a guitarra, na taverna, tocando para os outros ouvir. Os saloios da Murgeira, seus patricios, consideravam-n'o um Orpheu, um Amphion da guitarra. D'aqui o sentimento geral pela morte d'esse excellente rapaz, que deixava a perder de vista os "harmonios" da saloiada patusca.</p>
+<p>Fôra em Lisboa que elle ganhára "queixa de peito", disseram-nos. Viera muito doente para a Murgeira, tomar ares patrios. Apesar de doente, entretinha-se á noite com a guitarra, na taverna, tocando para os outros ouvir. Os saloios da Murgeira, seus patricios, consideravam-n'o um Orpheu, um Amphion da guitarra. D'aqui o sentimento geral pela morte d'esse excellente rapaz, que deixava a perder de vista os "harmonios" da saloiada patusca.</p>
 <p>Todos, rapazes e raparigas, queriam velar o seu cadaver. Tinha funeraes de principe, o Zé Ratinho.</p>
 <p>-- Acabou-se a guitarra na Murgeira! exclamou um saloio, que acabava de beber dois decilitros saudosamente.</p>
 <p>-- Vão os senhores lá ver, que elle está catita! exclamou o taverneiro.</p>
@@ -1220,12 +1215,12 @@
 <p>O taverneiro commentava:</p>
 <p>-- Cá na Murgeira não é o senhor capaz de tirar da cabeça a ninguem que foi a alma do Zé Ratinho que na propria noite em que elle morreu, por volta das duas horas, esteve tocando guitarra.</p>
 <p>-- Venha d'ahi, dizia-me o tenente, vamos almoçar.</p>
-<p>Subimos para a "charrette_. Já com as rédeas na mão, o tenente, muito chalaceador, perguntou-me:</p>
+<p>Subimos para a "charrette". Já com as rédeas na mão, o tenente, muito chalaceador, perguntou-me:</p>
 <p>-- Então os saloios ouviram a alma do Zé Ratinho tocar guitarra, na noite em que elle morreu?!</p>
 <p>-- Ouviram.</p>
 <p>-- Pois... quem tocava guitarra era eu.</p>
 <p>-- Você?!</p>
-<p>-- Eu, sim. A Libania estava muito triste, e eu vim de Mafra dizer-lhe coisas. Ficou mais alegre. Quando vinha embora, dei as rédeas ao "impedido_, e vim tocando guitarra. Mas pensei que elles não tivessem ouvido...</p>
+<p>-- Eu, sim. A Libania estava muito triste, e eu vim de Mafra dizer-lhe coisas. Ficou mais alegre. Quando vinha embora, dei as rédeas ao "impedido", e vim tocando guitarra. Mas pensei que elles não tivessem ouvido...</p>
 <p>-- Jura que isso é verdade?</p>
 <p>O tenente olhou para mim:</p>
 <p>-- Juro.</p>
@@ -1235,7 +1230,7 @@
 <p>-- Vamos a isto, meus senhores.</p>
 </div><div type="chapter"><head>XVII</head>
 <p>Leotte arrastava discretamente a aza a D. Christina, mas enganára-se quanto á presumpção de, como César, chegar, ver e vencer.</p>
-<p>Teve de conhecer que madame Araujo, muito experimentada no terreno que pisava, não quereria comprometter-se no pequeno theatro de acção de um "hotel_, onde o marido só a largava por instantes e onde nós, os oito companheiros de Leotte, eramos outros tantos olheiros, cheios de malicia e curiosidade. De mais a mais, entre esses oito havia um que lhe conhecia a vida. Era eu. E ella estava de certo empenhada em fazer-me convencer a mim proprio, como tinha convencido o brazileiro, de que era a viuva authentica e duplicada do morgado Muxagata e do Falcão do Marco.</p>
+<p>Teve de conhecer que madame Araujo, muito experimentada no terreno que pisava, não quereria comprometter-se no pequeno theatro de acção de um "hotel", onde o marido só a largava por instantes e onde nós, os oito companheiros de Leotte, eramos outros tantos olheiros, cheios de malicia e curiosidade. De mais a mais, entre esses oito havia um que lhe conhecia a vida. Era eu. E ella estava de certo empenhada em fazer-me convencer a mim proprio, como tinha convencido o brazileiro, de que era a viuva authentica e duplicada do morgado Muxagata e do Falcão do Marco.</p>
 <p>Portanto, o Leotte, que não era tambem um novato inexperiente, resolveu "rallentar" o galanteio, appellando para Lisboa. Por esta razão e, certamente espicaçado pela minha feliz descoberta, voltou-se de novo para a criada, não só por amor das cerejas apetitosas, como pelo desejo de ver se deslindava o misterio, que fôra o primeiro a suspeitar.</p>
 <p>E agora é chegado o lance capital d'esta novella, que talvez pareça inverosimil como um antigo romance de Ponson, mas que é tão verdadeira, que ainda hoje póde ser testemunhada por mais de meia duzia de pessoas.</p>
 <p>Teve sobeja razão o Leotte para nos communicar cheio de assombro que a sua descoberta, segundo as ultimas revelações da Rosa, excedia a que eu acabava de fazer.</p>
@@ -1260,7 +1255,7 @@
 <p>-- Mas como foi que a menina veiu parar a Lisboa?</p>
 <p>-- O sr. major saiu tenente-coronel e foi collocado em Elvas. Eu vivia muito feliz, porque tanto elle como a mulher, a sr.ª D. Clara -- Deus a chame lá! -- me tratavam como se eu fosse sua filha. Tinham muita pena de mim, davam-me vestidos, chapeus, tudo o que elles podiam dar, e mais do que podiam dar, porque o sr. tenente-coronel apenas vivia do soldo. A sr.ª D. Clara, como era alfacinha, gostava de poder vir para Lisboa; de mais a mais, em Elvas, o sr. tenente-coronel passava mal de saude. Um general, que era amigo d'elle, arranjou-lhe a transferencia para Lisboa. Viemos todos. Mas o sr. tenente-coronel nunca mais tornou a ser o homem que era em Lamego. Soffria do coração. Anno e meio depois de estarmos em Lisboa, acamou, soffrendo cada vez mais. Morreu todo inchado, que fazia dó. N'esse dia posso dizer que morreu o meu verdadeiro pae. -- E dos olhos da rapariga rebentavam lagrimas.</p>
 <p>-- Depois?</p>
-<p>-- Depois a sr. D. Clara e eu viviamos de uma pequena pensão que ella tinha. Mas a pobre senhora affligiu-se tanto com a morte do marido, que pegou de fazer-se doente. Só durou mais onze mezes. Vieram então uns parentes d'ella, sobrinha e marido, tomar conta de tudo o que havia. E eu achei-me sósinha no mundo, sem ter quem me protegesse. Vi-me só, desamparada, fiz um annuncio no "Diario de Noticias_, arranjei uma casa, fui servir. -- E os soluços embargavam-lhe a voz.</p>
+<p>-- Depois a sr. D. Clara e eu viviamos de uma pequena pensão que ella tinha. Mas a pobre senhora affligiu-se tanto com a morte do marido, que pegou de fazer-se doente. Só durou mais onze mezes. Vieram então uns parentes d'ella, sobrinha e marido, tomar conta de tudo o que havia. E eu achei-me sósinha no mundo, sem ter quem me protegesse. Vi-me só, desamparada, fiz um annuncio no "Diario de Noticias", arranjei uma casa, fui servir. -- E os soluços embargavam-lhe a voz.</p>
 <p>-- Mas por que não tentou procurar sua mãe?</p>
 <p>-- Como! Quem sabe lá se minha mãe ainda vive! Se ella quizesse fazer caso de mim, teria deitado inculcas para me encontrar.</p>
 <p>-- Diga-me porém uma coisa... Como foi que mudou de nome?</p>
@@ -1292,7 +1287,7 @@
 </div><div type="chapter"><head>XVIII</head>
 <p>O conto que eu architectei, para contar á noite, foi baseado, devo confessal-o francamente, n'uma noticia que havia lido em Buffon, e que para aqui vou transcrever textualmente.</p>
 <p>Diz o sabio naturalista na sua obra monumental:</p>
-<p>«_Pendant tout le temps de l'incubation, la paone évite soigneusement le mâle, et tâche surtout de lui dérober sa marche lorsqu'elle retourne à ses ½ufs; car dans cette espèce, comme dans celle du coq et de bien d'autres, le mâle, plus ardent et moins fidèle au v½u de la Nature, est plus occupé de son plaisir particulier que de la multiplication de son espèce; et s'il peut surprendre la couveuse sur ses ½ufs, il les casse en s'approchant d'elle, et peut-être y met-il de l'intention, et cherche-t-il à se délivrer d'un obstacle qui l'empêche de jouir: quelques-uns ont cru qu'il ne les cassoit que par son empressement à les couver lui-même, ce seroit un motif bien diffèrent._»</p>
+<p>«"Pendant tout le temps de l'incubation, la paone évite soigneusement le mâle, et tâche surtout de lui dérober sa marche lorsqu'elle retourne à ses ½ufs; car dans cette espèce, comme dans celle du coq et de bien d'autres, le mâle, plus ardent et moins fidèle au v½u de la Nature, est plus occupé de son plaisir particulier que de la multiplication de son espèce; et s'il peut surprendre la couveuse sur ses ½ufs, il les casse en s'approchant d'elle, et peut-être y met-il de l'intention, et cherche-t-il à se délivrer d'un obstacle qui l'empêche de jouir: quelques-uns ont cru qu'il ne les cassoit que par son empressement à les couver lui-même, ce seroit un motif bien diffèrent."»</p>
 <p>Achado o assumpto, graças ás minhas recordações de Buffon, era facil oppôr a pavôa á mulher pelo que tocava aos encargos affectuosos da maternidade.</p>
 <p>D. Christina ia accentuando, á medida que a convivencia se estreitava, uma alegria expansiva, de que aliás se mostrava um pouco avara para comigo, desconfiada talvez de que eu não soubesse ser discreto até ao fim.</p>
 <p>Por vontade sua, ter-se-ia começado logo a jogar. Mas nós, simulando não querer interromper o tradição das nossas noites de Cintra, oppuzemo-nos.</p>
@@ -1304,8 +1299,8 @@
 <p>Eu tinha ido visitar o dono da casa, que havia sido meu condiscipulo, e que fôra feito visconde, quando, por ter casado rico, comprou aquella ultima quinta de um morgado beirão.</p>
 <p>Tive a honra de conhecer as pessoas mais gradas da localidade, que se reuniram a jantar em casa do meu condiscipulo no primeiro domingo que lá passei.</p>
 <p>O visconde conservava ainda o mesmo espirito que eu havia conhecido doze annos antes. Muito sarcastico, um critico implacavel de todos os ridiculos sociaes, contou-me hilariantemente a historia do seu viscondado, que elle era o primeiro a não tomar a sério.</p>
-<p>-- O governo, disse-me rindo, fez-me visconde; no Minho chamaram-me "bisconde_. Eu adoptei esta ultima versão, por me parecer mais gloriosa, pois que duplica a minha nobreza. Prefiro o "bis_.</p>
-<p>Depois informou-me minuciosamente ácêrca de todas as pessoas, de ambos os sexos, que eu ia conhecer. Descreveu-me as "toilettes_, que eu havia de ver, os casacos e colletes dos morgados, os vestidos e penteados das senhoras. Biographou com incisiva satira uns e outras. Contou-me o motivo por que certo fidalgo vinha a ser ao mesmo tempo tio de si mesmo, uma embrulhada genealogica, que eu já não sei agora deslindar. Historiou-me o caso de duas morgadas beatas, que tinham perdido o direito de ir á sepultura vestidas de branco, posto não fôssem obrigadas por convenção social a andar sempre vestidas de preto. Uma d'ellas viria ao jantar, e eu teria occasião de observar a sua severidade de Lucrecia perante todos os Tarquinios d'este mundo, sem embargo de ter passado pela roda dos expostos um filho seu, cujo destino ella propria ignorava.</p>
+<p>-- O governo, disse-me rindo, fez-me visconde; no Minho chamaram-me "bisconde". Eu adoptei esta ultima versão, por me parecer mais gloriosa, pois que duplica a minha nobreza. Prefiro o "bis".</p>
+<p>Depois informou-me minuciosamente ácêrca de todas as pessoas, de ambos os sexos, que eu ia conhecer. Descreveu-me as "toilettes", que eu havia de ver, os casacos e colletes dos morgados, os vestidos e penteados das senhoras. Biographou com incisiva satira uns e outras. Contou-me o motivo por que certo fidalgo vinha a ser ao mesmo tempo tio de si mesmo, uma embrulhada genealogica, que eu já não sei agora deslindar. Historiou-me o caso de duas morgadas beatas, que tinham perdido o direito de ir á sepultura vestidas de branco, posto não fôssem obrigadas por convenção social a andar sempre vestidas de preto. Uma d'ellas viria ao jantar, e eu teria occasião de observar a sua severidade de Lucrecia perante todos os Tarquinios d'este mundo, sem embargo de ter passado pela roda dos expostos um filho seu, cujo destino ella propria ignorava.</p>
 <p>Eu estava prevenido pelo bom-humor do visconde para todas as apresentações que me seriam feitas.</p>
 <p>Chegou o dia do jantar, e tive então ensejo de reconhecer quanto as suas informações, apesar de mordazes, eram exactas. Vi, sentada á mesa do visconde, a melhor nobreza de sete leguas em redor. Quasi todos os convivas eram descendentes de reis godos, e, por conseguinte, aparentados. Estranhei porém, e disse-o ao visconde, que não houvesse ali nenhum primo de Viriato.</p>
 <p>-- Pois tu não te lembras de que Viriato era pastor?! observou sentenciosamente o meu condiscipulo.</p>
@@ -1320,14 +1315,14 @@
 <p>-- É que me não entendeste. As pavôas estão agora chocando os ovos, que com um grande sentimento de amor maternal escondem dos pavões, que lh'os costumam devorar. Por isso, receosas de que os machos as sigam, procuram desoriental-os, para que não descubram o sitio em que ellas deixaram por instantes os ovos, aliás muito bem escondidos.</p>
 <p>-- É exacto, disse do lado um morgado beirão.</p>
 <p>-- Elle não sabe uma palavra, ponderou com verdade o visconde, d'esta historia natural, que nós cá praticamos.</p>
-<p>Segui attentamente com os olhos o que o visconde denominava a "manobra das pavôas_. Voando de ramo em ramo, e a longos intervallos de tempo, iam desapparecendo, sumindo-se arteiramente na espessura do arvoredo.</p>
+<p>Segui attentamente com os olhos o que o visconde denominava a "manobra das pavôas". Voando de ramo em ramo, e a longos intervallos de tempo, iam desapparecendo, sumindo-se arteiramente na espessura do arvoredo.</p>
 <p>Alguns pavões levantavam o vôo após ellas, e então as pavôas voltavam, aproximavam-se do sitio em que estavamos, demoravam-se, disfarçando o melhor que podiam a sua intenção.</p>
 <p>-- Mas isto é admiravel! exclamei eu, isto é sublime de amor maternal!</p>
 <p>-- Temos ode! gracejou o visconde. Isto é o que é. Isto são as pavôas que não querem que os pavões lhes comam os ovos. Nada mais e nada menos. Não tens visto isto por lá na sociedade das grandes cidades? Pois olha que não devem faltar pavões...</p>
 <p>-- Mas faltam as pavôas.</p>
 <p>-- Isso acontece em toda a parte, replicou o visconde, piscando-me um olho e movendo o queixo na direcção da nobre Lucrecia pudibunda.</p>
 <p>Comprehendi o seu gesto.</p>
-<p>N'esse momento, a fidalga descendente do rei Vamba seguia com tranquilla curiosidade a "manobra das pavôas_, como nós todos. Não parecia envergonhada de confrontar-se moralmente com ellas. De certo lhe não passava pelo espirito a lembrança de que annos antes tinha enviado á roda de Vizeu um filho, cujo destino ignorava.</p>
+<p>N'esse momento, a fidalga descendente do rei Vamba seguia com tranquilla curiosidade a "manobra das pavôas", como nós todos. Não parecia envergonhada de confrontar-se moralmente com ellas. De certo lhe não passava pelo espirito a lembrança de que annos antes tinha enviado á roda de Vizeu um filho, cujo destino ignorava.</p>
 <p>-- Pudesse ella aprender com as pavôas! disse eu depois ao visconde.</p>
 <p>-- Ella, respondeu-me elle, tambem as tem em casa, mas não se dá ao trabalho de aprender coisa nenhuma.</p>
 <p>-- Pois eu aprendi.</p>
@@ -1350,7 +1345,7 @@
 <p>Em vista d'esta carta, conferenciamos sobre o que deviamos fazer para impôr a D. Christina o dever de olhar por sua filha. O primeiro alvitre que nos occorreu foi o de contarmos tudo ao brazileiro. Mas ao cabo de alguma discussão, rejeitamos o alvitre, porque elle poderia ter um desfecho tempestuoso. Preferimos, portanto, os meios suaves e conciliatorios.</p>
 <p>Decidiu-se que escreveriamos a D. Christina uma carta, que seria assignada por todos nós. Essa carta, secca e laconica, quasi imperativa, dizia assim:</p>
 <p> «Exma. Sr.ª</p>
-<p>V. Ex.ª vive tranquilla e feliz. Sem embargo, sua filha encontra-se n'uma situação desgraçada, tão desgraçada, que é ella propria quem, no "hotel Victor_, está ao serviço de v. ex.ª É a sua criada de quarto.</p>
+<p>V. Ex.ª vive tranquilla e feliz. Sem embargo, sua filha encontra-se n'uma situação desgraçada, tão desgraçada, que é ella propria quem, no "hotel Victor", está ao serviço de v. ex.ª É a sua criada de quarto.</p>
 <p>«Se v. ex.ª duvidar d'esta nossa informação, queira dirigir-se á rua da Padaria n.º... 2.º andar, e procurar a mulher de M. A. P., empregado na alfandega.</p>
 <p>«Esperamos que o coração de v. ex.ª experimente, ainda que tarde, um movimento de compaixão por essa pobre creatura, que, segundo nos informam, tem sabido conservar-se digna de melhor sorte e, digamol-o com franqueza, de melhor mãe.</p>
 <p>«Se V. Ex.ª despresar o aviso que lhe fazemos, ver-nos-hemos na necessidade violenta de o repetir a seu marido, cuja alma bondosa se revoltará decerto contra a dureza de coração de sua mulher. Portanto acreditamos que v. ex.ª, sem prejuizo da sua actual posição, conseguirá encontrar meio de lhe revelar a existencia de sua filha, podendo talvez dizer-lhe que até hoje a havia procurado sem comtudo a poder encontrar.</p>
