@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0087" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0087" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -17,17 +20,9 @@
 </respStmt>
 </titleStmt>
 <extent>
-<measure unit="words">129315</measure>
+<measure unit="words">129113</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-<!--Added to ELTeC repo on 25-3-2020--></publicationStmt>
+<publicationStmt><p>Added to ELTeC repo on <date>25-3-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Os quatro reis impostôres (romance da historia)</title> 
 <author>Marcellino Mesquita</author>
@@ -59,7 +54,6 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-03-25">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -564,7 +558,7 @@
 <p>O Sebastianismo </p>
 <p>A um povo envilecido pela fome, dizimado pela morte, na Africa, na India, no mar; opprimido pelo frade, roubado pelo nobre, bestialisado pelo jesuita, emparvecido na sua ignorancia absoluta, não ise podem pedir acções heroicas, rasgos de  audacia, energias masculas. </p>
 <p>O povo portuguez que, desde D. João II, começara a perder as suas nobres qualidades de cara- </p>
-<p>cter&gt; pela perda das regalias, ao chegar a D. Sebastião já não era um povo, era uma malta estupida e inconsciente, um rebanho timido de escravos. </p>
+<p>cter> pela perda das regalias, ao chegar a D. Sebastião já não era um povo, era uma malta estupida e inconsciente, um rebanho timido de escravos. </p>
 <p>Miseravelmente supersticioso e credulo, mergulha n'aquella apagada e vil tristeza», modorra moral, symthoma de aborrecimento, de indifferença pelas cousas da terra, de descrença na melhoria da doença, que reputa mortal. </p>
 <p>A sua cabeça medita, exhaurida; no seu cerebro doente apparecem os sonhos, as illusões, cousas sobrenaturaes e loucas. </p>
 <p>Era o delirio da fome, da servidão, da miseria! </p>
@@ -2045,7 +2039,7 @@
 <p>-- Era como me chamavam, porque meu pae Era oleiro. Como sahi pequeno, não fixei outro nome.</p>
 <p>-- A sua mãe, o seu pae, como lhe chamavam?</p>
 <p>O filho do oleiro começou a sorrir garôtamente.</p>
-<p>Digo a V. s.ª que com toda a verdade o não sei. Talvez fosse Zé. . &#x95; tenho uma ideia... o que elles me chammavam era... ó raio... ó maldito...</p>
+<p>Digo a V. s.ª que com toda a verdade o não sei. Talvez fosse Zé. .  tenho uma ideia... o que elles me chammavam era... ó raio... ó maldito...</p>
 <p>ó grande filho.</p>
 <p>Os juizes não poderam conter o riso e um d'elles interrompeu:</p>
 <p>-- D'onde é, então?</p>
@@ -4459,7 +4453,7 @@
 <p>-- Tenho que te falar a sós e depressa. </p>
 <p>Filha e mãe foram para o quarto de dormir da rainha. </p>
 <p>-- Estou anciosa, minha mãe, por saher a causa da sua visita inesperada. Porque me não preveniu? Foi para ter mais valor a sua vinda? Para me fazer a surpresa. </p>
-<p>-- Não tive tempo. Tencionava vir esta semana, mal tivesse o milho sachado e o feno recolhido. O recolher das ceholas ficam para depois assim como a tosquia dos carneiros. Contos da vida... Tive de vir quando menos o esperava &#x95; . Antes de tudo a tua felicidade. </p>
+<p>-- Não tive tempo. Tencionava vir esta semana, mal tivesse o milho sachado e o feno recolhido. O recolher das ceholas ficam para depois assim como a tosquia dos carneiros. Contos da vida... Tive de vir quando menos o esperava  . Antes de tudo a tua felicidade. </p>
 <p>-- Veiu por minha causa? </p>
 <p>-- Por ti, por teu pae, por teu marido. </p>
 <p>-- Então? </p>
@@ -5259,7 +5253,7 @@
 <p>«Não podieis comer senão bocadinhos, queijadinhas e beber vinhos preciosos e aguas resnoitadas? louvae a Deus se tiverdes pão de farelos e agua que mate a sêde».</p>
 <p>«E vós, senhoras minhas, que vos vejaes na necessidade de pedir esmola á misericordia para resgate dos vossos maridos e que vos não ouçam. E vós, mimosa que por dormir até ao meio dia não vinheis ao domingo á missa, que percaes o somno e vades de noite e de madrugada, descalça, buscar as santas reliquias e que vos não ouçam.»</p>
 <p>«E vós, namoradiçoa, que vos direi?... Não quero mais dizer. </p>
-<p>Fala depois nos castigos terríveis que Portugal tem soffrido; a peste Grande de 1569 que matou em Lisboa mais de 8:000 pessoas; na perdida frota completa de D. Luiz Vasconcellos de 1570 indo para o Brazil com trinta e nove missionarios; no temporal do Tejo que anniquilou outra grande armada; na fome de 1574; no terremoto de 1575; no incendio de [ilegível] de 1575.</p>
+<p>Fala depois nos castigos terríveis que Portugal tem soffrido; a peste Grande de 1569 que matou em Lisboa mais de 8:000 pessoas; na perdida frota completa de D. Luiz Vasconcellos de 1570 indo para o Brazil com trinta e nove missionarios; no temporal do Tejo que anniquilou outra grande armada; na fome de 1574; no terremoto de 1575; no incendio de <gap/> de 1575.</p>
 <p>Os males da patria e os castigos de Deus, claramente expostos por frei Miguel, arrancaram n'um choro convulso, as lagrimas dos ouvintes, mais facilmente imprecionaveis pelas dôres intimas. </p>
 <p>Falou dos castigos do Egypto e notou: «Vêde se vos não castigoa como ao Egypto... e se vos não emendaes, muito deveras tereis castigo maior do que este... e não duvido que tarde muito, pois ainda ha agora homens tão encarniçados no odio como d'antes e tão grandes ladrões como d'antes. Tempo é este para se não comer pão alvo em casa nenhuma e vós fazeis marmeladas?» </p>
 <p>Ante este crime da marmelada redobraram os prantos, a que fr. Miguel respondeu: </p>
@@ -5535,7 +5529,7 @@
 <p>-- É caso, realmente, para se não dormir, disse meditativa; mas como o encontrastes? veio procurar-vos? </p>
 <p>-- Encontrámo-nos... olhei-o, reconheci-o. A principio negou. Levei-o para casa... pedi-lhe que me acompanhasse. </p>
 <p>-- Aceitou? </p>
-<p>-- Conversámos longas horas &#x95; . no fim, concordou comigo em que era tempo de trabalhar pela </p>
+<p>-- Conversámos longas horas  . no fim, concordou comigo em que era tempo de trabalhar pela </p>
 <p>sua corôa, de ir a Portugal pôr-se á frente dos seus. </p>
 <p>Assim ficou combinado, assim se fará. </p>
 <p>Uma grande ternura invadiu a alma de D. Anna por esse miseravel proscrito, vagueando pelo mundo n'uma penitencia terrivel que a si proprio impuzera. </p>

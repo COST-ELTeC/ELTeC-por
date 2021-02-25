@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0063" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0063" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -17,17 +20,11 @@
       </respStmt>
    </titleStmt>
 <extent>
-<measure unit="words">66949</measure>
+<measure unit="words">67358</measure>
 </extent>
 <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-<!--Adicionado à coleção ELTeC 3 de maio de 2020. --></publicationStmt>
+<p>Adicionado à coleção ELTeC <date>3 de maio de 2020</date>. </p>
+</publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
        <author>Ramalho Ortigão e Eça de Queirós</author>
@@ -69,7 +66,6 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-05-03">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
 </teiHeader>
@@ -1639,7 +1635,7 @@
 </div><div type="chapter"><head>CAPÍTULO II</head>
 <p>Soube daí a dias que a senhora com quem me encontrara era a condessa de W.</p>
 <p>A figura dela tinha-me ficado moldada na memória como o rosto de um cadáver num a mascara de gesso. Estava no Rocio quando me disseram o seu nome, ao vê-la passar em carruagem descoberta.</p>
-<p>Ia reclinada para o canto de uma vitória, quase deitada, mórbida, abstraída, indiferente, como se uma auréola invisível a segregasse dos aspetos e dos ruídos da rua, grosseiros de mais para lhe tocarem. Tinha uma sedução alucinante, vestida de verão, com uma simplicidade cheia de mimo e de frescura, uma graça que se adivinhava mais do que se via e que menos apetecia ver do que respirar. Levava no seio uma rosa côr de palha, e uma pequena madeixa de cabelos finos, dourados, transparentes, soltos do penteado, caía- lhe na testa.</p>
+<p>Ia reclinada para o canto de uma vitória, quase deitada, mórbida, abstraída, indiferente, como se uma auréola invisível a segregasse dos aspetos e dos ruídos da rua, grosseiros de mais para lhe tocarem. Tinha uma sedução alucinante, vestida de verão, com uma simplicidade cheia de mimo e de frescura, uma graça que se adivinhava mais do que se via e que menos apetecia ver do que respirar. Levava no seio uma rosa côr de palha, e uma pequena madeixa de cabelos finos, dourados, transparentes, soltos do penteado, caía-lhe na testa.</p>
 <p>Cravei os olhos nela e tirei o meu chapéu; ela viu o meu cumprimento, olhou- me, como se eu lhe aparecesse pela primeira vez, com a mesma indiferença com que olharia para uma vidraça vazia ou para uma tabuleta sem dístico, e prosseguiu inalterável e imóvel como a imagem preguiçosa da formosura arrebatada do seu pedestal por um cocheiro agaloado e por dois cavalos a trote. Continuei a passear com um amigo com quem estava e cobri tanto quanto[1] pude com algumas palavras rancorosas a respeito da política a comoção que sentia.</p>
 <p>Momentos depois, passou na mesma direção que tinha tomado a carruagem da condessa, um coupé escuro, sem letras nem armas, com todas as cortinas cerradas. Esta circunstância, aliás naturalíssima, encheu-me de indignação e de rancor. Imaginei possível que aquela carruagem seguisse a da condessa e, não sei porque processo do coração ou do espirito, nasceu-me o desejo de arrombar essa carruagem e calcar aos pés o homem que lá estivesse dentro.</p>
 <p>-- Estás a tremer! disse-me o amigo a quem eu dera o braço.</p>
@@ -2244,3 +2240,4 @@
 </back>
 </text>
 </TEI>
+

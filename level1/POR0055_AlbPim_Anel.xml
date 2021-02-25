@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0055" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0055" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -17,17 +20,10 @@
       </respStmt>
    </titleStmt>
 <extent>
-<measure unit="words">55076</measure>
+<measure unit="words">56675</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook O Annel Mysterioso: Scenas da Guerra Peninsular</title>
@@ -64,8 +60,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change>
 <change when="2018-11-12">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -88,6 +83,24 @@
 <p>TYPOGRAPHIA</p>
 <p>45, Rua Ivens, 47</p>
 <p>1904</p>
+</div>
+<div type="liminal">
+<head>PROLOGO DA 3.ª EDIÇÃO</head>
+<p>Este é um dos romances da minha mocidade. Foi publicado pelos editores da Bibliotheca Universal, de Lisboa, em 1873. Precederam-n'o os Idyllios á beira d'agua, (1870), a minha primeira tentativa no romance, e O testamento de sangue, escripto aos vinte e trez annos.</p>
+<p>Estas datas desculpam hoje, aos meus proprios olhos, tudo quanto ha de hesitante e incorrecto em todas as trez novellas, que foram as primicias litterarias de um rapaz educado n'uma terra essencialmente commercial, avessa a idealidades romanescas e ao convivio e apreço de escriptores, bons ou simplesmente toleraveis.</p>
+<p>Pelo que especialmente respeita ao Annel mysterioso, se quando agora o reli me não descontentou a acção dramatica, achei-lhe comtudo algum excesso de floração declamatoria, que é um defeito peculiar a todos os estreantes.</p>
+<p>A grande arte de escrever está na ponderada sobriedade da expressão, no equilibrio estavel entre a phrase e o pensamento.</p>
+<p>Fóra d'isto ha rhetoricos, mas não ha escriptores.</p>
+<p>Se eu, no decorrer dos annos, consegui aproximar-me d'este requisito essencial, não perdi de todo o meu tempo. Mas, ainda n'esse caso, é defensavel a reimpressão de uma novella, que póde fornecer elementos de confronto entre duas épocas da vida de um escriptor.</p>
+<p>Como quer que seja, o Anel mysterioso agradou quando foi publicado em 1873. A breve trecho sahiu a segunda edicção. E os mesmos editores me convidaram a escrever logo em seguida outro romance, que foi A Porta do Paraizo.<ref target="#POR0055-nota-1"/></p>
+<p>Ambos estes livros me abriram caminho entre o publico de Lisboa.</p>
+<p>O exito da Porta do Paraizo explica-se facilmente pelo interesse que inspirava ainda então o reinado de D. Pedro V.</p>
+<p>Quanto ao Annel mysterioso, que não é senão a biographia de uma celebridade das ruas do Porto, parece que foi o entrecho commovente que no espirito dos leitores lisbonenses suppriu a falta de conhecimento directo do protagonista.</p>
+<p>Quando eu escrevia este romance, muitas pessoas d'aquella cidade se lembravam ainda de ter visto frequentes vezes o Desgraça.</p>
+<p>Uma d'essas pessoas era Camillo Castello Branco, que, seis annos depois da publicação do Anel mysterioso, dizia a pag. 296 do livro Sentimentalismo e historia: «A um canto (do botequim da Aguia d'ouro) estava um velho de semblante livido, muito desgraçado, com um chapeu enorme de sêda d'um azulado decrepito, com um grande cigarro no canto da bocca. Ao lado, sobre um mocho, via-se uma guitarra com manchas gordurosas de suor que punham brilhos, e aos pés um cão d'agua com o felpo encarvoado, cheio de torçidas, encaroçado, dormia, e acordava de salto, apanhando com muita furia, no ar, as moscas que lhe picavam as orelhas. Era o José das Desgraças, o legendario mendigo, que morreu de saudades do seu cão, aggravadas pela fome».</p>
+<p>Esta referencia authentíca hoje o retrato de uma individualidade popular, cujos contemporaneos dormem, como ella, o somno eterno da morte.</p>
+<p>Lisboa, 10 de abril de 1903.</p>
+<p>Albert Pimentel</p>
 </div>
 </front>
 <body>
@@ -187,10 +200,10 @@
 <p>A morgada das Chãs passou agitadamente essa noite, e do inquieto cogitar na solidão do seu quarto resultou levantar-se decidida a partir n'esse dia com a neta.</p>
 <p>O padre capellão negociou as cem moedas... comsigo mesmo, dizendo que as obtivera d'um proprietario mediante o desconto dos juros d'um semestre adiantado.</p>
 <p>Partiu a morgada, de manhã, para o Porto, acompanhada por Augusta, depois de haver entregado as chaves da sua casa ao capellão, que tinha nos labios um sorriso de alvar alegria. Tambem a morgada estava radiosa do duplo jubilo de poder respirar desopprimida da sombra d'aquelle homem, e de ir collocar sob o amparo paternal a neta querida do seu coração. Nas faces d'Augusta havia egualmente um reflexo d'intimo contentamento, não só porque a aproximavam dos paes, mas porque a levavam para os braços do irmão, a quem ternamente estremecia, e com o qual permutava cartas diarias perfumadas das mais suaves fragrancias do amor de familia.</p>
-<p>A menina contava quinze annos, como já sabemos; o irmão, que se chamava José Maria, tinha dezeseis. Estas duas creanças eram filhas do capitão do exercito Graça Strech, que em 1809 morava á rua nova do Almada[2]. O appellido Strech inculca á primeira vista procedencia estrangeira, e realmente é d'origem germanica. O pae do capitão Graça, allemão de nascimento, fôra capitão de navios, e tivera por ultimo um modesto estabelecimento commercial em Cima do Muro. Os dois filhos de Graça Strech nasceram porem á rua Direita, na casa que divide a rua de Santo Ildefonso da rua de Santo André, e onde elle morára durante os annos de 1793 e 1794.</p>
+<p>A menina contava quinze annos, como já sabemos; o irmão, que se chamava José Maria, tinha dezeseis. Estas duas creanças eram filhas do capitão do exercito Graça Strech, que em 1809 morava á rua nova do Almada <ref target="#POR0055-nota-2"/>. O appellido Strech inculca á primeira vista procedencia estrangeira, e realmente é d'origem germanica. O pae do capitão Graça, allemão de nascimento, fôra capitão de navios, e tivera por ultimo um modesto estabelecimento commercial em Cima do Muro. Os dois filhos de Graça Strech nasceram porem á rua Direita, na casa que divide a rua de Santo Ildefonso da rua de Santo André, e onde elle morára durante os annos de 1793 e 1794.</p>
 <p>Augusta era tudo o que se póde imaginar de graciosamente feminil na época em que nos é dado conhecel-a. O pintor que quizesse retratal-a facilmente lançaria á tela os cabellos loiros, naturalmente annelados; os olhos d'um azul suavissimo como os mais formosos horizontes; as faces d'uma brancura levemente rosada; a estatura "mignonne",--tudo quanto póde haver de mais correcto e dôce em figura de mulher. Mas a difficuldade estaria seguramente em reproduzir no retrato a meiga morbidez dos lirios que se abrem ao desabrochar da manhã. E n'ella brotava a mulher das graças da creança, como um lirio á luz da aurora.</p>
 <p>José Maria era uma organisação inteiramente opposta á de sua irmã. Dir-se-ia que ella havia nascido para rosa, e elle para roble; ella para succumbir, e elle para luctar. Desenhavam-se no seu corpo de dezeseis annos os contornos athleticos d'um spartano. Olhos vivos, e pretos como os cabellos; talhe esbelto, maneiras sacudidas e ageis. Pois que elle era a força e Augusta a brandura, affigurava-se providencial essa disparidade de constituições, e até de genios, para que a flôr pudesse ser protegida pela sombra do roble.</p>
-<p>Quando a morgada das Chãs chegou ao Porto, entrou-se de profundo arrependimento por ter feito vingar a sua resolução. Em casa da familia Strech era grande a tristeza. O pae e o irmão[3] estavam no exercito, e portanto a tristeza provinha da anciedade com que o azar dos combates alvoroça sempre as familias dos militares.</p>
+<p>Quando a morgada das Chãs chegou ao Porto, entrou-se de profundo arrependimento por ter feito vingar a sua resolução. Em casa da familia Strech era grande a tristeza. O pae e o irmão <ref target="#POR0055-nota-3"/> estavam no exercito, e portanto a tristeza provinha da anciedade com que o azar dos combates alvoroça sempre as familias dos militares.</p>
 <p>--Eu trouxe Augusta, dizia a morgada, chorando, á filha, para que, se houvesse de correr perigos, não ficasse o meu coração atormentado de medonha responsabilidade; porque mais facilmente saberia aqui noticias do pae e do irmão do que nas Chãs; e porque finalmente o Porto offerecia maiores garantias e segurança do que qualquer outra terra.</p>
 <p>De feito, a cidade do Porto era julgada inexpugnavel, e a ella se acolhera grande parte da população do Minho, á medida que os acontecimentos da guerra se iam desdobrando.</p>
 <p>Tratemos de saber quaes foram.</p>
@@ -212,7 +225,7 @@
 <p>Um dos populares vibrou-lhe uma chuçada que o prostrou, e logo outro, que era criado da casa, acrescentou:--Vamos á "burra" do padreca; no que fôr da senhora morgada não se toca.</p>
 <p>No dia seguinte atacou o inimigo novamente Carvalho d'Éste, e no dia 20 voltou ao ataque, apparecendo em grande força.</p>
 <p>Parece que a Providencia havia aconselhado a morgada das Chãs a fugir de um ponto onde a lucta foi mais renhida, porque, posto que os populares a respeitassem, o inimigo caiu no dia 20 em forte columna sobre Carvalho d'Éste, empenhando-se ataque geral, e sendo desesperada a posição dos nossos, que fugiram em grande confusão, acossados muito de perto pela cavallaria franceza.</p>
-<p>No pateo da quinta das Chãs tinham os nossos quinze barris de polvora que, não podendo ser salvos, por estar muito proximo o inimigo, foram incendiados por ordem do barão d'Eben, perecendo oito homens na execução d'esse serviço.[4] As chammas, enleiando-se pelos alpendres encostados ao edificio, acabaram por envolvel-o, e, horas depois dos francezes entrarem em Braga, e a tempo que o povo enfuriado matava os presos encarcerados no Aljube, ardia, chammejando como fornalha enorme, o solar das Chãs, a duas leguas de distancia da cidade invadida.</p>
+<p>No pateo da quinta das Chãs tinham os nossos quinze barris de polvora que, não podendo ser salvos, por estar muito proximo o inimigo, foram incendiados por ordem do barão d'Eben, perecendo oito homens na execução d'esse serviço.<ref target="#POR0055-nota-4"/> As chammas, enleiando-se pelos alpendres encostados ao edificio, acabaram por envolvel-o, e, horas depois dos francezes entrarem em Braga, e a tempo que o povo enfuriado matava os presos encarcerados no Aljube, ardia, chammejando como fornalha enorme, o solar das Chãs, a duas leguas de distancia da cidade invadida.</p>
 <p>A noticia da tomada de Braga só se soube no Porto no dia 22, quer dizer, quarenta e oito horas depois.</p>
 <p>Havia dias que o brigadeiro Victoria se tinha internado n'esta ultima cidade com as suas forças, por ordem do agora fallecido Bernardim Freire de Andrade. Como já sabemos, o capitão Graça Strech e seu filho militavam ás ordens deste brigadeiro. Portanto, teve Augusta occasião de abraçar o irmão e o pae, que procuraram serenar com palavras de carinho e conforto os receios do angustiado coração da menina.</p>
 <p>A morgada, quando soube que os francezes tinham rompido por Carvalho d'Éste sobre Braga, apesar de ignorar os pormenores da lucta, a morte do capellão e o incendio do solar, agradeceu ao anjo da guarda a inspiração da resolução tomada.</p>
@@ -240,9 +253,6 @@
 <p>A morgada correu a abraçar a filha e a neta, ajoelharam orando fervorosamente, e longo tempo supplicaram que um raio da Providencia illuminasse o coração do povo, para que á desgraça da invasão não sobreviesse a furia da represalia.</p>
 <p>O emissario francez não era effectivamente o general Loison, mas o general Foy; com blandicias e ameaças, escriptas por Soult, vinha propôr a rendição, que foi recusada.</p>
 <p>Com este acontecimento fechou a tarde do dia 28 tempestuosa e triste, como se o céo compartisse do luto da terra. Ás detonações do trovão respondiam as detonações da artilharia.</p>
-<p>    [2] Chamava-se então rua "Nova", porque o celebre governador     da cidade. Francisco d'Almada e Mendonça, fallecido em 1804, tinha     transformado a antiga rua das Hortas n'esta nova rua, que tomou     o seu nome.</p>
-<p>    [3] Por decreto de 11 de dezembro de 1808 toda a nação foi     obrigada a pegar em armas.</p>
-<p>    [4] Este facto consta do relatorio do proprio barão.</p>
 </div><div type="chapter"><head>IV</head>
 <p>Horrores da invasão</p>
 <p>Durante a noite de 28 para 29 continuou tão rijo o fogo, que o inimigo logrou forçar a bateria da Prelada.</p>
@@ -448,7 +458,7 @@
 <p>Assim foi que, reprimindo os abusos da soldadesca, logrou restabelecer o socego em toda a cidade trez dias depois da invasão, procurando insinuar-se na opinião publica, abstendo-se de impôr contribuiçoes de guerra, nomeando pessoas idoneas para os logares vagos, e soccorrendo os habitantes completamente privados de recursos.</p>
 <p>O partido anti-patriotico, subitamente creado em redor do marechal Soult, para logo fundou um orgão jornalistico, denominado "Diario do Porto", porque a imprensa tem sido desde tempos immemoriaes o respiradouro aberto a todas as paixões, justas e injustas, nobres e mesquinhas.</p>
 <p>O leitor deve ficar conhecendo uma pequena amostra, sequer, da linguagem empregada no supracitado diario. Oiçamos o falsario redactor no supplemento ao n.º 2.º:</p>
-<p>«Este paiz tão bello, e tão favorecido pela natureza, parecia no passado governo tocado de paralysia; mas, graças aos céos, que se lhe prepara um novo futuro, que os bons conhecedores já tinham d'antemão entrevisto! Nada terá o Principe que dizer sobre a nossa fidelidade; nos lh'a guardamos emquanto existiu entre nós; mas uma vez que nos deixou, uma vez que desdenhou lançar mão das redeas do governo, que largára quando as circumstancias lh'o permittiam, renunciou todos os seus direitos, e nada é já para os portuguezes, que deixou ao desamparo. Em uma palavra, a casa de Bragança já não existe; aprouve aos céos que os nossos destinos passassem a outras mãos, e foi particular predilecção da Divina Providencia, que impera sobre o universo, o ter-nos enviado um homem isento de paixões, e que só tem a da verdadeira gloria; que se não quer servir da força, que o grande Napoleão lhe confiou, senão para nos proteger e livrar-nos do monstro da anarchia, que ameaçava devorar-nos. As palavras que elle nos dirigiu, e as promessas que nos fez[5], desde que entrou n'esta cidade, tudo se tem cumprido á risca, muito mais do que o poderiamos esperar, e do que as circumstancias pareciam promettel-o: porque tardamos, pois, em congregar-nos ao redor d'elle, a proclamal-o nosso pae e nosso libertador? Porque tardamos a exprimir o nosso desejo de o vermos á testa d'uma nação, cujo affecto soube tão rapidamence conquistar? O soberano de França prestará ouvidos aos nossos clamores, e se lisonjeará de ver que desejamos para nosso rei um logar-tenente seu, e ao mesmo tempo um grande general, que a seu exemplo soube vencer e perdoar. Seja, pois, esta grande e interessante comarca, já que tem experimentado os effeitos da sua clemencia, e a quem elle tem prodigalisado os seus beneficios, seja uma das primeiras, que se glorifique de o reconhecer e de lhe offerecer os seus braços, os seus bens e o seu patrimonio todo.»</p>
+<p>«Este paiz tão bello, e tão favorecido pela natureza, parecia no passado governo tocado de paralysia; mas, graças aos céos, que se lhe prepara um novo futuro, que os bons conhecedores já tinham d'antemão entrevisto! Nada terá o Principe que dizer sobre a nossa fidelidade; nos lh'a guardamos emquanto existiu entre nós; mas uma vez que nos deixou, uma vez que desdenhou lançar mão das redeas do governo, que largára quando as circumstancias lh'o permittiam, renunciou todos os seus direitos, e nada é já para os portuguezes, que deixou ao desamparo. Em uma palavra, a casa de Bragança já não existe; aprouve aos céos que os nossos destinos passassem a outras mãos, e foi particular predilecção da Divina Providencia, que impera sobre o universo, o ter-nos enviado um homem isento de paixões, e que só tem a da verdadeira gloria; que se não quer servir da força, que o grande Napoleão lhe confiou, senão para nos proteger e livrar-nos do monstro da anarchia, que ameaçava devorar-nos. As palavras que elle nos dirigiu, e as promessas que nos fez <ref target="#POR0055-nota-5"/>, desde que entrou n'esta cidade, tudo se tem cumprido á risca, muito mais do que o poderiamos esperar, e do que as circumstancias pareciam promettel-o: porque tardamos, pois, em congregar-nos ao redor d'elle, a proclamal-o nosso pae e nosso libertador? Porque tardamos a exprimir o nosso desejo de o vermos á testa d'uma nação, cujo affecto soube tão rapidamence conquistar? O soberano de França prestará ouvidos aos nossos clamores, e se lisonjeará de ver que desejamos para nosso rei um logar-tenente seu, e ao mesmo tempo um grande general, que a seu exemplo soube vencer e perdoar. Seja, pois, esta grande e interessante comarca, já que tem experimentado os effeitos da sua clemencia, e a quem elle tem prodigalisado os seus beneficios, seja uma das primeiras, que se glorifique de o reconhecer e de lhe offerecer os seus braços, os seus bens e o seu patrimonio todo.»</p>
 <p>Não ficaram simplesmente em louvaminhas de gazeta os salamaleques feitos ao duque de Dalmacia. De Braga veiu ao Porto no dia 25 d'abril uma deputação composta de trinta e seis membros do clero, nobreza e povo, a pedir ao marechal que se dignasse fazer ver ao imperador a necessidade de collocar um principe de sua eleição no throno que a dynastia de Bragança deixára devoluto.</p>
 <p>No dia immediato entrou egualmente ao palacio do duque de Dalmacia outra grande deputação, constituida por todas as autoridades civis, clero, deputados, nobreza, cidadãos, corporações judiciaes e militares da cidade do Porto, a repetir o pedido com viva instancia.</p>
 <p>A deputação, acompanhada desde a casa do conselho pelos officiaes do estado-maior general, era esperada no atrio do palacio dos Carrancas pelos ajudantes de ordens do marechal Soult. Foi o general de divisão Quesnel, investido nas funcções de governador militar do Porto e da provincia do Minho, quem a introduziu na sala de recepção, onde o corregedor da comarca botou fala consoante ao estylo dos supplementos do "Diario do Porto".</p>
@@ -496,7 +506,6 @@
 <p>--Põe lá: Rosina Regnau.</p>
 <p>Ella porém não precisava de appellido paterno. Era a filha do regimento. Chamava-se simplesmente Rosina, "lá gentille vivandière".</p>
 <p>Esta era a enfermeira do nosso ferido.</p>
-<p>    [5] Referencia á proclamação de Soult.</p>
 </div><div type="chapter"><head>VII</head>
 <p>No hospital de sangue</p>
 <p>Oito dias transcorridos, vamos encontrar Graça Strech, sentado no catre, convalescente, se bem que muito debilitado ainda, a relêr algumas das cartas que, por piedoso interesse de Rosina, pudera guardar debaixo do travesseiro.</p>
@@ -650,7 +659,7 @@
 <p>--É que, respondeu ella affectuosamente, me sinto preoccupada ao estudar o papel que devo representar ámanhã...</p>
 <p>--Mas... não percebo!</p>
 <p>O barqueiro tinha largado os remos e deixado pender o labio inferior ao ouvir a pronuncia de Rosina. Para elle, que tinha suas fumaças de rato da agua, como quem diz "lobo do mar", era aquelle um mysterio impenetravel. Podia acaso acreditar que fosse realmente ali, em companhia d'um portuguez, uma mulher franceza, que lançára ao rio um fato em que brilhavam as côres sinistras da França, áquella hora em que o sangue, o incendio, o saque, a tyrannia se erguiam como barreira entre o povo d'um e outro paiz?</p>
-<p>O Tunante de Pé-de-Moira não sabia historia, e ignorava o prodigio d'estas affinidades individuaes que se escondem entre as correntes oppostas dos sentimentos nacionaes. São grãos d'areia perdidos no oceano; é preciso descer ao fundo do mar para encontral-os. Outra pessoa, que não fosse rude, não se admiraria. A historia diz que, pouco depois da invasão, o marechal Soult se vira fechado n'um circulo de cariciosas sympathias, e que eram rasgados os salamaleques dos que já se presumiam aulicos de D. Nicolau I. A historia refere que semelhantemente alguns foram os corações que se renderam á prepotencia de Junot, e que era contra esses que se erguia tremenda a grande voz popular: «Morra Junot, e mais quem d'elle tiver dó.»[6] Finalmente, ainda conta a historia que Piton, um sargento do corpo de policia de Lisboa, fora promovido a alferes, pelos grandes serviços que prestou aos francezes, com os quaes se retirou para França ao depois.[7]</p>
+<p>O Tunante de Pé-de-Moira não sabia historia, e ignorava o prodigio d'estas affinidades individuaes que se escondem entre as correntes oppostas dos sentimentos nacionaes. São grãos d'areia perdidos no oceano; é preciso descer ao fundo do mar para encontral-os. Outra pessoa, que não fosse rude, não se admiraria. A historia diz que, pouco depois da invasão, o marechal Soult se vira fechado n'um circulo de cariciosas sympathias, e que eram rasgados os salamaleques dos que já se presumiam aulicos de D. Nicolau I. A historia refere que semelhantemente alguns foram os corações que se renderam á prepotencia de Junot, e que era contra esses que se erguia tremenda a grande voz popular: «Morra Junot, e mais quem d'elle tiver dó.» <ref target="#POR0055-nota-6"/> Finalmente, ainda conta a historia que Piton, um sargento do corpo de policia de Lisboa, fora promovido a alferes, pelos grandes serviços que prestou aos francezes, com os quaes se retirou para França ao depois.<ref target="#POR0055-nota-7"/> </p>
 <p>O Tunante, se soubesse historia, não se admiraria portanto de que o coração ainda tivesse um élo para ligar portuguezes a francezes, e, se houvera adquirido maior conhecimento dos homens e das coisas, saberia que primeiro se verga ao tufão das paixões a palmeira flexivel e solitaria do deserto, que o roble secular da floresta, duas vezes forte--porque é robusto e porque não esta só.</p>
 <p>A palmeira cede ao primeiro impulso, e deixa-se ir, em doce voluptuosidade, embalada nos braços vaporosos do vendaval, que são os primeiros, e por ventura os unicos, que se estendem para ella.</p>
 <p>O roble cede apenas quando o tronco está corroido pelos vermes ou abalado pelas luctas da tempestade.</p>
@@ -704,12 +713,9 @@
 <p>    Amigos hespanhoes, nação brilhante!     Eis como cá seguimos vossa esteira,     Eis nossa Saragoça, eis Amarante.</p>
 <p>    Os olhos ponha em nós a Europa inteira,     E veja, em amplo quadro flammejante,     O Tamega, Ebro, Palafox, Silveira.</p>
 <p>Pena foi que Graça Strech precedesse alguns dias a gestação do soneto escripto em honra de Silveira, porque, de contrario, se topasse o poeta a versejar em ociosa inactividade, havel-o ia empurrado, no seu vivissimo odio contra os francezes, para o meio da infatigavel fuzilaria que durante quatorze dias sinistramente illuminou as aguas do Tamega.</p>
-<p>O que valeu foi que, se houve poetas para incensar metricamente Silveira[8], houve tambem soldados que denodadamente pelejaram pela patria.</p>
+<p>O que valeu foi que, se houve poetas para incensar metricamente Silveira <ref target="#POR0055-nota-8"/> , houve tambem soldados que denodadamente pelejaram pela patria.</p>
 <p>E o numero dos valentes da ponte d'Amarante ia agora ser augmentado com um soldado que seria o primeiro a romper fogo contra o inimigo.</p>
 <p>Deixar lá o poeta dizer que as margens do Tamega eram "frias" n'aquelle tempo. Os poetas dizem tudo, e tudo podem dizer...</p>
-<p>    [6] «Historia antiga e moderna da sempre leal e antiquissima     villa de Amarante». etc., por P. F. de A. C. de A.--1814, pag. 54.</p>
-<p>    [7] «Historia geral da invasão dos francezes em Portugal»,     por José Accurcio das Neves. Tomo I, pag. 282.</p>
-<p>    [8] Veja-se "Elogio de Silveira", pelo padre mestre dr. fr.     F. de S. T., e "Silveira", poema por J. S.</p>
 </div><div type="chapter"><head>X</head>
 <p>A hora do resgate</p>
 <p>Quatorze dias durou, como dissémos, a heroica defeza da ponte d'Amarante.</p>
@@ -727,7 +733,7 @@
 <p>Este exemplo d'animo varonil em peito feminino prova que não anda phantasia popular na lenda d'aquella Deosadeu, de Monsão, de Celinda, a heroina de Certã, de Filippa de Vilhena, e doutras celebradas matronas portuguezas, que deram á patria uma geração de meninas que fazem "crochet".</p>
 <p>É egualmente abundante de heroismos a chronica da primeira invasão, á parte pequenas manchas, como aquellas que dos copos dos officiaes francezes cairam sobre o tablado do theatro de S. Carlos.</p>
 <p>Deixem-me citar um facto na mesma linguagem em que o historiador o descreveu.</p>
-<p>«O juiz de fóra de Algozo, Jacintho d'Oliveira Castello Branco, fez-se digno de honrosa memoria, pela sua repugnancia ás ordens do governador intruso; por continuar debaixo d'elle a uzar do nome de S. A. R.[9] em alguns processos; por conservar as armas reaes no pelourinho e na casa da camara d'aquella villa; e por outras acções, egualmente sublimes e arriscadas. Jantando em sua casa varias auctoridades portuguezas, que o increpáram de não cumprir as ordens reiativas á contribuição de guerra, respondeu-lhes, lançando mão a um copo, e fazendo uma saude a S. A. R. o principe regente.»</p>
+<p>«O juiz de fóra de Algozo, Jacintho d'Oliveira Castello Branco, fez-se digno de honrosa memoria, pela sua repugnancia ás ordens do governador intruso; por continuar debaixo d'elle a uzar do nome de S. A. R. <ref target="#POR0055-nota-9"/> em alguns processos; por conservar as armas reaes no pelourinho e na casa da camara d'aquella villa; e por outras acções, egualmente sublimes e arriscadas. Jantando em sua casa varias auctoridades portuguezas, que o increpáram de não cumprir as ordens reiativas á contribuição de guerra, respondeu-lhes, lançando mão a um copo, e fazendo uma saude a S. A. R. o principe regente.»</p>
 <p>Não é menos avantajado em heroicidade o procedimento do juiz de fóra de Marvão, Joaquim José de Magalhães Mexia, que, intimado para se render ao jugo estrangeiro, fez desistencia publica perante os seus escrivães, e foi prostrar-se diante da imagem do Senhor dos Passos da sua villa, encostando a vara á imagem por fórma que parecia haver-lh'a depositado nas mãos, e recolhendo-se depois a casa para vestir-se de luto.</p>
 <p>É pois digna de que a reproduzam na tela os melhores pintores, os melhores poetas e os melhores historiographos--esta ingente lucta d'um pequeno paiz, apenas soccorrido por outro, contra o gigante tresvariado pela gloria, que firmava os pés nas planicies da Italia, e alguns annos depois fôra visto á luz, para elle sinistra, dos incendios de Moscow, enchendo, de sul a norte, a Europa inteira.</p>
 <p>Alguns talentos verdadeiramente robustos teem lançado o colorido do seu pincel sobre esta enorme tela, nunca esgotada. Que me lembre n'este momento, Rebello da Silva, Camillo Castello Branco, Pinheiro Chagas e Arnaldo Gama trataram brilhantemente tão fecundo assumpto. Eu chego com pequeno viatico, embora não venha tarde, unicamente para mostrar que tenho seguido reverentemente o sulco que todos quatro abriram no vasto campo da guerra peninsular.</p>
@@ -793,7 +799,6 @@
 <p>Tambem assim accordou Lisboa, cento e sessenta e nove annos antes, na manhã de 1 de dezembro de 1640, quando um punhado de fidalgos portuguezes subjugava nas praças publicas, sem correr uma gotta de sangue, o famelico leão das Hespanhas.</p>
 <p>Era o grito de liberdade longos dias reprimido na garganta d'um povo inteiro.</p>
 <p>Era o jubilo d'uma nação, que parece apenas occupar alguns palmos de terra no mappa da Europa, á hora em que despedaçava as gramalheiras que por sobre os Pyreneus lhe lançára o César da França, e dizia ao vencedor de Austerlitz: «Tu prostraste a Prussia em Iena, a Russia em Friedland; tu levantaste sobre as baionetas dos teus exercitos os thronos de Napoles, da Hollanda, da Westphalia, e da Hespanha, mas nós fizemos estremecer na tua mão, ó demolidor victorioso, a alavanca com que procuravas revolver nos alicerces o solio portuguez. Que o amigo leopardo da Inglaterra te contrariasse, vá, porque a Inglaterra é muito poderosa. Mas nós, pequenos como somos, fazemos suster o vôo da tua aguia e, audazes como ella, gritamos-lhe para a amplidão que avassalla: Basta! Pára!»</p>
-<p>    [9] Sua Alteza Real.</p>
 </div><div type="chapter"><head>XI</head>
 <p>O que a vivandeira pensava</p>
 <p>Retiraram os francezes pelo norte de Portugal, acossados pelo exercito anglo luso.</p>
@@ -835,7 +840,16 @@
 <p>Foi longo e reparador o primeiro somno do ferido.</p>
 <p>Rosina Regnau velou á cabeceira da tarimba, absorta nos seus pensamentos pela primeira vez illuminados por um raio de sol. Estava folheando o roseo poema do primeiro beijo, decompondo em estrophes maviosas a harmonia que da alma subira aos labios. Era a primeira gotta de orvalho na aridez do seu destino, uma parcella de ternura em recompensa dos thesouros que ella por tanta vez prodigalisára sobre as faces de Graça Strech.</p>
 <p>O primeiro beijo! A santa loucura das almas que se amam, como diz a trova:</p>
-<p>    Foi aqui mesmo, á tremula         Sombra do olmeiro,     --Dizia o pastor Lícidas--         Aqui, aqui,     Que eu hontem n'estes labios         Tive o primeiro     Beijo da minha Flérida,         E endoideci![10]</p>
+<quote>
+<l>Foi aqui mesmo, á tremula         </l>
+<l>Sombra do olmeiro,     </l>
+<l>--Dizia o pastor Lícidas--         </l>
+<l>Aqui, aqui,     </l>
+<l>Que eu hontem n'estes labios         </l>
+<l>Tive o primeiro     </l>
+<l>Beijo da minha Flérida,        </l>
+<l>E endoideci! <ref target="#POR0055-nota-10"/></l>
+</quote>
 <p>E baralhavam-se-lhe os pensamentos com a precipitação da ephemera demencia que a felicidade dá.</p>
 <p>--Sim... eu começo a ser feliz. Diz-me o coração que o serei... Mais provas! mais provas, senhor meu coração! Mostre-se digno d'aquella enorme alma, inspire-lhe confiança para lhe recolher os segredos, e possua-a, e juntem-se, e prendam-se, e identifiquem-se, tão unidos, tão unidos, que nem a morte os possa separar... Sem isso não ha felicidade completa... Sim, bem vês, pobre coração, meu pobre coração que tanto tens soffrido, que se aquelle annel fecha ainda a saudade de um amor redivivo, não pódes por emquanto conquistar a fortaleza que se não renderá. Tu sabes lá como a saudade se bate entrincheirada detraz de um tumulo! Então terás ainda muito que soffrer e que luctar, pobre doente para quem hoje raiou o primeiro symptoma da cura, meu triste coração tão soffredor! Mas forceja, vá, porfia, esforça-te por arrancar-lhe o segredo... Se aquella é a ultima memoria de uma irmã querida, alegra-te, pobre louco, porque nem a amante desluzirá a irmã, nem a irmã desluzirá a amante. A alma d'elle é tamanha que chega para mim e para ella. Para o que não chega é para duas amantes, que se disputam palmo a palmo o terreno, que luctam, que combatem, que oppõem ciume a ciume, despeito a despeito, embora uma esteja morta e outra viva... Não, «a gentil vivandeira» não soffre competencias. Já se fez amar d'um exercito; é preciso que se faça amar d'um homem. Pois então perde-se tudo, a patria, a liberdade, o socego, as florestas das Ardennas, as minhas queridas florestas das Ardennas, que talvez não mais torne a ver, e as montanhas do Hainaut e do Luxembourg, que eu conheço desde pequenina, e o Semoy e o Lesse e o Ourthe e o Eure, tudo, n'uma palavra, perde-se uma vida inteira de dezoito annos, para amar um homem, para ser a sua sombra, o seu cão, e não se ha de possuir ao menos todo o seu coração, todos os seus pensamentos, os seus segredos todos? Quem me diz porém que não hei de vencer? Não vi eu porventura tantas batalhas, não as vejo ainda, e não posso tirar da incerteza da victoria um bom agouro para o meu futuro? Dize-te, pobre Rosina, diz a ti mesma o que são os combates que tantas vezes tens visto. Pinta um quadro para ti. Anima-te! Olha... São duas as montanhas alcantiladas, sombrias, enormes... Uma defronte da outra... No meio um rio sereno, e crystalino a principio... depois vermelho de sangue. Sobre o rio uma ponte, e sobre a ponte, como a desabarem para ella, as montanhas. E n'uma e outra os exercitos, os uniformes variados, os kepis multicôres, as espadas reluzentes, os cavallos pendurados das fragas, os cavalleiros pendurados dos cavallos, as carretas suspensas na ladeira, as peças que abrem a sua bocca de fogo para vomitar o fumo e a morte, a voz dos clarins e a voz dos commandantes, pragas, juras, maldições, gemidos, blasphemias, sacrilegios, e a turba ora a estreitecer, a apertar-se, a juntar-se em pinha, ora a crescer, a alargar-se, a fazer-se onda, a trasbordar, ora a rolar como avalanche pelo monte abaixo, ora a marinhar por elle, a trepar, a agarrar-se, tão espessa, tão escura, tão confusa como se fosse uma nuvem que saísse do rio, e o sol a doiral-a agora e logo o fumo a envolvel-a, e já se desencadeiam d'um e d'outro lado ameaçando chocar-se sobre a ponte, que corta o valle, e que afundará com elles, e baralham-se, enovelam-se, redemoinham, e apparecem uns, e desapparecem outros, e tombam cadaveres ao rio, e estruge no ar a grita, e corre ensanguentada a agua, e são aquelles os que vencem, os que estão em maior numero, e vão esmagar os outros, e arvorar a bandeira... mas rolam de novo, precipitam-se, confundem-se, e são estes agora os que triumpham, lá se embrenham por entre o inimigo, passam como corisco, e assombram-n'o, fulminam-n'o, e a victoria é sua! Bem, Rosina Regnau, assim foi em Amarante e ainda agora em Alcantara; assim póde ser para ti. Quem te diria no hospital de sangue, quando o estavas contemplando adormecido, tão pallido, tão mergulhado no somno, e tu te lembravas de que eras franceza e elle portuguez, quando tu já o amavas e elle dormia, quem te diria, ó vivandeira ignorada, que dias depois havias de seguil-o por toda a parte, e perder a tua voz para que te não conhecessem, e encostar ao teu peito a cabeça d'elle, que caira ferido, e recber-lhe o primeiro beijo? Ninguem! Nem aquelle endemoninhado do Beauvier, que era o bruxo do exercito, e andava sempre a olhar para os astros, e adivinhava quando chovia, e a lua havia de ser cheia, aquella bonita lua cheia da França!... Ninguem, Rosina, ninguem! Pois tambem não ha magico na terra que saiba dizer se tu chegarás a vencer o seu coração de modo que te julgues tão poderosa, tão senhora do mundo como o imperador, e por feitio que sejas tão ambiciosa como elle, que não deixa palmo de terra a ninguem!...</p>
 <p>Interrompeu-lhe este intimo monologo uma contração do ferido, que balbuciou monosyllabos.</p>
@@ -849,7 +863,6 @@
 <p>--Eu dormi, Rosina: dormi e sonhei... com minha irmã. Estava-a vendo aos cinco annos, vestidinha de branco, quando a fomos levar ás Chãs, e quando eu tinha seis... Nunca isto me esqueceu! Trepámos a uma cadeira para descer as maçãs que o padre capellão tinha a amadurecer no friso da sala. Augusta subiu denodadamente, mas faltou-lhe a coragem para saltar ao chão... E começou a gritar, a gritar, de sorte que o padre capellão a veiu surpreender com as maçãs escondidas na abada do seu pequenino vestido...</p>
 <p>Sentiram-se passos.</p>
 <p>--Cala-te! apostrophou Rosina. Cala-te! Rosina Regnau já aqui não está. Fica apenas a "muda allemã".</p>
-<p>    [10] A "invenção dos jardins" por Gessner; tradução do sr.     Visconde de Castilho (Antonio Feliciano).</p>
 </div><div type="chapter"><head>XII</head>
 <p>Amor e ciume</p>
 <p>Foram proseguindo as operações da trabalhosa campanha de 1809 contra os francezes.</p>
@@ -963,11 +976,24 @@
 <p>O amor, que é luz, que é fogo, que é sol, vae se decompondo em irradiações parciaes na nossa alma, á medida que a vae desenregelando, como o verdadeiro sol n'um prisma de crystal. Verdade é, ser preciso que tenha a alma a pureza do vidro para que lentamente se vão revezando as côres, alternando as "nuances", e embriagando-se ella a pequenos haustos no banquete da felicidade. O amor que rebenta como erupção, não é amor, é desatino. Nasceu cego: não vê. Irrompe como a lava, passa, queima, desapparece.</p>
 <p>Este é o amor das almas versateis, que não se vergam ao sacrificio, e que por isso mesmo são incapazes de metter hombros á cruz cujo peso devera ser repartido pelos dois. Os que amam sem previamente haver soffrido, amam apenas emquanto o amor não é soffrimento. E quem póde desfolhar a rosa sem ferir-se no espinho? Esses amam pouco. As lagrimas são a agua que baptisa na religião dos attribulados. A mocidade de Graça Strech recebera esse primordial sacramento. Dera a sua vida em holocausto á saudade. Soffrera muito, e alma que soffre assim tem de certo a pureza dos grandes sentimentos. Por isso a luz da aurora, que lhe alvorecia sobre o tumulo da irmã, se foi decompondo em gradações prismasticas por feitio que elle, muito alma a dentro, pôde conhecer a nitidez das côres, o brilho das tintas casado á transparencia do cristal.</p>
 <p>Desde então começou a amar como os que teem soffrido. «Tudo o que penso e sinto te direi,» segredára elle em Alcantara.</p>
-<p>Estas palavras não eram apenas a promessa d'uma revelação;--eram a promessa da felicidade.</p>
+<p>Estas palavras não eram apenas a promessa d'uma revelação; -- eram a promessa da felicidade.</p>
 <p>Os acontecimentos não permittiram que, antes de Coimbra, Rosina Regnau pudesse affastar de si a nuvem do ciume que de ha muito lhe opprimia o coração.</p>
 <p>Muito primeiro o amára ella, porque o ciume nascera parelho do amor.</p>
 <p>Parece que o destino porfiára em depôl-os no eden viridente de Portugal para mandar depois a serpente a tental-os. N'aquelle jardim de Coimbra ha sombras fadadas para o amor. Já o disse um poeta:</p>
-<p>    Quem nunca viu Coimbra     Pela brisa embalada        Do Mondego,     Que de amorosa timbra     Na margem reclinada        Com socego,     Não sabe o que é belleza,     Ai! não conhece a filha        Dos amores,     Mais nobre que Veneza,     Mais linda que Sevilha        Sobre flôres.[11]</p>
+<quote>
+<l>Quem nunca viu Coimbra     </l>
+<l>Pela brisa embalada        </l>
+<l>Do Mondego,     </l>
+<l>Que de amorosa timbra     </l>
+<l>Na margem reclinada        </l>
+<l>Com socego,     </l>
+<l>Não sabe o que é belleza,     </l>
+<l>Ai! não conhece a filha        </l>
+<l>Dos amores,     </l>
+<l>Mais nobre que Veneza,     </l>
+<l>Mais linda que Sevilha  </l>      
+<l>Sobre flôres.<ref target="#POR0055-nota-11"/></l>
+</quote>
 <p>Ali rememora ainda a celebrada fonte, que suspira n'uma das extremas do campo de Santa Clara, o poema das lagrimas da formosa Castro--o maior poema d'amor que se tem sentido em Portugal. Que phantasias que não tem o amor em Coimbra! É velha a doidice que se respira n'aquelles ares, porque já Faria e Sousa conta que Pedro, o principe amoroso, confiava á agua da fonte, que n'esse tempo ia jorrar nos jardins do paço real, os bilhetinhos namorados que a loura Ignez muito em segredo recolhia e, em maior segredo ainda, relia. E perora Faria e Sousa: «Tales son las astucias de los amantes». Com perdão de Faria e Sousa, astuciosos são os escriptores que nos pintam amores fabulados de tão acertadas contingencias, como era a da agua, sem embargo dos seixos e hervagens, ser fiel correio do principe e da aia.</p>
 <p>Eu contarei singelamente o meu caso, tal como aconteceu na hora em que o ciume de Rosina Regnau, como se já não fosse preciso para atiçar as labaredas do amor, se acalmava na mutua confiança das almas que se possuem.</p>
 <p>Foi ahi por alguma copada sombra das margens do Mondego, onde, como disse Gabriel Pereira de Castro, o rio</p>
@@ -998,7 +1024,6 @@
 <p>A natureza dascaía na deliciosa morbidez do anoitecer. As labaredas que a ambos afogueavam o coração foram bastantes a seccar as lagrimas d'um e outro. Se eu quizesse passar por um escriptor tão casto como os que uzam adoçar o acre das situações violentas, diria que se ouvia rumorejar as folhas, sendo os labios que rumorejavam. Essas ultimas revelações tanto contraíram os elos da cadeia, que já não era possivel medir a distancia interposta ás duas almas embevecidas.</p>
 <p>Se ali, n'aquellas paragens onde o grave Faria e Sousa achou que era torrão azado para localisar astucias de namorados; se áquella hora, como na tragedia de Goethe, estivesse ali Mephistopheles, bradaria com alegria satanica: "Perdida!"</p>
 <p>Bem podia ser porém que alguma voz do alto respondesse: "Salva!" Só se perde a mulher que não tem coração para comprehender o que é ser mãe.</p>
-<p>    [11] Do sr. Antonio de Serpa.</p>
 </div><div type="chapter"><head>XIV</head>
 <p>Quanto custa ser mãe</p>
 <p>Em fevereiro de 1810 estacionava no valle do Mondego o exercito commandado pelo general Wellington, repousando das passadas lides, se bem que já apercebido para resistir aos movimentos dos francezes que de novo ameaçavam invadir Portugal.</p>
@@ -1100,7 +1125,7 @@
 <p>O cartel de desafio, tantas vezes arrojado á face da nação britannica, volveu-se na hora da decadencia em supplica dirigida ao principe regente d'aquelle paiz.</p>
 <p>Estas palavras de Napoleão, escriptas em Aix, depois de Waterloo, são claro testemunho da inconstancia das coisas terrenas:</p>
 <p>«Alteza real, a braços com as facções que dividem o meu paiz, e com a inimisade das grandes potencias da Europa, puz termo á minha carreira politica. Venho, como Themistocles, sentar-me junto ao lar do povo britannico; abrigo-me á protecção de suas leis, a qual solicito de vossa alteza real como o mais poderoso, o mais constante e o mais generoso dos meus inimigos.</p>
-<p>                                                        «NAPOLEÃO»[12]</p>
+<p>                                                        «NAPOLEÃO»<ref target="#POR0055-nota-12"/></p>
 <p>Não era porém sincera a humildade do cézar decaído. Themistocles pedia a hospitalidade d'Artaxerxes, mas não pensava em beber a morte no veneno. Os tropheos da Inglaterra, como os tropheus de Melciades, perturbavam o somno do hospede desterrado. No momento de embarcar em a nau ingleza, Napoleão repellia o general Becker que se abeirava d'elle para despedir-se, e dizia-lhe:</p>
 <p>--Retire-se general. Não se diga que um francez veiu entregar-se nas mãos do inimigo.</p>
 <p>Themistocles não esquecia a gloria de Melciades.</p>
@@ -1122,7 +1147,7 @@
 <p>--Muda, sim.</p>
 <p>A este tempo havia caído Graça Strech em lethal modorra, e retiravam-se os dois soldados receiosos de que o tenente não resistisse ao ferimento.</p>
 <p>Todavia, como poderemos ver pelo capitulo seguinte, não tinha de ser aquella a ultima hora da attribulada existencia de Graça Strech.</p>
-<p>    [12] "Historia de Napoleão Bonaparte", pelo dr. Caetano     Lopes de Moura, Vol. II.</p>
+
 </div><div type="chapter"><head>XVI</head>
 <p>Uma festa no Porto ha cincoenta e nove annos</p>
 <p>Amanheceu festivo para a cidade do Porto o dia 15 d'agosto de 1814.</p>
@@ -1135,7 +1160,7 @@
 <p>Os feitos da brigada de infantaria do Porto haviam soado, com assombro dos portuguezes, em Portugal inteiro, mórmente os que praticára na batalha da estrada de Bayona, em França, no dia 13 de dezembro do anno anterior.</p>
 <p>O senado da camara tinha-se reunido nos primeiros dias d'agosto para assentar nos festejos com que se devia celebrar o regresso das tropas. Resolveu que se levantassem arcos de triumpho, fazendo-se outras mais demonstrações de alegria, e encarregou da direcção dos preparativos o vereador decano José de Sousa e Mello.</p>
 <p>Tratou-se, pois, com febril afan, de executar o programma dos festejos.</p>
-<p>Construiu-se sobre a ponte do Poço das Patas a "Porta da cidade"[13], guarnecida com os castellos que lhe são proprios, e com as insignias concedidas por carta regia de 13 de maio de 1813; collocando-se na cimalha da porta a imagem de Nossa Senhora, que entregava a seu Divino Filho uma fita com a legenda "Civitas Virginis".</p>
+<p>Construiu-se sobre a ponte do Poço das Patas a "Porta da cidade" <ref target="#POR0055-nota-13"/> , guarnecida com os castellos que lhe são proprios, e com as insignias concedidas por carta regia de 13 de maio de 1813; collocando-se na cimalha da porta a imagem de Nossa Senhora, que entregava a seu Divino Filho uma fita com a legenda "Civitas Virginis".</p>
 <p>O gosto da pintura, imitando velha cantaria, muito deu na vista das pessoas que percorriam as ruas e estacionavam boqui-abertas em frente do arco.</p>
 <p>Tambem na cimalha foi embutida uma lamina de bronze com este distico:</p>
 <p>                        HINC GENTI HOMEN;                     HINC REGNO PLURIES SALUS;                        HINC EUROPAE, ORBI              PRIMA LIBERTATIS LUX NOVISSIME AFFULSIT.</p>
@@ -1180,7 +1205,7 @@
 <p>Arremessava com a mão esquerda um montão de cadeias, e com a direita segurava uma estreita fita. No pedestal:</p>
 <p>    O Soberano Author da redondeza     Da minha redempção deu-vos a empreza.</p>
 <p>                                 "Bocag."</p>
-<p>A tarja que, do outro lado, correspondia á inscripção lapidar, tinha figurados em relevo todos os petrechos de guerra, e os Genios, que d'esse lado sustentavam a esphera, desenrolavam uma fita em que estava escripta uma quadra do "Condestabre."[14]</p>
+<p>A tarja que, do outro lado, correspondia á inscripção lapidar, tinha figurados em relevo todos os petrechos de guerra, e os Genios, que d'esse lado sustentavam a esphera, desenrolavam uma fita em que estava escripta uma quadra do "Condestabre." <ref target="#POR0055-nota-14"/></p>
 <p>Ahi se agrupava impaciente a multidão, não só attrahida pela magnificencia do arco, senão tambem pelo variegado espectaculo das tropas da guarnição, que estavam postadas em alas até ao largo de Santo Eloy; bem como para ver pegar fogo á bateria collocada no topo da calçada dos Clerigos e destinada a salvar com vinte e um tiros de peça a passagem da brigada pelo arco.</p>
 <p>Na rua nova do Almada baralhavam-se dois formigueiros de povo: um que, receoso do tumulto na aproximação das tropas, demandava o Campo de Santo Ovidio; outro que, tendo visto o obelisco levantado no meio d'este campo, ia procurar logar, na hypothese de encontral-o, junto ao arco da rua nova de Santo Antonio.</p>
 <p>Era tambem sobremodo esplendoroso o obelisco n'aquelle campo. Rodeava o pedestal uma espaçosa varanda, adornada com ricas bandeiras portuguezas.</p>
@@ -1257,8 +1282,6 @@
 <p>A um e outro lado corriam arbustos, d'entre os quaes appareciam as armas de Portugal e Inglaterra. A um grupo de trophéus de guerra, com bandeiras d'uma e outra nação, que cobriam a cabeceira da mesa, fazia "pendant" um nublado em que se enleiava a serpente, symbolo da eternidade, tendo escripto no centro--"Ashworth."--Guarneciam o nublado duas bandeiras com os nomes dos dois regimentos, atadas por uma fita em que se lia a data de maior gloria para a brigada do Porto--"13 de dezembro de 1813".</p>
 <p>No fim do banquete, ao som da banda de musica de milicias que tocava á porta do quartel, levantaram-se enthusiasticos vivas ao principe regente, á familia real, aos monarchas alliados, aos governadores do reino, generaes do exercito combinado, ás tropas victoriosas, e a todas as mais entidades que iam lembrando e mereciam a homenagem d'um calis de vinho.</p>
 <p>Um só conviva correspondeu a esses ruidosos brindes com um movimento de labios: foi Graça Strech. E á noite, quando toda a cidade se illuminava festivamente, era profunda a escuridão na sua alma.</p>
-<p>    [13] É fiel a descripção d'estes festejos; O auctor     encontrou-a n'um opusculo da epoca.</p>
-<p>    [14] Poema heroico de Francisco Rodrigues Lobo.</p>
 </div><div type="chapter"><head>XVII</head>
 <p>Como madrugam as aves e os noivos!</p>
 <p>Obtida a baixa, Graça Strech poucos dias se demorou no Porto.</p>
@@ -1640,7 +1663,7 @@
 <p>Durante a sua estada no hospital de Cima de Villa, grato á protecção recebida, abriu-se em frequentes confidencias com o seu protector. Algumas vezes lhe escreveu, assignando-se Graça Strech, se bem que os registos de admissão e obito o nomeiem Conceição Graça.</p>
 <p>Bem póde ser que o infeliz, talvez por melindre que nos não é dado perscrutar, negasse ao escripturario o verdadeiro appellido de sua familia, e facilmente se comprehende que o registo de obito foi modelado pelo registo de entrada no hospital.</p>
 <p>O leitor, antes de eu ter denunciado o nome do estranho guitarrista, já o havia conhecido de certo, confrontando-o com a personagem que apparece nas primeiras paginas d'este livro, e achando-os em tudo semelhantes.</p>
-<p>Graça Strech falleceu no hospital dos Entrevados de Cima de Villa a 20 de maio de 1850. Antes de expirar, entregou ao seu protector, que lhe assistiu aos ultimos momentos, a medalha da guerra peninsular, com que fôra condecorado, e que o sr. Leorne ainda hoje possue[15]. O annel mysterioso, por expressa recommendação do moribundo, desceu com o cadaver á sepultura. Outra piedosa pessoa, a quem o sr. Leorne revelára as qualidades e soffrimentos de Graça Strech, se encarregou de fazer-lhe os funeraes na capella do Prado do Repouso, reservando para si a guitarra que elle por tão longos annos dedilhára.</p>
+<p>Graça Strech falleceu no hospital dos Entrevados de Cima de Villa a 20 de maio de 1850. Antes de expirar, entregou ao seu protector, que lhe assistiu aos ultimos momentos, a medalha da guerra peninsular, com que fôra condecorado, e que o sr. Leorne ainda hoje possue <ref target="#POR0055-nota-15"/> . O annel mysterioso, por expressa recommendação do moribundo, desceu com o cadaver á sepultura. Outra piedosa pessoa, a quem o sr. Leorne revelára as qualidades e soffrimentos de Graça Strech, se encarregou de fazer-lhe os funeraes na capella do Prado do Repouso, reservando para si a guitarra que elle por tão longos annos dedilhára.</p>
 <p>Aqui podia terminar a biographia de José Maria da Graça Strech, mas, para que fique mais completa, concluiremos copiando textualmenle as unicas palavras que até hoje falavam d'elle:</p>
 <p>"João José Duarte Machado, capellão director do cemiterio do Prado do Repouso, n'esta cidade do Porto:"</p>
 <p>«Certifico que no livro quarto do registo dos obitos e enterramentos dos adultos, a folhas trezentas setenta e sete, verso, se acha o assento seguinte:</p>
@@ -1651,5 +1674,24 @@
 <p>FIM</p>
 </div>
 </body>
+<back>
+<div type="notes">
+<note xml:id="POR0055-nota-1"> <p> A quarta edicção, luxuosa, d'este romance, foi por nós publicada em 1900.</p> </note>  
+<note xml:id="POR0055-nota-2"> <p> Chamava-se então rua "Nova", porque o celebre governador da cidade. Francisco d'Almada e Mendonça, fallecido em 1804, tinha transformado a antiga rua das Hortas n'esta nova rua, que tomou o seu nome.</p> </note>  
+<note xml:id="POR0055-nota-3"> <p> Por decreto de 11 de dezembro de 1808 toda a nação foi obrigada a pegar em armas.</p> </note>  
+<note xml:id="POR0055-nota-4"> <p> Este facto consta do relatorio do proprio barão.</p> </note>  
+<note xml:id="POR0055-nota-5"> <p>  Referencia á proclamação de Soult.</p> </note>  
+<note xml:id="POR0055-nota-6"> <p> «Historia antiga e moderna da sempre leal e antiquissima villa de Amarante». etc., por P. F. de A. C. de A.--1814, pag. 54.</p></note>  
+<note xml:id="POR0055-nota-7"> <p>  «Historia geral da invasão dos francezes em Portugal», por José Accurcio das Neves. Tomo I, pag. 282.</p></note>  
+<note xml:id="POR0055-nota-8"> <p>  Veja-se "Elogio de Silveira", pelo padre mestre dr. fr. F. de S. T., e "Silveira", poema por J. S.</p></note>  
+<note xml:id="POR0055-nota-9"> <p>  Sua Alteza Real.</p> </note>  
+<note xml:id="POR0055-nota-10"> <p> A "invenção dos jardins" por Gessner; tradução do sr. Visconde de Castilho (Antonio Feliciano).</p> </note>  
+<note xml:id="POR0055-nota-11"> <p>  Do sr. Antonio de Serpa.</p> </note>  
+<note xml:id="POR0055-nota-12"> <p> "Historia de Napoleão Bonaparte", pelo dr. Caetano Lopes de Moura, Vol. II.</p> </note>  
+<note xml:id="POR0055-nota-13"> <p>  É fiel a descripção d'estes festejos; O auctor encontrou-a n'um opusculo da epoca.</p> </note> 
+<note xml:id="POR0055-nota-14"> <p> Poema heroico de Francisco Rodrigues Lobo.</p> </note> 
+<note xml:id="POR0055-nota-15"> <p> Em 1873.</p> </note> 
+</div>
+</back>
 </text>
 </TEI>

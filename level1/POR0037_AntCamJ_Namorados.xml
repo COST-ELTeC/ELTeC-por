@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0037" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0037" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
      <titleStmt>
@@ -16,17 +19,10 @@
       </respStmt>
    </titleStmt>
 <extent>
-<measure unit="words">238762</measure>
+<measure unit="words">235443</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>A Ala dos Namorados (Luso-livros)</title>
@@ -57,8 +53,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2018-11-22">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -170,7 +165,7 @@
 <p>Lourenço, com o seu estado-maior de cónegos e a sua hoste de frades e clérigos seculares. Os trabalhos e os sacrifícios eram para todos.</p>
 <p>O arcebispo, um homem intrépido, não admitia isenções de privilégio para ninguém naquela conjuntura angustiosa. Para ele era também serviço de Deus defender a Nação à mão armada, e a sua hoste de tonsurados não era das menos fervorosas nem das menos destemidas na defesa das trincheiras e no arranque das sortidas. Fora ele até o principal organizador na defesa do lado do rio, passando indiferentemente da sua tarefa de dirigente aos mais rudes trabalhos de construção, para estímulo da peonagem e dos seus clérigos.</p>
 <p>Pela noite adiante chegara o batel em que vinha o comerciante do Porto, João Ramalho, com a notícia de ter atracado em Cascais a esquadra de socorro. O Mestre combinou então com o Ramalho o plano a seguir, não só quanto à entrada dos navios, mas também a respeito do apoio que poderiam dar-lhe os defensores da cidade.</p>
-<p>Assente o que devia fazer-se para que a empresa, realmente grave, tivesse bom êxito, Ramalho voltou para Cascais com o mesmo risco e destemor, e o Mestre regressava agora ao paço para ali discutir com os seus cavalheiros e caudilhos do povo, entre os quais tinham lugar proeminente os homens de ofícios da "Casa dos Vinte e Quatro"<ref target="#POR0037-nota-8"/> do povo, com todas as minúcias e disposições da parte do plano que pertencia à cidade.</p>
+<p>Assente o que devia fazer-se para que a empresa, realmente grave, tivesse bom êxito, Ramalho voltou para Cascais com o mesmo risco e destemor, e o Mestre regressava agora ao paço para ali discutir com os seus cavalheiros e caudilhos<ref target="#POR0037-nota-7"/> do povo, entre os quais tinham lugar proeminente os homens de ofícios da "Casa dos Vinte e Quatro"<ref target="#POR0037-nota-8"/> do povo, com todas as minúcias e disposições da parte do plano que pertencia à cidade.</p>
 <p>E era neste assunto gravíssimo que o Mestre vinha a conversar com aquele velho alquebrado, que fora o cérebro dirigente da revolução e trazia em si, no seu arcaboiço de septuagenário, uma das maiores almas de Portugal.</p>
 <p>A multidão olhava para aqueles os dois esperançada como se aquele homem de gorra negra e cabelos de neve fosse o símbolo imaculado da Pátria, que os de Castela pretendiam matar, e o outro, um bastardo real, monge-cavaleiro de vinte e seis anos, representasse a maior promessa e a mais rútila esperança de um Portugal remoçado, mais forte, mais brilhante, de mais pura e altiva alma, emergido dos Iodos daquela decadência pelos milagres de esforço de uma revolução.</p>
 <p>-- Viva o nosso Messias! -- gritaram algumas mulheres comovidamente.</p>
@@ -3152,7 +3147,7 @@
 <p>-- Mestre Afonso Eanes -- chamou Ruy.</p>
 <p>-- Dizei.</p>
 <p>-- Dai a essa benfazeja criatura -- segredou-lhe -- estas moedas para quanto ela carecer e for possível comprar nesta pobre cidade faminta.</p>
-<p>E pôs-lhe na mão três dobras pé-terra e alguns reais brancos.<ref target="#POR0037-nota-45"/></p>
+<p>E pôs-lhe na mão três dobras pé-terra<ref target="#POR0037-nota-44"/> e alguns reais brancos.<ref target="#POR0037-nota-45"/></p>
 <p>-- De minha casa lhe mandarei tudo o que for possível e, entretanto, procuraremos nós, para ela e para a sua protetora, outro melhor abrigo.</p>
 <p>-- Está encontrado -- volveu-lhe o tanoeiro consoladoramente -- Na minha casa será, se quiserdes.</p>
 <p>-- Grande coração o vosso, meu honrado amigo! -- disse-lhe, abraçando- o.</p>
@@ -5784,7 +5779,7 @@
 <p>Os que não traziam armamento regular e, quando muito, uma antiga coura de sola sobre a trapagem, e estes eram, ainda assim os mais distintos, vinham na cauda do pequenino exército, na reguarda como se dizia na tecnologia militar daquela época. E atrás deles o mulherio de aventura, apesar de todas as proibições e de todas as severidades, principalmente quando estava presente o austero Condestável. Em Portugal como em Castela e em outros países, e ainda, com muito maior desaforo, nas campanhas dos primeiros anos do século passado.</p>
 <p>Mas ali não vinham só aventureiras, senão também mães para acompanhar de perto os filhos juvenis e esposas de mais ânimo para acudir aos maridos, pois que os exércitos daquele tempo não tinham organizados os serviços de socorro aos feridos. E entre elas, algumas que tinham sido da hoste da tia Lourença no último cerco de Lisboa.</p>
 <p>E quem animava o diálogo, dando-lhe o relevo dos seus chistes, era o Bernardo Pingueiro, aquele sapateiro tunante, já muito nosso conhecido.</p>
-<p>Vinha delicioso. Um saio constelado de remendos, umas calças de bifa a esfiamparem-se-lhe; à cinta um longo espeto, a que ele chamava o seu estoque, e na cabeça, muito caído para a nuca, um capelo ferrugento, que tinha apanhado em Lisboa na “feira das ladras”.<ref target="#POR0037-nota-77"/>.</p>
+<p>Vinha delicioso. Um saio constelado de remendos, umas calças de bifa<ref target="#POR0037-nota-76"/> a esfiamparem-se-lhe; à cinta um longo espeto, a que ele chamava o seu estoque, e na cabeça, muito caído para a nuca, um capelo ferrugento, que tinha apanhado em Lisboa na “feira das ladras”.<ref target="#POR0037-nota-77"/>.</p>
 <p>E os seus olhos, cada vez mais piscos, a enviesarem-se-lhe para o nariz, cada vez mais rubro.</p>
 <p>Tinha uns rijos cinquenta anos, apesar de batidos por trinta e cinco de formidáveis bebedeiras.</p>
 <p>Era a mais extraordinária figura da Ala dos rotos.</p>

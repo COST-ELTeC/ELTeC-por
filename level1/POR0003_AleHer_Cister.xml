@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0003" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0003" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -17,18 +20,12 @@
 </respStmt>
 </titleStmt>
 <extent>
-<measure unit="words">130682</measure>
+<measure unit="words">131300</measure>
 
 </extent>
 <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-<!--Adicionado à coleção ELTeC 25 de junho de 2020. --></publicationStmt>
+<p>Adicionado à coleção ELTeC <date>25 de junho de 2020</date>. </p>
+</publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O Monge de Cister, ou: A época de D. João I, 2 volumes</title>
 <author ref="viaf:2464795">Alexandre Herculano</author>
@@ -68,7 +65,6 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-06-25">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -1228,7 +1224,7 @@
 <p>O doutor de Pisa dingiu-se á porta interior, franziu o reposteiro, e observou os pagens.</p>
 <p>D, João I, ainda colérico pela aífronta feita aos magistrados da sua boa cidade, tinha-se encostado de novo á arca, falando por entre os dentes. O chanceller aproximou-se e, parando diante delle, disse:</p>
 <p>«Respondestes como nobre rei, e a vossa sentença ha- de fazer exultar toda a Lisboa, burgueses e arraia miúda. Foi qual eu a esperava. São assim feitos. Folgarão mais com isto do que se despachásseis a petição dos mercadores. Cincoenta açoutes num estrangeiro, ao meio-dia, na praça I -- proseguiu o chanceller esfregando as mãos, depois de breve pausa. -- Adiíiiravel ! Gomo este bom povo rirá e gritará: -- «alcacere por elrei D. João !» A velha raposa animava o leão. Amargo devia ser o alimento que lhe queria fazer tragar.</p>
-<p>«E o povo terá razão -- respondeu o monarcha, lisongeiado pelos elogios do seu i&gt;rivado. -- Quem affronta os alvazis affronta os que os elegeram; quem, não tendo appellado para mim dos meus juizes de foro, vai ladrar nos açougues- que nesta terra não ha justiça, mente e calumnía o rei de Portugal. Hei-de fazer respeitar os meus concelhos e a magestade da coroa, que me deram Deus, o meu povo e a minha espada.» «E eu» -- reflectiu mentalmente o doutor, emquanto proferia em voz alta:</p>
+<p>«E o povo terá razão -- respondeu o monarcha, lisongeiado pelos elogios do seu i>rivado. -- Quem affronta os alvazis affronta os que os elegeram; quem, não tendo appellado para mim dos meus juizes de foro, vai ladrar nos açougues- que nesta terra não ha justiça, mente e calumnía o rei de Portugal. Hei-de fazer respeitar os meus concelhos e a magestade da coroa, que me deram Deus, o meu povo e a minha espada.» «E eu» -- reflectiu mentalmente o doutor, emquanto proferia em voz alta:</p>
 <p>«Eis o que é conforme a interpretação de Bartholo á lei do Código Siquis imperaiori maledídõevlt. Digam embora outra cousa os que seguem diverso rumo. É ao príncipe que toca punir os que o menoscabam, doestam e maldizem; porque o príncipe é o vigário e logartenente de Deus na terra e deve sempre crerse justo. Por isso lá diz o Digesto: Quodprindpi placuit legis habet vigorem, texto, que, na minha opinião, é a pedra angular da republica.» «Sei isso; -- interrompeu elrei -- porém não vades tão alto, mestre João das Leis; não vades tão alto ! Como homem, o príncipe é sujeito ás humanas fraquezas. O texto do Digesto pôde falhar. A vossa grande sciencia dos direitos m'o tem muitas vezes provado. Mas deixemos esse ponto. Agora não se tractava só do throno; tractava-se também do povo; do povo de Lisboa offendido nos seus alvazis, e se a grei é pelo rei, o rei deve ser pela grei.</p>
 <p>Nunca em Portugal houve principe, nem meu pobre pae -- Deus se amerceie de sua alma -- que tanto devesse como eu aos seus honrados burgueses. Têem-me dado tudo, sangue e ouro, vidas e fazendas. Portugal, mestre João, -- accrescentou o monarcha sorrindo -- é uma grande behetria, que me escolheu por senhor, e vós bem sabeis que o villão de behetria costuma dizer ao que escolheu para governar: -- «se bem me fizeres contigo me irei.» -- Os portugueses hão-de ir comigo sempre; porque espero administrar-lhes sempre justiça e desaggravo prompto e bom, como neste caso.» «Vossa real senhoria fala como amoravel e gracioso senhor -- acudiu o discipulo de Bartholo. -- Mas ... mas ...» «Mas que mas é esse, meu excellente chanceller ?» -- replicou D. João I.</p>
 <p>«É que taes cousas, consinta-me vossa senhoria dizê-lo, vinham a ponto nas cortes de Coimbra, quando estava o reino vago. Lá disse eu algumas que as valiam; mas vós fostes eleito, e sois agora rei, e isso de tirar e pôr príncipes pelo povo, como em behetria, são opiniões mal soantes e perigosas para a republica, havendo ahi senhor legitimo e juradoSe vos dissessem hoje: -- deponde a coroa...» «Oh, oh! -- tornou rindo elrei.-- Não tenhaes medo, doutor! Nunca os meus portugueses, que são como filhos queridos, e de quem sou pae, me dirão: -- «Mestre de Aviz, desce do throno a que te elevámos ...» «Por essa fico eu. Não me arreceio do povo, que sempre em Portugal teve alliança com os seus príncipes. É um velho pacto; de um lado contra a turbulenta insolência dos ricos-homens e infanções; do outro contra a sua tyrannia. Gifra-se nisto toda a nossa historia.</p>
@@ -1805,7 +1801,7 @@
 <p>«Mas seria impossivel dizer-te agora tudo o que está aqui dentro ... Paixões? ! Menti, monge de Cister: menti I E' ao sentimento do dever, da justiça, da piedade filial que o teu prelado, o teu amigo te revoca. Oh Vasco! ... Receias acaso que te accuse a consciencia quando a tua voz, funebre como o dobrar por finado, for inesperada recordar ao impio as negruras da sua vida e annunciar-lhe a punição? -- quando, dos braços de mulher sem pudor, o teu brado o arrastar indefeso, cuberto de opprobrio e de antemão condemnado, aos pés do seu bemfeitor, do seu rei, cujos paços prostituiu? Repara bem! Aquelle cadáver que alli jaz, o que é?</p>
 <p>É o que resta de uma existência que elle esmagou. E para que? Para ir gravar noutra fronte a deshonra. O infame converteu em suppedaneo do vicio o corpo de tua pobre irman, e por cima delle passou sem misericórdia, como para a arrastar á abjecção, passou por cima do corpo de teu pae, affastando-o com o pé para o tumulo. E terás tu misericórdia, tu mancebo, tu a quem sorriam mil esperanças, a quem eram licitas as grandes ambições e que vieste por causa delle sepultar-te numa clausura?...» «Não, abbade d' Alcobaça -- interrompeu o cisterciense, a quem a derradeira phrase do tentador, phrase cujo effeito este calculara, tinha ido fazer vibrar uma corda que até então estivera mudada naquelle concerto de agonias. -- Foi uma vingança implacável, como essa a que me arrastaes: foi o remorso que me vestiu a estamenha: foi o crime de um amor desesperado, e que oxalá Deus apagasse nesta alma, onde sobra o padecer... Oh, o remorso, o remorso! Não sabeis o que isso é!» Por um inveterado habito de hypocrisia, D.</p>
 <p>João d'Ornellas volveu os olhos para o tecto, ergueu as mãos postas e murmurou:</p>
-<p>«Nem nosso padre S. Bernardo tal permitta ! »&gt; «É -- proseguiu o moco frade com exaltação dolorosa e sem reparar na visagem do abbade: -- é o ferro que nos rasga as entranhas sem tirar logo a vida; 6 o olhar de Jesus ao receber o osculo de Judas; é a voz no Josaphat que ha-de dizer: --ide, precitos.» «Deve ser horroroso -- acudiu o prelado no mesmo tom beato. -- Tens razão: confundia agora os factos que outr'ora me referiste. A idade vai-me fazendo esquecido. Mas não vês, Vasco, a infinita differença do que foi ao que é? Se a justiça divina te condemnou á dura expiação do remorso, é porque commetteste um crime não provocado. Assassinaste Lopo Mendes por te ser preferido e porque não quiz acceitar um duello a todo o trance com um desconhecido. Não era, porém, livre a que amavas, ou fora illudida, deshonrada, trahida, como tua pobre irman? Não estava a união de Lopo Mendes sanctificada perante os altares? Licitamente conduzira elle Leonor, esse formoso anjo que tu adoravas, do seu leito modesto de virgem ao leito voluptuoso do noivado. Sem quebra das leis da terra ou do céu, podia devorar com os olhos aquellas formas nuas, tão suaves e puras, cubri-las de beijos ardentes...» D. João d'Ornellas, que observava o effeito das suas palavras, coadas uma a uma pelos lábios, parou subitamente. A frouxa luz da lâmpada viam-se oscilar rápidas as veias frontaes do desgraçado mancebo: os braços, que pouco a pouco fora estendendo para o abbade, tinha-os hirtos, e os punhos cerrados: as idéas, ruindo a formular-se era vozes, não cabiam nestas. Apenas, por entre o ranger dos dentes, lhe foi dado proferir:</p>
+<p>«Nem nosso padre S. Bernardo tal permitta ! »> «É -- proseguiu o moco frade com exaltação dolorosa e sem reparar na visagem do abbade: -- é o ferro que nos rasga as entranhas sem tirar logo a vida; 6 o olhar de Jesus ao receber o osculo de Judas; é a voz no Josaphat que ha-de dizer: --ide, precitos.» «Deve ser horroroso -- acudiu o prelado no mesmo tom beato. -- Tens razão: confundia agora os factos que outr'ora me referiste. A idade vai-me fazendo esquecido. Mas não vês, Vasco, a infinita differença do que foi ao que é? Se a justiça divina te condemnou á dura expiação do remorso, é porque commetteste um crime não provocado. Assassinaste Lopo Mendes por te ser preferido e porque não quiz acceitar um duello a todo o trance com um desconhecido. Não era, porém, livre a que amavas, ou fora illudida, deshonrada, trahida, como tua pobre irman? Não estava a união de Lopo Mendes sanctificada perante os altares? Licitamente conduzira elle Leonor, esse formoso anjo que tu adoravas, do seu leito modesto de virgem ao leito voluptuoso do noivado. Sem quebra das leis da terra ou do céu, podia devorar com os olhos aquellas formas nuas, tão suaves e puras, cubri-las de beijos ardentes...» D. João d'Ornellas, que observava o effeito das suas palavras, coadas uma a uma pelos lábios, parou subitamente. A frouxa luz da lâmpada viam-se oscilar rápidas as veias frontaes do desgraçado mancebo: os braços, que pouco a pouco fora estendendo para o abbade, tinha-os hirtos, e os punhos cerrados: as idéas, ruindo a formular-se era vozes, não cabiam nestas. Apenas, por entre o ranger dos dentes, lhe foi dado proferir:</p>
 <p>«Oh! ... Podesse eu assassiná-lo outra vez!» Era quasi um falar de ventríloquo.</p>
 <p>O prelado recuou alguns passos e, cruzando de chofre os braços sobre o peito, inclinou para traz a cabeça. Dir-se-hia que esse alto vulto se havia solevantado do pavimento.</p>
 <p>Pintava-se-lhe no rosto toda a energia da sua alma. Com voz profunda e agitada, bradou:</p>

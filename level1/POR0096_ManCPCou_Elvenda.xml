@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
-            schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0096" xml:lang="pt">   
+<?xml version="1.0" encoding="UTF-8"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://relaxng.org/ns/structure/1.0"?>
+    <?xml-model href="../../Schemas/eltec-1.rng" type="application/xml" 
+            schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="POR0096" xml:lang="pt">   
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -17,17 +20,9 @@
 </respStmt>
 </titleStmt>
 <extent>
-<measure unit="words">46268</measure>
+<measure unit="words">47077</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-11-14"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271467">ELTeC release 1.0.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4271644">ELTeC-por release 0.9.0</ref>
-<!--Added to ELTeC repo on 13-4-2020--></publicationStmt>
+<publicationStmt><p>Added to ELTeC repo on <date>13-4-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Elvenda, ou Conquista de Coimbra por Fernando Magno: romance histórico e moral elaborado sobre factos do século XI</title> 
 <author>Manoel da Cruz Pereira Coutinho</author>
@@ -59,7 +54,6 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2020-11-14">Converted by checkUp script for new release</change>
 <change when="2020-04-06">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -132,7 +126,7 @@
 <p>É uma preciosa occasião, não devo perdel-a ; foiDeus quera m'a deparou; vamos a ella, meu caro amigo; mãos á obra, mãos á obra. </p>
 <p>-- Como assim? respondeu Gundezindo. Não ha estouvado maior! dizes que viste, que viste: mãos á obra, mãos á obra; sem declarar nem o que viste, nem qual seja a obra!!</p>
 <p>-- É verdade, perdôa: estou allucinado; parecia-me vêl-a ainda. Vou tentar se ligo o meu discurso; ah! sim, já me lembra; toma sentido: enfiei a vista por entre os troncos das arvores, que cobrem o declive do monte, até ao fundo, para onde um estrepitoso susurro d'agua, que parecia despenhar-se, de grande altura, chamava a minha attenção. Então vi, que uma dama de figura gentil, musulmana sem dúvida, ricamente vestida, acompanhada por duas aias, passeava por entre os vigosos e copados arvoredos, que bordam um ribeiro, que d'ahi, atravéz de um prado coberto de verdura, vai correndo em direcção ao Mondego. </p>
-<p>O logar é favoravel á empreza; os mouros não temem cousa alguma por este lado. Ha logo juncto do ribeiro uma casa acastellada, d'onde se levanta aos ares uma torre  , em cujas ameias passeava um vigia <ref target="#POR0096-nota-2"/>  armado; pela campina vi alguma gente dispersa occupada na agricultura. Tudo isto póde ser illudido, e a moura apanhada; resta urdir um bom plano, e saber desempenhal-o. Este encontro impressionou-me vivamente; quero depôr, durante trez ou quatro dias, os cuidados da guerra, para occupar-me semente da moura. Gundezindo, não me desampares! </p>
+<p>O logar é favoravel á empreza; os mouros não temem cousa alguma por este lado. Ha logo juncto do ribeiro uma casa acastellada, d'onde se levanta aos ares uma torre <ref target="#POR0096-nota-1"/> , em cujas ameias passeava um vigia <ref target="#POR0096-nota-2"/>  armado; pela campina vi alguma gente dispersa occupada na agricultura. Tudo isto póde ser illudido, e a moura apanhada; resta urdir um bom plano, e saber desempenhal-o. Este encontro impressionou-me vivamente; quero depôr, durante trez ou quatro dias, os cuidados da guerra, para occupar-me semente da moura. Gundezindo, não me desampares! </p>
 <p>-- Já disse que não approvo loucuras. O arrebatamento da moura póde trazer resultados funestos; e quando os não traga, de que te serve ella? É nova ou velha, bonita ou feia? </p>
 <p>-- Não sei, porque além da distancia, em que me achava, ella trazia o rosto coberto; é verdade que algumas vezes, por negligencia, o véu a descobria, e d'acaso olhava para onde eu estava, mas asseguro-te que me não via; e se estivesse mais perto, não deixaria de lhe distinguir as feições. Em fim, pouco importa que essa moura seja bonita, feia, nova ou velha; o que pretendo é que ella seja illustre; e que a sua falta seja sentida, para d'algum modo o roubo poder equiparar-se ao de minha irmã. </p>
 <p>-- Não merece a pena, porque a mulher quanto mais illustre fôr, tanto maior pêso causa ao homem bem educado, a cujo cargo ella estiver. Não vejo, em teu projecto, senão uma imprudencia atrevida; se ella tivesse por fundamento algum affecto do coração, ainda terias applausos dos que padecem estas molestias, teu nome mereceria um logar distincto nos annaes das campanhas amorosas; mas aqui nada ha, que possa justificar-te. Os mouros fazem d'estas emprezas, porque as mulheres não são entre elles, objectos de importação, para a Hespanha; trazém soldados, armas, e bons cavallos; mas as mulheres, essas ficam em Africa, contam com as nossas; se de lá vem alguma, é porque o seu merecimento, ou jerarchia assim o reclama. </p>
@@ -195,14 +189,14 @@
 <p>-- Muito mais tenho a perguntar-te; mas, porque não ha tempo a perder, guardarei isso para outra occasião, e agora tractarei do ponto principal, para que mandei chamar-te. Dize-me: sabes com exactidão todos os caminhos públicos; atalhos e povoações d'aquelles montes, que se descobrem d'aqui, além do rio, e que continuam até á frente de Coimbra?</p>
 <p>- Sim, senhor; como a palma da minha mão. </p>
 <p>- Dize alguns.</p>
-<p>- Direi de boa vontade; ha as aldeias d'Assugeira  , S. Martinho Bispo, Talaveir  , a quinta de Froila Tosanis  , e outras; o mente d'Antaniol, e o que lhe segue até á cidade, chamado gemil, pela raiz dos quaez vai a estrada principal; o rio ao lado d'aquelle monte offerece portos de nomes diversos, como o das areias  , o de Marroncos <ref target="#POR0096-nota-10"/> , o de ... e outros.</p>
+<p>- Direi de boa vontade; ha as aldeias d'Assugeira <ref target="#POR0096-nota-6"/> , S. Martinho Bispo, Talaveir <ref target="#POR0096-nota-7"/> , a quinta de Froila Tosanis <ref target="#POR0096-nota-8"/> , e outras; o mente d'Antaniol, e o que lhe segue até á cidade, chamado gemil, pela raiz dos quaez vai a estrada principal; o rio ao lado d'aquelle monte offerece portos de nomes diversos, como o das areias <ref target="#POR0096-nota-9"/> , o de Marroncos <ref target="#POR0096-nota-10"/> , o de ... e outros.</p>
 <p>- Estou satisfeito; já vejo que sabes. Vamos agora tractar d'outro negocio.</p>
 <p>- És bom cavalleiro?</p>
 <p>- Sempre o fui; mas presentemente por causa da minha perna doente, nem posso andar a cavallo muito tempo, nem firmar-me para combater. </p>
 <p>- Então já vejo, que tens difficuldades em ir e vir de galope d'aqui ao pé de Coimbra? </p>
 <p>- Se me concederem o espaça de meia hora para lá descançar, estou prompto. </p>
 <p>- Ha por aqui mais algum homem práctico nos caminhos d'além do rio?  </p>
-<p>- Que saibam fallar mourisco com exactidão conheço alguns, mas estão longe; dois ou trez d'aqui seguramente trez legoas, em Figueirdo  ; e outro aqui mais perto, do logar d'Anzána <ref target="#POR0096-nota-12"/> .</p>
+<p>- Que saibam fallar mourisco com exactidão conheço alguns, mas estão longe; dois ou trez d'aqui seguramente trez legoas, em Figueirdo <ref target="#POR0096-nota-11"/> ; e outro aqui mais perto, do logar d'Anzána <ref target="#POR0096-nota-12"/> .</p>
 <p>- Não preciso que fallem arabe; contento-me que saibam os caminhos.</p>
 <p>- Como é só para isso, qualquer homem d'esta terra os ensina.</p>
 <p>-- Procura um que tu conheças por honrado, e que saiba andar a cavallo, e diz-lhe que venha fallar-me hoje á noite ou ámanhã ao nascer do sol; e depois d'isto vai entender-te com o Sr. Arthur; e passados trez dias vem fallar-me para conversar comtigo, e para te dar urna gratificação.</p>

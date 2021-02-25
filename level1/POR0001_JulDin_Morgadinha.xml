@@ -20,7 +20,7 @@
 </respStmt>
 </titleStmt>
 <extent>
-<measure unit="words">145767</measure>
+<measure unit="words">150996</measure>
 </extent>
 <publicationStmt>
 <p>Adicionado à coleção ELTeC <date>1 de maio de 2020</date>. </p>
@@ -46,7 +46,8 @@
 </bibl></sourceDesc>
 </fileDesc>
 <encodingDesc n="eltec-1">
-<p/>
+<p>Counting words was performed with the Perl module
+<ref target="https://metacpan.org/pod/Lingua::PT::PLNbase">Lingua::PT::PLNbase</ref>, specifically with the "tokeniza" tokenizer.</p>
 </encodingDesc>
 
 
