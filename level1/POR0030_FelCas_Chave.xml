@@ -171,17 +171,17 @@
 <p>O preceptor, bom e honrado velho, que, trinta annos havia, professava com devoção o idioma de Cicero e Virgilio, observa a minha attenção; interroga-me curioso; reconhece e declara não ter discipulo que mais em cheio haja absorvido as suas doutrinas.</p>
 <p>D'essa hora em deante fui eu o filho adoptivo, o predilecto, o mimoso, do seu enthusiastico romanismo. Não só erudito de amplos cabedaes, mas poeta, poeta elle mesmo, poeta "utriusque linguæ", julgou reconhecer em mim, pelo modo como lhe eu traduzia as paginas inspiradas que elle me lia com fogo, e pela promptidão, sobre tudo, com que eu lhe restituia nos versos originaes os trechos que elle para isso me recitava das Musas cesáreas reduzidos a proza portugueza, julgou, digo, reconhecer uma indole fadada para a poesia; e pôz com generoso exforço peito a cultival-a.</p>
 <p>Tratar as Musas, e em particular as latinas, é desenvover a um tempo phantasia e sensibilidade:</p>
-<quote>
+<quote xml:lang="lat">
 <l> "......lecto carmine doctus amet."</l>
 </quote>
 <p>O poeta que assim cantára, logo ali se apossou de mim para toda a vida. O seu estudo, que eu nunca mais interrompi, que depois alarguei, e que ainda agora me é delicias, entrou pois como elemento energico, tanto como as amenidades do Paço do Lumiar, e os amores infantis de minha prima, na composição mysteriosa e providencial do meu verdadeiro destino, que nunca foi desde o principio, nem já agora póde ser outro até ao fim, senão, repito, a poesia.</p>
 <p>Meus irmãos passaram-me dentro em pouco de condiscipulos a discipulos; e o mais novo, Augusto, de discipulo a inseparavel. ¡Que annos! ¡Que annos esses! ¿Quem, tendo-os uma vez desfructado, os esqueceria em nenhum tempo, em nenhuma fortuna?!</p>
 <p>Augusto e eu, que afinal já éramos um só, fanatisados deveras com as grandiosidades heroicas, com as fabulas ridentes e floridas que nos surdiam de continuo ao excavarmos por aquelle mundo fossil e classico, pode-se dizer que nos naturalisámos Romanos antes de sermos Portugueses; fomos antiquarios enthusiastas na puericia; os cobres, que os d'aquella edade desbaratam em doces e brinquedos, convertiamol-os nós em qualquer "alfarrabio", que no frontispicio nos trouxesse um dos nomes Romanos immortaes, cuja ladainha sabiamos de cór, e recitavamos com veneração, desde o principio da "edade aurea" até ao cabo da "edade ferrea" e "lutea", desde Livio Andronico até aos escriptores já christãos, ultimas reliquias do Imperio e da lingua a desfazerem-se. Devoravamos tudo aquillo sem guia, sem escolha, temerariamente, mas com uma perseverança, com um affecto, com um encantamento, inexplicaveis. Excusavamos, repelliamos qualquer outro passatempo; visitas, passeios, tudo nos era enfadonho, comparado com a delicia de vaguearmos pela Italia velha, de ouvirmos os seus heroes pela bocca de Tito Livio, de entrarmos com Virgilio familiarmente no palacio rustico d'el-Rei Evandro, de nos espairecermos com elle, Calpurnio, e Nemesiano, por entre as amenidades campestres, e ouvirmos cantar Horacio n'um pomar da sua Tibur:</p>
-<quote>
+<quote xml:lang="lat">
 <l>"...... ad aquæ lene caput sacræ"</l>
 </quote>
 <p>coroando-nos como elle</p>
-<quote>
+<quote xml:lang="lat">
 <l>"...flore, terræ quem ferunt solutæ"</l>
 </quote>
 <p>ou de escutarmos suspiros e galanteios de Tibullo, Propercio, Gallo, Catullo e Ovidio. Ovidio mais que todos nos levava traz si as vontades. (Não prégo moral; historío).</p>
@@ -197,18 +197,111 @@
 <p>Na festa da Primavera, n'esses dias do amor só sensual e egoista, bem que innocente, ¿que pedia elle aos amigos para quando já não existisse?</p>
 <p>Deixae-me escutar n'um ecco d'alma aquelles versos:</p>
 <quote>
-<l>Depois que entre os abraços delirantes     de todos os que amei findar meus dias,     sepultae-me n'um valle ignoto e fertil.     Para marcar da sepultura o sitio,     sobre o cadaver que vos foi tão caro     mangeronas plantae, cuja verdura     em roda fecham variados lirios.     Na raiz funda da soberba olaia     poise a minha cabeça, e o tronco amigo     sobre mim curve a copa florescente.     Mil piteiras unidas, ostentando     na hastea vaidosa as flores amarellas,     em quadrado não grande me defendam     das incursões das cabras roedoras.     Em meu tronco se escreva este epitaphio:</l>
-<l>     "Foi poeta amador da Natureza:"        "d'entre as sombras ancioso a procurava,"        "qual terno amante a bella fugitiva."</l>
-<l>  Sobre isto pendurae sonora flauta,     que se revolva á discreção do vento.     Não cerque os ossos meus, não m'os ensombre,     nem teixo nem cipreste; arvores quatro     quizera só no meu jardim de morte.     N'um canto a laranjeira graciosa,     que mescla util e doce, a flor e o fructo;     n'outro a figueira sob as amplas folhas     modesta occulte seus nectáreos mimos;     defronte um pecegueiro em fructos mostre     que amavel é pudor, quando enche faces     de penugem subtil inda cobertas;     no ultimo canto... (a escolha me confunde)     plantae no ultimo canto uma ginjeira;     é a arvore da infancia, até na altura;     d'esta por sua mão colhe um menino     a mui ridente baga, e ri de ufano.     Alguns tempos depois que a fria terra     meus restos encerrar, á minha olaia     vós, meus amigos, vós dareis meu nome,     pois de mim se nutriu, e eu serei n'ella.</l>
-<l>  Dos guerreiros nos tumulos afiem     faminta espada os barbaros guerreiros;     no sepulcro do sabio o sabio estude;     e dos Reis nos marmoreos monumentos     vá sonhar a ambição grandeza e pompas;     vós soltos de freneticas loucuras     aqui vireis mil vezes visitar-me,     na amizade pensar que nos unira,     e unir-nos deverá transposto o Lethes.     ¿Por que me interrompeis com taes suspiros?     ¡ah! deixae-me acabar. Quando sentados     em torno a mim na flórida alcatifa,     guardardes meditando alto silencio,     se d'entre as mangeronas que me cobrem     sahir acaso a borboleta errante,     ¿não vereis n'ella o espirito do amigo     que vem gozar do sol a claridade?     Quando o suave rouxinol de noite     da minha olaia gorgear nos ramos,     ¿não pensareis, de santo horror tranzidos,     que feito rouxinol, meus cantos sólto?     Sim, pensareis, e erguendo-se inspirado     algum lhe ha-de bradar: «¡Oh! ¡meu amigo!»     Responderão: «Oh meu amigo» os bosques;     e vós direis que o meu phantasma errante,     da argentea lua á muda claridade,     á conhecida voz d'alem responde,     e em tudo encontrareis a imagem minha.</l>
-<l>  Se inda então meus costumes vos lembrarem,     se vos lembrar meu coração piedoso,     velae que em meu retiro as bellas aves     de caçador cruel cantem seguras;     Amor, o leve Amor, com arco d'oiro,     só elle, e mais ninguem logre atirar-lhes;     careço de amorosa melodia     que me poetize o somno derradeiro;     morto que nada tem, preciza d'estas     pobres delicias rusticas, se folga     que a namorada moça, o terno amante,     juntos, ou sós, a visitál-o acudam.     Então ao som de languidos suspiros,     de alegres cantos, de amorosos versos,     de ternas queixas, de perdões suaves,     muitas vezes contente a minha sombra,     formando ao pôr do sol vermelha nuvem,     girará n'estes ares revolvendo     da passada existencia almas lembranças.</l>
+<l>Depois que entre os abraços delirantes     </l>
+<l>de todos os que amei findar meus dias,     </l>
+<l>sepultae-me n'um valle ignoto e fertil.     </l>
+<l>Para marcar da sepultura o sitio,     </l>
+<l>sobre o cadaver que vos foi tão caro     </l>
+<l>mangeronas plantae, cuja verdura     </l>
+<l>em roda fecham variados lirios.     </l>
+<l>Na raiz funda da soberba olaia     </l>
+<l>poise a minha cabeça, e o tronco amigo     </l>
+<l>sobre mim curve a copa florescente.     </l>
+<l>Mil piteiras unidas, ostentando     </l>
+<l>na hastea vaidosa as flores amarellas,     </l>
+<l>em quadrado não grande me defendam     </l>
+<l>das incursões das cabras roedoras.     </l>
+<l>Em meu tronco se escreva este epitaphio:</l>
+<l>     "Foi poeta amador da Natureza:"        </l>
+<l>"d'entre as sombras ancioso a procurava,"        </l>
+<l>"qual terno amante a bella fugitiva."</l>
+<l>  Sobre isto pendurae sonora flauta,     </l>
+<l>que se revolva á discreção do vento.     </l>
+<l>Não cerque os ossos meus, não m'os ensombre,     </l>
+<l>nem teixo nem cipreste; arvores quatro     </l>
+<l>quizera só no meu jardim de morte.     </l>
+<l>N'um canto a laranjeira graciosa,     </l>
+<l>que mescla util e doce, a flor e o fructo;     </l>
+<l>n'outro a figueira sob as amplas folhas     </l>
+<l>modesta occulte seus nectáreos mimos;     </l>
+<l>defronte um pecegueiro em fructos mostre     </l>
+<l>que amavel é pudor, quando enche faces     </l>
+<l>de penugem subtil inda cobertas;     </l>
+<l>no ultimo canto... (a escolha me confunde)     </l>
+<l>plantae no ultimo canto uma ginjeira;     </l>
+<l>é a arvore da infancia, até na altura;     </l>
+<l>d'esta por sua mão colhe um menino     </l>
+<l>a mui ridente baga, e ri de ufano.     </l>
+<l>Alguns tempos depois que a fria terra    </l>
+<l>meus restos encerrar, á minha olaia     </l>
+<l>vós, meus amigos, vós dareis meu nome,     </l>
+<l>pois de mim se nutriu, e eu serei n'ella.</l>
+<l>  Dos guerreiros nos tumulos afiem     </l>
+<l>faminta espada os barbaros guerreiros;     </l>
+<l>no sepulcro do sabio o sabio estude;     </l>
+<l>e dos Reis nos marmoreos monumentos     </l>
+<l>vá sonhar a ambição grandeza e pompas;     </l>
+<l>vós soltos de freneticas loucuras     </l>
+<l>aqui vireis mil vezes visitar-me,     </l>
+<l>na amizade pensar que nos unira,     </l>
+<l>e unir-nos deverá transposto o Lethes.     </l>
+<l>¿Por que me interrompeis com taes suspiros?     </l>
+<l>¡ah! deixae-me acabar. Quando sentados     </l>
+<l>em torno a mim na flórida alcatifa,     </l>
+<l>guardardes meditando alto silencio,     </l>
+<l>se d'entre as mangeronas que me cobrem     </l>
+<l>sahir acaso a borboleta errante,     </l>
+<l>¿não vereis n'ella o espirito do amigo     </l>
+<l>que vem gozar do sol a claridade?     </l>
+<l>Quando o suave rouxinol de noite     </l>
+<l>da minha olaia gorgear nos ramos,     </l>
+<l>¿não pensareis, de santo horror tranzidos,     </l>
+<l>que feito rouxinol, meus cantos sólto?     </l>
+<l>Sim, pensareis, e erguendo-se inspirado     </l>
+<l>algum lhe ha-de bradar: «¡Oh! ¡meu amigo!»     </l>
+<l>Responderão: «Oh meu amigo» os bosques;     </l>
+<l>e vós direis que o meu phantasma errante,     </l>
+<l>da argentea lua á muda claridade,     </l>
+<l>á conhecida voz d'alem responde,     </l>
+<l>e em tudo encontrareis a imagem minha.</l>
+<l>  Se inda então meus costumes vos lembrarem,     </l>
+<l>se vos lembrar meu coração piedoso,     </l>
+<l>velae que em meu retiro as bellas aves     </l>
+<l>de caçador cruel cantem seguras;     </l>
+<l>Amor, o leve Amor, com arco d'oiro,     </l>
+<l>só elle, e mais ninguem logre atirar-lhes;     </l>
+<l>careço de amorosa melodia     </l>
+<l>que me poetize o somno derradeiro;     </l>
+<l>morto que nada tem, preciza d'estas     </l>
+<l>pobres delicias rusticas, se folga     </l>
+<l>que a namorada moça, o terno amante,     </l>
+<l>juntos, ou sós, a visitál-o acudam.     </l>
+<l>Então ao som de languidos suspiros,     </l>
+<l>de alegres cantos, de amorosos versos,     </l>
+<l>de ternas queixas, de perdões suaves,     </l>
+<l>muitas vezes contente a minha sombra,     </l>
+<l>formando ao pôr do sol vermelha nuvem,     </l>
+<l>girará n'estes ares revolvendo     </l>
+<l>da passada existencia almas lembranças.</l>
 </quote>
 <p>Andaram tempos. Amores mais serios, mais vastos, mais duradoiros, mais uteis, ainda que menos entendidos das turbas a quem se referiam, inspiraram já outros desejos:</p>
 <quote>
-<l>  Ó terra de Colombo, um navio de esmola     do abysmo te evocou, e aurea brotaste á luz.     Por outra regia Heroina esmolada uma escola     vai transformar-te em ceos, terra de Santa Cruz.</l>
-<l>  E eu, que já uma vez, largando o patrio ninho,     romeiro do progresso em balde te busquei,     retomarei de novo o undívago caminho,     e irei juntar meu hymno ao seu triumpho; irei</l>
-<l>  pender na escola-templo os festões da poesia,     e, novo Simeão, findar a vida em paz.     Onde o homem que se humana affoito invoca o dia     direi: -- «A patria é esta; aqui viver me apraz;</l>
-<l>  «apraz-me aqui morrer, onde as mães porventura     co'os filhos pela mão me hão-de vir visitar;     saudades esparzir na minha sepultura,     e dizer: "Este sim, que soube o que era amar."»</l>
+<l>  Ó terra de Colombo, um navio de esmola     </l>
+<l>do abysmo te evocou, e aurea brotaste á luz.     </l>
+<l>Por outra regia Heroina esmolada uma escola     </l>
+<l>vai transformar-te em ceos, terra de Santa Cruz.</l>
+<l>  E eu, que já uma vez, largando o patrio ninho,     </l>
+<l>romeiro do progresso em balde te busquei,     </l>
+<l>retomarei de novo o undívago caminho,     </l>
+<l>e irei juntar meu hymno ao seu triumpho; irei</l>
+<l>  pender na escola-templo os festões da poesia,     </l>
+<l>e, novo Simeão, findar a vida em paz.     </l>
+<l>Onde o homem que se humana affoito invoca o dia     </l>
+<l>direi: -- «A patria é esta; aqui viver me apraz;</l>
+<l>  «apraz-me aqui morrer, onde as mães porventura     </l>
+<l>co'os filhos pela mão me hão-de vir visitar;     </l>
+<l>saudades esparzir na minha sepultura,     </l>
+<l>e dizer: "Este sim, que soube o que era amar."»</l>
 </quote>
 <p>Passaram tempos ainda, e até essa esperança consolativa se desfloriu. Ouvi o esmorecimento não já cantar, mas gemer, no seio da amizade:<ref target="#POR0030-nota-1"/></p>
 <p>«Depois vem a reparação, a rehabilitação, não ha duvida. Do sepulcro brota o loiro, e a posteridade amarra a elle os inimigos dos amigos dos homens, os areopagitas idolatras envenenadores dos Socrates crentes. Mas as cinzas não sentem; as estatuas não vêem nem ouvem.</p>
@@ -298,7 +391,7 @@
 <p>Tal foi, mas em phrase chan, e sem atavios de estylo, a substancia da minha resposta: enigma contra enigma, oraculo contra oraculo.</p>
 <p>N'este vago, de que um e outro, por motivos differentes, mas com egual cautella, evitavamos deslisar para o positivo, se foi continuando, cada vez mais frequente, mais ampla, mais amigavel, mais sincera, e mais interessante, a nossa correspondencia.</p>
 <p>Se quem escrevia era aquillo que eu desejava, devia estar contente de mim; se era outro, e mal benevolo, o empenho que dirigia aquella penna, esquivava-lhe eu escrupulosamente os azos para triumphos. Eu por minha parte estava satisfeito de mim, e encantado com tudo quanto se me ia de novo de dia a dia descobrindo de perfeições na minha Galatéa, que, ao exemplo da de Virgilio, me atirára a maçan refugiando-se para os salgueiros; entrevia-a eu por entre as ramas; não a chegava ainda a conhecer de todo, mas differençava já com evidencia, que não era satyro travesso, mas sim nympha, namorada e negaceadora como os passaros:</p>
-<quote>
+<quote xml:lang="lat">
 <p>  .............................."lasciva puella".</p>
 </quote>
 <p>Não descontinuavam, no emtanto, diligencias para se descobrir o esconderijo, em que se homisiava sempre que se presumia ir-lhe já lançar a mão á ponta do veo. Com a obstinação do mysterio, recrescia o affinco das pesquizas.</p>
@@ -344,14 +437,40 @@
 <p>¿Não era tudo isto mais que bastante para merecer á mãe do amor um prodigio sem exemplo, e que a ficasse glorificando nas lyras namoradas de todo o mundo?...</p>
 <p>Acabava um dia o Principe de queimar aos pés de Venus, segundo o seu costume de todas as manhans, uma copiosa oblação do mais puro incenso. Tinha regado o fogo, em que elle fumava n'uma amphora de bronze, com vinho amadurecido havia cem annos pelos oiteiros pampinosos de Chypre, e reservado em talhas de barro para sacrificios aos deuses maximos. Tomada respeitosamente venia da Immortal, transporta por suas mãos o vaso depositario do fogo para deante de Galatéa. Quer offerecer-lhe, ainda que em segundo logar, porção igual, tanto da rescendente massa, orgulho da Arabia, como do liquido generoso. Enganou-se-lhe a mão no incenso, e lançou nas brazas porção avantajada. Venus sorriu, e não se agastou. As distracções do amor, ninguem melhor do que ella as conhece por experiencia.</p>
 <p>Emquanto o veo alvacento do innebriante fumo, elevando-se d'ante o pedestal da nympha, a envolvia toda, e tornava a sua presença mais celestial, Pygmalião, acompanhando-se com a lyra de sete cordas, cantava de joelhos um hymno, que as pombas escutavam n'um silencio religioso; pareciam querer decorál-o para o repetirem á sua rainha, quando ella se jazesse em amoroso ocio, reclinada sobre as violetas em algum secreto pavilhão de rosaes da sua Paphos:</p>
-<p>   -- Tu que exhalas de ti, qual vérte a rosa aromas,     effluvios de prazer, universal ternura,     Mãe das Graças e Amor, deusa da formosura,     que envolves a nudez co'o veo das aureas comas,</p>
-<p>  Venus; pois que são teus os ceos, a terra, os mares,     e até ás sombras do Orço abrange o teu poder,     lança um propício olhar, Venus, aos meus pezares;     do teu jugo me solta, ou dá-me emfim morrer.</p>
-<p>  Com tão cruel supplicio, ignoto á humanidade,     ria teu filho em vão, tu, deusa, és mais piedosa.     Ardo por uma pedra em chamma vergonhosa,     perdi a paz e a gloria, o siso e a liberdade.</p>
-<p>  Qualquer ente alardeia ufano os seus amores:     a ave, piando; o peixe, aos pulos pelo mar;     o rebanho, mugindo; em cantos os pastores;     e eu, Venus, só a ti ouso este ardor mostrar.</p>
-<p>  ¡Quão menos insensato o moço do Cephyso     se finou por si mesmo ao pé do espelho aquoso!     Suppoz a sombra nympha; espera ser ditoso;     cai no engano; perece; apiadas-te, é Narciso.</p>
-<p>  E eu, eu sei que a beldade, iman d'est'alma ardente,     só a mim deve o ser; nasceu de minha mão;     não me ouve, não me vê, não se condoe, não sente;     não lhe pude formar lá dentro um coração.</p>
-<p>  ¡Ó Venus! se ha mulher que eu possa crer retrato     do immenso que sonhei compondo a Galatéa,     revela-me onde habita a amavel Semidéa;     assim teu filho Amor jamais te offenda ingrato.</p>
-<p>  Seja embora pastora, obscura, humilde, escrava;     terá por choça um throno, e por captivo um Rei;     e eu, já salvo da insania, eu, que a teus pés chorava,     a ti uma hecatomba alegre immolarei.» -- </p>
+<quote>
+<l>   -- Tu que exhalas de ti, qual vérte a rosa aromas,     </l>
+<l>effluvios de prazer, universal ternura,     </l>
+<l>Mãe das Graças e Amor, deusa da formosura,     </l>
+<l>que envolves a nudez co'o veo das aureas comas,</l>
+<l>Venus; pois que são teus os ceos, a terra, os mares,     </l>
+<l>e até ás sombras do Orço abrange o teu poder,     </l>
+<l>lança um propício olhar, Venus, aos meus pezares;     </l>
+<l>do teu jugo me solta, ou dá-me emfim morrer.</l>
+<l> Com tão cruel supplicio, ignoto á humanidade,     </l>
+<l>ria teu filho em vão, tu, deusa, és mais piedosa.     </l>
+<l>Ardo por uma pedra em chamma vergonhosa,     </l>
+<l>perdi a paz e a gloria, o siso e a liberdade.</l>
+<l>Qualquer ente alardeia ufano os seus amores:     </l>
+<l>a ave, piando; o peixe, aos pulos pelo mar;     </l>
+<l>o rebanho, mugindo; em cantos os pastores;     </l>
+<l>e eu, Venus, só a ti ouso este ardor mostrar.</l>
+<l>¡Quão menos insensato o moço do Cephyso     </l>
+<l>se finou por si mesmo ao pé do espelho aquoso!     </l>
+<l>Suppoz a sombra nympha; espera ser ditoso;     </l>
+<l>cai no engano; perece; apiadas-te, é Narciso.</l>
+<l>E eu, eu sei que a beldade, iman d'est'alma ardente,     </l>
+<l>só a mim deve o ser; nasceu de minha mão;     </l>
+<l>não me ouve, não me vê, não se condoe, não sente;     </l>
+<l>não lhe pude formar lá dentro um coração.</l>
+<l>¡Ó Venus! se ha mulher que eu possa crer retrato     </l>
+<l>do immenso que sonhei compondo a Galatéa,     </l>
+<l>revela-me onde habita a amavel Semidéa;     </l>
+<l>assim teu filho Amor jamais te offenda ingrato.</l>
+<l>Seja embora pastora, obscura, humilde, escrava;     </l>
+<l>terá por choça um throno, e por captivo um Rei;     </l>
+<l>e eu, já salvo da insania, eu, que a teus pés chorava,     </l>
+<l>a ti uma hecatomba alegre immolarei.» --</l>
+</quote>
 <p>Ainda bem não findára a prece, quando lhe pareceu notar nos labios da Immortal um sorriso auspicioso. O Cupido, que junto d'ella estava em pé, e que era tambem obra de suas mãos, agitou as azas de marmore, soprou as labaredas petrificadas do facho, que instantaneamente coruscaram, e rompendo por entre a cortina do incenso, que ainda envolvia a nympha, lhe lustrou com o milagroso calor a fronte, os olhos, as faces, a bocca, o seio, o coração. Ao fogo d'este segundo e divino Prometheu, a estatua estremece; a pallida brancura se tinge da côr da vida; o peito palpita; os olhos se voltam para o céo da Grecia, que logo os embebe do seu mais brilhante azul; baixam sobre Venus; ¡parecem attonitos! descem; ¡encontram-se com os de Pygmalião! duas rosas subitas se abrem nas faces; o sorriso, aurora de uma existencia de amores, alvorece em labios nacarados.</p>
 <p>-- «¡Filha dos meus sonhos!» «¡Galatéa! -- » exclama o artista delirante, correndo a tomál-a em braços, ao vel-a descer do pedestal. «Galatéa, ¡filha dos meus sonhos! ¡se é esta uma nova illusão que Morpheu me envia, compassivo, mas cruel, possa eu não acordar jámais!»</p>
 <p>¿Vistes vós alguma vez rasgar um dia magnifico depois de uma noite profunda? ¿Notastes como então sahiam do nada as amenidades das terras e dos rios, a animação e o movimento dos campos e das cidades, as côres, os cantares e as esperanças? assim, repassada a subitas de calor e luz pelo sol dos espiritos, pelo amor, a alma recemnascida de Galatéa adivinhou para logo a adoração de que era alvo. Comprehendeu a turbação que inspirava, pela que sentia. Viu nas profundezas interiores do seu ser, diaphanas como um lago limpido, a sua pureza virginal, a sua magica-branca, a sua suavidade irresistivel, o seu destino de ser feliz felicitando.</p>
@@ -360,7 +479,7 @@
 </div><div type="chapter"><head>XXV</head>
 <p>Despidos os accessorios esplendidos e sobrenaturaes, a fabula de Pygmalião reproduziu-se na minha historia; o simulacro que eu incensára e servira, o simulacro filho da minha imaginação, era emfim mulher; mulher amante, capaz de bemaventurar-me, e desejosa de o fazer. Só a Philoméla do platano, e o hymeneu, andavam ainda tão longe e tão emboscados nas brenhas do futuro, que eu mesmo não ousava crer-lhes bem deveras na existencia.</p>
 <p>Entretanto, como a encarnação e os sentimentos do meu idolo para commigo eram innegaveis, começou logo a haver entre nós uma especie de semi-consorcio tacito; era já a communidade dos corações, se não era ainda a dos somnos, visto que o bom Ducis, chamou ao casamento</p>
-<p>  "Douce communauté de coeurs et de sommeils."</p>
+<p xml:lang="fra">  "Douce communauté de coeurs et de sommeils."</p>
 <p>As nossas mutuas confidencias passaram a ser, por minha parte, o que por parte d'ella desde o principio tinham sido: reservadas inteiramente de ouvidos extranhos e curiosos. Com isso lucraram muito maior affoiteza, e um novo encanto, que nos concitou a ampliál-as de dia a dia.</p>
 <p>Quanto é dado a ausentes conhecerem-se, conhecemo-nos. Pelas mutuas e circumstanciadas descripções que trocámos das nossas vivendas, dos nossos gostos, do emprego das nossas horas, e de todos os nossos pensamentos, podemos, como sylpho e sylphide, visitar-nos de continuo. Estavamos simultaneamente: eu junto d'ella, no seu mosteiro; ella commigo, no meu castello. Já não havia lá nem cá, ladrilho de pavimento, nem abobada, accidentes de luz ou sombra, movel ou planta, que nos não fosse familiar. Via ella gostosa ao meu lado, o irmão inseparavel que me excitava a querer-lhe, a amál-a, com a mesma espontaneidade com que me acompanhava nas outras excursões poeticas; eu, achava ao pé d'ella a Religiosa sua intima, que a vira crescer, que a estremecia como a filha e irman, que a ajudava com os seus conselhos, a protegia como Anjo da guarda, se revia na sua bondade e no seu talento, e que, apesar de não saber como viveria se a perdesse, nem por isso apressava menos com os seus votos o momento de m'a entregar.</p>
 <p>Assim mesmo, ¡grande era na verdade a minha solidão! mas tenho que a de Maria era ainda mais profunda, poetica, e enamorada.</p>
@@ -410,7 +529,7 @@
 <p>Vairão era de antigos tempos uma das casas religiosas da especie média entre os dois extremos, uma das poucas em que as familias piedosas e discretas punham confiadamente suas filhas a educar, para depois as reconduzirem ao mundo, graves sem fanatismo, puras sem mingua na sensibilidade, mulheres emfim, quanto mulheres o podem sêr, anjos perfumados em paraizo.</p>
 <p>Havia em Vairão outras educandas e seculares. Todas ellas, assim como as religiosas, davam a Maria a preferencia do seu affecto, sem que uma unica pensasse em lh'o invejar. É porque a doçura da sua indole fazia esquecer a superioridade do seu espirito.</p>
 <p>Ás prendas manuaes, em que primava, reunia o gôsto da leitura, até algum tanto o do estudo, e a meditação reflexiva, que extrema em cada escripto, como em cada conversação, o verdadeiro do supposto, e o proficuo do prejudicial:</p>
-<quote>
+<quote xml:lang="lat">
 <l>  "Florigeros ut apes per saltus......"</l>
 </quote>
 <p>Entretanto, dotada de um tacto verdadeiramente feminino, possuia a grande e difficil arte de se mostrar ao nivel do commum do seu sexo, quando mesmo as ideias que expunha desciam o vôo de mais alta esfera. Um veo de modestia, que ás vezes chegava a parecer timidez e acanhamento, temperava, por assim dizer, o brilho do seu saber, da sua imaginação, e do seu juizo, para não offender a miopía dos espiritos vulgares. Era-lhe até facil e usual o calar-se, simulando ignorar as coisas que melhor sabia, quando se arreceiava de humilhar a vaidade de quem quer que fosse; o que não tolhia que até as mais edosas a tomassem por conselheira, convencidas, pela experiencia, de que ninguem calculava com mais acerto do que ella, de que ninguem poderia guiar por mais seguro caminho a um alvo honesto e proveitoso.</p>
@@ -432,23 +551,73 @@
 <p>Ella e elle podem exclamar como S. Bernardo: -- "¡O beata solitudo! ¡o sola beatitudo!" -- porque para um e para a outra o ermo é egualmente povoado por um phantasma luminoso: lá, pela imagem de Laura; cá, pela de Jesus; dois verdadeiros ideaes dos amores ao mesmo tempo mais ferventes e mais castos.</p>
 <p>Petrarcha, sabe que não ha-de gosar Laura em toda a vida; espera e anceia, como Theresa, pelas bodas celestes.</p>
 <p>Theresa, desafoga a sua impaciencia, como Petrarcha, em jaculatorias tão mimosas, que a Esposa dos cantares se deteria para lh'as ouvir.</p>
-<quote>
+<quote xml:lang="ita">
 <l>        O POETA</l>
-<l>    Tennemi Amor anni ventuno ardendo     Lieto nel foco, e nel duol pien di speme,     Poi che Madonna, e'l mio cor seco insieme     Saliro al Ciel, dieci altri anni piangendo.</l>
-<l>    Ornai son stanco, e mia vita riprendo     Di tanto error; che di virtute il seme     Ha quasi spento; e le mie parti estreme,     Alto Dio, a te divotamente rendo.</l>
-<l>    Pentito e tristo de' miei si spesi anni,     Che spender si doveano in miglior uso,     In cercar pace, ed in fuggir affanni,</l>
-<l>    Signor, che 'n questo carcer m' hai rinchiuso,     Trammene salvo dagli eterni danni,     Ch'i 'conosco 'l mio fallo, e non lo scuso.</l>
+<l>    Tennemi Amor anni ventuno ardendo     </l>
+<l>Lieto nel foco, e nel duol pien di speme,     </l>
+<l>Poi che Madonna, e'l mio cor seco insieme     </l>
+<l>Saliro al Ciel, dieci altri anni piangendo.</l>
+<l>    Ornai son stanco, e mia vita riprendo     </l>
+<l>Di tanto error; che di virtute il seme     </l>
+<l>Ha quasi spento; e le mie parti estreme,     </l>
+<l>Alto Dio, a te divotamente rendo.</l>
+<l>    Pentito e tristo de' miei si spesi anni,     </l>
+<l>Che spender si doveano in miglior uso,     </l>
+<l>In cercar pace, ed in fuggir affanni,</l>
+<l>    Signor, che 'n questo carcer m' hai rinchiuso,     </l>
+<l>Trammene salvo dagli eterni danni,     </l>
+<l>Ch'i 'conosco 'l mio fallo, e non lo scuso.</l>
+</quote>
+<quote xml:lang="esp">
 <l>           A RELIGIOSA</l>
-<l>    ¡Ay! ¡que larga es esta vida!     ¡que duros estos destierros,     esta carcel, y estos hierros,     en que está el alma metida!     solo esperar la salida     me causa un dolor tan fiero,     que muero porque no muero.</l>
-<l>    Acaba yà de dexarme,     vida, no me seas molesta;     porque muriendo, ¿que resta,     sino vivir, y gozarme?     No dexes de consolarme,     muerte, que assi te requiero,     que muero porque no muero.</l>
+<l>    ¡Ay! ¡que larga es esta vida!     </l>
+<l>¡que duros estos destierros,     </l>
+<l>esta carcel, y estos hierros,     </l>
+<l>en que está el alma metida!     </l>
+<l>solo esperar la salida     </l>
+<l>me causa un dolor tan fiero,     </l>
+<l>que muero porque no muero.</l>
+<l>    Acaba yà de dexarme,     </l>
+<l>vida, no me seas molesta;     </l>
+<l>porque muriendo, ¿que resta,     </l>
+<l>sino vivir, y gozarme?     </l>
+<l>No dexes de consolarme,     </l>
+<l>muerte, que assi te requiero,     </l>
+<l>que muero porque no muero.</l>
+</quote>
+<quote xml:lang="ita">
 <l>           O POETA</l>
-<l>    Io vo piangendo i miei passati tempi,     I quai posi in amar cosa mortale,     Senza levarmi a volo, avend' io l' ale,     Per dar forse di me non bassi esempi.</l>
-<l>    Tu, che vedi i miei mali indegni, ed empi,     Rè del Cielo invisibile, immortale,     Soccorri all'alma disviata, e frale,     Él suo difetto di tua grazia adempi.</l>
-<l>    Sicchè, s' io vissi in guerra, ed in tempesta,     Mora in pace, ed in porto; e se la stanza     Fu vana, almen sia la partita onesta.</l>
-<l>    A quel poço di viver che m' avanza,     Ed al morir, degni esser tua man presta:     Tu sai ben, che 'n altrui non ho speranza.</l>
+<l>    Io vo piangendo i miei passati tempi,     </l>
+<l>I quai posi in amar cosa mortale,     </l>
+<l>Senza levarmi a volo, avend' io l' ale,     </l>
+<l>Per dar forse di me non bassi esempi.</l>
+<l>    Tu, che vedi i miei mali indegni, ed empi,     </l>
+<l>Rè del Cielo invisibile, immortale,     </l>
+<l>Soccorri all'alma disviata, e frale,     </l>
+<l>Él suo difetto di tua grazia adempi.</l>
+<l>    Sicchè, s' io vissi in guerra, ed in tempesta,     </l>
+<l>Mora in pace, ed in porto; e se la stanza     </l>
+<l>Fu vana, almen sia la partita onesta.</l>
+<l>    A quel poço di viver che m' avanza,     </l>
+<l>Ed al morir, degni esser tua man presta:     </l>
+<l>Tu sai ben, che 'n altrui non ho speranza.</l>
+</quote>
+<quote xml:lang="esp">
 <l>           A RELIGIOSA</l>
-<l>    Ay! que vida tan amarga     dò no se goza el Señor!     Y si es dulce el amor,     no lo es la esperanza larga.     Quiteme Dios esta carga,     mas pesada que de azero,     que muero porque no muero.</l>
-<l>    Solo con la confianza     vivo de que he de morir:     porque muriendo el vivir     me assegura mi esperanza.     Muerte, dó el vivir se alcanza,     no te tardes, que te espero,     que muero porque no muero.</l>
+<l>    Ay! que vida tan amarga     </l>
+<l>dò no se goza el Señor!     </l>
+<l>Y si es dulce el amor,     </l>
+<l>no lo es la esperanza larga.     </l>
+<l>Quiteme Dios esta carga,     </l>
+<l>mas pesada que de azero,     </l>
+<l>que muero porque no muero.</l>
+<l>    Solo con la confianza     </l>
+<l>vivo de que he de morir:     </l>
+<l>porque muriendo el vivir     </l>
+<l>me assegura mi esperanza.     </l>
+<l>Muerte, dó el vivir se alcanza,     </l>
+<l>no te tardes, que te espero,     </l>
+<l>que muero porque no muero.</l>
 </quote>
 <p>¿Não parecem duas rôlas melancolicas respondendo-se lá do fundo de suas apartadas espessuras? E ainda n'este momento foi mais o cançaço da vida que lhes escutastes, do que verdadeiramente o impeto dos seus amores; esse é tal, que a muitos periodos da prosa da Hespanhola só falta mudar-se o nome de Jesus no de Saint-Preux, por exemplo, para se imaginar que se está ouvindo Julia de Wolmar; ao mesmo passo que muitos sonetos e canções do Italiano, trocado o nome de Laura no da Rainha dos Anjos, e encorporando-se n'um horario, muitos olhos devotos os regariam com lagrimas.</p>
 <p>"Valchiusa" ou, como dizem, "Voclusa", onde Petrarcha passa tantos annos sonhando com o espectro, primeiro de uma viva, que não vive para elle, e depois, de uma defuncta que nunca para elle morrerá, Valchiusa é para todos brenha alpestre, cavernosa, brava, despovoada, mas é vergel e universo para elle, e o casebre do seu refugio, palacio oriental.</p>
@@ -487,7 +656,7 @@
 <p>O cantor apaixonado era o proprio heroe dos seus cantos. A historia que celebrava, em termos vagos, mysteriosos, sem referencia a nomes certos de pessoas nem logares, não era d'estas que podem ser vistas em quanto se operam; não se compunha de actos exteriores; corria toda no mundo dos espiritos; entrevia-se apenas sob um veo de mysticismo, muito similhante áquelle com que a linguagem theologica obumbrava os mysterios da Religião; percebia-se sempre pelo fundo da scena ir e vir uma figura de mulher, encarregada de algum papel singular. ¿Mas quem era ella? Ninguem o affirmaria. ¿Amava? sabia-se que era adorada; sabia-se que o merecia; nada mais.</p>
 <p>O espirito do adorador attrahido, mas ao mesmo tempo intimidado, pela auréola, esvoaçava-se-lhe em roda, ora mais perto, ora mais longe, esperando e desesperando, impondo silencio aos sentidos, e cilicio aos appetites, sem de todo os poder domar; feliz como um anjo, infeliz como um demonio; invejando toda a especie de glorias para merecer, invejando a paz dos mortos para descançar; maldizendo e apertando os laços; misturando, como as creanças, o riso com as lagrimas; e não admittindo para confidente senão as arvores e o vento, os rios, as flores, e as estrellas.</p>
 <p>Tal foi o trovar nas eras juvenis dos enthusiasmos, quando os homens que não eram cavalleiros eram poetas, os que não eram poetas eram menestreis; quando a mulher na Europa tinha um altar, e Christo na Asia um sepulcro, e a devoção d'aquelle sepulcro e a d'este altar traziam em fluxo e refluxo contínuo as povoações. ¡Extraordinarios tempos, em que a heroicidade era lyrica, e as fraquezas heroicas! tempos extraordinarios, resumidos em dois versos pelo seu chronista epico, o Ariosto:</p>
-<quote>
+<quote xml:lang="ita">
 <l>  "Le donne, i cavalier, l'arme, gl'amori,"     </l>
 <l>"Le cortesie, l'audaci imprese io canto."</l>
 </quote>
@@ -500,7 +669,7 @@
 </div><div type="chapter"><head>XXXII</head>
 <p>Aqui uma voz imperiosa da consciencia me intíma que não demore por mais tempo uma solemne reparação. Faço-a de joelhos abraçado a um cipreste. Concluida ella, espero que me levantarei da terra alliviado.</p>
 <p>Os ciumes que obscurecem a ultima parte d'estes cantos, existiram sim;</p>
-<quote>
+<quote xml:lang="lat">
 <l>  "........quis enim securus amavit?"</l>
 </quote>
 <p>mas causa, mas pretexto, mas sombra de pretexto para as suspeitas, nunca jámais a encontrei no pobre Anjo que eu flagellava. ¿Mentia eu pois? ¿Calumniava para ser algoz? ¡Longe tão infame supposição!</p>
@@ -564,7 +733,14 @@
 <p>  "o gôsto de escrever que vou perdendo;"</p>
 <p>nem aquella estancia, que ainda nos faz córar por nossos bisavós:</p>
 <quote>
-<l>  Vão os annos descendo, e já do estio     há pouco que passar até o outono;     a fortuna me faz o engenho frio,     do qual já me não jacto, nem me abono;     os desgostos me vão levando ao rio     do negro esquecimento, e eterno sono;     mas tu me dá que cumpra, ó grão Rainha     das Musas, co'o que quero á Nação minha.</l>
+<l>  Vão os annos descendo, e já do estio     </l>
+<l>há pouco que passar até o outono;     </l>
+<l>a fortuna me faz o engenho frio,     </l>
+<l>do qual já me não jacto, nem me abono;     </l>
+<l>os desgostos me vão levando ao rio     </l>
+<l>do negro esquecimento, e eterno sono;     </l>
+<l>mas tu me dá que cumpra, ó grão Rainha     </l>
+<l>das Musas, co'o que quero á Nação minha.</l>
 </quote>
 <p>O que tu pedias á Rainha fabulosa das Musas, haver-t'o-hia liberalisado, sem rogos, a esclarecida previdencia da Nação, então devéras tua, e de todos os que, como tu, se desvelam pela engrandecer.</p>
 </div><div type="chapter"><head>XXXVII</head>
@@ -575,7 +751,7 @@
 <p>A "Rega dos pomares", deu-m'a ao descahir de um dia de verão a quinta suburbana das Setes Fontes.</p>
 <p>A "Noite do estio", passou-se me tal em realidade na quinta de Santa Margarida, n'um cedral que lá havia n'esse tempo, e já não ha, bem ao rés do Mondego. Era a noite (¡se podiam esquecer coisas d'estas!) era a classica noite da romaria annual do Senhor da Serra, quando bandos de peregrinos e peregrinas de longe, de muito longe, trajados de gala á moda de suas terras, enramados de verde, seguindo as violas, e alternando nas cantigas a devoção e os amores, veem pernoitar na cidade, pelas varzeas, pela ponte, pelas quintas, para seguirem juntos para a serra em começando o primeiro desmaiar de estrella na antemanhan.</p>
 <p>Até a "Feiticeira" (¡quem o crêra! crel-o-hão agora, porque de vergonhas ficticias ninguem se jacta) a "Feiticeira" mesma teve, sob os enfeitos ou disfarces da poesia, o seu fundo de realidade. Morava a boa da velha n'um casebre escuro da rua da Figueirinha; tinha fama, n'esse tempo, de ser uma das sibyllas que melhor atinavam com os futuros, e com mais certeira mão pescavam o perdido nos abysmos do passado. Rira-me eu sempre de gente d'esse lote, e espanto-me hoje de quem se não ri d'ella; mas poeta, criado com os supersticiosos Romanos, amante e com tão poucas certezas fixas a que me apegar, disse um dia entre mim:</p>
-<quote>
+<quote xml:lang="lat">
 <l>  "................... quid tentasse nocebit?"</l>
 </quote>
 <p>e dirigi-me para a nova Cumas, como podéra ter ido á tôa para outro qualquer passeio. Colhi prognosticos ruins; não lhes dei fé, mas sahi triste. O tempo (bem haja elle) os desmentiu de todo o ponto.</p>
@@ -589,7 +765,7 @@
 <p>¡Nada mais avêsso ás amenidades que nos ficavam em Coimbra! ¡solo magro, ondado, mattagoso, ermo, roto de quebradas e algares, selvoso por intervallos, salpicado a longe e longe de alguma escassa póvoa recoberta de loisas ou de feno, e retalhado de rios e ribeiros profundos e pedregosos! ¡No descampado um passal, antiga quinta das Limeiras dos Condes da Feira, que ali se iam pelos verões montear javardos! ¡Ao centro do passal, e á beira da via publica, o templo de S. Mamede com seu adro arrelvado cingido de cerejeiras, platanos e nogueiras! ¡Por detraz do templo, emboscada, a residencia parochial! ¡Por detraz d'ella despenhadeiros até um rio, que o sol não avista em cada dia por mais de uma hora!</p>
 <p>Repicavam os sinos dando as boas vindas ao novo Pastor.</p>
 <p>-- «¿Onde está a freguezia?» perguntavamos nós maravilhados:</p>
-<quote>
+<quote xml:lang="lat">
 <l>"¿Qui teneant (nam inculta videt) hominesne, feræne?"</l>
 </quote>
 <p>-- «Dispersa, escondida pelos oiteiros, a uma parte e a outra, distancias muito largas.» O unico visinho proximo da egreja e do presbyterio era, lá para a orla do passal, S. Sebastião na capellinha branca, como que posto de guarda á sua profusa e rumorosa matta de sobreiros.</p>
@@ -599,30 +775,176 @@
 <p>Se o permittis, ouvir-lhe-heis versos em que procurou desabafar:</p>
 <quote>
 <l>                  A PRIMEIRA NOITE NA SERRA</l>
-<l>          ".................ibi hæc incondita solus"             "Montibus et silvis studio jactabat inani."</l>
-<l>  ¿Vélo? ¿Sonho? ¿Deliro?! Em solitario monte,     que se espanta de ver-me, e cuja austéra fronte     nada avistou jamais no amplissimo horizonte     do mundo a tumultuar, de cidades a rir...             n'este ermo ignaro, frio? mudo...     aqui... (¿deliro? ¿ou sonho?) aqui meu lar, meu tudo,             ¡o meu presente e o meu porvir!             Genio invisivel da montanha,             de astros, de sol, o ceo te banha;             o mar de longe te acompanha             no livre cantico sem fim.     Escada de Jacob da terra ao firmamento,             a mansão tua é monumento     da potencia, do amor, das glorias d'Eloïm.</l>
-<l>  Emquanto, em derredor do solio teu sublime,     a baixa terra vil que a instavel sorte opprime,     se volve, se transforma, e sua angustia exprime     n'um continuo anhelar, n'um confuso clamor,             a variedades sobranceiro     mantens-te qual surgiste, e do cahos primeiro,             e do diluvio assolador.</l>
-<l>          Silencio e paz comtigo habita;             o ermo é como o eremita;             loucas vaidades não cogita;             ama o seu rustico trajar;     em apparente inercia ama que ferva occulto             de seus affectos o tumulto,     seus extasis, seus ais, seus gostos, seu orar.</l>
-<l>  Sim, Genio da montanha, Archanjo de poesia:     eu creio em ti; eu creio em que alma ingenua, pia,     póde ouvir de tua harpa a casta melodia,     e abrazar-se de amor e endoidecer por ti;             sim; mas eu, frivolo, profano,     á solidão extranho, affeito ao mundo insano,             ¿que hei de esperar? ¿que tenho aqui?</l>
-<l>          ¿Toda a minh'alma se entristece,             e se confrange, e se ennoitece,             ao ver que a sorte lhe destece             de um sopro os aureos sonhos seus.     Sonhava applausos, gloria... ¡em desterro desperto!             sonhava mundo... ¡acho um deserto!     sonhava inda illusões... ¡e escuto-lhes o adeus!</l>
-<l>  Náufrago, perco a lyra em meio da viagem.     ¡Desço vivo ao sepulcro! ¡Em ti, fatal paragem,     quem me resurgirá! Dos montes a linguagem...     oiço... escuto... medito... e em vão quero entender;             é como uns sons d'ignota fala;     qual ás penhas o mar, me inunda e me resvala,             sem me abalar, nem me embeber.</l>
-<l>          ¡Oh! ¿á minh'alma taciturna             que importa, ó montanha soturna,             que de perfumes sejas urna             da terra erguida sobre o altar?     ¿que o ceo te ria azul, mais amplo e mais de perto,             que o sol doirado, ao teu deserto     mais cedo suba, e á tarde o desça com pesar?</l>
-<l>  Vir mais tardia a noite, a aurora vir mais cedo,     ¿que me aproveita? Inerte entre o immovel fraguedo,     só ouvindo os tufões e os corvos no arvoredo,     bramirei: -- «¡Cresce o tempo! ¡oh! ¡supplicio cruel!             ¡são mais pesares, mais saudades,     mais estro a arder em vão, mais visões de cidades,             mais tentações a dar-me fel!...» -- </l>
-<l>          ¡Ai! ¡mundo! ¡ai! ¡eccos seductores!             ¡Tanto vate a ceifar louvores!...             ¡Tanto moço a colher amores!...             ¡Tantos loireiros e rosaes...     E eu n'esta solidão a torcer-me arraigado,             qual roble que geme indignado,     vendo ao longe no Oceano os lenhos triumphaes!</l>
-<l>  Assim ruge, baldão de vingativo nume,     esse que a argilla outr'ora encheu de ethereo lume;     assim nos gelos sua, agrilhoado ao cume     do caucáseo alcantil, seu cadafalso atroz.             Só o abutre de eterna fome,     que o grande coração algoz sem fim lhe come,             responde em ais á sua voz.</l>
-<l>          Fenece o dia. ¡Hora jocunda,             que eu tanto amava! ¡hora fecunda             dos cantos meus! ¿porque me inunda             nova amargura o coração?     ¿Sino crepuscular, tôas funéreo dobre?             a serra em luto se me encobre;     a nocturna mudez duplica a solidão.</l>
-<l>  Nenhuma luz scintilla; humana voz não sôa.     De estrellas a accender-se o Empyrio se povôa;     tal a fada Coimbra, a senhoril Lisboa,     nest'hora a quem as olha, entram no escuro a abrir             de luzeiros um labyrinto.     ¡Ceos! ¡Não oiço eu troar... seus coches!... O que sinto             é vento em selvas a rugir.</l>
-<l>          Calae, fugi, ventos agrestes;             sumi-vos, lampadas celestes;             n'um seio a delirios já prestes             não susciteis mais tentações.     Ou antes... aturdi-me, Euros bravos; ou antes...             vós, astros, cifras de diamantes,     O arcano me aclarae lá d'essas regiões.</l>
-<l>  ¡Oh! se á minha razão, contradictoria, altiva,     que ás trevas sente horror, e á clara Fé se esquiva,     de vós, faroes do Geo, baixasse a crença viva,     que aos moradores do ermo inspira a vossa luz!...             ¡se me volvesseis as ditosas     esp'ranças que hei perdido, alvas, ethereas rosas,             com que se enfeita e esconde a Cruz!...</l>
-<l>          Tornar-se-me-hiam de improviso             a solidão, em paraizo;             a magua, em perenne sorriso;             em alto cantico, a mudez;     a mallograda lyra, o não colhido loiro,             em harpa augusta, em palmas d'oiro;     e o monte, solio então, veria o mundo aos pés.</l>
-<l>  Delirios sempre vãos, fugi d'um peito enfermo;     tu, só tu, negra morte, has-de ao meu mal pôr termo;     ermo para ambições, e inferno, e não ermo;     para a humilde piedade é que elle espelha o Ceo.             Gentis phantasmas de cidades,     vinde, escondei-me o ermo em vossas claridades,             como um esquife em aureo veo.</l>
-<l>          ¡Vinde, cercae-me, endoidecei-me,             (embora em saudades me eu queime)!             O somno, as vigilias enchei-me             da vossa esplendida vizão.     ¿Val o riso choroso as festas da loucura?             vinde, guiae-me á sepultura,     crente no amor, na gloria, e rindo á solidão.</l>
-<l>  ¡Eu blasphemo, eu desvairo! Aos encontrados votos,     nem ecco respondeu n'estes covões ignotos.     Não, cumes glaciaes, tão outros, tão remotos     dos sitios que eu amava, e em que esperei morrer;             não, no silvestre seio vosso,     nem de amenas ficções apascentar-me posso,             nem menos as posso esquecer.</l>
-<l>          ¡Valor! ¡valor! ¿Quem do futuro             sondou jamais o abysmo escuro?             ¡Apenas chego e já murmuro!             ¿O de que tremo acaso sei?     Esperemos: talvez que inglorios, mas doirados,             aqui me aguardem, recatados,     dias de estro e de paz, quaes nunca disfructei.</l>
-<l>  Se além, no presbyterio, humillima choupana,     (Vaticano, e Queluz da pobre grei serrana)     mais que fraterno amor sollicito se afana     em me afofar o ninho, a vida em me inflorar;             se n'um retiro verde e mudo,     por elle tenho o leito, a mesa, o doce estudo,             sombras no estio, o inverno ao lar;</l>
-<l>          se a solidão que me apavora,             sómente o fôr vista de fóra;             se em seus recôncavos demora             gente feliz, povo de irmãos;     se do antigo viver, das crenças de outra edade,             vestigios guarda a soledade;     se poesia se vive entre estes aldeãos;</l>
-<l>  se a alegria, serena, isenta de pesares,     como a fresca saude, habita os puros ares;     se em toda a parte ha Deus, em ceos, em terra, e mares,     se Deus em toda a parte a Natureza ri...             coração meu, não desanimes,     gozos que não prevês, e cantos mais sublimes             encontrarás talvez aqui.</l>
-<l>          ¡Ah! sendo assim, que importa a fama!             Tambem philomela derrama             sua harmonia ás selvas que ama             longe de ouvintes e do sol.     Cantarei. ¿Meu cantar mais ambições teria             que a viva, a lustrosa poesia     de perolas que a flux borbóta o rouxinol?</l>
+<l>          ".................ibi hæc incondita solus"  </l>        
+<l>"Montibus et silvis studio jactabat inani."</l>
+<l>  ¿Vélo? ¿Sonho? ¿Deliro?! Em solitario monte,     </l>
+<l>que se espanta de ver-me, e cuja austéra fronte     </l>
+<l>nada avistou jamais no amplissimo horizonte     </l>
+<l>do mundo a tumultuar, de cidades a rir...             </l>
+<l>n'este ermo ignaro, frio? mudo...     </l>
+<l>aqui... (¿deliro? ¿ou sonho?) aqui meu lar, meu tudo,             </l>
+<l>¡o meu presente e o meu porvir!             </l>
+<l>Genio invisivel da montanha,             </l>
+<l>de astros, de sol, o ceo te banha;             </l>
+<l>o mar de longe te acompanha             </l>
+<l>no livre cantico sem fim.     </l>
+<l>Escada de Jacob da terra ao firmamento,             </l>
+<l>a mansão tua é monumento     </l>
+<l>da potencia, do amor, das glorias d'Eloïm.</l>
+<l>  Emquanto, em derredor do solio teu sublime,     </l>
+<l>a baixa terra vil que a instavel sorte opprime,     </l>
+<l>se volve, se transforma, e sua angustia exprime     </l>
+<l>n'um continuo anhelar, n'um confuso clamor,             </l>
+<l>a variedades sobranceiro     </l>
+<l>mantens-te qual surgiste, e do cahos primeiro,             </l>
+<l>e do diluvio assolador.</l>
+<l>          Silencio e paz comtigo habita;             </l>
+<l>o ermo é como o eremita;             </l>
+<l>loucas vaidades não cogita;             </l>
+<l>ama o seu rustico trajar;     </l>
+<l>em apparente inercia ama que ferva occulto             </l>
+<l>de seus affectos o tumulto,     </l>
+<l>seus extasis, seus ais, seus gostos, seu orar.</l>
+<l>  Sim, Genio da montanha, Archanjo de poesia:     </l>
+<l>eu creio em ti; eu creio em que alma ingenua, pia,     </l>
+<l>póde ouvir de tua harpa a casta melodia,     </l>
+<l>e abrazar-se de amor e endoidecer por ti;             </l>
+<l>sim; mas eu, frivolo, profano,     </l>
+<l>á solidão extranho, affeito ao mundo insano,             </l>
+<l>¿que hei de esperar? ¿que tenho aqui?</l>
+<l>          ¿Toda a minh'alma se entristece,            </l>
+<l> e se confrange, e se ennoitece,             </l>
+<l>ao ver que a sorte lhe destece             </l>
+<l>de um sopro os aureos sonhos seus.     </l>
+<l>Sonhava applausos, gloria... ¡em desterro desperto!             </l>
+<l>sonhava mundo... ¡acho um deserto!     </l>
+<l>sonhava inda illusões... ¡e escuto-lhes o adeus!</l>
+<l>  Náufrago, perco a lyra em meio da viagem.     </l>
+<l>¡Desço vivo ao sepulcro! ¡Em ti, fatal paragem,     </l>
+<l>quem me resurgirá! Dos montes a linguagem...     </l>
+<l>oiço... escuto... medito... e em vão quero entender;             </l>
+<l>é como uns sons d'ignota fala;     </l>
+<l>qual ás penhas o mar, me inunda e me resvala,             </l>
+<l>sem me abalar, nem me embeber.</l>
+<l>          ¡Oh! ¿á minh'alma taciturna             </l>
+<l>que importa, ó montanha soturna,             </l>
+<l>que de perfumes sejas urna             </l>
+<l>da terra erguida sobre o altar?     </l>
+<l>¿que o ceo te ria azul, mais amplo e mais de perto,             </l>
+<l>que o sol doirado, ao teu deserto     </l>
+<l>mais cedo suba, e á tarde o desça com pesar?</l>
+<l>  Vir mais tardia a noite, a aurora vir mais cedo,     </l>
+<l>¿que me aproveita? Inerte entre o immovel fraguedo,     </l>
+<l>só ouvindo os tufões e os corvos no arvoredo,     </l>
+<l>bramirei: -- «¡Cresce o tempo! ¡oh! ¡supplicio cruel!             </l>
+<l>¡são mais pesares, mais saudades,     </l>
+<l>mais estro a arder em vão, mais visões de cidades,             </l>
+<l>mais tentações a dar-me fel!...» -- </l>
+<l>          ¡Ai! ¡mundo! ¡ai! ¡eccos seductores!             </l>
+<l>¡Tanto vate a ceifar louvores!...             </l>
+<l>¡Tanto moço a colher amores!...             </l>
+<l>¡Tantos loireiros e rosaes...     </l>
+<l>E eu n'esta solidão a torcer-me arraigado,             </l>
+<l>qual roble que geme indignado,     </l>
+<l>vendo ao longe no Oceano os lenhos triumphaes!</l>
+<l>  Assim ruge, baldão de vingativo nume,     </l>
+<l>esse que a argilla outr'ora encheu de ethereo lume;     </l>
+<l>assim nos gelos sua, agrilhoado ao cume     </l>
+<l>do caucáseo alcantil, seu cadafalso atroz.             </l>
+<l>Só o abutre de eterna fome,     </l>
+<l>que o grande coração algoz sem fim lhe come,             </l>
+<l>responde em ais á sua voz.</l>
+<l>          Fenece o dia. ¡Hora jocunda,             </l>
+<l>que eu tanto amava! ¡hora fecunda             </l>
+<l>dos cantos meus! ¿porque me inunda             </l>
+<l>nova amargura o coração?     </l>
+<l>¿Sino crepuscular, tôas funéreo dobre?             </l>
+<l>a serra em luto se me encobre;     </l>
+<l>a nocturna mudez duplica a solidão.</l>
+<l>  Nenhuma luz scintilla; humana voz não sôa.     </l>
+<l>De estrellas a accender-se o Empyrio se povôa;     </l>
+<l>tal a fada Coimbra, a senhoril Lisboa,     </l>
+<l>nest'hora a quem as olha, entram no escuro a abrir             </l>
+<l>de luzeiros um labyrinto.     </l>
+<l>¡Ceos! ¡Não oiço eu troar... seus coches!... O que sinto             </l>
+<l>é vento em selvas a rugir.</l>
+<l>          Calae, fugi, ventos agrestes;             </l>
+<l>sumi-vos, lampadas celestes;             </l>
+<l>n'um seio a delirios já prestes             </l>
+<l>não susciteis mais tentações.     </l>
+<l>Ou antes... aturdi-me, Euros bravos; ou antes...             </l>
+<l>vós, astros, cifras de diamantes,     </l>
+<l>O arcano me aclarae lá d'essas regiões.</l>
+<l>  ¡Oh! se á minha razão, contradictoria, altiva,     </l>
+<l>que ás trevas sente horror, e á clara Fé se esquiva,     </l>
+<l>de vós, faroes do Geo, baixasse a crença viva,     </l>
+<l>que aos moradores do ermo inspira a vossa luz!...             </l>
+<l>¡se me volvesseis as ditosas     </l>
+<l>esp'ranças que hei perdido, alvas, ethereas rosas,             </l>
+<l>com que se enfeita e esconde a Cruz!...</l>
+<l>          Tornar-se-me-hiam de improviso             </l>
+<l>a solidão, em paraizo;             </l>
+<l>a magua, em perenne sorriso;             </l>
+<l>em alto cantico, a mudez;     </l>
+<l>a mallograda lyra, o não colhido loiro,             </l>
+<l>em harpa augusta, em palmas d'oiro;     </l>
+<l>e o monte, solio então, veria o mundo aos pés.</l>
+<l>  Delirios sempre vãos, fugi d'um peito enfermo;     </l>
+<l>tu, só tu, negra morte, has-de ao meu mal pôr termo;     </l>
+<l>ermo para ambições, e inferno, e não ermo;     </l>
+<l>para a humilde piedade é que elle espelha o Ceo.             </l>
+<l>Gentis phantasmas de cidades,     </l>
+<l>vinde, escondei-me o ermo em vossas claridades,             </l>
+<l>como um esquife em aureo veo.</l>
+<l>          ¡Vinde, cercae-me, endoidecei-me,             </l>
+<l>(embora em saudades me eu queime)!             </l>
+<l>O somno, as vigilias enchei-me             </l>
+<l>da vossa esplendida vizão.     </l>
+<l>¿Val o riso choroso as festas da loucura?             </l>
+<l>vinde, guiae-me á sepultura,     </l>
+<l>crente no amor, na gloria, e rindo á solidão.</l>
+<l>  ¡Eu blasphemo, eu desvairo! Aos encontrados votos,     </l>
+<l>nem ecco respondeu n'estes covões ignotos.     </l>
+<l>Não, cumes glaciaes, tão outros, tão remotos     </l>
+<l>dos sitios que eu amava, e em que esperei morrer;             </l>
+<l>não, no silvestre seio vosso,     </l>
+<l>nem de amenas ficções apascentar-me posso,             </l>
+<l>nem menos as posso esquecer.</l>
+<l>          ¡Valor! ¡valor! ¿Quem do futuro             </l>
+<l>sondou jamais o abysmo escuro?             </l>
+<l>¡Apenas chego e já murmuro!             </l>
+<l>¿O de que tremo acaso sei?     </l>
+<l>Esperemos: talvez que inglorios, mas doirados,             </l>
+<l>aqui me aguardem, recatados,     </l>
+<l>dias de estro e de paz, quaes nunca disfructei.</l>
+<l>  Se além, no presbyterio, humillima choupana,     </l>
+<l>(Vaticano, e Queluz da pobre grei serrana)     </l>
+<l>mais que fraterno amor sollicito se afana    </l>
+<l> em me afofar o ninho, a vida em me inflorar;             </l>
+<l>se n'um retiro verde e mudo,     </l>
+<l>por elle tenho o leito, a mesa, o doce estudo,             </l>
+<l>sombras no estio, o inverno ao lar;</l>
+<l>          se a solidão que me apavora,             </l>
+<l>sómente o fôr vista de fóra;             </l>
+<l>se em seus recôncavos demora             </l>
+<l>gente feliz, povo de irmãos;     </l>
+<l>se do antigo viver, das crenças de outra edade,             </l>
+<l>vestigios guarda a soledade;     </l>
+<l>se poesia se vive entre estes aldeãos;</l>
+<l>  se a alegria, serena, isenta de pesares,     </l>
+<l>como a fresca saude, habita os puros ares;     </l>
+<l>se em toda a parte ha Deus, em ceos, em terra, e mares,     </l>
+<l>se Deus em toda a parte a Natureza ri...             </l>
+<l>coração meu, não desanimes,     </l>
+<l>gozos que não prevês, e cantos mais sublimes             </l>
+<l>encontrarás talvez aqui.</l>
+<l>          ¡Ah! sendo assim, que importa a fama!             </l>
+<l>Tambem philomela derrama             </l>
+<l>sua harmonia ás selvas que ama             </l>
+<l>longe de ouvintes e do sol.     </l>
+<l>Cantarei. ¿Meu cantar mais ambições teria             </l>
+<l>que a viva, a lustrosa poesia     </l>
+<l>de perolas que a flux borbóta o rouxinol?</l>
 </quote>
 <p>Sete annos se nos gastaram por ali, menos estranhos em verdade, menos difficeis e arrastados, do que o eu temêra, ao trocar, tão a subitas, cidades e amenidades por brenhas alpestres, tão desconversaveis á primeira vista. Tivemos tempo de sobra para nos irmos aclimando e afazendo, e haurindo poesia mesmo dos penedos, e estillas de mel mesmo dos urzaes. Mas tudo isso pertence a outro livro, onde algum dia folgarei de hospedar os meus leitores; chama-se por signal "O Presbyterio da Montanha".</p>
 </div><div type="chapter"><head>XL</head>
@@ -706,7 +1028,7 @@
 <p>Respondeu-se ali mesmo á carta. Antonita estava cantando uma cantiga de amores a vinte passos de distancia; a alegria e a amizade cantava no coração de Augusto; no meu, cantavam o alvoroço, o enternecimento, a amizade. Era uma hora d'aquellas de que o Céo não empresta mais de uma ás existencias afortunadas.</p>
 <p>A carta que eu então dictei para mensageira de tão boa nova, e a que tres dias depois se lia mysteriosamente no mesmo logar aos ultimos raios de um sol magnifico, existem ainda hoje, mas não pódem ser relidas; doer-me-hiam excessivamente; hão-de ser pelo contrario queimadas com todas as outras d'este romance intimo e sagrado, logo que eu tenha concluido o presente escripto. Se alguem não comprehender por si este melindre, paciencia; eu é que me não atrevo a explicar-lh'o.</p>
 <p>A elegia "Ermitagem da montanha" tinha sido poucos dias antes phantasiada ali mesmo. Junto ao convento havia tambem serras, como já vos disse:</p>
-<p>  "Sola eris, et solos spectabis, Cynthia, montes."</p>
+<p xml:lang="lat">  "Sola eris, et solos spectabis, Cynthia, montes."</p>
 <p>Na desesperança, ou, quando menos, incerteza de conseguirmos jámais posse real um do outro, ¿não eram bem naturaes aquelles desejos, aquellas visões do poeta solitario no meio dos seus bosques, pensando na poetisa solitaria á sombra do seu mosteiro? ¿Que amante deixou de sonhar alguma vez que a felicidade o aguardava n'uma caverna sonegada aos olhos de todo o mundo?</p>
 <p>A mutação maravilhosa que se me acabava de operar nas perspectivas da alma, fez rebentar o meu ultimo canto -- "A Esperança."</p>
 <p>¡Ah! ¡a esperança! ¿quem? não sendo amante, ou louco, póde fiar-se nos sorrisos de tal phantasma? Os gozos, que tão proximos se me antolhavam, ainda vinham longe. ¡Ha tantas illusões d'estas na vida! teem-se os olhos fitos n'uma ventura que já se vê e se ouve tão perto, que se figura alcançavel com dois passos... e não se repara em que entre ella e nós pode haver duas ribanceiras escarpadas, e até de permeio um rio sem ponte, profundo, vertiginoso, mortifero!</p>
@@ -719,7 +1041,7 @@
 <p>¡Que de refeições interrompidas por uma noticia de denuncia, e de encarceração meditada, proxima, infallivel! ¡que de noites mal dormidas, ou veladas pelos matos, ou por poisadas alheias! ¡que sumir de livros nos vãos dos altares! ¡que enterrar os objectos preciosos! ¡que abrazar papeis! ¡que vigiar do alto do campanario! ¡que fugir a subitas do ninho, para regressar a elle palpitando, e refugir de novo! ¡e tudo isto por quão longo tempo! até que, levantado já quasi o cerco do Porto, atterrados com o ultimo e inevitavel perigo de sermos monteados e perdidos, commettemos á desesperação o salvamento e, atravessando ainda por entre os cercadores n'uma ante manhan escura e chuvosa, lográmos acolher-nos á Cidade eterna.</p>
 <p>E se vê, se um passaro assim combatido dos temporaes podia lembrar-se de construir e pendurar em ramos que todos rangiam e estalavam, cestinha de amores para onde chamasse companheira. Não podia ser, por mais temerario, por mais imprevidente que elle fosse.</p>
 <p>Estes mesmos trabalhos e transes, que então me pareciam encobrir a Providencia, como as nuvens encobrem ao sol, pode ser que me viessem mandados tambem por ella a trazer-me germes que ainda me faltassem, de poesia affectuosa. Isso teem de seu, se me não engano, as perseguições revolucionarias: assolam, para fecundar; chovem odios, que em se evaporando terão feito desabrolhar bemquerenças. Alma que padeceu, condoe-se:</p>
-<quote>
+<quote xml:lang="lat">
 <l>  "Non ignara mali..............."</l>
 </quote>
 <p>Só de longe é que isto se conhece bem, e como tudo no mundo é por melhor. Agora nem áquella quadra tormentosa quero mal.</p>
@@ -732,29 +1054,293 @@
 <p>Adverti porém desde já, em que não ides escutar maravilhas de poeta. São versos faceis e descuidados, como os eu então fazia para matar o tempo, e esquecido de que havia mundo.</p>
 <p>Podéra agora tel-os retocado; ¿mas para quê? ¿e que é do valor para estar desconcertando por mera vaidade litteraria umas saudades d'estas? Hão-de ir e hão-de ficar já agora singelos e montesinhos como nasceram. -- Ouvida a primeira duzia d'elles, quem lhe parecer, que deixe os outros.</p>
 <quote>
-<l>    ¡Ó cedro, ó joven principe dos bosques,     eis-te já no teu novo domicilio,     eis-te vaidoso em pé, do sól á espera!     Gente do presbyterio, afervorae-vos,     entrançae danças, coroae-vos todos,     cantae-lhe bençãos, tumultuae-lhe em roda.</l>
-<l>    ¡Gloria a Deus! ¡Como o dia vem formoso!     Anjos que protejeis a Natureza     vossa amavel irman filha do Eterno,     que entre vós repartistes as montanhas,     o arvoredo das Dryades palreiras,     e a urna fresca das occultas Náyades,     vinde, adoptae no seu primeiro dia     do filho de David a arvore antiga.     D'entre os ramosos tufos elevado     seu cume se remonte á patria vossa,     e aponte os Ceos ao pensamento humilde.     Praza o carvalho a Jove; o loiro a Phebo;     a vós o cedro; o cedro, inda saudoso     e altivo do seu Libano, inda cheio     das lembranças da Biblia, inda soberbo     de hospedar em jardins, palacios, templos,     Adonai, o Rei Sabio, o Povo Eleito.     Assim glorioso e mistico, o bom cedro,     o cedro-rei, viu supplice prostrar-se     Israel ora a Deus, ora á fortuna,     aos ceos e ao mundo, á eternidade e ao tempo.</l>
-<l>  ¡Oh! ¡venerando! ¡oh! ¡cresce em nossa terra!     co'a verdenegra copa não desdenhes     acoitar o singelo presbyterio.     Premeia o generoso desint'resse     do plantador que desce todo á campa.     Sagradas são as dividas do affecto;     os cuidados que assiduos te protegem,     invoca o tempo de os pagar co'as sombras.     Dias virão nos teus crescentes dias,     em que nobre ante a porta da virtude     com ternura e respeito hão-de saudar-te     os montanhezes descobrindo a fronte.     Lembrarás os antigos patriarchas,     que ao-pé da movel tenda no deserto     pertenciam aos Ceos pela esperança,     e ao patrio mundo pelo amor dos homens.      -- Ali -- dirão -- na sésta reclinado     o pobre ancião, pastor d'estas aldeias,     ao circulo inquieto dos meninos     ensina a amar a Deus, a si, aos outros,     ás lettras, ao saber, á patria, á gloria;     e, abraçando-os risonho á despedida,     distribue co'a mão tremula aos melhores     em premio doce disputados frutos. --       -- Ali -- dirão tambem -- sentou-se um dia,     e gabou a frescura das ramadas,     um Bispo antigo e santo; ali tomava     o seu café, resando o breviario;     meu avô, bem que rustico e indigente,     falou-lhe ali, beijou-lhe o annel e ouviu-o.     ¡Que apostolo! ¡que amor! ¡que urbanidade!     essa arvore o cobriu, ficou sagrada. -- </l>
-<l>    Hospede e amigo do adoptado albergue,     firma-te ao solo com raizes promptas;     exalça a fronte aerea, alto, gigante;     abre os cem braços co'os tufões em lucta.     Piedoso Briarêu, não temas raio;     o raio atrôe as serras, cegue, abraze     o altivo topo ás arvores soberbas;     tu, não tremas; eu quero no futuro     que um novo talisman te adorne e ampare,     possante contra furias de elementos,     contra o machado algoz, contra demonios:</l>
-<l>    Se dos teus annos na madura força     a mão que ora te planta inda for viva,     essa mesma, já tremula e inda amiga,     inda meiga ao seu cedro, e já caduca,     no tronco te abrirá com tardo exforço     graciosa capellinha, onde sorria     um San-João, o Santo alegre do ermo:     trajo de pelles, juvenil frescura,     olhos nos Ceos, aos pés cordeiro branco.</l>
-<l>    N'essa noite poetica e devota,     em que o prazer, centuplicando aspectos,     povoa, anima, encanta o mundo inteiro;     agua e terra, ar e ceo, tudo é macio;     em que a velhice, a mocidade, a infancia,     sympathisam no vago da alegria;     em que n'alma insaciavel de delicias     se juntam com mistura inexplicavel     o saudoso passado, os bens presentes,     ao contente futuro ebrio de esp'ranças;     em que n'um laço mystico se aggregam     da vida e eternidade os pensamentos,     gozos, superstições, fraquezas, cultos,     como um ramo de rosas e ciprestes     na caprichosa mão das feiticeiras;     n'essa noite das noites invejada,     té dos casaes lá do ultimo horizonte     a ti concorrerão por toda a parte     dançantes bandos que a viola impéra.     Verás girar seus bailes rebatidos     em redor das estridulas fogueiras;     ouvirás os seus canticos em coro     devoto e namorado; a bomba foge,     zune fugindo, e solapada estoira;     o buscapé no ar caracolando     morde n'um, morde n'outro, ameaça a todos,     dispersa os grupos, gasta-se raivando,     e entre os risos rebenta atroando os ares;     aqui, circula em vertice perenne     a roda leve espadanando incendios,     chovendo oiro luzente e estrellas alvas;     ali, floreia o fulgido valverde,     vulcão sonoro que arremette ás nuvens;     vôa, remonta impaciente aos astros     o ignívomo foguete estrepitoso.     ¡E a musica entretanto! ¡e as doces falas!     ¡e os segredos d'amor! ¡e a prece occulta!     e essa mão dada a furto, e a furto acceita!     ¡e esse olhar falador! ¡e essas virtudes     da meia noite em ponto! e a flôr crestada!     ¡e as sortes que a fortuna extrai ás vezes,     e muitas mais a próvida malicia!     ¡e a fonte que amanhece entre descantes,     e pasma rindo de se ver c'roada     de festões verdes e enlaçadas flores!...     ¡Que noite! ¡que prazeres! ¡que triumphos     te aguardam no porvir, me estão na mente!</l>
-<l>    Mas se ao neto do Libano silvestre,     se á arvore do templo, ao cedro antigo,     mais contenta sublime austeridade,     religioso é o chão que te sustenta,     santa e severa a muda visinhança.</l>
-<l>    D'esse lado, essa relva avelludada     foi chão d'egreja outr'ora, e esconde os mortos;     onde a oliveira está, surgia a torre;     bradava aos eccos dos remotos cumes     o sino da oração, lá onde agora     está cantando o melro; e pasce a ovelha,     balando o seu amor ao filho ausente,     onde a moça aldeana ajoelhada     em noite do Natal, ante o presepio     acalentava em côro o Deus Menino.     Nem portas, nem degraus, nem muros restam!     ¡Um saxeo altar! ¡por tecto uma parreira!     ¡e um San-Jorge musgoso entre silvados!     D'aqui, filho do antigo, o novo templo     te alveja em face. Em fundo de sepulcros     por ossos vãos enredarás raizes.</l>
-<l>    ¡Que vezes para o ceo voarão juntos     o perfume do incenso e o teu perfume,     o teu sussurro e os canticos da Biblia!     Escutarás por baixo do teu cume     os mysterios, a supplica chorosa,     as lições da moral, do Eterno as glorias,     o voto humilde, a gratidão serena,     o tom pesado dos funereos Psalmos,     a infancia d'entre as aguas renascida,     os protestos do amor que acceita e córa;     e o mais que o mal previne e o mal espia,     gera, vigora o bem e o bem premeia,     suavisa as dores, o prazer modera,     adoça a vida, aperfeiçoa os homens,     e por c'roa da paz a paz promette.</l>
-<l>    Assim, quasi debaixo de teus ramos,     juntarás o que a mil faria illustres:     a raça que milita, e a que triumpha;     os cultos da saudade, e os cultos vivos.</l>
-<l>    Cresce pois outra vez, cem vezes cresce.     Alto, em frente do humilde presbyterio,     torna-te a sentinella das montanhas.</l>
-<l>    Se o peregrino, attonito, espantado,     errar nos cumes alongando os olhos;     se vires muito ao longe os passos frouxos,     o curvo dorso, o pallido semblante,     e as cans sem honra do ancião mendigo;     indica-lhes a senda hospitaleira,     mostra-lhes em teu lar os seus penates;     e dize ao peregrino: -- Eis a poisada; --      e ao mendigo: -- Bom velho, andas perdido;     reconhece o teu fumo, a tua porta,     teu leito, os teus irmãos, teu pae, teus filhos. -- </l>
-<l>  ¡Oh! ¡que viver, que almo viver te aguarda!     beneficencia, paz, respeito, gozos,     ¡quantos bens! ¡e esses bens quão longas eras!     Mas nós... ¡ah! nossos dias fugitivos     seculos são se á rosa se comparam,     mas passam como a rosa a par dos cedros.     Para ti, de anno em anno a primavera     virá com pompa nova e novas galas;     para nós, menos flores de anno em anno     lhe virão no regaço; menos fogo     nos olhos, no sorrir menos ternura.     Eu, que outr'ora a cantei, que ardi por ella,     para quem toda a alegre Natureza     era animada, meiga, inspiradora;     que doce delirava entre as violetas,     entendia o favonio e a voz das fontes,     entrava co'a andorinha em seus prazeres,     co'o rouxinol em seus segredos ternos;     que do meu estro nas visões formosas     arvoredos, oiteiros, grutas, rios,     povoava das priscas divindades,     e n'um mundo só meu, vivia todo...     hoje, ¡quão frouxa pela mente nua     sinto raiar a inspiração que imploro!     Do genio a seiva, a primavera da alma,     langue; raro floresce, a longe, a longe.</l>
-<l>    ¡Como! ¡tão novo ainda, é já forçoso     que a grinalda poetica se esfolhe!     ¡Lyra que apenas entoou preludios,     já desafina, e jazerá sem honra!     ¿Serão estes os canticos do cysne?</l>
-<l>    Ó meus delirios, nuncios meus de gloria     ¿mentieis vós? ¿ir-se-hiam para sempre     lagrimas, illusões, ternura, cantos?!     ¡Ah! ¡sentir-se morrer, que acerba morte!</l>
-<l>    E tu tambem, tu morrerás um dia.     As raizes cançadas de nutrir-te     não pedirão mais succo á larga terra.     ¡Adeus, ninhos d'outr'ora! adeus frescura,     sombras, sussurro ameno e cheiro alegre!     A copa verde que hospedava as nuvens,     ludibrio d'auras, arida esvoaça.     Mas ao menos feliz impresciencia,     don melhor que mil dons, te coube em sorte.     Dominas vastamente o ar e a terra,     sobes vaidoso aos ceos, á Estyge afundas,     e baqueias sonhando eternidades.</l>
-<l>    ¡Ó arvore, alevanta-te! ¡desata     em nossos dias tua umbrosa pompa!</l>
-<l>    Emquanto a raça ephemera dos homens     vai e vem, faz, desfaz, se eleva, desce,     tu, fixa, tu do sabio exemplo inutil,     medra pelo descanço; igual hospéda,     sorrindo sempre, as estações oppostas;     presta-te aos soes e ás luas, que sem conto     volverão sobre ti; sê caro asylo     ao favonio que em braços te adormeça,     e ás aves que em teu seio se aninharem,     e soffre ou goza o teu destino immenso.</l>
-<l>    ¡Ai, nunca de teus ares dominando     pela terra de Luso oiças ou vejas     da civil guerra as armas fratricidas!     Inda agora nos eccos d'estes montes     os seus trovões sacrilegos retroam.     Inda em nossos ouvidos estremecem     quadrupedante estrepito, relinchos,     retinir d'armas, rufos de tambores,     rolar de carros, vozear de chefes,     e os gritos do clarim, pregões da morte,     ¡Que esposas inda agora estão carpindo!     ¡que mães, filhas, e irmans, inda hoje em lucto!     Do sangue a côr maldita inda denigre     esses campos de horror; e as sepulturas     dos sem numero extinctos nos combates,     não florirão inda esta primavera.     Do raio o fumo a Lusitania assombra.</l>
-<l>    Ó Paz, filha do Ceo, mãe da abundancia,     da innocencia e do amor irman e amiga,     alma Paz, volve a nós, que assaz é tempo.     De opulentos avós mesquinhos netos,     já não pedimos bens: aos descendentes     do povo infesto a Roma e Rei do mundo,     basta um pouco de pão em paz comido.     Sobre os antigos loiros desfolhados     caiba-lhe ao menos respirar dormindo,     ¡Que ideia tão inhospita e gelada!...</l>
-<l>    ¡Aguas! ¡aguas! ¡reguemos o bom cedro!     ¡lá se vai por o sol! ¡cá nasce a lua!     Ó lua, vem propicia á joven planta;     e tu, doirado sol, propicio volta.</l>
-<l>    ¿Quem bate?... ¡parabens! dançae, folguemos?     ¡eis o pobre! ¡eil-o! ¡é Deus que a nós o envia!     ¡sim! da parte de Deus vem sempre o pobre.     Entrou á rega; ¡é fausto o agoiro! ¡é fausto!     enchei-lhe a taça, beberemos todos.</l>
-<l>    Conduziram-n-o ao lar; da farta ceia     leval-o-hão consolado á foufa cama.     Agora, que estou só, que apenas oiço     o mui longe cantar das fiandeiras     na aldeia d'alem-rio, ¡oh! vem... ¡sentemo-nos     ao-pé do que algum dia ha-de abrigar-nos,     candida imagem de Maria ausente!     segredarás aquella de que és sombra,     que para ella está guardada a gloria     de casar algum dia uma roseira     ao já seguro tronco. ¡Ai, doce emblema     da quêda e flórea vida, enlevo de ambos!</l>
+<l>    ¡Ó cedro, ó joven principe dos bosques,     </l>
+<l>eis-te já no teu novo domicilio,     </l>
+<l>eis-te vaidoso em pé, do sól á espera!     </l>
+<l>Gente do presbyterio, afervorae-vos,     </l>
+<l>entrançae danças, coroae-vos todos,     </l>
+<l>cantae-lhe bençãos, tumultuae-lhe em roda.</l>
+<l>    ¡Gloria a Deus! ¡Como o dia vem formoso!     </l>
+<l>Anjos que protejeis a Natureza     </l>
+<l>vossa amavel irman filha do Eterno,     </l>
+<l>que entre vós repartistes as montanhas,     </l>
+<l>o arvoredo das Dryades palreiras,     </l>
+<l>e a urna fresca das occultas Náyades,     </l>
+<l>vinde, adoptae no seu primeiro dia     </l>
+<l>do filho de David a arvore antiga.     </l>
+<l>D'entre os ramosos tufos elevado     </l>
+<l>seu cume se remonte á patria vossa,     </l>
+<l>e aponte os Ceos ao pensamento humilde.     </l>
+<l>Praza o carvalho a Jove; o loiro a Phebo;     </l>
+<l>a vós o cedro; o cedro, inda saudoso     </l>
+<l>e altivo do seu Libano, inda cheio     </l>
+<l>das lembranças da Biblia, inda soberbo     </l>
+<l>de hospedar em jardins, palacios, templos,     </l>
+<l>Adonai, o Rei Sabio, o Povo Eleito.     </l>
+<l>Assim glorioso e mistico, o bom cedro,     </l>
+<l>o cedro-rei, viu supplice prostrar-se     </l>
+<l>Israel ora a Deus, ora á fortuna,     </l>
+<l>aos ceos e ao mundo, á eternidade e ao tempo.</l>
+<l>  ¡Oh! ¡venerando! ¡oh! ¡cresce em nossa terra!     </l>
+<l>co'a verdenegra copa não desdenhes     </l>
+<l>acoitar o singelo presbyterio.     </l>
+<l>Premeia o generoso desint'resse     </l>
+<l>do plantador que desce todo á campa.     </l>
+<l>Sagradas são as dividas do affecto;     </l>
+<l>os cuidados que assiduos te protegem,     </l>
+<l>invoca o tempo de os pagar co'as sombras.     </l>
+<l>Dias virão nos teus crescentes dias,     </l>
+<l>em que nobre ante a porta da virtude     </l>
+<l>com ternura e respeito hão-de saudar-te     </l>
+<l>os montanhezes descobrindo a fronte.     </l>
+<l>Lembrarás os antigos patriarchas,     </l>
+<l>que ao-pé da movel tenda no deserto     </l>
+<l>pertenciam aos Ceos pela esperança,     </l>
+<l>e ao patrio mundo pelo amor dos homens.      </l>
+<l>-- Ali -- dirão -- na sésta reclinado     </l>
+<l>o pobre ancião, pastor d'estas aldeias,     </l>
+<l>ao circulo inquieto dos meninos     </l>
+<l>ensina a amar a Deus, a si, aos outros,     </l>
+<l>ás lettras, ao saber, á patria, á gloria;     </l>
+<l>e, abraçando-os risonho á despedida,     </l>
+<l>distribue co'a mão tremula aos melhores     </l>
+<l>em premio doce disputados frutos. --       </l>
+<l>-- Ali -- dirão tambem -- sentou-se um dia,     </l>
+<l>e gabou a frescura das ramadas,     </l>
+<l>um Bispo antigo e santo; ali tomava     </l>
+<l>o seu café, resando o breviario;     </l>
+<l>meu avô, bem que rustico e indigente,     </l>
+<l>falou-lhe ali, beijou-lhe o annel e ouviu-o.     </l>
+<l>¡Que apostolo! ¡que amor! ¡que urbanidade!     </l>
+<l>essa arvore o cobriu, ficou sagrada. -- </l>
+<l>    Hospede e amigo do adoptado albergue,     </l>
+<l>firma-te ao solo com raizes promptas;     </l>
+<l>exalça a fronte aerea, alto, gigante;     </l>
+<l>abre os cem braços co'os tufões em lucta.     </l>
+<l>Piedoso Briarêu, não temas raio;     </l>
+<l>o raio atrôe as serras, cegue, abraze     </l>
+<l>o altivo topo ás arvores soberbas;     </l>
+<l>tu, não tremas; eu quero no futuro     </l>
+<l>que um novo talisman te adorne e ampare,     </l>
+<l>possante contra furias de elementos,     </l>
+<l>contra o machado algoz, contra demonios:</l>
+<l>    Se dos teus annos na madura força     </l>
+<l>a mão que ora te planta inda for viva,     </l>
+<l>essa mesma, já tremula e inda amiga,     </l>
+<l>inda meiga ao seu cedro, e já caduca,     </l>
+<l>no tronco te abrirá com tardo exforço     </l>
+<l>graciosa capellinha, onde sorria     </l>
+<l>um San-João, o Santo alegre do ermo:     </l>
+<l>trajo de pelles, juvenil frescura,     </l>
+<l>olhos nos Ceos, aos pés cordeiro branco.</l>
+<l>    N'essa noite poetica e devota,     </l>
+<l>em que o prazer, centuplicando aspectos,     </l>
+<l>povoa, anima, encanta o mundo inteiro;     </l>
+<l>agua e terra, ar e ceo, tudo é macio;     </l>
+<l>em que a velhice, a mocidade, a infancia,     </l>
+<l>sympathisam no vago da alegria;     </l>
+<l>em que n'alma insaciavel de delicias     </l>
+<l>se juntam com mistura inexplicavel     </l>
+<l>o saudoso passado, os bens presentes,     </l>
+<l>ao contente futuro ebrio de esp'ranças;     </l>
+<l>em que n'um laço mystico se aggregam     </l>
+<l>da vida e eternidade os pensamentos,     </l>
+<l>gozos, superstições, fraquezas, cultos,     </l>
+<l>como um ramo de rosas e ciprestes     </l>
+<l>na caprichosa mão das feiticeiras;     </l>
+<l>n'essa noite das noites invejada,     </l>
+<l>té dos casaes lá do ultimo horizonte     </l>
+<l>a ti concorrerão por toda a parte     </l>
+<l>dançantes bandos que a viola impéra.     </l>
+<l>Verás girar seus bailes rebatidos     </l>
+<l>em redor das estridulas fogueiras;     </l>
+<l>ouvirás os seus canticos em coro    </l>
+<l> devoto e namorado; a bomba foge,     </l>
+<l>zune fugindo, e solapada estoira;     </l>
+<l>o buscapé no ar caracolando     </l>
+<l>morde n'um, morde n'outro, ameaça a todos,     </l>
+<l>dispersa os grupos, gasta-se raivando,     </l>
+<l>e entre os risos rebenta atroando os ares;     </l>
+<l>aqui, circula em vertice perenne     </l>
+<l>a roda leve espadanando incendios,     </l>
+<l>chovendo oiro luzente e estrellas alvas;     </l>
+<l>ali, floreia o fulgido valverde,     </l>
+<l>vulcão sonoro que arremette ás nuvens;     </l>
+<l>vôa, remonta impaciente aos astros     </l>
+<l>o ignívomo foguete estrepitoso.     </l>
+<l>¡E a musica entretanto! ¡e as doces falas!     </l>
+<l>¡e os segredos d'amor! ¡e a prece occulta!     </l>
+<l>e essa mão dada a furto, e a furto acceita!     </l>
+<l>¡e esse olhar falador! ¡e essas virtudes     </l>
+<l>da meia noite em ponto! e a flôr crestada!     </l>
+<l>¡e as sortes que a fortuna extrai ás vezes,     </l>
+<l>e muitas mais a próvida malicia!     </l>
+<l>¡e a fonte que amanhece entre descantes,     </l>
+<l>e pasma rindo de se ver c'roada     </l>
+<l>de festões verdes e enlaçadas flores!...     </l>
+<l>¡Que noite! ¡que prazeres! ¡que triumphos     </l>
+<l>te aguardam no porvir, me estão na mente!</l>
+<l>    Mas se ao neto do Libano silvestre,    </l>
+<l> se á arvore do templo, ao cedro antigo,     </l>
+<l>mais contenta sublime austeridade,     </l>
+<l>religioso é o chão que te sustenta,     </l>
+<l>santa e severa a muda visinhança.</l>
+<l>    D'esse lado, essa relva avelludada     </l>
+<l>foi chão d'egreja outr'ora, e esconde os mortos;     </l>
+<l>onde a oliveira está, surgia a torre;     </l>
+<l>bradava aos eccos dos remotos cumes     </l>
+<l>o sino da oração, lá onde agora     </l>
+<l>está cantando o melro; e pasce a ovelha,     </l>
+<l>balando o seu amor ao filho ausente,     </l>
+<l>onde a moça aldeana ajoelhada     </l>
+<l>em noite do Natal, ante o presepio     </l>
+<l>acalentava em côro o Deus Menino.     </l>
+<l>Nem portas, nem degraus, nem muros restam!     </l>
+<l>¡Um saxeo altar! ¡por tecto uma parreira!     </l>
+<l>¡e um San-Jorge musgoso entre silvados!     </l>
+<l>D'aqui, filho do antigo, o novo templo     </l>
+<l>te alveja em face. Em fundo de sepulcros     </l>
+<l>por ossos vãos enredarás raizes.</l>
+<l>    ¡Que vezes para o ceo voarão juntos     </l>
+<l>o perfume do incenso e o teu perfume,     </l>
+<l>o teu sussurro e os canticos da Biblia!     </l>
+<l>Escutarás por baixo do teu cume     </l>
+<l>os mysterios, a supplica chorosa,     </l>
+<l>as lições da moral, do Eterno as glorias,     </l>
+<l>o voto humilde, a gratidão serena,     </l>
+<l>o tom pesado dos funereos Psalmos,     </l>
+<l>a infancia d'entre as aguas renascida,     </l>
+<l>os protestos do amor que acceita e córa;     </l>
+<l>e o mais que o mal previne e o mal espia,     </l>
+<l>gera, vigora o bem e o bem premeia,     </l>
+<l>suavisa as dores, o prazer modera,     </l>
+<l>adoça a vida, aperfeiçoa os homens,     </l>
+<l>e por c'roa da paz a paz promette.</l>
+<l>    Assim, quasi debaixo de teus ramos,     </l>
+<l>juntarás o que a mil faria illustres:     </l>
+<l>a raça que milita, e a que triumpha;     </l>
+<l>os cultos da saudade, e os cultos vivos.</l>
+<l>    Cresce pois outra vez, cem vezes cresce.     </l>
+<l>Alto, em frente do humilde presbyterio,     </l>
+<l>torna-te a sentinella das montanhas.</l>
+<l>    Se o peregrino, attonito, espantado,     </l>
+<l>errar nos cumes alongando os olhos;     </l>
+<l>se vires muito ao longe os passos frouxos,     </l>
+<l>o curvo dorso, o pallido semblante,     </l>
+<l>e as cans sem honra do ancião mendigo;     </l>
+<l>indica-lhes a senda hospitaleira,     </l>
+<l>mostra-lhes em teu lar os seus penates;     </l>
+<l>e dize ao peregrino: -- Eis a poisada; --      </l>
+<l>e ao mendigo: -- Bom velho, andas perdido;     </l>
+<l>reconhece o teu fumo, a tua porta,     </l>
+<l>teu leito, os teus irmãos, teu pae, teus filhos. -- </l>
+<l>  ¡Oh! ¡que viver, que almo viver te aguarda!     </l>
+<l>beneficencia, paz, respeito, gozos,     </l>
+<l>¡quantos bens! ¡e esses bens quão longas eras!     </l>
+<l>Mas nós... ¡ah! nossos dias fugitivos     </l>
+<l>seculos são se á rosa se comparam,     </l>
+<l>mas passam como a rosa a par dos cedros.     </l>
+<l>Para ti, de anno em anno a primavera     </l>
+<l>virá com pompa nova e novas galas;     </l>
+<l>para nós, menos flores de anno em anno     </l>
+<l>lhe virão no regaço; menos fogo     </l>
+<l>nos olhos, no sorrir menos ternura.     </l>
+<l>Eu, que outr'ora a cantei, que ardi por ella,     </l>
+<l>para quem toda a alegre Natureza     </l>
+<l>era animada, meiga, inspiradora;     </l>
+<l>que doce delirava entre as violetas,     </l>
+<l>entendia o favonio e a voz das fontes,     </l>
+<l>entrava co'a andorinha em seus prazeres,     </l>
+<l>co'o rouxinol em seus segredos ternos;     </l>
+<l>que do meu estro nas visões formosas     </l>
+<l>arvoredos, oiteiros, grutas, rios,     </l>
+<l>povoava das priscas divindades,     </l>
+<l>e n'um mundo só meu, vivia todo...     </l>
+<l>hoje, ¡quão frouxa pela mente nua     </l>
+<l>sinto raiar a inspiração que imploro!     </l>
+<l>Do genio a seiva, a primavera da alma,     </l>
+<l>langue; raro floresce, a longe, a longe.</l>
+<l>    ¡Como! ¡tão novo ainda, é já forçoso     </l>
+<l>que a grinalda poetica se esfolhe!     </l>
+<l>¡Lyra que apenas entoou preludios,     </l>
+<l>já desafina, e jazerá sem honra!     </l>
+<l>¿Serão estes os canticos do cysne?</l>
+<l>    Ó meus delirios, nuncios meus de gloria     </l>
+<l>¿mentieis vós? ¿ir-se-hiam para sempre     </l>
+<l>lagrimas, illusões, ternura, cantos?!     </l>
+<l>¡Ah! ¡sentir-se morrer, que acerba morte!</l>
+<l>    E tu tambem, tu morrerás um dia.     </l>
+<l>As raizes cançadas de nutrir-te     </l>
+<l>não pedirão mais succo á larga terra.     </l>
+<l>¡Adeus, ninhos d'outr'ora! adeus frescura,     </l>
+<l>sombras, sussurro ameno e cheiro alegre!    </l>
+<l> A copa verde que hospedava as nuvens,     </l>
+<l>ludibrio d'auras, arida esvoaça.     </l>
+<l>Mas ao menos feliz impresciencia,     </l>
+<l>don melhor que mil dons, te coube em sorte.     </l>
+<l>Dominas vastamente o ar e a terra,     </l>
+<l>sobes vaidoso aos ceos, á Estyge afundas,     </l>
+<l>e baqueias sonhando eternidades.</l>
+<l>    ¡Ó arvore, alevanta-te! ¡desata     </l>
+<l>em nossos dias tua umbrosa pompa!</l>
+<l>    Emquanto a raça ephemera dos homens     </l>
+<l>vai e vem, faz, desfaz, se eleva, desce,     </l>
+<l>tu, fixa, tu do sabio exemplo inutil,     </l>
+<l>medra pelo descanço; igual hospéda,     </l>
+<l>sorrindo sempre, as estações oppostas;     </l>
+<l>presta-te aos soes e ás luas, que sem conto     </l>
+<l>volverão sobre ti; sê caro asylo     </l>
+<l>ao favonio que em braços te adormeça,     </l>
+<l>e ás aves que em teu seio se aninharem,     </l>
+<l>e soffre ou goza o teu destino immenso.</l>
+<l>    ¡Ai, nunca de teus ares dominando     </l>
+<l>pela terra de Luso oiças ou vejas     </l>
+<l>da civil guerra as armas fratricidas!     </l>
+<l>Inda agora nos eccos d'estes montes     </l>
+<l>os seus trovões sacrilegos retroam.     </l>
+<l>Inda em nossos ouvidos estremecem     </l>
+<l>quadrupedante estrepito, relinchos,     </l>
+<l>retinir d'armas, rufos de tambores,     </l>
+<l>rolar de carros, vozear de chefes,     </l>
+<l>e os gritos do clarim, pregões da morte,     </l>
+<l>¡Que esposas inda agora estão carpindo!     </l>
+<l>¡que mães, filhas, e irmans, inda hoje em lucto!     </l>
+<l>Do sangue a côr maldita inda denigre     </l>
+<l>esses campos de horror; e as sepulturas     </l>
+<l>dos sem numero extinctos nos combates,     </l>
+<l>não florirão inda esta primavera.     </l>
+<l>Do raio o fumo a Lusitania assombra.</l>
+<l>    Ó Paz, filha do Ceo, mãe da abundancia,     </l>
+<l>da innocencia e do amor irman e amiga,     </l>
+<l>alma Paz, volve a nós, que assaz é tempo.     </l>
+<l>De opulentos avós mesquinhos netos,     </l>
+<l>já não pedimos bens: aos descendentes     </l>
+<l>do povo infesto a Roma e Rei do mundo,     </l>
+<l>basta um pouco de pão em paz comido.     </l>
+<l>Sobre os antigos loiros desfolhados     </l>
+<l>caiba-lhe ao menos respirar dormindo,     </l>
+<l>¡Que ideia tão inhospita e gelada!...</l>
+<l>    ¡Aguas! ¡aguas! ¡reguemos o bom cedro!     </l>
+<l>¡lá se vai por o sol! ¡cá nasce a lua!     </l>
+<l>Ó lua, vem propicia á joven planta;     </l>
+<l>e tu, doirado sol, propicio volta.</l>
+<l>    ¿Quem bate?... ¡parabens! dançae, folguemos?     </l>
+<l>¡eis o pobre! ¡eil-o! ¡é Deus que a nós o envia!     </l>
+<l>¡sim! da parte de Deus vem sempre o pobre.     </l>
+<l>Entrou á rega; ¡é fausto o agoiro! ¡é fausto!     </l>
+<l>enchei-lhe a taça, beberemos todos.</l>
+<l>    Conduziram-n-o ao lar; da farta ceia     </l>
+<l>leval-o-hão consolado á foufa cama.     </l>
+<l>Agora, que estou só, que apenas oiço     </l>
+<l>o mui longe cantar das fiandeiras     </l>
+<l>na aldeia d'alem-rio, ¡oh! vem... ¡sentemo-nos     </l>
+<l>ao-pé do que algum dia ha-de abrigar-nos,     </l>
+<l>candida imagem de Maria ausente!     </l>
+<l>segredarás aquella de que és sombra,     </l>
+<l>que para ella está guardada a gloria     </l>
+<l>de casar algum dia uma roseira     </l>
+<l>ao já seguro tronco. ¡Ai, doce emblema     </l>
+<l>da quêda e flórea vida, enlevo de ambos!</l>
 </quote>
 </div><div type="chapter"><head>XLIX</head>
 <p>Versos a este modo, e até somenos, brotaram por ali muitos nas temporadas luminosas, ou menos escuras; e em quasi todos elles brilhava, ou se entrevia, a estrellinha polar, para onde apontava o meu coração magnetisado.</p>
@@ -767,12 +1353,13 @@
 <p>Maria, nos fraguedos do Caramulo, não podia deixar de raiar-me a cada passo, como a lua, que, entre fagueira e melancolica, se encobre e descobre de continuo ao que transita por moitas e bosques; e, ou elle vá, ou pare, ou retroceda, o acompanha sempre, e lhe dá a sentir, com enternecido agradecimento, que não vai só.</p>
 <p>O mais e o melhor da minha poesia inculta dirigida a ella, não era porém o que se escrevia; era sim o que se me ia</p>
 <quote>
-<l>  "de noite em leves sonhos que mentiam,"     "de dia em pensamentos que voavam;"</l>
+<l>  "de noite em leves sonhos que mentiam,"     </l>
+<l>"de dia em pensamentos que voavam;"</l>
 </quote>
 <p>lyrica interior, que todos, cuido eu, conhecerão, ou conheceriam alguma vez; bafagens que veem direitas do paraizo á alma, e da alma se tornam para d'onde vieram, sem deixarem cá em baixo vestigio, mais que um frémito voluptuoso no coração, que de fóra se não percebe. Vêem-se manar lagrimas sem dôr, errar pelos labios uns sorrisos não alegres, mudar cores o semblante, despegar-se dos seios um suspiro, as mãos estenderem-se á procura do que quer que seja; vê-se tudo isto, e diz-se: -- É um visionario, ou está sonhando; -- e não é senão um poeta, que está lendo em si o mais celestial poema que nunca houve, mas que nem elle tornará a abrir, nem outrem jámais adivinhará.</p>
 <p>D'esses poemas fiz eu, e perdi, innumeraveis.</p>
 <p>Fazia-os ao pendurar ritualmente no crepusculo da tarde de cada sabbado uma capella de murtas nos ramos do meu cedro, consagrado a ella, e que me parecia tão desejoso de festejál-a como eu proprio; fazia-os deitado nos povaes de tijolo de S. Sebastião, ao ramalhar das carvalheiras, pelas séstas; fazia-os regando o jardimsinho de narcisos, gradeado de canas, por baixo da fonte do passal; fazia-os encostado sosinho a deshoras pela noite velha á janella do meu quarto, que deitava para a banda do horizonte, onde devia ficar o d'ella; fazia-os ouvindo ler versos apaixonados, que todos no espirito se me traduziam, e se combinavam na minha historia, muito mais apaixonada que elles todos; fazia-os escutando lá de um oiteiro o sino das Ave-Marias, ao cessarem os trabalhos da terra, na hora em que o ceo accende, como lampada para infinitos amores, a estrella magnifica de Venus; mas sobre tudo os fazia fechado por dentro na minha Villa Viçosa de palha, junto á "Pedra Branca", ao abrigo das chuvas e frios, do sol e dos ventos, de rumores e distracções, livre de olhos, de ouvidos e de pensamentos extranhos, só por só com a minha ausente. Para ella renovava as flores e a agua na urna de barro sobre a mesa entre os sophás de cortiça. Ouvia-a cantar ao som da sua viola franceza; dizia-lhe extremos de brandura, que nenhuma linguagem humana traduzira; perdia-me pelos mysteriosos labyrinthos da sua sensibilidade, nunca dantes franqueados; escutava o meu nome tornado musica pelos seus labios; recostava-a n'um coxim de rosmaninho; ajoelhava-lhe aos pés em adoração; voava-lhe aos braços, e anciava morrer ali assim, porém com ella, que eu sou o irmão mais novo de Propercio:</p>
-<quote>
+<quote xml:lang="lat">
 <l>  "Tunc ego, sed tecum, mortuus esse velim."</l>
 </quote>
 <p>Nada me inspirava tanto como a boa da casinha, tão depressa e tão sem custo edificada, que parecera improviso de Sylphides e Sylphos, e na qual se dissera terem elles ficado; ¡que assim era prestigiosa!</p>
@@ -794,7 +1381,10 @@
 </div><div type="chapter"><head>LI</head>
 <p>Com ser a luz uma communhão universal do Amor Divino, meza infinita em que os soes aos milhares ministram aos planetas sem conto; e aos entes sem limite de que os povoou o Omnipotente, é comtudo certo, que, assim como vão desiguaes os quinhões de luz de cada sol aos planetas e satellites que a distancias entre si diversas o rodeiam, assim tambem na esphera que habitâmos, por exemplo, a luz vem medida aos sitios, ás estações e ás horas, ás especies, aos individuos, ás edades e ás circumstancias, em proporções diversissimas, todas calculadas, todas certas, e todas em harmonia com as complicadas precisões de um systema geral e perfeitissimo.</p>
 <p>Comparae a claridade das cinco zonas; em cada zona, a das quatro estações; e em cada estação, a das montanhas, dos valles, dos bosques, e das cavernas; a da manhan, do meio dia, da tarde e da noite. Depois em cada logar e á mesma hora, considerae no como a luz, banhando e tingindo unicamente a superficie dos corpos inorganicos, incapazes de a sentir, vai abraçar com as suas caricias os entes organisados, que n'ella, e no calor seu companheiro, parecem aspirar a vida, o amor, a alegria; a adoração, como sectarios de Zoroastro. Os vegetaes, sem olhos, a bebem, se inebriam, riem-lhe em flores, com murmurios lhe falam, com fragrancias a lisonjeiam; brincam-lhe com os raios, decompondo-os na folhagem buliçosa, resurtindo-os; alvoroçam-se com a aurora, pendem-se e fecham-se ao escurecer; despem galas no inverno; na primavera retoucam-se e amam; no estio pompeiam e triumpham. Mas n'esta mesma generalidade ¡que differenças e quasi excepções! Para todos a luz é condição do ser e felicidade; mas o musgo que prospera na penumbra da Islandia, pereceria fulminado como Sémele, se o ardente sol dos tropicos o visitasse; as plantas magnificas dos tropicos, nas nossas latitudes, só temperadas, morreriam cegas á mingua de esplendores. Uma herva ala-se do fundo do fojo para o celeste amante, a quem o girasol no seu jardim vai tambem seguindo com a larga fronte doirada, que parece um retrato ephemero do bello astro, explica a fabula de Clície, e dá razão aos dois versos do Camões:</p>
-<p>  "Transforma-se o amador na coisa amada"     "por virtude do muito imaginar."</p>
+<quote>
+<l>  "Transforma-se o amador na coisa amada"     </l>
+<l>"por virtude do muito imaginar."</l>
+</quote>
 <p>Entretanto as grutas e os subterraneos lá teem não menos seus jardins umbrátiles, onde mil especies vegetaes, com uma só gotta de luz diluida nas trevas, alimentam e aditam a existencia.</p>
 <p>Os animaes, se exceptuarmos algumas raras especies mais baixas na gerarchia, que parecem não ver, dado se voltem para a luz como as plantas, os animaes absorvem-n-a com delicias.</p>
 <p>Os seus olhos são os vasos de gemmas finissimas por onde os seus espiritos a bebem; mas n'estes vasos sem conto, ¡que differenças nos tamanhos, nos feitios, nas cores, nas propriedades! Todos se enchem á immensa cascata de luz que jorra inexhaurivel: quaes em golfadas copiosas, quaes em estillas diminutas; estes, sombria, que fôra trevas para aquelles; aquelles, tão luxuosa, que cegaria a estes. A aguia devassa do alto os pormenores da campina; o insecto perscruta, com inveja dos sabios, o ignorado mundo dos infinitamente pequenos; e eximindo-se por sua tenuidade á perspicacia humana, é ainda por ventura condor, elephante, e lince para universos vivos, nem por nós sonhados, e de mil vezes mais espantosa exiguidade. Ha olhos-telescopios, ha olhos-microscopios, olhos que aproximam, olhos que afastam, olhos que alternativamente afastam e aproximam, olhos que se fitam rectos n'um só ponto, olhos que miram para todas as partes ao mesmo tempo, olhos para o dia, olhos para a noite, olhos unicos, olhos multiplices, olhos, em summa, que só a Sabedoria de Quem os ideou e perfez poderia discriminar e abranger em descripção ou cómputo.</p>
@@ -809,14 +1399,205 @@
 <p>-- ¿Mas como é -- insistem -- que, distinguindo apenas, e a curta distancia, os vultos grandes e as côres, consegue descrever, não sem alguma verdade, quadros da Natureza vastos e minuciosos, cujos originaes sem duvida lhe escapam? -- Do mesmo modo, pouco mais ou menos, como qualquer leitor por uma descripção poetica debuxa no seu espirito um objecto, cujo total nunca viu, mas cujas partes componentes a uma e uma lhe são todas familiares. Variando os elementos que possuo, vou compondo os quadros a meu gosto.</p>
 <p>Mas o que sobre isto vos poderia amiudar, já versos meus o disseram, agradecendo a um pintor amigo, a Sendim, o ter-me retratado. Se os lestes, saltae as seguintes paginas; se os não lestes, e vos interessa tal investigação, aqui os tendes. A mim apraz-me reproduzil-os; são já hoje saudades de vinte e tantos annos.</p>
 <quote>
-<l>    Já desde Homero, em tráficos do Pindo,     amigo meu Sendim, não roda o oiro.     Versos, bustos, paineis, primor das graças,     pague-os sêcco Bretão por sommas brutas,     se muito ha que do autor deu cabo a fome.     Lisonja em metro, em marmores, em côres,     encommende-a o mimoso da fortuna;     pague com seus dobrões a gloria alheia.     Nós que, longe da terra, ao vulgo extranhos,     vivemos facil vida anachoreta     por solidões de imaginario mundo;     que os loiros para nós por nós plantados     ouvimos sussurrar por sobre o colmo     da ermidinha onde as musas nos visitam;     nós, nós, a quem deu alma a Natureza,     não terrea, não mortal, não simples alma,     de instinctos animaes fugaz composto,     mas generosa, esplendida, sublime,     mixto da etherea luz, do olor das rosas,     do gorgeio do cysne, e do profundo     bramir do Oceano, e do beijar das rolas,     e do albor melancolico da lua,     e da calma do estio, e das sonoras     bafagens tuas, Héspero, e do lume     trémulo e scismador dos longes astros,     não pomos preço vil ao que é sem preço.</l>
-<l>    Como lá n'outra edade, entre homens simplices,     colono, pescador, monteiro, artifice,     de mão a mão seus commodos trocavam,     tal dura e durará commercio nosso.     Irmans, e não rivaes, as artes-bellas     apertem mais e mais seus mutuos laços;     sua origem commum, seus fins os mesmos,     impõem-lhes lei de amar-se, unir esforços,     umas ás outras realçar o encanto.     Mais, muito mais que irmans, são todas uma;     em nome, em fórma varia, é uma a essencia:     a belleza, a verdade, anceiam todas.</l>
-<l>    Pinta o Meónio, poetisa Apelles,     Phydias derrama em marmore a harmonia,     Orpheu nos magos sons esculpe os deuses.     Não ha mais que um só Deus, uma verdade,     uma belleza só; mostral-a em côres,     em figuras, em sons, em phrases podes;     são cultos de um só nume em linguas várias.     A amendoeira em flôr é primavera,     primavera é como ella o ceo macio,     primavera a violeta, os ninhos novos.     Unica e pura a eterna luz do engenho     dos sentidos no prisma se refrange,     e sai cambiada em fulgidos matizes.     Como as côres são luz, são estro as artes.</l>
-<l>    De nossa industria os fructos permutemos.     O mago teu pincel doou-me aos evos;     se os versos meus aos evos resistirem,     nos versos meus reflorirá teu nome.</l>
-<l>    ¡Ah! ¡não poder eu mais! qual tu meu todo     á estampadora pedra o confiaste,     capaz de confundir maternos olhos,     ¡não poder eu tambem pintar no metro     genio, vida, expressão, physionomia     de quadros, onde a mente aos olhos fala!     Desegual foi comnosco a Natureza:     amante seu feliz tu gozas d'ella,     abráçal-a com extasi, sorri-te,     descobre-te um a um seus mil encantos;     e, como se um tal bem não fosse immenso,     diz-te: -- «Eis-me aqui, retrata-me, ó ditoso;     d'onde os gostos extrais, extrae a gloria.» --      ¡Não assim eu! eu busco-a... ella se occulta;     chamo-a, invoco... ou não vem, ou só de longe     fugaz e esquiva se entremostra, e passa;     como visão por sonhos vaporosos;     como scena confusa e namorada     de já perdido livro; como ideia     da mui longinqua infancia, que inda a medo     por sob as cans revôa ao pé das urnas;     ou como o astro da noite em selva umbrosa;     ou como as vozes de um serão do estio,     quando da aldeia as virações as levam     soltas e vagas ao curioso ouvido     de erradio viandante; ou como o vulto     de ingrata amada em vão, que evita encontros,     leve atravez das arvores refoge,     sem deixar mais de si que a viva imagem     de alva roupa esvoaçada e gostos idos!     Realiso as que a Grecia fabulára     impaciencias do Alpheu, quando entre as nevoas,     doido de amor, frenetico, debalde     a vedada Arethusa andou buscando:     «Nympha, vi-te -- clamava -- ¡ai! ¡quero ver-te!»     e o "ai", com que as florestas apiedava,     não apiedava o coração da isenta.     Á beira de suas aguas fugitivas     depois cançado e triste ia encostar-se,     a procurar pelo animo saudoso     que feições enxergou, quaes poderiam     ser as mais que não viu; compunha-a toda,     linda sim, mas phantastica; e por ella     com longo affecto os eccos entretinha.</l>
-<l>    Por isso ninguem peça inteiro canto     na harpa quebrada. A voz de outros poetas     que o solte; não me assombra: a solfa inteira     perante os olhos seus se desenrola.     Minha harpa incerta, em solidões, por noite,     não apontados sons pendente exhala,     a capricho de um zephyro que adeja.     De Achilles, dos Jardins, do Eden os vates,     e dos Bardos o Bardo, Ossian, o altivo,     (pelo seu estro o juro; ¡immensa jura!)     taes não subiram, se ás geladas trevas     desde a infancia atro genio os condemnára.</l>
-<l>    Manhan da alma existencia. ¡Oh! ¡como alegre     me alvoreceste! ¡oh! plena luz, enlevo     de que o minimo insecto ignaro goza,     riqueza de que é rico o mundo todo,     luz, com pródiga mão dos céos lançada,     vida, belleza, luz! palavra etherea,     a unica de um Deus no grão momento,     em que ao formado mundo erguia o panno...     ¡luz! ¡luz! ¡eu te gozei na infancia minha!     ¿gozei?... ¿quem te possue goza-te acaso?     não; pródigo, indiff'rente, como todos,     vi-te, desperdicei te ¡Ah! ¡quem me dera     d'essas horas doiradas um minuto,     uma só gotta d'essas fontes amplas     por este areal tão sêcco! ¡Oh! ¡com que sede     n'um só momento me vingára de annos!     ¡que joias no poetico thesoiro     avido para um seculo ajuntára!     ¡Como ás imagens pallidas, que á força     te arranco, ó Natureza, como arranca     o oiro entre fezes duro escravo á mina,     como a tantas imagens desbotadas,     rico legado do menino ao homem,     revivêra o matiz, o fogo, o lustre!     Então, para pintar florestas, mares,     não precisára de espreitar confuso     um ramo a folha e folha, ou já no copo,     agil movido, o rutilar da lympha.     Se ouvisse descrever a majestade     de um rosto varonil, de uma formosa     o encanto, de um menino as graças lindas,     tudo isso o variára a mente facil.     O aspecto do varão nem sempre fôra     a paterna presença. Além de Amalia,     de meus brincos pueris ligeira socia,     mais formosas houvera, e mais formosos     anjos mortaes que o meu gentil do espelho,     de olhos tão vivos, tão córado aspecto,     riso tão doce, e que eu amava tanto!     ¡Saudades vans; desejos vãos e acerbos!     Se o mar, se o céo, se os campos se me esquivam,     róla a mente em seu mundo infindos mares,     campos lhe alastra de opulencia extranha,     circumvolve-o de céos fervendo em astros.     Tal de Agenor o filho a patria perde;     mas se lei deshumana o lança em fuga,     oraculo phebêu condul-o a thronos;     por Tyro que perdeu lá funda Thebas,     a de cem portas nos canoros muros.     Mas a patria... era a patria; aquella Tyro...     era a Tyro da infancia; o solio, Thebas,     o Elysio, o Olympo mesmo, a não valeram.</l>
-<l>    ¡Feliz o para quem da vida as portas     já se abriram sem luz! Só tem metade     do humano apego ao mundo e horror á morte:     não viu, chupando o leite, o seio amigo,     o sorrir brando, os olhos, e nos olhos     o coração materno; as irmans suas     não foram mais que uns sons; a rosa, um cheiro;     movimento, o passeio; o sol, quentura;     um monte, a estiva noite; as Graças... nada.     ¡Longe outra vez, e para sempre longe,     saudades vans, desejos vãos e acerbos!     ¿Que me importam canções? ¿que outrem descreva     com mais proprio matiz do mundo os quadros?     ¿que tenha ou não mais azas para um voo?     ¿que importa que um volume de poesia     seja um thesoiro para mim sem chave?     ¿e que dos seios do animo rebentem     meus versos caudalosos, sem que eu possa     co'a propria dextra abrir-lhes a passagem,     por onde ávidas paginas inundem?     ¿Não me rege inda a luz os cautos passos?     ¿não me tinge inda ao perto as varias fórmas?     livros... pluma... olhos meus e dextra minha     quando jámais n'outro "eu" me falleceram,     n'outro "eu" onde os amei e os amo em dobro?     ¡Graças a amor, á Natureza graças!     logrei constante, e lograrei perpétuo     nos laços fraternaes consorcio d'almas,     nos de hymeneu fraternidade nova;     meu ente n'estes entes se completa,     já bardo sou tambem... sahi, meus versos;     pura mão, don dos céos que eu pago em beijos     sollícita vos abre ao mundo estrada;     sahi, voae! da gratidão fervente     aos olhos de Sendim levae meus votos!</l>
+<l>    Já desde Homero, em tráficos do Pindo,</l>
+<l>amigo meu Sendim, não roda o oiro.</l>
+<l>Versos, bustos, paineis, primor das graças,</l>
+<l>pague-os sêcco Bretão por sommas brutas,</l>
+<l>se muito ha que do autor deu cabo a fome.</l>
+<l>Lisonja em metro, em marmores, em côres,</l>
+<l>encommende-a o mimoso da fortuna;</l>
+<l>pague com seus dobrões a gloria alheia.</l>
+<l>Nós que, longe da terra, ao vulgo extranhos,</l>
+<l>vivemos facil vida anachoreta</l>
+<l>por solidões de imaginario mundo;</l>
+<l>que os loiros para nós por nós plantados</l>
+<l>ouvimos sussurrar por sobre o colmo</l>
+<l>da ermidinha onde as musas nos visitam;</l>
+<l>nós, nós, a quem deu alma a Natureza,</l>
+<l>não terrea, não mortal, não simples alma,</l>
+<l>de instinctos animaes fugaz composto,</l>
+<l>mas generosa, esplendida, sublime,</l>
+<l>mixto da etherea luz, do olor das rosas,</l>
+<l>do gorgeio do cysne, e do profundo</l>
+<l>bramir do Oceano, e do beijar das rolas,</l>
+<l>e do albor melancolico da lua,</l>
+<l>e da calma do estio, e das sonoras</l>
+<l>bafagens tuas, Héspero, e do lume</l>
+<l>trémulo e scismador dos longes astros,</l>
+<l>não pomos preço vil ao que é sem preço.</l>
+<l>    Como lá n'outra edade, entre homens simplices,</l>
+<l>colono, pescador, monteiro, artifice,</l>
+<l>de mão a mão seus commodos trocavam,</l>
+<l>tal dura e durará commercio nosso.</l>
+<l>Irmans, e não rivaes, as artes-bellas</l>
+<l>apertem mais e mais seus mutuos laços;</l>
+<l>sua origem commum, seus fins os mesmos,</l>
+<l>impõem-lhes lei de amar-se, unir esforços,</l>
+<l>umas ás outras realçar o encanto.</l>
+<l>Mais, muito mais que irmans, são todas uma;</l>
+<l>em nome, em fórma varia, é uma a essencia:</l>
+<l>a belleza, a verdade, anceiam todas.</l>
+<l>    Pinta o Meónio, poetisa Apelles,</l>
+<l>Phydias derrama em marmore a harmonia,</l>
+<l>Orpheu nos magos sons esculpe os deuses.</l>
+<l>Não ha mais que um só Deus, uma verdade,</l>
+<l>uma belleza só; mostral-a em côres,</l>
+<l>em figuras, em sons, em phrases podes;</l>
+<l>são cultos de um só nume em linguas várias.</l>
+<l>A amendoeira em flôr é primavera,</l>
+<l>primavera é como ella o ceo macio,</l>
+<l>primavera a violeta, os ninhos novos.</l>
+<l>Unica e pura a eterna luz do engenho</l>
+<l>dos sentidos no prisma se refrange,</l>
+<l>e sai cambiada em fulgidos matizes.</l>
+<l>Como as côres são luz, são estro as artes.</l>
+<l>    De nossa industria os fructos permutemos.</l>
+<l>O mago teu pincel doou-me aos evos;</l>
+<l>se os versos meus aos evos resistirem,</l>
+<l>nos versos meus reflorirá teu nome.</l>
+<l>    ¡Ah! ¡não poder eu mais! qual tu meu todo</l>
+<l>á estampadora pedra o confiaste,</l>
+<l>capaz de confundir maternos olhos,</l>
+<l>¡não poder eu tambem pintar no metro</l>
+<l>genio, vida, expressão, physionomia</l>
+<l>de quadros, onde a mente aos olhos fala!</l>
+<l>Desegual foi comnosco a Natureza:</l>
+<l>amante seu feliz tu gozas d'ella,</l>
+<l>abráçal-a com extasi, sorri-te,</l>
+<l>descobre-te um a um seus mil encantos;</l>
+<l>e, como se um tal bem não fosse immenso,</l>
+<l>diz-te: -- «Eis-me aqui, retrata-me, ó ditoso;</l>
+<l>d'onde os gostos extrais, extrae a gloria.» --</l>
+<l> ¡Não assim eu! eu busco-a... ella se occulta;</l>
+<l>chamo-a, invoco... ou não vem, ou só de longe</l>
+<l>fugaz e esquiva se entremostra, e passa;</l>
+<l>como visão por sonhos vaporosos;</l>
+<l>como scena confusa e namorada</l>
+<l>de já perdido livro; como ideia</l>
+<l>da mui longinqua infancia, que inda a medo</l>
+<l>por sob as cans revôa ao pé das urnas;</l>
+<l>ou como o astro da noite em selva umbrosa;</l>
+<l>ou como as vozes de um serão do estio,</l>
+<l>quando da aldeia as virações as levam</l>
+<l>soltas e vagas ao curioso ouvido</l>
+<l>de erradio viandante; ou como o vulto</l>
+<l>de ingrata amada em vão, que evita encontros,</l>
+<l>leve atravez das arvores refoge,</l>
+<l>sem deixar mais de si que a viva imagem</l>
+<l>de alva roupa esvoaçada e gostos idos!</l>
+<l>Realiso as que a Grecia fabulára</l>
+<l>impaciencias do Alpheu, quando entre as nevoas,</l>
+<l>doido de amor, frenetico, debalde</l>
+<l>a vedada Arethusa andou buscando:</l>
+<l>«Nympha, vi-te -- clamava -- ¡ai! ¡quero ver-te!»</l>
+<l>e o "ai", com que as florestas apiedava,</l>
+<l>não apiedava o coração da isenta.</l>
+<l>Á beira de suas aguas fugitivas</l>
+<l>depois cançado e triste ia encostar-se,</l>
+<l>a procurar pelo animo saudoso</l>
+<l>que feições enxergou, quaes poderiam</l>
+<l>ser as mais que não viu; compunha-a toda,</l>
+<l>linda sim, mas phantastica; e por ella</l>
+<l>com longo affecto os eccos entretinha.</l>
+<l>    Por isso ninguem peça inteiro canto</l>
+<l>na harpa quebrada. A voz de outros poetas</l>
+<l>que o solte; não me assombra: a solfa inteira</l>
+<l>perante os olhos seus se desenrola.</l>
+<l>Minha harpa incerta, em solidões, por noite,</l>
+<l>não apontados sons pendente exhala,</l>
+<l>a capricho de um zephyro que adeja.</l>
+<l>De Achilles, dos Jardins, do Eden os vates,</l>
+<l>e dos Bardos o Bardo, Ossian, o altivo,</l>
+<l>(pelo seu estro o juro; ¡immensa jura!)</l>
+<l>taes não subiram, se ás geladas trevas</l>
+<l>desde a infancia atro genio os condemnára.</l>
+<l>    Manhan da alma existencia. ¡Oh! ¡como alegre</l>
+<l>me alvoreceste! ¡oh! plena luz, enlevo</l>
+<l>de que o minimo insecto ignaro goza,</l>
+<l>riqueza de que é rico o mundo todo,</l>
+<l>luz, com pródiga mão dos céos lançada,</l>
+<l>vida, belleza, luz! palavra etherea,</l>
+<l>a unica de um Deus no grão momento,</l>
+<l>em que ao formado mundo erguia o panno...</l>
+<l>¡luz! ¡luz! ¡eu te gozei na infancia minha!</l>
+<l>¿gozei?... ¿quem te possue goza-te acaso?</l>
+<l>não; pródigo, indiff'rente, como todos,</l>
+<l>vi-te, desperdicei te ¡Ah! ¡quem me dera</l>
+<l>d'essas horas doiradas um minuto,</l>
+<l>uma só gotta d'essas fontes amplas</l>
+<l>por este areal tão sêcco! ¡Oh! ¡com que sede</l>
+<l>n'um só momento me vingára de annos!</l>
+<l>¡que joias no poetico thesoiro</l>
+<l>avido para um seculo ajuntára!</l>
+<l>¡Como ás imagens pallidas, que á força</l>
+<l>te arranco, ó Natureza, como arranca</l>
+<l>o oiro entre fezes duro escravo á mina,</l>
+<l>como a tantas imagens desbotadas,</l>
+<l>rico legado do menino ao homem,</l>
+<l>revivêra o matiz, o fogo, o lustre!</l>
+<l>Então, para pintar florestas, mares,</l>
+<l>não precisára de espreitar confuso</l>
+<l>um ramo a folha e folha, ou já no copo,</l>
+<l>agil movido, o rutilar da lympha.</l>
+<l>Se ouvisse descrever a majestade</l>
+<l>de um rosto varonil, de uma formosa</l>
+<l>o encanto, de um menino as graças lindas,</l>
+<l>tudo isso o variára a mente facil.</l>
+<l>O aspecto do varão nem sempre fôra</l>
+<l>a paterna presença. Além de Amalia,</l>
+<l>de meus brincos pueris ligeira socia,</l>
+<l>mais formosas houvera, e mais formosos</l>
+<l>anjos mortaes que o meu gentil do espelho,</l>
+<l>de olhos tão vivos, tão córado aspecto,</l>
+<l>riso tão doce, e que eu amava tanto!</l>
+<l>¡Saudades vans; desejos vãos e acerbos!</l>
+<l>Se o mar, se o céo, se os campos se me esquivam,</l>
+<l>róla a mente em seu mundo infindos mares,</l>
+<l>campos lhe alastra de opulencia extranha,</l>
+<l>circumvolve-o de céos fervendo em astros.</l>
+<l>Tal de Agenor o filho a patria perde;</l>
+<l>mas se lei deshumana o lança em fuga,</l>
+<l>oraculo phebêu condul-o a thronos;</l>
+<l>por Tyro que perdeu lá funda Thebas,</l>
+<l>a de cem portas nos canoros muros.</l>
+<l>Mas a patria... era a patria; aquella Tyro...</l>
+<l>era a Tyro da infancia; o solio, Thebas,</l>
+<l>o Elysio, o Olympo mesmo, a não valeram.</l>
+<l>    ¡Feliz o para quem da vida as portas</l>
+<l>já se abriram sem luz! Só tem metade</l>
+<l>do humano apego ao mundo e horror á morte:</l>
+<l>não viu, chupando o leite, o seio amigo,</l>
+<l>o sorrir brando, os olhos, e nos olhos</l>
+<l>o coração materno; as irmans suas</l>
+<l>não foram mais que uns sons; a rosa, um cheiro;</l>
+<l>movimento, o passeio; o sol, quentura;</l>
+<l>um monte, a estiva noite; as Graças... nada.</l>
+<l>¡Longe outra vez, e para sempre longe,</l>
+<l>saudades vans, desejos vãos e acerbos!</l>
+<l>¿Que me importam canções? ¿que outrem descreva</l>
+<l>com mais proprio matiz do mundo os quadros?</l>
+<l>¿que tenha ou não mais azas para um voo?</l>
+<l>¿que importa que um volume de poesia</l>
+<l>seja um thesoiro para mim sem chave?</l>
+<l>¿e que dos seios do animo rebentem</l>
+<l>meus versos caudalosos, sem que eu possa</l>
+<l>co'a propria dextra abrir-lhes a passagem,</l>
+<l>por onde ávidas paginas inundem?</l>
+<l>¿Não me rege inda a luz os cautos passos?</l>
+<l>¿não me tinge inda ao perto as varias fórmas?</l>
+<l>livros... pluma... olhos meus e dextra minha</l>
+<l>quando jámais n'outro "eu" me falleceram,</l>
+<l>n'outro "eu" onde os amei e os amo em dobro?</l>
+<l>¡Graças a amor, á Natureza graças!</l>
+<l>logrei constante, e lograrei perpétuo</l>
+<l>nos laços fraternaes consorcio d'almas,</l>
+<l>nos de hymeneu fraternidade nova;</l>
+<l>meu ente n'estes entes se completa,</l>
+<l>já bardo sou tambem... sahi, meus versos;</l>
+<l>pura mão, don dos céos que eu pago em beijos</l>
+<l>sollícita vos abre ao mundo estrada;</l>
+<l>sahi, voae! da gratidão fervente</l>
+<l>aos olhos de Sendim levae meus votos!</l>
 </quote>
 </div><div type="chapter"><head>LIII</head>
 <p>Completemos estas explicações melancolicas.</p>
@@ -836,12 +1617,13 @@
 <p>Cada qual vê a mulher pelo seu prisma, prismas todos differentes e todos illusorios. O meu, fundido de um crystal mais turvo, decifra-a, individua-a muito menos, é verdade; mas em compensação permitte-me á phantasia o completal-a com todos quantos primores sabe, que são infinitos.</p>
 <p>¿Querereis dizer-me que são ficticios, que não são ella, esses primores? ficticios embora o sejam na origem; mas tornam-se d'ella, são ella mesma perante a alma e o coração que lh'os prestaram; é a mulher sem-senão, a mulher idealisada, a mulher só assim ascendida a grau de divindade, mulher exterior mais parecida por ventura com o espirito gentilissimo que lhe mora dentro, que o bando de máscaras femininas, mais ou menos imperfeitas, que enxameiam por esse mundo á procura sempre de homenagens convictas e duradoiras.</p>
 <p>Logo que eu, alchimista combinador e attento, senti uma voz suave, em que outros, distrahidos com o olhar não attentariam, e que me desceu do ouvido ao seio, distillo d'ella ao brando calor do sangue quanto succo ella continha de imaginação ou de Juizo, de melancolia, de prazer, de bondade, de innocencia, de sentimento. O perfume que d'ali se exhala, já annuncia a deusa. Entrevejo-a; branquejou-me o rosto, d'onde sahira tanta melodia e tanta alma. Doto-o, fado-o, opulento-o como podéra fazer o Oberon mais carinhoso, ou a Titania mais amante. O phantasma, já meio filho da minha adopção, passa por diante e perto de mim; reconheço-lhe, ou attribuo-lhe, como Virgilio á divina mãe de Enêas, a estatura, o movimento, o andar, que para ser adorada se lhe não dispensa:</p>
-<quote>
+<quote xml:lang="lat">
 <l>  "Et vera incessu patuit dea........."</l>
 </quote>
-<l>e não accrescento, porque o não penso:</l>
-<quote>
-<p>  "...............tu quoque falsis "     "Ludis imaginibus..............."</p>
+<p>e não accrescento, porque o não penso:</p>
+<quote xml:lang="lat">
+<l>  "...............tu quoque falsis " </l>
+<l>    "Ludis imaginibus..............."</l>
 </quote>
 <p>Beldade assim composta não é só perfeita, -- é inaccessivel aos estragos do tempo, é rosa que poderá morrer, mas não murcha, não desmaia, não se desfolha; quando por fatalidade desapparece, desapparece toda de uma vez.</p>
 <p>O commum das mulheres produz o commum dos amores: fogos-fatuos fluctuantes, frouxos, passageiros; para a minha, arde o fogo de Vesta.</p>
@@ -861,7 +1643,9 @@
 <p>A collecção de mais de setecentas cartas, de que sahiu como summario a "Chave do Enigma", existia completa ha poucos momentos ainda; daria tres volumes que poderiam interessar, se não como historia, como romance intimo certamente; ardeu até ao minimo fragmento, ali, debaixo das arvores do meu jardim; eu proprio lhe puz o fogo, velei a pyra em quanto se não extinguiu, enterrei as cinzas; davam na torre do palacio das Necessidades as quatro da tarde d'este dia 25 de Agosto de 1862.</p>
 <p>As razões que me induziram a este sacrificio, rastreiam-n-as todos; o que n'elle soffri, tambem o calo, que não importa a pessoa alguma.</p>
 <p>A pedra que o ha-de ficar commemorando, e que algum poeta ou alguma poetisa lá para o futuro em estio ou outono de amores folgará porventura de visitar com este livrinho na mão, dir-lhe-ha isto:</p>
-<p>                  AQUI JAZEM AS CINZAS                      DA CORRESPONDENCIA                              DE                       D. M. I. DE BAÊNA                       COIMBRA  PORTUGAL                               E                       A. F. DE CASTILHO                  QUEIMADA N'ESTE MESMO LOGAR                      AOS  25  DE  AGOSTO                            DE 1862</p>
+<quote>
+<l>                  AQUI JAZEM AS CINZAS                      DA CORRESPONDENCIA                              DE                       D. M. I. DE BAÊNA                       COIMBRA  PORTUGAL                               E                       A. F. DE CASTILHO                  QUEIMADA N'ESTE MESMO LOGAR                      AOS  25  DE  AGOSTO                            DE 1862</l>
+</quote>
 </div><div type="chapter"><head>LVII</head>
 <p>Mais uma ou duas paginas para responder já agora ás ultimas curiosidades.</p>
 <p>A 29 de Novembro de 1834, na parochial egreja do Salvador do mosteiro de Vairão, recebia eu emfim por minha legitima esposa a D. Maria Isabel de Baêna Coimbra Portugal. O orgão cantava não sei que jubilos tristes; as Religiosas choravam a perda da sua mais espirituosa, mais suave, e mais amavel companheira de tantos annos. A mão d'ella, tremia na minha; o alvoroço do seu interior, exhalava-se baixinho em monosyllabos humidos de lagrimas; eu padecia e gozava como homem que ia fugir com um thesoiro furtado. A boa D. Anna Lucinda não podéra assistir á ceremonia; ¡tanto a desejára em quanto só a vira no futuro! e agora... desamparavam-n-a as forças para a encarar; jazia doente na sua cella deserta. Maria tomou-o por agoiro. ¡Nunca ceo sem nuvem sobre alegrias humanas!</p>
@@ -880,23 +1664,25 @@
 <p>A bella alma partiu.</p>
 </div><div type="chapter"><head>LIX</head>
 <p>No cemiterio de Nossa Senhora dos Prazeres o tumulo N.º 48, convisinho á ermida da Virgem, deixa ler este epitaphio:</p>
-<p>                          MONUMENTO</p>
-<p>                       DE PERPETUA SAUDADE,</p>
-<p>                          CONSAGRADO POR</p>
-<p>                  ANTONIO FELICIANO DE CASTILHO</p>
-<p>                                A</p>
-<p>                           SUA MULHER</p>
-<p>                    D. MARIA IZABEL DE BAÊNA</p>
-<p>                        COIMBRA PORTUGAL,</p>
-<p>                        DIGNA SOBRINHA DE</p>
-<p>                   NICOLAU TOLENTINO DE ALMEIDA,</p>
-<p>                                E</p>
-<p>                      DESCENDENTE DO ANTIGO</p>
-<p>                      POETA ANTONIO FERREIRA.</p>
-<p>                   NASCÊO NO PORTO A 2 DE JULHO</p>
-<p>                                DE</p>
-<p>               E FALLECÊO EM LISBOA A 1 DE FEVEREIRO</p>
-<p>                                DE</p>
+<quote>
+<l>  MONUMENTO</l>
+<l>           DE PERPETUA SAUDADE,</l>
+<l>  CONSAGRADO POR</l>
+<l>      ANTONIO FELICIANO DE CASTILHO</l>
+<l>        A</l>
+<l>   SUA MULHER</l>
+<l>        D. MARIA IZABEL DE BAÊNA</l>
+<l>COIMBRA PORTUGAL,</l>
+<l>DIGNA SOBRINHA DE</l>
+<l>       NICOLAU TOLENTINO DE ALMEIDA,</l>
+<l>        E</l>
+<l>          DESCENDENTE DO ANTIGO</l>
+<l>          POETA ANTONIO FERREIRA.</l>
+<l>       NASCÊO NO PORTO A 2 DE JULHO</l>
+<l>        DE</l>
+<l>   E FALLECÊO EM LISBOA A 1 DE FEVEREIRO</l>
+<l>        DE</l>
+</quote>
 </div>
 </body>
 <back>
