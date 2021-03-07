@@ -17,7 +17,6 @@ exit;
     shift;
 }
 $par=0;
-$nums=0;
 $nump=0;
 while (<>) {
    if (/<p ([^>]*?)>/) {
@@ -41,9 +40,18 @@ while (<>) {
 	print $guardalinha;
 	$guardalinha="";
 	print;
-    } elsif (/<word id=\"1\" /) {
-	print "<s xml:id=\"$fich.s$nums\">\n$_";
-	$nums++;
+    } elsif (/FIMFOREIGN/) {
+	$fforeign=1;
+    } elsif ($fforeign and /postag=\"pu\"/) {
+	$fforeign=0;
+	print "</foreign>\n";
+    } elsif (/FOREIGN([^"]+?)\"/) {
+	$foreign=1;
+	$restoforeign=$1;
+    } elsif ($foreign and /postag=\"pu\"/) {
+	print "<foreign xml:lang=\"$restoforeign\">\n";
+	$foreign=0;
+	$restoforeign="";
     } elsif (/^\s*$/) {
 	print "</s>\n";
     } else {

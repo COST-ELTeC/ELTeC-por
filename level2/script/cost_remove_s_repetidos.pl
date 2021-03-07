@@ -19,6 +19,10 @@ while (<>) {
 #    s#<p>\n</s>#<p>#g;
     s#<l>\n</s>#<l>#g;
     s#(<p xml.*?>)\n</s>#$1#g;
+    s#</s>\n</s>\n<foreign ([^>]*?)>\n</s>\n</s>#<foreign $1>#g;
+    s#<foreign ([^>]*?)>\n</s>\n</s>#<foreign $1>#g;
+    s#</s>\n</s>\n</foreign>\n</s>\n</s>#</foreign>\n</s>#g;
+    s#</s>\n</s>\n</foreign>#</foreign>#g;
     s#</s>\n</s>#</s>#g;
     print;
 }
