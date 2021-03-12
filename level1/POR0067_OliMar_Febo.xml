@@ -1171,8 +1171,14 @@ pouco, um caprichoso lavor e tinha nas mãos um livro.
 Deitava os olhos ao céu, ao mar, às terras de além,
 volvia-os depois à sua leitura, abstracta e pensativa.
 Fixando-os no livro ia lendo: </p>
-<quote> </quote>
-<p>(1) Bernardim Ribeiro -- Menina e moça, Romance de Avalor. </p>
+<quote> 
+<l>As águas levam seu bem <ref target="#POR0067-nota-1"/></l>
+<l>Ele leva o seu pesar</l>
+<l>E só vai sem companhia</l>
+<l>Que os seus fora ele leixar.</l>
+<l>Querer cantar suas mágoas</l>
+<l>Seria areias contar...</l>
+</quote>
 <p>-- Dizes bem, poeta. Querer contar minhas mágoas seria areias
 contar! Que triste livro, mas que meigas palavras! bem se
 sentem as lágrimas, bem se ouve o bater do coração! Oh quem
@@ -1864,26 +1870,39 @@ Tremeu. D. Alonso deixou cair no chão o chapéu e
 experimentando as cordas, foi ao mesmo tempo examinando o
 rosto da sua conquista. O castelhano era bom tocador e tinha
 uma bela voz; começou: </p>
-<p>De vuestros ojos centellas (1), Que encienden pechos de hielo,
-Suben ipor el aire ai cielo, Y en legando son estrelas. </p>
+<quote xml:lang="es">
+<l>De vuestros ojos centellas, <ref target="#POR0067-nota-2"/></l>
+<l>Que encienden pechos de hielo,</l>
+<l>Suben por el aire ai cielo,</l> 
+<l>Y en legando son estrelas. </l>
+</quote>
 <p>D. Alonso ia examinando a fisionomia da menina, esperava
 dominá-la pela música e a outra qualquer dominaria, que não
 a ela fria e pouco sensível como era. Ana tinha pintado no
 rosto o temor, porque dera pela falta de Margarida. O
 castelhano adivinhara-o já e continuou: </p>
-<p>Falsos loores os dan. Que essas oentellas tan raias No son nel
-cielo mas claras, Que en los ojos donde estan. Porque cuando
-miro en ellas Lo como alumbran ai suelo, No sé que sean nel
-cielo Mas sé que acá son estrellas. </p>
-<p>Ni se puede presumir Que ai cielo suban senora; Que la lumbre que
-en vós mora, No tiene mas que subir; Mas pienso que dan
-querellas A Dios nel octavo cielo. Porque son acá en el
-suelo Dos tan hermosas estrellas. </p>
+<quote xml:lang="es">
+<l>Falsos loores os dan, </l>
+<l>Que essas oentellas tan raias </l>
+<l>No son nel cielo mas claras, </l>
+<l>Que en los ojos donde estan. </l>
+<l>Porque cuando miro en ellas </l>
+<l>Lo como alumbran ai suelo, </l>
+<l>No sé que sean nel cielo </l>
+<l>Mas sé que acá son estrellas. </l>
+<l>Ni se puede presumir </l>
+<l>Que ai cielo suban senora; </l>
+<l>Que la lumbre que en vós mora, </l>
+<l>No tiene mas que subir; </l>
+<l>Mas pienso que dan querellas </l>
+<l>A Dios nel octavo cielo. </l>
+<l>Porque son acá en el suelo </l>
+<l>Dos tan hermosas estrellas.</l>
+</quote>
 <p>D. Alonso acabara. Ana admirara a letra, a música e a execução,
 mas não lhe pudera a admiração dominar o temor; não se
 iludiu o castelhano, e vendo que não ganhava com aquele
 jogo, desistiu. </p>
-<p>(1) Camões, Redondilhas . </p>
 <p>-- Bonita letra, bela música e melhor execução, Sr. D. Alonso. </p>
 <p>-- Não o mereço, senhora, não o mereço; louvai o poeta, que vos
 louvais a vós. </p>
@@ -3275,11 +3294,16 @@ feriam, como duas balas de chumbo que lhe pesavam. </p>
 <p>Desceu depois a feiticeira, tomou uma feição menos austera e
 disse-lhe em verso, porque a poesia é a linguagem dos
 deuses: </p>
-<p>-- Vou polo alguidarinho (1), A candeia e o saquinho... E veredes
-labaredas. Se vos tremerem as peles D'espantos e de temores
-Hi estão vossos servidores. Encostade-vos a eles E
-cobride-vos d'amores. </p>
-<p>(1) Vide nota F. </p>
+<quote>
+<l>-- Vou polo alguidarinho, </l>
+<l>A candeia e o saquinho... </l>
+<l>E veredes labaredas. </l>
+<l>Se vos tremerem as peles </l>
+<l>D'espantos e de temores</l>
+<l>Hi estão vossos servidores. </l>
+<l>Encostade-vos a eles </l>
+<l>E cobride-vos d'amores. </l>
+</quote>
 <p>Sumiu-se então atrás da cortina, e ouviu-se um rumor surdo,
 contínuo, e ais e gemidos; o vento assobiava fora e
 estremecia as árvores e baloiçava as copas das canas, e
@@ -3293,40 +3317,77 @@ diante da profetisa sobre um estrado via-se um alguidar de
 barro com água, dentro dele uma panela com sangue de leão e
 fel de coruja, e um saquinho em cima, pleno de feitiços.
 Genebra, correndo as contas, ia dizendo: </p>
-<p>-- Ó Senhora Ladainha Ajudade-m'ora vós. Que já de esperar sam
-farta, E traga as fadas asinha... Cabra preta vai por vinha.
-Vai por vinha, mana minha, </p>
-<p>Te rogamus audi nos. Quando fordes à igreja Não vos esqueça a
-soberba. Tomad'ora meu conselho. Ó açoutes do concelho. Que
-estrearam meus avós </p>
-<p>Te rogamus audi nos. Ladainha da Pereira, Escrita em pele de
-rata. Tinta de pingo de pata, Assada per mão de mógueira. Ó
-picota da Ribeira, Que estrearam meus avós </p>
-<p>Te rogamus audi nos. </p>
+<quote>
+<l>-- Ó Senhora Ladainha </l>
+<l>Ajudade-m'ora vós. </l>
+<l>Que já de esperar sam farta, </l>
+<l>E traga as fadas asinha... </l>
+<l>Cabra preta vai por vinha.</l>
+<l>Vai por vinha, mana minha,</l>
+<l>Te rogamus audi nos. </l>
+<l>Quando fordes à igreja </l>
+<l>Não vos esqueça a soberba. </l>
+<l>Tomad'ora meu conselho. </l>
+<l>Ó açoutes do concelho. </l>
+<l>Que estrearam meus avós</l>
+<l>Te rogamus audi nos. </l>
+<l>Ladainha da Pereira, </l>
+<l>Escrita em pele de rata. </l>
+<l>Tinta de pingo de pata, </l>
+<l>Assada per mão de mógueira. </l>
+<l>Ó picota da Ribeira, </l>
+<l>Que estrearam meus avós</l>
+<l>Te rogamus audi nos. </l>
+</quote>
 <p>Guardou Genebra então com gesto solene o rasário de pupilas
 humanas, e descendo da tripeça, dobrou-se junto ao alguidar,
 e, correndo desenfreada como uma bacante em roda dele, ia
 dizendo numa toada de fazer erriçar os cabelos, poisando-lhe
 as mãos nas bordas: </p>
-<p>-- Alguidar, alguidar, Que feito foste ao luar Debaixo das sete
-estrelas, Com cuspinhos de donzelas Te mandei eu amassar: Ó
-cuspinhos preciosos De beiços tão preciosos Dai ora prazer A
-quem vos bem quer, E dai boas fadas Nas encruzilhadas. </p>
-<p>Este caminho vai pera lá, Est'outro atravessa cá; Vós no meio,
-alguidar, Que aqui cruz não há-de estar. Embora esteis,
-encruzilhada. Perequi entrou, pereli saiu. Bem venhades,
-dona honrada. Vai a estrada pola estrada. Benta é a gata que
-pariu Gato negro, negro é o gato. Bode negro anda no mato.
-Negro é o corvo e negro é o pez, Negro é o rei do enxadrez
-Negra é a vira do sapato, Negro é o saco que eu desato... </p>
+<quote>
+<l>-- Alguidar, alguidar, </l>
+<l>Que feito foste ao luar </l>
+<l>Debaixo das sete estrelas, </l>
+<l>Com cuspinhos de donzelas </l>
+<l>Te mandei eu amassar: </l>
+<l>Ó cuspinhos preciosos </l>
+<l>De beiços tão preciosos </l>
+<l>Dai ora prazer </l>
+<l>A quem vos bem quer, </l>
+<l>E dai boas fadas </l>
+<l>Nas encruzilhadas. </l>
+<l>Este caminho vai pera lá, </l>
+<l>Est'outro atravessa cá; </l>
+<l>Vós no meio, alguidar, </l>
+<l>Que aqui cruz não há-de estar. </l>
+<l>Embora esteis, encruzilhada. </l>
+<l>Perequi entrou, pereli saiu. </l>
+<l>Bem venhades, dona honrada. </l>
+<l>Vai a estrada pola estrada. </l>
+<l>Benta é a gata que pariu </l>
+<l>Gato negro, negro é o gato. </l>
+<l>Bode negro anda no mato.</l>
+<l>Negro é o corvo e negro é o pez, </l>
+<l>Negro é o rei do enxadrez</l>
+<l>Negra é a vira do sapato, </l>
+<l>Negro é o saco que eu desato... </l>
+</quote>
 <p>E aqui tomando de sobre a panela o saco dos feitiços, correu-lhe
 os cordões e abriu-o: nada continha a olhos profanos; mas
 Genebra foi tirando dele: </p>
-<p>-- Isto é fersura de sapo, Que está neste guardanapo. Eis aqui
-mama de porca, Barbas de bode furtado. Fel de morto
-excomungado, Seixinhos dope da forca: Bolo de trigo
-alqueivado Com dous ratos no meu lar. Per minha mão semeado,
-Colhido, moído, amassado. Nas costas do alguidar... </p>
+<quote>
+<l>-- Isto é fersura de sapo, </l>
+<l>Que está neste guardanapo. </l>
+<l>Eis aqui mama de porca, </l>
+<l>Barbas de bode furtado. </l>
+<l>Fel de morto excomungado, </l>
+<l>Seixinhos dope da forca: </l>
+<l>Bolo de trigo alqueivado </l>
+<l>Com dous ratos no meu lar. </l>
+<l>Per minha mão semeado,</l>
+<l>Colhido, moído, amassado. </l>
+<l>Nas costas do alguidar... </l>
+</quote>
 <p>A voz da profetisa percorria nesta singular descrição toda a
 escala de sons que laringe humana pode produzir, desde o
 mais profundo baixo até ao soprano mais agudo; ora uma voz
@@ -3349,17 +3410,28 @@ por um momento a sessão sagrada; ouviu-se depois um assobio
 e o rosto da profetisa asserenou-se ; Ana porém não sei qual
 a atemorizou mais se o trovão, se o assobio. Genebra
 continuou: </p>
-<p>-- Achegade-vos a mim: Que papades meu qu'rubim? Escumas de
-demoninhado Quem vo-las deu? </p>
-<p>Dei-vo-las eu. </p>
-<p>Fel de morto, meu conforto, Bolo cornudo, vós sabedes tudo, Bico
-de pego, asa de morcego. Bafo de drago, tudo vos trago... </p>
+<quote>
+<l>-- Achegade-vos a mim: </l>
+<l>Que papades meu qu'rubim? </l>
+<l>Escumas de demoninhado </l>
+<l>Quem vo-las deu? </l>
+<l>Dei-vo-las eu.</l>
+<l>Fel de morto, meu conforto, </l>
+<l>Bolo cornudo, vós sabedes tudo, </l>
+<l>Bico de pego, asa de morcego. </l>
+<l>Bafo de drago, tudo vos trago... </l>
+</quote>
 <p>Sentiam-se passos e falas no pavimento inferior e aproximavam-se
 : </p>
-<p>-- Eu não juro, nem esconjuro. Mas galo negro suro </p>
-<p>Cantou no meu monturo... </p>
+<quote>
+<l>-- Eu não juro, nem esconjuro. </l>
+<l>Mas galo negro suro</l>
+<l>Cantou no meu monturo... </l>
+</quote>
 <p>Os passos faziam tremer a escada. </p>
-<p>-- Ei-lo Demo vai, ei-lo Demo vem... </p>
+<quote>
+<l>-- Ei-lo Demo vai, ei-lo Demo vem... </l>
+</quote>
 <p>-- O Demo! O Demo aqui está, Genebra! </p>
 <p>Ana levantou-se horrorizada; mas não pôde deixar de querer ver o
 demo; viu-o e mais horrorizada ficou: o demo era D. Alonso. </p>
@@ -4741,8 +4813,12 @@ domina, e, invadindo as ruas e as praças, os becos e as
 vielas, levantando em trono efémero o seu ídolo, o seu
 escolhido, bradava, cantando com vozes miseravelmente
 terríveis: </p>
-<p>Viva el-rei D. Henrique No inferno muitos anos, Pois deixou em
-testamento Portugal aos castelhanos! </p>
+<quote>
+<l>Viva el-rei D. Henrique </l>
+<l>No inferno muitos anos, </l>
+<l>Pois deixou em testamento </l>
+<l>Portugal aos castelhanos! </l>
+</quote>
 </div>
 <div type="chapter">
 <head>ENCONTRA-SE AFINAL A FILHA MAIS VELHA DE FEBO</head>
@@ -7849,5 +7925,11 @@ esplendor no céu azul e sereno da humanidade crente em si. </p>
 <p>Lisboa. Outubro de 1867 </p>
 </div>
 </body>
+<back>
+<div type="notes">
+<note xml:id="POR0067-nota-1"> <p>Bernardim Ribeiro -- Menina e moça, Romance de Avalor. </p></note>
+<note xml:id="POR0067-nota-2"> <p>Camões, Redondilhas . </p></note>
+</div>
+</back>
 </text>
 </TEI>
