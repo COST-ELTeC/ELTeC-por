@@ -4,4 +4,4 @@ Conversion to the specific COST level 2 encoding was done partially using the **
 
 Please use the following references to PALAVRAS and PALAVRAS-NER if you use the material:
 * Bick, Eckhard. 2014. PALAVRAS, a Constraint Grammar-based Parsing System for Portuguese. In: Tony Berber Sardinha & Thelma de Lurdes São Bento Ferreira (eds.): *Working with Portuguese Corpora*, pp 279-302. London/New York: Bloomsbury Academic.
-* Bick, Echkard 2006. Functional Aspects in Portuguese NER.  In Renata Vieira, Paulo Quaresma, M. da Graça Volpe Nunes, Nuno J. Mamede, Cláudia Oliveira, and Carmelita M. Dias, editors, *Computational Processing of the Portuguese Language: 7th International Workshop*, PROPOR 2006. Itatiaia, Brazil, May 2006 (PROPOR'2006), pages 80–89. Springer Verlag. 
+* Bick, Echkard. 2006. Functional Aspects in Portuguese NER.  In Renata Vieira, Paulo Quaresma, M. da Graça Volpe Nunes, Nuno J. Mamede, Cláudia Oliveira, and Carmelita M. Dias, editors, *Computational Processing of the Portuguese Language: 7th International Workshop*, PROPOR 2006. Itatiaia, Brazil, May 2006 (PROPOR'2006), pages 80–89. Springer Verlag. 
