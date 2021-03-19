@@ -18,15 +18,17 @@ while (<>) {
     if (/<p .*? xml:lang/) {
 	s/postag=\".*?\" /postag=\"X\" /g;
 	s#</s>\n##g; #porque em casos estrangeiros não se contam frases
-    } elsif (/<quote xml:lang/) {
-	($antes,$quote,$depois)=($_=~m%^(.*?)(<quote.*</quote>)(.*)$%s);
-	$quote=~s/postag=\".*?\"/postag=\"X\"/g;
-	$quote=~s#</s>\n</l>#</l>#g;  # porque não se contam s em textos estranegiros
-	$_=$antes.$quote.$depois;
     } elsif (/<foreign xml:lang/) {
 	($antes,$quote,$depois)=($_=~m%^(.*?)(<foreign.*</foreign>)(.*)$%s);
 	$quote=~s/postag=\".*?\"/postag=\"X\"/g;
 	$quote=~s#</s>\n##g;
+	$_=$antes.$quote.$depois;
+    
+    } elsif (/<quote xml:lang/) {
+	($antes,$quote,$depois)=($_=~m%^(.*?)(<quote.*?</quote>)(.*)$%s);
+	$quote=~s/postag=\".*?\"/postag=\"X\"/g;
+	$quote=~s#</s>\n##g;
+#	$quote=~s#</s>\n</l>#</l>#g;  # porque não se contam s em textos estranegiros
 	$_=$antes.$quote.$depois;
     }
    print;

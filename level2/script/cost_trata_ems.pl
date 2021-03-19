@@ -18,6 +18,8 @@ while (<>) {
     if (/_/) {
 	$linha=$_;
 	($forma)=($_=~/form=\"(.*?)?\"/);
+	$forma=~s/\(/\\\(/g;
+	$forma=~s/\)/\\\)/g;
 	@formas=split(/_/,$forma);
 #	print "formas: @formas\n";
 # aqui faz-se mais alguma coisa se for EM
@@ -25,6 +27,7 @@ while (<>) {
 	if (/ner=\"NER:(.*?)\"/ and not (/postag=\"X\"/)) {
 	    $ner=$1;
 	    $ner=~s/\s.*//;
+#	    $ner=~s/|//g;
 	    print "<rs type=\"$ner\">\n";
 	    $linha=~s/ner=\".*?\"//;
 	    $em=1;

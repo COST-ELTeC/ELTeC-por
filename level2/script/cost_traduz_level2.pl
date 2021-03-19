@@ -35,7 +35,10 @@ while (<>) {
 	    print "<pc xml:id=\"$fich.pc$numpont\" pos=\"$pos\">$palavra</pc>\n";
 	    $numpont++;
 	}
-    } elsif (/<lixo/ or /^<[A-Z]/ or /<DERP/) {
+#    } elsif (/<lixo/ or /^<[A-Z]/ or /<DERP/) {
+#    } elsif (/<lixo/ or /<DER[PS]/) {
+    } elsif (/<lixo/) {
+#    } elsif (/<lixo/ or /\[sórd/ or /décimo=/) {
     } else {
 	print;
     }

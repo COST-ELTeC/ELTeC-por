@@ -16,5 +16,6 @@ exit;
 @Texto=<>;
 $texto=join('',@Texto);
 $texto=~s#pos=\"\"></pc>#pos="pu">--</pc>#gs;
+$texto=~s/ \@X//g;
 print $texto;
 

@@ -14,8 +14,8 @@ exit;
 
 @Texto=<>;
 $texto=join('',@Texto);
-$texto=~s/^.*<body>/<body>/s;
-$texto=~s/<\/sentence[^>]*>\n//g;
+$texto=~s/^.*?<body>/<front>/s;
+$texto=~s/<\/sentence>\n//g;
 $texto=~s/<multistar[0-9]>\n//g;
 $texto=~s#</TEI>.*$#</TEI>\n#s;
 print $texto;

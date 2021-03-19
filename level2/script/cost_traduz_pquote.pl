@@ -30,17 +30,7 @@ while (<>) {
     } elsif (/<note /) {
 	s/<note /<note xml:id=/g;
 	print;
-    } elsif (/form=\"\.\.\.\"/ and not /word id=\"1\"/) {
-	$talvezfimlinha=1;
-	$guardalinha=$_;
-    } elsif (/form=\"\.\"/ and $talvezfimlinha) {
-	$talvezfimlinha=0;
-    } elsif ($talvezfimlinha) {
-	$talvezfimlinha=0;
-	print $guardalinha;
-	$guardalinha="";
-	print;
-    } elsif (/FIMFOREIGN/) {
+   } elsif (/FIMFOREIGN/) {
 	$fforeign=1;
     } elsif ($fforeign and /postag=\"pu\"/) {
 	$fforeign=0;
@@ -52,7 +42,19 @@ while (<>) {
 	print "<foreign xml:lang=\"$restoforeign\">\n";
 	$foreign=0;
 	$restoforeign="";
-    } elsif (/^\s*$/) {
+    } elsif (/form=\"\.\.\./ and not /word id=\"1\"/) {
+	$talvezfimlinha=1;
+	$guardalinha=$_;
+    } elsif (/form=\"\./ and $talvezfimlinha) {
+	$talvezfimlinha=0;
+    } elsif ($talvezfimlinha) {
+	$talvezfimlinha=0;
+	print $guardalinha;
+	$guardalinha="";
+	print;
+    } elsif (/GAPPPPPP/) {
+	print "<gap/>\n";
+     } elsif (/^\s*$/) {
 	print "</s>\n";
     } else {
 	print;
