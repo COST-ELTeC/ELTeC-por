@@ -44,6 +44,7 @@ If you use this corpus in your research or teaching, please follow good scholarl
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-por/},
   doi= {https://doi.org/10.5281/zenodo.4271644},
+  }
 ```
 
 Or in Portuguese:
@@ -60,4 +61,5 @@ Or in Portuguese:
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-por/},
   doi= {https://doi.org/10.5281/zenodo.4271644},
+  }
 ```
