@@ -6,4 +6,4 @@ Please use the following references to PALAVRAS and PALAVRAS-NER if you use the 
 * Bick, Eckhard. 2014. PALAVRAS, a Constraint Grammar-based Parsing System for Portuguese. In: Tony Berber Sardinha & Thelma de Lurdes São Bento Ferreira (eds.): *Working with Portuguese Corpora*, pp 279-302. London/New York: Bloomsbury Academic.
 * Bick, Eckhard. 2006. Functional Aspects in Portuguese NER.  In Renata Vieira, Paulo Quaresma, M. da Graça Volpe Nunes, Nuno J. Mamede, Cláudia Oliveira, and Carmelita M. Dias, editors, *Computational Processing of the Portuguese Language: 7th International Workshop*, PROPOR 2006. Itatiaia, Brazil, May 2006 (PROPOR'2006), pages 80–89. Springer Verlag. 
 
-We thank Eckhard Bick for support and further development the visl2malt xml converter for the purposes of ELTeC.
+We thank Eckhard Bick for support and further development of the visl2malt xml converter for the purposes of ELTeC.
