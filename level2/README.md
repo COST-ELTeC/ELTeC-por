@@ -9,15 +9,15 @@ Please use the following references to PALAVRAS and PALAVRAS-NER if you use the 
 We thank Eckhard Bick for support and further development of the visl2malt xml converter for the purposes of ELTeC.
 
 As for the POS tags, we used the simple (and possibly error-inducing) conversion to UD names as follows: 
-PROP -> PROPN
-V marked as aux -> AUX
-V -> VERB
-IN -> INTJ
-N -> NOUN
-PERS -> PRON
-KC -> CCONJ
-KS -> SCONJ
-PRP -> ADP
+PROP -> PROPN;
+V marked as aux -> AUX;
+V -> VERB;
+IN -> INTJ;
+N -> NOUN;
+PERS -> PRON;
+KC -> CCONJ;
+KS -> SCONJ;
+PRP -> ADP;
 SPEC -> PRON
 
 However, it is important to indicate that the works were parsed by the PALAVRAS parser and differ significantly in the underlying linguistic dependency options.
