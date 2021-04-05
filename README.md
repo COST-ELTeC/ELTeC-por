@@ -6,6 +6,7 @@ This is the Portuguese novel collection for the ELTeC, the *European Literary Te
 
 ## Release notes
 
+* v2.0.0, April 2021: 100 novels in level 1 and level 2 encoding, DOI: https://doi.org/10.5281/zenodo.4288235. 
 * v0.9.0, November 2020: 100 novels, DOI: https://doi.org/10.5281/zenodo.4271644. 
 
 General information about ELTeC releases is available at https://github.com/COST-ELTeC/ELTeC.
@@ -31,24 +32,25 @@ We acknowledge a 3 months scholarship from Centro de Linguística da Universidad
 
 ## Citation suggestion
 If you use this corpus in your research or teaching, please follow good scholarly practice and use the following citation suggestion to acknowledge your source. In English:
-* Portuguese Novel Collection (ELTeC-por), edited by Diana Santos. Version 0.9.0, November 2020. In *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4271644. 
+
+* Portuguese Novel Collection (ELTeC-por), edited by Diana Santos. Version 2.0.0, April 2020. In *European Literary Text Collection (ELTeC)*. COST Action Distant Reading for European Literary History. DOI: https://doi.org/10.5281/zenodo.4288235. 
 
 ```
 @collection{ELTeCpor-2020,
   title = {Portuguese Novel Collection (ELTeC-por)},
   maintitle = {European Literary Text Collection (ELTeC)},
   editor = {Diana Santos},
-  version = {v0.9.0},
-  year = {2020},
-  month = {11},
+  version = {v2.0.0},
+  year = {2021},
+  month = {4},
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-por/},
-  doi= {https://doi.org/10.5281/zenodo.4271644},
+  doi= {https://doi.org/10.5281/zenodo.4288235},
   }
 ```
 
 Or in Portuguese:
-* Coleção de romances e novelas portugueses (ELTeC-por), editada por Diana Santos. Versão 0.9.0, novembro de 2020. In *Coleção de textos literários europeus (ELTeC)*. Ação COST "Distant Reading for European Literary History". DOI: https://doi.org/10.5281/zenodo.4271644.
+* Coleção de romances e novelas portugueses (ELTeC-por), editada por Diana Santos. Versão 2.0.0, abril de 2021. In *Coleção de textos literários europeus (ELTeC)*. Ação COST "Distant Reading for European Literary History". DOI: https://doi.org/10.5281/zenodo.4288235.
 
 ```
 @collection{ELTeCpor-2020,
@@ -60,6 +62,6 @@ Or in Portuguese:
   month = {novembro},
   publisher = {COST Action Distant Reading for European Literary History},
   url = {https://github.com/COST-ELTeC/ELTeC-por/},
-  doi= {https://doi.org/10.5281/zenodo.4271644},
+  doi= {https://doi.org/10.5281/zenodo.4288235},
   }
 ```
