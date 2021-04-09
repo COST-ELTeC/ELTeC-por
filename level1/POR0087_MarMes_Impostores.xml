@@ -22,7 +22,15 @@
 <extent>
 <measure unit="words">129113</measure>
 </extent>
-<publicationStmt><p>Added to ELTeC repo on <date>25-3-2020</date></p></publicationStmt>
+<publicationStmt>
+<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
+<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
+<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
+<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
+<!--Added to ELTeC repo on 25-3-2020--></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Os quatro reis impostôres (romance da historia)</title> 
 <author>Marcellino Mesquita</author>
@@ -54,6 +62,7 @@
 
 </profileDesc>
 <revisionDesc>
+<change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-03-25">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -558,7 +567,7 @@
 <p>O Sebastianismo </p>
 <p>A um povo envilecido pela fome, dizimado pela morte, na Africa, na India, no mar; opprimido pelo frade, roubado pelo nobre, bestialisado pelo jesuita, emparvecido na sua ignorancia absoluta, não ise podem pedir acções heroicas, rasgos de  audacia, energias masculas. </p>
 <p>O povo portuguez que, desde D. João II, começara a perder as suas nobres qualidades de cara- </p>
-<p>cter> pela perda das regalias, ao chegar a D. Sebastião já não era um povo, era uma malta estupida e inconsciente, um rebanho timido de escravos. </p>
+<p>cter&gt; pela perda das regalias, ao chegar a D. Sebastião já não era um povo, era uma malta estupida e inconsciente, um rebanho timido de escravos. </p>
 <p>Miseravelmente supersticioso e credulo, mergulha n'aquella apagada e vil tristeza», modorra moral, symthoma de aborrecimento, de indifferença pelas cousas da terra, de descrença na melhoria da doença, que reputa mortal. </p>
 <p>A sua cabeça medita, exhaurida; no seu cerebro doente apparecem os sonhos, as illusões, cousas sobrenaturaes e loucas. </p>
 <p>Era o delirio da fome, da servidão, da miseria! </p>
@@ -2037,7 +2046,7 @@
 <p>-- Era como me chamavam, porque meu pae Era oleiro. Como sahi pequeno, não fixei outro nome.</p>
 <p>-- A sua mãe, o seu pae, como lhe chamavam?</p>
 <p>O filho do oleiro começou a sorrir garôtamente.</p>
-<p>Digo a V. s.ª que com toda a verdade o não sei. Talvez fosse Zé. .  tenho uma ideia... o que elles me chammavam era... ó raio... ó maldito...</p>
+<p>Digo a V. s.ª que com toda a verdade o não sei. Talvez fosse Zé. . &#x95; tenho uma ideia... o que elles me chammavam era... ó raio... ó maldito...</p>
 <p>ó grande filho.</p>
 <p>Os juizes não poderam conter o riso e um d'elles interrompeu:</p>
 <p>-- D'onde é, então?</p>
