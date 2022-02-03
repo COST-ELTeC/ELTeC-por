@@ -25,15 +25,8 @@
 <measure unit="words">93020</measure>
 <measure unit="pages">175</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook A casa dos fantasmas</title>
@@ -41,7 +34,7 @@
 </bibl><bibl type="firstEdition">
        <title>A casa dos fantasmas: Episodio do tempo dos francezes</title>
        <author>Luiz Augusto Rebello da Silva</author>
-       <publisher/>
+       <publisher></publisher>
        <pubPlace>Lisboa</pubPlace>
        <date>1865</date>
 </bibl><bibl type="printSource">
@@ -70,8 +63,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-04-27">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -1060,8 +1052,7 @@
 <p>Combatida de escrupulos suggeridos por falsos devotos a rasão da rainha principiou logo a vacillar, e á prudencia e caracter limpo de allusões do seu confessor o arcebispo de Thessalonica, D. Fr. Ignacio de S. Caetano, é que ella deveu não se afogar mais cedo nas trevas da demencia.</p>
 <p>O governo de D. Maria I não foi, comtudo, um governo absolutamente estacionario e inimigo de reformas. Se o risco das grandes cousas traçadas pelo marquez de Pombal assustava a capacidade menos elevada dos ministros, que lhe succederam, todos elles ao menos manifestaram bons desejos e rectas intenções, seguindo, ainda que muito de longe, o espirito moderno, que alvorecia em França, e cujos clarões ainda se não haviam convertido nos relampagos deslumbrantes, que precederam a revolução de 1789; ou nas tempestades medonhas, que revelaram as subversões de 1792 e 1793.</p>
 <p>Modesto nas idéas e nos commettimentos, o gabinete da rainha creou a junta do codigo civil, cujos trabalhos nunca viram a luz da estampa; fundou a Academia Real das sciencias; estabeleceu os estudos de primeiras lettras e humanidades nos claustros das corporações regulares; instituiu a casa Pia para asylo das creanças orphãs; dotou as aulas de Fortificação e a Academia de Marinha; e decretou novas estradas e meios de as executar sob a direcção de José Diogo de Mascarenhas Netto.</p>
-<p>A entrada de D. Rodrigo de Sousa Coutinho no ministerio em principios de 1797, por morte de Martinho de Mello, introduziu na administração um elemento activo, emprehendedor, e dedicado por indole e tendencias a arriscar planos mais vastos e mais altos muitas vezes, do que o consentiam as circumstancias e as forças debilitadas da monarchia.</p>
-<p><pb n="183"/></p>
+<p>A entrada de D. Rodrigo de Sousa Coutinho no ministerio em principios de 1797, por morte de Martinho de Mello, introduziu na administração um elemento activo, emprehendedor, e dedicado por indole e tendencias a arriscar planos mais vastos e mais altos muitas vezes, do que o consentiam as circumstancias e as forças debilitadas da monarchia.<pb n="183"/></p>
 </div><div type="chapter"><head>III</head>
 <p>Os tres sujeitos eram nada menos, do que tres delegados do conselho conservador de Lisboa, associação composta de patriotas dedicados á restauração da independencia, etc., pag. 88.</p>
 <p>A existencia d'esta sociedade secreta politica não é uma invenção. Saiu á luz dos prelos da imprensa regia um opusculo de 24 paginas de 8º, com a seguinte denominação Catalogo por copia extrahido do original das sessões e actas feitas pela sociedade de portuguezes, dirigida por um conselho intitulado conselho conservador de lisboa, e installada n'esta mesma cidade em 5 de fevereiro de 1808; tendo se unido os installadores em 21 de janeiro do mesmo anno para tractar da restauração da patria.</p>
@@ -1070,8 +1061,7 @@
 <p>Na setima sessão prestaram este juramento um pouco theatral o coronel de cavallaria Alvaro Xavier <pb n="184"/> de Povoas e Fernando Romão da Costa Athaide Teive. D'ahi em deante cresceu todos os dias o numero dos socios e associados. Na sessão de 25.º constituiu-se o conselho conservador á pluralidade de votos e ficou composto dos seguintes deputados e adjuntos: o bispo de Malaca D. Francisco, o D. abbade de Belem fr. Manuel de Mesquita, o arcediago do Funchal Manuel Joaquim de Sousa, o beneficiado Joaquim José da Costa, o marquez de Angeja D. João, o conde de Rio Maior, o visconde da Bahia, o desembargador Sebastião José de Sampaio, o brigadeiro Antonio Marcelino da Victoria, os coroneis Lemos, Lacerda, e Raposo, o tenente coronel Costa Athaide, o major Antonio Marcelino Soares, e todos os mais socios approvados e admittidos. João Carlos de Saldanha Oliveira e Daun, hoje duque de Saldanha, entrou tambem no conselho inscripto sob numero 27. Consta da relação publicada a pag. 87 do opusculo.</p>
 <p>O conselho desde 5 de fevereiro até ao 1.º de outubro de 1808, em que se dissolveu, celebrou quarenta e duas sessões. O numero dos socios ajuramentados subia a 183. O dos auxiliares abonados por varios d'elles elevava-se a 959, além do concurso de tropa e povo, com que contava para o caso de um rompimento.</p>
 <p>Os planos de sublevação, as proclamações, os avisos ao almirante inglez sir Charles Cotton, e os projectos da sociedade não corriam tão secretos como elle imaginava.</p>
-<p>A policia franceza suspeitava, pelo menos, se não conhecia plenamente a organização d'este nucleo; porém não julgou prudente proceder contra elle, temendo-se talvez mais de um processo ruidoso em circumstancias criticas, do que dos tramas pouco bellicosos e activos dos conspiradores. É o que se deprehende de um trecho da Historia da Guerra da Peninsula do general Foy.</p>
-<p><pb n="185"/></p>
+<p>A policia franceza suspeitava, pelo menos, se não conhecia plenamente a organização d'este nucleo; porém não julgou prudente proceder contra elle, temendo-se talvez mais de um processo ruidoso em circumstancias criticas, do que dos tramas pouco bellicosos e activos dos conspiradores. É o que se deprehende de um trecho da Historia da Guerra da Peninsula do general Foy.<pb n="185"/></p>
 </div><div type="chapter"><head>IV</head>
 <p>Muitos homens illustrados, que o grandioso espectaculo dos acontecimentos advertia, suspiravam por uma renovação, que nunca podia ser inspirada, bem o sabiam por experiencia, nem pelas idéas, nem pela iniciativa de um governo caduco pag. 101.</p>
 <p>Allude-se no texto ao plano de uma constituição similhante á que Napoleão I concedêra ao grão-ducado de Varsovia, plano concebido, segundo affirma o general Foy, no liv. II da sua Histoire de la Guerre de la Peninsule, por alguns patriotas portuguezes, desejosos de colherem ao menos da intrusão estrangeira os beneficios da liberdade.</p>
@@ -1082,8 +1072,7 @@
 <p>Quando o conde da Ega foi incumbido por Junot de aggregar aos membros da Junta dos Tres Estados os representantes denominados dos braços da nação para lhes extorquir em simulacro de côrtes um voto de adhesão, o juiz do povo protestou contra os actos da assembléa, como illegaes e emanados de corpo incompetente. Quando as quinas foram picadas e substituidas pela aguia corsa, Abreu Campos negou-se a apagal-as da cabeça da sua vara.</p>
 <p>O juiz do povo correspondeu ás esperanças depositadas n'elle. Intimado para assignar com o clero e a nobreza, em nome do povo, a mensagem de 24 de maio de 1808 (provas de l'Histoire de la guerre de la Peninsule, par le general Foy. Paris 1827, tom. II, pags. 467-469) o honrado tanoeiro, protestando contra o acto por nullo e abjecto, e contra os que o practicavam por incompetentes, apresentou o projecto de constituição composto em fórma de petição dirigida ao imperador, e appellou para o voto do paiz representado em côrtes.</p>
 <p>Esta voz isenta proclamando a emancipação politica offendeu os ouvidos do duque de Abrantes. O juiz do povo, chamado ao quartel general, foi asperamente reprehendido, e varias pessoas, suspeitas de liberaes, mandadas sair de Lisboa.</p>
-<p>Prevaleceu assim a mensagem servil dictada á simulada junta da nação. José Sebastião de Saldanha partiu encarregado de a apresentar a Napoleão I. Achando, porém, já interceptadas as communicações da Hespanha com a França, recolheu a Lisboa sem ter podido passar adeante da cidade Rodrigo.</p>
-<p><pb n="187"/></p>
+<p>Prevaleceu assim a mensagem servil dictada á simulada junta da nação. José Sebastião de Saldanha partiu encarregado de a apresentar a Napoleão I. Achando, porém, já interceptadas as communicações da Hespanha com a França, recolheu a Lisboa sem ter podido passar adeante da cidade Rodrigo.<pb n="187"/></p>
 </div><div type="chapter"><head>V</head>
 <p>Deixemos passar esses vultos, que pisam os sobrados nas pontas dos pés, escorregando quasi como sombras. São rodas secundarias da machina, pag. 111 e 112.</p>
 <p>O general Junot, intitulando-se nos seus actos governador de Paris, primeiro ajudante de campo de S. M. o imperador e rei, e general em chefe do exercito invasor, compôz desde principio e da maneira seguinte o pessoal do governo em Lisboa:</p>
@@ -1838,8 +1827,7 @@
 <p>João Pedro Ribeiro, no tomo III das Dissertações Chronologicas, doc. LII pag. 153, insere um alvará datado de 16 de agosto de 1630, pelo qual o rei ordena, que os tribunaes do Porto acompanhem de futuro a procissão <pb n="152"/> do Corpo de Deus da mesma fórma, que a tinham acompanhado n'este anno. No tomo IV das Dissertações (doc. XIII a XVI.) publica duas cartas da rainha regente D. Catharina, uma datada de 30 de maio de 1560, e a outra de 13 de maio de 1561, nas quaes dicta alguns preceitos ácerca do modo e fórma de reger a procissão na cidade do Porto, e de cohibir as representações deshonestas e escandalosas, introduzidas n'ella.</p>
 <p>Outras duas cartas, uma de el rei D. Filippe III, escripta em Aranjuez em 15 de maio de 1607, outra dirigida ao juiz, vereadores e procurador da camara da cidade do Porto, pelo marquez de Castello Rodrigo em 18 de maio de 1608, (doc. XV e XVI), tractando do mesmo assumpto, respondem ás queixas do bispo D. Fr. Gonçalo de Moraes, e providenceiam ácerca d'ellas. Finalmente o Regimento feito pelos officiaes da camara da cidade do Porto para a procissão de corpus com o parecer do Dr. Antonio de Cabral, chanceller da Relação, regimento approvado pelo alvará de 15 de julho de 1621, encerra o plano de distribuição das figuras, córos, danças, folias, monstros, chacotas, imagens, anjos, demonios, andores, charolas, communidades, clero, e tribunaes, que haviam de acompanhar o prestito, determinando o logar, que lhes cabia n'elle, e a ordem em que tinham de caminhar.</p>
 <p>No Regimento Novo de Lisboa, que já citámos, diz-se que a primeira vez, que o sr. S. Jorge saiu com o seu estado na procissão foi no anno de 1387 por ordem expressa de D. João I. No reinado de D. João III, em 1538, o prestito era tão vistoso e variado pela singularidade e invenções das figuras, e pela opulencia e riqueza que ostentavam as corporações mechanicas, que não admirava que se despovoassem os arrabaldes e até as provincias para assistir a tão sumptuosa festa. Em tempos mais proximos havia toirada no dia da procissão.</p>
-<p>D. João V, instituindo a Patriarcal em 1717, decretou nova fórma á procissão de corpus, tornada menos profana e mais devota. A grande pompa e o immenso cortejo, que a ennobreceu no anno de 1719, proporcionou fecundo thema á eloquencia do incansavel irmão Barbosa Machado, auctor da obra a que se refere o texto.</p>
-<p><pb n="153"/></p>
+<p>D. João V, instituindo a Patriarcal em 1717, decretou nova fórma á procissão de corpus, tornada menos profana e mais devota. A grande pompa e o immenso cortejo, que a ennobreceu no anno de 1719, proporcionou fecundo thema á eloquencia do incansavel irmão Barbosa Machado, auctor da obra a que se refere o texto.<pb n="153"/></p>
 </div><div type="chapter"><head>II</head>
 <p>O resto, o peior da empreza, encarregou-se o brigadeiro Margaron de o concluir por ordem de Junot, etc., pag. 29.</p>
 <p>Coimbra sublevou-se contra os francezes no dia 22 de junho, formando logo para sua defeza a legião academica, composta dos estudantes ás ordens do vice-reitor. O Porto tinha-se levantado no dia 18, dando o exemplo a toda a provincia do Minho. O Algarve insurgiu-se a 16. A provincia da Beira não se demorou tambem. Dentro de poucos dias o incendio tinha-se extendido a todo o reino, tornando-se geral.</p>
@@ -1848,8 +1836,7 @@
 <p>A columna provou logo em Alcoentre o seu ardor de vingança. Tomando o innocente cirio da Ameixieira por um tropel de guerrilhas, Margaron manda armar uma embuscada por traz de um pinhal, e o chefe de esquadrão Salm-Salm investe, intrepido e implacavel, os aldeãos devotos, como se fossem leões embravecidos. Aos primeiros tiros caem por terra banhados em sangue o gaiteiro e o prégador. Depois são assassinados indistinctamente homens, mulheres, e crianças. A fuga salva o maior numero da furia dos vencedores, cujos despojos n'esta batalha incrivel são duas bandeiras de Nossa Senhora, expostas como tropheus no quartel general. O boletim de 7 de julho teve a ingenuidade de commemorar como derrota de um exercito de rebeldes esta carnificina do povo inerme!</p>
 <p>No dia 5 uniu-se o general Thomiéres com 800 homens <pb n="154"/> a Margaron, e marcharam ambos contra Leiria A cidade passou, como é de crer, dos fogosos arrebatamentos de jubilo patriotico a uma sombria apprehensão dos males, que a ameaçavam. Não contava para se defender, senão com os brios já desalentados de algumas companhias de ordenanças, que haviam principiado a organizar-se sob o commando do coronel de cavallaria Rodrigo Barba Allardo, alcaide mór. O capitão mór, Manuel Trigueiros, auxiliava-o com mais zelo, que pericia, e o coronel de milicias Isidoro dos Santos Ferreira procurava reanimar o esforço de todos com seus discursos. Era pouco para arrostar em fortificações, nem meios solidos de resistencia o valor disciplinado dos soldados do exercito da Gironda.</p>
 <p>A noite, e a noticia do que occorrêra em Alcoentre, acabaram de arrefecer o enthusiasmo amortecido dos moradores. Rodrigo Barba, os magistrados, e o bispo, não julgando prudente, desarmados, como se viam, affrontar as iras dos inimigos, evadiram-se sem ruido durante a calada das trevas. Quando rompeu o dia, apenas oitocentos homens da plebe, e duzentas ordenanças de espingardas e chuços se atreveram com temeridade louca a disputar sem chefes a entrada da cidade aos francezes. Margaron deu-lhes as honras de guerreiros consumados, tomando as disposições, que poderia exigir uma força regular e numerosa. Avançou contra Leiria com as tropas divididas em duas álas e a artilheria no centro. Disparados os primeiros canhões, e dadas as primeiras descargas de mosqueteria, o povo fugiu em confusão, e os francezes apoderaram-se da cidade com perda de um homem morto e de dois feridos!</p>
-<p>Os vencedores despregaram então toda a crueldade contra velhos, mulheres, e crianças, que imploraram debalde a sua misericordia, e metteram toda a povoação a ferro e saque. O principe de Salm-Salm sobresaiu com ferocidade n'esta campanha contra prisioneiros inermes. O palacio episcopal, a Sé, e os templos foram roubados; as egrejas desacatadas; as casas particulares invadidas e despojadas. O resultado foi incenderem-se mais os odios, e recrudescer a resistencia nacional. (Vid. general Foy tomo II liv. VIII).</p>
-<p><pb n="155"/></p>
+<p>Os vencedores despregaram então toda a crueldade contra velhos, mulheres, e crianças, que imploraram debalde a sua misericordia, e metteram toda a povoação a ferro e saque. O principe de Salm-Salm sobresaiu com ferocidade n'esta campanha contra prisioneiros inermes. O palacio episcopal, a Sé, e os templos foram roubados; as egrejas desacatadas; as casas particulares invadidas e despojadas. O resultado foi incenderem-se mais os odios, e recrudescer a resistencia nacional. (Vid. general Foy tomo II liv. VIII).<pb n="155"/></p>
 </div><div type="chapter"><head>III</head>
 <p>O duque de Abrantes mostrou-se digno dos feitos heroicos, que ennobreceram a sua carreira etc. pag. 68.</p>
 <p>A vida de Junot comporia quasi um romance.</p>
@@ -1889,8 +1876,7 @@
 <p>O ministro dos negocios estrangeiros.</p>
 <p>Champagny.</p>
 <p>O ministro secretario d'estado.</p>
-<p>H. B. Marat.</p>
-<p><pb n="160"/></p>
+<p>H. B. Marat.<pb n="160"/></p>
 <p>N.º 2</p>
 <p>EDITAL.</p>
 <p>O principe regente nosso senhor foi servido mandar remetter á mesa do desembargo do paço o decreto do teor seguinte.</p>
@@ -1922,8 +1908,7 @@
 <p>Cuidarão em defender as pessoas e bens dos meus leaes vassallos, escolhendo para os empregos militares as que d'elles se conhecerem serem benemeritas.</p>
 <p>Procurarão, quanto possivel fôr, conservar em paz este reino, e que as tropas do imperador dos francezes e rei de Italia sejam bem aquarteladas, e assistidas de tudo que lhes fôr preciso, em quanto se detiverem n'este reino, evitando todo e qualquer insulto, que se possa perpetrar, e castigando-o rigorosamente, quando aconteça; conservando sempre a boa harmonia, que se deve practicar com os exercitos das nações, com as quaes nos achâmos unidos no continente.</p>
 <p>Quando succeda, por qualquer modo, faltar algum dos ditos governadores elegerão á pluralidade de votos quem lhe succeda. Confio muito da sua honra e virtude, que os meus povos não soffrerão incommodo na minha ausencia, e que, permittindo Deus que volte a estes meus reinos com brevidade, encontre todos contentes, e satisfeitos, reinando sempre entre elles a boa ordem e tranquillidade, que deve haver entre vassallos, que tão dignos se tem feito do meu paternal cuidado.</p>
-<p>Palacio de Nossa Senhora da Ajuda em vinte e seis de novembro de mil oitocentos e sete.-- Principe.</p>
-<p><pb n="165"/></p>
+<p>Palacio de Nossa Senhora da Ajuda em vinte e seis de novembro de mil oitocentos e sete.-- Principe.<pb n="165"/></p>
 <p>N.º 6</p>
 <p>Decreto do Bonaparte impondo uma contribuição</p>
 <p>de guerra a Portugal</p>
