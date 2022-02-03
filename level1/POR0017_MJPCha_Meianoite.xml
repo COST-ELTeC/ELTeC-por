@@ -24,15 +24,8 @@
 <measure unit="words">49152</measure>
 <measure unit="pages">208</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
      <title>Project Gutenberg EBook A Lenda da Meia-Noite</title>
@@ -67,8 +60,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-04-27">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -173,8 +165,7 @@
 <p>-- Roberto, assenta-te ahi, e conta-nos immediatamente a historia do teu espectro, se v. ex.as não se oppõem a isso ainda assim, continuou elle, voltando-se para as senhoras presentes, que tinham escutado a discussão metaphysica, com ligeiros signaes de aborrecimento.</p>
 <p>Propôr a senhoras uma historia de phantasmas é <pb n="22"/>despertar-lhes a attenção, é fazer-lhes passar nas veias o estremecimento do enthusiasmo. Não sei porque, esses entes frageis, pallidos ou rosados, de olhos negros ou azues, alegres ou melancolicos, esses entes femininos encantadores e timidos adoram tudo o que os faz tremer, e recreiam-se sobre tudo com essas historias terriveis, em que o leitor estupefacto encontra um punhal ao voltar de cada pagina, um ladrão á esquina de cada periodo, um phantasma pelo menos em cada capitulo.</p>
 <p>Por isso a parte feminina da assembléa acolheu a proposta com enthusiasmo: e a mim e aos outros homens, que estavam presentes, não desagradou a idéa de ouvir uma historia terrivel, em petit comité, no pino da meia noite, tendo de voltar depois para casa por aquelles caminhos desertos dos arredores de Lisboa; a mim sobretudo, que tinha de passar pelas casas arruinadas de Campolide, sorria a idéa de ir com a imaginação povoada de phantasmas, que poderia distribuir á vontade pelos recantos d'essa paisagem tão magestosa, quando a lua envolve os paredões solitarios na branca mortalha da sua luz, em quanto ao longe se desenha sobranceiro entre os campos verdejantes o perfil grandioso do aqueducto sombrio.</p>
-<p>Roberto, devemos dizel-o para honra sua, não se fez rogado, comprimentou silenciosamente a assembléa, e começou pouco mais ou menos n'estes termo Roberto, devemos dizel-o para honra sua, não se fez rogado, comprimentou silenciosamente a assembléa, e começou pouco mais ou menos n'estes termos:</p>
-<p><pb n="23"/></p>
+<p>Roberto, devemos dizel-o para honra sua, não se fez rogado, comprimentou silenciosamente a assembléa, e começou pouco mais ou menos n'estes termo Roberto, devemos dizel-o para honra sua, não se fez rogado, comprimentou silenciosamente a assembléa, e começou pouco mais ou menos n'estes termos:<pb n="23"/></p>
 </div><div type="chapter"><head>II</head>
 <p>«Cantava-se em Lisboa pela segunda ou terceira vez o Baile de mascaras. Era uma noite de delirio no theatro de S. Carlos. Franschini, o cantor sublime, fazia tremer de enthusiasmo a platéa inteira, e a voz portentosa de madame Lotti despenhava sobre o publico palpitante torrentes de melodia e de sentimento. O personagem de Amelia, interpretado como então o foi, deixava de ser um typo creado pela imaginação do poeta para se transformar, animado pelo Prometheo do genio, n'um ente real, cujos sentimentos traduzidos em suspiros de harmonia, iam arrancar os soluços dos peitos dos espectadores.</p>
 <p>Era o poema da paixão, com todas as suas peripecias, mas da paixão verdadeira, da paixão que geme e rasga os seios da alma, da paixão que verte lagrimas, de cujas feridas brota o sangue, e não d'essa paixão ficticia, cuja expressão convencional anima só a mascara, que a artista desafivella apenas desce o panno.</p>
@@ -191,9 +182,10 @@
 <p>Se algum defeito se lhe poderia notar, era a rigidez marmorea da physionomia. Via-se que nem tristezas nem alegrias seriam capazes de alterar a regularidade do semblante, que só parecia ter vida nos olhos, que eram lindos a mais não ser, e d'onde emanavam raios magneticos e deslumbrantes, que enlouqueciam quem se atrevesse a encaral-os. Aquelle rosto assemelhava-se a uma urna de marmore, em cima da qual se tivesse collocado uma lampada de luz fascinadora. Era um fragmento de gêlo dourado levemente pelos reflexos de um vulcão, mas essa physionomia tinha um não sei que de mysterioso e sombrio, que me impressionou profundamente.</p>
 <p>Olhei para o relogio. Os ponteiros marcavam no mostrador meia-noite em ponto.</p>
 <p>No theatro os conjurados cantavam o côro das gargalhadas, e repetiam rindo o estribilho:</p>
-<p>Ah! chè baccano-sul caso strano</p>
-<p>Andrà dimani per la città!</p>
-<p><pb n="27"/></p>
+<quote xml:lang="ita">
+<l>Ah! chè baccano-sul caso strano</l>
+<l>Andrà dimani per la città!<pb n="27"/></l>
+</quote>
 </div><div type="chapter"><head>III</head>
 <p>Sem poder explicar a mim mesmo a fascinação irresistivel, que me impellia tão imperiosamente á contemplação d'aquelle formoso semblante, nunca mais desviei a vista do camarote. E ella, oh! ella olhava-me com uma meiguice de enlouquecer.</p>
 <p>Estava toda vestida de negro, e isso ainda mais contribuia para fazer realçar a alvura da sua tez. Trajava elegantissimamente, mas com uma singeleza, que me encantou, a mim, que procuro quasi sempre o bom gosto na simplicidade.</p>
@@ -755,8 +747,7 @@
 <p>-- Meu amigo, tornou Macedo, isso é uma historia vulgar. Tem a gente ao pé da porta um lago tranquillo, risonho, córado pelo esplendor do sol, nunca se lembra de mergulhar n'essas aguas limpidas para colher a perola que lá brilha no fundo, vae procural-a então ao mar das tempestades, mergulha, e encontra ostras. Boa noite, meu amigo.</p>
 <p>E dirigiu-se para o seu quarto. Henrique imitou-o, mas n'essa noite não dormiu. A imagem que fluctuava diante dos seus olhos semi-cerrados, não era, não, a pallida imagem de Isaura.</p>
 <p>Devemos dizer que na noite immediata, esqueceu completamente a hora fatidica, e que tendo Lucio Valença pedido a palavra ás dez horas e meia da noite, allegando que era longo o seu romance, que, sendo <pb n="110"/>phantastico, por isso que o personagem principal era um ente inanimado, tinha comtudo uma pequena parte propriamente legendaria, e que portanto podia começar a ser lido antes da meia noite; acolhe-se com applauso esta idéa, e Lucio Valença começou logo depois do chá a leitura do seu volumoso manuscripto. O doutor fizera uma careta ao avaliar o numero de paginas que ia ter que ouvir; Henrique Osorio e Leonor, enlevados nas doçuras de um amor nascente, não tendo olhos senão um para o outro, amaldiçoavam a leitura que os ia privar de algumas horas de doce conversação; Isaura, despeitada, furiosa por ter visto fugir-lhe um dos seus vassallos, e mais furiosa ainda por lhe falharem todos os manejos que empregava para reconquistar o inconstante, que tratára com tão soberbo desdem quando o tivera nos seus ferros, dirigira de pura colera as suas baterias para Lucio Valença, e preparára-se portanto para ouvir o conto com a mais profunda attenção.</p>
-<p>O visconde da Fragosa, o conselheiro Madureira e um honrado e silencioso proprietario de Val de Prazeres, que vinha completar a partida do visconde, não abandonaram sem um suspiro o boston. Resignaram-se, porém, e Lucio Valença, presentindo vagamente a hostilidade do auditorio, começou com voz não muito firme a leitura do manuscripto, que se intitulava Memorias de uma bolsa verde.</p>
-<p><pb n="111"/></p>
+<p>O visconde da Fragosa, o conselheiro Madureira e um honrado e silencioso proprietario de Val de Prazeres, que vinha completar a partida do visconde, não abandonaram sem um suspiro o boston. Resignaram-se, porém, e Lucio Valença, presentindo vagamente a hostilidade do auditorio, começou com voz não muito firme a leitura do manuscripto, que se intitulava Memorias de uma bolsa verde.<pb n="111"/></p>
 <p>MEMORIAS D'UMA BOLSA VERDE</p>
 </div><div type="chapter"><head>I</head>
 <p>Um dia fôra eu assistir, por curiosidade, a um leilão que se fizera em casa de uma rica viuva que fallecêra. Os parentes, apressados em se desfazerem de todos esses moveis, que para elles não tinham valor algum, abriram o leilão apenas se fechou a campa que ia encerrar a pobre finada. O que importavam aos herdeiros esses pobres livros, por exemplo, sobre os quaes se debruçàra tantas vezes a fronte encanecida da viuva, esses mysteriosos confidentes dos seus pezares e das suas saudades, cujas paginas teriam sido regadas com tantas lagrimas, e que tantas vezes teriam repousado sobre os seus joelhos tremulos, quando ella, interrompendo a leitura nocturna, fitasse os olhos humedecidos no sitio onde seu marido se costumava sentar, a lampada a cuja doce luz tinham tantas vezes travado uma <pb n="112"/>d'essas deliciosas conversações intimas, tornadas mais suaves ainda pelo conchego do lar, e pelo prazer de sentir a chuva bater nas vidraças, e o vento gemer de caixilhos das janellas? Que significação tinham essas coisas para os corvos ávidos, que esperam anciosamente que o corpo se transforme em cadaver, para descerem em bandos a saciar a fome impaciente? E quem sabe se, reunidos em volta do leito mortuario, não miravam com os olhos affectadamente compungidos, onde brilhavam algumas lagrimas de convenção, os trastes do quarto, e os proprios lençoes que agitava o estertor da moribunda? Quem sabe se elles não estariam já calculando o valor approximado d'esses objectos? Ai! todo o anjo, que baixa a este mundo, tem um demonio que lhe espia os passos, que o segue cautelosamente sorrindo com um sorrir diabolico, que esconde na sombra projectada pelas azas brancas do habitante do céo as negras azas do habitante do inferno, e que, apenas aquelle acaba de cumprir a sua missão divina, começa a cumprir a sua missão infame, e a desfazer por todos os modos o effeito salutar produzido pela candida apparição.</p>
@@ -777,8 +768,7 @@
 <p>Escuso de dizer que ninguem me disputou o lanço. Nem mesmo esses agentes, que tem, em giria de leilão, o nome expressivo de picadores, ou, por abuso de metaphora, de toireiros, ousaram erguer a voz para m'a fazerem pagar mais caro.</p>
 <p>A surpreza emprestára-lhes um bocadinho de consciencia.</p>
 <p>Pois o que é certo é que eu comprei a bolsa, e saí com ella muito ancho, sem me importar com as largas alas que me abriam as pessoas presentes, imitando a prudencia do que m'a vendêra.</p>
-<p>E, como eu passo a mostrar-lhes, não tive motivo de me arrepender.</p>
-<p><pb n="117"/></p>
+<p>E, como eu passo a mostrar-lhes, não tive motivo de me arrepender.<pb n="117"/></p>
 </div><div type="chapter"><head>II</head>
 <p>Era uma noite de maio. Eu estava sentado á meza do trabalho. Um caderno de papel, ainda virgem de letras, estendia-se diante de mim aterrador na sua alvura, que me advertia mudamente da obrigação que eu tinha contrahido de a fazer desapparecer debaixo de uma alluvião d'esses monstrosinhos negros, que se chamam letras, que, amontoando-se umas em cima das outras, formam as palavras, essas mysteriosas colmeias, dentro das quaes se agita o candido enxame das idéas. O tinteiro, boquiaberto, não cessava de me mostrar o oceanosinho sombrio que tumultuava dentro de seus vitreos muros. A penna, debruçando se sobre esse mar tenebroso, contemplava-o com indifferença, preparando-se para o sulcar atrevidamente, quando eu julgasse opportuno começar a navegação.</p>
 <p>Uma janella aberta oppunha aos meus designios um obstaculo insuperavel.</p>
@@ -808,8 +798,7 @@
 <p>«E por isso a agulha girava, girava com impetuosidade, e os fios de seda agrupavam-se com uma ligeireza inconcebivel!</p>
 <p>«Está a concluir-se a tarefa. A agulha approxima-se do sitio marcado. Um mate, um mate risonho lá surge no horisonte. Apressa-te, agulha, faze prodigios de celeridade. Emfim!</p>
 <p>«Dera-se o mate. As doiradas borlas pregaram-se instantaneamente. Eil-o, o gentil producto de oito dias de trabalho! A formosa senhora contempla-o com ternura. O amor sacode o regaço cheio de perolas, e em cada ponto faz pullular mil pensamentos apaixonados.</p>
-<p>«O ente, que nascera, era nem mais nem menos do que esta humilde bolsa verde que lhe está dictando essas linhas, senhor mandrião.</p>
-<p><pb n="122"/></p>
+<p>«O ente, que nascera, era nem mais nem menos do que esta humilde bolsa verde que lhe está dictando essas linhas, senhor mandrião.<pb n="122"/></p>
 </div><div type="chapter"><head>IV</head>
 <p>Quando cheguei a este ponto interrompi eu a bolsa.</p>
 <p>-- Minha senhora, observei com a respeitosa cortezia que um escriptor consagra ao narrador officioso que lhe conta uma historia, v. ex.a tem fallado até agora n'uma linguagem que me tem penetrado de admiração, porque me parece biblica, e o emprego d'esse estylo é muito para apreciar n'uma bolsa que não foi contemporanea de Isaias. Mas se v. ex.a antes de nascer falla n'esse tom, receio muito que, se continuar na ascensão, quando chegar á velhice, já os leitores, ainda que se mettam no balão de Nadar, não serão capazes de a seguir com a vista n'essas espheras inaccessiveis. Pedia, portanto, a v. ex.a o favor de baixar o vôo á terra, algumas vezes, afim de que os nossos leitores percebam alguma coisa do que se fôr passando, sacrificando por conseguinte o diploma de socia da academia... do amphiguri, que, segundo me parece, está em caminho d'obter. Desculpe-me esta ligeira observação.</p>
@@ -1253,15 +1242,14 @@
 <p>Os dois companheiros de serão trocavam já olhares inflammados, e nas suas vozes havia um tom ameaçador. Isaura assistia olympicamente desdenhosa a esse torneio de espirito. Leonor, inquieta e magoada, sentia os olhos marejarem-se-lhe de lagrimas.</p>
 <p><pb n="190"/> -- Se não se vão deitar, apago eu mesmo as luzes, exclamou o doutor Macedo intervindo de subito e separando bruscamente os quatro personagens da scena. Olhem que massadores!</p>
 <p>E, emquanto o grupo se dispersava, trocando despedidas um pouco frias, o doutor Macedo fechava a janella murmurando:</p>
-<p>-- Cherchez la femme.</p>
+<p xml:lang="fra">-- Cherchez la femme.</p>
 <p>Na noite seguinte assistiam dois novos ouvintes á leitura. Eram Alvaro e Julia, os dois filhos mais novos dos viscondes da Fragosa. As creanças estavam radiantes de alegria; emquanto Alvaro, loira creança de seis annos, cravava os grandes olhos azues, com infantil curiosidade, no doutor Macedo, Julia, uma menina de nove annos, toda elegante, e que era o retrato de sua irmã mais velha, ouvia, rindo ás gargalhadas, as historietas de Henrique Osorio que a tinha no collo, e que, prodigalisando-lhe as caricias, esperava assim reconquistar as boas graças de Leonor, que ficára um pouco ferida pela scena da vespera, em que lhe parecêra vêr um resentimento que mostrava que Isaura não fóra de todo esquecida.</p>
 <p>-- Meus meninos, disse o doutor Macedo desenrolando o seu manuscripto, é só cá para nós este conto. A mana, o Henrique e os outros que riam ou durmam, se quizerem. Nós cá é que nos vamos entreter. Este conto é só para nós, e intitula-se...</p>
 <p>Lucio Valencia, que estava collocado defronte de uma <pb n="191"/> janella aberta, interrompeu com um espirro o discurso de Macedo.</p>
 <p>-- Dominus tecum, concluiu o doutor.</p>
 <p>-- Obrigado, disse Lucio.</p>
 <p>-- Não é obrigado, é o titulo do conto. Mas vejam o que é ser-se litterato. Espirramos, diz-nos alguem Dominus tecum; é o que basta, saiu um conto!</p>
-<p>Todos desataram a rir, e o doutor, com a sua voz admiravel, com a rara sciencia de recitação que possuia, começou a lêr, no meio de profunda attenção das duas creanças, o seu Dominus tecum.</p>
-<p><pb n="192"/></p>
+<p>Todos desataram a rir, e o doutor, com a sua voz admiravel, com a rara sciencia de recitação que possuia, começou a lêr, no meio de profunda attenção das duas creanças, o seu Dominus tecum.<pb n="192"/></p>
 <p>DOMINUS TECUM...</p>
 <p>(CONTO PARA CREANÇAS)</p>
 </div><div type="chapter"><head>I</head>
@@ -1286,8 +1274,7 @@
 <p>As fadas e os duendes não destroem assim esses mysteriosos sanctuarios, onde se abrigam tantos amores, tantas vidas, tão incessante trabalho de renovação! Tem, pelo contrario, com elles mil desvelos; são ellas quem descerram a pouco e pouco os verdes botões das rosas do matto; são ellas que penetram nos troncos, e fazem girar a vivificante seiva em todos os pontos da arvore caduca; são quem a ajudam depois a desabrolhar em pimpolhos, em flôres e em fructos.</p>
 <p>Por isso, quando á noite dançam e folgam nos ares, toda a natureza se compraz em lhes adornar os festejos; as brisas volteiam com as suas urnas cheias de aromas; os rouxinoes descantam as suas arias; a orchestra immensa dos pinhaes, das carvalheiras e dos salgueiraes entrega aos arcos invisiveis do vento as frementes cordas das suas franças, ou deixam que mão ignota doideje vagamente nas teclas das suas frondes! E tudo canta, ri e folga, porque são as fadas que dançam, as fadas aéreas, os travêssos duendes.</p>
 <p>E o homem entretanto, encerrado nas suas mesquinhas moradas, respira uma atmosphera corrompida, sente o suor a borbulhar-lhe na fronte depois de dar um giro na sala abafadiça, e cerra cuidadosamente as janellas, para que lhes não chegue nem um murmurio, nem um effluvio, nem um raio de luz.</p>
-<p>E a natureza aproveita a ausencia do rei da creação, e canta, e folga, e ri, porque são as fadas que dançam, as fadas risonhas, os duendes maliciosos.</p>
-<p><pb n="196"/></p>
+<p>E a natureza aproveita a ausencia do rei da creação, e canta, e folga, e ri, porque são as fadas que dançam, as fadas risonhas, os duendes maliciosos.<pb n="196"/></p>
 </div><div type="chapter"><head>II</head>
 <p>Em toda a parte ha fadas, meus meninos; mas, como podem suppôr, não tem o mesmo genio, a mesma indole nos differentes sitios. N'uns pontos persegue-as o infortunio, n'outros sorri-lhes a ventura.</p>
 <p>Na nossa terra abençoada, em que temos o céo de veludo, aguas de crystal, sol de oiro vivo; onde nos ares limpidos parecem brotar por encanto musicas suavissimas; onde viçam flôres com profusão; onde as brumas são véo ligeiro que touca as cumiadas dos montes, e não gélido manto que envolve as planicies, folgam as fadas de viver. É este o paiz dos seus sonhos, este e a Hespanha, e a Italia e a Grecia, onde viveram por tanto tempo as nymphas, as naiades e as dryades, que eram as fadas dos pagãos.</p>
