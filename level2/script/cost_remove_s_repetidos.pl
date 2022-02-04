@@ -15,7 +15,7 @@ exit;
 $/="</p>";
 while (<>) {
     s#</p>#</s>\n</p>#g;
-    s#</l>#</s>\n</l>#g;
+#    s#</l>#</s>\n</l>#g;
 #    s#^\n</s>##; # isto é por causa do <ref target - não vale a pena, é um problema do PALAVRAS. Tenho de perguntar ao Eckhard
 
     s#<l>\n</s>#<l>#g;
@@ -25,6 +25,7 @@ while (<>) {
     s#</s>\n</s>\n</foreign>\n</s>\n</s>#</foreign>\n</s>#g;
     s#</s>\n</s>\n</foreign>#</foreign>#g;
     s#<gap/>\n</s>#<gap/>#g;
+    s#<quote>\n</s>#<quote>#g;
     s#</s>\n</s>#</s>#g;
     print;
 }

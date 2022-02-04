@@ -17,12 +17,24 @@ exit;
     shift;
 }
 
+$dentroforeign=0;
+$dentroquote=0;
 $nums=0;
 while (<>) {
-   if (/<word id=\"1\"/ and not /postag=\"X\"/) {
-   	print "<s xml:id=\"$fich.s$nums\">\n$_";
-	$nums++;
+#   if (/<word id=\"1\"/ and not /postag=\"X\"/) {
+   if (/<word id=\"1\"/ and not $dentroforeign and not $dentroquote) {
+       print "<s xml:id=\"$fich.s$nums\">\n$_";
+       $nums++;
    } else {
        print;
+       if (/<quote/) {
+	   $dentroquote=1;
+       } elsif (/<foreign/) {
+	   $dentroforeign=1;
+       } elsif (/<\/foreign/) {
+	   $dentroforeign=0;
+       } elsif (/<\/quote/) {
+	   $dentroquote=0;
+       }
    }
-}			
+}
