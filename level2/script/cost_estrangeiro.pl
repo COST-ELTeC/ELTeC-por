@@ -18,18 +18,6 @@ while (<>) {
     if (/<p .*? xml:lang/) {
 	s/postag=\".*?\" /postag=\"X\" /g;
 #	s#</s>\n##g; #porque em casos estrangeiros não se contam frases
-    } elsif (/<foreign xml:lang/) {
-	($antes,$quote,$depois)=($_=~m%^(.*?)(<foreign.*</foreign>)(.*)$%s);
-	$quote=~s/postag=\".*?\"/postag=\"X\"/g;
-	$quote=~s#</s>\n##g;
-	$_=$antes.$quote.$depois;
-    
-    } elsif (/<quote xml:lang/) {
-	($antes,$quote,$depois)=($_=~m%^(.*?)(<quote.*?</quote>)(.*)$%s);
-	$quote=~s/postag=\".*?\"/postag=\"X\"/g;
-	$quote=~s#</s>\n##g;
-
-	$_=$antes.$quote.$depois;
-    }
+    } 
    print;
 }
