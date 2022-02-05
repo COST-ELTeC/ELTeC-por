@@ -11349,7 +11349,7 @@
 <w xml:id="POR0028.w7207" pos="NOUN" lemma="rosto" msd="M S">rosto</w>
 <w xml:id="POR0028.w7208" pos="ADJ" lemma="transformáro" msd="F S">transformára-</w>
 <w xml:id="POR0028.w7209" pos="PRON+PRON" lemma="se+ele" msd="M/F 3S/P ACC+M/F 3S DAT">se-lhe</w>
-<w xml:id="POR0028.w7210" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0028.w7210" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0028.w7211" pos="ADP+DET" lemma="em+um" msd="F S">numa</w>
 <w xml:id="POR0028.w7212" pos="NOUN" lemma="pallidez" msd="F S">pallidez</w>
 <w xml:id="POR0028.w7213" pos="ADJ" lemma="transparente" msd="F S">transparente</w>
@@ -34211,7 +34211,7 @@
 <pc xml:id="POR0028.pc5073" pos="pu">,</pc>
 <w xml:id="POR0028.w22034" pos="SCONJ" lemma="se" msd="">se</w>
 <w xml:id="POR0028.w22035" pos="ADJ" lemma="metamorphoseáro" msd="F S">metamorphoseára</w>
-<w xml:id="POR0028.w22036" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0028.w22036" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0028.pc5074" pos="pu">,</pc>
 <w xml:id="POR0028.w22037" pos="ADP" lemma="como" msd="">como</w>
 <w xml:id="POR0028.w22038" pos="DET" lemma="o" msd="M S">o</w>
@@ -40747,7 +40747,7 @@
 </body>
 <back>
 <div type="notes">
-<note xml:id="POR0003-nota-1">
+<note xml:id="POR0028-nota-1">
 <p xml:id="POR0028.p1097">
 <s xml:id="POR0028.s2328">
 <w xml:id="POR0028.w26192" pos="DET" lemma="este" msd="M S">Este</w>

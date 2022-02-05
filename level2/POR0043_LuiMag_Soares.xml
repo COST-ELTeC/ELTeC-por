@@ -1161,7 +1161,7 @@ script</change>
 <p xml:id="POR0043.p10">
 <s xml:id="POR0043.s42">
 <w xml:id="POR0043.w761" pos="VERB" lemma="mudar" msd="PS 3S IND VFIN">Mudou</w>
-<w xml:id="POR0043.w762" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0043.w762" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0043.pc119" pos="pu">,</pc>
 <w xml:id="POR0043.w763" pos="ADV" lemma="depois" msd="">depois</w>
 <w xml:id="POR0043.w764" pos="ADP+PRON" lemma="de+isto" msd="M S">disto</w>
@@ -25266,7 +25266,7 @@ script</change>
 <w xml:id="POR0043.w17985" pos="NUM" lemma="um" msd="M S">Um</w>
 <w xml:id="POR0043.w17986" pos="NOUN" lemma="dia" msd="M S">dia</w>
 <pc xml:id="POR0043.pc3301" pos="pu">,</pc>
-<w xml:id="POR0043.w17987" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0043.w17987" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0043.pc3302" pos="pu">,</pc>
 <w xml:id="POR0043.w17988" pos="DET" lemma="um" msd="M S">um</w>
 <w xml:id="POR0043.w17989" pos="ADJ" lemma="novo" msd="M S">novo</w>
@@ -42117,7 +42117,7 @@ script</change>
 <s xml:id="POR0043.s1806">
 <w xml:id="POR0043.w29935" pos="ADV" lemma="então" msd="">Então</w>
 <pc xml:id="POR0043.pc5518" pos="pu">,</pc>
-<w xml:id="POR0043.w29936" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0043.w29936" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0043.pc5519" pos="pu">,</pc>
 <w xml:id="POR0043.w29937" pos="VERB" lemma="pôr" msd="PS/MQP 3P IND VFIN">puseram</w>
 <w xml:id="POR0043.w29938" pos="DET" lemma="o" msd="F S">a</w>

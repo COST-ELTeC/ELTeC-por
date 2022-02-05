@@ -11522,7 +11522,7 @@
 <w xml:id="POR0011.w7670" pos="PROPN" lemma="Ludovina" msd="F S">Ludovina</w>
 </rs>
 <w xml:id="POR0011.w7671" pos="VERB" lemma="entrar" msd="GER">entrando</w>
-<w xml:id="POR0011.w7672" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0011.w7672" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0011.pc1588" pos="pu">,</pc>
 <w xml:id="POR0011.w7673" pos="CCONJ" lemma="e" msd="">e</w>
 <w xml:id="POR0011.w7674" pos="VERB" lemma="cortejar" msd="GER">cortejando</w>
@@ -29759,7 +29759,7 @@
 <w xml:id="POR0011.w19543" pos="ADP+DET" lemma="de+o" msd="F S">da</w>
 <w xml:id="POR0011.w19544" pos="NOUN" lemma="ira" msd="F S">ira</w>
 <w xml:id="POR0011.w19545" pos="VERB" lemma="decair" msd="PS 3S IND VFIN">decaíu</w>
-<w xml:id="POR0011.w19546" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0011.w19546" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0011.w19547" pos="ADP" lemma="em" msd="">em</w>
 <w xml:id="POR0011.w19548" pos="NOUN" lemma="syncope" msd="M S">syncope</w>
 <pc xml:id="POR0011.pc4235" pos="pu">.</pc>
@@ -35485,7 +35485,7 @@
 <w xml:id="POR0011.w23312" pos="NOUN" lemma="olho" msd="M P">olhos</w>
 <w xml:id="POR0011.w23313" pos="ADP+DET" lemma="em+o" msd="M S">no</w>
 <w xml:id="POR0011.w23314" pos="NOUN" lemma="semblante" msd="M S">semblante</w>
-<w xml:id="POR0011.w23315" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0011.w23315" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0011.w23316" pos="VERB" lemma="desfigurar" msd="PCP M S">desfigurado</w>
 <w xml:id="POR0011.w23317" pos="ADP+DET" lemma="de+o" msd="M S">do</w>
 <w xml:id="POR0011.w23318" pos="NOUN" lemma="marido" msd="M S">marido</w>

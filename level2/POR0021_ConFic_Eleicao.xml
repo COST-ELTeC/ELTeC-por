@@ -2261,7 +2261,7 @@
 <w xml:id="POR0021.w1377" pos="NOUN" lemma="rapaz" msd="M S">rapaz</w>
 <w xml:id="POR0021.w1378" pos="VERB+PRON" lemma="debruçar+se" msd="PS 3S IND VFIN+M 3S ACC">debruçou-se</w>
 <pc xml:id="POR0021.pc308" pos="pu">,</pc>
-<w xml:id="POR0021.w1379" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0021.w1379" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0021.w1380" pos="ADJ" lemma="interessado" msd="M S">interessado</w>
 <pc xml:id="POR0021.pc309" pos="pu">.</pc>
 </s>
@@ -14311,7 +14311,7 @@
 </s>
 <s xml:id="POR0021.s636">
 <w xml:id="POR0021.w9550" pos="VERB+PRON" lemma="sentir+se" msd="PS 3S IND VFIN+M/F 3S ACC">Sentiu-se</w>
-<w xml:id="POR0021.w9551" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0021.w9551" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0021.w9552" pos="VERB" lemma="prender" msd="PCP F S">presa</w>
 <w xml:id="POR0021.w9553" pos="ADP" lemma="por" msd="">por</w>
 <w xml:id="POR0021.w9554" pos="DET" lemma="aquele" msd="F S">aquela</w>
@@ -24542,7 +24542,7 @@
 </p>
 <p xml:id="POR0021.p326">
 <s xml:id="POR0021.s1132">
-<w xml:id="POR0021.w16488" pos="ADV" lemma="súbito" msd="">Subitamente</w>
+<w xml:id="POR0021.w16488" pos="ADV" lemma="subitamente" msd="">Subitamente</w>
 <pc xml:id="POR0021.pc3468" pos="pu">,</pc>
 <w xml:id="POR0021.w16489" pos="ADV" lemma="porém" msd="">porém</w>
 <pc xml:id="POR0021.pc3469" pos="pu">,</pc>
@@ -26461,7 +26461,7 @@
 <w xml:id="POR0021.w17791" pos="PRON" lemma="ele" msd="M 3S ACC">o</w>
 <w xml:id="POR0021.w17792" pos="VERB" lemma="ter" msd="IMPF 3P SUBJ VFIN">tivessem</w>
 <w xml:id="POR0021.w17793" pos="VERB" lemma="transportar" msd="PCP">transportado</w>
-<w xml:id="POR0021.w17794" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0021.w17794" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0021.w17795" pos="ADP" lemma="para" msd="">para</w>
 <w xml:id="POR0021.w17796" pos="DET" lemma="um" msd="F S">uma</w>
 <w xml:id="POR0021.w17797" pos="NOUN" lemma="terra" msd="F S">terra</w>
@@ -28802,7 +28802,7 @@
 <w xml:id="POR0021.w19381" pos="ADJ" lemma="ideal" msd="M/F S">ideal</w>
 <pc xml:id="POR0021.pc4071" pos="pu">--</pc>
 <w xml:id="POR0021.w19382" pos="VERB+PRON" lemma="completar+se" msd="PS 3S IND VFIN+M/F 3S/P ACC">completou-se</w>
-<w xml:id="POR0021.w19383" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0021.w19383" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0021.w19384" pos="ADP+DET" lemma="em+um" msd="M S">num</w>
 <w xml:id="POR0021.w19385" pos="NOUN" lemma="desejo" msd="M S">desejo</w>
 <w xml:id="POR0021.w19386" pos="ADJ" lemma="ardentíssimo" msd="M S">ardentíssimo</w>
@@ -36900,7 +36900,7 @@
 <s xml:id="POR0021.s1751">
 <w xml:id="POR0021.w24808" pos="CCONJ" lemma="mas" msd="">Mas</w>
 <pc xml:id="POR0021.pc5258" pos="pu">,</pc>
-<w xml:id="POR0021.w24809" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0021.w24809" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0021.pc5259" pos="pu">,</pc>
 <w xml:id="POR0021.w24810" pos="ADP" lemma="em" msd="">em</w>
 <w xml:id="POR0021.w24811" pos="NUM" lemma="um" msd="F S">uma</w>

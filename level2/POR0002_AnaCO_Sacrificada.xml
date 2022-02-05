@@ -3537,7 +3537,7 @@
 <w xml:id="POR0002.w2529" pos="NUM" lemma="um" msd="M S">um</w>
 <w xml:id="POR0002.w2530" pos="NOUN" lemma="dia" msd="M S">dia</w>
 <pc xml:id="POR0002.pc424" pos="pu">,</pc>
-<w xml:id="POR0002.w2531" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0002.w2531" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0002.pc425" pos="pu">,</pc>
 <w xml:id="POR0002.w2532" pos="VERB" lemma="estar" msd="GER">estando</w>
 <w xml:id="POR0002.w2533" pos="VERB" lemma="sentar" msd="PCP M S">sentado</w>

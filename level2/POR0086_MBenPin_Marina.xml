@@ -11050,7 +11050,7 @@
 <w xml:id="POR0086.w6229" pos="DET" lemma="o" msd="M S">o</w>
 <w xml:id="POR0086.w6230" pos="NOUN" lemma="olhar" msd="M S">olhar</w>
 <pc xml:id="POR0086.pc2087" pos="pu">,</pc>
-<w xml:id="POR0086.w6231" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0086.w6231" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0086.w6232" pos="VERB" lemma="incender" msd="PCP M S">incendido</w>
 <pc xml:id="POR0086.pc2088" pos="pu">.</pc>
 </s>
@@ -12578,7 +12578,7 @@
 </p>
 <p xml:id="POR0086.p470">
 <s xml:id="POR0086.s732">
-<w xml:id="POR0086.w7015" pos="ADV" lemma="súbito" msd="">Subitamente</w>
+<w xml:id="POR0086.w7015" pos="ADV" lemma="subitamente" msd="">Subitamente</w>
 <pc xml:id="POR0086.pc2411" pos="pu">,</pc>
 <w xml:id="POR0086.w7016" pos="DET" lemma="o" msd="M S">o</w>
 <w xml:id="POR0086.w7017" pos="DET" lemma="seu" msd="M S">seu</w>
@@ -21345,7 +21345,7 @@
 <pc xml:id="POR0086.pc4106" pos="pu">,</pc>
 <w xml:id="POR0086.w11648" pos="VERB" lemma="ficar" msd="IMPF 3P IND VFIN">ficavam</w>
 <pc xml:id="POR0086.pc4107" pos="pu">,</pc>
-<w xml:id="POR0086.w11649" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0086.w11649" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0086.pc4108" pos="pu">,</pc>
 <w xml:id="POR0086.w11650" pos="ADJ" lemma="só" msd="F P">sós</w>
 <w xml:id="POR0086.w11651" pos="ADP+DET" lemma="em+o" msd="M S">no</w>
@@ -22197,7 +22197,7 @@
 <s xml:id="POR0086.s1390">
 <w xml:id="POR0086.w12175" pos="ADV" lemma="depois" msd="">Depois</w>
 <pc xml:id="POR0086.pc4266" pos="pu">,</pc>
-<w xml:id="POR0086.w12176" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0086.w12176" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0086.pc4267" pos="pu">,</pc>
 <w xml:id="POR0086.w12177" pos="VERB+PRON" lemma="estreitar+ela" msd="PS 3S IND VFIN+F 3S ACC">estreitou-a</w>
 <w xml:id="POR0086.w12178" pos="ADP+DET" lemma="a+o" msd="M S">ao</w>
@@ -26632,7 +26632,7 @@
 <pc xml:id="POR0086.pc5088" pos="pu">,</pc>
 <w xml:id="POR0086.w14677" pos="CCONJ" lemma="e" msd="">e</w>
 <pc xml:id="POR0086.pc5089" pos="pu">,</pc>
-<w xml:id="POR0086.w14678" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0086.w14678" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0086.pc5090" pos="pu">,</pc>
 <w xml:id="POR0086.w14679" pos="DET" lemma="o" msd="M P">os</w>
 <w xml:id="POR0086.w14680" pos="DET" lemma="seu" msd="M P">seus</w>
@@ -27230,7 +27230,7 @@
 <pc xml:id="POR0086.pc5200" pos="pu">,</pc>
 <w xml:id="POR0086.w15000" pos="CCONJ" lemma="e" msd="">e</w>
 <pc xml:id="POR0086.pc5201" pos="pu">,</pc>
-<w xml:id="POR0086.w15001" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0086.w15001" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <pc xml:id="POR0086.pc5202" pos="pu">,</pc>
 <w xml:id="POR0086.w15002" pos="VERB" lemma="desatar" msd="PS 3S IND VFIN">desatou</w>
 <w xml:id="POR0086.w15003" pos="ADP" lemma="a" msd="">a</w>
@@ -37099,7 +37099,7 @@
 <pc xml:id="POR0086.pc7049" pos="pu">,</pc>
 <w xml:id="POR0086.w20748" pos="VERB+PRON" lemma="sentir+se" msd="PS 3S IND VFIN+M 3S/P ACC">sentiu-se</w>
 <pc xml:id="POR0086.pc7050" pos="pu">,</pc>
-<w xml:id="POR0086.w20749" pos="ADV" lemma="súbito" msd="">subitamente</w>
+<w xml:id="POR0086.w20749" pos="ADV" lemma="subitamente" msd="">subitamente</w>
 <w xml:id="POR0086.w20750" pos="ADJ" lemma="indisposto" msd="M S">indisposto</w>
 <pc xml:id="POR0086.pc7051" pos="pu">.</pc>
 </s>

@@ -33438,7 +33438,7 @@
 <w xml:id="POR0013.w21641" pos="ADJ" lemma="incerto" msd="M P">incertos</w>
 <pc xml:id="POR0013.pc5029" pos="pu">,</pc>
 <w xml:id="POR0013.w21642" pos="ADP" lemma="de" msd="">de</w>
-<w xml:id="POR0013.w21643" pos="NOUN" lemma="bebado" msd="M S">bebado</w>
+<w xml:id="POR0013.w21643" pos="ADJ" lemma="bêbado" msd="M S">bebado</w>
 <pc xml:id="POR0013.pc5030" pos="pu">.</pc>
 </s>
 <s xml:id="POR0013.s2181">
@@ -46494,7 +46494,7 @@
 <w xml:id="POR0013.w30011" pos="ADP" lemma="a" msd="">a</w>
 <w xml:id="POR0013.w30012" pos="VERB" lemma="cahir" msd="INF 3P">cahir</w>
 <w xml:id="POR0013.w30013" pos="ADP" lemma="de" msd="">de</w>
-<w xml:id="POR0013.w30014" pos="NOUN" lemma="bebado" msd="M P">bebados</w>
+<w xml:id="POR0013.w30014" pos="ADJ" lemma="bêbado" msd="M P">bebados</w>
 <pc xml:id="POR0013.pc7121" pos="pu">.</pc>
 </s>
 </p>

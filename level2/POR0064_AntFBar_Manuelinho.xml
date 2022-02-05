@@ -68563,40 +68563,31 @@
 </p>
 <quote>
 <l>
-<s xml:id="POR0064.s3266">
 <pc xml:id="POR0064.pc8441" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45026" pos="VERB" lemma="começar" msd="MQP 3S IND VFIN">começara</w>
 <w xml:id="POR0064.w45027" pos="DET" lemma="el" msd="F S">la</w>
 <w xml:id="POR0064.w45028" pos="NOUN" lemma="uentura" msd="F S">uentura</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3267">
 <pc xml:id="POR0064.pc8442" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45029" pos="NOUN" lemma="del" msd="M S">del</w>
 <w xml:id="POR0064.w45030" pos="NOUN" lemma="império" msd="M S">imperio</w>
 <w xml:id="POR0064.w45031" pos="CCONJ" lemma="mas" msd="">mas</w>
 <w xml:id="POR0064.w45032" pos="VERB" lemma="luser" msd="PCP M S">lusido</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3268">
 <w xml:id="POR0064.w45033" pos="ADP+DET" lemma="de+este" msd="M S">deste</w>
 <w xml:id="POR0064.w45034" pos="NOUN" lemma="imfante" msd="M S">imfante</w>
 <w xml:id="POR0064.w45035" pos="ADJ" lemma="esclarecido" msd="M S">esclarecido</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3269">
 <pc xml:id="POR0064.pc8443" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45036" pos="SCONJ" lemma="que" msd="">que</w>
 <w xml:id="POR0064.w45037" pos="VERB" lemma="prometer" msd="PR 3S IND VFIN">promete</w>
 <w xml:id="POR0064.w45038" pos="DET" lemma="el" msd="F S">la</w>
 <w xml:id="POR0064.w45039" pos="NOUN" lemma="escritura" msd="F S">escritura</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3270">
 <pc xml:id="POR0064.pc8444" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45040" pos="NOUN" lemma="si" msd="M S">Si</w>
 <w xml:id="POR0064.w45041" pos="PRON" lemma="se" msd="M/F 3S ACC">se</w>
@@ -68608,27 +68599,21 @@
 <w xml:id="POR0064.w45044" pos="NOUN" lemma="vez" msd="F P">vezes</w>
 <w xml:id="POR0064.w45045" pos="ADJ" lemma="40,...." msd="M/F S">40,....</w>
 <pc xml:id="POR0064.pc8446" pos="pu">.</pc>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3271">
 <pc xml:id="POR0064.pc8447" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45046" pos="PRON" lemma="se" msd="M/F 3S/P PIV">si</w>
 <w xml:id="POR0064.w45047" pos="DET" lemma="el" msd="F S">la</w>
 <w xml:id="POR0064.w45048" pos="NOUN" lemma="cuenta" msd="F S">cuenta</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3272">
 <pc xml:id="POR0064.pc8448" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45049" pos="ADP+DET" lemma="por+o" msd="M P">pelos</w>
 <w xml:id="POR0064.w45050" pos="NOUN" lemma="anale" msd="M P">anales</w>
 <w xml:id="POR0064.w45051" pos="AUX" lemma="ser" msd="PR 3S IND VFIN">he</w>
 <w xml:id="POR0064.w45052" pos="VERB" lemma="ver" msd="PCP M S">visto</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3273">
 <pc xml:id="POR0064.pc8449" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45053" pos="NOUN" lemma="del" msd="M S">del</w>
 <w xml:id="POR0064.w45054" pos="NOUN" lemma="nascimento" msd="M S">nascimento</w>
@@ -68636,20 +68621,17 @@
 <rs type="PERS">
 <w xml:id="POR0064.w45056" pos="PROPN" lemma="Christo" msd="M S">Christo</w>
 </rs>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3274">
 <pc xml:id="POR0064.pc8450" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45057" pos="NOUN" lemma="iunto" msd="M P">iuntos</w>
 <w xml:id="POR0064.w45058" pos="ADP" lemma="com" msd="">com</w>
 <w xml:id="POR0064.w45059" pos="DET" lemma="outro" msd="M P">outros</w>
 <w xml:id="POR0064.w45060" pos="NUM" lemma="quarenta" msd="M P">quarenta</w>
-</s>
 </l>
 </quote>
 <p xml:id="POR0064.p1515">
-<s xml:id="POR0064.s3275">
+<s xml:id="POR0064.s3266">
 <w xml:id="POR0064.w45061" pos="ADP+DET" lemma="de+o" msd="M S">Do</w>
 <rs type="ORG">
 <w xml:id="POR0064.w45062" pos="PROPN" lemma="Hermitão" msd="M S">Hermitão</w>
@@ -68661,7 +68643,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1516">
-<s xml:id="POR0064.s3276">
+<s xml:id="POR0064.s3267">
 <rs type="PLACE">
 <w xml:id="POR0064.w45065" pos="PROPN" lemma="Cod_C_V" msd="M/F S/P">Cod</w>
 <w xml:id="POR0064.w45066" pos="PROPN" lemma="Cod_C_V" msd="M/F S/P">C</w>
@@ -68679,11 +68661,11 @@
 </s>
 </p>
 <p xml:id="POR0064.p1517">
-<s xml:id="POR0064.s3277">
+<s xml:id="POR0064.s3268">
 <w xml:id="POR0064.w45072" pos="NOUN" lemma="pub" msd="M S">Pub</w>
 <pc xml:id="POR0064.pc8452" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3278">
+<s xml:id="POR0064.s3269">
 <rs type="DEMO">
 <w xml:id="POR0064.w45073" pos="NOUN" lemma="eborense" msd="M/F S">Eborense</w>
 </rs>
@@ -68696,7 +68678,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1518">
-<s xml:id="POR0064.s3279">
+<s xml:id="POR0064.s3270">
 <pc xml:id="POR0064.pc8454" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45077" pos="ADP+DET" lemma="em+o" msd="M S">No</w>
 <w xml:id="POR0064.w45078" pos="VERB" lemma="uerar" msd="PR 3P IND VFIN">ueram</w>
@@ -68754,7 +68736,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1519">
-<s xml:id="POR0064.s3280">
+<s xml:id="POR0064.s3271">
 <w xml:id="POR0064.w45115" pos="ADV" lemma="idem" msd="">Idem</w>
 <w xml:id="POR0064.w45116" pos="CCONJ" lemma="et" msd="">et</w>
 <w xml:id="POR0064.w45117" pos="ADV" lemma="ibid" msd="">ibid</w>
@@ -68763,7 +68745,6 @@
 </p>
 <quote>
 <l>
-<s xml:id="POR0064.s3281">
 <pc xml:id="POR0064.pc8461" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45118" pos="ADP+DET" lemma="de+o" msd="M S">Do</w>
 <rs type="MISC">
@@ -68772,10 +68753,8 @@
 <w xml:id="POR0064.w45120" pos="NOUN" lemma="apotestade" msd="F S">apotestade</w>
 <w xml:id="POR0064.w45121" pos="VERB" lemma="andar" msd="PR 3S IND VFIN">anda</w>
 <w xml:id="POR0064.w45122" pos="ADJ" lemma="encuberto" msd="F S">encuberta</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3282">
 <pc xml:id="POR0064.pc8462" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45123" pos="ADP+DET" lemma="em+o" msd="F S">na</w>
 <w xml:id="POR0064.w45124" pos="NOUN" lemma="propria" msd="F S">propria</w>
@@ -68786,10 +68765,8 @@
 </rs>
 <w xml:id="POR0064.w45128" pos="VERB" lemma="andar" msd="PR 3S IND VFIN">anda</w>
 <w xml:id="POR0064.w45129" pos="VERB" lemma="esconder" msd="PCP M S">escondido</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3283">
 <pc xml:id="POR0064.pc8463" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45130" pos="CCONJ" lemma="e" msd="">e</w>
 <w xml:id="POR0064.w45131" pos="ADP" lemma="por" msd="">por</w>
@@ -68799,10 +68776,8 @@
 <w xml:id="POR0064.w45135" pos="CCONJ" lemma="e" msd="">e</w>
 <w xml:id="POR0064.w45136" pos="ADV" lemma="nunca" msd="">nunca</w>
 <w xml:id="POR0064.w45137" pos="VERB" lemma="ouvir" msd="PCP M S">ouvido</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3284">
 <pc xml:id="POR0064.pc8464" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45138" pos="SCONJ" lemma="que" msd="">que</w>
 <w xml:id="POR0064.w45139" pos="SCONJ" lemma="se" msd="">se</w>
@@ -68813,11 +68788,10 @@
 <w xml:id="POR0064.w45144" pos="NOUN" lemma="couza" msd="F S">couza</w>
 <w xml:id="POR0064.w45145" pos="ADJ" lemma="certo" msd="F S">certa</w>
 <pc xml:id="POR0064.pc8465" pos="pu">.</pc>
-</s>
 </l>
 </quote>
 <p xml:id="POR0064.p1520">
-<s xml:id="POR0064.s3285">
+<s xml:id="POR0064.s3272">
 <w xml:id="POR0064.w45146" pos="ADP+DET" lemma="de+o" msd="M S">Do</w>
 <rs type="PERS">
 <w xml:id="POR0064.w45147" pos="PROPN" lemma="P.e_Rodrigo_da_Conceição" msd="M S">P.e</w>
@@ -68828,7 +68802,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1521">
-<s xml:id="POR0064.s3286">
+<s xml:id="POR0064.s3273">
 <w xml:id="POR0064.w45151" pos="NOUN" lemma="irmão" msd="M S">irmão</w>
 <w xml:id="POR0064.w45152" pos="ADP+DET" lemma="de+o" msd="M S">do</w>
 <rs type="ROLE">
@@ -68842,7 +68816,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1522">
-<s xml:id="POR0064.s3287">
+<s xml:id="POR0064.s3274">
 <w xml:id="POR0064.w45156" pos="DET" lemma="o" msd="M S">O</w>
 <w xml:id="POR0064.w45157" pos="DET" lemma="mesmo" msd="M S">mesmo</w>
 <rs type="ORG">
@@ -68857,7 +68831,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1523">
-<s xml:id="POR0064.s3288">
+<s xml:id="POR0064.s3275">
 <w xml:id="POR0064.w45162" pos="ADP+DET" lemma="em+o" msd="F S">Na</w>
 <w xml:id="POR0064.w45163" pos="NOUN" lemma="torre" msd="F S">torre</w>
 <w xml:id="POR0064.w45164" pos="ADJ" lemma="mouchinho" msd="F S">mouchinha</w>
@@ -68869,7 +68843,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1524">
-<s xml:id="POR0064.s3289">
+<s xml:id="POR0064.s3276">
 <w xml:id="POR0064.w45167" pos="VERB" lemma="ser" msd="PR 3S IND VFIN">É</w>
 <w xml:id="POR0064.w45168" pos="ADV" lemma="muito" msd="">muito</w>
 <w xml:id="POR0064.w45169" pos="VERB" lemma="conhecer" msd="PCP F S">conhecida</w>
@@ -68895,7 +68869,7 @@
 <w xml:id="POR0064.w45186" pos="VERB" lemma="conhecer" msd="PS/MQP 3P IND VFIN">conheceram</w>
 <pc xml:id="POR0064.pc8472" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3290">
+<s xml:id="POR0064.s3277">
 <w xml:id="POR0064.w45187" pos="ADJ" lemma="chamado" msd="F S">Chamada</w>
 <w xml:id="POR0064.w45188" pos="NOUN" lemma="mouchinha" msd="F S">mouchinha</w>
 <pc xml:id="POR0064.pc8473" pos="pu">,</pc>
@@ -68938,7 +68912,7 @@
 </rs>
 <pc xml:id="POR0064.pc8479" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3291">
+<s xml:id="POR0064.s3278">
 <w xml:id="POR0064.w45217" pos="VERB" lemma="ser" msd="PS 3S IND VFIN">Foi</w>
 <w xml:id="POR0064.w45218" pos="ADV" lemma="provavelmente" msd="">provavelmente</w>
 <w xml:id="POR0064.w45219" pos="NUM" lemma="um" msd="F S">uma</w>
@@ -68965,7 +68939,7 @@
 <w xml:id="POR0064.w45238" pos="NOUN" lemma="povo" msd="M S">povo</w>
 <pc xml:id="POR0064.pc8482" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3292">
+<s xml:id="POR0064.s3279">
 <w xml:id="POR0064.w45239" pos="VERB" lemma="ser" msd="PS 3S IND VFIN">Foi</w>
 <w xml:id="POR0064.w45240" pos="VERB" lemma="demolir" msd="PCP F S">demolida</w>
 <w xml:id="POR0064.w45241" pos="ADV" lemma="já" msd="">já</w>
@@ -68999,13 +68973,13 @@
 </s>
 </p>
 <p xml:id="POR0064.p1525">
-<s xml:id="POR0064.s3293">
+<s xml:id="POR0064.s3280">
 <w xml:id="POR0064.w45258" pos="VERB" lemma="penetrar" msd="PR 1P SUBJ VFIN">Penetremos</w>
 <w xml:id="POR0064.w45259" pos="ADP+DET" lemma="em+o" msd="M S">no</w>
 <w xml:id="POR0064.w45260" pos="NOUN" lemma="palco" msd="M S">palco</w>
 <pc xml:id="POR0064.pc8488" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3294">
+<s xml:id="POR0064.s3281">
 <w xml:id="POR0064.w45261" pos="NOUN" lemma="pag." msd="F S">pag.</w>
 <rs type="MISC">
 <w xml:id="POR0064.w45262" pos="NUM" lemma="170" msd="M/F P">170</w>
@@ -69013,7 +68987,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1526">
-<s xml:id="POR0064.s3295">
+<s xml:id="POR0064.s3282">
 <w xml:id="POR0064.w45263" pos="ADP" lemma="além_de" msd="">Além</w>
 <w xml:id="POR0064.w45264" pos="ADP+DET" lemma="além_de+o" msd="M S">do</w>
 <w xml:id="POR0064.w45265" pos="PRON" lemma="que" msd="M S">que</w>
@@ -69037,7 +69011,7 @@
 <w xml:id="POR0064.w45280" pos="VERB" lemma="visitar" msd="PS 1P IND VFIN">visitámos</w>
 <pc xml:id="POR0064.pc8492" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3296">
+<s xml:id="POR0064.s3283">
 <w xml:id="POR0064.w45281" pos="ADP" lemma="em" msd="">Em</w>
 <w xml:id="POR0064.w45282" pos="NUM" lemma="dous" msd="M/F S">dous</w>
 <w xml:id="POR0064.w45283" pos="ADP" lemma="de" msd="">d'</w>
@@ -69079,7 +69053,7 @@
 <w xml:id="POR0064.w45312" pos="NOUN" lemma="separ-a" msd="M P">separal-as</w>
 <pc xml:id="POR0064.pc8498" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3297">
+<s xml:id="POR0064.s3284">
 <w xml:id="POR0064.w45313" pos="VERB" lemma="ser" msd="PR 3P IND VFIN">São</w>
 <w xml:id="POR0064.w45314" pos="NOUN" lemma="oração" msd="F P">orações</w>
 <w xml:id="POR0064.w45315" pos="ADP" lemma="a" msd="">a</w>
@@ -69116,7 +69090,7 @@
 <w xml:id="POR0064.w45339" pos="VERB" lemma="escrever" msd="PCP F P">escriptas</w>
 <pc xml:id="POR0064.pc8506" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3298">
+<s xml:id="POR0064.s3285">
 <w xml:id="POR0064.w45340" pos="VERB+PRON" lemma="ver+se" msd="PR 3S IND VFIN+M/F 3S ACC">Vê-se</w>
 <pc xml:id="POR0064.pc8507" pos="pu">,</pc>
 <w xml:id="POR0064.w45341" pos="ADV" lemma="comtudo" msd="">comtudo</w>
@@ -69169,7 +69143,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1527">
-<s xml:id="POR0064.s3299">
+<s xml:id="POR0064.s3286">
 <w xml:id="POR0064.w45380" pos="ADP+DET" lemma="em+o" msd="F S">Na</w>
 <rs type="ORG">
 <w xml:id="POR0064.w45381" pos="PROPN" lemma="Bibliotheca" msd="F S">Bibliotheca</w>
@@ -69197,7 +69171,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1528">
-<s xml:id="POR0064.s3300">
+<s xml:id="POR0064.s3287">
 <w xml:id="POR0064.w45398" pos="VERB+PRON" lemma="conduzir+ele" msd="PS 1S IND VFIN+M 3S ACC">Conduzi-o</w>
 <w xml:id="POR0064.w45399" pos="ADP" lemma="in" msd="">In</w>
 <w xml:id="POR0064.w45400" pos="NOUN" lemma="pace" msd="M S2">pace</w>
@@ -69209,7 +69183,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1529">
-<s xml:id="POR0064.s3301">
+<s xml:id="POR0064.s3288">
 <w xml:id="POR0064.w45403" pos="ADV" lemma="não" msd="">Não</w>
 <w xml:id="POR0064.w45404" pos="VERB" lemma="ser" msd="PR 3S IND VFIN">é</w>
 <w xml:id="POR0064.w45405" pos="NOUN" lemma="phantasia" msd="F S">phantasia</w>
@@ -69218,7 +69192,7 @@
 <w xml:id="POR0064.w45408" pos="NOUN" lemma="asserção" msd="F S">asserção</w>
 <pc xml:id="POR0064.pc8517" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3302">
+<s xml:id="POR0064.s3289">
 <w xml:id="POR0064.w45409" pos="ADV" lemma="quando" msd="">Quando</w>
 <w xml:id="POR0064.w45410" pos="ADP+DET" lemma="em+o" msd="M S">no</w>
 <rs type="ORG">
@@ -69309,7 +69283,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1530">
-<s xml:id="POR0064.s3303">
+<s xml:id="POR0064.s3290">
 <w xml:id="POR0064.w45477" pos="ADP" lemma="a" msd="">Á</w>
 <w xml:id="POR0064.w45478" pos="NOUN" lemma="luz" msd="F S">luz</w>
 <w xml:id="POR0064.w45479" pos="ADJ" lemma="artificial" msd="F S">artificial</w>
@@ -69329,7 +69303,7 @@
 <pc xml:id="POR0064.pc8532" pos="pu">...</pc>
 
 </s>
-<s xml:id="POR0064.s3304">
+<s xml:id="POR0064.s3291">
 <w xml:id="POR0064.w45490" pos="DET" lemma="este" msd="M S">Este</w>
 <w xml:id="POR0064.w45491" pos="NOUN" lemma="vão" msd="M S">vão</w>
 <w xml:id="POR0064.w45492" pos="VERB" lemma="corresponder" msd="PR 3S IND VFIN">corresponde</w>
@@ -69356,7 +69330,7 @@
 </rs>
 <pc xml:id="POR0064.pc8534" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3305">
+<s xml:id="POR0064.s3292">
 <w xml:id="POR0064.w45509" pos="VERB" lemma="medir" msd="PR 3S IND VFIN">Mede</w>
 <w xml:id="POR0064.w45510" pos="ADV" lemma="mais_de" msd="">mais</w>
 <w xml:id="POR0064.w45511" pos="ADV" lemma="mais_de" msd="">de</w>
@@ -69371,7 +69345,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1531">
-<s xml:id="POR0064.s3306">
+<s xml:id="POR0064.s3293">
 <w xml:id="POR0064.w45520" pos="VERB" lemma="ser" msd="IMPF 3S IND VFIN">Era</w>
 <w xml:id="POR0064.w45521" pos="DET" lemma="aquele" msd="M S">aquelle</w>
 <w xml:id="POR0064.w45522" pos="NOUN" lemma="vão" msd="M S">vão</w>
@@ -69384,7 +69358,7 @@
 </rs>
 <pc xml:id="POR0064.pc8535" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3307">
+<s xml:id="POR0064.s3294">
 <w xml:id="POR0064.w45528" pos="DET" lemma="o" msd="M P">Os</w>
 <w xml:id="POR0064.w45529" pos="ADP" lemma="in" msd="">In</w>
 <w xml:id="POR0064.w45530" pos="NOUN" lemma="pace" msd="M S2">pace</w>
@@ -69397,7 +69371,7 @@
 <w xml:id="POR0064.w45537" pos="NOUN" lemma="tempo" msd="M S">tempo</w>
 <pc xml:id="POR0064.pc8536" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3308">
+<s xml:id="POR0064.s3295">
 <w xml:id="POR0064.w45538" pos="DET" lemma="o" msd="M P">Os</w>
 <w xml:id="POR0064.w45539" pos="NOUN" lemma="religioso" msd="M P">religiosos</w>
 <w xml:id="POR0064.w45540" pos="ADJ" lemma="culpado" msd="M P">culpados</w>
@@ -69415,7 +69389,7 @@
 <pc xml:id="POR0064.pc8538" pos="pu">:</pc>
 <pc xml:id="POR0064.pc8539" pos="pu">--</pc>
 </s>
-<s xml:id="POR0064.s3309">
+<s xml:id="POR0064.s3296">
 <rs type="WORK">
 <w xml:id="POR0064.w45551" pos="PROPN" lemma="Vade_in_pace" msd="F S">Vade</w>
 <w xml:id="POR0064.w45552" pos="PROPN" lemma="Vade_in_pace" msd="F S">in</w>
@@ -69423,7 +69397,7 @@
 </rs>
 <pc xml:id="POR0064.pc8540" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3310">
+<s xml:id="POR0064.s3297">
 <w xml:id="POR0064.w45554" pos="DET" lemma="o" msd="F S">A</w>
 <w xml:id="POR0064.w45555" pos="NOUN" lemma="crueldade" msd="F S">crueldade</w>
 <w xml:id="POR0064.w45556" pos="ADJ" lemma="monastico" msd="F S">monastica</w>
@@ -69436,7 +69410,7 @@
 </rs>
 <pc xml:id="POR0064.pc8541" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3311">
+<s xml:id="POR0064.s3298">
 <w xml:id="POR0064.w45562" pos="ADP+DET" lemma="em+o" msd="M P">Nos</w>
 <w xml:id="POR0064.w45563" pos="ADJ" lemma="primeiro" msd="M P">primeiros</w>
 <w xml:id="POR0064.w45564" pos="NOUN" lemma="tempo" msd="M P">tempos</w>
@@ -69456,7 +69430,7 @@
 <w xml:id="POR0064.w45577" pos="VERB" lemma="existir" msd="IMPF 3S IND VFIN">existia</w>
 <pc xml:id="POR0064.pc8543" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3312">
+<s xml:id="POR0064.s3299">
 <w xml:id="POR0064.w45578" pos="ADP" lemma="a" msd="">A</w>
 <w xml:id="POR0064.w45579" pos="NOUN" lemma="proposito" msd="M S">proposito</w>
 <w xml:id="POR0064.w45580" pos="ADP" lemma="de" msd="">d'</w>
@@ -69502,7 +69476,7 @@
 <w xml:id="POR0064.w45614" pos="NOUN" lemma="enterro" msd="M S">enterro</w>
 <pc xml:id="POR0064.pc8548" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3313">
+<s xml:id="POR0064.s3300">
 <w xml:id="POR0064.w45615" pos="VERB" lemma="ser" msd="IMPF 1/3S IND VFIN">Era</w>
 <w xml:id="POR0064.w45616" pos="DET" lemma="um" msd="M S">um</w>
 <w xml:id="POR0064.w45617" pos="NOUN" lemma="collegial" msd="M S">collegial</w>
@@ -69534,7 +69508,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1532">
-<s xml:id="POR0064.s3314">
+<s xml:id="POR0064.s3301">
 <w xml:id="POR0064.w45638" pos="DET" lemma="o" msd="M P">Os</w>
 <w xml:id="POR0064.w45639" pos="NOUN" lemma="tumulto" msd="M P">tumultos</w>
 <w xml:id="POR0064.w45640" pos="ADP" lemma="de" msd="">de</w>
@@ -69542,7 +69516,7 @@
 <w xml:id="POR0064.w45641" pos="PROPN" lemma="Evora" msd="M/F S">Evora</w>
 </rs>
 </s>
-<s xml:id="POR0064.s3315">
+<s xml:id="POR0064.s3302">
 <w xml:id="POR0064.w45642" pos="NOUN" lemma="pag." msd="F S">pag.</w>
 <rs type="MISC">
 <w xml:id="POR0064.w45643" pos="NUM" lemma="205" msd="M/F P">205</w>
@@ -69550,7 +69524,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1533">
-<s xml:id="POR0064.s3316">
+<s xml:id="POR0064.s3303">
 <w xml:id="POR0064.w45644" pos="VERB" lemma="ser" msd="PR 3S IND VFIN">É</w>
 <w xml:id="POR0064.w45645" pos="ADV" lemma="também" msd="">tambem</w>
 <w xml:id="POR0064.w45646" pos="ADJ" lemma="digno" msd="M S">digno</w>
@@ -69570,7 +69544,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1534">
-<s xml:id="POR0064.s3317">
+<s xml:id="POR0064.s3304">
 <pc xml:id="POR0064.pc8555" pos="pu">&quot;</pc>
 <rs type="PERS">
 <w xml:id="POR0064.w45657" pos="PROPN" lemma="Motim_de_Euora" msd="M S">Motim</w>
@@ -69580,7 +69554,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1535">
-<s xml:id="POR0064.s3318">
+<s xml:id="POR0064.s3305">
 <pc xml:id="POR0064.pc8556" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45660" pos="ADP+DET" lemma="em+o" msd="M S">No</w>
 <w xml:id="POR0064.w45661" pos="NOUN" lemma="anno" msd="M S">anno</w>
@@ -69642,7 +69616,7 @@
 <w xml:id="POR0064.w45705" pos="NOUN" lemma="c" msd="M S">C</w>
 <pc xml:id="POR0064.pc8561" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3319">
+<s xml:id="POR0064.s3306">
 <w xml:id="POR0064.w45706" pos="NOUN" lemma="or" msd="M/F S">or</w>
 <w xml:id="POR0064.w45707" pos="ADP+DET" lemma="de+o" msd="F S">da</w>
 <w xml:id="POR0064.w45708" pos="NOUN" lemma="cidade" msd="F S">cidade</w>
@@ -69660,7 +69634,7 @@
 <w xml:id="POR0064.w45716" pos="NOUN" lemma="l" msd="M P">L</w>
 <pc xml:id="POR0064.pc8564" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3320">
+<s xml:id="POR0064.s3307">
 <w xml:id="POR0064.w45717" pos="DET" lemma="o" msd="M P">os</w>
 <w xml:id="POR0064.w45718" pos="ADP+DET" lemma="de+o" msd="F S">da</w>
 <w xml:id="POR0064.w45719" pos="NOUN" lemma="câmara" msd="F S">camera</w>
@@ -69698,7 +69672,7 @@
 </rs>
 <pc xml:id="POR0064.pc8567" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3321">
+<s xml:id="POR0064.s3308">
 <w xml:id="POR0064.w45746" pos="NOUN" lemma="cós" msd="M S">cos</w>
 <w xml:id="POR0064.w45747" pos="ADP+DET" lemma="de+o" msd="M S">do</w>
 <rs type="ORG">
@@ -69711,7 +69685,7 @@
 </rs>
 <pc xml:id="POR0064.pc8569" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3322">
+<s xml:id="POR0064.s3309">
 <w xml:id="POR0064.w45751" pos="NOUN" lemma="ro" msd="M/F S">ro</w>
 <w xml:id="POR0064.w45752" pos="ADP" lemma="de" msd="">de</w>
 <rs type="MISC">
@@ -69719,7 +69693,7 @@
 </rs>
 <pc xml:id="POR0064.pc8570" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3323">
+<s xml:id="POR0064.s3310">
 <w xml:id="POR0064.w45754" pos="CCONJ" lemma="e" msd="">E</w>
 <w xml:id="POR0064.w45755" pos="ADP" lemma="entre" msd="">entre</w>
 <w xml:id="POR0064.w45756" pos="DET" lemma="outro" msd="F P">outras</w>
@@ -69750,13 +69724,13 @@
 </s>
 </p>
 <p xml:id="POR0064.p1536">
-<s xml:id="POR0064.s3324">
+<s xml:id="POR0064.s3311">
 <rs type="PERS">
 <w xml:id="POR0064.w45776" pos="PROPN" lemma="Cod" msd="M/F S">Cod</w>
 </rs>
 <pc xml:id="POR0064.pc8576" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3325">
+<s xml:id="POR0064.s3312">
 <w xml:id="POR0064.w45777" pos="NOUN" lemma="c" msd="M S">C</w>
 <w xml:id="POR0064.w45778" pos="NOUN" lemma="v" msd="M/F S/P">V</w>
 <w xml:id="POR0064.w45779" pos="ADP" lemma="/" msd="">/</w>
@@ -69771,13 +69745,13 @@
 </s>
 </p>
 <p xml:id="POR0064.p1537">
-<s xml:id="POR0064.s3326">
+<s xml:id="POR0064.s3313">
 <rs type="PERS">
 <w xml:id="POR0064.w45785" pos="PROPN" lemma="Biblioth" msd="M/F S">Biblioth</w>
 </rs>
 <pc xml:id="POR0064.pc8578" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3327">
+<s xml:id="POR0064.s3314">
 <rs type="PERS">
 <w xml:id="POR0064.w45786" pos="PROPN" lemma="Publ._d'Evora" msd="F S">Publ.</w>
 <w xml:id="POR0064.w45787" pos="PROPN" lemma="Publ._d'Evora" msd="F S">d'Evora</w>
@@ -69786,7 +69760,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1538">
-<s xml:id="POR0064.s3328">
+<s xml:id="POR0064.s3315">
 <w xml:id="POR0064.w45788" pos="DET" lemma="um" msd="M S">Um</w>
 <w xml:id="POR0064.w45789" pos="NOUN" lemma="auto" msd="M S">auto</w>
 <w xml:id="POR0064.w45790" pos="ADP" lemma="de" msd="">de</w>
@@ -69798,7 +69772,7 @@
 <w xml:id="POR0064.w45795" pos="PROPN" lemma="Inquisição_de_Evora" msd="F S">Evora</w>
 </rs>
 </s>
-<s xml:id="POR0064.s3329">
+<s xml:id="POR0064.s3316">
 <w xml:id="POR0064.w45796" pos="NOUN" lemma="pag." msd="F S">pag.</w>
 <rs type="MISC">
 <w xml:id="POR0064.w45797" pos="NUM" lemma="227" msd="M/F P">227</w>
@@ -69806,7 +69780,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1539">
-<s xml:id="POR0064.s3330">
+<s xml:id="POR0064.s3317">
 <w xml:id="POR0064.w45798" pos="ADP" lemma="em" msd="">Em</w>
 <rs type="MISC">
 <w xml:id="POR0064.w45799" pos="NUM" lemma="2" msd="M S">2</w>
@@ -69865,7 +69839,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1540">
-<s xml:id="POR0064.s3331">
+<s xml:id="POR0064.s3318">
 <pc xml:id="POR0064.pc8586" pos="pu">&quot;</pc>
 <rs type="PERS">
 <w xml:id="POR0064.w45831" pos="PROPN" lemma="Sahirão" msd="M/F S">Sahirão</w>
@@ -69883,7 +69857,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1541">
-<s xml:id="POR0064.s3332">
+<s xml:id="POR0064.s3319">
 <pc xml:id="POR0064.pc8587" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45836" pos="ADP" lemma="em" msd="">em</w>
 <w xml:id="POR0064.w45837" pos="PRON" lemma="que" msd="M S">que</w>
@@ -69893,14 +69867,14 @@
 </s>
 </p>
 <p xml:id="POR0064.p1542">
-<s xml:id="POR0064.s3333">
+<s xml:id="POR0064.s3320">
 <w xml:id="POR0064.w45841" pos="ADJ" lemma="relaxado" msd="F P">Relaxadas</w>
 <w xml:id="POR0064.w45842" pos="ADP" lemma="em" msd="">em</w>
 <w xml:id="POR0064.w45843" pos="NOUN" lemma="carne" msd="F S">carne</w>
 </s>
 </p>
 <p xml:id="POR0064.p1543">
-<s xml:id="POR0064.s3334">
+<s xml:id="POR0064.s3321">
 <pc xml:id="POR0064.pc8588" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45844" pos="NUM" lemma="1" msd="M S">1</w>
 <rs type="PERS">
@@ -69915,7 +69889,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1544">
-<s xml:id="POR0064.s3335">
+<s xml:id="POR0064.s3322">
 <rs type="WORK">
 <w xml:id="POR0064.w45850" pos="PROPN" lemma="Sapatr.º_n.al" msd="M/F S/P">Sapatr.º</w>
 <w xml:id="POR0064.w45851" pos="PROPN" lemma="Sapatr.º_n.al" msd="M/F S/P">n.al</w>
@@ -69926,7 +69900,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1545">
-<s xml:id="POR0064.s3336">
+<s xml:id="POR0064.s3323">
 <pc xml:id="POR0064.pc8590" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w45854" pos="NUM" lemma="2" msd="F P">2</w>
 <rs type="PERS">
@@ -69936,13 +69910,13 @@
 <w xml:id="POR0064.w45857" pos="NOUN" lemma="m" msd="M S">m</w>
 <pc xml:id="POR0064.pc8591" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3337">
+<s xml:id="POR0064.s3324">
 <w xml:id="POR0064.w45858" pos="NOUN" lemma="er" msd="M/F S">er</w>
 <w xml:id="POR0064.w45859" pos="ADP" lemma="de" msd="">de</w>
 </s>
 </p>
 <p xml:id="POR0064.p1546">
-<s xml:id="POR0064.s3338">
+<s xml:id="POR0064.s3325">
 <rs type="PERS">
 <w xml:id="POR0064.w45860" pos="PROPN" lemma="Diogo_Coua_Tozador" msd="M S">Diogo</w>
 <w xml:id="POR0064.w45861" pos="PROPN" lemma="Diogo_Coua_Tozador" msd="M S">Coua</w>
@@ -69951,7 +69925,7 @@
 <w xml:id="POR0064.w45863" pos="NOUN" lemma="n" msd="M S">n</w>
 <pc xml:id="POR0064.pc8592" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3339">
+<s xml:id="POR0064.s3326">
 <w xml:id="POR0064.w45864" pos="NOUN" lemma="al" msd="M/F S">al</w>
 <w xml:id="POR0064.w45865" pos="ADP" lemma="de" msd="">de</w>
 <rs type="PERS">
@@ -69962,13 +69936,13 @@
 </s>
 </p>
 <p xml:id="POR0064.p1547">
-<s xml:id="POR0064.s3340">
+<s xml:id="POR0064.s3327">
 <rs type="PERS">
 <w xml:id="POR0064.w45867" pos="PROPN" lemma="Cod" msd="M/F S">Cod</w>
 </rs>
 <pc xml:id="POR0064.pc8595" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3341">
+<s xml:id="POR0064.s3328">
 <w xml:id="POR0064.w45868" pos="NUM" lemma="106/1-38" msd="M/F P">106/1-38</w>
 <w xml:id="POR0064.w45869" pos="ADP+DET" lemma="de+o" msd="F S">da</w>
 <rs type="ORG">
@@ -69977,7 +69951,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1548">
-<s xml:id="POR0064.s3342">
+<s xml:id="POR0064.s3329">
 <w xml:id="POR0064.w45871" pos="VERB" lemma="publicar" msd="PR 3S IND VFIN">Publica</w>
 <w xml:id="POR0064.w45872" pos="ADP" lemma="de" msd="">de</w>
 <rs type="PERS">
@@ -69987,7 +69961,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1549">
-<s xml:id="POR0064.s3343">
+<s xml:id="POR0064.s3330">
 <w xml:id="POR0064.w45874" pos="DET" lemma="este" msd="F S">Esta</w>
 <w xml:id="POR0064.w45875" pos="ADJ" lemma="vergonhoso" msd="F S">vergonhosa</w>
 <w xml:id="POR0064.w45876" pos="NOUN" lemma="procissão" msd="F S">procissão</w>
@@ -70008,7 +69982,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1550">
-<s xml:id="POR0064.s3344">
+<s xml:id="POR0064.s3331">
 <w xml:id="POR0064.w45884" pos="DET" lemma="o" msd="M S">O</w>
 <w xml:id="POR0064.w45885" pos="NOUN" lemma="rigor" msd="M S">rigor</w>
 <w xml:id="POR0064.w45886" pos="ADJ" lemma="historico" msd="M S">historico</w>
@@ -70069,7 +70043,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1551">
-<s xml:id="POR0064.s3345">
+<s xml:id="POR0064.s3332">
 <pc xml:id="POR0064.pc8604" pos="pu">&quot;</pc>
 <pc xml:id="POR0064.pc8605" pos="pu">...</pc>
 <w xml:id="POR0064.w45925" pos="VERB" lemma="acabar" msd="PCP M S">acabado</w>
@@ -70084,7 +70058,7 @@
 </rs>
 <pc xml:id="POR0064.pc8606" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3346">
+<s xml:id="POR0064.s3333">
 <w xml:id="POR0064.w45933" pos="ADJ" lemma="rés" msd="M S">res</w>
 <rs type="ROLE">
 <w xml:id="POR0064.w45934" pos="NOUN" lemma="deputado" msd="M P">deputados</w>
@@ -70108,7 +70082,7 @@
 <w xml:id="POR0064.w45947" pos="NOUN" lemma="offi" msd="M P">offi</w>
 <pc xml:id="POR0064.pc8609" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3347">
+<s xml:id="POR0064.s3334">
 <w xml:id="POR0064.w45948" pos="NOUN" lemma="aes" msd="M S">aes</w>
 <w xml:id="POR0064.w45949" pos="CCONJ" lemma="e" msd="">e</w>
 <w xml:id="POR0064.w45950" pos="NOUN" lemma="entrão" msd="M S">entrão</w>
@@ -70143,7 +70117,7 @@
 <w xml:id="POR0064.w45971" pos="NOUN" lemma="s" msd="M S">S</w>
 <pc xml:id="POR0064.pc8612" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3348">
+<s xml:id="POR0064.s3335">
 <w xml:id="POR0064.w45972" pos="PRON+PRON" lemma="tu+ele" msd="M 3S ACC">to</w>
 <w xml:id="POR0064.w45973" pos="NOUN" lemma="offi.º" msd="M S">offi.º</w>
 <w xml:id="POR0064.w45974" pos="ADP+DET" lemma="de+o" msd="F S">da</w>
@@ -70151,14 +70125,14 @@
 <w xml:id="POR0064.w45976" pos="ADJ" lemma="direito" msd="F S">direita</w>
 <pc xml:id="POR0064.pc8613" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3349">
+<s xml:id="POR0064.s3336">
 <w xml:id="POR0064.w45977" pos="DET" lemma="o" msd="M S">O</w>
 <rs type="ORG">
 <w xml:id="POR0064.w45978" pos="PROPN" lemma="Inq" msd="M S">Inq</w>
 </rs>
 <pc xml:id="POR0064.pc8614" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3350">
+<s xml:id="POR0064.s3337">
 <w xml:id="POR0064.w45979" pos="NOUN" lemma="dor" msd="F S">dor</w>
 <w xml:id="POR0064.w45980" pos="ADV" lemma="mais" msd="">mais</w>
 <w xml:id="POR0064.w45981" pos="ADJ" lemma="antigo" msd="M S">antigo</w>
@@ -70183,7 +70157,7 @@
 <w xml:id="POR0064.w45998" pos="NOUN" lemma="lista" msd="F S">lista</w>
 <pc xml:id="POR0064.pc8615" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3351">
+<s xml:id="POR0064.s3338">
 <w xml:id="POR0064.w45999" pos="CCONJ" lemma="e" msd="">E</w>
 <w xml:id="POR0064.w46000" pos="ADP" lemma="por" msd="">por</w>
 <w xml:id="POR0064.w46001" pos="DET" lemma="um" msd="M S">hum</w>
@@ -70203,7 +70177,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1552">
-<s xml:id="POR0064.s3352">
+<s xml:id="POR0064.s3339">
 <pc xml:id="POR0064.pc8618" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w46007" pos="CCONJ" lemma="e" msd="">E</w>
 <w xml:id="POR0064.w46008" pos="VERB" lemma="partir" msd="PR 3S IND VFIN">parte</w>
@@ -70220,13 +70194,13 @@
 <w xml:id="POR0064.w46017" pos="VERB" lemma="ser" msd="INF 3S">Ser</w>
 <pc xml:id="POR0064.pc8619" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3353">
+<s xml:id="POR0064.s3340">
 <rs type="PERS">
 <w xml:id="POR0064.w46018" pos="PROPN" lemma="Inq" msd="M/F S">Inq</w>
 </rs>
 <pc xml:id="POR0064.pc8620" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3354">
+<s xml:id="POR0064.s3341">
 <w xml:id="POR0064.w46019" pos="NOUN" lemma="dor" msd="F S">dor</w>
 <w xml:id="POR0064.w46020" pos="ADJ" lemma="geral" msd="M S">Geral</w>
 <w xml:id="POR0064.w46021" pos="CCONJ" lemma="e" msd="">e</w>
@@ -70240,13 +70214,13 @@
 </s>
 </p>
 <p xml:id="POR0064.p1553">
-<s xml:id="POR0064.s3355">
+<s xml:id="POR0064.s3342">
 <rs type="PERS">
 <w xml:id="POR0064.w46024" pos="PROPN" lemma="Cod" msd="M/F S">Cod</w>
 </rs>
 <pc xml:id="POR0064.pc8622" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3356">
+<s xml:id="POR0064.s3343">
 <w xml:id="POR0064.w46025" pos="NOUN" lemma="c" msd="M S">C</w>
 <w xml:id="POR0064.w46026" pos="VERB" lemma="ver" msd="PS 1S IND VFIN">VI</w>
 <w xml:id="POR0064.w46027" pos="CCONJ" lemma="/" msd="">/</w>
@@ -70259,7 +70233,7 @@
 </rs>
 <pc xml:id="POR0064.pc8623" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3357">
+<s xml:id="POR0064.s3344">
 <w xml:id="POR0064.w46031" pos="ADP" lemma="de" msd="">de</w>
 <rs type="PERS">
 <w xml:id="POR0064.w46032" pos="PROPN" lemma="Evora" msd="M/F S">Evora</w>
@@ -70268,7 +70242,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1554">
-<s xml:id="POR0064.s3358">
+<s xml:id="POR0064.s3345">
 <w xml:id="POR0064.w46033" pos="NOUN" lemma="pag." msd="F S">pag.</w>
 <rs type="MISC">
 <w xml:id="POR0064.w46034" pos="NUM" lemma="21" msd="M/F P">21</w>
@@ -70279,7 +70253,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1555">
-<s xml:id="POR0064.s3359">
+<s xml:id="POR0064.s3346">
 <w xml:id="POR0064.w46037" pos="VERB" lemma="subir" msd="PR 3S IND VFIN">Sobe</w>
 <w xml:id="POR0064.w46038" pos="ADP+DET" lemma="a+o" msd="M S">ao</w>
 <w xml:id="POR0064.w46039" pos="NOUN" lemma="púlpito" msd="M S">pulpito</w>
@@ -70300,7 +70274,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1556">
-<s xml:id="POR0064.s3360">
+<s xml:id="POR0064.s3347">
 <w xml:id="POR0064.w46047" pos="DET" lemma="o" msd="M P">Os</w>
 <w xml:id="POR0064.w46048" pos="NOUN" lemma="trecho" msd="M P">trechos</w>
 <w xml:id="POR0064.w46049" pos="PRON" lemma="que" msd="M S">que</w>
@@ -70405,7 +70379,7 @@
 </rs>
 <pc xml:id="POR0064.pc8636" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3361">
+<s xml:id="POR0064.s3348">
 <w xml:id="POR0064.w46120" pos="VERB" lemma="crer" msd="GER">Crendo</w>
 <w xml:id="POR0064.w46121" pos="PRON" lemma="eu" msd="M/F 1S NOM">eu</w>
 <w xml:id="POR0064.w46122" pos="SCONJ" lemma="que" msd="">que</w>
@@ -70431,7 +70405,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1557">
-<s xml:id="POR0064.s3362">
+<s xml:id="POR0064.s3349">
 <w xml:id="POR0064.w46140" pos="VERB" lemma="ser" msd="IMPF 1/3S IND VFIN">Era</w>
 <rs type="PERS">
 <w xml:id="POR0064.w46141" pos="PROPN" lemma="D._Miguel" msd="M/F S">D.</w>
@@ -70449,7 +70423,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1558">
-<s xml:id="POR0064.s3363">
+<s xml:id="POR0064.s3350">
 <w xml:id="POR0064.w46147" pos="ADP" lemma="em_abono_de" msd="">Em</w>
 <w xml:id="POR0064.w46148" pos="ADP" lemma="em_abono_de" msd="">abono</w>
 <w xml:id="POR0064.w46149" pos="ADP+DET" lemma="em_abono_de+o" msd="F S">da</w>
@@ -70488,7 +70462,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1559">
-<s xml:id="POR0064.s3364">
+<s xml:id="POR0064.s3351">
 <w xml:id="POR0064.w46178" pos="DET" lemma="o" msd="F S">A</w>
 <w xml:id="POR0064.w46179" pos="NOUN" lemma="cisterna" msd="F S">cisterna</w>
 <w xml:id="POR0064.w46180" pos="ADV" lemma="que" msd="">que</w>
@@ -70497,7 +70471,7 @@
 <w xml:id="POR0064.w46183" pos="NOUN" lemma="portaria" msd="F S">portaria</w>
 <pc xml:id="POR0064.pc8642" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3365">
+<s xml:id="POR0064.s3352">
 <w xml:id="POR0064.w46184" pos="NOUN" lemma="pag." msd="F S">pag.</w>
 <rs type="MISC">
 <w xml:id="POR0064.w46185" pos="NUM" lemma="163" msd="M/F P">163</w>
@@ -70505,7 +70479,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1560">
-<s xml:id="POR0064.s3366">
+<s xml:id="POR0064.s3353">
 <w xml:id="POR0064.w46186" pos="DET" lemma="este" msd="F S">Esta</w>
 <w xml:id="POR0064.w46187" pos="NOUN" lemma="cisterna" msd="F S">cisterna</w>
 <w xml:id="POR0064.w46188" pos="VERB" lemma="aparecer" msd="PS 3S IND VFIN">appareceu</w>
@@ -70524,7 +70498,7 @@
 <w xml:id="POR0064.w46201" pos="NOUN" lemma="egreja" msd="F S">egreja</w>
 <pc xml:id="POR0064.pc8643" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3367">
+<s xml:id="POR0064.s3354">
 <w xml:id="POR0064.w46202" pos="VERB" lemma="ficar" msd="IMPF 1/3S IND VFIN">Ficava</w>
 <w xml:id="POR0064.w46203" pos="ADP" lemma="por_baixo_de" msd="">por</w>
 <w xml:id="POR0064.w46204" pos="ADP" lemma="por_baixo_de" msd="">baixo</w>
@@ -70535,14 +70509,14 @@
 <w xml:id="POR0064.w46209" pos="NOUN" lemma="alpendre" msd="M S">alpendre</w>
 <pc xml:id="POR0064.pc8644" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3368">
+<s xml:id="POR0064.s3355">
 <w xml:id="POR0064.w46210" pos="VERB" lemma="ser" msd="PS 3S IND VFIN">Foi</w>
 <w xml:id="POR0064.w46211" pos="VERB" lemma="entulhar" msd="PCP F S">entulhada</w>
 <pc xml:id="POR0064.pc8645" pos="pu">.</pc>
 </s>
 </p>
 <p xml:id="POR0064.p1561">
-<s xml:id="POR0064.s3369">
+<s xml:id="POR0064.s3356">
 <w xml:id="POR0064.w46212" pos="DET" lemma="o" msd="F S">A</w>
 <w xml:id="POR0064.w46213" pos="NOUN" lemma="imagem" msd="F S">imagem</w>
 <w xml:id="POR0064.w46214" pos="ADP+DET" lemma="de+o" msd="M S">do</w>
@@ -70558,7 +70532,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1562">
-<s xml:id="POR0064.s3370">
+<s xml:id="POR0064.s3357">
 <w xml:id="POR0064.w46221" pos="ADV" lemma="ainda" msd="">Ainda</w>
 <w xml:id="POR0064.w46222" pos="VERB" lemma="existir" msd="PR 3S IND VFIN">existe</w>
 <w xml:id="POR0064.w46223" pos="ADP+DET" lemma="em+o" msd="F S">na</w>
@@ -70613,7 +70587,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1563">
-<s xml:id="POR0064.s3371">
+<s xml:id="POR0064.s3358">
 <pc xml:id="POR0064.pc8650" pos="pu">...</pc>
 <w xml:id="POR0064.w46259" pos="ADP" lemma="por" msd="">por</w>
 <w xml:id="POR0064.w46260" pos="VERB" lemma="ser" msd="INF">ser</w>
@@ -70626,7 +70600,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1564">
-<s xml:id="POR0064.s3372">
+<s xml:id="POR0064.s3359">
 <w xml:id="POR0064.w46264" pos="ADV" lemma="não" msd="">Não</w>
 <w xml:id="POR0064.w46265" pos="AUX" lemma="ser" msd="PR 3P IND VFIN">são</w>
 <w xml:id="POR0064.w46266" pos="VERB" lemma="conhecer" msd="PCP F P">conhecidas</w>
@@ -70645,7 +70619,7 @@
 <w xml:id="POR0064.w46277" pos="NOUN" lemma="abobadilha" msd="F P">abobadilhas</w>
 <pc xml:id="POR0064.pc8654" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3373">
+<s xml:id="POR0064.s3360">
 <w xml:id="POR0064.w46278" pos="ADP" lemma="em" msd="">Em</w>
 <rs type="PLACE">
 <w xml:id="POR0064.w46279" pos="PROPN" lemma="Coimbra" msd="M/F S/P">Coimbra</w>
@@ -70659,7 +70633,7 @@
 <w xml:id="POR0064.w46286" pos="VERB" lemma="construir" msd="INF 1S">construir</w>
 <pc xml:id="POR0064.pc8655" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3374">
+<s xml:id="POR0064.s3361">
 <w xml:id="POR0064.w46287" pos="VERB" lemma="ser" msd="PR 3P IND VFIN">São</w>
 <w xml:id="POR0064.w46288" pos="PRON" lemma="elas" msd="F 3P NOM">ellas</w>
 <pc xml:id="POR0064.pc8656" pos="pu">,</pc>
@@ -70697,7 +70671,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1565">
-<s xml:id="POR0064.s3375">
+<s xml:id="POR0064.s3362">
 <w xml:id="POR0064.w46316" pos="VERB" lemma="ter" msd="PR 3S IND VFIN">Tem</w>
 <w xml:id="POR0064.w46317" pos="DET" lemma="o" msd="M P">os</w>
 <rs type="ROLE">
@@ -70732,7 +70706,7 @@
 <w xml:id="POR0064.w46341" pos="ADJ" lemma="simples" msd="M P">simples</w>
 <pc xml:id="POR0064.pc8663" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3376">
+<s xml:id="POR0064.s3363">
 <w xml:id="POR0064.w46342" pos="VERB" lemma="ser" msd="PR 3S IND VFIN">É</w>
 <w xml:id="POR0064.w46343" pos="ADJ" lemma="curioso" msd="M S">curioso</w>
 <w xml:id="POR0064.w46344" pos="VERB" lemma="ver" msd="INF 3S">ver</w>
@@ -70741,7 +70715,7 @@
 <pc xml:id="POR0064.pc8664" pos="pu">!</pc>
 <pc xml:id="POR0064.pc8665" pos="pu">--</pc>
 </s>
-<s xml:id="POR0064.s3377">
+<s xml:id="POR0064.s3364">
 <w xml:id="POR0064.w46347" pos="VERB" lemma="dizer" msd="PR 3S SUBJ VFIN">Diga</w>
 <w xml:id="POR0064.w46348" pos="DET" lemma="um" msd="M S">um</w>
 <w xml:id="POR0064.w46349" pos="NOUN" lemma="mestre" msd="M S">mestre</w>
@@ -70757,7 +70731,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1566">
-<s xml:id="POR0064.s3378">
+<s xml:id="POR0064.s3365">
 <pc xml:id="POR0064.pc8667" pos="pu">&quot;</pc>
 <w xml:id="POR0064.w46358" pos="NOUN" lemma="abobadilha" msd="F P">Abobadilhas</w>
 <pc xml:id="POR0064.pc8668" pos="pu">,</pc>
@@ -70800,7 +70774,7 @@
 <w xml:id="POR0064.w46386" pos="VERB" lemma="rebater" msd="PCP M S">rebatido</w>
 <pc xml:id="POR0064.pc8676" pos="pu">;</pc>
 </s>
-<s xml:id="POR0064.s3379">
+<s xml:id="POR0064.s3366">
 <w xml:id="POR0064.w46387" pos="SCONJ" lemma="porque" msd="">porque</w>
 <w xml:id="POR0064.w46388" pos="VERB" lemma="necessitar" msd="PR 3S IND VFIN">necessita</w>
 <w xml:id="POR0064.w46389" pos="VERB" lemma="ser" msd="INF 3S">ser</w>
@@ -70812,7 +70786,7 @@
 <w xml:id="POR0064.w46394" pos="VERB" lemma="cozer" msd="PCP M S">cozido</w>
 <pc xml:id="POR0064.pc8678" pos="pu">:</pc>
 </s>
-<s xml:id="POR0064.s3380">
+<s xml:id="POR0064.s3367">
 <w xml:id="POR0064.w46395" pos="VERB" lemma="andar" msd="FUT 3S IND VFIN">andará</w>
 <w xml:id="POR0064.w46396" pos="DET" lemma="o" msd="M S">o</w>
 <w xml:id="POR0064.w46397" pos="NOUN" lemma="gesso" msd="M S">gesso</w>
@@ -70872,7 +70846,7 @@
 <w xml:id="POR0064.w46435" pos="NOUN" lemma="&amp;" msd="M S">&amp;</w>
 <pc xml:id="POR0064.pc8691" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3381">
+<s xml:id="POR0064.s3368">
 <w xml:id="POR0064.w46436" pos="NOUN" lemma="pag." msd="F S">pag.</w>
 <rs type="MISC">
 <w xml:id="POR0064.w46437" pos="NUM" lemma="80" msd="M/F P">80</w>
@@ -70882,7 +70856,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1567">
-<s xml:id="POR0064.s3382">
+<s xml:id="POR0064.s3369">
 <w xml:id="POR0064.w46438" pos="DET" lemma="este" msd="F S">Esta</w>
 <w xml:id="POR0064.w46439" pos="NOUN" lemma="lingoagem" msd="F S">lingoagem</w>
 <w xml:id="POR0064.w46440" pos="AUX" lemma="dever" msd="PR 3S IND VFIN">deve</w>
@@ -70894,7 +70868,7 @@
 <w xml:id="POR0064.w46446" pos="NOUN" lemma="ofício" msd="M S">officio</w>
 <pc xml:id="POR0064.pc8694" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3383">
+<s xml:id="POR0064.s3370">
 <w xml:id="POR0064.w46447" pos="VERB" lemma="dizer" msd="FUT 1S IND VFIN">Direi</w>
 <pc xml:id="POR0064.pc8695" pos="pu">,</pc>
 <w xml:id="POR0064.w46448" pos="ADV" lemma="comtudo" msd="">comtudo</w>
@@ -70925,7 +70899,7 @@
 <w xml:id="POR0064.w46470" pos="VERB" lemma="lançar" msd="PR 3P IND VFIN">lançam</w>
 <pc xml:id="POR0064.pc8699" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3384">
+<s xml:id="POR0064.s3371">
 <w xml:id="POR0064.w46471" pos="VERB" lemma="entrar" msd="PR 3P IND VFIN">Entram</w>
 <w xml:id="POR0064.w46472" pos="ADP" lemma="em" msd="">n</w>
 <pc xml:id="POR0064.pc8700" pos="pu">'</pc>
@@ -70956,7 +70930,7 @@
 <w xml:id="POR0064.w46494" pos="NOUN" lemma="arco" msd="M S">arco</w>
 <pc xml:id="POR0064.pc8704" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3385">
+<s xml:id="POR0064.s3372">
 <w xml:id="POR0064.w46495" pos="PRON" lemma="isto" msd="M S">Isto</w>
 <w xml:id="POR0064.w46496" pos="VERB" lemma="fazer" msd="PCP M S">feito</w>
 <pc xml:id="POR0064.pc8705" pos="pu">,</pc>
@@ -71008,7 +70982,7 @@
 <w xml:id="POR0064.w46537" pos="VERB" lemma="citar" msd="PCP F P">citadas</w>
 <pc xml:id="POR0064.pc8709" pos="pu">:</pc>
 </s>
-<s xml:id="POR0064.s3386">
+<s xml:id="POR0064.s3373">
 <w xml:id="POR0064.w46538" pos="VERB" lemma="pôr" msd="GER">pondo</w>
 <w xml:id="POR0064.w46539" pos="ADP" lemma="com" msd="">com</w>
 <w xml:id="POR0064.w46540" pos="DET" lemma="o" msd="F S">a</w>
@@ -71048,7 +71022,7 @@
 <w xml:id="POR0064.w46572" pos="VERB" lemma="collocar" msd="PCP M P">collocados</w>
 <pc xml:id="POR0064.pc8712" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3387">
+<s xml:id="POR0064.s3374">
 <w xml:id="POR0064.w46573" pos="DET" lemma="o" msd="F S">A</w>
 <w xml:id="POR0064.w46574" pos="NOUN" lemma="sesão" msd="F S">sesão</w>
 <w xml:id="POR0064.w46575" pos="VERB+PRON" lemma="fazer+se" msd="PR 3S IND VFIN+F 3S ACC">faz-se</w>
@@ -71070,7 +71044,7 @@
 <w xml:id="POR0064.w46590" pos="VERB" lemma="amparar" msd="PR 3S SUBJ VFIN">ampare</w>
 <pc xml:id="POR0064.pc8714" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3388">
+<s xml:id="POR0064.s3375">
 <w xml:id="POR0064.w46591" pos="CCONJ" lemma="e" msd="">E</w>
 <w xml:id="POR0064.w46592" pos="ADV" lemma="assim" msd="">assim</w>
 <w xml:id="POR0064.w46593" pos="PRON" lemma="se" msd="M/F 3P ACC">se</w>
@@ -71079,7 +71053,7 @@
 <w xml:id="POR0064.w46596" pos="NOUN" lemma="casa" msd="F P">casas</w>
 <pc xml:id="POR0064.pc8715" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3389">
+<s xml:id="POR0064.s3376">
 <w xml:id="POR0064.w46597" pos="DET" lemma="este" msd="F P">Estas</w>
 <w xml:id="POR0064.w46598" pos="NOUN" lemma="abobadilha" msd="F P">abobadilhas</w>
 <w xml:id="POR0064.w46599" pos="ADV" lemma="não" msd="">não</w>
@@ -71092,7 +71066,7 @@
 <w xml:id="POR0064.w46606" pos="NOUN" lemma="teto" msd="M P">tectos</w>
 <pc xml:id="POR0064.pc8716" pos="pu">:</pc>
 </s>
-<s xml:id="POR0064.s3390">
+<s xml:id="POR0064.s3377">
 <w xml:id="POR0064.w46607" pos="ADV" lemma="por_cima" msd="">por</w>
 <w xml:id="POR0064.w46608" pos="ADV" lemma="por_cima" msd="">cima</w>
 <w xml:id="POR0064.w46609" pos="ADP" lemma="de" msd="">d'</w>
@@ -71158,7 +71132,7 @@
 <w xml:id="POR0064.w46658" pos="ADJ" lemma="diminuto" msd="M S">diminuto</w>
 <pc xml:id="POR0064.pc8726" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3391">
+<s xml:id="POR0064.s3378">
 <w xml:id="POR0064.w46659" pos="ADP" lemma="por" msd="">Por</w>
 <w xml:id="POR0064.w46660" pos="ADJ" lemma="grande" msd="F S">maior</w>
 <w xml:id="POR0064.w46661" pos="NOUN" lemma="seguranra" msd="F S">seguranra</w>
@@ -71175,7 +71149,7 @@
 <w xml:id="POR0064.w46671" pos="NOUN" lemma="tijolo" msd="M S">tijolo</w>
 <pc xml:id="POR0064.pc8728" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3392">
+<s xml:id="POR0064.s3379">
 <w xml:id="POR0064.w46672" pos="VERB" lemma="descrever" msd="PR 1S IND VFIN">Descrevo</w>
 <w xml:id="POR0064.w46673" pos="ADV" lemma="miudamente" msd="">miudamente</w>
 <w xml:id="POR0064.w46674" pos="DET" lemma="este" msd="M S">este</w>
@@ -71199,7 +71173,7 @@
 <w xml:id="POR0064.w46687" pos="NOUN" lemma="incêndio" msd="M P">incendios</w>
 <pc xml:id="POR0064.pc8734" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3393">
+<s xml:id="POR0064.s3380">
 <w xml:id="POR0064.w46688" pos="ADP+DET" lemma="em+o" msd="F P">Nas</w>
 <rs type="PLACE">
 <w xml:id="POR0064.w46689" pos="NOUN" lemma="casa" msd="F P">casas</w>
@@ -71225,7 +71199,7 @@
 <w xml:id="POR0064.w46703" pos="VERB" lemma="destruir" msd="PR 3P SUBJ VFIN">destruam</w>
 <pc xml:id="POR0064.pc8736" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3394">
+<s xml:id="POR0064.s3381">
 <w xml:id="POR0064.w46704" pos="ADJ" lemma="bom" msd="M S">Bom</w>
 <w xml:id="POR0064.w46705" pos="VERB" lemma="ser" msd="MQP 1/3S IND VFIN">fôra</w>
 <w xml:id="POR0064.w46706" pos="SCONJ" lemma="que" msd="">que</w>
@@ -71237,7 +71211,7 @@
 <w xml:id="POR0064.w46712" pos="NOUN" lemma="reino" msd="M S">reino</w>
 <pc xml:id="POR0064.pc8737" pos="pu">.</pc>
 </s>
-<s xml:id="POR0064.s3395">
+<s xml:id="POR0064.s3382">
 <w xml:id="POR0064.w46713" pos="ADV" lemma="como" msd="">Como</w>
 <w xml:id="POR0064.w46714" pos="NOUN" lemma="cousa" msd="F S">cousa</w>
 <w xml:id="POR0064.w46715" pos="ADV" lemma="bastante" msd="">bastante</w>
@@ -71270,7 +71244,7 @@
 </s>
 </p>
 <p xml:id="POR0064.p1568">
-<s xml:id="POR0064.s3396">
+<s xml:id="POR0064.s3383">
 <w xml:id="POR0064.w46733" pos="VERB" lemma="decimar" msd="IMP 2S VFIN">DECIMA</w>
 </s>
 </p>
@@ -71350,7 +71324,7 @@
 </l>
 </quote>
 <p xml:id="POR0064.p1569">
-<s xml:id="POR0064.s3397">
+<s xml:id="POR0064.s3384">
 <rs type="ORG">
 <w xml:id="POR0064.w46775" pos="PROPN" lemma="ENDEIXAS" msd="M/F S">ENDEIXAS</w>
 </rs>
@@ -71358,70 +71332,53 @@
 </p>
 <quote>
 <l>
-<s xml:id="POR0064.s3398">
 <rs type="PERS">
 <w xml:id="POR0064.w46776" pos="PROPN" lemma="Senhor|_S._Joseph" msd="M S">Senhor||_S._Joseph</w>
 <w xml:id="POR0064.w46777" pos="PROPN" lemma="Senhor|_S._Joseph" msd="M S">S.|_S._Joseph</w>
 <w xml:id="POR0064.w46778" pos="PROPN" lemma="Senhor|_S._Joseph" msd="M S">Joseph|_S._Joseph</w>
 </rs>
 <pc xml:id="POR0064.pc8751" pos="pu">,</pc>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3399">
 <w xml:id="POR0064.w46779" pos="DET" lemma="este" msd="M S">Este</w>
 <w xml:id="POR0064.w46780" pos="NOUN" lemma="livro" msd="M S">livro</w>
 <w xml:id="POR0064.w46781" pos="VERB" lemma="ser" msd="PR 3S IND VFIN">he</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3400">
 <w xml:id="POR0064.w46782" pos="ADP+DET" lemma="de+o" msd="M S">Do</w>
 <w xml:id="POR0064.w46783" pos="VERB" lemma="principiar" msd="PR 1S IND VFIN">principio</w>
 <w xml:id="POR0064.w46784" pos="ADP+DET" lemma="a+o" msd="M S">ao</w>
 <w xml:id="POR0064.w46785" pos="NOUN" lemma="fim" msd="M S">fim</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3401">
 <w xml:id="POR0064.w46786" pos="DET" lemma="todo" msd="M S">Todo</w>
 <w xml:id="POR0064.w46787" pos="DET" lemma="vosso" msd="M S">vosso</w>
 <pc xml:id="POR0064.pc8752" pos="pu">,</pc>
 <w xml:id="POR0064.w46788" pos="ADV" lemma="assim" msd="">assim</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3402">
 <w xml:id="POR0064.w46789" pos="ADV" lemma="como" msd="">Como</w>
 <w xml:id="POR0064.w46790" pos="VERB" lemma="certificar" msd="PR 3S IND VFIN">certifica</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3403">
 <w xml:id="POR0064.w46791" pos="PRON" lemma="quem" msd="M/F S/P">Quem</w>
 <w xml:id="POR0064.w46792" pos="VERB+PRON" lemma="volhare+ele" msd="PR 1S IND VFIN+M 3S ACC">vol-o</w>
 <w xml:id="POR0064.w46793" pos="VERB" lemma="dedicar" msd="PR 3S IND VFIN">dedica</w>
 <pc xml:id="POR0064.pc8753" pos="pu">:</pc>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3404">
 <w xml:id="POR0064.w46794" pos="DET" lemma="este" msd="M S">Este</w>
 <w xml:id="POR0064.w46795" pos="VERB" lemma="ser" msd="PR 3S IND VFIN">he</w>
 <w xml:id="POR0064.w46796" pos="ADP+DET" lemma="em+o" msd="M S">no</w>
 <w xml:id="POR0064.w46797" pos="NOUN" lemma="emisferio" msd="M S">emisferio</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3405">
 <w xml:id="POR0064.w46798" pos="DET" lemma="o" msd="M S">O</w>
 <w xml:id="POR0064.w46799" pos="PRON" lemma="que" msd="M S">que</w>
 <w xml:id="POR0064.w46800" pos="ADV" lemma="não" msd="">não</w>
 <w xml:id="POR0064.w46801" pos="VERB" lemma="dar" msd="PR 2S SUBJ VFIN">contradês</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3406">
 <rs type="PERS">
 <w xml:id="POR0064.w46802" pos="PROPN" lemma="Cousa" msd="M/F S">Cousa</w>
 </rs>
@@ -71429,36 +71386,29 @@
 <pc xml:id="POR0064.pc8754" pos="pu">,</pc>
 <w xml:id="POR0064.w46804" pos="PRON" lemma="que" msd="M S">que</w>
 <w xml:id="POR0064.w46805" pos="VERB" lemma="querer" msd="PR 1/3S SUBJ VFIN">queira</w>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3407">
 <w xml:id="POR0064.w46806" pos="DET" lemma="o" msd="M S">O</w>
 <w xml:id="POR0064.w46807" pos="DET" lemma="vosso" msd="M S">vosso</w>
 <rs type="PERS">
 <w xml:id="POR0064.w46808" pos="PROPN" lemma="Valerio" msd="M S2">Valerio</w>
 </rs>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3408">
 <w xml:id="POR0064.w46809" pos="DET" lemma="o" msd="M S">O</w>
 <w xml:id="POR0064.w46810" pos="DET" lemma="vosso" msd="M S">vosso</w>
 <rs type="PERS">
 <w xml:id="POR0064.w46811" pos="PROPN" lemma="Martins" msd="M S2">Martins</w>
 </rs>
 <pc xml:id="POR0064.pc8755" pos="pu">,</pc>
-</s>
 </l>
 <l>
-<s xml:id="POR0064.s3409">
 <w xml:id="POR0064.w46812" pos="DET" lemma="o" msd="M S">O</w>
 <w xml:id="POR0064.w46813" pos="DET" lemma="vosso" msd="M S">vosso</w>
 <rs type="PERS">
 <w xml:id="POR0064.w46814" pos="PROPN" lemma="Oliveira" msd="M S2">Oliveira</w>
 </rs>
 <pc xml:id="POR0064.pc8756" pos="pu">.</pc>
-</s>
 </l>
 </quote>
 </div>
@@ -71467,7 +71417,7 @@
 <div type="notes">
 <note xml:id="POR0064-nota-1">
 <p xml:id="POR0064.p1570">
-<s xml:id="POR0064.s3410">
+<s xml:id="POR0064.s3385">
 <rs type="MISC">
 <w xml:id="POR0064.w46815" pos="ADJ" lemma="histórico" msd="M S">Histórico</w>
 </rs>
