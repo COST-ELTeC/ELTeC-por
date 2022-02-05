@@ -8,4 +8,4 @@ for i in POR0*xml; do pref=`echo $i | sed 's/_.*//'`; cost_transforma_level1.pl 
 ``
 
 The version of PALAVRAS used was 14008.
-Three files had to be manually edited due to referencing footnotes in the middle of a sentence: POR0070.
+Two files had to be manually edited due to referencing footnotes in the middle of a sentence: POTR0037 and POR0070.
