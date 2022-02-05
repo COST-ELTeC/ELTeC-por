@@ -22,14 +22,8 @@
 <measure unit="words">134088</measure>
 </extent>
 <publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-<!--Adicionado à coleção ELTeC 14 de maio de 2020. --></publicationStmt>
+<p>Adicionado à coleção ELTeC <date>14 de maio de 2020</date>. </p>
+</publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Luciano Cordeiro</author>
 <title>A senhora duqueza</title>
@@ -59,7 +53,6 @@
 </textDesc>
 </profileDesc>
 <revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-05-14">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -2190,7 +2183,7 @@
 <p>Infelizmente,... para a Historia, a gentilissima e alegre visão, fulgurando por um momento, apenas, no culto e na palavra apaixonada dos poetas e dos chronistas da Côrte, desapparece completamente na grande obscuridade da virtude tranquilla e silenciosa do Lar. </p>
 </div><div type="chapter"><head>II</head>
 <quote>
-<p>OUTROS TEMPOS! </p>
+<l>OUTROS TEMPOS! </l>
 <l>Guerra, guerra todo o estado! </l>
 <l>Guerra, guerra mui cruel! </l>
 <l>Que o gran Rei Dom Manuel </l>
@@ -4715,9 +4708,9 @@
 </quote>
 <p>Satisfazendo os da orthographia fiel, deviamos reproduzir assim o -- Rifam -- : </p>
 <quote>
-<p>Nã sespera outro rremedio </p>
-<p>de quem vyr a periguosa, </p>
-<p>se nam vida douidosa. </p>
+<l>Nã sespera outro rremedio </l>
+<l>de quem vyr a periguosa, </l>
+<l>se nam vida douidosa. </l>
 </quote>
 <p>Entre as Vilhonas, que por diversas procedencias enxameiam a fidalguia portugueza, não é fácil precisar qual fosse a perigosa Beatriz. Seria, provavelmente, a Dona Brites de Vilhena, filha de Ruy Telles e irmã do Ayres Telles, de que adeante falaremos, que foi primeira mulher do Conde de Vimioso. </p> </note> 
 <note xml:id="POR0100-nota-263"> <p> Estas trovas desencanlámol-as de uma longa serie que uma leitura incompleta da respectiva epygraphe tem feito suppor ser toda de Rezende. </p>

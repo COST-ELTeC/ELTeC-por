@@ -22,15 +22,8 @@
 <extent>
 <measure unit="words">72321</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>O último cartuxo da Scala Caeli de Évora</title>
 <ref target="https://archive.org/stream/oultimocartuxod00baragoog"/>
@@ -60,8 +53,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-10-05">Adicionado à coleção ELTeC</change>
 </revisionDesc>
@@ -83,10 +75,8 @@
 <p>1891</p>
 </div>
 <div type="liminal">
-<quote>
 <p>«... Os livros até isso teem de filhos, honrarem uns e deshonrarem outros a quem os gerou. </p>
 <p>D. Francisco Manoel de Mello, Cartas, cent. 5.a c. 83. </p>
-</quote>
 <p>Os leitores illustrados e prudentes dirão, no fim da leitura, que tal saiu este. </p>
 <p>Adolpho, Modesto &amp; C.a -- Impr. -- R. Nova do Loureiro, 25 a 48 </p>
 <p>Ao Excellentissimo Senhor </p>
@@ -99,10 +89,8 @@
 <p xml:lang="es"> A la merced es propria la gratitud.</p>
 <p>D. Francisco Manoel de Mello, Cartas, cent. 2.a c. 20 </p>
 <p>BREVE PREFACIO </p>
-<quote>
 <p>"Dos grandes mestres mais quero o castigo que a emenda. Digam depois do livro impresso o que quizerem, como não digam que me ajudaram antes... "</p>
 <p>D. Francisco Manoel de Mello, Cartas, cent. 4.a c.99.</p>
-</quote>
 <p>Nem é vangloria nem orgulho a citação que faço do meu querido D. Francisco Manoel. É o começo do que devo expor ao leitor d'este livro. </p>
 <p>Escripto por mim, e só por mim, ao correr da penna sobre cadernos de papel almaço ; apenas retocado 'nesse único original, e depois nas provas typographicas, este livro leva muitos defeitos e mesmo erros. </p>
 <p>Tem-me a experiência mostrado a verdade da epigraphe, como parece o mostrára áquelle vulto das nossas letras, e por isso é que sae a lume sem emendas estranhas. </p>
@@ -216,8 +204,7 @@
 <p>Mal vinda fôra ella ao mundo para os sonhos de ventura ecclesiastica que sonhava o pae do estudante. </p>
 <p>É um perigo imminente para o que se dá ao estudo o ter defronte a uma mulher. O desenvolvimento intellectual apressa o desenvolvimento physico; e, por nao fazermos longa dissertação sobre o caso, diremos a quem ler este livro, que Manoel já lia mais no coração de Bemvinda do que no compendio de rhetorica, fastidioso. </p>
 <p>Descobriu-se aquelle estudo, e o pae do rapaz cuidou logo de apressar a entrada d'elle 'num convento, de áspero instituto. Foi lembrado o mosteiro da Cartuxa. </p>
-<p>Sem consultar o moço, sem lhe espreitar a vocação, caso em que ha muito devera ter pensado, o pae do estudante procurou um dia ao D. Prior dos cartuxos, para com elle combinar a entrada do filho na Ordem. Não houve senão uma duvida</p>
-<p><gap/></p>
+<p>Sem consultar o moço, sem lhe espreitar a vocação, caso em que ha muito devera ter pensado, o pae do estudante procurou um dia ao D. Prior dos cartuxos, para com elle combinar a entrada do filho na Ordem. Não houve senão uma duvida <gap/></p>
 <p>-- Então, va de assentar, dissera o dono da casa. E, offerecia uma tripeça ao visinho Clemente emquanto elle se assentava no dorso de volumoso caldeirão de cobre. Assentaram-se.</p>
 <p>-- Pois, senhor, saiba o visinho que um negocio de muita importância me traz aqui, de interesse... </p>
 <p>-- Seu, ou meu? perguntou atalliando a exposisão o pae de Gloria. </p>
@@ -310,8 +297,7 @@
 <p>-- Que não entres na conspiração ; que escrevas a quem te convidou e lhe digas que não ; mas, vê lá como escreves : falia no caso por longes, de modo que entendam a tua recusa sem que digas o que regeitas. E fallo-te assim, porque temo, receio muito que se descubra o trama, que, uma vez descoberto, levará infallivelmeiite ás prisões e aos cadafalsos aos que forem colhidos na rede ingleza, sendo esses, quem sabe ! talvez os primeiros martyres das ideias liberaes, que ahi estão no paiz na maioria dos homens. </p>
 <p>Espera, deixa que os acontecimentos se manifestem, e tomarás então, e só então, o caminho que houveres por melhor, e mais favorecer a teus interesses. Não luctes com sombras, não corras após o incerto : lembra-te que de milhares de victimas tragaram esses mares antes que Vasco da Gama mostrasse ao velho mundo um caminho para o oriente, e Alvares Cabral um mundo novo. </p>
 <p>-- Mas, d'esse modo... </p>
-<p>-- Sim, bem sei o que pretendes oppôr a esta doutrina fradesca, egoista, sim, porque o é ; colher alguém o fructo dos trabalho</p>
-<p><gap/></p>
+<p>-- Sim, bem sei o que pretendes oppôr a esta doutrina fradesca, egoista, sim, porque o é ; colher alguém o fructo dos trabalho <gap/> </p>
 <p>dia já deve seguir os usos e costumes das mais, alimentando se como convém a homens enclausurados e adstrictos a mortificação e a silicios contra as carnes, a vigilias e rezas, dissera, com intenção especial, o alferes. E accrescentou : estava capaz de te acompanhar na ceia, visto que me não deixas saír por ora. </p>
 <p>-- Pois sim, com muito boa vontade; o caso está em que tu queiras. Anda cá. </p>
 <p>E assim fallando D. Bruno tomou-o por um braço e levou-o para a primeira casa, que tinha a chaminé. </p>
@@ -3366,9 +3352,7 @@
 <p>Deus Guarde a V. Ex. Evora, 23 de Maio de 1846. 111.»* e Ex.mo Sr. Barão de Resende. O governador civil: José Francisco Agnello Gazo. Está conforme. </p>
 <p>Secretaria do Governo Civil de Evora, 23 de Maio de 1846. O secretario geral João Procopio Tavares Clere.» </p>
 <p>«III.mo e Ex.mo Sr. A expressão de Rainha e Carta manifestada no officio que V. Ex.a teve a bondade de neste momento me dirigir em nome dos benemeritos representantes escolhidos pelo Povo desta cidade, foi acceite por mim, bem como pela officlalidade das forças do meu Commando com a maior satisfação que pode imaginar, por ser essa a expressão dos nossos sentimentos. Tanto V. Ex." como, em geral, a população desta cidade, depois de muitos annos que tenho tido a honra de commandar o Hegimento quinto de cavallaria,tem observado a disciplina em que sempre o tenho conservado, e sua boa harmonia e comportamento para com estes habitantes. </p>
-<p>O meu dever como Militar, e mesmo minhas intenções nunca forão nem são d'aggredir o Povo, e sim em sustentar a Ordem Publica, em beneficio dos mesmos habitantes, como mesmo na crise presente se tem conhecido. Creia, pois, V. Ex" que se o Povo desta cidade quizer por eâeito de manifestação publica unir o« seus votos aos d*outras Povoações dVste Reino, visto os dois objectos sagrados que invocão serem Rainha e Carta, que nenhuma oppqsição encontrarão na Tropa, a qual, como disse, partilha os mesmos sentimentos. </p>
-<p><gap/></p>
-<p>de esperar) nos forcem a combater, como pela vossa geneosidade e moderação na victoria. </p>
+<p>O meu dever como Militar, e mesmo minhas intenções nunca forão nem são d'aggredir o Povo, e sim em sustentar a Ordem Publica, em beneficio dos mesmos habitantes, como mesmo na crise presente se tem conhecido. Creia, pois, V. Ex. que se o Povo desta cidade quizer por efeito de manifestação publica unir os seus votos aos d'outras Povoações d'este Reino, visto os dois objectos sagrados que invocão serem Rainha e Carta, que nenhuma opposição encontrarão na Tropa, a qual, como disse, partilha os mesmos sentimentos <gap/> de esperar) nos forcem a combater, como pela vossa geneosidade e moderação na victoria. </p>
 <p>Ás armas, cidadáos! Ás armas ! </p>
 <p>E vós, soldados, que também sois cidadãos !</p>
 <p>Vós vedes de uma parte a Nação inteira, vedes com ella a rainha (pois onde na de estar a cabeça senão onde está o orpo?) e de outra parte que vedes? Uns, poucos de Ladrões, inimigos implacaveis da Patria e da liberdade. </p>

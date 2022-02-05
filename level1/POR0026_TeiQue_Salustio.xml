@@ -22,15 +22,7 @@
 <extent>
 <measure unit="words">110267</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 
   <sourceDesc><bibl type="digitalSource">
       <title>O Salústio Nogueira</title>
@@ -67,8 +59,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-05-07">Adicionado à coleção ELTeC</change> 
 </revisionDesc>
@@ -1444,8 +1435,8 @@
 </quote>
 <p>-- Muito bem, assim mesmo -- applaudiu com benevola superioridade o actor Rosa, indo lentamente para o fundo da sala sentar-se na sua poltrona de juiz.</p>
 <p>-- Muito bem, muitissimo bem -- repetiram outras pessoas, batendo ceremoniosas palmas.</p>
-<p>-- <foreign xml:lang="fr"> Bonsoir donc... </foreign> -- pronunciou a Frazuella imitando Josefa. <foreign xml:lang="fr"> -- Magnifique! </foreign> </p>
-<p>-- <foreign xml:lang="fr"> Superbe!  </foreign> -- acrescentou o visconde de Pomarini.</p>
+<p>-- <foreign xml:lang="fr"> Bonsoir donc... </foreign> -- pronunciou a Frazuella imitando Josefa. -- <foreign xml:lang="fr"> Magnifique! </foreign> </p>
+<p>-- <foreign xml:lang="fr"> Superbe! </foreign> -- acrescentou o visconde de Pomarini.</p>
 <p>A mulher do ministro, animada pelos applausos, sentiu grande calor no rosto! Aquella organisação emocional teve, n'este momento, forte impulso para as regiões livres da arte. A sua existencia monotona, na convivencia de um marido sem paixão de coisas sublimes, foi de repente arejada pelos repetidos bravos, que o seu talento provocára. O dia da representação, quando diante de publico mais numeroso renascessem os enthusiasmos uniformes, devia ser para elle de grande contentamento!... Já sentia que nos ensaios estivesse pouca gente para a applaudir. Na realidade a condessa, a todos os estranhos que lhe pediram licença, (já porque isto fôra convencionado e talvez presumindo que podesse haver ligeirezas e amabilidades de bastidores, que não desejava sabidas cá fóra) respondêra inflexivelmente: «Esperem pelo dia. Até lhe encontrarão mais graça.»</p>
 <p>Além d'ella, que assistia como dona da casa e senhora de alto criterio, poucas mais pessoas havia. Entre essas poucas estava Sallustio Nogueira, que representava o aquecimento do enthusiasmo exterior a respeito d'esta festa galante. Pelos seus amigos dos jornaes, fazia apparecer diariamente noticias excitadoras da opinião! Com a sua verbosidade magnifica, nos sitios onde apparecesse, encarecia tudo quanto estava em projecto, dando a factos insignificantes alcance litterario, valor determinante de progresso intellectual do paiz, representado pela iniciativa da melhor sociedade. A quem lhe pedia informações dava-as acrescentadas; porém, como sempre as julgasse incompletas, aditava:</p>
 <p>-- No dia verão! Ainda se não fez em Lisboa coisa semelhante!</p>
@@ -1818,7 +1809,7 @@
 <p>O severo olhar de Mauricio encontrou-se com o do ministro da guerra no momento em que este affastava a vista da scena, que o incommodava.</p>
 <p>O barão, emquanto ía ameigando graciosa e demoradamente a setinosa pelle de Josefa, inquiria dos motivos occultos de tanto agastamento. A rainha, irónica e adversa, censura-lhe a linguagem, os olhares ternos, que mais parecem de estudante amoroso do que d'um marido e d'um rei! Filippe responde, dando ás palavras inflexões de amante surprehendjdo duma recusa, que tanto lhe está augmentando o appetite da carne:</p>
 <p xml:lang="fr">«Pourquoi donc un mari n'aurait-il pas le droit</p>
-<p xml:lang="fr">«De parler comme il senr, quand il sent comme il doit?»</p>
+<p xml:lang="fr">«De parler comme il sent, quand il sent comme il doit?»</p>
 <p>-- E' verdade, é verdade! -- pensou enrubecendo o general Gonçalo. Em casa recordaria a sua mulher estas sensatissimas palavras. Castigaria, por esta fórma, a má vontade incomprehensivel de Josefa para com elle, em certas occasiões...</p>
 <p>Mas o rei continuou n'um crescendo de amor, fallando em linguagem caprichosa, repassada de brandura ineffavel. Com a bôca muito chegada ao rosto da princeza, dizia-lhe coisas ternas, em modulação cantada e lubrica. Porventura, seu avô ter-lhe ía entregado a corôa, para o tornar incapaz do goso do amor?!...</p>
 <p>Mocidade, illusões, esperança. .. poderiam caír-lhe da fronte, arrancadas pela mão sêcca do velho rei? Esse que o collocára n'aquelle throno, conceberia a insensata idéa de lhe transformar rapidamente a côr dos cabellos e tornal-o insensível ao fogo dos olhares da sua amada, da sua esposa? Perguntasse antes Luiza a rasão pela qual na primavera creadora os bosques se enchem de ninhos; perguntasse antes porque na aurora o céu se incendeia; mas não lhe perguntasse, outra vez, o motivo pelo qual se sentia ebrio, louco, verdadeiramente louco de paixão, quando a tinha juncto a si!.. E, apertando-a mais contra o seio, na terna liberdade de um marido, olhando-a meigamente na expressão indefinida de quem a ama com elevação e transporte, pronunciou as seguintes palavras, que eram uma evocação formidável do seu fremente sentir :</p>
@@ -2577,11 +2568,11 @@
 <p>-- Vamos á nossa vida -- convidou amavelmente o presidente.</p>
 <p>-- Chamar-me tolo! Ter a ousadia de me chamar tolo e de me dizer, a mim, que as ouvi zunir por aqui no cêrco do Porto, que ando mettido em intrigas de saias ! E' o mesmo que chamar-me um maricas! Será bom que não torne a apparecer tão cedo diante da minha vista. Se o encontro na rua, não sei o que acontecerá ! Um João-ninguem, que eu posso reduzir a cisco entre dois dedos.</p>
 <p>Julio Clovis aproveitou o espirito conciliador do marquez, corroborando-o, dizendo algumas palavras que attenuassem o procedimento de Carlos de Mendonça.</p>
-<p>- Deve-se desculpar, é um homem de talento. - <gap/></p>
+<p>- Deve-se desculpar, é um homem de talento <gap/> . </p>
 <p>Porém, Evaristo de Mello, furioso, disse energicamente, pondo-se-lhe diante do nariz:</p>
-<p>- Também a ti te sobre talento e nem por isso insultas os collegas.</p>
+<p>-- Também a ti te sobre talento e nem por isso insultas os collegas.</p>
 <p>O general Gonçalo deu volta a mesa em largas passadas, agarrou o ministro das obras publicas violentamente por um braço e disse-lhe n'um rugir surdo:</p>
-<p>- Para esses talentos estou-me...m...</p>
+<p>-- Para esses talentos estou-me...m...</p>
 <p>Não <gap/> a palavra que lhe viera a ponta da lingua, por um certo respeito pela companhia; porém, remoendo-a durante segundos, completou:</p>
 <p>-- estou-me mangando, sabe?...</p>
 <p>O ministro da marinha, o mais offendido pelo despreso desdenhoso de Carlos de Mendonça, pronunciou:</p>

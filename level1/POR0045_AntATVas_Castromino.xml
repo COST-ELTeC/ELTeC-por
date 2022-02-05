@@ -21,15 +21,8 @@
 <extent>
 <measure unit="words">86063</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-</publicationStmt>
+<publicationStmt><publisher ref="https://distant-reading.net">COST Action "Distant Reading for European
+                Literary History" (CA16204)</publisher><distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2020-03-08"/><availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability><ref type="doi" target="https://doi.org/10.5281/zenodo.3462435"/></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <author>Antonio Augusto Teixeira de Vasconcellos</author>
 <title>A ermida de Castromino</title>
@@ -66,8 +59,7 @@
 </textDesc>
 
 </profileDesc>
-<revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change><change when="2020-03-08">Checked by checkup
+<revisionDesc><change when="2020-03-08">Checked by checkup
                 script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-15">Checked by releaseChecker script</change><change when="2019-10-10">Checked by releaseChecker script</change>
 <change when="2019-07-20">Adicionado à coleção ELTeC</change>
 </revisionDesc>
@@ -106,8 +98,8 @@
 <l>Nem com lágrimas tristes se mitiga, </l>
 <l>É porque queres, áspero e tyranno, </l>
 <l>Tuas aras banhar em sangue humano. </l>
-<l>Luziadas. C. III. Est. CXIX. </l>
 </quote>
+<p>Luziadas. C. III. Est. CXIX. </p>
 </div>
 </front>
 <body>
@@ -381,8 +373,7 @@
 <p>-- Mas então que quer que eu faça? </p>
 <p>-- Quero que não desanime, e que salvemos a casa que é o futuro de sua filha. O amor paternal deve alentar-lhe os brios. </p>
 <p>-- E alenta sim, disse Manuel de Oliveira limpando as lágrimas e indo sentar-se na cadeira. Aqui me tem prompto para tudo, excepto para dirigir. Tenho a cabeça perdida. Caí de mui alto, meu caro amigo !</p>
-<p>Ainda não caiu, nem ha de cair, espero em Deus. Eu dirigirei, mas escreva a Salvador Lopes. É o primeiro capitalista do Rio Janeiro e não o seria por certo sem o auxílio que v. ex.a lhe prestou tanto em Angola como no Brazil. Conte-lhe que a sua casa está em crise, mas que se pode salvar com diligência e boa direcção. Não lhe peça nada. Eu é que na minha carta lhe hei de</p>
-<p><gap/></p>
+<p>Ainda não caiu, nem ha de cair, espero em Deus. Eu dirigirei, mas escreva a Salvador Lopes. É o primeiro capitalista do Rio Janeiro e não o seria por certo sem o auxílio que v. ex.a lhe prestou tanto em Angola como no Brazil. Conte-lhe que a sua casa está em crise, mas que se pode salvar com diligência e boa direcção. Não lhe peça nada. Eu é que na minha carta lhe hei de <gap/> </p>
 <p>Poucos minutos depois da partida de Manuel de Oliveira voltou o guarda-livros com o balanço. Era ainda avultado o activo da casa, porém a realisação forçada podia diminuil-o consideravelmente, e faltava dinheiro para o giro ordinário que apesar do crédito exigia grossos capitaes. </p>
 <p>Chegariam brevemente protestadas as letras de Hamburgo. O dinheiro de Londres parecia perdido. De que valia ter propriedades e depósitos de géneros, não se podendo liquidar e vender sem revelar grande mingua? Em caixa havia apenas vinte e cinco contos em metal, e cinco em acções que dariam perda. As letras por cobrar no reino inteiro não excediam a sessenta contos, e algumas deviam ser reformadas, se os acceitantes exigisissem, porque fora assim o ajuste. </p>
 <p>Caetano da Silva expondo a Henrique a situação da casa julgava infallível a quebra, mas dizia que o sr. Oliveira não estava preparado para ella, e que a posição era perigosa; muito perigosa para a honra do fallido. Não sei se accusava o velho por não ter seguido os seus cônscios. É costume de quantos assistem a grandes desastres que não saberiam ter evitado, e para os quaes ás vezes contribuiram, darem o coice do asno no leão moribundo !</p>
@@ -1161,7 +1152,7 @@
 <p>Dominados pelo sentimento religioso ajoelharam os viajantes logo nas primeiras lages da egreja, e depois de breve oração espalharam-se a examinar aquella admirável fábrica. Salvador Lopes seguiu para o altar mor. A tia ajoelhou de novo onde uma alâmpada accesa indicava a presença do Santíssimo Sacramento, e D. Anna acompanhada por Henrique de Mello entrou na capella do fundador, que fica á mão direita ao penetrar no templo. </p>
 <p>Pararam ambos á porta a contemplar o quadro grandioso d'aquelle jazigo real. No centro os dois formosos túmulos de D. João I e da virtuosa rainha D. Filippa de Lencastre, e em derredor os mausoleos onde repoisam as cinzas dos esclarecidos príncipes seus filhos, D. Pedro duque de Coimbra, o regente do reino ; D. Henrique duque de Vizeu, o descobridor de novas terras ; D. João, o mestre de S. Thiago, de quem foi neto el-rei D. Manuel; e D. Fernando, o mestre de Aviz, mais conhecido pelo cognome de Infante Santo. </p>
 <p>Adiantou-se D. Anna até ao tumulo de D. João I, e examinou-o por todos os lados. Depois repoisou uma das mãos no friso da campa, e cubrindo com a outra ambos os olhos, ficou por largo espaço immovel como se a tivera assaltado de repente algum pensamento doloroso. Permanecera Henrique de Mello à porta da capella, mas observando os movimentos de D. Anna, e temendo que a compleição débil da mulher de Salvador Lopes não pudesse vencer qualquer abalo nervoso, caminhou para ella e perguntou-lhe carinhosamente se algum padecimento inesperado a incommodara. D. Anna tirou a mão dos olhos onde borbulhavam lágrimas, e apontando para a divisa real inscripta na parte superior do tumulo de D. João I, repetiu pausadamente com os olhos fitos no apaixonado mancebo: <foreign xml:lang="fr"> Il me plait pour bien. </foreign> Subjugado pela força eléctrica do amor Henrique ajoelhou tomando a mão com que D. Anna apontara para as letras inscriptas no tumulo real, e beijando-a ardentemente. </p>
-<p>-- <foreign xml:lang="fr"> Pour bien, </foreign>tornou a repetir com grande seriedade a discreta senhora depois de breve silêncio, durante o qual não retirou a mão que lhe tomara Henrique de Mello. <foreign xml:lang="fr"> Je me plait pour bien </foreign>, proseguiu D. Anna, era a divisa do rei que mais presou a honra conjugal e a pureza dos costumes. </p>
+<p>-- <foreign xml:lang="fr"> Pour bien, </foreign> tornou a repetir com grande seriedade a discreta senhora depois de breve silêncio, durante o qual não retirou a mão que lhe tomara Henrique de Mello. <foreign xml:lang="fr"> Je me plait pour bien </foreign> , proseguiu D. Anna, era a divisa do rei que mais presou a honra conjugal e a pureza dos costumes. </p>
 <p>-- Perdão, murmurou Henrique pondo-se em pé e largando a mão de D. Anna; mas bem sabe que não pode haver pensamento mau junto do sepulchro de D. Filippa de Lencastre. </p>
 <p>-- Bem sei ; bem sei. Já vai longe o tempo em que o sr. Henrique de Mello para distrair meu honrado pae lhe lia e explicava o Leal Conselheiro de el-rei D. Duarte, e nos fazia notar a todos que, segundo rezava o livro, não havia na corte de D. Filippa uma única dama a quem ousasse macular a calumnia. </p>
 <p>-- Ditosos serões esses ! interrompeu mui commovido Henrique de Mello. </p>
@@ -1175,7 +1166,7 @@
 <p>Seguiram todos a Salvador Lopes, e depois de verem as capellas imperfeitas, projectado mausoleo de el-rei D. Manuel, voltaram a Leiria e no dia seguinte partiram por Alcoentre e Rio Maior para Villa Nova da Rainha onde então os vapores do Ribatejo recebiam os viandantes e placidamente os levavam a Lisboa. </p>
 <p>Em attenção á tia de D. Anna, ficou para outra vez a viagem a Thomar e a Alcobaça. A pobre velha, indifferente a todas as preciosidades archeologicas, já não podia ver mais castellos arruinados, nem egrejas antigas. Não havia gala da natureza que lhe excitasse o espírito, e que a consolasse das amarguras da viagem. Ralavam-na as saudades do seu espaçoso quarto ; e do conforto do palácio de Salvador Lopes fallava constantemente. Santa mulher, para estar muito socegada em Coimbra onde só lhe atormentavam o espírito as insolentes malícias de Álvaro de Araújo e os carinhos fingidos de D. Christina, mas de todo o ponto incapaz de supportar com resignação os incommodos das jornadas longas. </p>
 <p>Teria adoecido, se a bondade de Salvador Lopes não abreviasse a viagem, assegurando-lhe que nunca mais se affaistaríam da estrada para visitar monumentos ou descobrir horisontes dilatados. Confiada em tão agradável promessa, não se queixou mais até Vila Nova da Rainha, e quando Henrique de Mello, aproximando da caleça o cavallo, lhe perguntava se ia melhor, respondia sempre com agrado na doce esperança de avistar o Tejo que lhe daria por findos aquelles martyrios. </p>
-<p>Causara profundo abalo em Henrique de Mello a conversação que tivera com D. Anna, e a infeliz senhora não ficara menos commovida. Recostada no canto da berlinda ao lado de Salvador Lopes, só lhe vinha á idéa a divisa de D. João I : <foreign xml:lang="fr"> Je me plait pour bien </foreign>. Encontrara a frase que melhor justificava o seu amor, e que mais fortalecia os deveres sagrados a que se ligara, mas descobrira igualmente a immensa grandeza do affecto que, á força de compressão e de reserva, lhe fôra minando todo o coração. Na austeridade das palavras ditas a Henrique junto do sepulchro de D. Filippa consumira a força inteira da sua alma. Sentia-se agora fraca e invocava o auxilio de Deus. </p>
+<p>Causara profundo abalo em Henrique de Mello a conversação que tivera com D. Anna, e a infeliz senhora não ficara menos commovida. Recostada no canto da berlinda ao lado de Salvador Lopes, só lhe vinha á idéa a divisa de D. João I : <foreign xml:lang="fr"> Je me plait pour bien </foreign> . Encontrara a frase que melhor justificava o seu amor, e que mais fortalecia os deveres sagrados a que se ligara, mas descobrira igualmente a immensa grandeza do affecto que, á força de compressão e de reserva, lhe fôra minando todo o coração. Na austeridade das palavras ditas a Henrique junto do sepulchro de D. Filippa consumira a força inteira da sua alma. Sentia-se agora fraca e invocava o auxilio de Deus. </p>
 <p>Meditava Henrique de Mello no que passara com D. Anna, e só previa martyrio incessante e muito prolongado. Não receava deixar-se vencer pela paixão a ponto de faltar aos seus deveres. Permanecia intacta a honrada firmeza do seu caracter, e apurava-se nas occasiões de perigo, mas a severidade de D. Anna de Oliveira figurava-se-lhe mais cinza de amor extincto que sacrifício heróico do sentimento á voz da consciência e aos extremos da pureza virginal. E na mente desvairada pelo amor accusava-a de ingratidão, de leviandade, e até de nimia admiração pelas virtudes de Salvador Lopes ! Depois a si próprio se reprehendia de tão indignas cogitações, e ficava envergonhado, roído de salutares remorsos. </p>
 <p>Tristes consequências da situação anómala em que as círcumstancias os tinham collocado a todos ! </p>
 </div><div type="chapter"><head>XXIX</head>
@@ -1288,7 +1279,7 @@
 <p>Era a nobresa reagindo pela superioridade da rasão e pelo desprezo dos preconceitos contra a aniquilação da sua classe ! </p>
 <p>Não se queixavam tanto á puridade as tias que as não ouvissem dois ou três mancebos, formados ha pouco na universidade, cujos avós nem tinham estado na conquista de Lisboa por D. Affonso Henriques, nem sequer haviam acompanhado ás amorosas jornadas de Odivelas o piedoso rei D. João V. </p>
 <p>-- Teem graça estas fidalgas, exclamava um. Nem que fosse por culpa nossa que os seus filhos e sobrinhos valem pouco ! Elles nao estudam, não se habilitam para o exercito, nem para a marinha, nem para a política, nem para as letras, e depois queixam-se de que a burguesia e o povo sulcam aos primeiros cargos do Estado! Era o que faltava se o paiz tinha de esperar que a nobreza aprendesse a ler! </p>
-<p>-- Fallas como um livro ! observava outro. Não somos o que os francezes chamam parvenus, e até nem se pode dizer que sejamos arrivés, como dizia de Thiers o príncipe de Talleyrand. Não assaltamos os logares. Somos chamados á falta de homens ! <foreign xml:lang="fr"> Nous sommes appelés </foreign>, meus amigos ...!</p>
+<p>-- Fallas como um livro ! observava outro. Não somos o que os francezes chamam parvenus, e até nem se pode dizer que sejamos arrivés, como dizia de Thiers o príncipe de Talleyrand. Não assaltamos os logares. Somos chamados á falta de homens ! <foreign xml:lang="fr"> Nous sommes appelés </foreign> , meus amigos ...!</p>
 <p>-- Bravo, clamaram todos. <foreign xml:lang="fr"> Nous sommes appellés !</foreign></p>
 <p>-- É isso ; é. Quando os fidalgos da corte, accrescentou o terceiro mancebo, eram talhados pela medida do conde da Ericeira, subiam a força de valor aos mais elevados postos da milicia, e se depunham a espada para lançar mão da penna, escreviam discretamente a história da pátria. Os cavalheiros das províncias, a serem como António de Souza de Macedo, obtinham as mais honrosas e difíceis enviaturas. E o filho do mercieiro ficava na tenda porque valia menos que o fidalgo. </p>
 <p>-- Perfeitamente, disse o primeiro. João das Regras não era fidalgo e chegou a ministro do rei. Também foi dos chamados ! O duque da Terceira ganhou do campo da batalha o posto de marechal, e nenhum plebeu lhe invejou o bastão. Nós não affastamos ninguém. Podem dispensar-nos? Pois não chamem por nós. </p>
