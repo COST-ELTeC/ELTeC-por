@@ -22,15 +22,7 @@
 <extent>
 <measure unit="words">43928</measure>
 </extent>
-<publicationStmt>
-<publisher ref="https://distant-reading.net">COST Action "Distant Reading for European Literary History" (CA16204)</publisher>
-<distributor ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor><date when="2021-04-09"/>
-<availability><licence target="https://creativecommons.org/licenses/by/4.0/"/></availability>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">ELTeC</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4662444">ELTeC release 1.1.0</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.3492067">ELTeC-por</ref>
-<ref type="doi" target="https://doi.org/10.5281/zenodo.4288235">ELTeC-por release 2.0.0</ref>
-<!--Added to ELTeC repo on 6-4-2020--></publicationStmt>
+<publicationStmt><p>Added to ELTeC repo on <date>6-4-2020</date></p></publicationStmt>
 <sourceDesc><bibl type="digitalSource">
 <title>Arzilla: romance do século XV</title> 
 <author>Bernardino Pereira Pinheiro</author>
@@ -62,7 +54,6 @@
 
 </profileDesc>
 <revisionDesc>
-<change when="2021-04-09">Converted by checkUp script for new release</change>
 <change when="2020-04-06">Adicionado à coleção ELTeC</change>
 </revisionDesc>
 </teiHeader>
@@ -419,8 +410,7 @@
 <p>«Se quereis saber notícias de Jorge, -- resava o escripto, -- e cousas que muito vos interessam, ide esta noite ás horas do côro ao confessionario que  fica perto da sacristia.»  </p>
 <p>A lettra não parecia de Fr. José, e comtudo o escripto era d'elle e para ella. Rosalinda ficou irresoluta: para que desejava o padre uma conferencia nocturna e ás occultas, elle, que lhe podia ter fallado na grade, mesmo sem a abbadessa ouvir, pois, sob qualquer pretexto, a teria afastado?  </p>
 <p>Porém o desejo vivissimo de saber de Ruy, mesmo mysterio da missiva, uma curiosidade inexplicavel, e que não lhe era propria, tudo a instigava a ir. Agitada e impaciente passou na cella duas longas horas que faltavam para o momento aprasado.  </p>
-<p>Por fim entre receiosa, assustada e alegre, ouviu o sino tocar para a resa, e cada badalada lhe echoou no coração. Trémula de anciedade escutou á porta da cella até ao último echoar dos passos das religiosas que se dirigiam ao côro, e, quando reinou o silencio n'aquella parte do mosteiro, Rosalinda abriu a porta, e sahiu.</p>
-<p> <gap/> intelligencia mais perspicaz, um pensar mais profundo, um coração que sentia com mais vivacidade a dor e a alegria, os desejos e as paixões. Porém, para occultar tudo isto, e lhe duplicar a fôrça, pois a condensava e tornava assim toais potente, possuia um rosto onde se não desprendia um sorriso, os olhos nada exprimiam, um musculo não se agitava sem que elle, e mui determinadamente, o quizesse. Li por dentro, bem no fundo d'alma, é que se davam os renhidos combates, é que furioso fervia e bramia o vulcão.  </p>
+<p>Por fim entre receiosa, assustada e alegre, ouviu o sino tocar para a resa, e cada badalada lhe echoou no coração. Trémula de anciedade escutou á porta da cella até ao último echoar dos passos das religiosas que se dirigiam ao côro, e, quando reinou o silencio n'aquella parte do mosteiro, Rosalinda abriu a porta, e sahiu <gap/> intelligencia mais perspicaz, um pensar mais profundo, um coração que sentia com mais vivacidade a dor e a alegria, os desejos e as paixões. Porém, para occultar tudo isto, e lhe duplicar a fôrça, pois a condensava e tornava assim toais potente, possuia um rosto onde se não desprendia um sorriso, os olhos nada exprimiam, um musculo não se agitava sem que elle, e mui determinadamente, o quizesse. Li por dentro, bem no fundo d'alma, é que se davam os renhidos combates, é que furioso fervia e bramia o vulcão.  </p>
 <p>Era comtudo a custo, repito, que operára agora aquella grande fôrça. Parece risivel, mas é verdade, tinham-na feito vacillar os olhos de Rosalinda. Já o  disse na primeira parte d'este livro: findam estremecer d'amor quem olhava para elles. Eram um podêr demasiado para uma creatura tão singela, e por isso só serviam a prejudical-a.  </p>
 <p>E aquelles olhos sem o quererem, nem mesmo o saberem, tinham inspirado ao frade um tal affecto, que lhe repassára todas as fibras do coração, lhe ascendêra ao cerebro e o escaldava.  </p>
 <p>Porém mesmo quando livre do magnetismo indefinivel d'aquelle olhar, e acalmada a ardencia de seus desejos, elle tinha pela donzella uma intima sympathia, uma affeição grande, mas pura, que pela primeira vez observava em si, e que o sabio não sabía explicar.  </p>
@@ -755,8 +745,7 @@
 <p>-- Mas tu, continuou o duque, não tens causa real para afflicções e prantos...  </p>
 <p>-- Não tenho, meu querido thio!... pois em mez e meio apenas me escreveu aquelle fatal bilhete de despedida, e depois duas pequenas cartas em que nada quasi me dizia!... e o que é peior não saber se está mais doente do que estava... o que presumo, pois não é homem para ficar no remanso da paz quando vão para a peleja os seus compatriotas! E não vae!... por certo que não vae na armada, que ao embarcar ter-se-ia apresentado a vós... pois a mim!... ai! meu thio, bem receio que me tenha olvidado.  </p>
 <p>-- Pois não te olvidou, Arminhas, e vaes ter d'esta verdade a mais evidente prova.  Voltou-se para a porta, e, elevando a voz, disse:  </p>
-<p>-- Entrae.  Então rapidamente affastou-se o reposteiro, e Jorge Ruy penetrou no camarim.</p>  
-<p><gap/> melancholias, lagrimas e espasmos têm sido o seu habitual estado desde que nos deixaste. Não se entendem com tal doença os physicos do reino; do mal que ella padece só tu és o medico. Cura-a com o teu amor; na guerra te farei cavalleiro, e depois a benção da egreja vos unirá a ambos.  Então um escudeiro particular do duque lhe veio dizer que da nau almirante faziam signal para que fôsse fallar a el-rei.  </p>
+<p>-- Entrae.  Então rapidamente affastou-se o reposteiro, e Jorge Ruy penetrou no camarim <gap/> melancholias, lagrimas e espasmos têm sido o seu habitual estado desde que nos deixaste. Não se entendem com tal doença os physicos do reino; do mal que ella padece só tu és o medico. Cura-a com o teu amor; na guerra te farei cavalleiro, e depois a benção da egreja vos unirá a ambos.  Então um escudeiro particular do duque lhe veio dizer que da nau almirante faziam signal para que fôsse fallar a el-rei.  </p>
 <p>D. Fernando levantou-se e sahiu.  </p>
 <p>Jorge ainda não tinha dicto uma palavra, estava tão enleado como D. Anna. Mas, vendo-se a sós com ella, o mancebo animou-se; ajoelhou juncto da donzella, e, tomando-lhe uma das mãos, beijou-a com ternura dizendo:  </p>
 <p>-- Perdoa-me ter-te feito soffrer tanto.  </p>
@@ -871,8 +860,7 @@
 <p>Uma galé e alguns navios mais pequenos, que excessivamente se approximaxam de terra, despedaçaram-se nos rochedos. Duzentas pessoas, entre ellas oito fidalgos e muitos cavalleiros e escudeiros, alli acabaram a vida n'aquelle batalhar com as ondas.  </p>
 <p>Mas foi vencida a tormenta; os bateis alcançaram um espaço de praia mais limpo de pedras; e o rei e o exercito ahi effectuaram o desembarque.  Na manhan d'esse mesmo dia se começou a assentar o arraial defronte dos muros da mourisca Arzilla.</p>
 </div><div type="chapter"><head>VIII</head>
-<p>TOMADA D'ARZILLA</p>
-<p><gap/> inundar a Europa. Enamoraram-te os jardins, as searas, os pomares e olivaes das Hispanhas, e, para mais productivo lhes tornar o solo, passaste o ferro  do arado arabe sôbre o cadaver dos Wisigodos.  </p>
+<p>TOMADA D'ARZILLA <gap/> inundar a Europa. Enamoraram-te os jardins, as searas, os pomares e olivaes das Hispanhas, e, para mais productivo lhes tornar o solo, passaste o ferro  do arado arabe sôbre o cadaver dos Wisigodos.  </p>
 <p>Mas em breve soou a hora da vingança: os soldados de Christo fizeram-te recuar, passo a passo, e, com a vermelha cruz no hombro, foram até a Syria cravar-te a espada no coração.  </p>
 <p>Os nobres filhos dos heroes das Asturias derribaram uma a uma as tuas meias luas na peninsula.  </p>
 <p>Agora o dourado crescente ismaelita apenas se divisa nas rendadas torres de Granada. Arrancal-o d'alli só compete ao castelhano. Nós, os senhores do lado occidental das Hispanhas, ha muito acabámos aqui essa triumphante ceifa.</p>
@@ -1140,3 +1128,4 @@
 </body>
 </text>
 </TEI>
+
