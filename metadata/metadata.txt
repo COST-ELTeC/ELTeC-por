@@ -59,7 +59,7 @@ POR0057,1849,T2,short,unspecified,António Pedro Lopes de Mendonça,Memorias d'u
 POR0058,1895,T3,medium,low,Alberto Pimentel,A guerrilha de Frei Simão: Romance histórico,71342,M,Gutenberg,Lisboa,hist
 POR0059,1875,T2,medium,low,António Francisco Barata,Um duelo nas sombras ou D. Francisco Manuel de Melo (1630),50041,M,archive,Lisboa,hist
 POR0060,1881,T3,short,unspecified,Fialho de Almeida,A ruiva,24804,M,Luso-livros,desc,nao
-POR0061,1871,T2,short,low,Lopo de Souza, pseudónimo de Ana Plácido,Herança de lágrimas,48924,F,BN,Guimarães,nao
+POR0061,1871,T2,short,low,Lopo de Souza - pseudónimo de Ana Plácido,Herança de lágrimas,48924,F,BN,Guimarães,nao
 POR0062,1908,T4,short,low,Ana de Castro Osório,Diário de uma criança,18320,F,Gutenberg,Coimbra,nao
 POR0063,1870,T2,medium,high,Ramalho Ortigão e Eça de Queirós,O Mistério da Estrada de Sintra,67358,M,Luso-livros,Lisboa,nao
 POR0064,1873,T2,short,low,António Francisco Barata,O Manuelinho de Évora,47374,M,archive,Coimbra,hist
