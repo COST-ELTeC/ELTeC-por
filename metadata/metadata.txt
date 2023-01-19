@@ -57,7 +57,7 @@ POR0055,1904,T2,medium,low,Alberto Pimentel,O Anel Misterioso: Cenas da Guerra P
 POR0056,1892,T3,short,low,Alice Moderno,O Dr. Luís Sandoval,20951,F,hathi,Ponta Delgada,nao
 POR0057,1849,T2,short,unspecified,António Pedro Lopes de Mendonça,Memorias d'um doido: romance contemporâneo,33556,M,BN,Lisboa,nao
 POR0058,1895,T3,medium,low,Alberto Pimentel,A guerrilha de Frei Simão: Romance histórico,71342,M,Gutenberg,Lisboa,hist
-POR0059,1875,T2,medium,low,António Francisco Barata,Um duelo nas sombras, ou D. Francisco Manuel de Melo (1630),50041,M,archive,Lisboa,hist
+POR0059,1875,T2,medium,low,António Francisco Barata,Um duelo nas sombras ou D. Francisco Manuel de Melo (1630),50041,M,archive,Lisboa,hist
 POR0060,1881,T3,short,unspecified,Fialho de Almeida,A ruiva,24804,M,Luso-livros,desc,nao
 POR0061,1871,T2,short,low,Lopo de Souza, pseudónimo de Ana Plácido,Herança de lágrimas,48924,F,BN,Guimarães,nao
 POR0062,1908,T4,short,low,Ana de Castro Osório,Diário de uma criança,18320,F,Gutenberg,Coimbra,nao
