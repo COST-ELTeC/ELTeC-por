@@ -94,7 +94,7 @@ POR0092,1878,T2,medium,low,Urbano Loureiro,A infâmia de Frei Quintino,58655,M,B
 POR0093,1874,T2,medium,low,Anna Maria Ribeiro de Sá,Matilde,55384,F,BN,Lisboa,nao
 POR0094,1862,T2,short,low,Bernardino Pereira Pinheiro,Arzila: Romance do Século XV,43928,M,archive,Coimbra,hist
 POR0095,1905,T4,medium,low,Alfredo de Mesquita,A rua do oiro,55904,M,archive,Lisboa,nao
-POR0096,1858,T1,short,low,Manoel da Cruz Pereira Coutinho,Elvenda, ou Conquista de Coimbra por Fernando Magno,47077,M,archive,Coimbra,hist
+POR0096,1858,T1,short,low,Manoel da Cruz Pereira Coutinho,Elvenda ou Conquista de Coimbra por Fernando Magno,47077,M,archive,Coimbra,hist
 POR0097,1906,T4,long,low,Francisco Barros Lobo,O Tio João Gil,125845,M,archive,Lisboa,nao
 POR0098,1901,T4,short,low,Augusto Loureiro,A bruxa: cenas açorianas,42477,M,archive,Lisboa,nao
 POR0099,1903,T4,medium,low,Ana de Castro Osório,Ambições,77224,F,BN,Lisboa,nao
